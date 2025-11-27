@@ -4,16 +4,23 @@
 
 
 - [vscode extension](#vscode-extension)
+- [](#)
 - [todo ...  existing recommended vscode extenstions to insert timestamp ... to track symptoms in markdown files](#todo---existing-recommended-vscode-extenstions-to-insert-timestamp--to-track-symptoms-in-markdown-files)
 - [ai generated symptom tracking log](#ai-generated-symptom-tracking-log)
 - [2025-11-04](#2025-11-04)
 - [2025-11-13](#2025-11-13)
-- [](#)
+- [](#-1)
 - [2025-11-17](#2025-11-17)
-	- [](#-1)
 	- [](#-2)
 	- [](#-3)
+- [2025-11-27](#2025-11-27)
+- [I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition](#i-am-a-human-with-anxiety-disorder-autism-spectrum-disorder-underweight-malnutrition)
 	- [](#-4)
+	- [](#-5)
+- [https://mail.google.com/chat/u/0/#chat/space/AAAAkg0JJJc](#httpsmailgooglecomchatu0chatspaceaaaakg0jjjc)
+- [I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition](#i-am-a-human-with-anxiety-disorder-autism-spectrum-disorder-underweight-malnutrition-1)
+	- [my ... human patient, interrupt handling](#my--human-patient-interrupt-handling)
+	- [](#-6)
 	- [disk full](#disk-full)
 - [Z hlediska roku 2026, 2030, 2040 💚⏰!](#z-hlediska-roku-2026-2030-2040-)
 - [udržet tělesnou váhu (mám značnou podváhu a podvýživu) 💚⏰!](#udržet-tělesnou-váhu-mám-značnou-podváhu-a-podvýživu-)
@@ -157,6 +164,47 @@ voda z okapu by mohla dělat problémy
 ## 
 251117
 placený Gemini spočítal integrál
+
+
+
+
+# 2025-11-27
+
+trenovani AI modelu naprogramovano od sama sobe je tezky debugovat
+
+👍
+
+
+já, jako Ty,  tento týden také něco debuguju
+
+//// dneska např. moje bugy číslo 251127 a  0148
+// nejtěžší mi připadají bugy v mojí životní rutině
+
+
+o víkendu snad napíšu víc
+
+
+# @jb chat jde zalezt . edit last  .   klavesnice up arrow 
+
+@ed 
+# žít svůj sen
+youtube 
+https://www.youtube.com/watch?v=vCMr76HuNzk
+
+
+# // nejtěžší mi připadají bugy v mojí životní rutině
+
+ai generated mostly
+
+//// např. jak si udržet váhu, když antidepressanty způsobují nechutenství
+//// jak si udržet duševní zdraví, když mám úzkostnou poruchu a poruchu autistického spektra
+//// jak si udržet energii, když 
+//// jak si udržet pozornost, když mě rodiče ...
+//// jak si udržet motivaci, když mám depresi a anhedonii
+//// jak si udržet smysl života, když
+//// jak si udržet vztahy, když 
+//// jak si udržet naději, když 
+
 
 # I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition
 

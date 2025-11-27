@@ -5,6 +5,10 @@
 # file:///C:\Users\marti\OneDrive\gitignore-test.f8.sh.ps1
 
 
+# i have fixed bug 251127.13  nested .gitignore files in OneDrive Dokumenty folder ... more comments in other files
+
+
+
 # Ignore all files
 *
 
