@@ -26,6 +26,48 @@ d/GIT-bk04/marti-onedrive-2600-409.21.git
 
 
 
+
+# git   diagnostics   # a few lines copied from  # from C:\Users\marti\OneDrive\backup-f8\backup--startup,cp,onedrive,cpio,acronis,github,diigo.f8.sh
+
+cd D:/0004-LINKS/OneDrive
+q
+	git show  -v
+
+## mystery 251127.20  maybe obsolete now
+```sh
+grep worktree /d/GIT-bk04/*.git/config
+set | grep GIT_| head -n 10
+
+code ../1
+
+ls ~/OneDrive/Dokumenty
+
+cp  -iv   ../1  ~/OneDrive/Dokumenty/git-status-251127.20-1.f8.txt
+   ../git-status-251127.20-1.f8.txt
+	
+#	git status -vv
+
+	git status -v
+	
+	 >../1
+	git status | head -n 450
+	git status | tail -n 29 | head -n 20
+	git log
+q	
+git whatchanged -p --abbrev-commit --pretty=medium
+
+	git gui &
+	# menu Visualize
+gitk &
+#q gh desktop
+10000 changed files
+
+```
+
+
+
+
+
 # find | wc -l
 failed
 	cd ..
@@ -76,6 +118,45 @@ what are sorting options of find command
 
 
 
+
+
+
+
+
+# 251127.22  fixed # a few lines copied from 
+C:\Users\marti\OneDrive\Dokumenty\obsidian.md.dir\intermediate\final-cmd-2600-409.1551.f8.cmd
+and heavily modified
+
+```sh
+
+cd /d/0004-LINKS/
+   git clone     --separate-git-dir=/d/GIT-bk04/marti-onedrive-2600-251127.git      https://github.com/martin12333/marti-onedrive.git
+
+
+now  i
+was foolish ...2gb
+	with done todo 21:48
+	mv -iv  OneDrive  OneDrive-409.21
+	mv -iv marti-onedrive OneDrive
+   
+   revert
+mv -iv  OneDrive marti-onedrive   
+mv  -iv  OneDrive-409.21  OneDrive
+
+
+mv -iv marti-onedrive/.git OneDrive/.git
+
+delete by hand marti-onedrive because of 2gb size
+
+
+
+#   409.21.git
+   
+###set GIT_DIR=/d/GIT-bk04/marti-onedrive-2600-409.21.git
+   
+###   $GIT_DIR 
+
+```
 
 
 
@@ -277,4 +358,77 @@ now try edit the .f5.sh files to use the default git-dir
 cd /d/0004-LINKS/OneDrive
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# next phase after pokus251127_19  maybe obsolete now
+
+#Robocopy.exe   C:\Users\marti\OneDrive  D:\0004-LINKS\OneDrive      /s   /XJ    
+
+```sh
+
+ls D:/0004-LINKS/OneDrive/renamed.f5.git
+cp -iv D:/0004-LINKS/OneDrive/renamed.f5.git  D:/0004-LINKS/OneDrive/.git
+
+
+
+mv -iv D:/0004-LINKS/OneDrive/.git  D:/0004-LINKS/OneDrive/251127-bug.git
+
+
+cd -
+cd  D:/0004-LINKS/OneDrive
+git status
+git status
+```
+
+
+# pokus251127_19  maybe obsolete now
+
+
+
+
+
+"D:\GIT-bk04\pokus251127_19.git"
+# export GIT_DIR=/d/GIT-bk04/marti-onedrive-2600-409.21.git  ;   export GIT_WORK_TREE=/d/0004-LINKS/OneDrive
+
+ok, git can handle one LF char at the end of the file "D:\GIT-bk04\251127\.git"
+
+LF--marti-onedrive-2600-409.21.git
+
+
+cd ..
+mkdir pokus251127_19
+cd pokus251127_19
+
+init
+```sh
+bash
+git init --separate-git-dir=/d/GIT-bk04/pokus251127_19.git
+
+git ls-files -vv | wc -l
+
+cd "D:\GIT-bk04\251127"
+"
+```
+
+
+
+
+
+
+
+
 
