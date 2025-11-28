@@ -1,8 +1,25 @@
 
 # todo edit .gitignore 10000 changed files in marti-onedrive-2600-251127.git
 
+start code.exe window maximized 
+start task manager maximized
+from the command line
+# ai
+
+exit
+pwsh
+```pwsh
+start-process code -ArgumentList "c:/Users/marti/OneDrive/" -WindowStyle Maximized
+
+start-process taskmgr -WindowStyle Maximized
+
+```
 
 
+cd D:\0004-LINKS\OneDrive
+start 
+
+```
 
 # invariant
 
