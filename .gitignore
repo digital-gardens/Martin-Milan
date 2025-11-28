@@ -10,9 +10,8 @@
 # but not directories
 !*/
 
-## But not markdown files
+## But not my publ  files
 #!*.md
-
 !*.f[0-9].*
 !*.f1[0-9].*
 !*.publ.*
