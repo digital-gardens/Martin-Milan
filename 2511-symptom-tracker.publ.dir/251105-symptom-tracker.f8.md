@@ -216,7 +216,7 @@ https://keep.google.com/#NOTE/1zF_hBgR1_r22a7HiTGYRBXF873cWhVTbxDxBp8ZykEKS3KwjW
 
 "C:\Users\marti\OneDrive\Dokumenty\ai-prompts.ai.md.dir\efe9dd4c1a5a6a90b2ff8e7e56952dc03ec4b6ff73e4e18041da8fe05fcbdbe0-2025-09-27-10-43-38-ff3d3ce70b8b43a8aae6b9cc21f1eef3\ChatGPT Data Export.r8.html"
 1M uploaded file to ChatGPT
-
+https://chatgpt.com/g/g-p-68f38803ce6c8191aabd261a3bec5860-02x-03x-06x-07x/project
 
 "C:\Users\marti\OneDrive\Dokumenty\ai-prompts.ai.md.dir\gpt-export--250919-Android AppBlock StayFree health breaks Daily usage limit app.r8.md"
 "C:\Users\marti\OneDrive\Dokumenty\ai-prompts.ai.md.dir\chat-with-people-about-ai.r8.md"
@@ -226,15 +226,197 @@ https://keep.google.com/#NOTE/1zF_hBgR1_r22a7HiTGYRBXF873cWhVTbxDxBp8ZykEKS3KwjW
 
 
 
+ℹ️ℹ️ℹ️ 250827 Rule of Two-or-Three Hits .Antifragile and Agile concepts
 
 
 
 
 
 
+Co si přeješ udělat dál?</div></pre></div><div class="conversation"><h4>Lékařský recept analýza</h4><pre class="message"><div class="author">user</div><div>
 
+[File]: <a href="file-HMohQt.......fAk9ZXJ-20190322_222138.jpg">file-HMohQts.......fAk9ZXJ-20190322_222138.jpg</a></div></pre><pre class="message"><div class="author">ChatGPT</div><div>Vidím, že je to český lékařský recept vystavený 6. 3. 2019 na dvě léčiva:
 
+- **Olwexya 75 mg CPS PRO 28** – 1× denně (D.S.: 1-0-0), originální balení č. III (tres!).
+- **Mirzaten Oro 15 mg POR TBL DIS 30** – čtvrt tablety večer (D.S.: 0-0-1/4), originální balení č. I (unam).
 
+Je na něm vaše jméno, rodné číslo, adresa a další osobní údaje, takže pokud ho budete sdílet, je dobré tyto části anonymizovat.  
+
+Chcete, abych vám k nim doplnil účinky a použití těchto léků?</div></pre></div><
+
+```json
+{
+  "title": "L\u00e9ka\u0159sk\u00fd recept anal\u00fdza",
+  "create_time": 1755141917.274674,
+  "update_time": 1755141921.085928,
+  "mapping": {
+    "f249b607-4c5e-4ecf-894d-0cce3a1e58ff": {
+      "id": "f249b607-4c5e-4ecf-894d-0cce3a1e58ff",
+      "message": null,
+      "parent": null,
+      "children": ["c1356cca-0064-412a-8a5f-6af491879063"]
+    },
+    "c1356cca-0064-412a-8a5f-6af491879063": {
+      "id": "c1356cca-0064-412a-8a5f-6af491879063",
+      "message": {
+        "id": "c1356cca-0064-412a-8a5f-6af491879063",
+        "author": { "role": "system", "name": null, "metadata": {} },
+        "create_time": null,
+        "update_time": null,
+        "content": { "content_type": "text", "parts": [""] },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 0.0,
+        "metadata": { "is_visually_hidden_from_conversation": true },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "f249b607-4c5e-4ecf-894d-0cce3a1e58ff",
+      "children": ["bbb213a4-c0df-4300-9ca3-d76e173f99f3"]
+    },
+    "bbb213a4-c0df-4300-9ca3-d76e173f99f3": {
+      "id": "bbb213a4-c0df-4300-9ca3-d76e173f99f3",
+      "message": {
+        "id": "bbb213a4-c0df-4300-9ca3-d76e173f99f3",
+        "author": { "role": "user", "name": null, "metadata": {} },
+        "create_time": 1755141914.693279,
+        "update_time": null,
+        "content": {
+          "content_type": "multimodal_text",
+          "parts": [
+            {
+              "content_type": "image_asset_pointer",
+              "asset_pointer": "file-service://file-HMohQtsADwsdF4BfAk9ZXJ",
+              "size_bytes": 245944,
+              "width": 1080,
+              "height": 1920,
+              "fovea": null,
+              "metadata": {
+                "dalle": null,
+                "gizmo": null,
+                "generation": null,
+                "container_pixel_height": null,
+                "container_pixel_width": null,
+                "emu_omit_glimpse_image": null,
+                "emu_patches_override": null,
+                "lpe_keep_patch_ijhw": null,
+                "sanitized": true,
+                "asset_pointer_link": null,
+                "watermarked_asset_pointer": null
+              }
+            },
+            ""
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "content_references": [],
+          "search_result_groups": [],
+          "search_queries": [],
+          "image_results": [],
+          "real_time_audio_has_video": false,
+          "dictation": false,
+          "image_gen_async": false,
+          "trigger_async_ux": false,
+          "request_id": "96ed57fb0cd36e99-PRG",
+          "message_source": null,
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "c1356cca-0064-412a-8a5f-6af491879063",
+      "children": ["1dd792eb-6106-4053-9de3-197205ffb481"]
+    },
+    "1dd792eb-6106-4053-9de3-197205ffb481": {
+      "id": "1dd792eb-6106-4053-9de3-197205ffb481",
+      "message": {
+        "id": "1dd792eb-6106-4053-9de3-197205ffb481",
+        "author": { "role": "assistant", "name": null, "metadata": {} },
+        "create_time": 1755141914.7552378,
+        "update_time": null,
+        "content": { "content_type": "text", "parts": [""] },
+        "status": "finished_successfully",
+        "end_turn": null,
+        "weight": 1.0,
+        "metadata": {
+          "request_id": "96ed57fb0cd36e99-PRG",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "bbb213a4-c0df-4300-9ca3-d76e173f99f3",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "bbb213a4-c0df-4300-9ca3-d76e173f99f3",
+      "children": ["37f6bea9-2afc-424a-bd83-58af0ae8ed50"]
+    },
+    "37f6bea9-2afc-424a-bd83-58af0ae8ed50": {
+      "id": "37f6bea9-2afc-424a-bd83-58af0ae8ed50",
+      "message": {
+        "id": "37f6bea9-2afc-424a-bd83-58af0ae8ed50",
+        "author": { "role": "assistant", "name": null, "metadata": {} },
+        "create_time": 1755141914.775469,
+        "update_time": null,
+        "content": {
+          "content_type": "text",
+          "parts": [
+            "Vid\u00edm, \u017ee je to \u010desk\u00fd l\u00e9ka\u0159sk\u00fd recept vystaven\u00fd 6. 3. 2019 na dv\u011b l\u00e9\u010diva:\n\n- **Olwexya 75 mg CPS PRO 28** \u2013 1\u00d7 denn\u011b (D.S.: 1-0-0), origin\u00e1ln\u00ed balen\u00ed \u010d. III (tres!).\n- **Mirzaten Oro 15 mg POR TBL DIS 30** \u2013 \u010dtvrt tablety ve\u010der (D.S.: 0-0-1/4), origin\u00e1ln\u00ed balen\u00ed \u010d. I (unam).\n\nJe na n\u011bm va\u0161e jm\u00e9no, rodn\u00e9 \u010d\u00edslo, adresa a dal\u0161\u00ed osobn\u00ed \u00fadaje, tak\u017ee pokud ho budete sd\u00edlet, je dobr\u00e9 tyto \u010d\u00e1sti anonymizovat.  \n\nChcete, abych v\u00e1m k nim doplnil \u00fa\u010dinky a pou\u017eit\u00ed t\u011bchto l\u00e9k\u016f?"
+          ]
+        },
+        "status": "finished_successfully",
+        "end_turn": true,
+        "weight": 1.0,
+        "metadata": {
+          "finish_details": { "type": "stop", "stop_tokens": [200002] },
+          "is_complete": true,
+          "citations": [],
+          "content_references": [],
+          "request_id": "96ed57fb0cd36e99-PRG",
+          "message_type": "next",
+          "model_slug": "gpt-5",
+          "default_model_slug": "gpt-5",
+          "parent_id": "1dd792eb-6106-4053-9de3-197205ffb481",
+          "timestamp_": "absolute"
+        },
+        "recipient": "all",
+        "channel": null
+      },
+      "parent": "1dd792eb-6106-4053-9de3-197205ffb481",
+      "children": []
+    }
+  },
+  "moderation_results": [],
+  "current_node": "37f6bea9-2afc-424a-bd83-58af0ae8ed50",
+  "plugin_ids": null,
+  "conversation_id": "689d5714-8c98-8329-88e6-a0b6e42dbbe8",
+  "conversation_template_id": null,
+  "gizmo_id": null,
+  "gizmo_type": null,
+  "is_archived": false,
+  "is_starred": null,
+  "safe_urls": ["https://chatgpt.com/#settings/Connectors"],
+  "blocked_urls": [],
+  "default_model_slug": "gpt-5",
+  "conversation_origin": null,
+  "voice": null,
+  "async_status": null,
+  "disabled_tool_ids": [],
+  "is_do_not_remember": false,
+  "memory_scope": "global_enabled",
+  "context_scopes": null,
+  "sugar_item_id": null,
+  "sugar_item_visible": false,
+  "is_study_mode": false,
+  "owner": null,
+  "id": "689d5714-8c98-8329-88e6-a0b6e42dbbe8"
+}
+
+```
 
 
 
