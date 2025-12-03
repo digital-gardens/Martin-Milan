@@ -434,6 +434,26 @@ when gemini canvas makes a  single-page web application in JS for me ... can it
 
 
 
+# 2025-12-03
+
+recomp
+C:\Users\marti\OneDrive\Dokumenty\Doprava.f8.md
+
+#q
+how to get the disk size of windows indexing service database?
+powershell
+
+((Get-Item "$env:
+
+cmd /c dir %ProgramData%\Microsoft\Search\Data\Applications\Windows\
+cmd /c dir %ProgramData%\Microsoft\Search\Data\Applications\Windows\  /s /a
+
+Windows.db
+
+").Length / 1GB).ToString("N2") + " GB"
+
+
+
 # @jb chat jde zalezt . edit last  .   klavesnice up arrow 
 
 @ed 

@@ -659,6 +659,14 @@ a
 
 PS C:\WINDOWS\system32>
 
+
+
+
+cmd /c dir %ProgramData%\Microsoft\Search\Data\Applications\Windows\  /s /a
+538
+
+
+
 ##########
 #  sync by hand ?!
 #  ^a  ^c  @tab ^V
