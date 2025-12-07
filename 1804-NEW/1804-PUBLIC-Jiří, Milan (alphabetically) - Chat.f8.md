@@ -49,7 +49,9 @@ Nahrajte prosím kopii faktury (daňový doklad) ve formátu pdf nebo obrázku (
 
 
 11 pdf files
-explorer "C:\Users\marti\OneDrive\Dokumenty\1804-NEW\ALZA"
+explorer "C:\Users\marti\OneDrive\Dokumenty\1804-NEW\"
+"C:\Users\marti\OneDrive\Dokumenty\1804-NEW\ALZA,samsung,pdf\PLACEHOLDER.f8.md"
+
 ##explorer "C:\Users\marti\OneDrive\1804-JB\ALZA\2195779527.pdf"
 ##file:///C:/Users/marti/OneDrive/1804-JB/samsung-oprava-2510/2195779527.pdf
 
@@ -131,6 +133,9 @@ https://photos.google.com/share/AF1QipO8-nEVG2aRNMObeiL9FgwBHxqAoF5hEqaA9kychcBR
 
 
 https://chatgpt.com/share/690260db-cedc-800e-b9b8-4f93b69641b9
+obsahuje 2..3 relevantni fotky pračky samsung WD80J6A10AW/LE s chybou HC2 při sušení
+
+
 
 
 https://www.samsung.com/cz/support/your-service/direct-payment/select-symptom-IH na té stránce je jen textový box ... poraď mi prosím, co mám napsat
@@ -217,4 +222,78 @@ Aktuální nabídky
 https://www.samsung.com/cz/support/your-service/track-repair
 
 
+# 251207 cont.
+https://chat.google.com/room/AAAA2NU9Pu0/8bBwhgd5Ujk/8bBwhgd5Ujk?cls=10
 
+
+# SMS 6.10. 
+Dobry den,
+nize Vam posilam odkaz pro vytvoreni servisniho pozadavku.
+
+V pripade dotazu nas nevahejte kontaktovat.
+S pozdravem,
+Samsung zakaznicka podpora
+
+
+# https://www.samsung.com/cz/support/your-service/track-repair-sms  2340946721 Můj požadavek 29/10/2025
+Pračka hlásí chybu HC2 při sušení, prádlo zůstává studené. Při testu
+přes Smart Check hlásí: „Check the drying heater“ 
+
+ níže.
+
+WD80J6A10AW
+
+Date: Fri, 31 Oct 2025 09:07:26 +0000
+From: =?UTF-8?Q?Z=C3=A1kaznick=C3=A1_podpora_Samsung_Electronics?= <secz.contact.us@email.support.samsung.com>
+Reply-To: =?UTF-8?Q?Z=C3=A1kaznick=C3=A1_podpora_Samsung_Electronics?= <secz.contact.us@email.support.samsung.com>
+To: jiri.vlastimil.bok@gmail.com
+Message-ID: <0100019a398590ba-2b95885d-9ec3-4305-9a30-995a259e11d8-000000@email.amazonses.com>
+Subject: WD80J6A10AW/LE
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+    boundary="----=_Part_6722_1952113981.1761901645987"
+Feedback-ID: ::1.us-east-1.+JmA1//D9Gh9EnlGRn5ADZ6YIaRw4BypmI3nGEcZyJ8=:AmazonSES
+X-SES-Outgoing: 2025.10.31-54.240.48.54
+
+
+
+ 
+
+Rozumím, že tato situace může být nepříjemná, a je mi líto komplikací. V tomto případě je zapotřebí, aby se na celou situaci podíval přímo servisní technik. Oprava se provádí formou In Home - u zákazníka doma a objednáte si ji sami přes odkaz uvedený níže.
+
+
+
+
+
+
+
+
+V čase, který Vám bude vyhovovat, vyplňte a nahrajte, prosím, potřebné informace a fotografie. Tento způsob nám pomůže rychle a snadno získat všechny potřebné údaje a zajistit co nejrychlejší výjezd technika.
+
+ 
+
+ 
+
+Po odeslání formuláře s kompletními informacemi a čitelnými fotografiemi Vám do 1 pracovního dne zavolá náš dispečer, aby s Vámi domluvil všechny detaily výjezdu. Závěrem Vám chci pouze sdělit, že dispečer může volat ze skrytého čísla.
+
+ 
+
+ 
+
+Předem Vám děkuji za spolupráci.
+
+ 
+
+ 
+
+Máte další otázky? Kontaktujte nás na WhatsApp 800 726 786 nebo se připojte k naší Samsung Community.
+
+ 
+
+ 
+
+Stáhněte si aplikaci Samsung Shop zde:
+
+https://samsungshop.onelink.me/6zKq/v5bh7lqb?af_qr=c 
+
+ 
