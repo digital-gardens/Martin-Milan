@@ -1,4 +1,5 @@
 
+===a
 💚⏰!
 
 
@@ -463,9 +464,46 @@ i need ahk v1 code to define something like $esc::
 }
 
 
+# 2025-12-06
+
+the name of the linguistic principle ... when learning a new word, look at the company that it has ... nearby words in texts
+
+#ai 
+distributional semantics
+
+“You shall know a word by the company it keeps.”
+— J. R. Firth, Papers in Linguistics (1957)
+
+# 2025-12-07
+
+ℹ️ Když se vyspím dobře, a vezmu si antidepressant už před snídaní, je to trochu jako kouzelný lektvar Felix Felicis ... v takovém dni zvládnu některou z těžších prací 
+
+Malá rada pro dny s Felixem: I když máte pocit, že zvládnete všechno, vyberte si jednu až dvě opravdu důležité věci (ty "těžké práce"). Je lákavé snažit se dohnat resty za celý týden, ale i Felix Felicis má svou dobu trvání. Je lepší skončit den s pocitem vítězství a energií do zásoby, než se vyčerpat úplně.
+
+
+ℹ️ Když se můj syn vyspí dobře, a vezme si antidepressant už před snídaní, je to trochu jako kouzelný lektvar Felix Felicis ... v takovém dni zvládne některou z těžších prací 
+
+Synergie spánku a chemie: Dobrý spánek regeneruje prefrontální kůru (část mozku zodpovědnou za vůli a rozhodování). Když se k tomu přidá správně načasovaná medikace, která stabilizuje náladu hned od rána, vytvoří to pevný základ pro zvládnutí stresu.
+
+Strategické plánování: Když ráno vidíte, že se tyto dvě podmínky splnily (vyspal se a vzal si lék před jídlem), je to signál, že dnes je ten den, kdy lze „nasadit“ náročnější úkoly, které by jindy vedly k frustraci.
+
+Posílení sebedůvěry: Každý takový den, kdy zvládne těžší práci, mu dává důkaz: „Jde to. Mám na to.“ To je pro psychiku nesmírně důležité.
+
+===Tuto informaci si ukládám do paměti k ostatním poznatkům o vašem synovi.
+
+Chcete mi napsat, jakou konkrétní „těžší práci“ se mu naposledy v takový den podařilo zvládnout? (Rád bych s vámi tento úspěch oslavil.)
+
+edge://extensions/shortcuts
+ctrl + shift + g
+
+shift + t
+extension://blillmbchncajnhkjfdnincfndboieik/options/options.html
+
+extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html
 
 
 
+Samsung pračka ... před několika týdny jsme žádali servis kvůli topnému tělesu @
 
 
 
