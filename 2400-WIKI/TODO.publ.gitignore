@@ -1,0 +1,45 @@
+
+# file:///C:\Users\marti\OneDrive\gitignore-test.f8.sh.ps1
+
+# counterexamples
+# gitign--visual_conlangs.f8.md - OneDrive - Visual Studio Code 2024-03-14 20-18-29.mp4
+
+
+#Obr*/
+/Obr*/
+/Vide*/
+
+#.git/
+*.git/
+##*.git/
+
+*.png
+*.mp4
+
+*.zip
+
+#*.xml
+#*.xsd
+
+/Dokumenty/PowerShell/Help
+/alma-233c/var
+
+*#
+*~
+.#*
+
+history*.json
+
+
+#OLD*/
+OLD*
+BIG
+
+
+.ipynb_checkpoints/
+overwrite/
+node_modules
+
+1111/
+
+
