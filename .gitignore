@@ -55,3 +55,9 @@ Thumbs.db
 # .gitignore
 #  for markdown files
 
+
+
+# last line wins?
+
+*.r8.*
+*.n8.*
