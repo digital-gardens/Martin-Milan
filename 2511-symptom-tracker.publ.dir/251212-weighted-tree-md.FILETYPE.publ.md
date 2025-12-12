@@ -1,5 +1,5 @@
-# 251212.ttn.md.FILETYPE.publ.ttn
 
+251212-weighted-tree-md.FILETYPE.publ.md
 tagged tree notations 
 experiments
 
@@ -17,7 +17,6 @@ https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
 - github desktop commit push
 
 
-# todo google "tagged tree notation"
 
 # ai generated ideas:
 - read about it
@@ -67,6 +66,6 @@ fail  #️⃣#️⃣#️⃣
 - ℹ️ℹ️ℹ️ℹ️ podkapitola ... důležitější vlastní webové stránky ... nalepil jsem tam někde svůj life tweet 250918 ... jako bio
 
 
-    - ℹ️ℹ️ℹ️ℹ️ Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried about akathisia ] ## 250918 start fixing this tweet (add dr. Shipko)
+    - experim 4 spaces, github ok,  ℹ️ℹ️ℹ️ℹ️ Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried about akathisia ] ## 250918 start fixing this tweet (add dr. Shipko)
 
 
