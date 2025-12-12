@@ -99,7 +99,9 @@ https://account.microsoft.com/family/home
 
 https://www.facebook.com/profile.php?id=100004424177472
 
-https://github.com/martin12333
+ℹ️ https://github.com/martin12333
+
+ℹ️ https://github.com/digital-gardens/Martin-Milan
 
 
 
@@ -118,12 +120,14 @@ https://www.reddit.com/user/martin_m_n_novy/
 Google Keep
 this note itself https://keep.google.com/#NOTE/1f20fE1eA8TYuKbrFtZXx8F0-TjAzM7k6048qXh2HKE4P3v-YS8mzR-uCObftdA
 
-## https://glasp.co/uhu6drb9cmm389j0
+## ℹ️  https://glasp.co/uhu6drb9cmm389j0
 
-all
-OneDrive, Obsidian 
-all
-WhatsApp
+todo all
+OneDrive
+
+todo , Obsidian 
+
+todo all WhatsApp
 
 https://www.yousongs.cz/MostPlayed.aspx?Page=6
 
@@ -248,17 +252,14 @@ also a distantly related topic: digital emergency plans
 
 související témata
 
-Todo existuje lístek 251122 #250825 250825  grab-and-go bag, Bug Out Bag, Copy of your household emergency plan, personal digital emergency plan Reddit, 
+ℹ️ Todo existuje lístek 251122 #250825 250825  grab-and-go bag, Bug Out Bag, Copy of your household emergency plan, personal digital emergency plan Reddit, 
 
-https://play.google.com/store/apps/details?id=cz.gov.edoklady
-
-
+ℹ️ https://play.google.com/store/apps/details?id=cz.gov.edoklady
 
 
-Todo existuje lístek 270611 350714 #250825 alzheimer digital prepping by learning to use chatgpt   reddit
-https://www.reddit.com/r/Alzheimers/comments/1m2o9ci/chatgpt_is_saving_me/
 
-https://www.reddit.com/user/Kalepa2/
+
+ℹ️ Todo existuje lístek 270611 350714 #250825 alzheimer digital prepping by learning to use chatgpt   reddit https://www.reddit.com/r/Alzheimers/comments/1m2o9ci/chatgpt_is_saving_me/ https://www.reddit.com/user/Kalepa2/
 
 
 
@@ -295,11 +296,10 @@ https://keep.google.com/#NOTE/15NT_oV2s3DmYlAMidJKTMJF1MgMj-3M7_Q9UTHyUZI1BMgCH0
 
 
 
-## https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250918-929-antidepressant-shocks--akathisia.f8.md
 
 
 
-### https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants
+### ℹ️ℹ️ℹ️ℹ️ℹ️  https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants
 
 maybe the most important book in my life, maybe the biggest surprises in my life
 
@@ -308,16 +308,14 @@ maybe the most important book in my life, maybe the biggest surprises in my life
 
 ### https://chatgpt.com/c/68d7cd8d-dd38-8320-8303-f473985f6484
 
-ℹ️ℹ️ℹ️ℹ️ℹ️ because i am harmed by antidepressants..a quote from ycombinator.com ..
-
-a quote from ycombinator .. "Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).” 
+ℹ️ℹ️ℹ️ℹ️ℹ️ because i am harmed by antidepressants..a quote from ycombinator.com .. .. "Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).” 
 
 
 ## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
 
 kdyby se rodina z mých havárií poučila ...
 
- kdyby se někdo zajímal o to, co jsem vykopal z internetu a ověřil 
+kdyby se někdo zajímal o to, co jsem vykopal z wikipedie a internetu, a ověřil 
 
 
 
@@ -377,6 +375,9 @@ rmation as a human desire
 
 
 
-# C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md
+# ℹ️ℹ️ℹ️ℹ️ C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md todo new url to github.com/digital-gardens/Martin-Milan/
 
-## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
+old https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250918-929-antidepressant-shocks--akathisia.f8.md
+
+
+## ℹ️ℹ️ℹ️ℹ️  dle filosofie dr. Praška a antifragility ... možná se rodina pro příštích 50 let trochu posílila ...
