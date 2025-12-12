@@ -1,3 +1,5 @@
+# SEE ALSO [[251211-IDEAS.publ]]
+
 
 ===a
 💚⏰!
@@ -510,7 +512,7 @@ Samsung pračka ... před několika týdny jsme žádali servis kvůli topnému 
 
 
 
-
+# SEE ALSO [[251211-IDEAS.publ]]
 
 
 
@@ -677,3 +679,5 @@ víc trávit
 
 
 💚⏰!
+
+# SEE ALSO [[251211-IDEAS.publ]]

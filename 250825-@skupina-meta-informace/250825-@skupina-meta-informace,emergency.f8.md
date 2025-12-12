@@ -1,40 +1,31 @@
 
 # ℹ️ℹ️ℹ️ℹ️ téma 250825 ... meta info, family digital emergency plan 
-// AI, prosím přeložit do češtiny   // Rodinný Digitální Krizový Plán
+- // AI, prosím přeložit do češtiny   // Rodinný Digitální Krizový Plán
 
-// darek k Vanocum ... zkouset, zda [dokument 250825 ... meta informace, emergency plan] ... doufam jediny odkaz z google chat / skupina 250825 meta informace ... zda odkaz funguje ... i na mobilu 
+- // darek k Vanocum ... zkouset, zda [dokument 250825 ... meta informace, emergency plan] ... doufam jediny odkaz z google chat / skupina 250825 meta informace ... zda odkaz funguje ... i na mobilu 
 
-( kdyby selhal github, odkaz na stary listek v Google keep ...
-https://keep.google.com/#NOTE/1f20fE1eA8TYuKbrFtZXx8F0-TjAzM7k6048qXh2HKE4P3v-YS8mzR-uCObftdA
-)
-
-// ten listek v keep ma navic fotku receptu na venlafaxinum
+- ( kdyby selhal github, odkaz na stary listek v Google keep ... https://keep.google.com/#NOTE/1f20fE1eA8TYuKbrFtZXx8F0-TjAzM7k6048qXh2HKE4P3v-YS8mzR-uCObftdA   )
+  - // ten listek v keep ma navic fotku receptu na venlafaxinum
 
 
-edit. odteď lístek v Google keep bude jen pro výjimečné přídavky z mobilu... oficiální verze dokumentu bude
+- edit. odteď lístek v Google keep bude jen pro výjimečné přídavky z mobilu... oficiální verze dokumentu bude
 toto, co ted ctete ... 
 
-edit. nove url..
 
-https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
+  - https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
 
-
-
+    - edit. nove url..
 
 
+- back link
+  - @skupina meta-informace: kde najít jiné informace: webové odkazy - Chat
+    - https://chat.google.com/room/AAQAiugwWm0?cls=5  
+      - funguje i na mobilu 
+
+    - https://mail.google.com/chat/u/0/#chat/space/AAQAiugwWm0
 
 
-
-
-back link
-@skupina meta-informace: kde najít jiné informace: webové odkazy - Chat
-https://chat.google.com/room/AAQAiugwWm0?cls=5  funguje i na mobilu 
-https://mail.google.com/chat/u/0/#chat/space/AAQAiugwWm0
-
-
-back link
-podobna skupina na whatsapp
-...
+  - podobna skupina na whatsapp
 
 
 
@@ -238,7 +229,7 @@ https://www.reddit.com/user/martin_m_n_novy/
 Google Keep
 this note itself https://keep.google.com/#NOTE/1f20fE1eA8TYuKbrFtZXx8F0-TjAzM7k6048qXh2HKE4P3v-YS8mzR-uCObftdA
 
-https://glasp.co/uhu6drb9cmm389j0
+## https://glasp.co/uhu6drb9cmm389j0
 
 all
 OneDrive, Obsidian 
