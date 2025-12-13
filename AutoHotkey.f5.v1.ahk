@@ -55,6 +55,14 @@
 ; Enable warnings to assist with detecting common errors.
 
 
+
+
+
+
+
+
+;251213
+
 SetKeyDelay , 111, 122
 SetKeyDelay , 53, 37
 ;https://www.autohotkey.com/docs/v1/lib/SetKeyDelay.htm
@@ -162,6 +170,22 @@ CapsLock::Esc
 +CapsLock::CapsLock
 ;============================== end of remap capslock to escape ==============================
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ;============================== clipboard logging ==============================
 
 
@@ -242,12 +266,10 @@ ClipChanged(Type) {
 
 
 
+;243324;'\-09,3443šěčýžýžščýžř'  čšřšřčů§¨¨ú)(,,)
 
-
-
-
-
-
+;251213   commented out------------------------------
+#If false
 
 ; Global hotkeys
 ; Global hotstrings
@@ -263,6 +285,18 @@ $6::Send {^}
 $7::Send {&}
 $8::Send {*}
 
+;;; $9::Send {(}
+;$9::Send {(}{)}
+$9::Send {(}{)}{Left}     ;; experim
+
+; $0::Send {)}
+$0::Send {_}
+
+
+
+
+
+
 ; test !!!!!!!``!!@@@###$$$%%%^^^&&&***99000 !@~@#$%%^@#@
 ;; 2::Send {@}
 
@@ -271,15 +305,11 @@ $8::Send {*}
 ; 2021-09-05 (1).png
 
 
-;;; $9::Send {(}
-;$9::Send {(}{)}
-$9::Send {(}{)}{Left}     ;; experim
-
-; $0::Send {)}
-$0::Send {_}
-
 ; test ()()()()()()()()0()()()_____000__()()()
 ; edge f12 ()()()()()___(())(())()()()()()
+
+
+
 
 
 
@@ -301,8 +331,40 @@ $[::Send []{Left}      ;;; insert square brackets
 
 
 
+
+
+
+
+
 $NumpadDot::Send {;}
 $;::Send {:}
+
+
+;  I HAVE AN EURO KEYBOARD
+
+;DC  02B	 	u	0.13	\         backslash
+;not E2  056	 	u	0.16	\   backslash
+;test ......;.;.;:::;;""""\\""\\""\\;;;  """"""""
+
+
+$SC02B::Send {"}
+; "
+; this "" in the comment is for :  the  sx hilite  of *.ini   in vsc
+; my VSC: sx hilite is of *.ini ...  not  of *.ahk
+
+
+
+
+
+
+
+#If  ; turn context-sensitivity back off
+; 251213    end of commented out------------------------------
+
+
+
+
+
 
 
 ;2024-06 =~~= 246    CUT COPY PASTE ^x  ^c  ^v
@@ -337,20 +399,6 @@ $NumpadSub::Send ^v
 
 ;; keybindings.json off
 
-
-
-
-;  I HAVE AN EURO KEYBOARD
-
-;DC  02B	 	u	0.13	\         backslash
-;not E2  056	 	u	0.16	\   backslash
-;test ......;.;.;:::;;""""\\""\\""\\;;;  """"""""
-
-
-$SC02B::Send {"}
-; "
-; this "" in the comment is for :  the  sx hilite  of *.ini   in vsc
-; my VSC: sx hilite is of *.ini ...  not  of *.ahk
 
 
 
