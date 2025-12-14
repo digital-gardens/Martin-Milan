@@ -10,10 +10,10 @@ expresní-doprava,rychlé-doručení,osobní-odběr,vyzvednutí-zásilky,AlzaBox
 
 C:\Users\marti\OneDrive\conn\mynotes-doprav.f8.md
 
+sluzby/moznosti-doruceni
 
 
-
-Může zásilku z AlzaBoxu pro mne vyzvednout někdo jiný, když mu sdělím kód pro vyzvednutí?
+# Může zásilku z AlzaBoxu pro mne vyzvednout někdo jiný, když mu sdělím kód pro vyzvednutí?
 
 
 - Ano, zásilku z AlzaBoxu může vyzvednout i jiná osoba, pokud zná kód pro vyzvednutí zásilky. Tento kód je zaslán na e-mailovou adresu uvedenou při objednávce.
@@ -439,4 +439,16 @@ https://www.kupi.cz/magazin/clanek/18466-co-je-to-q-commerce-a-proc-je-na-vzestu
 https://www.hrot24.cz/clanek/byznys-briefing-vzestup-a-pad-quick-commerce-proc-samotna-rychlost-nestaci-HZ7s3
 
 https://www.lupa.cz/aktuality/billa-zavre-vlastni-online-shop-partneri-v-quick-commerce-to-zvladnou-efektivneji-naznacuje/nazory/
+
+# https://www.ispace.cz/stranky/zpusoby-dopravy/
+
+
+
+
+
+
+# https://www.mp.cz/doprava
+
+
+
 
