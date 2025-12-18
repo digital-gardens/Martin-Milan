@@ -352,3 +352,33 @@ přes Smart Check hlásí: „Check the drying heater“
 Po odeslání formuláře s kompletními informacemi a čitelnými fotografiemi Vám do 1 pracovního dne zavolá náš dispečer, aby s Vámi domluvil všechny detaily výjezdu. Závěrem Vám chci pouze sdělit, že dispečer může volat ze skrytého čísla.
 Máte další otázky? Kontaktujte nás na WhatsApp 800 726 786 nebo se připojte k naší Samsung Community.
 
+
+do skupiny
+
+@
+> Ahoj Milane, pošli, prosím, to číslo na opraváře praček, který byl u vás. Taky potřebujeme opravit.
+
+bylo to komplikované
+
+vy také máte pračku Samsung?   nebo ne?
+
+my..objednávali jsme přes Samsung.com 
+
+chtěli pdf s datumem prodeje, přestože pračka už byla dávno po záruce
+
+pdf jsem vylovil z alzy nebo z mailu
+
+mám spoustu poznámek v vscode a v google chat - skupina Jiří, Milan 
+
+samsung.com  webové formuláře ....
+chtěli popis závady a fotky,
+nejdřív mne považovali za uživatele, který neotevřel manuál
+
+značkový servis chtěl 1000 za výjezd a 1000 za diagnostiku
+
+když o tom teď uvažuji, možná jsem docela dobře mohl použít nejremeslnici.cz , nebo google search + google maps recenze, nebo se poradit s  AI  ... teď máme pro 6 lidí placený Gemini Ai tarif
+
+
+
+@
+
