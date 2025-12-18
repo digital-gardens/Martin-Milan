@@ -5,6 +5,7 @@
 💚⏰!
 
 
+- [SEE ALSO \[\[251211-IDEAS.publ\]\]](#see-also-251211-ideaspubl)
 - [vscode extension](#vscode-extension)
 - [](#)
 - [todo ...  existing recommended vscode extenstions to insert timestamp ... to track symptoms in markdown files](#todo---existing-recommended-vscode-extenstions-to-insert-timestamp--to-track-symptoms-in-markdown-files)
@@ -16,17 +17,44 @@
 	- [](#-2)
 	- [](#-3)
 - [2025-11-27](#2025-11-27)
-
+- [2025-11-29](#2025-11-29)
+	- [prompt pride 25090 251129 https://keep.google.com/#NOTE/1gQT7ckz6Kad\_TTKb94KwJnmysb9Hzhe2RwuHpUcF7e6vHuOypazxbXWchET5Og](#prompt-pride-25090-251129-httpskeepgooglecomnote1gqt7ckz6kad_ttkb94kwjnmysb9hzhe2rwuhpucf7e6vhuoypazxbxwchet5og)
+- [2025-11-30](#2025-11-30)
+- [2025-12-03](#2025-12-03)
+- [2025-12-06](#2025-12-06)
+- [2025-12-07](#2025-12-07)
+- [2025-12-17  251217](#2025-12-17--251217)
+- [2025-12-18  251218](#2025-12-18--251218)
+- [2025-12-19  251219](#2025-12-19--251219)
+- [SEE ALSO \[\[251211-IDEAS.publ\]\]](#see-also-251211-ideaspubl-1)
+- [@jb chat jde zalezt . edit last  .   klavesnice up arrow](#jb-chat-jde-zalezt--edit-last-----klavesnice-up-arrow)
+- [žít svůj sen](#žít-svůj-sen)
+- [// nejtěžší mi připadají bugy v mojí životní rutině](#-nejtěžší-mi-připadají-bugy-v-mojí-životní-rutině)
 - [I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition](#i-am-a-human-with-anxiety-disorder-autism-spectrum-disorder-underweight-malnutrition)
 	- [](#-4)
 	- [](#-5)
-- [https://mail.google.com/chat/u/0/#chat/space/AAAAkg0JJJc](#httpsmailgooglecomchatu0chatspaceaaaakg0jjjc)
 - [I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition](#i-am-a-human-with-anxiety-disorder-autism-spectrum-disorder-underweight-malnutrition-1)
-	- [my ... human patient, interrupt handling](#my--human-patient-interrupt-handling)
+- [my ... human patient, interrupt handling](#my--human-patient-interrupt-handling)
 	- [](#-6)
 	- [disk full](#disk-full)
 - [Z hlediska roku 2026, 2030, 2040 💚⏰!](#z-hlediska-roku-2026-2030-2040-)
 - [udržet tělesnou váhu (mám značnou podváhu a podvýživu) 💚⏰!](#udržet-tělesnou-váhu-mám-značnou-podváhu-a-podvýživu-)
+- [SEE ALSO \[\[251211-IDEAS.publ\]\]](#see-also-251211-ideaspubl-2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -75,6 +103,14 @@ Choose a consistent timestamp format that works across your logs (e.g., ISO YYYY
 
 
 
+
+
+
+
+
+
+
+
 # ai generated symptom tracking log
 - 2025-11-06 00:19:45 - Started tracking symptoms
 - 2025-11-06 08:30:00 - Noticed headache
@@ -97,9 +133,26 @@ Choose a consistent timestamp format that works across your logs (e.g., ISO YYYY
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 2025-11-04
 
-- 2025-11-04 15:38 - [[M-antidepressant]]
+- 2025-11-04 15:38 - [[M-antidepressant]]  lék3
 - 2025-11-05 05:09 - #anger , unusual 
   - AI suggestion: Practice deep breathing exercises to manage anger.
 - 2025-11-05 10:42 - #V-antidepressant , #felix-felicis ?
@@ -507,32 +560,50 @@ extension://dbepggeogbaibhgnhhndojpepiihcmeb/pages/options.html
 
 Samsung pračka ... před několika týdny jsme žádali servis kvůli topnému tělesu @
 
+
+
+
+
 # 2025-12-17  251217
 
 # 2025-12-18  251218
 
-19:30 lék3 + 5		probuzení		💚⏰, v uvozovkách.. OBNOVIL dýchání
-- r/dysautonomia breathing exercises
+19:30 lék3 + 5		probuzení		
+ℹ️ℹ️💚⏰, v uvozovkách.. OBNOVIL dýchání
+- r/dysautonomia breathing ?
+- exercises
 - ai poznámka: Dýchací cvičení mohou pomoci regulovat autonomní nervový systém, což je zvláště užitečné pro osoby s dysautonomií.
 - ai poznámka: Pravidelné praktikování dýchacích cvičení může zlepšit schopnost těla zvládat stres a úzkost, což jsou běžné problémy spojené s dysautonomií.
 - ai poznámka: Dýchací cvičení mohou také pomoci zlepšit okysličení krve a celkovou pohodu, což je důležité pro osoby s dysautonomií, které mohou mít problémy s krevním tlakem a srdeční frekvencí.
 
-pomohla hudba .. broukám si melodii z pink floyd. shine on you crazy diamond 
+ℹ️ pomohla hudba .. broukám si melodii z pink floyd. shine on you crazy diamond 
+semi-realtime takt nádech výdech
 
+svaly okolo očí , obočí
 
-
-semi-realtime 
-svaly okolo očí 
-
-daří se mi dýchat pomalu a hluboce
+daří se mi
+- ai poznámka:
+ dýchat pomalu a hluboce
 daří se mi dýchat nosem
 daří se mi dýchat břichem
 
 daří se mi peristaltika 
+- ai poznámka:
+daří se mi uvolnit ramena
 
 
 21:00 teď co toto píšu
 daří se mi psaní na pc,
+pořád ještě broukám si melodii z pink floyd. shine on you crazy diamond
+
+21:30 1968
+Bratříčku 
+broukám
+Můj bratře můj
+
+22:00 
+gemini
+emoji mix of ℹ️💚 
 
 
 # 2025-12-19  251219
@@ -567,15 +638,32 @@ ai generated mostly
 //// jak si udržet naději, když 
 
 
-# my ... human patient, interrupt handling
+
+
+
+- [my ... human patient, interrupt handling](#my--human-patient-interrupt-handling)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 # I am a human with anxiety disorder, autism spectrum disorder, underweight, malnutrition
-
-##
 
 Let's assume some distant similarities  between computers and human brains 
 
@@ -689,3 +777,5 @@ víc trávit
 💚⏰!
 
 # SEE ALSO [[251211-IDEAS.publ]]
+
+- [my ... human patient, interrupt handling](#my--human-patient-interrupt-handling)
