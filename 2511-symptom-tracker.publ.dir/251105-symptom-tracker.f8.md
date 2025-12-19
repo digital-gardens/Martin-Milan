@@ -52,12 +52,6 @@
 
 
 
-
-
-
-
-
-
 # vscode extension
 markdown aio enabled 
 foam enabled
@@ -68,15 +62,52 @@ insert timestamp here
 /da
 Choose a consistent timestamp format that works across your logs (e.g., ISO YYYY-MM-DD hh:mm or with timezone if you like).
 
+
+
+
+
+
+# hashtags in markdown files
+
+#rrrr-rrr
+
+#iiii-i
+#iii
+
+
+2 extensions are active
+foam
+markdown-hashtags
+
+gemini
+deep Research
+vscode extensions that support hashtags ..
+what ascii characters are allowed in hashtags in markdown files ..
+i am curious about
+`[-_.\w]+`
+and 
+`\d+`
+ ... what about hashtags, that are only numbers ... #12345
+
+
 #tag
 #
 #251112   tags numbered by date yymmdd
-#251112 works
+#251112 fail
 #91.1
 #91,1
 #91
 #91-1
 #91_1
+#
+
+from [[251212-weighted-tree-md.FILETYPE.publ]]
+
+pokusy jak vyznacovat importance 
+
+fail  #️⃣#️⃣#️⃣
+
+- .aa \aa aaa ℹ️ℹ️ℹ️   #️⃣aa  #aaaaii #aaaaℹ️ℹ️  [Jméno] ZACHRANKA Konzultační Centrum [Mobil] 800 888 155
 
 
 
@@ -607,6 +638,10 @@ emoji mix of ℹ️💚
 
 
 # 2025-12-19  251219
+
+
+
+# 2025-12-20  251220
 
 
 

@@ -3,7 +3,7 @@
 
 01-251218-Headphone-Healing.publ.md
 251218-Headphone-Healing.r8.md
-
+C:\Users\marti\OneDrive\Dokumenty\251218-Headphone-Healing.r8.md
 
 
 pár týdnů .. to vypadá velmi nadějně ℹ️ℹ️💚💚 
@@ -104,7 +104,7 @@ followed by 8 hours of soothing sounds
 
 
 ===251218
-
+https://youtu.be/2Viw8ndB-Lc?t=205
 
 
 
