@@ -10,7 +10,6 @@ consider renaming the file to 251212
 
 🕊️ **Break reminder:** take a short pause, stretch, hum a few bars of something calm, or glance at your *topic 012* for a moment before continuing.
 
-251212-weighted-tree-md.FILETYPE.publ.md
 tagged tree notations 
 experiments
 
@@ -55,6 +54,9 @@ https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
 
 # links
 
+[[251226-251212-250-life-tweet--week-tweets.tagged.weighted.lines.publ]]
+
+
 
 [[251105-symptom-tracker.f8#hashtags in markdown files]]
 # hashtags in markdown files
@@ -67,10 +69,12 @@ file:///C:\Users\marti\OneDrive\Dokumenty\01-251218-Headphone-Healing.publ.md
 * * * 
 ===251218
 experiments
+experiments with tagging * * 
 
 * ** *
 * * ***  ℹ️iii  ===========binaural beats for more than 30 minutes at a time can cause headaches. For that reason, my sleep tracks will include 30 minutes of binaural beats followed by 8 hours of soothing sounds because if you wake up during the night, the sounds can help you get back to sleep.
 
+    * * ===251218 https://youtu.be/2Viw8ndB-Lc?t=205
 * * * * ===251218 https://youtu.be/2Viw8ndB-Lc?t=205
     * * ===251218 https://youtu.be/2Viw8ndB-Lc?t=205
 * * * * ===251218 https://youtu.be/2Viw8ndB-Lc?t=205

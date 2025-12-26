@@ -99,6 +99,8 @@ followed by 8 hours of soothing sounds
 
 - [02:31](https://www.youtube.com/watch?v=2Viw8ndB-Lc&t=151s) So I thought, what if I took the most soothing sound I know and make a binaural beat out of that? Combine our obliv [Music] [Music] shown that listening to 
 
+experiments with tagging * * 
+
 * ** *
 * * ***  ℹ️iii  ===========binaural beats for more than 30 minutes at a time can cause headaches. For that reason, my sleep tracks will include 30 minutes of binaural beats followed by 8 hours of soothing sounds because if you wake up during the night, the sounds can help you get back to sleep.
 
