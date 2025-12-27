@@ -1,14 +1,27 @@
 
 draft version 0.1
 
+
+# links
+
+
+newer attempts ... related file 
+C:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir\251226-251212-250918-life-tweet--week-tweets.tagged.weighted.lines.publ.md
+
+
 todo update links to martin digital-gardens
 https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250918-929-antidepressant-shocks--akathisia.f8.md
+
+
+backlink
+C:\Users\marti\OneDrive\Dokumenty\250825-@skupina-meta-informace\250825-@skupina-meta-informace,emergency.f8.md
+
 
 ## related ids
 "C:\Users\marti\OneDrive\Dokumenty\00043-tags-250918-929---250825-250831--aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8.md"
 
 
-## distantly related
+## old distantly related
 
 C:\Users\marti\OneDrive\Dokumenty\0000000004\00042-BUGS\250918-antidepressant-akathisia-edit.f8.md
 
@@ -54,13 +67,15 @@ Variability in Drug Metabolism: Genetic variations in enzymes that metabolize dr
 # 75 mg photo  https://chatgpt.com/c/671944b4-6c14-800e-be7e-f9ccc0bf1976   nonshared  yet
 
 
+
+
+# todo link to slovníček pojmů
+C:\Users\marti\OneDrive\Dokumenty\ntidep\nefoam-antidepresiva-slovnik-2021.f8.md
+
+
 ## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
 
 kdyby se rodina z mých havárií poučila ...
 
  kdyby se někdo zajímal o to, co jsem vykopal z internetu a ověřil 
-
-
-
-# todo link to slovníček pojmů
 
