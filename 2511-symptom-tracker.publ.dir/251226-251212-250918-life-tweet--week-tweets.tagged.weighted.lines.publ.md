@@ -31,7 +31,8 @@
   * ai comments:
 
 
-C:\Users\marti\OneDrive\Dokumenty\250825-@skupina-meta-informace\250825-@skupina-meta-informace,emergency.f8.md
+file:///C:\Users\marti\OneDrive\Dokumenty\250825-@skupina-meta-informace\250825-@skupina-meta-informace,emergency.f8.md
+  - https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
 
 
   - ℹ️ℹ️ℹ️ℹ️ Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried about akathisia ] ## 250918 start fixing this tweet (add dr. Shipko)
@@ -50,6 +51,13 @@ line 120
 # C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md
 
 todo
+
+
+
+ℹ️ℹ️ℹ️ℹ️ℹ️ because i am harmed by antidepressants..a quote from ycombinator.com ..
+
+a quote from ycombinator .. "Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).” 
+
 
 todo
 

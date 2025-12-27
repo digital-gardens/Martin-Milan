@@ -116,6 +116,14 @@ https://account.microsoft.com/family/home
   - ℹ️ℹ️ℹ️ℹ️ Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried about akathisia ] ## 250918 start fixing this tweet (add dr. Shipko)
 
 
+- pokusy rozvíjet ten life tweet
+  - todo opravit url na github.com/digital-gardens/Martin-Milan/ ...  https://github.com/digital-gardens/Martin-Milan/blob/main/
+    - file:///C:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir\251226-251212-250918-life-tweet--week-tweets.tagged.weighted.lines.publ.md
+    - file:///C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md
+    - file:///
+    - file:///
+    - file:///
+    - file:///
 
 
 
