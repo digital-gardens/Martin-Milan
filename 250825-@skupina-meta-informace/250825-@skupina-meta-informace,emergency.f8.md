@@ -1,6 +1,5 @@
 
 
-Can you guess the meaning of the various number of info emojis ℹ️ used here?
 
 
 
@@ -421,4 +420,6 @@ https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250825-%40sku
 survival_of_our_info
 rmation as a human desire
 
+ai
+Can you guess the meaning of the various number of info emojis ℹ️ used here?
 
