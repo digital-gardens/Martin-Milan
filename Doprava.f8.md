@@ -1,7 +1,21 @@
 
 
 
-C:\Users\marti\OneDrive\00\250618-621-internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna.f8.md
+EDIT      trnout hodinu a pul ?
+EDIT      cena tomu asi nasvedcuje?
+
+file:///C:\Users\marti\OneDrive\Dokumenty\250618-621-internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna.f8.md
+https://gemini.google.com/app/d6212a1f2fec0b8d
+
+https://www.zasilkovna.cz/blog/zasilkovna-muze-mi-vyzvednout-balik-nekdo-jiny
+K vyzvednutí zásilky vám stačí **5místné heslo**, které sdělíte obsluze pobočky. Heslo byste měli mít k dispozici v **e-mailu**, **aplikaci Zásilkovna**  a v **SMS** (pokud do hodiny od doručení nerozkliknete notifikaci v appce).
+https://www.zasilkovna.cz/pobocky
+na bojisti
+
+
+
+
+
 
 internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna,
 
@@ -14,6 +28,14 @@ sluzby/moznosti-doruceni
 
 
 # Může zásilku z AlzaBoxu pro mne vyzvednout někdo jiný, když mu sdělím kód pro vyzvednutí?
+
+file:///C:/Users/marti/OneDrive/Dokumenty/ai-prompts.ai.md.dir/efe9dd4c1a5a6a90b2ff8e7e56952dc03ec4b6ff73e4e18041da8fe05fcbdbe0-2025-09-27-10-43-38-ff3d3ce70b8b43a8aae6b9cc21f1eef3/ChatGPT%20Data%20Export.r8.html
+
+
+
+
+https://www.youtube.com/watch?v=Ie5VrKMr524  dem
+
 
 
 - Ano, zásilku z AlzaBoxu může vyzvednout i jiná osoba, pokud zná kód pro vyzvednutí zásilky. Tento kód je zaslán na e-mailovou adresu uvedenou při objednávce.
@@ -213,7 +235,12 @@ https://www.diigo.com/user/martin12333?query=%23todo
     
        
 
-[Zásilkovna domů | Naše vlastní doručování na adresu - Zasilkovna.cz](https://www.zasilkovna.cz/domu)
+# [Zásilkovna domů | Naše vlastní doručování na adresu - Zasilkovna.cz](https://www.zasilkovna.cz/domu)
+
+EDIT      trnout hodinu a pul ?
+EDIT      cena tomu asi nasvedcuje?
+
+## - Jakmile kurýr vaši zásilku naloží, pošleme vám notifikaci s informací o doručení s přesností na 90 minut.
 
 [https://www.zasilkovna.cz/domu](https://www.zasilkovna.cz/domu)
 
@@ -223,8 +250,9 @@ https://www.diigo.com/user/martin12333?query=%23todo
     
 - d vás kurýr nezastihne, uloží vám zásilku na nejbližším výdejním místě, kde si ji můžete vyzvednout ještě tentýž den
 - Do druhého dne
-- Jakmile kurýr vaši zásilku naloží, pošleme vám notifikaci s informací o doručení s přesností na 90 minut.
+
     
+
        
     
 - Máme skvělý notifikační systém a vy tak budete mít super přehled o každém pohybu vaší zásilky. Přímo v mobilu!
@@ -284,6 +312,12 @@ https://www.diigo.com/user/martin12333?query=%23todo
 - Není třeba ukazovat žádný doklad totožnosti ani se nikde podepisovat. Milujeme jednoduchá a rychlá řešení.
     
 - ři předání zásilky budete řidičem vyzváni ke sdělení hesla. Případně se můžete prokázat dokladem totožnosti. Podrobnosti najdete [zde](https://www.zasilkovna.cz/blog/vydej-pres-heslo-u-zasilek-dorucovanych-na-adresu).
+
+
+
+
+
+
 
 # [MESSENGER - meziměstská přeprava](https://www.messenger.cz/sluzby/mezimestska-preprava.html)
 

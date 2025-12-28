@@ -4,11 +4,11 @@ title: Může zásilku z AlzaBoxu pro mne vyzvednout někdo jiný, když mu sdě
 tags: [AlzaBox, vyzvednutí zásilky, kód pro vyzvednutí]
 ---
 
+newer
+file:///C:\Users\marti\OneDrive\Dokumenty\Doprava.f8.md
 
-
-C:\Users\marti\OneDrive\00\Doprava.f8.md
-
-C:\Users\marti\OneDrive\conn\mynotes-doprav.f8.md
+older
+file:///C:\Users\marti\OneDrive\conn\mynotes-doprav.f8.md
 
 ---
 
@@ -31,6 +31,22 @@ Trvejte na videohovoru: Pokud si chcete být kupujícím jistější, domluvte s
 
 
 # ai 3
+
+https://gemini.google.com/app/d6212a1f2fec0b8d
+
+old
+file:///C:/Users/marti/OneDrive/Dokumenty/ai-prompts.ai.md.dir/efe9dd4c1a5a6a90b2ff8e7e56952dc03ec4b6ff73e4e18041da8fe05fcbdbe0-2025-09-27-10-43-38-ff3d3ce70b8b43a8aae6b9cc21f1eef3/ChatGPT%20Data%20Export.r8.html
+
+
+https://www.zasilkovna.cz/blog/zasilkovna-muze-mi-vyzvednout-balik-nekdo-jiny
+
+K vyzvednutí zásilky vám stačí **5místné heslo**, které sdělíte obsluze pobočky. Heslo byste měli mít k dispozici v **e-mailu**, **aplikaci Zásilkovna**  a v **SMS** (pokud do hodiny od doručení nerozkliknete notifikaci v appce).
+
+https://www.zasilkovna.cz/pobocky
+na bojisti
+
+
+
 
 zda vůbec existují inzeráty, nabídky typu:
 
