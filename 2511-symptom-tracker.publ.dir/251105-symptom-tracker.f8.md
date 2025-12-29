@@ -786,10 +786,23 @@ emoji mix of ℹ️💚
 
 
 
-# 2025-12-27 
+# 2025-12-29
 
+Ahoj Charri
 
+- slyšel jsem, že vedeš kurzy ... HTML a Python 
+- to musí být spousta práce
 
+- edit. dá se říct, že jsi v učitelství dál, než já
+- 
+- to je obdivuhodné 💛
+- that's admirable 💛 
+
+@
+
+(já jsem kdysi doučoval, matiku a programování)
+@
+(škoda,že mi antidepresiva přinesla víc škody než užitku)
 
 
 # Z hlediska roku 2026, 2030, 2040 💚⏰!
