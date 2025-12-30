@@ -950,6 +950,22 @@ gh desktop i can see these lines
 tc
 gemini advised editing the .code-workspace file in a text editor to change the folder paths directly.
 
+still had to click the extensions tab and re-enable the workspace-specific extensions manually after renaming the folder.
+
+
+
+
+"C:\Program Files\Microsoft VS Code\Code.exe" c:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir
+"C:\Program Files\Microsoft VS Code\Code.exe" c:\Users\marti\OneDrive\Dokumenty\251225.publ.code-workspace
+rename copy the lnk file   .publ.
+tested
+
+git push
+rename 251226
+
+fix broken links
+
+
 # Z hlediska roku 2026, 2030, 2040 💚⏰!
 
 bych si přál
