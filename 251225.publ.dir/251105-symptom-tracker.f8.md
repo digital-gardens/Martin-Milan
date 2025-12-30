@@ -961,9 +961,17 @@ rename copy the lnk file   .publ.
 tested
 
 git push
-rename 251226
 
+Renamed '2511-symptom-tracker.publ.dir' to '251225.publ.dir' and updated all related file paths and workspace settings. Deleted obsolete files M-antidepressant.md and anger.md. 
+
+
+### 10:17
+rename 251226 to 251225
 fix broken links
+repo:digital-gardens/Martin-Milan 2511-symptom-tracker.publ.dir
+repo:digital-gardens/Martin-Milan 2511-symptom-tracker.publ
+
+* Z hlediska roku 2026, 2030, 2040 💚⏰!
 
 
 # Z hlediska roku 2026, 2030, 2040 💚⏰!
