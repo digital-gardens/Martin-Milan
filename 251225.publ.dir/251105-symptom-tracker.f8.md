@@ -966,10 +966,13 @@ Renamed '2511-symptom-tracker.publ.dir' to '251225.publ.dir' and updated all rel
 
 
 ### 10:17
+todo
 rename 251226 to 251225
+
+## todo
 fix broken links
-repo:digital-gardens/Martin-Milan 2511-symptom-tracker.publ.dir
 repo:digital-gardens/Martin-Milan 2511-symptom-tracker.publ
+
 
 * Z hlediska roku 2026, 2030, 2040 💚⏰!
 

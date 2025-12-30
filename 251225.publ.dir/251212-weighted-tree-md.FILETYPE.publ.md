@@ -1,11 +1,14 @@
 
 
-consider renaming the file to 251212
+too lazy to
+consider renaming the file to 
+251212
 .tagged
-.weighted
 .lines
+.md
 .FILETYPE.publ.md
 
+.weighted
 
 
 🕊️ **Break reminder:** take a short pause, stretch, hum a few bars of something calm, or glance at your *topic 012* for a moment before continuing.
@@ -54,7 +57,7 @@ https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
 
 # links
 
-[[251226-251212-250918-life-tweet--week-tweets.tagged.weighted.lines.publ]]
+[[251225.tagged.lines.publ]]
 
 
 
