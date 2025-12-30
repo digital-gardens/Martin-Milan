@@ -931,18 +931,24 @@ can i rename the root workspace folder in vscode?
 15.  
    
 ## 07:56 new name of the code workspace file
+save workspace as ...
 ..
-251225-tagged-text-lines.publ
-mkdir ../251225-tagged-text-lines.publ.dir
-mkdir ~/251225-tagged-text-lines.publ.dir
+olde 251225-tagged-text-lines.publ
+251225.publ
+pin 
 
-close 251225-symptom-tracker.publ.code-workspace
+old mkdir ~/251225-tagged-text-lines.publ.dir
+mkdir ~/251225.publ.dir
+
+close 251225.publ.code-workspace
 
 ?mk file ... too late, too unnecessary doku   251225-vscode-workspace-rename-instructions.publ.md
 close this in doku
 
-tc
+gh desktop i can see these lines
 
+tc
+gemini advised editing the .code-workspace file in a text editor to change the folder paths directly.
 
 # Z hlediska roku 2026, 2030, 2040 💚⏰!
 
