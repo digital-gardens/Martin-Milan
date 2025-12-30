@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown-hashtags.sorting.order": "asc",
+		"markdown-hashtags.sorting.key": "name"
+	}
+}
