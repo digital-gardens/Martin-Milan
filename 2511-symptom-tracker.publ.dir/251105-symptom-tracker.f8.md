@@ -824,6 +824,7 @@ f1 workspace
 
 @command:workbench.extensions.action.configureWorkspaceFolderRecommendedExtensions
 
+
 "C:\Program Files\Microsoft VS Code\Code.exe" c:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir
 
 vscode
@@ -843,7 +844,7 @@ i would like to rename it to c:\X\lines
 is it easy?
 i want to keep the  settings, installed extensions, etc.
 
-what about the extensions, that are installed for the workspace?
+what about the extensions, that are installed for that  workspace  only ?
 
 ## ai answer
 
@@ -851,11 +852,13 @@ Enabled/Disabled Status: If you previously went to the Extensions tab and manual
 
 If you rely heavily on disabling specific extensions for this workspace, take a quick screenshot of your "Disabled (Workspace)" extensions list before you rename the folder, so you can quickly re-apply them if needed.
 
+##
 i rely heavily on *enabling* specific extensions for this workspace
 what happens to them if i rename the root workspace folder?
 
 ## ai answer
 
+???
 VS Code Profiles capture your current set of enabled extensions. By saving your current setup as a profile, you can re-apply it instantly to the renamed folder.
 
 Type this command and hit Enter: 
@@ -888,12 +891,33 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=docsmsf
 
 
 
+Name: Foam
+Id: foam.foam-vscode
+Description: VS Code + Markdown + Wikilinks for your note taking and knowledge base
+Version: 0.28.3
+Publisher: Foam
 
+
+Name: Markdown All in One
+Id: yzhang.markdown-all-in-one
+Description: All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
+Version: 3.6.3
+Publisher: Yu Zhang
+
+
+Name: markdown-hashtags
+Id: vanadium23.markdown-hashtags
+Description: Hashtags for markdown: autocomplete, tree view and references.
+Version: 2.0.1
+Publisher: vanadium23
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=vanadium23.markdown-hashtags
+
+
+This extension is enabled for this workspace by the user.
 
 
 ## ai answer
 
-When you rename the root workspace folder in VSCode, the extensions that were specifically enabled for that workspace will generally remain enabled. However, it's important to note that the workspace settings, including which extensions are enabled or disabled, are tied to the workspace's configuration files (like `settings.json` and `extensions.json`) located within the workspace folder.
 
 
 If you rely heavily on disabling specific extensions for this workspace, take a quick screenshot of your "Disabled (Workspace)" extensions list before you rename the folder, so you can quickly re-apply them if needed.
@@ -904,24 +928,13 @@ can i rename the root workspace folder in vscode?
 
 ## ai answer
 
-Yes, you can rename the root workspace folder in Visual Studio Code (VSCode). To do this, follow these steps:
-1. Open VSCode and go to the Explorer view by clicking on the file icon in the sidebar or pressing `Ctrl + Shift + E`.
-2.  Locate the root folder you want to rename in the Explorer view.
-3.  Right-click on the root folder and select "Rename" from the context menu.
-4.  Type the new name for the folder and press `Enter` to confirm the change
-5.  Alternatively, you can also rename the folder directly in your file system (e.g., using File Explorer on Windows or Finder on macOS), and then reopen the folder in VSCode to reflect the new name.
-6.  Note that renaming the root workspace folder will not affect the files or subfolders within it; it only changes the name of the top-level folder.
-7.  Make sure to update any references to the old folder name in your project settings or configurations if necessary.
-8.  After renaming, you may need to restart VSCode for the changes to take effect in some cases.
-9.  If you are using a workspace file (.code-workspace), you may need to update the paths in that file to reflect the new folder name.
-10.  Remember to save your work before renaming the folder to avoid any potential data loss.
-11.  If you encounter any issues after renaming the folder, check the VSCode documentation or community forums for troubleshooting tips.
-12.  Enjoy coding in your newly named workspace folder!
-13.  If you are using version control (e.g., Git), make sure to commit any changes related to the folder rename to keep your repository up to date.
-14.  If you have any extensions installed that rely on the folder name, check their settings to ensure they are still functioning correctly after the rename.
 15.  
    
+## 07:56 new name of the code workspace file
+..
+251225-tagged-text-lines.publ
 
+.dir
 
 
 

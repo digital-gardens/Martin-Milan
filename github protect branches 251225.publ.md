@@ -16,6 +16,10 @@ https://github.com/digital-gardens/Martin-Milan/settings/branches
 Branch protection rule created.
 
 
+## Step 3: Create a Branch Protection Rule
+1. Under the "Branch protection rules" section, click on "Add rule."
+2. In the "Branch name pattern" field, specify the branch or branches you want to protect. You can use wildcard patterns (e.g., `main`, `release/*`, `feature/*`).
+...
 
 # https://github.com/martin12333/marti-onedrive/settings/branch_protection_rules/19704099
 

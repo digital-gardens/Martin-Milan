@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "2511-symptom-tracker.publ.dir"
+		}
+	],
+	"settings": {
+		"markdown-hashtags.sorting.order": "asc",
+		"markdown-hashtags.sorting.key": "name"
+	}
+}
