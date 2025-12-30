@@ -4,11 +4,15 @@
 
 # další dny přidávat 20 řádek před koncem souboru
 
+
+# the philosophy of antifragility is more important 
+
 ===a
 💚⏰
 
 
 - [další dny přidávat 20 řádek před koncem souboru](#další-dny-přidávat-20-řádek-před-koncem-souboru)
+- [the philosophy of antifragility is more important](#the-philosophy-of-antifragility-is-more-important)
 - [links](#links)
 - [vscode extension](#vscode-extension)
 - [hashtags in markdown files](#hashtags-in-markdown-files)
@@ -43,8 +47,24 @@
 - [2025-12-18  251218](#2025-12-18--251218)
 - [2025-12-19  251219](#2025-12-19--251219)
 - [2025-12-20  251220](#2025-12-20--251220)
+- [2025-12-29](#2025-12-29)
+- [2025-12-30](#2025-12-30)
+	- [ai answer](#ai-answer)
+	- [ai answer](#ai-answer-1)
+	- [](#-6)
+	- [ai answer](#ai-answer-2)
+	- [aside](#aside)
+- [](#-7)
+	- [ai answer](#ai-answer-3)
+	- [ai answer](#ai-answer-4)
+	- [07:56 new name of the code workspace file](#0756-new-name-of-the-code-workspace-file)
+- [edit. too late to change the big folder name to 2512.publ.dir](#edit-too-late-to-change-the-big-folder-name-to-2512publdir)
+- [the philosophy of antifragility is more important](#the-philosophy-of-antifragility-is-more-important-1)
+		- [10:17](#1017)
+	- [todo](#todo)
 - [Z hlediska roku 2026, 2030, 2040 💚⏰!](#z-hlediska-roku-2026-2030-2040-)
 - [udržet tělesnou váhu (mám značnou podváhu a podvýživu) 💚⏰!](#udržet-tělesnou-váhu-mám-značnou-podváhu-a-podvýživu-)
+- [the philosophy of antifragility is more important](#the-philosophy-of-antifragility-is-more-important-2)
 
 
 # links
@@ -940,6 +960,13 @@ pin
 old mkdir ~/251225-tagged-text-lines.publ.dir
 mkdir ~/251225.publ.dir
 
+
+# edit. too late to change the big folder name to 2512.publ.dir 
+
+# the philosophy of antifragility is more important 
+
+
+
 close 251225.publ.code-workspace
 
 ?mk file ... too late, too unnecessary doku   251225-vscode-workspace-rename-instructions.publ.md
@@ -1006,6 +1033,8 @@ víc trávit
 
 * dělat víc přestávek při práci 
 * jíst pomaleji
+
+# the philosophy of antifragility is more important 
 
 💚⏰!
 
