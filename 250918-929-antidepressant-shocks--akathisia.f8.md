@@ -6,10 +6,10 @@ draft version 0.1
 
 
 newer attempts ... related file 
-C:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir\251226-251212-250918-life-tweet--week-tweets.tagged.weighted.lines.publ.md
-
+C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251225.tagged.lines.publ.md
 
 todo update links to martin digital-gardens
+ https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
 https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250918-929-antidepressant-shocks--akathisia.f8.md
 
 
@@ -62,15 +62,14 @@ a quote from ycombinator .. "Nothing worked better than exercise, sleep, nicotin
 
 Question: is it possible that some people are more prone to akathisia (caused by antidepressants) because of their genetics?
 
-Variability in Drug Metabolism: Genetic variations in enzymes that metabolize drugs, particularly those in the cytochrome P450 family (e.g., CYP2D6 and CYP3A4), can affect how an individual processes medications. Poor or ultra-rapid metabolizers may experience higher or lower drug concentrations, increasing the likelihood of side effects like akathisia.
+-      ℹ️ℹ️ℹ️ℹ️🅰️   Variability in Drug Metabolism: Genetic variations in enzymes that metabolize drugs, particularly those in the cytochrome P450 family (e.g., CYP2D6 and CYP3A4), can affect how an individual processes medications. Poor or ultra-rapid metabolizers may experience higher or lower drug concentrations, increasing the likelihood of side effects like akathisia.
 
 # 75 mg photo  https://chatgpt.com/c/671944b4-6c14-800e-be7e-f9ccc0bf1976   nonshared  yet
 
 
 
 
-# todo link to slovníček pojmů
-C:\Users\marti\OneDrive\Dokumenty\ntidep\nefoam-antidepresiva-slovnik-2021.f8.md
+# todo link to slovníček pojmů ℹ️ℹ️ℹ️ℹ️ C:\Users\marti\OneDrive\Dokumenty\ntidep\nefoam-antidepresiva-slovnik-2021.f8.md
 
 
 ## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
@@ -78,4 +77,11 @@ C:\Users\marti\OneDrive\Dokumenty\ntidep\nefoam-antidepresiva-slovnik-2021.f8.md
 kdyby se rodina z mých havárií poučila ...
 
  kdyby se někdo zajímal o to, co jsem vykopal z internetu a ověřil 
+
+
+
+# až sem lze dojet po odkazech ... z google chat
+
+# this text has been  ~~ scanned by me , i have fixed minor bugs 
+251225+
 

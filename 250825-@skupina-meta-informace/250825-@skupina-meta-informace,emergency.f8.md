@@ -408,6 +408,7 @@ Can you guess the meaning of the various number of info emojis ℹ️ used here?
     - edit. nove url..
 
 
+# až sem lze dojet po odkazech ... z google chat
 
 # this text ~~ scanned by me , fixed minor bugs 
 251225+
