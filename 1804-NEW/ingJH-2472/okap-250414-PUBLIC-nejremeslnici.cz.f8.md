@@ -80,7 +80,21 @@ chtěl jsem Ti dát možnost pár dní si odpočinout. Ten pokrok s těmi větve
 
 
 
-# Zadání poptávky zákazníkem https://www.nejremeslnici.cz/autor/75...  https://www.nejremeslnici.cz/autor/487...  file:///C:\Users\marti\OneDrive\Dokumenty\1804-NEW\ingJH-2472\okap-250414.md
+# ℹ️ Zadání poptávky zákazníkem https://www.nejremeslnici.cz/autor/75...  https://www.nejremeslnici.cz/autor/487...  file:///C:\Users\marti\OneDrive\Dokumenty\1804-NEW\ingJH-2472\okap-250414.md
+
+
+re: pracka 
+jako ukazka 
+ℹ️ https://www.nejremeslnici.cz/autor/75111   Zákazník: Milan B.  , 
+https://www.nejremeslnici.cz/autor/487584 Zákazník: Jiří B.
+@
+
+vsichni 
+
+
+
+Zadání poptávky zákazníkem:
+
 
 Stykač u jističů k přímotopům často silně bzučí. Asi bude potřeba ho opět vyměnit. Šlo by to kterýkoliv den, ale raději odpoledne.
 
