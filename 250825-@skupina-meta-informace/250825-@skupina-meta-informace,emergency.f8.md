@@ -1,35 +1,25 @@
 
-
-
-
-
 # ℹ️ℹ️ℹ️ℹ️🅰️  téma 250825 ... meta info, family digital emergency plan 
-
-
-
 
 - // AI, prosím přeložit do češtiny   // Rodinný Digitální Krizový Plán
 
-- // darek k Vanocum ... zkouset, zda [dokument 250825 ... meta informace, emergency plan] ... doufam jediny odkaz z google chat / skupina 250825 meta informace ... zda odkaz funguje ... i na mobilu 
+- // darek k Vanocum ...
+  -  zkouset, zda tento dokument jim jde otevrit pomocí odkazu v Google chat skupine / 250825 meta informace
+    - i na mobilu
+    - doufam, že je to jediny odkaz z te skupiny
 
 - ( kdyby selhal github, odkaz na stary listek v Google keep ... https://keep.google.com/#NOTE/1f20fE1eA8TYuKbrFtZXx8F0-TjAzM7k6048qXh2HKE4P3v-YS8mzR-uCObftdA   )
   - // ten listek v keep ma navic fotku receptu na venlafaxinum
 
-
-- edit. odteď lístek v Google keep bude jen pro výjimečné přídavky z mobilu... oficiální verze dokumentu bude
-toto, co ted ctete ... 
-
+- edit. odteď lístek v Google keep bude jen pro výjimečné přídavky z mobilu... oficiální verze dokumentu bude toto, co ted ctete ... 
 
   - https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
-
-    - edit. nove url..
 
 
 - back link
   - @skupina meta-informace: kde najít jiné informace: webové odkazy - Chat
     - https://chat.google.com/room/AAQAiugwWm0?cls=5  
       - funguje i na mobilu 
-
     - https://mail.google.com/chat/u/0/#chat/space/AAQAiugwWm0
 
 
@@ -39,15 +29,13 @@ toto, co ted ctete ...
 
 # /// from a discussion with AI on 251212 about  my mindfiles
 
-
-
 I work towards creating and collecting  my own Terasem (transhumanist)  mindfiles.
 
 I have prepared the first document.
 
 For historical reasons, the document is named "250825-@skupina-meta-informace,emergency.f8.md".
 
-- My topic 250825 is dedicated to meta information (where to find more information), and it is including my family digital emergency plan.
+- My topic 250825 is dedicated to meta information (where to find more information), and it is now including my family digital emergency plan.
 
 It is a work in progress.
 
@@ -55,15 +43,14 @@ It is a work in progress.
 
 # for Milan
 
-
 - vscode f1 markdown preview
 - vscode f1 markdown preview security settings explained 
 https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
-
 - ctrl+z undo
 
 
 # todo možná udelat nejake google saved collections of links
+
 https://www.google.com/interests/saved?authuser=0
 
 
@@ -73,15 +60,10 @@ https://www.google.com/interests/saved?authuser=0
 
 # zachranka apod
 
-
 - ℹ️ℹ️ℹ️ [Jméno] ZACHRANKA Konzultační Centrum [Mobil] 800 888 155
   - Jen info ...Málokdo o něm ví. Číslo na konzultační centrum záchranky je těžké dohledat https://www.idnes.cz/praha/zpravy/tisnova-linka-pomoc-zdravotnik-pohotovost-zachranna-sluzba.A250115_091555_praha-zpravy_idh
 
-
-
 - https://www.zachrankaapp.cz/cs/projekt-72-hodin-nove-najdete-i-v-aplikaci-zachranka
-
-
 
 
 
@@ -116,20 +98,15 @@ https://account.microsoft.com/family/home
   - ℹ️ℹ️ℹ️ℹ️ Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried about akathisia ] ## 250918 start fixing this tweet (add dr. Shipko)
 
 
-- pokusy rozvíjet ten life tweet
-  - todo opravit url na github.com/digital-gardens/Martin-Milan/ ...  https://github.com/digital-gardens/Martin-Milan/blob/main/
-    - file:///C:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir\251226-251212-250918-life-tweet--week-tweets.tagged.weighted.lines.publ.md
+## https://github.com/digital-gardens/Martin-Milan/tree/main/251225.publ.dir
+
+- pokusy rozvíjet ten life tweet, přidávat další tweety
+    - file:///C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251225.tagged.lines.publ.md
+
     - file:///C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md
     - file:///
     - file:///
     - file:///
-    - file:///
-
-
-
-
-
-
 
 
 https://www.facebook.com/profile.php?id=100004424177472
@@ -137,7 +114,6 @@ https://www.facebook.com/profile.php?id=100004424177472
 ℹ️ https://github.com/martin12333
 
 ℹ️ https://github.com/digital-gardens/Martin-Milan
-
 
 
 ℹ️ todo url to a search in Google chat, google keep, google photos
@@ -254,6 +230,7 @@ In Case You Get Hit by a Bus: How to Organize Your Life Now for When You're Not 
 
 
 # Todo Reddit survival_of_our_info
+
 C:\Users\marti\OneDrive\Dokumenty\650714-Nohavica-Kometa--information-immortality.f8.md
 
 https://www.reddit.com/r/survival_of_our_info/
@@ -305,28 +282,25 @@ související témata
 
 
 
-# ℹ️ℹ️ℹ️ℹ️🅰️   https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants
-
-maybe the most important book in my life, maybe the biggest surprises in my life
+# ℹ️ℹ️ℹ️ℹ️🅰️   https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants maybe the most important book in my life, maybe the biggest surprises in my life
 
 
 
 
-### https://chatgpt.com/c/68d7cd8d-dd38-8320-8303-f473985f6484
-
-ℹ️ℹ️ℹ️ℹ️🅰️ because i am harmed by antidepressants..a quote from ycombinator.com .. .. "Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).” 
+### https://chatgpt.com/c/68d7cd8d-dd38-8320-8303-f473985f6484 ℹ️ℹ️ℹ️ℹ️🅰️ because i am harmed by antidepressants..a quote from ycombinator.com .. .. "Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).” 
 
 
 # ℹ️ℹ️ℹ️ℹ️ dle filosofie dr. Praška a antifragility ... možná se rodina pro příštích 50 let trochu posílila ...
 
 kdyby se rodina z mých havárií poučila ...
 
-kdyby se někdo zajímal o to, co jsem vykopal z wikipedie a internetu, a ověřil 
+kdyby se někdo zajímal o to, co jsem vykopal z wikipedie a internetu a koupil Kindle knihy, a ověřil ... např. dr. Shipko , study 329
 
 
 
 
-# ℹ️ℹ️ℹ️ℹ️ C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md todo new url to github.com/digital-gardens/Martin-Milan/
+# ℹ️ℹ️ℹ️ℹ️ C:\Users\marti\OneDrive\Dokumenty\250918-929-antidepressant-shocks--akathisia.f8.md
+ todo new url into ℹ️ https://github.com/digital-gardens/Martin-Milan
 
 old https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250918-929-antidepressant-shocks--akathisia.f8.md
 
@@ -430,4 +404,11 @@ rmation as a human desire
 
 ai
 Can you guess the meaning of the various number of info emojis ℹ️ used here?
+
+    - edit. nove url..
+
+
+
+# this text ~~ scanned by me , fixed minor bugs 
+251225+
 
