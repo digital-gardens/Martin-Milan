@@ -1,4 +1,9 @@
 
+
+todo 
+# Lenka Kucerova 🕯	️
+
+
 #antidepressant slovník 2021
 
 // #todo add google-keep #tags
@@ -8,13 +13,11 @@
 // no longer master copy: https://keep.google.com/#NOTE/183HmoJLnf4XXncKlD0Q79SLBrpO5IRzy2ri0vRF3tnzO0Hwnj862ZokZZ6AfKzM
 
 
-transclusion  https://keep.google.com/#NOTE/15NT_oV2s3DmYlAMidJKTMJF1MgMj-3M7_Q9UTHyUZI1BMgCH0iRBZIdqk-NX
-ℹ️ℹ️ℹ️ℹ️ℹ️ #250831 #aaaaAAA #00000 #CORE1000 pro případ např. zranění #mozku... potřeboval bych, aby tento kousek textu přežil....
-And I am worried about #antidepressant -related #akathisia ⚠️‼️💊😭🆘☠️ 
+# transclusion  https://keep.google.com/#NOTE/15NT_oV2s3DmYlAMidJKTMJF1MgMj-3M7_Q9UTHyUZI1BMgCH0iRBZIdqk-NX ℹ️ℹ️ℹ️ℹ️ℹ️ #250831 #aaaaAAA #00000 #CORE1000 pro případ např. zranění #mozku... potřeboval bych, aby tento kousek textu přežil....:  And I am worried about #antidepressant -related #akathisia ⚠️‼️💊😭🆘☠️   read dr. Shipko
 
 C:\Users\marti\OneDrive\ntidep\250831-aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8.md
 
-na konci kapitola backups
+na konci tohoto je  kapitola backups
 
 -----------------------------
 
@@ -249,9 +252,9 @@ https://ssristories.org/how-do-ssris-and-other-medications-cause-violence-and-wh
 
 
 
-# SurvivingAntidepressants.org ⭐
+# SurvivingAntidepressants.org 
 
-
+edit. but see also dr. Shipko
 
 # S., dr.
 
@@ -356,3 +359,11 @@ OneDrive/antid
 
 // puvodne C:\Users\marti\OneDrive\nefoam antidepresiva slovník 2021.md
 // markdown
+
+
+
+# až sem lze dojet po odkazech ... z google chat
+
+# this text has been  ~~ scanned by me , i have fixed minor bugs 
+251225+
+
