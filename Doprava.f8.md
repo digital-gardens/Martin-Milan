@@ -548,6 +548,18 @@ https://mobilni-telefony.heureka.cz/f:1666:2;26285:40701140,40730219;s:1/?o=4
 
 
 
+
+
+
+
+# dodo decathlon
+V rámci doručení DODO express doručíme po Praze, Brně a Ostravě vaši zásilku. V případě objednání do 15:00 doručíme Vaši zásilku ještě ten samý den v časovém rozmezí 17 - 21 h. V případě odeslání objednávky po 15. hodině doručujeme zásilku následující den mezi 17.- 21. hodinou.
+
+
+
+
+
+
 # gpt 
 messenger
 liftago
