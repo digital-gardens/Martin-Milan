@@ -1,6 +1,16 @@
 
 
-# změna .. existují i pyžama z jiných přírodních materiálů .. kromě bavlna .. len, bambus
+# změna ?? .. existují i pyžama z jiných přírodních materiálů .. kromě bavlna .. len, bambus
+
+https://www.heureka.cz/a/jak-vybrat-panske-pyzamo-c2462-21546/
+
+
+ale ..Pyžama z bambusových vláken si spíše obléknete na léto, protože vás budou příjemně ochlazovat. Dobře dýchají a jsou velmi lehounká. Stejně jako bavlna dobře odvádí vlhkost, tak ani v bambusovém nočním prádle se nebudete příliš potit. Naopak, bude velmi hebké na dotek. Přírodní bambusový materiál navíc dobře odolává bakteriím, roztočům i plísním.
+
+
+
+
+
 
 # nouzové quick fix  ???
 tepláky jsou asi moc teplé na přikrývání 
@@ -59,6 +69,14 @@ gumu
 google
 pánské pyžamové kalhoty s nastavitelnou gumou nebo páskem
 
+
+
+# anti citáty
+
+V pase na pevno všitá pružná guma o šířce 2,5 cm
+-- nouzově už dokázal jsem nastřihnout
+
+
 # citáty z google
 
  kalhoty s gumou v pase a nastavitelnou šňůrkou. S potiskem Kostka. S taštičkou na uschování. Model měří 190 cm a má na sobě velikost M.
@@ -76,9 +94,9 @@ Pánské pyžamové kalhoty, které jsou vyrobené z velmi kvalitní bavlny. Kal
 
 
 
-
-
-
+https://panska-pyzama.heureka.cz/ben-panske-pyzamove-kalhoty-flanel-vicebarevne/#specifikace/
+jenze flanel ... to je moc teple??
+vyzkoušet ??
 
 ## pozn 24cc nové pyžamo EDIT by raději mělo  být .. rozepínací až dolu, (nikoliv rozepínací-jen-u-krku), protože , když se zase roztrhá to tílko,  abych si mohl tím rozepnutým pyžamem:  zavázat všechny svršky, včetně bundičky s mobilem v kapse, když jdu na WC
 
