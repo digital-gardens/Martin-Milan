@@ -1004,6 +1004,56 @@ repo:digital-gardens/Martin-Milan 2511-symptom-tracker.publ
 * Z hlediska roku 2026, 2030, 2040 💚⏰!
 
 
+
+
+
+# 2026-01-06
+
+Vážený zákazníku,
+
+
+
+dobrý den,
+> "dnes v čase 10:20-12:20 hod. Vám budeme doručovat zásilku."  "Cenné psaní: VL4794171713C" "Topasová 958/43, Radotín, 15300"
+adresát nebude doma. členové domácnosti jsou částečně invalidní. potřebovali bychom nějaký signál, aspoň prozvonit, asi tak 10 až 30 minut předem... Tel. na syna adresáta je 776 255 129
+
+
+
+
+
+
+Druh zásilky: Cenné psaní
+Číslo zásilky:
+
+Cenné psaní: VL4794171713C
+Odesílatel: Filatelie Česká pošta, s.p.
+Kontakt na řidiče: 705626267
+Adresa doručení: 
+"Topasová 958/43", Radotín, 15300
+
+Sledujte svoji zásilku
+
+Stáhněte si mobilní aplikaci České pošty
+
+
+
+EDIT mozna se p5ihlásit do aplikace České pošty pomocí zakaznické karty?!
+-- nedá se tam asi přihlasit?
+... nebo automatické odemykání zásilek v nastavení aplikace ?
+co znamená "automatické odemykání zásilek" v aplikaci České pošty?
+## ai answer
+Automatické odemykání zásilek v aplikaci České pošty je funkce, která umožňuje uživatelům automaticky odemykat své zásilky pomocí mobilní aplikace. Tato funkce je obvykle spojena s inteligentními schránkami nebo balíkovými boxy, které jsou vybaveny technologií pro bezkontaktní přístup.
+Když je zásilka doručena do takové schránky nebo boxu, uživatel obdrží oznámení v aplikaci České pošty. Poté může pomocí aplikace odemknout schránku nebo box, aby si mohl zásilku vyzvednout. Tato funkce zvyšuje pohodlí a bezpečnost při vyzvedávání zásilek, protože uživatelé nemusí čekat na doručovatele nebo používat fyzické klíče.
+
+
+S přáním příjemného dne
+
+Vaše Česká pošta
+
+
+
+
+
 # Z hlediska roku 2026, 2030, 2040 💚⏰!
 
 bych si přál

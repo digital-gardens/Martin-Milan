@@ -98,6 +98,16 @@ https://panska-pyzama.heureka.cz/ben-panske-pyzamove-kalhoty-flanel-vicebarevne/
 jenze flanel ... to je moc teple??
 vyzkoušet ??
 
+
+dear Gemini
+
+vybírám si nové pyžamo
+změřil jsem si staré pyžamo ... nemůžu to změřit přesně, vychází mi délka okolo 95+ cm či 3 stopy 2 palce = 38 inches ... je to standardní délka pánských pyžamových kalhot?
+
+
+
+
+
 ## pozn 24cc nové pyžamo EDIT by raději mělo  být .. rozepínací až dolu, (nikoliv rozepínací-jen-u-krku), protože , když se zase roztrhá to tílko,  abych si mohl tím rozepnutým pyžamem:  zavázat všechny svršky, včetně bundičky s mobilem v kapse, když jdu na WC
 
 
