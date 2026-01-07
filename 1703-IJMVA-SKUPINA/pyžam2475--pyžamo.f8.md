@@ -1,5 +1,10 @@
 
 
+dir "C:\Users\marti\OneDrive\Dokumenty\1703-IJMVA-SKUPINA\pyžam2475--pyžamo"
+
+
+
+
 # změna ?? .. existují i pyžama z jiných přírodních materiálů .. kromě bavlna .. len, bambus
 
 https://www.heureka.cz/a/jak-vybrat-panske-pyzamo-c2462-21546/
@@ -103,6 +108,57 @@ dear Gemini
 
 vybírám si nové pyžamo
 změřil jsem si staré pyžamo ... nemůžu to změřit přesně, vychází mi délka okolo 95+ cm či 3 stopy 2 palce = 38 inches ... je to standardní délka pánských pyžamových kalhot?
+
+10 nečekaných zvratů při výběru pyžama
+
+https://gemini.google.com/app/c0f952e95d5db326
+
+muži příliš dlouhé nohavice
+
+moc mala rezerva v pase
+https://www.lidl.cz/p/esmara-damske-tehotenske-pyzamo-s-bio-bavlnou/p100395399#searchTrackingMasterId=Product.100395399&searchTrackingTitle=D%C3%A1msk%C3%A9+t%C4%9Bhotensk%C3%A9+py%C5%BEamo+s+BIO+bavlnou&searchTrackingPageSize=48&searchTrackingPage=1&searchTrackingEvent=click&searchTrackingId=Product.100395399&searchTrackingOrigPos=1&searchTrackingPos=7&searchTrackingOrigPageSize=48&searchTrackingChannel=CZ&list=/h/damska-pyzama-a-nocni-kosile/h10003468
+
+
+alter
+xxl vienetta pyžamo dámské
+
+# https://www.tchibo.cz/c/poradce-modni-poradce-pro-zeny
+
+https://www.tchibo.cz/categories/zeny/nocni-pradlo-a-domaci-obleceni/pyzama?page=2&sort=price_up&filters=material-Bavlna&filters=material-Len&filters=size-female_general%23XXL+52/54
+
+https://www.vyberpradlo.cz/cz/tabulky-velikosti/#a12
+
+Vienetta Secret - Dámské pyžamo + dámské šortky krátký rukáv
+obvod hrudníku	obvod pasu	obvod boky
+S	86 až 90	75-80	96 až 100
+M	90-95	80-84	100-104
+L	95-100	84-85	104-108
+XL	100-104	85-89	108-116
+XXL	108-120	88-98	116-130
+XXXL	123-128	88-98	130-134
+
+
+https://www.pyzamka.cz/pyzama-4/?stock=1&pv5=5,90
+
+https://www.leontyna.cz/damska-pyzama/
+
+
+
+
+
+extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.perfektnipradlo.cz/Damske/
+
+
+
+# mají v pase širokou gumu, která je doplněná *******všitou šňůrkou ke stažení. Kalhoty lze použít jako
+
+# dir "C:\Users\marti\OneDrive\Dokumenty\1703-IJMVA-SKUPINA\pyžam2475--pyžamo"
+
+[text](../BrowserHistory_1_7_26.csv) [text](../favorites_1_7_26.html)
+
+extension://pnmchffiealhkdloeffcdnbgdnedheme/search.html
+
+https://glasp.co/uhu6drb9cmm389j0
 
 
 
