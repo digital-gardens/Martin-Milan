@@ -149,6 +149,13 @@ https://www.leontyna.cz/damska-pyzama/
 extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.perfektnipradlo.cz/Damske/
 
 
+jvb
+mb
+from:(mcpenshop OR tchibo)
+https://mail.google.com/mail/u/0/#advanced-search/from=mcpenshop+OR+tchibo&sizeoperator=s_sl&sizeunit=s_smb&query=from%3A(mcpenshop+OR+tchibo)
+https://mail.google.com/mail/u/0/#inbox
+
+
 
 # mají v pase širokou gumu, která je doplněná *******všitou šňůrkou ke stažení. Kalhoty lze použít jako
 
@@ -164,7 +171,7 @@ https://glasp.co/uhu6drb9cmm389j0
 
 
 
-## pozn 24cc nové pyžamo EDIT by raději mělo  být .. rozepínací až dolu, (nikoliv rozepínací-jen-u-krku), protože , když se zase roztrhá to tílko,  abych si mohl tím rozepnutým pyžamem:  zavázat všechny svršky, včetně bundičky s mobilem v kapse, když jdu na WC
+## pozn 24cc nové pyžamo ... EDIT by *raději* mělo  být .. rozepínací až dolu, (nikoliv rozepínací-jen-u-krku), protože , když se zase roztrhá to tílko,  abych si mohl tím rozepnutým pyžamem:  zavázat všechny svršky, včetně bundičky s mobilem v kapse, když jdu na WC
 
 
 prohledal jsem muj OneDrive
