@@ -203,17 +203,19 @@ Rovné nohavice zakončené náplety
 
 
 
+# O nákupu se můžete rozhodnout až po prohlédnutí zboží v kamenném obchodě, kde jej i následně zaplatíte. Při osobním odběru je možné platit hotově i kartou.
 
-
+plný invalidní důchodce
+autism
+dámské pyžamo
 Velikost: XXL 52/54
 
 
-# O nákupu se můžete rozhodnout až po prohlédnutí zboží v kamenném obchodě, kde jej i následně zaplatíte. Při osobním odběru je možné platit hotově i kartou.
 
 
-# mají v pase širokou gumu, která je doplněná *******všitou šňůrkou ke stažení. Kalhoty lze použít jako
+# protipříklad odjinud.. mají v pase širokou gumu, která je doplněná *******všitou šňůrkou ke stažení. 
 
-# dir "C:\Users\marti\OneDrive\Dokumenty\1703-IJMVA-SKUPINA\pyžam2475--pyžamo"
+# downloads to  dir "C:\Users\marti\OneDrive\Dokumenty\1703-IJMVA-SKUPINA\pyžam2475--pyžamo"
 
 [text](../BrowserHistory_1_7_26.csv) [text](../favorites_1_7_26.html)
 
