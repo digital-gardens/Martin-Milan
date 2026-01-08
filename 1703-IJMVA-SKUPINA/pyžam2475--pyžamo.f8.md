@@ -5,6 +5,22 @@ dir "C:\Users\marti\OneDrive\Dokumenty\1703-IJMVA-SKUPINA\pyžam2475--pyžamo"
 
 
 
+
+
+# viscose , modal
+
+due to my several disabilities, I have extremely limited options for  drying of clothes
+
+for years, i buy  clothes made of 100% cotton, and instead of washing them initially, i put them over a radiator to evaporate the smell of chemicals from manufacturing
+
+now, i need to choose  clothes that are either with viscose, or with dark colors
+
+which of the options will be less health hazardous for me, if I wear them  without washing them first, just after buying them
+
+gemini
+
+
+
 # změna ?? .. existují i pyžama z jiných přírodních materiálů .. kromě bavlna .. len, bambus
 
 https://www.heureka.cz/a/jak-vybrat-panske-pyzamo-c2462-21546/
@@ -148,6 +164,7 @@ https://www.leontyna.cz/damska-pyzama/
 
 extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.perfektnipradlo.cz/Damske/
 
+https://www.ppl.cz/mapa-vydejnich-mist?utm_source=landing_page&amp;amp;utm_medium=button_head_najit_VM&amp;amp;utm_campaign=vydejni_mista
 
 jvb
 mb
@@ -155,6 +172,43 @@ from:(mcpenshop OR tchibo)
 https://mail.google.com/mail/u/0/#advanced-search/from=mcpenshop+OR+tchibo&sizeoperator=s_sl&sizeunit=s_smb&query=from%3A(mcpenshop+OR+tchibo)
 https://mail.google.com/mail/u/0/#inbox
 
+https://www.ppl.cz/mapa-vydejnich-mist?utm_source=landing_page&amp;amp;utm_medium=button_head_najit_VM&amp;amp;utm_campaign=vydejni_mista
+
+
+
+
+
+
+
+https://www.tchibo.cz/products/182571072787/pyzamove-kalhoty?article_id=117361016814
+Vnitřní délka nohavic cca 64 cm
+
+https://www.tchibo.cz/products/138452403135/3-4-pyzamova-souprava?article_id=184722671233
+Kalhoty: vnitřní délka nohavic cca 45 cm
+
+
+
+bavlna
+https://www.tchibo.cz/products/172995730110/flanelova-pyzamova-souprava?article_id=110242331011
+https://www.tchibo.cz/products/168872502274/flanelove-pyzamo?article_id=134439286665https://www.tchibo.cz/products/168872502274/flanelove-pyzamo?article_id=134439286665
+https://www.tchibo.cz/products/176224760390/pyzamove-kalhoty?article_id=159509084846
+https://www.tchibo.cz/products/136388665834/pyzamove-kalhoty?article_id=137447567983
+
+flanel leto upekla?
+
+
+zbyva 3 jine
+Rovné nohavice zakončené náplety
+
+
+
+
+
+
+Velikost: XXL 52/54
+
+
+# O nákupu se můžete rozhodnout až po prohlédnutí zboží v kamenném obchodě, kde jej i následně zaplatíte. Při osobním odběru je možné platit hotově i kartou.
 
 
 # mají v pase širokou gumu, která je doplněná *******všitou šňůrkou ke stažení. Kalhoty lze použít jako
