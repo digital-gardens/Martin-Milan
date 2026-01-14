@@ -154,6 +154,10 @@ Odeslání bylo úspěšné
 Případ byl aktualizovaný. Informace bude zpracována do 1 pracovního dne.
 
 
+pro milana... ostatní v mailu a vscode 
+C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922-260106.publ.md
+
+
 
 # napíšu na pračku
 
@@ -161,3 +165,14 @@ HC, nesuší
 
 do skupiny google chat 
 @ 
+
+
+
+https://mail.google.com/chat/u/0/#chat/space/AAAAkg0JJJc
+
+"C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922\20251209_152347.jpg"
+
+jak
+v androidu snadno  zjistit, zda někdo volal
+
+
