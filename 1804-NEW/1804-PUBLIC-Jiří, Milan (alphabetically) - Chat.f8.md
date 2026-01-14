@@ -19,13 +19,13 @@ C:\Users\marti\OneDrive\dokumenty\
 # samsung-oprava-250922-260106
 samsung-oprava-250922-260106.publ.md	
 vytahnu do extra souboru 
-
+file:///C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922-260106.publ.md
 
 
 
 # samsung-oprava-250922
 tags: samsung, oprava, pračka, 250922
-"C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922"
+dir "C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922"
 
 
 gpt
@@ -34,6 +34,7 @@ gpt
 
 250922 je datum a název souboru první fotky, tedy 22.9.2025
 zároveň to je identifikační číslo mého tématu
+
 
 Uses numerical codes like '250922' to represent both the date (22 September 2025) and the identifier of a topic.
 
