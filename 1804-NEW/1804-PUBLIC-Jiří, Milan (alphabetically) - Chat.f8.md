@@ -14,6 +14,15 @@ C:\Users\marti\OneDrive\dokumenty\
 
 
 
+
+
+# samsung-oprava-250922-260106
+samsung-oprava-250922-260106.publ.md	
+vytahnu do extra souboru 
+
+
+
+
 # samsung-oprava-250922
 tags: samsung, oprava, pračka, 250922
 "C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922"

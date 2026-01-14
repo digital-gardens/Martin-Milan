@@ -15,6 +15,11 @@ na bojisti
 
 
 
+jenom jsem chtěl hledat, zda něco píšete např. o AlzaBoxech
+
+jsem v plném invalidním důchodu
+je pro mne velmi těžké  dostat se do kamenného obchodu, vyzvednout si zásilku z výdejního místa, alzaboxu, apod.
+
 
 
 internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna,
