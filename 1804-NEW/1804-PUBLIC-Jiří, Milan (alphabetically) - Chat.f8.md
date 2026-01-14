@@ -319,7 +319,18 @@ Prodejce : ALZA.cz
 
 Datum zakoupení :05-10-2019
 
+
+"C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922\20251001_160628.jpg"
+
+
 Preferovaný datum opravy : 10-12-2025 09:00:00
+
+19-01-2026 09:00:00
+
+
+
+
+
 
 # SMS 6.10. 
 Dobry den,
@@ -327,6 +338,16 @@ nize Vam posilam odkaz pro vytvoreni servisniho pozadavku.
 
 
 Odkaz: https://forms-prod.sprinklr.com/guided-workflows/67b73324ea158b6........
+
+sprinklr
+https://mail.google.com/mail/u/0/#search/sprinklr
+
+Vítejte na stránce pro zadání servisního požadavku pro výrobky Samsung. Vyberte, zda chcete vytvořit nový servisní požadavek, nebo aktualizovat existující případ s kódem z e-mailu.
+
+
+
+
+
 
 
 V pripade dotazu nas nevahejte kontaktovat.
@@ -409,9 +430,11 @@ https://samsungshop.onelink.me/6zKq/v5bh7lqb?af_qr=c
 
 Vítejte na stránce pro zadání servisního požadavku pro výrobky Samsung. Vyberte, zda chcete vytvořit nový servisní požadavek, nebo aktualizovat existující případ s kódem z e-mailu.
 
+
 vybral možnost vytvoření nového servisního požadavku.
 
 "C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922\20251001_160628.jpg"
+
 "C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922\Screenshot_20250922-145441_Samsung Smart Washer.jpg"
 
 
@@ -430,7 +453,11 @@ přes Smart Check hlásí: „Check the drying heater“
 
 
 
-Po odeslání formuláře s kompletními informacemi a čitelnými fotografiemi Vám do 1 pracovního dne zavolá náš dispečer, aby s Vámi domluvil všechny detaily výjezdu. Závěrem Vám chci pouze sdělit, že dispečer může volat ze skrytého čísla.
+Po odeslání formuláře s kompletními informacemi a čitelnými fotografiemi Vám do 1 pracovního dne zavolá náš dispečer, aby s Vámi domluvil všechny detaily výjezdu. Závěrem Vám chci pouze sdělit, že 
+
+
+dispečer může volat ze skrytého čísla.
+
 Máte další otázky? Kontaktujte nás na WhatsApp 800 726 786 nebo se připojte k naší Samsung Community.
 
 
