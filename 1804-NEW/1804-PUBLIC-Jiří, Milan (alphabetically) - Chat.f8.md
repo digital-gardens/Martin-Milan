@@ -170,6 +170,29 @@ https://chatgpt.com/share/690260db-cedc-800e-b9b8-4f93b69641b9
 obsahuje 2..3 relevantni fotky pračky samsung WD80J6A10AW/LE s chybou HC2 při sušení
 
 
+---
+Co můžeš zkusit sám  ???
+
+Odpoj pračku od sítě.
+
+Sundej zadní panel — topné těleso bývá dole pod bubnem.
+
+Zkontroluj, zda konektory nejsou uvolněné nebo zkorodované.
+
+Pokud máš multimetr, můžeš změřit odpor topného tělesa:
+
+mělo by mít kolem 25–30 Ω (při pokojové teplotě).
+
+Pokud má ∞ nebo 0 Ω → těleso je vadné.
+
+
+
+
+
+https://www.google.com/search?q=Co+m%C5%AF%C5%BEe%C5%A1+zkusit+s%C3%A1m+Odpoj+pra%C4%8Dku+od+s%C3%ADt%C4%9B.+Sundej+zadn%C3%AD+panel+%E2%80%94+topn%C3%A9+t%C4%9Bleso+b%C3%BDv%C3%A1+dole+pod+bubnem.+Zkontroluj%2C+zda+konektory+nejsou+uvoln%C4%9Bn%C3%A9+nebo+zkorodovan%C3%A9.+Pokud+m%C3%A1%C5%A1+multimetr%2C+m%C5%AF%C5%BEe%C5%A1+zm%C4%9B%C5%99it+odpor+topn%C3%A9ho+t%C4%9Blesa%3A&oq=Co+m%C5%AF%C5%BEe%C5%A1+zkusit+s%C3%A1m+Odpoj+pra%C4%8Dku+od+s%C3%ADt%C4%9B.++Sundej+zadn%C3%AD+panel+%E2%80%94+topn%C3%A9+t%C4%9Bleso+b%C3%BDv%C3%A1+dole+pod+bubnem.++Zkontroluj%2C+zda+konektory+nejsou+uvoln%C4%9Bn%C3%A9+nebo+zkorodovan%C3%A9.++Pokud+m%C3%A1%C5%A1+multimetr%2C+m%C5%AF%C5%BEe%C5%A1+zm%C4%9B%C5%99it+odpor+topn%C3%A9ho+t%C4%9Blesa%3A&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQKgCALACAA&sourceid=chrome&ie=UTF-8
+
+
+---
 
 
 https://www.samsung.com/cz/support/your-service/direct-payment/select-symptom-IH na té stránce je jen textový box ... poraď mi prosím, co mám napsat
@@ -210,6 +233,7 @@ Pokud se chyba opakuje → nechat zkontrolovat topné těleso nebo snímač tepl
 chci napsat
 
 Pračka  hlásí chybu HC2 při sušení, prádlo zůstává studené. Při testu přes Smart Check hlásí: „Check the drying heater“
+
 608935899
 608 935 899
 
@@ -225,7 +249,10 @@ Chytrá oprava
 
 bookanappointment
 Moje zařízeníMoje zařízení
-Zarezervovat opravu telefonuZarezervovat opravu telefonu
+Zarezervovat opravu telefonuZarezervovat opravu 
+
+telefonu
+
 Stav mého požadavkuStav mého požadavku
 checkicon
 
@@ -245,6 +272,7 @@ Kontaktní informace
 Historie dotazů
 
 29/10/2025
+
 Pračka hlásí chybu HC2 při sušení, prádlo zůstává studené. Při testu
 přes Smart Check hlásí: „Check the drying heater“
 
@@ -260,9 +288,46 @@ https://www.samsung.com/cz/support/your-service/track-repair
 https://chat.google.com/room/AAAA2NU9Pu0/8bBwhgd5Ujk/8bBwhgd5Ujk?cls=10
 
 
+https://mail.google.com/mail/u/0/#search/samsung
+
+
+Jméno : Jiří
+
+Příjmení : Bok
+
+E-mail : jiri.vla
+
+Telefonní číslo : 608 935 899
+
+Ulice : Topasova
+
+Číslo popisné : 958/43
+
+PSČ : 15300
+
+Město : Praha 16
+
+Modelové označení : WD80J6A10AW/LE
+
+Sériové číslo : 0SVC5ABM400016N
+
+Kontrola původu produktu : Nový
+
+Záruka : Po záruční době
+
+Prodejce : ALZA.cz
+
+Datum zakoupení :05-10-2019
+
+Preferovaný datum opravy : 10-12-2025 09:00:00
+
 # SMS 6.10. 
 Dobry den,
 nize Vam posilam odkaz pro vytvoreni servisniho pozadavku.
+
+
+Odkaz: https://forms-prod.sprinklr.com/guided-workflows/67b73324ea158b6........
+
 
 V pripade dotazu nas nevahejte kontaktovat.
 S pozdravem,
@@ -320,7 +385,13 @@ Předem Vám děkuji za spolupráci.
 
  
 
-Máte další otázky? Kontaktujte nás na WhatsApp 800 726 786 nebo se připojte k naší Samsung Community.
+Máte další otázky? Kontaktujte nás na
+
+
+ WhatsApp 800 726 786 nebo se připojte k naší 
+ 
+ 
+ Samsung Community.
 
  
 
@@ -365,6 +436,9 @@ Máte další otázky? Kontaktujte nás na WhatsApp 800 726 786 nebo se připojt
 
 do skupiny
 
+
+
+
 @
 > Ahoj Milane, pošli, prosím, to číslo na opraváře praček, který byl u vás. Taky potřebujeme opravit.
 
@@ -386,9 +460,29 @@ nejdřív mne považovali za uživatele, který neotevřel manuál
 
 značkový servis chtěl 1000 za výjezd a 1000 za diagnostiku
 
+
 když o tom teď uvažuji, možná jsem docela dobře mohl použít nejremeslnici.cz , nebo google search + google maps recenze, nebo se poradit s  AI  ... teď máme pro 6 lidí placený Gemini Ai tarif
 
 
 
 @
 
+re: pracka 
+jako ukazka 
+ℹ️ https://www.nejremeslnici.cz/autor/75111   Zákazník: Milan B.  , 
+https://www.nejremeslnici.cz/autor/487584 Zákazník: Jiří B.
+
+edit. 
+
+edit. 
+na 
+https://www.nejremeslnici.cz/
+při zadávání poptávky
+je velmi důležité zvolit tu možnost
+že ℹ️ℹ️ℹ️ jim člověk dá svoje telefonní číslo hned
+...vysvětlím vám později 
+...2504.. lituju že jsem to neudělal
+
+edit. méně důležité... ℹ️ registrace je až v ..průběhu.. zadání poptávky
+
+ @ all  
