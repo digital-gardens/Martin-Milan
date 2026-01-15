@@ -157,6 +157,10 @@ Případ byl aktualizovaný. Informace bude zpracována do 1 pracovního dne.
 pro milana... ostatní v mailu a vscode 
 C:\Users\marti\OneDrive\Dokumenty\1804-NEW\samsung-oprava-250922-260106.publ.md
 
+https://mail.google.com/mail/u/0/#search/sprinklr
+
+https://mail.google.com/mail/u/0/#search/samsung
+
 
 
 # napíšu na pračku
@@ -176,3 +180,11 @@ jak
 v androidu snadno  zjistit, zda někdo volal
 
 
+
+# https://www.inter-servis.cz/zakaznicke-centrum-praha.html
+
+-- 328986078 -- dobrý den, změna ... nemohu v pondělí 19.1. ... mohu kterýkoliv další den, nejlépe po 9:00. E-mail : jiri.vlastimil. . (odesílám maily z jir....uni.cz ) ...  
+
+
+
+https://www.samsung.com/cz/support/service-center/?srsltid=AfmBOoqrXLRgMKPzDSjtsRBlqu9Tu-faiAzVMrfC4Kie174IcYTvsLy5

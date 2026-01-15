@@ -513,3 +513,9 @@ je velmi důležité zvolit tu možnost
 edit. méně důležité... ℹ️ registrace je až v ..průběhu.. zadání poptávky
 
  @ all  
+
+
+
+
+
+https://www.samsung.com/cz/support/service-center/?srsltid=AfmBOoqrXLRgMKPzDSjtsRBlqu9Tu-faiAzVMrfC4Kie174IcYTvsLy5
