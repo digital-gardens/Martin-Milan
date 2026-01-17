@@ -2,22 +2,40 @@
 
 
 EDIT      trnout hodinu a pul ?
+edit trnout dalsi den?
 EDIT      cena tomu asi nasvedcuje?
 
-file:///C:\Users\marti\OneDrive\Dokumenty\250618-621-internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna.f8.md
+
+
+- [Může zásilku z AlzaBoxu pro mne vyzvednout někdo jiný, když mu sdělím kód pro vyzvednutí?](#může-zásilku-z-alzaboxu-pro-mne-vyzvednout-někdo-jiný-když-mu-sdělím-kód-pro-vyzvednutí)
+- [Zásilkovna domů | Naše vlastní doručování na adresu - Zasilkovna.cz](#zásilkovna-domů--naše-vlastní-doručování-na-adresu---zasilkovnacz)
+	- [- Jakmile kurýr vaši zásilku naloží, pošleme vám notifikaci s informací o doručení s přesností na 90 minut.](#--jakmile-kurýr-vaši-zásilku-naloží-pošleme-vám-notifikaci-s-informací-odoručení-s-přesností-na-90-minut)
+- [MESSENGER - meziměstská přeprava](#messenger---meziměstská-přeprava)
+- [Liftago](#liftago)
+- [https://www.ispace.cz/stranky/zpusoby-dopravy/](#httpswwwispaceczstrankyzpusoby-dopravy)
+- [https://www.mp.cz/doprava](#httpswwwmpczdoprava)
+- [dodo decathlon](#dodo-decathlon)
+- [gpt](#gpt)
+
+
+
+ older file:///C:\Users\marti\OneDrive\Dokumenty\250618-621-internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna.f8.md
+
 https://gemini.google.com/app/d6212a1f2fec0b8d
 
-https://www.zasilkovna.cz/blog/zasilkovna-muze-mi-vyzvednout-balik-nekdo-jiny
+
+
+# https://www.zasilkovna.cz/blog/zasilkovna-muze-mi-vyzvednout-balik-nekdo-jiny
 K vyzvednutí zásilky vám stačí **5místné heslo**, které sdělíte obsluze pobočky. Heslo byste měli mít k dispozici v **e-mailu**, **aplikaci Zásilkovna**  a v **SMS** (pokud do hodiny od doručení nerozkliknete notifikaci v appce).
 https://www.zasilkovna.cz/pobocky
 na bojisti
 
 
 
+# jsem v plném invalidním důchodu
 
 jenom jsem chtěl hledat, zda něco píšete např. o AlzaBoxech
 
-jsem v plném invalidním důchodu
 je pro mne velmi těžké  dostat se do kamenného obchodu, vyzvednout si zásilku z výdejního místa, alzaboxu, apod.
 
 
@@ -50,7 +68,7 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
 
 
 
-
+# kosik.cz
 
 [Vyhledávání "kalhotky" | Košík.cz](https://www.kosik.cz/vyhledavani?search=kalhotky+)
 
@@ -59,6 +77,8 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
 [Vyhledávání "kalhotky" | Košík.cz](https://www.kosik.cz/p729208-depend-depend-super-pro-zeny-l-natahovaci-kalhotky-9-ks)
 
 [https://www.kosik.cz/p729208-depend-depend-super-pro-zeny-l-natahovaci-kalhotky-9-ks](https://www.kosik.cz/p729208-depend-depend-super-pro-zeny-l-natahovaci-kalhotky-9-ks)
+
+# BENU.cz
 
 [Doprava a platba | BENU.cz](https://www.benu.cz/doprava-a-platba?_gl=1*1g2qavt*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiA7NO7BhDsARIsADg_hIbqdiKHjuCONdMKbnilgbvGH-OaSpRqKKzUg-dGWTNN56GWDO8i_NwaAhVXEALw_wcB)
 
@@ -72,7 +92,9 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
 
 [https://hypothes.is/search?q=tag%3Adoprava](https://hypothes.is/search?q=tag%3Adoprava)
 
-[Doprava | ONLINESHOP.cz](https://www.onlineshop.cz/nakupovani/doprava.html)
+
+
+# [Doprava | ONLINESHOP.cz](https://www.onlineshop.cz/nakupovani/doprava.html)
 
 [https://www.onlineshop.cz/nakupovani/doprava.html](https://www.onlineshop.cz/nakupovani/doprava.html)
 
@@ -87,7 +109,7 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
        
     
 
-[Doprava - Decathlon](https://www.decathlon.cz/doprava_lp-SO1G02#:~:text=EXPRESN%C3%8D%20DORU%C4%8CEN%C3%8D%20NADROZM%C4%9ARN%C3%9DCH%20Z%C3%81SILEK%20DODO%20\(OD%20499%20K%C4%8C\)&text=Jedn%C3%A1%20se%20o%20z%C3%A1silky%20s,%C4%8Dasov%C3%A9m%20rozmez%C3%AD%2017%20%2D%2021%20h.)
+# [Doprava - Decathlon](https://www.decathlon.cz/doprava_lp-SO1G02#:~:text=EXPRESN%C3%8D%20DORU%C4%8CEN%C3%8D%20NADROZM%C4%9ARN%C3%9DCH%20Z%C3%81SILEK%20DODO%20\(OD%20499%20K%C4%8C\)&text=Jedn%C3%A1%20se%20o%20z%C3%A1silky%20s,%C4%8Dasov%C3%A9m%20rozmez%C3%AD%2017%20%2D%2021%20h.)
 
 [https://www.decathlon.cz/doprava_lp-SO1G02#:~:text=EXPRESN%C3%8D%20DORU%C4%8CEN%C3%8D%20NADROZM%C4%9ARN%C3%9DCH%20Z%C3%81SILEK%20DODO%20(OD%20499%20K%C4%8C)&text=Jedn%C3%A1%20se%20o%20z%C3%A1silky%20s,%C4%8Dasov%C3%A9m%20rozmez%C3%AD%2017%20%2D%2021%20h.](https://www.decathlon.cz/doprava_lp-SO1G02#:~:text=EXPRESN%C3%8D%20DORU%C4%8CEN%C3%8D%20NADROZM%C4%9ARN%C3%9DCH%20Z%C3%81SILEK%20DODO%20\(OD%20499%20K%C4%8C\)&text=Jedn%C3%A1%20se%20o%20z%C3%A1silky%20s,%C4%8Dasov%C3%A9m%20rozmez%C3%AD%2017%20%2D%2021%20h.)
 
@@ -419,7 +441,7 @@ https://www.instagram.com/p/C6HTW71vagx/
     Pro bližší informace ohledně stavu a termínu dodání je možné využít informační linku přepravce: **220 400 000**.
     
 
-# [Liftago](https://www.alza.cz/liftago)
+# alza // uz nema liftago [Liftago](https://www.alza.cz/liftago)
 
 
 
@@ -438,7 +460,9 @@ Potřebuji něco expresně doručit, pomůže mi Liftago?
     
        
     
-- Skladem na showroomu Praha 7
+- Skladem na showroomu Praha 7 holesovice praha 5 chrastany 
+
+
 - do 20 kg, rozměr do 55 x 45 x 25 cm
 - Vše, co je skladem na showroomu a pobočkách, kde službu Liftago provozujeme. Hmotnost zboží do 25 kg a rozměry max. 55 x 45 x 25 cm.
     
