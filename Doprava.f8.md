@@ -7,11 +7,20 @@ EDIT      cena tomu asi nasvedcuje?
 
 
 
+
+- [older file:///C:\\Users\\marti\\OneDrive\\Dokumenty\\250618-621-internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna.f8.md](#older-filecusersmartionedrivedokumenty250618-621-internetový-obchoddopravadoručenívyzvednutí-zásilkyalzaboxzásilkovnaf8md)
+- [https://gemini.google.com/app/d6212a1f2fec0b8d](#httpsgeminigooglecomappd6212a1f2fec0b8d)
+- [https://www.zasilkovna.cz/blog/zasilkovna-muze-mi-vyzvednout-balik-nekdo-jiny](#httpswwwzasilkovnaczblogzasilkovna-muze-mi-vyzvednout-balik-nekdo-jiny)
+- [jsem v plném invalidním důchodu](#jsem-v-plném-invalidním-důchodu)
 - [Může zásilku z AlzaBoxu pro mne vyzvednout někdo jiný, když mu sdělím kód pro vyzvednutí?](#může-zásilku-z-alzaboxu-pro-mne-vyzvednout-někdo-jiný-když-mu-sdělím-kód-pro-vyzvednutí)
+- [kosik.cz](#kosikcz)
+- [BENU.cz](#benucz)
+- [Doprava | ONLINESHOP.cz](#doprava--onlineshopcz)
+- [Doprava - Decathlon](#doprava---decathlon)
 - [Zásilkovna domů | Naše vlastní doručování na adresu - Zasilkovna.cz](#zásilkovna-domů--naše-vlastní-doručování-na-adresu---zasilkovnacz)
 	- [- Jakmile kurýr vaši zásilku naloží, pošleme vám notifikaci s informací o doručení s přesností na 90 minut.](#--jakmile-kurýr-vaši-zásilku-naloží-pošleme-vám-notifikaci-s-informací-odoručení-s-přesností-na-90-minut)
 - [MESSENGER - meziměstská přeprava](#messenger---meziměstská-přeprava)
-- [Liftago](#liftago)
+- [alza](#alza)
 - [https://www.ispace.cz/stranky/zpusoby-dopravy/](#httpswwwispaceczstrankyzpusoby-dopravy)
 - [https://www.mp.cz/doprava](#httpswwwmpczdoprava)
 - [dodo decathlon](#dodo-decathlon)
@@ -19,9 +28,10 @@ EDIT      cena tomu asi nasvedcuje?
 
 
 
- older file:///C:\Users\marti\OneDrive\Dokumenty\250618-621-internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna.f8.md
 
-https://gemini.google.com/app/d6212a1f2fec0b8d
+# older file:///C:\Users\marti\OneDrive\Dokumenty\250618-621-internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna.f8.md
+
+# https://gemini.google.com/app/d6212a1f2fec0b8d
 
 
 
@@ -98,33 +108,41 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
 
 [https://www.onlineshop.cz/nakupovani/doprava.html](https://www.onlineshop.cz/nakupovani/doprava.html)
 
+
+liftago  
+
 - Doručení ve Vámi zvoleném čase, pokud je zboží skladem a objednávka je do 12.00. Jedná se o garantované, rychlé a kvalitní doručení v rámci Prahy.
     
 - Termín doručení je do 60 minut od učinění objednávky, pokud je zboží skladem a objednávka je vytvořena od 9.45 do 17.00. Jedná se o garantované, rychlé a kvalitní doručení v rámci Prahy.
     
        
     
-- Dopravu zajišťuje zaměstnanec ONLINESHOP.cz (řidič bez závozníka), vlastním vozovým parkem s možností volby přidaných služeb. V ceně je zahrnut základní dovoz za první uzamykatelné dveře. Budete kontaktováni řidičem pro zvolení časového okna.
     
        
     
 
 # [Doprava - Decathlon](https://www.decathlon.cz/doprava_lp-SO1G02#:~:text=EXPRESN%C3%8D%20DORU%C4%8CEN%C3%8D%20NADROZM%C4%9ARN%C3%9DCH%20Z%C3%81SILEK%20DODO%20\(OD%20499%20K%C4%8C\)&text=Jedn%C3%A1%20se%20o%20z%C3%A1silky%20s,%C4%8Dasov%C3%A9m%20rozmez%C3%AD%2017%20%2D%2021%20h.)
 
+## Není skladem na žádné prodejně
+
 [https://www.decathlon.cz/doprava_lp-SO1G02#:~:text=EXPRESN%C3%8D%20DORU%C4%8CEN%C3%8D%20NADROZM%C4%9ARN%C3%9DCH%20Z%C3%81SILEK%20DODO%20(OD%20499%20K%C4%8C)&text=Jedn%C3%A1%20se%20o%20z%C3%A1silky%20s,%C4%8Dasov%C3%A9m%20rozmez%C3%AD%2017%20%2D%2021%20h.](https://www.decathlon.cz/doprava_lp-SO1G02#:~:text=EXPRESN%C3%8D%20DORU%C4%8CEN%C3%8D%20NADROZM%C4%9ARN%C3%9DCH%20Z%C3%81SILEK%20DODO%20\(OD%20499%20K%C4%8C\)&text=Jedn%C3%A1%20se%20o%20z%C3%A1silky%20s,%C4%8Dasov%C3%A9m%20rozmez%C3%AD%2017%20%2D%2021%20h.)
 
 - ## EXPRESNÍ DORUČENÍ DODO (OD 109 KČ)
     
-       
+    V rámci doručení DODO express doručíme po Praze, Brně a Ostravě vaši zásilku. V případě objednání do 15:00 doručíme Vaši zásilku ještě ten samý den v časovém rozmezí 17 - 21 h. V případě odeslání objednávky po 15. hodině doručujeme zásilku následující den mezi 17.- 21. hodinou.
+
+
+
+   
     
 
-[Způsoby a ceny doručení | MALL.CZ](https://www.mall.cz/zpusoby-doruceni)
+# [Způsoby a ceny doručení | MALL.CZ](https://www.mall.cz/zpusoby-doruceni)
 
 [https://www.mall.cz/zpusoby-doruceni](https://www.mall.cz/zpusoby-doruceni)
 
 - Cena služby pro běžné zásilky je 169 Kč v rámci Prahy, 159 Kč v rámci Brna a 239 Kč pro Středočeský kraj.
 
-[Doprava snadno a rychle | OKAY.cz](https://www.okay.cz/pages/doprava-snadno-a-rychle)
+# [Doprava snadno a rychle | OKAY.cz](https://www.okay.cz/pages/doprava-snadno-a-rychle)
 
 [https://www.okay.cz/pages/doprava-snadno-a-rychle](https://www.okay.cz/pages/doprava-snadno-a-rychle)
 
@@ -142,11 +160,13 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
 
 
 
-251213    Pro tento způsob doručení využíváme společnost Liftago, která pro vás objednané zboží vozí z prodejen. Abychom mohli zboží doručit, je nutné, aby bylo skladem na některé z prodejen ve vašem okolí a zároveň dostupné na centrálním skladě. Pokud vaše objednávka tuto podmínku nesplňuje, nebude možné pro vaši adresu službu využít.
+251213 
+   Pro tento způsob doručení využíváme společnost Liftago, která pro vás objednané zboží vozí z prodejen. Abychom mohli zboží doručit, je nutné, aby bylo skladem na některé z prodejen ve vašem okolí a zároveň dostupné na centrálním skladě. Pokud vaše objednávka tuto podmínku nesplňuje, nebude možné pro vaši adresu službu využít.
 
 
    
     
+# ELECTRO WORLD se změnil na DATART. E-shop Electroworld.cz k 1. 9. 2024 skončil. Péči o zákazníky ELECTRO WORLDu přebírá DATART, u kterého najdete stejné produkty i kvalitu. Vítejte!
 
 [Expresní doprava po Praze s DODO | Electroworld.cz](https://www.electroworld.cz/expresni-doprava-po-praze-s-dodo)
 
@@ -159,7 +179,8 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
 
 [https://github.com/martin12333/marti-onedrive/tree/main2/conn](https://github.com/martin12333/marti-onedrive/tree/main2/conn)
 
-[Doprava a platba - Lékárna.cz](https://www.lekarna.cz/doprava-a-platba/)
+
+# [Doprava a platba - Lékárna.cz](https://www.lekarna.cz/doprava-a-platba/)
 
 [https://www.lekarna.cz/doprava-a-platba/](https://www.lekarna.cz/doprava-a-platba/)
 
@@ -176,7 +197,11 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
     
 - Zásilkovna doručení na adresu DNES do 22:00 po celé Praze
     
-    Platí pro objednávky vytvořené do 14 hodin a zboží skladem. Rozvoz pouze v pracovní dny.
+    Platí pro objednávky vytvořené do 14 hodin a
+    
+     zboží skladem. 
+     
+     Rozvoz pouze v pracovní dny.
     
 
 -- nemůžu najít
@@ -189,7 +214,11 @@ https://chatgpt.com/c/68542a72-879c-8004-94e2-341cbbd026bf
     
 - ### adresu DNES do 22:00 po celé Praze
     
-    Zásilku vám doručíme v pracovní dny na jakoukoli adresu po celé Praze. Dostupnost služby pro vaši adresu si ověříte výběrem PSČ ze seznamu v košíku. Platí pro objednávky vytvořené do 14 hodin a zboží skladem. Více o službě se dozvíte na [této stránce.](https://www.lekarna.cz/novinka/vecerni-doruceni-praha/)
+    Zásilku vám doručíme v pracovní dny na jakoukoli adresu po celé Praze. Dostupnost služby pro vaši adresu si ověříte výběrem PSČ ze seznamu v košíku. Platí pro objednávky vytvořené do 14 hodin a 
+    
+    zboží skladem.
+    
+     Více o službě se dozvíte na [této stránce.](https://www.lekarna.cz/novinka/vecerni-doruceni-praha/)
     
     ### WE|DO
     
@@ -252,7 +281,7 @@ https://www.diigo.com/user/martin12333?query=%23todo
     
     Share to Group
     
-    ### [Amazon.de:Customer Reviews: VITCOCO Ear Wax Remover Otoscope, WiFi Ear Cleaner Camera, 1920P Ultra Thin HD Wireless Waterproof Ear Mirror with 3.0 mm Lens and 6 LEDs for iPhone, iPad and Android Smartphones](https://www.amazon.de/-/en/product-reviews/B0BP1Q4FYH/ref=cm_cr_arp_d_viewopt_sr?ie=UTF8&filterByStar=three_star&reviewerType=all_reviews&pageNumber=1)
+### [Amazon.de:Customer Reviews: VITCOCO Ear Wax Remover Otoscope, WiFi Ear Cleaner Camera, 1920P Ultra Thin HD Wireless Waterproof Ear Mirror with 3.0 mm Lens and 6 LEDs for iPhone, iPad and Android Smartphones](https://www.amazon.de/-/en/product-reviews/B0BP1Q4FYH/ref=cm_cr_arp_d_viewopt_sr?ie=UTF8&filterByStar=three_star&reviewerType=all_reviews&pageNumber=1)
     
     2
     
@@ -399,17 +428,28 @@ https://www.instagram.com/p/C6HTW71vagx/
 - **PALIVOVÝ PŘÍPLATEK  
     **Aktuálně výpočet a historii palivového příplatku naleznete [zde](https://www.messenger.cz/common/file/ke-stazeni/palivovy-priplatek-messenger.pdf?height=600&width=600).
 
-[Kalkulátor - Mailboxde.cz](https://www.mailboxde.cz/kalkulator.html)
+
+
+
+# [Kalkulátor - Mailboxde.cz](https://www.mailboxde.cz/kalkulator.html)
 
 [https://www.mailboxde.cz/kalkulator.html](https://www.mailboxde.cz/kalkulator.html)
 
 - o 25.000,- Kč, Doručení i v SO 149,00 CZK 231,00 CZK ![Česká pošta - EMS](https://system.mailboxde.cz/images/ems-logo-15.jpg) Dodací lhůta 1 prac. den (**garantováno** pro obj. do 14:00)
 - MESSENGER - OVERNIGHT, Doručení kamkoliv po ČR,
+
+
 - ění do 25 000,- Kč 182,00 CZK 264,00 CZK ![Messenger](https://system.mailboxde.cz/images/messenger-logo.jpg) Doručení po ČR následující pracovní den (**garantováno mimo prosinec** pro obj. do 12:00 v PO-PÁ)
 
-[Google Keep](https://keep.google.com/#NOTE/1-ES3aS6cBXo3-Uj3Q1ayTHxlb9UcpVZl1CO_4-tsKixUDrq8lq4V5qR_2deVDQ)
+
+
 
 [https://keep.google.com/#NOTE/1-ES3aS6cBXo3-Uj3Q1ayTHxlb9UcpVZl1CO_4-tsKixUDrq8lq4V5qR_2deVDQ](https://keep.google.com/#NOTE/1-ES3aS6cBXo3-Uj3Q1ayTHxlb9UcpVZl1CO_4-tsKixUDrq8lq4V5qR_2deVDQ)
+
+
+
+# alza 
+
 
 [Messenger](https://www.alza.cz/messenger)
 
@@ -441,9 +481,24 @@ https://www.instagram.com/p/C6HTW71vagx/
     Pro bližší informace ohledně stavu a termínu dodání je možné využít informační linku přepravce: **220 400 000**.
     
 
-# alza // uz nema liftago [Liftago](https://www.alza.cz/liftago)
+
+- Skladem na showroomu Praha 7 holesovice praha 5 chrastany 
 
 
+Vyberte zboží ze skladů P7 – Holešovice nebo P5 – Chrášťany.
+
+
+// uz nema liftago [Liftago](https://www.alza.cz/liftago)
+
+lts for Chrášťany
+ ∙ Choose area
+Zboží skladem na prodejně Showroom Praha 5 Zličín
+
+Alza
+https://www.alza.cz › showroom-p...
+·
+Translate this page
+Na této stránce najdete všechno zboží, jež máme skladem na prodejně Showroom Praha 5 Zličín - Chrášťany. Ušetře
 
 
 Jak se příjemce dozví o blížící se zásilce?
@@ -460,7 +515,6 @@ Potřebuji něco expresně doručit, pomůže mi Liftago?
     
        
     
-- Skladem na showroomu Praha 7 holesovice praha 5 chrastany 
 
 
 - do 20 kg, rozměr do 55 x 45 x 25 cm
@@ -497,7 +551,11 @@ Potřebuji něco expresně doručit, pomůže mi Liftago?
 - sponující PIN kódem k převzetí objednávky. Na telefonní číslo příjemce je před samotným doručením zaslána sms s PIN kódem, který je třeba sdělit řidiči. Prosíme tedy o upřesnění komu budeme zásilku předávat do poznámky k objednávce, abychom na to mohli dopředu upozornit řidiče
 - je skladem na showroomu a pobočkách, kde službu Liftago provozujeme. Hmotnost zboží do 25 kg a rozměry max. 55 x 45 x 25 cm. Pro větší zásilky je potřeba využit [alternativní způsoby přepravy](https://www.diigo.com/doprava-prehled-moznosti-art1456.htm). V případě vyzvednutí velké zásilky doporučujeme využít [Alza Point](https://www.diigo.com/alzapoint).
 
-[Doprava a platba - RECOMP.cz](https://www.recomp.cz/informace-k-nakupu/doprava-a-platba/)
+
+
+
+
+# [Doprava a platba - RECOMP.cz](https://www.recomp.cz/informace-k-nakupu/doprava-a-platba/)
 
 [https://www.recomp.cz/informace-k-nakupu/doprava-a-platba/](https://www.recomp.cz/informace-k-nakupu/doprava-a-platba/)
 
@@ -510,7 +568,7 @@ Potřebuji něco expresně doručit, pomůže mi Liftago?
 - Při převzetí zásilky si ale i tak prosím zkontrolujte, že balíček není výrazně poškozený. Pokud uvidíte poškození typu díry, trhliny, či bude vyčuhovat vnitřní ochranná výplň - BALÍČEK NEPŘEBÍREJTE a dejte nám o tom ihned vědět a my situaci okamžitě vyřešíme - Nejlepší je nám zavolat na číslo 777 806 095 a můžete zaslat i fotografii poškození na mail - [info@recomp.cz](mailto:info@recomp.cz)
     
 
-[| Softcom Group s.r.o. i6Shop](https://www.softcom.cz/eshop/doprava_ma45.html)
+# [| Softcom Group s.r.o. i6Shop](https://www.softcom.cz/eshop/doprava_ma45.html)
 
 [https://www.softcom.cz/eshop/doprava_ma45.html](https://www.softcom.cz/eshop/doprava_ma45.html)
 
