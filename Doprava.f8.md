@@ -6,8 +6,6 @@ edit trnout dalsi den?
 EDIT      cena tomu asi nasvedcuje?
 
 
-
-
 - [older file:///C:\\Users\\marti\\OneDrive\\Dokumenty\\250618-621-internetový-obchod,doprava,doručení,vyzvednutí-zásilky,AlzaBox,Zásilkovna.f8.md](#older-filecusersmartionedrivedokumenty250618-621-internetový-obchoddopravadoručenívyzvednutí-zásilkyalzaboxzásilkovnaf8md)
 - [https://gemini.google.com/app/d6212a1f2fec0b8d](#httpsgeminigooglecomappd6212a1f2fec0b8d)
 - [https://www.zasilkovna.cz/blog/zasilkovna-muze-mi-vyzvednout-balik-nekdo-jiny](#httpswwwzasilkovnaczblogzasilkovna-muze-mi-vyzvednout-balik-nekdo-jiny)
@@ -17,10 +15,20 @@ EDIT      cena tomu asi nasvedcuje?
 - [BENU.cz](#benucz)
 - [Doprava | ONLINESHOP.cz](#doprava--onlineshopcz)
 - [Doprava - Decathlon](#doprava---decathlon)
+	- [Není skladem na žádné prodejně](#není-skladem-na-žádné-prodejně)
+- [Způsoby a ceny doručení | MALL.CZ](#způsoby-a-ceny-doručení--mallcz)
+- [Doprava snadno a rychle | OKAY.cz](#doprava-snadno-a-rychle--okaycz)
+- [ELECTRO WORLD se změnil na DATART. E-shop Electroworld.cz k 1. 9. 2024 skončil. Péči o zákazníky ELECTRO WORLDu přebírá DATART, u kterého najdete stejné produkty i kvalitu. Vítejte!](#electro-world-se-změnil-na-datart-e-shop-electroworldcz-k-1-9-2024-skončil-péči-o-zákazníky-electro-worldu-přebírá-datart-u-kterého-najdete-stejné-produkty-i-kvalitu-vítejte)
+- [Doprava a platba - Lékárna.cz](#doprava-a-platba---lékárnacz)
+		- [Amazon.de:Customer Reviews: VITCOCO Ear Wax Remover Otoscope, WiFi Ear Cleaner Camera, 1920P Ultra Thin HD Wireless Waterproof Ear Mirror with 3.0 mm Lens and 6 LEDs for iPhone, iPad and Android Smartphones](#amazondecustomer-reviews-vitcoco-ear-wax-remover-otoscope-wifi-ear-cleaner-camera-1920p-ultra-thin-hd-wireless-waterproof-ear-mirror-with-30-mm-lens-and-6-leds-for-iphone-ipad-and-android-smartphones)
 - [Zásilkovna domů | Naše vlastní doručování na adresu - Zasilkovna.cz](#zásilkovna-domů--naše-vlastní-doručování-na-adresu---zasilkovnacz)
 	- [- Jakmile kurýr vaši zásilku naloží, pošleme vám notifikaci s informací o doručení s přesností na 90 minut.](#--jakmile-kurýr-vaši-zásilku-naloží-pošleme-vám-notifikaci-s-informací-odoručení-s-přesností-na-90-minut)
 - [MESSENGER - meziměstská přeprava](#messenger---meziměstská-přeprava)
+- [Kalkulátor - Mailboxde.cz](#kalkulátor---mailboxdecz)
 - [alza](#alza)
+- [Doprava a platba - RECOMP.cz](#doprava-a-platba---recompcz)
+- [| Softcom Group s.r.o. i6Shop](#-softcom-group-sro-i6shop)
+- [Doprava a platba | CZC.cz](#doprava-a-platba--czccz)
 - [https://www.ispace.cz/stranky/zpusoby-dopravy/](#httpswwwispaceczstrankyzpusoby-dopravy)
 - [https://www.mp.cz/doprava](#httpswwwmpczdoprava)
 - [dodo decathlon](#dodo-decathlon)
@@ -435,6 +443,12 @@ https://www.instagram.com/p/C6HTW71vagx/
 
 [https://www.mailboxde.cz/kalkulator.html](https://www.mailboxde.cz/kalkulator.html)
 
+uz asi jen na depu
+
+MESSENGER - Večer v Praze na depu / Ráno v Brně na depu: Expresní přeprava menších i křehkých zásilek. Zásilky objednané do 13:00 lze vyzvednout od 21:00 do 22:30 stejný pracovní den v Praze 19 - Kbelích respektive následující pracovní den v 8:00 v Brně - Modřicích.
+
+
+
 - o 25.000,- Kč, Doručení i v SO 149,00 CZK 231,00 CZK ![Česká pošta - EMS](https://system.mailboxde.cz/images/ems-logo-15.jpg) Dodací lhůta 1 prac. den (**garantováno** pro obj. do 14:00)
 - MESSENGER - OVERNIGHT, Doručení kamkoliv po ČR,
 
@@ -443,7 +457,7 @@ https://www.instagram.com/p/C6HTW71vagx/
 
 
 
-
+old
 [https://keep.google.com/#NOTE/1-ES3aS6cBXo3-Uj3Q1ayTHxlb9UcpVZl1CO_4-tsKixUDrq8lq4V5qR_2deVDQ](https://keep.google.com/#NOTE/1-ES3aS6cBXo3-Uj3Q1ayTHxlb9UcpVZl1CO_4-tsKixUDrq8lq4V5qR_2deVDQ)
 
 
@@ -587,7 +601,7 @@ Potřebuji něco expresně doručit, pomůže mi Liftago?
     
 - Podmínkou služby je přiměřená pomoc příjemce, zákazník tedy musí řidiči s výnosem pomoci. Řidič s dopomocí příjemce „vytáhne“ zboží za použití stoupacího rudlu do patra.
 
-[Doprava a platba | CZC.cz](https://www.czc.cz/doprava-a-platba/clanek)
+# [Doprava a platba | CZC.cz](https://www.czc.cz/doprava-a-platba/clanek)
 
 [https://www.czc.cz/doprava-a-platba/clanek](https://www.czc.cz/doprava-a-platba/clanek)
 
@@ -618,8 +632,21 @@ https://www.hrot24.cz/clanek/byznys-briefing-vzestup-a-pad-quick-commerce-proc-s
 
 https://www.lupa.cz/aktuality/billa-zavre-vlastni-online-shop-partneri-v-quick-commerce-to-zvladnou-efektivneji-naznacuje/nazory/
 
+
+
+
+
+
+
+
 # https://www.ispace.cz/stranky/zpusoby-dopravy/
 
+DODO - kurýrní společnost - pouze po Praze
+Pondělí 19.01. 
+Messenger pouze po Praze (do10:30)
+Pondělí 19.01. 
+
+https://www.ispace.cz/p/garmin-index-s2-black-chytra-vaha/
 
 
 
