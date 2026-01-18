@@ -1,3 +1,21 @@
+
+tanita?
+omron?
+Přesnost měření -tělesná hmotnost 0,0 -40,0 kg  +/- 400 g, 40,1 -150,0 kg  +/- 1%
+omron HN 289 "weight accuracy" 1%+0.1 kg
+
+
+garmin?
+...
+...
+withings?
+
+
+eta?
+
+other?
+
+
 # datart
 
 Váha vypadá hezky, ale nezváží Vás, dokud si nenainstalujete základní mobilní aplikaci. Ta je sice zdarma, ale chce spoustu údajů a taky hledání, protože není příliš přehledná a postrádá podrobný návod. Nakonec jsem uspěl s Bluetooth i Wi-Fi, ale za odměnu jsem se dočkal jen šoku. Váha mě jen zvážila. Pokud bych si přál vše slibované v popisu na Datartu, musel bych navíc instalovat ještě 
@@ -44,6 +62,11 @@ Aplikace k váze je placená. Naštěstí ukazuje váha základní informace na 
 
 
 
+
+
+# 260118
+
+The product is mostly fine. However, sometimes when you step on it, it never settles on a single value, and instead continually changes between two very near values rapidly, then just goes blank. Usually, you have step down and retry until that stops happening and it gives you a single value.
 
 
 

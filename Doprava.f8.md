@@ -441,6 +441,8 @@ https://www.instagram.com/p/C6HTW71vagx/
 
 # [Kalkulátor - Mailboxde.cz](https://www.mailboxde.cz/kalkulator.html)
 
+namitka ... reklamace
+
 [https://www.mailboxde.cz/kalkulator.html](https://www.mailboxde.cz/kalkulator.html)
 
 uz asi jen na depu
