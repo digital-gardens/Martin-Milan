@@ -1,7 +1,7 @@
 
 
 too lazy to
-consider renaming the file to 
+to consider renaming the file to 
 251212
 .tagged
 .lines

@@ -1013,9 +1013,12 @@ Vážený zákazníku,
 
 
 
+
+
+
 dobrý den,
 > "dnes v čase 10:20-12:20 hod. Vám budeme doručovat zásilku."  "Cenné psaní: VL4794171713C" "Topasová 958/43, Radotín, 15300"
-adresát nebude doma. členové domácnosti jsou částečně invalidní. potřebovali bychom nějaký signál, aspoň prozvonit, asi tak 10 až 30 minut předem... Tel. na syna adresáta je 776 255 129
+# adresát nebude doma. členové domácnosti jsou částečně invalidní. potřebovali bychom nějaký signál, aspoň prozvonit, asi tak 10 až 30 minut předem... Tel. na syna adresáta je 776 255 129
 
 
 
