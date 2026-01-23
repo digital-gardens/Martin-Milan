@@ -3,6 +3,7 @@
 
 
 # další dny přidávat 20 řádek před koncem souboru
+80
 
 
 # the philosophy of antifragility is more important 
@@ -1008,13 +1009,7 @@ repo:digital-gardens/Martin-Milan 2511-symptom-tracker.publ
 
 
 # 2026-01-06
-
 Vážený zákazníku,
-
-
-
-
-
 
 dobrý den,
 > "dnes v čase 10:20-12:20 hod. Vám budeme doručovat zásilku."  "Cenné psaní: VL4794171713C" "Topasová 958/43, Radotín, 15300"
@@ -1055,7 +1050,60 @@ Vaše Česká pošta
 
 
 
+# 2026-01-21
+ si mohli bezpečně vyzkoušet různé operace, a hlavně:
 
+zda existuje demo mód či trenažér  internetového bankovnictví České spořitelny
+
+
+, ... potřeboval bych , aby důchodci, kterým pomáhám, mohli ...
+ukazovat snímky své obrazovky umělým asistentům, aniž by na těch snímcích byly vidět jejich skutečné velikosti zůstatků na jejich účtech
+
+
+ani v 1 z těch aplikací nic takového nevidím
+
+zda v placených aplikacích pro screenshoty, např. screenpresso, existuje funkce pro rozmazání nebo zakrytí citlivých informací na snímcích obrazovky před jejich sdílením s umělými asistenty či jinými osobami.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////
+
+# always on the bottom of this text
+
+# adresát nebude doma. členové domácnosti jsou částečně invalidní. potřebovali bychom nějaký signál, aspoň prozvonit, asi tak 10 až 30 minut předem... Tel. na syna adresáta je 776 255 129
+kopie
+dobrý den,
+> "dnes v čase 10:20-12:20 hod. Vám budeme doručovat zásilku."  "Cenné psaní: VL4794171713C" "Topasová 958/43, Radotín, 15300"
 
 # Z hlediska roku 2026, 2030, 2040 💚⏰!
 
@@ -1091,11 +1139,10 @@ víc trávit
 
 💚⏰!
 
-
 - [žít svůj sen](#žít-svůj-sen)
 - [// nejtěžší mi připadají bugy v mojí životní rutině](#-nejtěžší-mi-připadají-bugy-v-mojí-životní-rutině)
 - [my ... human patient, interrupt handling](#my--human-patient-interrupt-handling)
 
 
 - [další dny přidávat 20 řádek před koncem souboru](#další-dny-přidávat-20-řádek-před-koncem-souboru)
-
+80
