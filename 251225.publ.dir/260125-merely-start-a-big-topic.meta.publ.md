@@ -37,14 +37,23 @@ brainstorming
 Use the chat to brainstorm, then move the best results to the Canvas.
 
 * **Action:** Ask Gemini, *"List 20 potential search terms or keywords related to [Sub-topic] that experts would use."*
+
+
 * **Integration:** You can copy the best list directly into the Canvas under a `## Search Terms` header, or ask Gemini to *"Add this list to the Canvas."*
+
+
+
 
 #### **3. Gather Quotes and Data (The Research Loop)**
 
 This is where Canvas shines. You can keep the document open while using the chat to browse the web.
 
 * **Action:** *"Search for recent developments in [Topic] from 2024-2025. Find 3 key quotes with sources."*
-* **Integration:** Once Gemini provides the search results in the chat, you can highlight specific text in your Canvas and ask Gemini to *"Insert the research about X here,"* or simply copy-paste the quotes and links manually for precision.
+* **Integration:** Once Gemini provides the search results in the chat, you can highlight specific text in your Canvas and ask Gemini to *"Insert the research about X here,"*
+* 
+*  or simply copy-paste the quotes and links manually for precision.
+
+
 
 #### **4. formatting Links and References**
 
@@ -68,8 +77,15 @@ You can maintain a clean Markdown structure for your bibliography or link reposi
 | --- | --- | --- |
 | **Persistence** | Context can get lost as the chat scrolls up. | The document stays static and editable on the side. |
 | **Editing** | You cannot edit the AI's output directly. | You can manually delete bad hallucinations or fix formatting. |
-| **Iterative specific** | Hard to "add" to the middle of a previous response. | You can highlight a section and say "Expand this with search results." |
+
+| **Iterative specific** | Hard to "add" to the middle of a previous response. | 
+
+You can highlight a section and say "Expand this with search results." |
+
+
 | **Export** | formatting often breaks when copying. | Designed to be copied as raw Markdown code. |
+
+
 
 ---
 
@@ -77,10 +93,80 @@ You can maintain a clean Markdown structure for your bibliography or link reposi
 
 * **Use Checkboxes:** Start your Canvas with a Markdown to-do list (`- [ ] Search for X`) to track your research progress.
 * **One File vs. Many:** You can ask Gemini to create a *single* master file first. If it gets too long, you can copy the content out to a local `.md` file and clear the Canvas to start "Chapter 2."
+
+
 * **Highlight to Refine:** If you have a rough list of notes, highlight them in Canvas and ask Gemini: *"Rewrite these rough notes into a clean bulleted list with bolded keywords."*
 
 ---
 
+
+
 ### **Next Step**
 
 Would you like to start right now? Just tell me the **topic** you are researching, and I will open a Canvas with a template structure (Search Terms, Key Quotes, Useful Links) ready for you to fill.
+
+
+the topic id is 260101
+
+the initial 1 file name could be ... 260101-word-walls.publ.md
+
+additional terms ...
+
+memory wall for early dementia ... life hack
+noticing wall ... life hack
+
+10 meter paper brain
+
+brainchild
+
+brainstorming
+workshop
+
+650714
+
+
+
+
+
+so i clicked the tools/canvas button/menu ... what should i do now
+
+Now that you've activated Canvas, I will generate the starter file for you. You should see it appear in the editor pane.
+
+We can use this file as our "Research HQ." As we find new information, quotes, or links, we can add them directly here.
+Topic 260101 Word Walls
+Jan 25, 8:00 PM
+
+What to do next?
+Look at the editor: You should see the file above. You can type directly into it to add your own notes.
+
+Ask me to research: You can highlight a bullet point (like "Noticing Wall") and ask me in the chat: "Search for the origin of this term and add a summary here."
+
+Expand: If you want to flesh out the "10 Meter Paper Brain" section, just ask!
+
+
+# please rename to  exacly: 260101-word-walls.publ.md
+
+
+
+
+
+
+
+# button share/copy content i pasted to vscode and the result is 
+
+```
+
+id: 260101title: "Word Walls & Cognitive Scaffolding"related_id: 650714status: Initial Collection / Drafttags:cognitive-aidsdementia-carebrainstormingworkshop-methodslife-hacksTopic 260101: Word Walls & Cognitive Scaffolding1. Search Terms & KeywordsInitial collection of terms to guide research.Core Concepts (Life Hacks)Memory Wall (Early ......
+```
+
+# a bit better  ^a select all
+^c copy
+paste into vscode
+
+// ztratil formatting nadpisu, odrážky?
+
+
+# i maybe will try to paste into obsidian
+# button share/copy content  
+#  ^a select all
+
