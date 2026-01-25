@@ -103,7 +103,8 @@ You can highlight a section and say "Expand this with search results." |
 
 ### **Next Step**
 
-Would you like to start right now? Just tell me the **topic** you are researching, and I will open a Canvas with a template structure (Search Terms, Key Quotes, Useful Links) ready for you to fill.
+> a new topic research project using Gemini Canvas.
+> Would you like to start right now? Just tell me the **topic** you are researching, and I will open a Canvas with a template structure (Search Terms, Key Quotes, Useful Links) ready for you to fill.
 
 
 the topic id is 260101
@@ -128,7 +129,7 @@ workshop
 
 
 
-so i clicked the tools/canvas button/menu ... what should i do now
+# so i clicked the tools/canvas button/menu ... what should i do now
 
 Now that you've activated Canvas, I will generate the starter file for you. You should see it appear in the editor pane.
 
@@ -169,4 +170,32 @@ paste into vscode
 # i maybe will try to paste into obsidian
 # button share/copy content  
 #  ^a select all
+not-significant differences in the preamlble YAML
+
+
+
+# new chat new canvas
+
+
+> a new topic research project using Gemini Canvas.
+> Would you like to start right now? Just tell me the **topic** you are researching, and I will open a Canvas with a template structure (Search Terms, Key Quotes, Useful Links) ready for you to fill.
+
+nové téma ... všechno v češtině ... 
+
+id. číslo tématu.. 260126
+
+[[260125-merely-start-a-big-topic.meta.publ]]
+
+
+prosím nageneruj mi startovní soubor pro toto téma ... název souboru přesně ... 260126-vyčerpal-se-do-vzteku.publ.md
+
+předběžné  hledané výrazy ...
+vyčerpání nervů
+
+texty písní o
+vyčerpání nervů
+pracovním vyhoření
+
+související témata.. 01 0148 48kg 260101 
+
 
