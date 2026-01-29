@@ -42,9 +42,7 @@ help me?
 
 ### https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants
 
-maybe the most important book in my life, maybe the biggest surprises in my life
-
-https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants
+maybe the most important book in my life, maybe the biggest surprises in my life  ....   https://www.goodreads.com/book/show/21748306-dr-shipko-s-informed-consent-for-ssri-antidepressants  ...  akathisia
 
 
 

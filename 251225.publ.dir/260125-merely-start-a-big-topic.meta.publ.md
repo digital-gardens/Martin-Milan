@@ -1,6 +1,32 @@
 260125-start-a-big-topic.meta.publ.md
 
-is it possible to use gemini canvas for starting a big topic as 1 or more markdown files ... first ... collecting search terms, quotes from search results, links ... 
+
+
+
+
+- [is it possible to use gemini canvas for starting a big topic as 1 or more markdown files ... first ... collecting search terms, quotes from search results, links ...](#is-it-possible-to-use-gemini-canvas-for-starting-a-big-topic-as-1-or-more-markdown-files--first--collecting-search-terms-quotes-from-search-results-links-)
+		- [**The Workflow: From Chaos to Markdown**](#the-workflow-from-chaos-to-markdown)
+			- [**1. Initialize the Canvas**](#1-initialize-the-canvas)
+			- [**2. Collect Search Terms (Brainstorming)**](#2-collect-search-terms-brainstorming)
+			- [**3. Gather Quotes and Data (The Research Loop)**](#3-gather-quotes-and-data-the-research-loop)
+			- [**4. formatting Links and References**](#4-formatting-links-and-references)
+		- [**Why Canvas is Better Than Standard Chat for This**](#why-canvas-is-better-than-standard-chat-for-this)
+		- [**Pro Tips for "Big Topic" Management**](#pro-tips-for-big-topic-management)
+		- [**Next Step**](#next-step)
+- [so i clicked the tools/canvas button/menu ... what should i do now](#so-i-clicked-the-toolscanvas-buttonmenu--what-should-i-do-now)
+- [please rename to  exacly: 260101-word-walls.publ.md](#please-rename-to--exacly-260101-word-wallspublmd)
+- [button share/copy content i pasted to vscode and the result is](#button-sharecopy-content-i-pasted-to-vscode-and-the-result-is)
+- [a bit better  ^a select all](#a-bit-better--a-select-all)
+- [i maybe will try to paste into obsidian](#i-maybe-will-try-to-paste-into-obsidian)
+- [button share/copy content](#button-sharecopy-content)
+- [^a select all](#a-select-all)
+- [new chat new canvas](#new-chat-new-canvas)
+- [life hacky při vyčerpání nervů](#life-hacky-při-vyčerpání-nervů)
+- [texty písní .. emoji](#texty-písní--emoji)
+
+
+
+# is it possible to use gemini canvas for starting a big topic as 1 or more markdown files ... first ... collecting search terms, quotes from search results, links ... 
 
 https://gemini.google.com/app/909415fbcb20e95e
 
@@ -146,6 +172,7 @@ Expand: If you want to flesh out the "10 Meter Paper Brain" section, just ask!
 
 
 # please rename to  exacly: 260101-word-walls.publ.md
+260101-word-walls.publ.md
 
 
 
@@ -177,25 +204,96 @@ not-significant differences in the preamlble YAML
 # new chat new canvas
 
 
-> a new topic research project using Gemini Canvas.
+ název souboru přesně ...
+  "260126-vyčerpal-se-do-vzteku.publ.md"
+
+3x nepovedlo 
+
+https://gemini.google.com/app/f1075a4ca31df17c
+
+ale napsal text písně 
+
+
+# todo paste here
+
+text písně je zajímavý ... zda už existují české písně se vzdáleně podobnými tématy
+
+zda už existují české písně 
+polevím z vysokejch otáček
+
+
+
+
+===
+
+
+> a new topic.. a research project using Gemini Canvas.
 > Would you like to start right now? Just tell me the **topic** you are researching, and I will open a Canvas with a template structure (Search Terms, Key Quotes, Useful Links) ready for you to fill.
 
 nové téma ... všechno v češtině ... 
 
+# prosím nageneruj mi startovní soubor pro toto téma ... název souboru přesně ... "260126-vyčerpal-se-do-vzteku.publ.md"
+
 id. číslo tématu.. 260126
 
-[[260125-merely-start-a-big-topic.meta.publ]]
-
-
-prosím nageneruj mi startovní soubor pro toto téma ... název souboru přesně ... 260126-vyčerpal-se-do-vzteku.publ.md
-
 předběžné  hledané výrazy ...
-vyčerpání nervů
+vyčerpání nervů 
 
-texty písní o
+prevence
+přestávky v průběhu dne
+
+
+texty písní o..
 vyčerpání nervů
-pracovním vyhoření
+pracovní vyhoření
+přepracování
+pauzy
+přestávky 
+stres
 
 související témata.. 01 0148 48kg 260101 
 
+
+
+
+vzdálenější související témata
+neuróza
+úzkostná porucha
+chronická únava
+
+nechutenství
+
+zpomalené trávení při stresu, 
+nervové zažívací potíže
+poruchy spánku při stresu
+psychosomatika
+
+
+
+
+
+
+
+
+
+
+# life hacky při vyčerpání nervů
+
+[[251225.tagged.lines.publ]]
+
+* ℹ️ℹ️ 01 pomohlo utéct
+* pomohlo se opřít o zeď
+* trochu pomohlo vyvolat kýchnutí ... vagus nerve ...
+* trochu pomohlo ...
+* pomohlo si lehnout
+* pomohlo se najíst
+* pomohlo se vyspat
+
+
+# * já, jako ty, --- 💚🎵 text písně od Dymytry  * také něco potřebuji 
+
+
+# texty písní .. emoji 
+
+jdou po mně jdou jdou jdou 
 
