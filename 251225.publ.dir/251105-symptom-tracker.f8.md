@@ -1097,7 +1097,7 @@ document.querySelector("#conversations-list-0 > div:nth-child(1) > a > div.conve
 
 
 
-At gemini.google.com/search, in the text field ... /i am not talking about google search, i am not querying the entire web, i am querying merely  my own gemini chat conversation history!/ ...  what are all special characters ... the minus sign works
+# At gemini.google.com/search, in the text field ... /i am not talking about google search, i am not querying the entire web, i am querying merely  my own gemini chat conversation history!/ ...  what are all special characters ... the minus sign works
 
 
 [text](https://gemini.google.com/search)
@@ -1136,6 +1136,9 @@ ale relaxation-vibration-loop-web-app najdete v gemini search
 
 
 ℹ️xtag 251126-relaxation-vibration-loop-web-app
+
+
+
 
 
 // experiment s gemini search indexací: pitvorná slova, neobvyklé tokeny,  záludné potíže 
@@ -1179,10 +1182,22 @@ existuje v gui
 
 // tags: 26 ℹ️ 
 
-// tags:  ℹ️ℹ️ℹ️ℹ️ aa 
+> The search function at gemini.google.com/search is currently content-heavy. It prioritizes finding words inside the conversation (prompts and answers) over the metadata (titles).
+
+> Pro Tip: If you need to find a specific chat later, don't just rename the title. Type a unique "anchor tag" into the chat itself (e.g., send a message saying project-alpha-reference). The search bar indexes actual message content much more reliably than custom titles.
+
+// tags: 260129 gemini search bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
 
 
+ná
+lé
+cí
+že
 
+á
+é
+í
+ž
 
 
 
