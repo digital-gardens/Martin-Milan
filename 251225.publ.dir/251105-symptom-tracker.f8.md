@@ -1206,6 +1206,10 @@ cí
 # Google Gemini Catastrophic Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)
 reddit
 
+my Activity 
+	survived
+
+
 # https://takeout.google.com/?pli=1
 https://takeout.google.com/?pli=1
 ***My Activity
@@ -1273,6 +1277,16 @@ Manage your copy of shared tab group activity. Each user in a shared tab group h
 
 
 
+# 2026-02-01
+260201
+
+## Documentation
+
+For complete documentation including DSL syntax, shapes reference, options, and examples, visit the **[Full Documentation](https://hlridge.github.io/bliss-svg-builder/)**.
+
+- [Get Started](https://hlridge.github.io/bliss-svg-builder/get-started/installation-setup)
+- [Handbook](https://hlridge.github.io/bliss-svg-builder/handbook/core-concepts/characters-bcodes)
+- [Reference](https://hlridge.github.io/bliss-svg-builder/reference/shapes-gallery)
 
 
 
