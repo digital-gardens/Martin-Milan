@@ -1,9 +1,101 @@
-
 // tags: 260129 gemini search bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
-
 old [[251105-symptom-tracker.f8]]
 
 
+
+markdown table of contents is at the end of the file
+7 lines header
+// put new experiment notes here
+
+
+
+
+
+# 260131 Google Gemini Catastrophic Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)
+reddit
+
+## my Activity 	survived
+		dont pause it ... kills all data
+		export data often
+
+
+# https://takeout.google.com/?pli=1
+https://takeout.google.com/?pli=1
+***My Activity
+***notebookLM
+
+gemini..gems
+
+
+My Activity
+
+AI Mode
+Assistant
+
+***Gemini Apps
+
+Takeout
+
+Search
+
+Google Translate
+
+html
+json
+
+
+
+
+## gemini
+	+
+		photos
+		import code, folder
+
+what does it mean to add a notebooklm to a gemini chat..
+official documentation 
+links?
+
+what do people in forums say about using both notebookLM and gemini chat + canvas together?
+
+adding notebookLM to gemini chat ..
+
+
+in notebookLM, in 1 notebook, is there only one chat thread? y
+
+https://myactivity.google.com/page?utm_source=my-activity&hl=en&page=takeout
+
+https://myactivity.google.com/product/gemini?utm_source=my-activity&hl=en
+asi jen prompted
+
+https://myactivity.google.com/myactivity
+AI Mode
+Assistant
+Google Translate
+Search
+https://myactivity.google.com/myactivity?product=19%2C31%2C58%2C83
+
+https://myactivity.google.com/product/workspace/controls?hl=en
+
+https://myactivity.google.com/more-activity?continue=https%3A%2F%2Fmyactivity.google.com%2Fmyactivity%3Fproduct%3D19%252C31%252C58%252C83
+
+=other activities
+
+Chrome shared tab group activity
+Manage your copy of shared tab group activity. Each user in a shared tab group has their own individual copy of activity.
+
+
+
+
+# 2026-02-01
+260201
+
+## Documentation
+
+For complete documentation including DSL syntax, shapes reference, options, and examples, visit the **[Full Documentation](https://hlridge.github.io/bliss-svg-builder/)**.
+
+- [Get Started](https://hlridge.github.io/bliss-svg-builder/get-started/installation-setup)
+- [Handbook](https://hlridge.github.io/bliss-svg-builder/handbook/core-concepts/characters-bcodes)
+- [Reference](https://hlridge.github.io/bliss-svg-builder/reference/shapes-gallery)
 
 
 
@@ -139,5 +231,17 @@ document.querySelector("#mat-menu-panel-172 > div > button:nth-child(3) > span >
 document.querySelector("#conversations-list-0 > div:nth-child(1) > a > div.conversation-title.gds-label-l.ng-tns-c63712579-7")
 
 
+
+
+
 ///
 03-topic-brainstorming-260129.publ.md
+
+- [260131 Google Gemini Catastrophic Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)](#260131-google-gemini-catastrophic-data-loss-legal-workspace---99-content-is-lost-90-files-25k-words)
+	- [my Activity 	survived](#my-activity-survived)
+- [https://takeout.google.com/?pli=1](#httpstakeoutgooglecompli1)
+	- [gemini](#gemini)
+- [2026-02-01](#2026-02-01)
+	- [Documentation](#documentation)
+- [260129 gemini search ... this search page,  https://gemini.google.com/search , cannot find exact *keywords* in renamed titles of chats](#260129-gemini-search--this-search-page--httpsgeminigooglecomsearch--cannot-find-exact-keywords-in-renamed-titles-of-chats)
+- [260129 At gemini.google.com/search, in the text field ... /i am not talking about google search, i am not querying the entire web, i am querying merely  my own gemini chat conversation history!/ ...  what are all special characters ... the minus sign works](#260129-at-geminigooglecomsearch-in-the-text-field--i-am-not-talking-about-google-search-i-am-not-querying-the-entire-web-i-am-querying-merely--my-own-gemini-chat-conversation-history---what-are-all-special-characters--the-minus-sign-works)

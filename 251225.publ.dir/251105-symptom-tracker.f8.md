@@ -1070,92 +1070,7 @@ moved to 03-topic-brainstorming-260129.publ.md
 
 # 2026-01-31
 260131
-
-# Google Gemini Catastrophic Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)
-reddit
-
-my Activity 
-	survived
-
-
-# https://takeout.google.com/?pli=1
-https://takeout.google.com/?pli=1
-***My Activity
-***notebookLM
-
-gemini..gems
-
-
-My Activity
-
-AI Mode
-Assistant
-
-***Gemini Apps
-
-Takeout
-
-Search
-
-Google Translate
-
-html
-json
-
-
-
-
-## gemini
-	+
-		photos
-		import code, folder
-
-what does it mean to add a notebooklm to a gemini chat..
-official documentation 
-links?
-
-what do people in forums say about using both notebookLM and gemini chat + canvas together?
-
-adding notebookLM to gemini chat ..
-
-
-in notebookLM, in 1 notebook, is there only one chat thread? y
-
-https://myactivity.google.com/page?utm_source=my-activity&hl=en&page=takeout
-
-https://myactivity.google.com/product/gemini?utm_source=my-activity&hl=en
-asi jen prompted
-
-https://myactivity.google.com/myactivity
-AI Mode
-Assistant
-Google Translate
-Search
-https://myactivity.google.com/myactivity?product=19%2C31%2C58%2C83
-
-https://myactivity.google.com/product/workspace/controls?hl=en
-
-https://myactivity.google.com/more-activity?continue=https%3A%2F%2Fmyactivity.google.com%2Fmyactivity%3Fproduct%3D19%252C31%252C58%252C83
-
-=other activities
-
-Chrome shared tab group activity
-Manage your copy of shared tab group activity. Each user in a shared tab group has their own individual copy of activity.
-
-
-
-
-# 2026-02-01
-260201
-
-## Documentation
-
-For complete documentation including DSL syntax, shapes reference, options, and examples, visit the **[Full Documentation](https://hlridge.github.io/bliss-svg-builder/)**.
-
-- [Get Started](https://hlridge.github.io/bliss-svg-builder/get-started/installation-setup)
-- [Handbook](https://hlridge.github.io/bliss-svg-builder/handbook/core-concepts/characters-bcodes)
-- [Reference](https://hlridge.github.io/bliss-svg-builder/reference/shapes-gallery)
-
+moved to 03-topic-brainstorming-260129.publ.md
 
 # moving to a new file  
 
@@ -1200,6 +1115,16 @@ víc trávit
 
 * dělat víc přestávek při práci 
 * jíst pomaleji
+* cvičení ... masáže břicha
+* ai doporučuje
+* probiotika
+* enzymy na trávení tuků
+* jíst více vlákniny
+* pít více vody
+* méně stresu
+* víc spát
+* meditace
+* 
 
 # the philosophy of antifragility is more important 
 
