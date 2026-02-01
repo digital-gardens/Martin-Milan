@@ -11,10 +11,10 @@ markdown table of contents is at the end of the file
 
 
 
-# 260131 Google Gemini Catastrophic Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)
+# 260131 Google Gemini ... Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)
 reddit
 
-## my Activity 	survived
+## My Activity 	survived
 		dont pause it ... kills all data
 		export data often
 

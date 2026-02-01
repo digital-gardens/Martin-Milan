@@ -1,5 +1,8 @@
 
-# další dny přidávat 20 řádek před koncem souboru
+a file was forked from this ..
+[[03-topic-brainstorming-260129.publ]]
+
+# další dny přidávat 80 řádek před koncem souboru
 80
 
 # the philosophy of antifragility is more important 
@@ -66,9 +69,7 @@
 
 # links
 
-
-forked from this ..
-[[03-topic-brainstorming-260129.publ]]
+a file was forked from this .. [[03-topic-brainstorming-260129.publ]]
 
 
 
