@@ -28,6 +28,12 @@ paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door .
 # 260139
 # 260131 subtle cloud failures
 
+# 260131 experiment editing a text, and then going offline, .... and then back online ... does it sync properly?
+
+copy this to chats etc 
+then switch off wifi
+
+
 # a4 alphabetical  list all web apps , that i would like to test 
 
 ai  used for note taking, brainstorming, writing, research, project management, coding, development, design,  etc.
@@ -45,7 +51,8 @@ diigo
 gemini chat 
 canvas
 extension 
-notebookLM
+notebookLM chat 
+note
 extension
 
 github copilot
