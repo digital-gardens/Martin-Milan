@@ -8,6 +8,28 @@ markdown table of contents is at the end of the file
 // put new experiment notes here
 
 
+raději tc
+vscode search for "260129"
+find .. -iname "*2[56][01]*"
+find .. -iname "*2[56][01]*"
+
+ai
+find . -iname "*.publ.md" -exec grep -o "26012." {} \; | sort | uniq -c | sort -rn
+find . -iname "*.publ.md" -exec grep  "260125" {} \; -print
+| sort | uniq -c | sort -rn
+# grep print file names also 
+
+ai
+
+"*.publ.md" -exec grep -l "260129" {} \;
+
+
+
+photos
+paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
+
+[[260218-dr.S.-24b6-antidepressants-BMI-diary-mudr-doktor-invalidni-duchod-pracovat-akce--PRAHA-city-doprava.publ]]
+
 
 
 

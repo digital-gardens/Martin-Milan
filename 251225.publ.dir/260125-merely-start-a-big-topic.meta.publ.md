@@ -51,6 +51,8 @@ Instead of just chatting, ask Gemini to create a document. This opens the Canvas
 .publ.md
 
 10 meter paper brain
+10 foot 
+
 
 brainchild
 
