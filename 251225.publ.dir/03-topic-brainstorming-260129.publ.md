@@ -17,21 +17,63 @@ ai
 find . -iname "*.publ.md" -exec grep -o "26012." {} \; | sort | uniq -c | sort -rn
 find . -iname "*.publ.md" -exec grep  "260125" {} \; -print
 | sort | uniq -c | sort -rn
-# grep print file names also 
+ grep print file names also 
 
-ai
-
-"*.publ.md" -exec grep -l "260129" {} \;
-
-
-
+260101
 photos
 paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
 
+
+
+# 260139
+# 260131 subtle cloud failures
+
+# a4 alphabetical  list all web apps , that i would like to test 
+
+ai  used for note taking, brainstorming, writing, research, project management, coding, development, design,  etc.
+
+
+
+
+
+
+
+Chrome crash 
+
+diigo
+
+gemini chat 
+canvas
+extension 
+notebookLM
+extension
+
+github copilot
+
+github desktop
+
+
+
+
+
+
+google drive ... 
+google docs ...
+google keep ...
+google photos ...
+google chat
+
+idb corruption ... highlighter data loss
+
+ms office autosave 
+ms teams
+onenote
+onedrive
+
+vscode
+
+
 [[260218-dr.S.-24b6-antidepressants-BMI-diary-mudr-doktor-invalidni-duchod-pracovat-akce--PRAHA-city-doprava.publ]]
-
-
-
 
 # 260131 Google Gemini ... Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)
 reddit
