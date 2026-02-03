@@ -53,6 +53,38 @@ canvas
 extension 
 notebookLM chat 
 note
+
+
+
+nblm
+
+2 users
+editing a note
+
+another user, after opening, wrote his text " race race"
+
+race condition
+
+problem confirmed
+
+bug id 260203.0023
+
+
+then new bug id 260203.0035 IN nblm note
+
+another user, after opening, sees his text " race race"
+
+... when later seeing from the first user, the note is
+
+OVERWRitten by the second user EVEN BY VIEWING by the second user
+
+
+
+
+solution ..share as a viewer not editor
+
+
+
 extension
 
 github copilot
