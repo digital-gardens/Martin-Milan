@@ -352,11 +352,22 @@ cí
 
 
 
+```
+---
+---
+ ```
 
 <div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover ng-tns-c63712579-7"></div></div>
 
 
-<div _ngcontent-ng-c63712579="" role="region" class="conversations-container ng-tns-c63712579-7 ng-star-inserted" id="conversations-list-0"><div _ngcontent-ng-c63712579="" class="conversation-items-container ng-tns-c63712579-7 has-visible-icon ng-star-inserted side-nav-opened" style=""><!----><a _ngcontent-ng-c63712579="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c63712579-7 ng-trigger ng-trigger-conversationListRevealAnimation selected" href="/app/f1075a4ca31df17c" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_f1075a4ca31df17c&quot;,null,1]];mutable:true" aria-describedby="cdk-describedby-message-ng-1-200" cdk-describedby-host="ng-1"><div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover 
+<div _ngcontent-ng-c63712579="" role="region" class="conversations-container ng-tns-c63712579-7 ng-star-inserted" id="conversations-list-0"><div _ngcontent-ng-c63712579="" class="conversation-items-container ng-tns-c63712579-7 has-visible-icon ng-star-inserted side-nav-opened" style=""><!----><a _ngcontent-ng-c63712579="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c63712579-7 ng-trigger ng-trigger-conversationListRevealAnimation selected" href="/app/f1075a4ca31df17c" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_f1075a4ca31df17c&quot;,null,1]];mutable:true" aria-describedby="cdk-describedby-message-ng-1-200" cdk-describedby-host="ng-1"><div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover"
+
+ ```
+---
+---
+```
+
+
 
 chat-history-list ng-star-inserted
 
@@ -384,11 +395,28 @@ document.querySelector("#conversations-list-0 > div:nth-child(1) > a > div.conve
 ///
 03-topic-brainstorming-260129.publ.md
 
-- [260131 Google Gemini Catastrophic Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)](#260131-google-gemini-catastrophic-data-loss-legal-workspace---99-content-is-lost-90-files-25k-words)
-	- [my Activity 	survived](#my-activity-survived)
+table of contents
+=================
+- [0404-MAIN-INDEX ... of my web links](#0404-main-index--of-my-web-links)
+- [0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy](#0404-hlavní-rozcestník--moje-hlavní-webové-odkazy)
+- [extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html](#extensionahmddkokfhbdbmlioknpkipoikcckpahoptionshtml)
+- [// put new experiment notes here](#-put-new-experiment-notes-here)
+- [260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos](#260101-photos--paměťová-pomůcka-na-dveřích-skříně--memory-aid-on-the-cabinet-door--24br-ai-dr-tesař---google-photos)
+- [260139](#260139)
+- [260131 subtle cloud failures](#260131-subtle-cloud-failures)
+- [then new bug id 260203.0035 IN nblm note](#then-new-bug-id-2602030035-in-nblm-note)
+- [260203.1640](#2602031640)
+- [about gemini canvas... what happens when i, by mistake, open the same canvas on two different devices at the same time, and then make edits on both devices... which edits get saved?  lost edits?](#about-gemini-canvas-what-happens-when-i-by-mistake-open-the-same-canvas-on-two-different-devices-at-the-same-time-and-then-make-edits-on-both-devices-which-edits-get-saved--lost-edits)
+- [260131 experiment editing a text, and then going offline, .... and then back online ... does it sync properly?](#260131-experiment-editing-a-text-and-then-going-offline--and-then-back-online--does-it-sync-properly)
+- [a4 alphabetical  list all web apps , that i would like to test](#a4-alphabetical--list-all-web-apps--that-i-would-like-to-test)
+- [260131 Google Gemini ... Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)](#260131-google-gemini--data-loss-legal-workspace---99-content-is-lost-90-files-25k-words)
+	- [My Activity 	survived](#my-activity-survived)
 - [https://takeout.google.com/?pli=1](#httpstakeoutgooglecompli1)
 	- [gemini](#gemini)
 - [2026-02-01](#2026-02-01)
 	- [Documentation](#documentation)
 - [260129 gemini search ... this search page,  https://gemini.google.com/search , cannot find exact *keywords* in renamed titles of chats](#260129-gemini-search--this-search-page--httpsgeminigooglecomsearch--cannot-find-exact-keywords-in-renamed-titles-of-chats)
 - [260129 At gemini.google.com/search, in the text field ... /i am not talking about google search, i am not querying the entire web, i am querying merely  my own gemini chat conversation history!/ ...  what are all special characters ... the minus sign works](#260129-at-geminigooglecomsearch-in-the-text-field--i-am-not-talking-about-google-search-i-am-not-querying-the-entire-web-i-am-querying-merely--my-own-gemini-chat-conversation-history---what-are-all-special-characters--the-minus-sign-works)
+- [table of contents](#table-of-contents)
+
+
