@@ -1,22 +1,31 @@
 ---
 importance: ℹ️ℹ️
 tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
-tags: 260139 260129 gemini search bugs features issues problems  ℹ️ℹ️ aaaa
 ---
-create a new canvas README.md, add metadata to it...
-markdown table of contents is at the end of the file
-old [[251105-symptom-tracker.f8]]
-7 lines header
+gemini...
+- create a new canvas README.md, add metadata to it...
+```
+---
+tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
+---
+```
+- markdown table of contents is at the end of the file
+- old [[251105-symptom-tracker.f8]]
+- 7 lines header
 
 
 https://github.com/digital-gardens/Martin-Milan/blob/main/README.md
 
-README.md 
-# MAIN INDEX ... of web links 
-# HLAVNÍ ROZCESTNÍK ... hlavní webové odkazy 
+# 0404-MAIN-INDEX ... of my web links 
+# 0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy 
 
-- https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
 - 250825 
+
+- https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/
+
+- https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/README.md
+- https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
+
 
 
 251225.publ.dir/03-topic-brainstorming-260129.publ.md
@@ -327,6 +336,7 @@ existuje v gui
 > Pro Tip: If you need to find a specific chat later, don't just rename the title. Type a unique "anchor tag" into the chat itself (e.g., send a message saying project-alpha-reference). The search bar indexes actual message content much more reliably than custom titles.
 
 // tags: 260129 gemini search bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
+tags: 260139 260129 gemini search bugs features issues problems  ℹ️ℹ️ aaaa
 
 
 ná
