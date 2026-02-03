@@ -1,11 +1,20 @@
-// tags: 260129 gemini search bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
-old [[251105-symptom-tracker.f8]]
-
-
-
+---
+importance: ℹ️ℹ️
+tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
+tags: 260139 260129 gemini search bugs features issues problems  ℹ️ℹ️ aaaa
+---
+create a new canvas README.md, add metadata to it...
 markdown table of contents is at the end of the file
+old [[251105-symptom-tracker.f8]]
 7 lines header
-// put new experiment notes here
+
+
+
+
+# extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
+https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
+
+# // put new experiment notes here
 
 
 raději tc
@@ -19,14 +28,24 @@ find . -iname "*.publ.md" -exec grep  "260125" {} \; -print
 | sort | uniq -c | sort -rn
  grep print file names also 
 
-260101
-photos
-paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
+# 260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
 
+paměťová pomůcka na dveřích doma
+
+memory aid on a room door at home ... for seniors with mild cognitive impairment
+
+
+
+-tag what is the dynamic view
 
 
 # 260139
 # 260131 subtle cloud failures
+# then new bug id 260203.0035 IN nblm note
+
+# 260203.1640 
+# about gemini canvas... what happens when i, by mistake, open the same canvas on two different devices at the same time, and then make edits on both devices... which edits get saved?  lost edits?
+
 
 # 260131 experiment editing a text, and then going offline, .... and then back online ... does it sync properly?
 
