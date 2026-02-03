@@ -355,14 +355,12 @@ cí
 ```
 ---
 ---
- ```
 
 <div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover ng-tns-c63712579-7"></div></div>
 
 
 <div _ngcontent-ng-c63712579="" role="region" class="conversations-container ng-tns-c63712579-7 ng-star-inserted" id="conversations-list-0"><div _ngcontent-ng-c63712579="" class="conversation-items-container ng-tns-c63712579-7 has-visible-icon ng-star-inserted side-nav-opened" style=""><!----><a _ngcontent-ng-c63712579="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c63712579-7 ng-trigger ng-trigger-conversationListRevealAnimation selected" href="/app/f1075a4ca31df17c" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_f1075a4ca31df17c&quot;,null,1]];mutable:true" aria-describedby="cdk-describedby-message-ng-1-200" cdk-describedby-host="ng-1"><div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover"
 
- ```
 ---
 ---
 ```
