@@ -1,1 +1,3 @@
- now working on 251225.tagged.lines.publ.md  
+now working on 
+[[03-topic-brainstorming-260129.publ]] 
+ 

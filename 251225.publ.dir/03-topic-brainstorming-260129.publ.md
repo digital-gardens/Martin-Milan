@@ -9,6 +9,21 @@ old [[251105-symptom-tracker.f8]]
 7 lines header
 
 
+https://github.com/digital-gardens/Martin-Milan/blob/main/README.md
+
+README.md 
+# MAIN INDEX ... of web links 
+# HLAVNÍ ROZCESTNÍK ... hlavní webové odkazy 
+
+- https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
+- 250825 
+
+
+251225.publ.dir/03-topic-brainstorming-260129.publ.md
+
+MAIN DIRECTORY INDEX 
+[[../README]]
+
 
 
 # extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
