@@ -14,6 +14,25 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 - 7 lines header
 
 
+
+
+# 249s
+mk file 
+C:\Users\marti\OneDrive\Dokumenty\1804-NEW\ingJH-2472\
+PLACEHOLDER.f8.md
+0004-tags-249s-2472-Praskliny-zdi.publ.md
+
+Praskliny 249s zdi od bojleru?,ing. Hrazdil ,ing. JH 2024-07,2407,247 - Google Photos
+2 keep 
+1 z live transcription
+
+slíbila, že posune květináč
+voda z okapu by mohla dělat problémy
+
+
+
+
+
 # https://github.com/digital-gardens/Martin-Milan/blob/main/README.md
 
 # 0404-MAIN-INDEX ... of my web links 
