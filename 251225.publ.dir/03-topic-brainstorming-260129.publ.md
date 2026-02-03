@@ -14,7 +14,7 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 - 7 lines header
 
 
-https://github.com/digital-gardens/Martin-Milan/blob/main/README.md
+# https://github.com/digital-gardens/Martin-Milan/blob/main/README.md
 
 # 0404-MAIN-INDEX ... of my web links 
 # 0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy 
@@ -160,7 +160,7 @@ vscode
 # 260131 Google Gemini ... Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)
 reddit
 
-## My Activity 	survived
+## My-Activity 	survived
 		dont pause it ... kills all data
 		export data often
 
