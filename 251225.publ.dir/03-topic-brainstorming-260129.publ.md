@@ -18,6 +18,11 @@ Prevence vyhoření. Jak na mikro-přestávky, které skutečně regenerují moz
 https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
 
 
+
+https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
+
+
+
 # stačí click the continue this chat button
 https://gemini.google.com/share/83acae7ac420
 # https://github.com/digital-gardens/Martin-Milan/tree/main/250825-%40skupina-meta-informace
