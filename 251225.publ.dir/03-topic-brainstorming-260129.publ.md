@@ -13,6 +13,7 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 - old [[251105-symptom-tracker.f8]]
 - 7 lines header
 
+https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
 
 
 
@@ -80,6 +81,58 @@ memory aid on a room door at home ... for seniors with mild cognitive impairment
 
 
 -tag what is the dynamic view
+
+
+
+
+
+
+https://lovers-communication-system.com/
+
+
+# 260204 userstyles to tweak the https://gemini.google.com/app
+# g search
+Gemini Keyboard Shortcuts (Power Tweaks): Scripts on Greasy Fork add keyboard shortcuts for faster navigation and interaction with the Gemini interface.
+
+This method allows you to widen the chat, change colors, or hide elements without installing a dedicated extension for every small change.
+
+# gemini.google.com/app
+ userstyles to tweak the https://gemini.google.com/app
+
+# stylus
+
+Useful Links
+
+* Chat room: https://discord.gg/tzXVNJz
+* Frequently asked questions: https://github.com/openstyles/stylus/wiki/FAQ
+* General discussion and bug report: https://add0n.com/stylus.html#reviews
+
+# extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html
+Styles may be lost due to power failure, bugs in the browser, personal mistake.
+Backup your data: either configure "Sync to cloud" in the options or manually click the export button whenever you make significan­t changes or, preferably­, set up automatic backup of all your data using a dedicated app.
+
+
+click on the icon next to the address bar
+
+
+
+1 userstyles archive 
+2 userstyles world
+3 userstyles
+4 Greasy Fork
+
+gist
+
+
+# extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html#stylus-options
+Open installer when navigating to a .user.css URL
+
+# extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html
+switch off autoclick 
+for stylus extension options page
+
+
+
 
 
 # 260139
