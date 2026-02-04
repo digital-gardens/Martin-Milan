@@ -13,19 +13,19 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 - old [[251105-symptom-tracker.f8]]
 - 7 lines header
 
+Prevence vyhoření. Jak na mikro-přestávky, které skutečně regenerují mozek - Zdravotnický kompas │Navigace ve světě zdraví a medicíny
+
 https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
 
 
 # stačí click the continue this chat button
+https://gemini.google.com/share/83acae7ac420
 # https://github.com/digital-gardens/Martin-Milan/tree/main/250825-%40skupina-meta-informace
 https://github.com/digital-gardens/Martin-Milan/tree/main/11DIRS%2CFILES
-rebname 
+rename 
 POUŽIJ KOLEČKO MYŠI prosím, nápovědy budou v ... GitHub složka s meta-informacemi
-https://gemini.google.com/share/83acae7ac420
 ℹ Využití "Pinned" v Outlooku jako paměti
-https://gemini.google.com/share/c7881f13046a
 -- jen kopie obrazovky settings, abych si zapamatoval, co jsem měnil edge://settings/?search=workspace
-https://gemini.google.com/share/b196ff38f3f1
 
 
 
@@ -58,31 +58,27 @@ voda z okapu by mohla dělat problémy
 - https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/README.md
 - https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
 
-
-
 251225.publ.dir/03-topic-brainstorming-260129.publ.md
 
 MAIN DIRECTORY INDEX 
 [[../README]]
 
-
-
 # extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
 https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
+
+
+
+
+
+
 
 # // put new experiment notes here
 
 
-raději tc
-vscode search for "260129"
-find .. -iname "*2[56][01]*"
-find .. -iname "*2[56][01]*"
 
-ai
-find . -iname "*.publ.md" -exec grep -o "26012." {} \; | sort | uniq -c | sort -rn
-find . -iname "*.publ.md" -exec grep  "260125" {} \; -print
-| sort | uniq -c | sort -rn
- grep print file names also 
+
+
+
 
 # 260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
 
@@ -143,6 +139,44 @@ Open installer when navigating to a .user.css URL
 # extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html
 switch off autoclick 
 for stylus extension options page
+
+
+
+# devtools inspect element ... of conversations-list at gemini.google.com/app
+```
+---
+---
+
+<div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover ng-tns-c63712579-7"></div></div>
+
+
+<div _ngcontent-ng-c63712579="" role="region" class="conversations-container ng-tns-c63712579-7 ng-star-inserted" id="conversations-list-0"><div _ngcontent-ng-c63712579="" class="conversation-items-container ng-tns-c63712579-7 has-visible-icon ng-star-inserted side-nav-opened" style=""><!----><a _ngcontent-ng-c63712579="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c63712579-7 ng-trigger ng-trigger-conversationListRevealAnimation selected" href="/app/f1075a4ca31df17c" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_f1075a4ca31df17c&quot;,null,1]];mutable:true" aria-describedby="cdk-describedby-message-ng-1-200" cdk-describedby-host="ng-1"><div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover"
+
+---
+---
+```
+
+
+
+chat-history-list ng-star-inserted
+
+infinite-scroller
+
+sidenav-with-history-container disable-onload-animations side-nav-mystuff-update ng-star-inserted content-loaded expanded
+
+#mat-menu-panel-172 > div > button:nth-child(3) > span > span
+
+document.querySelector("#mat-menu-panel-172 > div > button:nth-child(3) > span > span")
+
+//*[@id="mat-menu-panel-172"]/div/button[3]/span/span
+
+/html/body/div[9]/div[2]/div/div/div/button[3]/span/span
+
+/html/body/chat-app/main/side-navigation-v2/bard-sidenav-container/bard-sidenav/side-navigation-content/div/div/infinite-scroller/div[5]/div/conversations-list/div[2]/div[1]/a/div[1]
+
+
+document.querySelector("#conversations-list-0 > div:nth-child(1) > a > div.conversation-title.gds-label-l.ng-tns-c63712579-7")
+
 
 
 
@@ -437,40 +471,16 @@ cí
 
 
 
-```
----
----
 
-<div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover ng-tns-c63712579-7"></div></div>
+# raději tc, vscode search for "260129"
+find .. -iname "*2[56][01]*"
+find .. -iname "*2[56][01]*"
 
-
-<div _ngcontent-ng-c63712579="" role="region" class="conversations-container ng-tns-c63712579-7 ng-star-inserted" id="conversations-list-0"><div _ngcontent-ng-c63712579="" class="conversation-items-container ng-tns-c63712579-7 has-visible-icon ng-star-inserted side-nav-opened" style=""><!----><a _ngcontent-ng-c63712579="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c63712579-7 ng-trigger ng-trigger-conversationListRevealAnimation selected" href="/app/f1075a4ca31df17c" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_f1075a4ca31df17c&quot;,null,1]];mutable:true" aria-describedby="cdk-describedby-message-ng-1-200" cdk-describedby-host="ng-1"><div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover"
-
----
----
-```
-
-
-
-chat-history-list ng-star-inserted
-
-infinite-scroller
-
-sidenav-with-history-container disable-onload-animations side-nav-mystuff-update ng-star-inserted content-loaded expanded
-
-#mat-menu-panel-172 > div > button:nth-child(3) > span > span
-
-document.querySelector("#mat-menu-panel-172 > div > button:nth-child(3) > span > span")
-
-//*[@id="mat-menu-panel-172"]/div/button[3]/span/span
-
-/html/body/div[9]/div[2]/div/div/div/button[3]/span/span
-
-/html/body/chat-app/main/side-navigation-v2/bard-sidenav-container/bard-sidenav/side-navigation-content/div/div/infinite-scroller/div[5]/div/conversations-list/div[2]/div[1]/a/div[1]
-
-
-document.querySelector("#conversations-list-0 > div:nth-child(1) > a > div.conversation-title.gds-label-l.ng-tns-c63712579-7")
-
+ai
+find . -iname "*.publ.md" -exec grep -o "26012." {} \; | sort | uniq -c | sort -rn
+find . -iname "*.publ.md" -exec grep  "260125" {} \; -print
+| sort | uniq -c | sort -rn
+ grep print file names also 
 
 
 
@@ -480,11 +490,27 @@ document.querySelector("#conversations-list-0 > div:nth-child(1) > a > div.conve
 
 table of contents
 =================
+
+
+
+- [stačí click the continue this chat button](#stačí-click-the-continue-this-chat-button)
+- [https://github.com/digital-gardens/Martin-Milan/tree/main/250825-%40skupina-meta-informace](#httpsgithubcomdigital-gardensmartin-milantreemain250825-40skupina-meta-informace)
+- [249s](#249s)
+- [https://github.com/digital-gardens/Martin-Milan/blob/main/README.md](#httpsgithubcomdigital-gardensmartin-milanblobmainreadmemd)
 - [0404-MAIN-INDEX ... of my web links](#0404-main-index--of-my-web-links)
 - [0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy](#0404-hlavní-rozcestník--moje-hlavní-webové-odkazy)
 - [extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html](#extensionahmddkokfhbdbmlioknpkipoikcckpahoptionshtml)
 - [// put new experiment notes here](#-put-new-experiment-notes-here)
 - [260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos](#260101-photos--paměťová-pomůcka-na-dveřích-skříně--memory-aid-on-the-cabinet-door--24br-ai-dr-tesař---google-photos)
+- [AAC and dementia](#aac-and-dementia)
+- [260204 userstyles to tweak the https://gemini.google.com/app](#260204-userstyles-to-tweak-the-httpsgeminigooglecomapp)
+- [g search](#g-search)
+- [gemini.google.com/app](#geminigooglecomapp)
+- [stylus](#stylus)
+- [extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html](#extensionclngdbkpkpeebahjckkjfobafhncgmnemanagehtml)
+- [extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html#stylus-options](#extensionclngdbkpkpeebahjckkjfobafhncgmnemanagehtmlstylus-options)
+- [extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html](#extensionclngdbkpkpeebahjckkjfobafhncgmnemanagehtml-1)
+- [devtools inspect element ... of conversations-list at gemini.google.com/app](#devtools-inspect-element--of-conversations-list-at-geminigooglecomapp)
 - [260139](#260139)
 - [260131 subtle cloud failures](#260131-subtle-cloud-failures)
 - [then new bug id 260203.0035 IN nblm note](#then-new-bug-id-2602030035-in-nblm-note)
@@ -493,13 +519,12 @@ table of contents
 - [260131 experiment editing a text, and then going offline, .... and then back online ... does it sync properly?](#260131-experiment-editing-a-text-and-then-going-offline--and-then-back-online--does-it-sync-properly)
 - [a4 alphabetical  list all web apps , that i would like to test](#a4-alphabetical--list-all-web-apps--that-i-would-like-to-test)
 - [260131 Google Gemini ... Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)](#260131-google-gemini--data-loss-legal-workspace---99-content-is-lost-90-files-25k-words)
-	- [My Activity 	survived](#my-activity-survived)
+	- [My-Activity 	survived](#my-activity-survived)
 - [https://takeout.google.com/?pli=1](#httpstakeoutgooglecompli1)
 	- [gemini](#gemini)
 - [2026-02-01](#2026-02-01)
 	- [Documentation](#documentation)
 - [260129 gemini search ... this search page,  https://gemini.google.com/search , cannot find exact *keywords* in renamed titles of chats](#260129-gemini-search--this-search-page--httpsgeminigooglecomsearch--cannot-find-exact-keywords-in-renamed-titles-of-chats)
 - [260129 At gemini.google.com/search, in the text field ... /i am not talking about google search, i am not querying the entire web, i am querying merely  my own gemini chat conversation history!/ ...  what are all special characters ... the minus sign works](#260129-at-geminigooglecomsearch-in-the-text-field--i-am-not-talking-about-google-search-i-am-not-querying-the-entire-web-i-am-querying-merely--my-own-gemini-chat-conversation-history---what-are-all-special-characters--the-minus-sign-works)
+- [raději tc, vscode search for "260129"](#raději-tc-vscode-search-for-260129)
 - [table of contents](#table-of-contents)
-
-
