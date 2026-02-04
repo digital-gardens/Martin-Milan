@@ -16,6 +16,18 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
 
 
+# stačí click the continue this chat button
+# https://github.com/digital-gardens/Martin-Milan/tree/main/250825-%40skupina-meta-informace
+https://github.com/digital-gardens/Martin-Milan/tree/main/11DIRS%2CFILES
+rebname 
+POUŽIJ KOLEČKO MYŠI prosím, nápovědy budou v ... GitHub složka s meta-informacemi
+https://gemini.google.com/share/83acae7ac420
+ℹ Využití "Pinned" v Outlooku jako paměti
+https://gemini.google.com/share/c7881f13046a
+-- jen kopie obrazovky settings, abych si zapamatoval, co jsem měnil edge://settings/?search=workspace
+https://gemini.google.com/share/b196ff38f3f1
+
+
 
 # 249s
 mk file 
@@ -78,26 +90,23 @@ paměťová pomůcka na dveřích doma
 
 memory aid on a room door at home ... for seniors with mild cognitive impairment
 
-
-
 -tag what is the dynamic view
 
-
-
-
-
-
+https://www.nia.nih.gov/health/alzheimers-and-dementia/tips-living-alone-early-stage-dementia
 https://lovers-communication-system.com/
+
+# AAC and dementia
+
 
 
 # 260204 userstyles to tweak the https://gemini.google.com/app
 # g search
 Gemini Keyboard Shortcuts (Power Tweaks): Scripts on Greasy Fork add keyboard shortcuts for faster navigation and interaction with the Gemini interface.
 
-This method allows you to widen the chat, change colors, or hide elements without installing a dedicated extension for every small change.
 
 # gemini.google.com/app
  userstyles to tweak the https://gemini.google.com/app
+
 
 # stylus
 
@@ -105,7 +114,11 @@ Useful Links
 
 * Chat room: https://discord.gg/tzXVNJz
 * Frequently asked questions: https://github.com/openstyles/stylus/wiki/FAQ
+
+: https://github.com/openstyles/stylus/wiki/
+
 * General discussion and bug report: https://add0n.com/stylus.html#reviews
+
 
 # extension://clngdbkpkpeebahjckkjfobafhncgmne/manage.html
 Styles may be lost due to power failure, bugs in the browser, personal mistake.
