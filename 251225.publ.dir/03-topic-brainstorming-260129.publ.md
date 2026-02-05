@@ -104,9 +104,118 @@ https://lovers-communication-system.com/
 # g search
 Gemini Keyboard Shortcuts (Power Tweaks): Scripts on Greasy Fork add keyboard shortcuts for faster navigation and interaction with the Gemini interface.
 
+https://www.reddit.com/r/GeminiAI/comments/1ppp9sb/a_visual_wishlist_for_the_web_interface/
+
+
+    /* Completely hide the location and footer container */
+    div.footer-container {
+        display: none !important;
+    }
 
 # gemini.google.com/app
  userstyles to tweak the https://gemini.google.com/app
+userstyles
+...for accessibility...for the elderly...for cognitive impairment...for very mild dementia...
+
+
+
+
+
+```css
+/* ==UserStyle==
+@name           Gemini - Cognitive Ease & Accessibility
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description   for elderly/cognitive impairment.
+@author         Me
+==/UserStyle== */
+
+@-moz-document domain("gemini.google.com") {
+    /* Insert code here... */
+
+/* --- 5. CHAT HISTORY SIDEBAR VISIBILITY --- */
+    
+    /* Target the sidebar container specifically */
+
+    conversations-list {
+        background-color:  #002000 !important; /* Soft, calming Mint Green */
+        border-right: 3px solid  #e6f4ea !important; /* Thick dark green border to define the edge */
+    }
+
+}
+
+
+
+
+
+
+
+
+/* ==UserStyle==
+@name           gemini.google.com
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+@-moz-document domain("gemini.google.com") {
+    /* Insert code here... */
+}
+
+
+/* ==UserStyle==
+@name           Gemini - Cognitive Ease & Accessibility
+@description   for elderly/cognitive impairment.
+@version        1.0
+==/UserStyle== */
+
+@-moz-document domain("gemini.google.com") ....
+
+
+        background-color:  #002000 !important; /* Soft, calming Mint Green */
+
+black
+darkslategray
+darkgreen
+
+/* --- 5. CHAT HISTORY SIDEBAR VISIBILITY --- */
+    
+    /* Target the sidebar container specifically */
+    .chat-history, 
+    conversations-list {
+        background-color:  #1e8e3e !important; /* Soft, calming Mint Green */
+        border-right: 3px solid  #e6f4ea !important; /* Thick dark green border to define the edge */
+    }
+
+
+/* --- 5. CHAT HISTORY SIDEBAR VISIBILITY --- */
+    
+    /* Target the sidebar container specifically */
+    .chat-history, 
+    conversations-list {
+        background-color: #e6f4ea !important; /* Soft, calming Mint Green */
+        border-right: 3px solid #1e8e3e !important; /* Thick dark green border to define the edge */
+    }
+
+```
+
+
+
+they cannot find the chat history box ...
+
+```html
+
+
+<div _ngcontent-ng-c2000028404="" class="chat-history ng-star-inserted"><div _ngcontent-ng-c2000028404="" class="chat-history-list ng-star-inserted"><conversations-list _ngcontent-ng-c2000028404="" data-test-id="all-conversations" class="sidenav-style-updates ng-tns-c3216330713-6 ia-redesign side-nav-style-updates ng-star-inserted" _nghost-ng-c3216330713=""><!----><div _ngcontent-ng-c3216330713="" class="title-container ng-tns-c3216330713-6 ng-trigger ng-trigger-conversationListTitleVisibilityAnimation" style="visibility: visible;"><h1 _ngcontent-ng-c3216330713="" class="title gds-label-l ng-tns-c3216330713-6 side-nav-style-updates ng-star-inserted" style=""> Chats </h1><!----></div>
+
+<div _ngcontent-ng-c3216330713="" role="region" class="conversations-container ng-tns-c3216330713-6 ng-star-inserted" id="conversations-list-0">
+	<div _ngcontent-ng-c3216330713="" class="conversation-items-container ng-tns-c3216330713-6 side-nav-opened has-visible-icon ng-star-inserted" style=""><!----><a _ngcontent-ng-c3216330713="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c3216330713-6 ng-trigger ng-trigger-conversationListRevealAnimation selected mat-mdc-tooltip-disabled" href="/app/b360b13d525ca4a8" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_b360b13d525ca4a8&quot;,null,1]];mutable:true"><div _ngcontent-ng-c3216330713="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c3216330713-6" dir="ltr"><!----> 260204 userstyle Customizing Gemini's Interface with CSS <div _ngcontent-ng-c3216330713="" class="conversation-title-cover ng-tns-c3216330713-6"></div></div><div _ngcontent-ng-c3216330713="" class="pin-icon-container with-mat-icon ng-tns-c3216330713-6"><mat-icon _ngcontent-ng-c3216330713="" role="img" fonticon="push_pin" class="mat-icon notranslate gds-icon-s conversation-pin-icon ng-tns-c3216330713-6 google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted" aria-hidden="true" data-mat-icon-type="font" data-mat-icon-name="push_pin" style=""></mat-icon><span _ngcontent-ng-c3216330713="" class="cdk-visually-hidden ng-tns-c3216330713-6 ng-star-inserted" style="">Pinned chat</span><!----><!----></div></a><!----><div _ngcontent-ng-c3216330713="" class="conversation-actions-container ng-tns-c3216330713-6 side-nav-opened ng-star-inserted selected"><button _ngcontent-ng-c3216330713="" aria-label="Open menu for conversation actions." data-test-id="actions-menu-button" class="mat-mdc-menu-trigger conversation-actions-menu-button ng-tns-c3216330713-6" aria-haspopup="menu" aria-expanded="false"><mat-icon _ngcontent-ng-c3216330713="" role="img" data-test-id="actions-menu-icon gds-icon-l" class="mat-icon notranslate gds-icon-l ng-tns-c3216330713-6 google-symbols mat-ligature-font mat-icon-no-color" aria-hidden="true" data-mat-icon-type="font" data-mat-icon-name="more_vert" fonticon="more_vert"></mat-icon></button><!----><!----><mat-menu _ngcontent-ng-c3216330713="" class=""><!----></mat-menu></div><!----></div><!---->
+
+....
+
+```
+how can i make its background color slightly greenish ... so that it is more visible to elderly people with mild cognitive impairment?
 
 
 # stylus
@@ -148,24 +257,56 @@ for stylus extension options page
 
 
 # devtools inspect element ... of conversations-list at gemini.google.com/app
-```
+```html
 ---
 ---
 
 <div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover ng-tns-c63712579-7"></div></div>
 
 
-<div _ngcontent-ng-c63712579="" role="region" class="conversations-container ng-tns-c63712579-7 ng-star-inserted" id="conversations-list-0"><div _ngcontent-ng-c63712579="" class="conversation-items-container ng-tns-c63712579-7 has-visible-icon ng-star-inserted side-nav-opened" style=""><!----><a _ngcontent-ng-c63712579="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c63712579-7 ng-trigger ng-trigger-conversationListRevealAnimation selected" href="/app/f1075a4ca31df17c" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_f1075a4ca31df17c&quot;,null,1]];mutable:true" aria-describedby="cdk-describedby-message-ng-1-200" cdk-describedby-host="ng-1"><div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover"
+<div _ngcontent-ng-c63712579="" role="region" class="conversations-container ng-tns-c63712579-7 ng-star-inserted" id="conversations-list-0"><div _ngcontent-ng-c63712579="" class="conversation-items-container ng-tns-c63712579-7 has-visible-icon ng-star-inserted side-nav-opened" style=""><!----><a _ngcontent-ng-c63712579="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c63712579-7 ng-trigger ng-trigger-conversationListRevealAnimation selected" href="/app/f1075a4ca31df17c" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_f1075a4ca31df17c&quot;,null,1]];mutable:true" aria-describedby="cdk-describedby-message-ng-1-200" cdk-describedby-host="ng-1"><div _ngcontent-ng-c63712579="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c63712579-7" dir="ltr"><!----> písně o vyčerpání. Vytvoření výzkumného souboru <div _ngcontent-ng-c63712579="" class="conversation-title-cover">
+
+
+
+<infinite-scroller _ngcontent-ng-c2000028404="" _nghost-ng-c3089928897="" class="">
+
+<div _ngcontent-ng-c3089928897="" class="top-gradient-container ng-star-inserted visible"><div _ngcontent-ng-c3089928897="" class="top-gradient"></div></div><!---->
+
+<h1 _ngcontent-ng-c3216330713="" class="title gds-label-l ng-tns-c3216330713-6 side-nav-style-updates ng-star-inserted" style=""> Chats </h1>
+
+
+<div _ngcontent-ng-c3216330713="" role="region" class="conversations-container ng-tns-c3216330713-6 ng-star-inserted" id="conversations-list-0">
+
+<div _ngcontent-ng-c3216330713="" class="conversation-items-container ng-tns-c3216330713-6 side-nav-opened has-visible-icon ng-star-inserted" style="">
+
+
+
+
+<div _ngcontent-ng-c2000028404="" class="chat-history ng-star-inserted"><div _ngcontent-ng-c2000028404="" class="chat-history-list ng-star-inserted"><conversations-list _ngcontent-ng-c2000028404="" data-test-id="all-conversations" class="sidenav-style-updates ng-tns-c3216330713-6 ia-redesign side-nav-style-updates ng-star-inserted" _nghost-ng-c3216330713=""><!----><div _ngcontent-ng-c3216330713="" class="title-container ng-tns-c3216330713-6 ng-trigger ng-trigger-conversationListTitleVisibilityAnimation" style="visibility: visible;"><h1 _ngcontent-ng-c3216330713="" class="title gds-label-l ng-tns-c3216330713-6 side-nav-style-updates ng-star-inserted" style=""> Chats </h1><!----></div>
+
+<div _ngcontent-ng-c3216330713="" role="region" class="conversations-container ng-tns-c3216330713-6 ng-star-inserted" id="conversations-list-0">
+	<div _ngcontent-ng-c3216330713="" class="conversation-items-container ng-tns-c3216330713-6 side-nav-opened has-visible-icon ng-star-inserted" style=""><!----><a _ngcontent-ng-c3216330713="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c3216330713-6 ng-trigger ng-trigger-conversationListRevealAnimation selected mat-mdc-tooltip-disabled" href="/app/b360b13d525ca4a8" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_b360b13d525ca4a8&quot;,null,1]];mutable:true"><div _ngcontent-ng-c3216330713="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c3216330713-6" dir="ltr"><!----> 260204 userstyle Customizing Gemini's Interface with CSS <div _ngcontent-ng-c3216330713="" class="conversation-title-cover ng-tns-c3216330713-6"></div></div><div _ngcontent-ng-c3216330713="" class="pin-icon-container with-mat-icon ng-tns-c3216330713-6"><mat-icon _ngcontent-ng-c3216330713="" role="img" fonticon="push_pin" class="mat-icon notranslate gds-icon-s conversation-pin-icon ng-tns-c3216330713-6 google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted" aria-hidden="true" data-mat-icon-type="font" data-mat-icon-name="push_pin" style=""></mat-icon><span _ngcontent-ng-c3216330713="" class="cdk-visually-hidden ng-tns-c3216330713-6 ng-star-inserted" style="">Pinned chat</span><!----><!----></div></a><!----><div _ngcontent-ng-c3216330713="" class="conversation-actions-container ng-tns-c3216330713-6 side-nav-opened ng-star-inserted selected"><button _ngcontent-ng-c3216330713="" aria-label="Open menu for conversation actions." data-test-id="actions-menu-button" class="mat-mdc-menu-trigger conversation-actions-menu-button ng-tns-c3216330713-6" aria-haspopup="menu" aria-expanded="false"><mat-icon _ngcontent-ng-c3216330713="" role="img" data-test-id="actions-menu-icon gds-icon-l" class="mat-icon notranslate gds-icon-l ng-tns-c3216330713-6 google-symbols mat-ligature-font mat-icon-no-color" aria-hidden="true" data-mat-icon-type="font" data-mat-icon-name="more_vert" fonticon="more_vert"></mat-icon></button><!----><!----><mat-menu _ngcontent-ng-c3216330713="" class=""><!----></mat-menu></div><!----></div><!---->
+
+
+	<div _ngcontent-ng-c3216330713="" class="conversation-items-container ng-tns-c3216330713-6 side-nav-opened has-visible-icon ng-star-inserted" style=""><!----><a _ngcontent-ng-c3216330713="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c3216330713-6 ng-trigger ng-trigger-conversationListRevealAnimation" href="/app/abdd96c27e4ae9af" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_abdd96c27e4ae9af&quot;,null,1,1]];mutable:true" aria-describedby="cdk-describedby-message-ng-1-180" cdk-describedby-host="ng-1"><div _ngcontent-ng-c3216330713="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c3216330713-6" dir="ltr"><!----> POUŽIJ KOLEČKO MYŠI prosím, nápovědy budou v ... GitHub složka s meta-informacemi <div _ngcontent-ng-c3216330713="" class="conversation-title-cover ng-tns-c3216330713-6"></div></div><div _ngcontent-ng-c3216330713="" class="pin-icon-container with-mat-icon ng-tns-c3216330713-6"><mat-icon _ngcontent-ng-c3216330713="" role="img" fonticon="push_pin" class="mat-icon notranslate gds-icon-s conversation-pin-icon ng-tns-c3216330713-6 google-symbols mat-ligature-font mat-icon-no-color ng-star-inserted" aria-hidden="true" data-mat-icon-type="font" data-mat-icon-name="push_pin" style=""></mat-icon><span _ngcontent-ng-c3216330713="" class="cdk-visually-hidden ng-tns-c3216330713-6 ng-star-inserted" style="">Pinned chat</span><!----><!----></div></a><!----><div _ngcontent-ng-c3216330713="" class="conversation-actions-container ng-tns-c3216330713-6 side-nav-opened ng-star-inserted"><button _ngcontent-ng-c3216330713="" aria-label="Open menu for conversation actions." data-test-id="actions-menu-button" class="mat-mdc-menu-trigger conversation-actions-menu-button ng-tns-c3216330713-6" aria-haspopup="menu" aria-expanded="false"><mat-icon _ngcontent-ng-c3216330713="" role="img" data-test-id="actions-menu-icon gds-icon-l" class="mat-icon notranslate gds-icon-l ng-tns-c3216330713-6 google-symbols mat-ligature-font mat-icon-no-color" aria-hidden="true" data-mat-icon-type="font" data-mat-icon-name="more_vert" fonticon="more_vert"></mat-icon></button><!----><!----><mat-menu _ngcontent-ng-c3216330713="" class=""><!----></mat-menu></div><!----></div><!----><div _ngcontent-ng-c3216330713="" class="conversation-items-container ng-tns-c3216330713-6 side-nav-opened has-visible-icon ng-star-inserted" style=""><!----><a _ngcontent-ng-c3216330713="" matripple="" tabindex="0" data-test-id="conversation" mattooltipposition="right" mattooltipshowdelay="300" class="mat-ripple mat-mdc-tooltip-trigger conversation ng-tns-c3216330713-6 ng-trigger ng-trigger-conversationListRevealAnimation" href="/app/35b9c032c5b327c4" role="button" jslog="186014;track:generic_click;BardVeMetadataKey:[null,null,null,null,null,null,null,[&quot;c_35b9c032c5b327c4&quot;,null,1,2]];mutable:true" aria-describedby="cdk-describedby-message-ng-1-148" cdk-describedby-host="ng-1"><div _ngcontent-ng-c3216330713="" autotextdirection="" class="conversation-title gds-label-l ng-tns-c3216330713-6" dir="ltr"><!----> ℹ Využití "Pinned" v Outlooku jako paměti <div _ngcontent-ng-c3216330713="" class="conversation-title-cover ng-tns-c3216330713-6"></div></div><div _ngcontent-ng-c3216330713="" class="pin-icon-container with-mat-icon ng-tns-c3216330713-6"><mat-icon _ngcontent-ng-c3216330713="" role="img" fonticon="push_pin" 
+
+>
 
 ---
 ---
 ```
+#conversations-list-0
 
 
+
+#app-root > main > side-navigation-v2 > bard-sidenav-container > bard-sidenav > side-navigation-content > div > div > infinite-scroller > div.chat-history.ng-star-inserted > div > conversations-list > div.title-container.ng-tns-c3216330713-6.ng-trigger.ng-trigger-conversationListTitleVisibilityAnimation > h1
+
+
+#conversations-list-0 > div:nth-child(1) > a > div.conversation-title.gds-label-l.ng-tns-c3216330713-6
 
 chat-history-list ng-star-inserted
 
-infinite-scroller
+*** infinite-scroller
 
 sidenav-with-history-container disable-onload-animations side-nav-mystuff-update ng-star-inserted content-loaded expanded
 
