@@ -1,13 +1,22 @@
 
+
+260205
+markdown all in one 
+enable in workspace 
+
+- [Type → Developer: Reload With Extensions Disabled](#type--developer-reload-with-extensions-disabled)
+- [ENTIRE OneDrive IS MAYBE TOO BIG FOR FOAM](#entire-onedrive-is-maybe-too-big-for-foam)
+- [@command:extension.bisect.start +when:!isExtensionBisectActive](#commandextensionbisectstart-whenisextensionbisectactive)
+- ["editor.pasteAs.enabled": false](#editorpasteasenabled-false)
+- [GitHub Copilot in VS Code is very slow (spinning icon) when editing Jupyter notebooks (.ipynb files)](#github-copilot-in-vs-code-is-very-slow-spinning-icon-when-editing-jupyter-notebooks-ipynb-files)
+
+
+
 bug 
 paste spins for many seconds
 
 
-copilot innocent?
-
-
-copilot with foam Disabled
-seems ok
+# copilot innocent? copilot with foam Disabled seems ok
 
 
 # Type → Developer: Reload With Extensions Disabled
@@ -16,7 +25,10 @@ seems to help
 
 foam disable
 seems to help
-# ENTIRE OneDrive IS MAYBE TOO BIG FOR FOAM
+# the ENTIRE OneDrive IS MAYBE TOO BIG FOR FOAM
+# the ENTIRE Dokumenty IS MAYBE not TOO BIG FOR FOAM  ?
+# 260205 where are the experiments to try and in which workspace
+
 
 exists
 # @command:extension.bisect.start +when:!isExtensionBisectActive
@@ -24,8 +36,11 @@ exists
 
 
 
-exists
-https://chatgpt.com/c/68e65484-a60c-8328-9918-b9ee6e7379f3
+
+
+# https://chatgpt.com/c/68e65484-a60c-8328-9918-b9ee6e7379f3 "editor.pasteAs.enabled"
+
+
 You may also want to try setting
 
 # "editor.pasteAs.enabled": false
@@ -34,6 +49,9 @@ in settings.json. I found when running over SSH with X forwarding, that it would
 
 
 ....  ... how can i see, how much traffic 
+
+
+
 49 seconds to move this 1 line in 1 file by cut and paste
 file had 20 lines
 
@@ -80,6 +98,8 @@ f1
 command:workbench.action.toggleKeybindingsLog
 not today  THIS HELPED ME TO FIND OUT WHAT COMMAND IS INVOKED
 
+
+
 so what command is invoked    TAB
 event - modifiers: [ctrl], code: KeyV, keyCode: 52 ('V')
 2025-10-08 13:40:11.105 [info] [Window] [KeybindingService]: | Resolving ctrl+V
@@ -103,14 +123,22 @@ nothing
 
 
 
+google search?
 
-chatgpt
+chatgpt?
 github copilot problem ... when i paste, it freezes for many seconds
+https://chatgpt.com/c/68e61fd7-dab0-832b-9e1d-1f29dd3bca3c
 https://chatgpt.com/c/68e6302e-03bc-8325-adc9-326b002262c3
+Obsidian
+
 vscode github copilot problem ... when i paste, it freezes for many seconds
+https://chatgpt.com/c/68e620f9-835c-8326-b75c-8eb4aa6f66d4
+Obsidian
 
 
 trying to trigger
+the bug?
+
 
 
 C:\Users\marti\OneDrive\2400-WIKI\github-copilot.f8.md
@@ -129,6 +157,7 @@ markdow f8 md
 
 
 "github.copilot.nextEditSuggestions.enabled": false
+not present in the settings.json
 
 vscode://settings/github.copilot.nextEditSuggestions.enabled
 
@@ -148,3 +177,18 @@ Thank you! For now, it sends the whole file up to your cursor. I do plan to make
 Thank you for this info 💚
 
 
+# 260205 C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
+
+
+
+pwsh
+^r
+robocopy 
+ghd
+git push 
+
+https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/keybindings.json
+0
+
+https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
+0

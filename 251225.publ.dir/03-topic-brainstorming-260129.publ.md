@@ -74,18 +74,19 @@ https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-top
 
 
 
-# 260205
+# 260205 C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
+
 pwsh
 ^r
 robocopy 
 ghd
 git push 
 
-https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/keybindings.json
+f1 
 
-https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
-
-jak jejich history github
+C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
+markdown all in one 
+enable in workspace 
 
 
 
