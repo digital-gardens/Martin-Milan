@@ -11,23 +11,40 @@
 bug 
 paste spins for many seconds
 paste spins for many seconds
+paste spins for many seconds
+paste spins for many seconds
+paste spins for many seconds
+paste spins for many seconds
+paste spins for many seconds
+paste spins for many seconds
+paste spins for many seconds
 7s
 [[o]]
-instantly
+instantly foam
+
+[[o]]
+6s kortina
+[[25]]  ctrl+space
+[[260126 - Vyčerpal se do vzteku.md]]
+[[251008-vscode-paste-bug.f8.md]]
+[[250125-id-uri.f8.md]]
 
 
-
-
-
+foam 
+49 seconds to move this 1 line in 1 file by cut and paste
+49 seconds to move this 1 line in 1 file by cut and paste
+49 seconds to move this 1 line in 1 file by cut and paste
+49 seconds to move this 1 line in 1 file by cut and paste
+49 seconds to move this 1 line in 1 file by cut and paste
 49 seconds to move this 1 line in 1 file by cut and paste
 49 seconds to move this 1 line in 1 file by cut and paste
 49 seconds to move this 1 line in 1 file by cut and paste
 49 seconds to move this 1 line in 1 file by cut and paste
 file had 20 lines
+foam nedet
 0 seconds
 2
 6
-
 6 second to paste to another file
 
 
@@ -136,9 +153,10 @@ nothing
 
 # chatgpt
 google search?
+vscode github-copilot ... how can i see, how much traffic 
+https://chatgpt.com/c/68e61fd7-dab0-832b-9e1d-1f29dd3bca3c
 
 github copilot problem ... when i paste, it freezes for many seconds
-https://chatgpt.com/c/68e61fd7-dab0-832b-9e1d-1f29dd3bca3c
 https://chatgpt.com/c/68e6302e-03bc-8325-adc9-326b002262c3
 Obsidian
 
@@ -185,19 +203,15 @@ Thank you for this info 💚
 
 
 
-# 260205 C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
-
-
+# 260205 Dokumenty
 
 pwsh
 ^r
 robocopy 
 ghd
 git push 
-
 https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/keybindings.json
 0
-
 https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
 0
 
@@ -209,7 +223,36 @@ enable in workspace
 later..disable
 
 workspace..onedrive
+foam enabled
 14 seconds to paste this
 
 
+open 3 vscode workspaces
+{
+  "key": "",
+  "command": "workbench.extensions.action.focusExtensionsView"
+}
+markdown 
+wikilink
 
+
+# simple lightweight vscode extension for wikilinks , 30000 files, a slow computer
+https://gemini.google.com/app/41a9133fdcfa6319
+Exclude Folders: Ensure your .vscode/settings.json has unnecessary folders (like node_modules or large attachment/image folders) in the files.watcherExclude and search.exclude settings.
+
+
+kortina
+
+onedrive
+Windows warning
+automatic file downloads
+cancel, block
+
+onedrive
+15.7 GB
+3.37 GB on disk 
+41,000 files 4000 folders
+
+will disable in one drive and enable in dokumenty
+
+todo enable on 2512

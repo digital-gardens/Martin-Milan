@@ -92,6 +92,13 @@ f1
 C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
 markdown all in one 
 enable in workspace 
+disable
+
+
+onedrive
+15.7 GB
+3.37 GB on disk 
+41,000 files 4000 folders
 
 
 
