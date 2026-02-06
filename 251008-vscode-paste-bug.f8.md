@@ -241,6 +241,10 @@ https://gemini.google.com/app/41a9133fdcfa6319
 Exclude Folders: Ensure your .vscode/settings.json has unnecessary folders (like node_modules or large attachment/image folders) in the files.watcherExclude and search.exclude settings.
 
 
+Closed
+Closed Links containing '/' delete files #50
+
+
 kortina
 
 onedrive
@@ -253,6 +257,13 @@ onedrive
 3.37 GB on disk 
 41,000 files 4000 folders
 
-will disable in one drive and enable in dokumenty
+ok will disable in one drive and enable in dokumenty
+ok enable on 2512
+[[(3) DVTV - Bohužel pořád máme tu tradici jíst v poledne, hodně snídat...  Facebook.md]]
 
-todo enable on 2512
+[[(75) Ceļaties(i) bāleliņi (tautas dziesma Valta Pūces apdarē) - YouTube.f8.md]]
+
+
+This extension sets the wordPattern for 'markdown' in order to (1) enable proper completion of relative paths and (2) make it such that if you cmd+shift+f on a #tag the search will prefill with "#tag" and not just "tag":
+
+vscode.languages.setLanguageConfiguration('markdown', { wordPattern: /([\#\.\/\\\w_]+)/ });

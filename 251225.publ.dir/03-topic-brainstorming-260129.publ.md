@@ -77,9 +77,11 @@ https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-top
 # 260205
 
 ## C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
+[[../25]]
 
 ## C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251105-symptom-tracker.f8.md
 ### 2025-12-30   251225 
+[[251105-symptom-tracker.f8]]
 
 pwsh
 ^r
@@ -100,7 +102,7 @@ onedrive
 3.37 GB on disk 
 41,000 files 4000 folders
 
-
+[[]]
 
 
 
