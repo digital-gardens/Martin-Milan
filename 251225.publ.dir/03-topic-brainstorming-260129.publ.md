@@ -74,6 +74,20 @@ https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-top
 
 
 
+# 260205
+pwsh
+^r
+robocopy 
+ghd
+git push 
+
+https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/keybindings.json
+
+https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
+
+jak jejich history github
+
+
 
 
 
@@ -81,7 +95,7 @@ https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-top
 
 
 
-
+userscript or chrome extension to add a simple bookmarking or title search to the Google Gemini web app
 
 
 
