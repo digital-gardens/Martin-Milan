@@ -74,7 +74,12 @@ https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-top
 
 
 
-# 260205 C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
+# 260205
+
+## C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
+
+## C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251105-symptom-tracker.f8.md
+### 2025-12-30   251225 
 
 pwsh
 ^r

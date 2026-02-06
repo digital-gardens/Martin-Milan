@@ -823,7 +823,8 @@ Ahoj Charri
 
 
 
-# 2025-12-30 
+# 2025-12-30   251225
+C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
 
 vscode
 f1
@@ -844,8 +845,10 @@ f1 workspace
 
 "C:\Program Files\Microsoft VS Code\Code.exe" c:\Users\marti\OneDrive\Dokumenty\2511-symptom-tracker.publ.dir
 
+
+
 vscode
-how is the folder called when i use
+## how is the folder called when i use
 ```
 code folder
 ```
@@ -853,6 +856,7 @@ code folder
 ## ai answer
 
 When you use the command `code folder` in Visual Studio Code (VSCode), it opens the specified folder as the root workspace folder. The folder is referred to as the "workspace folder" or "root folder" in VSCode terminology. This means that all files and subfolders within that folder will be accessible in the VSCode workspace, and any settings or extensions applied will be specific to that workspace.
+
 
 
 in vscode 
@@ -869,8 +873,7 @@ Enabled/Disabled Status: If you previously went to the Extensions tab and manual
 
 If you rely heavily on disabling specific extensions for this workspace, take a quick screenshot of your "Disabled (Workspace)" extensions list before you rename the folder, so you can quickly re-apply them if needed.
 
-##
-i rely heavily on *enabling* specific extensions for this workspace
+## i rely heavily on *enabling* specific extensions for this workspace
 what happens to them if i rename the root workspace folder?
 
 ## ai answer
@@ -896,8 +899,7 @@ cmd /c explorer %APPDATA%\Code\User\profiles
 how can i get the list of extensions that are enabled for the current workspace only?
 how can i get the list of extensions that are disabled for the current workspace only?
 
-#
-
+## extensions 
 
 Name: learn-markdown
 Id: docsmsft.docs-markdown
@@ -973,6 +975,7 @@ gh desktop i can see these lines
 
 tc
 gemini advised editing the .code-workspace file in a text editor to change the folder paths directly.
+
 
 still had to click the extensions tab and re-enable the workspace-specific extensions manually after renaming the folder.
 
