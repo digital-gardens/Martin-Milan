@@ -1,4 +1,16 @@
 
+
+https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
+if settings.json has been changed 
+wait minutes 
+pwsh
+^r
+robocopy 
+ghd
+git push 
+
+
+
 - [Type → Developer: Reload With Extensions Disabled](#type--developer-reload-with-extensions-disabled)
 - [ENTIRE OneDrive IS MAYBE TOO BIG FOR FOAM](#entire-onedrive-is-maybe-too-big-for-foam)
 - [@command:extension.bisect.start +when:!isExtensionBisectActive](#commandextensionbisectstart-whenisextensionbisectactive)
@@ -6,7 +18,7 @@
 - [GitHub Copilot in VS Code is very slow (spinning icon) when editing Jupyter notebooks (.ipynb files)](#github-copilot-in-vs-code-is-very-slow-spinning-icon-when-editing-jupyter-notebooks-ipynb-files)
 
 
-# workspace..onedrive foam enabled
+# if workspace..onedrive foam enabled
 
 bug 
 paste spins for many seconds
@@ -23,7 +35,7 @@ paste spins for many seconds
 instantly foam
 
 [[o]]
-6s kortina
+6s kortina completion
 [[25]]  ctrl+space
 [[260126 - Vyčerpal se do vzteku.md]]
 [[251008-vscode-paste-bug.f8.md]]
