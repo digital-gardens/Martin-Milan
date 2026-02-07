@@ -1,4 +1,5 @@
 
+[[260207-vscode-markdown-toc-bug-hell.publ]]
 
 https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
 if settings.json has been changed 
@@ -234,6 +235,10 @@ markdown all in one
 enable in workspace 
 later..disable
 
+[[260207-vscode-markdown-toc-bug-hell.publ]]
+*** edit 260207 todo later enable but disable keybindings for markdown all in one
+
+
 workspace..onedrive
 foam enabled
 14 seconds to paste this
@@ -279,3 +284,13 @@ ok enable on 2512
 This extension sets the wordPattern for 'markdown' in order to (1) enable proper completion of relative paths and (2) make it such that if you cmd+shift+f on a #tag the search will prefill with "#tag" and not just "tag":
 
 vscode.languages.setLanguageConfiguration('markdown', { wordPattern: /([\#\.\/\\\w_]+)/ });
+
+
+
+
+## [[260207-vscode-markdown-toc-bug-hell.publ]]
+*** edit 260207 todo later enable but disable keybindings for markdown all in one
+
+
+
+
