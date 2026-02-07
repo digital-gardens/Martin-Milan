@@ -25,7 +25,10 @@ Prevence vyhoření. Jak na mikro-přestávky, které skutečně regenerují moz
 
 
 # https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
-if settings.json has been changed 
+if settings.json has to be changed
+  write the planned edits here 
+  or rather in a file 
+  [[03-260207-editing-settings-json.publ.md]]
 wait minutes 
 pwsh
 ^r
