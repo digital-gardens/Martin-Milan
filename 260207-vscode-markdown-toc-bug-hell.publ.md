@@ -1,7 +1,8 @@
 # 260207-vscode-markdown-toc-bug-hell.publ
 
+[[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
 
-
+[[251008-vscode-paste-bug.f8.md]]
 
 
 

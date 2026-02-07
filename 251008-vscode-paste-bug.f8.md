@@ -1,5 +1,7 @@
 
 [[260207-vscode-markdown-toc-bug-hell.publ]]
+[[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
+
 
 https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
 if settings.json has been changed 
@@ -236,7 +238,7 @@ enable in workspace
 later..disable
 
 [[260207-vscode-markdown-toc-bug-hell.publ]]
-*** edit 260207 todo later enable but disable keybindings for markdown all in one
+edit edit abandoned plan *** edit 260207 todo later enable but disable keybindings for markdown all in one
 
 
 workspace..onedrive
@@ -288,11 +290,13 @@ vscode.languages.setLanguageConfiguration('markdown', { wordPattern: /([\#\.\/\\
 
 
 
-## [[260207-vscode-markdown-toc-bug-hell.publ]]
-*** edit 260207 todo later enable but disable keybindings for markdown all in one
+# [[260207-vscode-markdown-toc-bug-hell.publ]]
+
+[[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
+
+edit edit abandoned plan *** edit 260207 todo later enable but disable keybindings for markdown all in one
 
 Disable Auto-Update: Set "markdown.extension.toc.updateOnSave": false in your VS Code settings to prevent the extension from editing the file without your explicit command.
-
 
 Ctrl + Shift + P -> Open Keyboard Shortcuts -> find markdown.extension.onEnterKey or markdown.extension.onBackspaceKey -> Right Click -> Remove Keybinding.
 
