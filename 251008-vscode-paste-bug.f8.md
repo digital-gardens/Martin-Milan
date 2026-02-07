@@ -291,6 +291,13 @@ vscode.languages.setLanguageConfiguration('markdown', { wordPattern: /([\#\.\/\\
 ## [[260207-vscode-markdown-toc-bug-hell.publ]]
 *** edit 260207 todo later enable but disable keybindings for markdown all in one
 
+Disable Auto-Update: Set "markdown.extension.toc.updateOnSave": false in your VS Code settings to prevent the extension from editing the file without your explicit command.
+
+
+Ctrl + Shift + P -> Open Keyboard Shortcuts -> find markdown.extension.onEnterKey or markdown.extension.onBackspaceKey -> Right Click -> Remove Keybinding.
+
+
+
 
 
 
