@@ -23,7 +23,7 @@ Prevence vyhoření. Jak na mikro-přestávky, které skutečně regenerují moz
 //// defensive-260207-Dokumenty.code-workspace
 260207-enable-all-markdown-extensions.code-workspace
 
-
+https://github.com/digital-gardens/Martin-Milan/commits/main/
 # https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
 if settings.json has to be changed
   write the planned edits here 
