@@ -15,15 +15,16 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 
 Prevence vyhoření. Jak na mikro-přestávky, které skutečně regenerují mozek - Zdravotnický kompas │Navigace ve světě zdraví a medicíny
 
-https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
+# https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
 
 
-[[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
-file:///C:\Users\marti\OneDrive\Dokumenty\260207-vscode-markdown-toc-bug-hell.publ.md
-defensive-260207-Dokumenty.code-workspace
+# [[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
+//// file:///C:\Users\marti\OneDrive\Dokumenty\260207-vscode-markdown-toc-bug-hell.publ.md
+//// defensive-260207-Dokumenty.code-workspace
+260207-enable-all-markdown-extensions.code-workspace
 
 
-https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
+# https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
 if settings.json has been changed 
 wait minutes 
 pwsh
@@ -659,6 +660,9 @@ table of contents
 
 
 
+- [https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george](#httpswwwcsasczcsinternetove-bankovnictvigeorgehey-george)
+- [\[\[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md\]\]](#260207publmdvscode-workspace---enable-all-markdown-extensionspublmd)
+- [https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md](#httpsgithubcomdigital-gardensmartin-milanblobmain251008-vscode-paste-bugf8md)
 - [stačí click the continue this chat button](#stačí-click-the-continue-this-chat-button)
 - [https://github.com/digital-gardens/Martin-Milan/tree/main/250825-%40skupina-meta-informace](#httpsgithubcomdigital-gardensmartin-milantreemain250825-40skupina-meta-informace)
 - [249s](#249s)
@@ -666,6 +670,8 @@ table of contents
 - [0404-MAIN-INDEX ... of my web links](#0404-main-index--of-my-web-links)
 - [0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy](#0404-hlavní-rozcestník--moje-hlavní-webové-odkazy)
 - [extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html](#extensionahmddkokfhbdbmlioknpkipoikcckpahoptionshtml)
+- [260205](#260205)
+	- [C:\\Users\\marti\\OneDrive\\Dokumenty\\251008-vscode-paste-bug.f8.md](#cusersmartionedrivedokumenty251008-vscode-paste-bugf8md)
 - [// put new experiment notes here](#-put-new-experiment-notes-here)
 - [260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos](#260101-photos--paměťová-pomůcka-na-dveřích-skříně--memory-aid-on-the-cabinet-door--24br-ai-dr-tesař---google-photos)
 - [AAC and dementia](#aac-and-dementia)

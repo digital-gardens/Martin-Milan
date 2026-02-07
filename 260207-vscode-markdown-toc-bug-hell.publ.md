@@ -5,11 +5,19 @@
 [[251008-vscode-paste-bug.f8.md]]
 
 
+- [260207-vscode-markdown-toc-bug-hell.publ](#260207-vscode-markdown-toc-bug-hellpubl)
+- [https://gist.github.com/search?q="markdownExtended.disabledPlugins"%3A+"kbd%2C"%2C+](#httpsgistgithubcomsearchqmarkdownextendeddisabledplugins3akbd2c2c)
+- [Auto-saving when a toc is generated](#auto-saving-when-a-toc-is-generated)
+- [I peeked at the code and can see minLevel: number = 2,  seems to set the minimum heading as 2, is there a reason to not include heading level 1?](#i-peeked-at-the-code-and-can-see-minlevel-number--2--seems-to-set-the-minimum-heading-as-2-is-there-a-reason-to-not-include-heading-level-1)
 
-https://gist.github.com/search?q="markdownExtended.disabledPlugins"%3A+"kbd%2C"%2C+
+
+
+# https://gist.github.com/search?q="markdownExtended.disabledPlugins"%3A+"kbd%2C"%2C+
 https://gist.github.com/search?q=%22markdownExtended.disabledPlugins%22%3A+%22kbd%2C%22%2C+
-Auto-saving when a toc is generated
-I peeked at the code and can see minLevel: number = 2,  seems to set the minimum heading as 2, is there a reason to not include heading level 1?
+
+# Auto-saving when a toc is generated
+
+# I peeked at the code and can see minLevel: number = 2,  seems to set the minimum heading as 2, is there a reason to not include heading level 1?
 
 
 Depth control[1-6] with depthFrom:1 and depthTo:6
