@@ -1,26 +1,39 @@
-﻿; C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
+﻿; use semicolon for comments in ahk
+; this is not a .f8 file, but a .f5 file
+
+;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
+;test :   ^win+space
+;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
+
+;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
+; notes about debugging !!!
+
+
+; f8 works ;
 
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
 
-; code C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+; # git push
+; # C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
 
-; f8 works ;
+; code C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
 
 
 ; file:///C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
 
 
-;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
 
-; notes about debugging !!!
 
-;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
+
 
 
 ; win + e / martin personal / documents ---> location ->
 	;;;; old C:\Users\marti\OneDrive\Dokumenty234
 	; C:\Users\marti\OneDrive\Dokumenty
-; this file:  THE  MAIN COPY is  at NOTC:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahkNOT    C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+; this file:  THE  MAIN COPY is  at
+;C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+; NOTC:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahkNOT    ;;
+
 
 ; //// my, unnecessary: mk win restore point ... could just rename  C:\Users\marti\OneDrive\Dokumenty\AutoHotkey*.ahk
 
@@ -150,6 +163,9 @@ return
 
 
 
+; 260208 disable
+; merely   commented out--------the 3 lines
+; test CAPS AAA OK ok
 ;============================== remap capslock to escape ==============================
 ; i have a keyboard with a strangely failing key "Esc"  251203  ....
 ; gemini, me
@@ -158,16 +174,20 @@ return
 ; 1. Block the physical Escape key entirely
 ; The $ symbol is crucial—it ensures we only block the PHYSICAL key,
 ; not the "fake" Escape signal we are about to create below.
-$Esc::return
+
+;$Esc::return
 
 ; 2. Remap CapsLock to act as Escape
 ; When you press CapsLock, the computer thinks you pressed Escape.
-CapsLock::Esc
+
+;CapsLock::Esc
 
 ; 3. (Optional) Keep CapsLock functionality via Shift+CapsLock
 ; Since CapsLock is now Escape, you can use Shift + CapsLock
 ; if you actually need to turn on typing in ALL CAPS.
-+CapsLock::CapsLock
+
+;+CapsLock::CapsLock
+
 ;============================== end of remap capslock to escape ==============================
 
 
@@ -777,6 +797,10 @@ MsgBox NOTHING
 ;
 
 ;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
+;test :   ^win+space
+
+; test #o #p INS
+;;whether-it-reads-up-to-here-when-i-run-it
 
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
