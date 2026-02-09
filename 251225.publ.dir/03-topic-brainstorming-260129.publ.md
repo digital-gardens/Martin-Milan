@@ -15,7 +15,12 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 
 Prevence vyhoření. Jak na mikro-přestávky, které skutečně regenerují mozek - Zdravotnický kompas │Navigace ve světě zdraví a medicíny
 
-# https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
+> # https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
+> Dobré ráno, jsem chatbot George, virtuální bankéř. Když budete chtít, spojím Vás s mým lidským kolegou, stačí mi to napsat.
+https://gemini.google.com/app/01eb9cb98199db01
+V aplikaci George nebo v internetovém bankovnictví (george.csas.cz) máte dvě hlavní možnosti, jak zaplatit za mobil. Záleží na tom, zda potřebujete dobít kredit (předplacená karta), nebo zaplatit fakturu (měsíční paušál).
+>>... jak zaplatit za mobil. dobít kredit 
+> pak george chatbot pochopil
 
 
 # [[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
@@ -99,13 +104,41 @@ onedrive
 41,000 files 4000 folders
 
 
+# 260209 do 28 navstivit csob a pozmenit trvalých příkazů , a popr jednorazovy prikaz 
+# 260209 sledovat klesání zůstatku na účtu  csas  
+lze z mailu platba kartou 
+potvrzujeme platbu kartou  0012 ve výši  729,89 Kč ze dne 4. 7. 2025 u MCPENSHOP.CZ.
+Na účtu 1394832073 je k dispozici 
 
 
 # // put new experiment notes here
 
 
+# 260209 
 
-userscript or chrome extension to add a simple bookmarking or title search to the Google Gemini web app
+https://george.csas.cz/?#/currentAccount/920FD9731C80507CBAE9DF498EF6DC1547709F46/details
+Datum
+Typ
+Název
+PopisDalší informaceKategorie nebo stavIndikátory
+Částka
+AkceDetaily
+9. úno
+Bok Jiri
+Provedena
+Zpráva pro příjemce:6000+znamky
+− 6 540,00 Kč
+
+Rozbalit
+13. led
+Generali
+Okamžitá platba Provedena
+VS:5484500198 KS:1620
+− 8 496,00 Kč
+
+Vytvořte si potvrzení o vedení účtu, zůstatku na účtu, majiteli nebo disponentovi. Můžete si vygenerovat i seznam všech trvalých pokynů, které máte na účtu nastavené – trvalých příkazů, SIPO a inkas.
+
+# userscript or chrome extension to add a simple bookmarking or title search to the Google Gemini web app
 
 
 
