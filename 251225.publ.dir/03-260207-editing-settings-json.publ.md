@@ -8,9 +8,15 @@ if settings.json has to be changed
  the   file:///c:/Users/marti/AppData/Roaming/Code/User/settings.json
 
 wait minutes 
+
+f8
+C:\Users\marti\OneDrive\00\Robocopy---c-onedrive---d-mir.f5.cmd
+
+or
 pwsh
 ^r
 robocopy 
+
 ghd
 git push 
 
@@ -42,7 +48,7 @@ line 1
 
 
 
-
+260207
 line 167
     "markdown.extension.toc.updateOnSave": false,   // to be lightweight
     "markdown.extension.toc.updateOnSave": false,   // to be lightweight? // to prevent various bugs and data loss when the extension tries to update the file without user explicitly asking for it  ..    file:///C:\Users\marti\OneDrive\Dokumenty\260207-vscode-markdown-toc-bug-hell.publ.md

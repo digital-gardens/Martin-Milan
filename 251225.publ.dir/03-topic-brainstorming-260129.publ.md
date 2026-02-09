@@ -116,6 +116,8 @@ Na účtu 1394832073 je k dispozici
 
 # 260209 
 
+transakce Milan ucet
+```
 https://george.csas.cz/?#/currentAccount/920FD9731C80507CBAE9DF498EF6DC1547709F46/details
 Datum
 Typ
@@ -137,6 +139,7 @@ VS:5484500198 KS:1620
 − 8 496,00 Kč
 
 Vytvořte si potvrzení o vedení účtu, zůstatku na účtu, majiteli nebo disponentovi. Můžete si vygenerovat i seznam všech trvalých pokynů, které máte na účtu nastavené – trvalých příkazů, SIPO a inkas.
+```
 
 # userscript or chrome extension to add a simple bookmarking or title search to the Google Gemini web app
 
