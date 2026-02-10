@@ -1,7 +1,7 @@
 ; use semicolon for comments in ahk
 ; this is not a .f8 file, but a .f5 file
 
-;test :   win+q AutoHotkey run the Dokumenty script  ... it asks to reload this ahk file ?
+;test :   win+q AutoHotkey run the Dokumenty script
 ;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
 
 ;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
@@ -56,10 +56,53 @@ SendMode "Event"
 ; No % signs needed for variables in v2
 SetWorkingDir A_ScriptDir
 
+
+
 ;============================== Main Script ==============================
+
+; WARNING
+; WARNING
+
+; ========= V2 NOTE =========
+; In v2, the auto-execute section does NOT stop at the first hotkey.
+; It continues running until it hits a 'Return' or 'Exit'.
+; However, it is still best practice to keep your setup at the top
+; and your definitions/hotkeys at the bottom.
+
+
+
+
+
+
+;============================== clipboard logging ==============================
+
+;gpt, me
+; Path to log file
+logFile := "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+
+; #Persistent
+; EXPLANATION: #Persistent was removed in v2.
+; AHK v2 is smarter: if you use OnClipboardChange, the script knows
+; it needs to stay running automatically. You don't need this line anymore.
+
+; In v2, pass the function object itself (ClipChanged), NOT a string ("ClipChanged")
+; Note: We assume the function 'ClipChanged' is defined lower down in your file.
+OnClipboardChange ClipChanged
+
+;debug
+; v2 FileAppend syntax: FileAppend Text, Filename
+; Concatenation is just spaces between strings.
+FileAppend ".." "v2 reload   `n", logFile
+
+return
+
+;============ end of auto-execute section ============
+
+; 260210 disable in v1 OnClipboardChange ClipChanged
 
 
 
 
 MsgBox "Hello! You are running AHK v2."
 
+; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk

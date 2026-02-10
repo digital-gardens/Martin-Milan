@@ -140,8 +140,12 @@ logFile :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.tx
 
 ; https://www.autohotkey.com/boards/viewtopic.php?t=51041
 ;    #Persistent
+; i dont remember what is the purpose of #Persistent
 
-OnClipboardChange("ClipChanged")			; place in script's 'auto-execute section
+
+
+; 260210 disable in v1 OnClipboardChange ClipChanged
+;OnClipboardChange("ClipChanged")			; place in script's 'auto-execute section
 
 
 ;debug
@@ -150,7 +154,7 @@ OnClipboardChange("ClipChanged")			; place in script's 'auto-execute section
 ;FileAppend, "sfdsfsdf%Clipboard%"  , %logFile%
 ;FileAppend, sfdsfsdfClipboard  , %logFile%
 
-FileAppend, % "aaa" "bbb reload   `n"   , %logFile%
+FileAppend, % "aaa" "bbb v1 reload   `n"   , %logFile%
 
 ;"`n", % logFile		;then append it to text file
 
