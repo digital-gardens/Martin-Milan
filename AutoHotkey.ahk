@@ -1,7 +1,7 @@
 ; use semicolon for comments in ahk
 ; this is not a .f8 file, but a .f5 file
 
-;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
+;test :   win+q AutoHotkey run the Dokumenty script  ... it asks to reload this ahk file ?
 ;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
 
 ;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
@@ -12,6 +12,7 @@
 ; f8 works ;
 
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
+; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\"
 
 ; # git push
 ; ## C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
@@ -56,4 +57,9 @@ SendMode "Event"
 SetWorkingDir A_ScriptDir
 
 ;============================== Main Script ==============================
+
+
+
+
+MsgBox "Hello! You are running AHK v2."
 
