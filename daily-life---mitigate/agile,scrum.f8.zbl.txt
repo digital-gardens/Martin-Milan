@@ -1,0 +1,72 @@
+agile,scrum.f8.zbl.txt
+
+
+
+
+
+Agile approach
+
+
+
+https://innolution.com/blog/agile-risk-management-antifragile
+
+the triad of fragile, robust, and antifragile
+
+
+ap
+
+Agile is defined by the Agile Manifesto - four values. It focusses on individual and interactions, working product in short iterations, ...
+
+
+
+
+
+how can i use something like the agile methodology in my daily life
+
+
+
+
+What's the equivalent of scrum in personal life?
+
+Quora
+https://www.quora.com › Whats-the-equivalent-of-scru...
+
+
+4 ans
+
+
+
+
+How to Use Scrum for Personal Productivity
+
+X-Team
+https://x-team.com › blog › scrum-for-personal-producti...
+Scrum is by far the most popular agile methodology. Why? Because it's a lightweight but effective way to develop, deliver, and maintain complex projects.
+
+
+
+
+
+
+
+How to Apply Scrum to Your Life
+Create your task backlog. For each of your most important personal projects, create a comprehensive list of everything you need to get done. ...
+Prioritize your backlog. Now that you have your giant list, it's time to prioritize. ...
+Plan your sprint. ...
+Start the sprint. ...
+Hold the retrospective.
+
+
+Breaking Down a Big Goal: Feeling overwhelmed by a large goal (learning a language, writing a novel)? Break it down into smaller, more manageable tasks. Focus on completing daily or weekly milestones and celebrate your progress.
+These are just a few examples.  The key is to think creatively and adapt programmer tools and concepts to your specific situations.  Remember, programmers are all about efficiency, breaking down problems, and finding solutions –  approaches that can be valuable in all aspects of life!
+
+
+Short bursts of focus:  Apply the concept of "sprints" from Agile. Dedicate focused time slots to specific tasks, like a 30-minute cleaning blitz or an uninterrupted hour for writing. This helps avoid multitasking and keeps you productive.
+
+
+
+
+
+
+
+

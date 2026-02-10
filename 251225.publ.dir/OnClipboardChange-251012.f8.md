@@ -113,3 +113,9 @@ TODO.f8.ps1
 Instead of trying to beat the news cycles and stay up to date, I try to give items some time to boil before reading.
 
 My reading workflow:
+
+phrases with meanings similar to "mitigation"
+certain_
+certain_
+Certainly! Here are_ some_ synonyms for_  “mitigation,” which_ refer to the action of reducing the severity, seriousness, or
+"C:\Users\marti\OneDrive\Blissymbolics,conlangs\ASemtogF700-English-CcfBliss-dictionary.txt.tsv"

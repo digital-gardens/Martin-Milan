@@ -1,4 +1,40 @@
 
+"C:\Users\marti\OneDrive\Blissymbolics,conlangs\ASemtogF700-English-CcfBliss-dictionary.txt.tsv"
+
+Blissymbolics is a symbolic, graphical language that was developed by Charles K. Bliss in the mid-20th century. It is designed to be a universal means of communication, transcending linguistic and cultural barriers. Blissymbolics uses a set of symbols to represent concepts, ideas, and objects, allowing for communication without the need for spoken or written language. The symbols are often combined to create more complex meanings, and the language is structured in a way that allows for the expression of a wide range of ideas and concepts. Blissymbolics has been used in various contexts, including education, communication for individuals with disabilities, and as a tool for visual communication.
+
+
+
+
+
+phrases with meanings similar to "mitigation"
+certain_
+certain_
+Certainly! Here are_ some_ synonyms for_  “mitigation,” which_ refer to the action of reducing the severity, seriousness, or painfulness of something:
+
+reduce_
+
+pain_
+fear_
+hope_
+joy_
+
+ease_
+Alleviation
+Reduction
+Diminution
+Lessening
+Easing
+harm_
+
+These words convey the idea of making something less_ intensity_ or more_ bearable. For example, when identifying and mitigating pollution, we aim to reduce its harmful effects12. If you need further assistance or have any other requests, feel free to ask!
+
+
+
+
+
+
+
 
 # Blissary Bliss Dictionary ... the 3 symbols for "of"
 
