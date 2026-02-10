@@ -147,6 +147,7 @@ Vytvořte si potvrzení o vedení účtu, zůstatku na účtu, majiteli nebo dis
 
 # 260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
 
+photos.google.com 
 paměťová pomůcka na dveřích doma
 
 memory aid on a room door at home ... for seniors with mild cognitive impairment
@@ -158,6 +159,77 @@ https://lovers-communication-system.com/
 
 # AAC and dementia
 
+# copy from the terminal output using only keyboard //  tags: 260210 
+**VS Code integrated terminal**
+how to select some lines
+
+vscode
+terminal accessibility by keyboard only
+f1
+ctrl alt i
+
+	- `Ctrl+Shift+C` to copy selection.
+	- `Ctrl+Shift+V` to paste.
+
+In the input box, inspect the last response in the accessible view (Alt+F2).
+
+
+# log based info system, thought stream
+autohotkey 
+	logFile2 :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+ins
+*
+explorer "C:\Users\marti\OneDrive\OnClipboardChange-251012"
+
+
+# ahk 1 to 2 // tags: 260210
+
+dear Gemini
+please help me
+go from autohotkey 
+v1 to v2
+
+i have a file in v1
+C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+; ;Blank Template written by GroggyOtter
+
+i have installed autohotkey v2
+i am slowly making
+; C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
+
+
+what are equivalents in v2 of the following v1 code
+lines
+```
+;============================== Start Auto-Execution Section ==============================
+
+#NoEnv
+
+#Warn
+
+SetKeyDelay , 53, 37
+
+;251213
+
+
+;   AAAAA    EDIT   :warning: [!!!] i have changed here   the SendMode to default, BECAUSE OF https://www.autohotkey.com/board/topic/55491-windows-key-still-pressed-after-script-execution/
+;;;;;;;;
+SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
+;============================== Main Script ==============================
+
+
+
+```
+
+
+before that...i think i have read somewhere that the v2 syntax allows omitting the parentheses in some cases, is that correct? if so, which cases?
+
+
+
+
+# install gemini cli on windows 11
+node
 
 
 # 260204 userstyles to tweak the https://gemini.google.com/app

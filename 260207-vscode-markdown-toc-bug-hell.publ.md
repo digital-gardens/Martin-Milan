@@ -12,6 +12,10 @@
 
 
 
+# q=yzhang-gh+vscode-markdown+performance&
+https://www.google.com/search?q=yzhang-gh+vscode-markdown+performance&newwindow=1&sca_esv=f58ddf8c0126f90b&sxsrf=ANbL-n77dp5_5E3otITG1rCPEwWfAmaRcw:1770484797196&ei=PXSHaaHYC5yE9u8PtdreqAc&start=50&sa=N&sstk=Af77f_e2cPEqHZdAyRPkrWsCKKWIZGl0qr3zjtNXb6vHyqe1GBkGrEmVb6zScQTE31pUY3oGaxwVyVS3oolisISR0xf1EJO-H7xvMrGehvmZF1l8hzNlCMqN_Y-CiekZH3iegLuItkosbs2HrTWYhVRqCEKSkpbrX2cPWrau3taClE4fpYUcXus4rIEB4iB96rHDsU-gmlfUNyTZjeNQu9T4Epp0JwI_&ved=2ahUKEwjh6qrr8ceSAxUcgv0HHTWtF3U4KBDw0wN6BAgJEBc&biw=1389&bih=635&dpr=1.38
+
+
 # https://gist.github.com/search?q="markdownExtended.disabledPlugins"%3A+"kbd%2C"%2C+
 https://gist.github.com/search?q=%22markdownExtended.disabledPlugins%22%3A+%22kbd%2C%22%2C+
 

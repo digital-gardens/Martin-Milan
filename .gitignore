@@ -21,6 +21,7 @@
 !*.publ.*
 !README.*
 !.gitignore
+!AutoHotkey.ahk
 
 
 #OLD*/
