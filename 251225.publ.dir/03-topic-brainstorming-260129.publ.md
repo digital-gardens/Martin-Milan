@@ -182,6 +182,17 @@ ins
 explorer "C:\Users\marti\OneDrive\OnClipboardChange-251012"
 
 
+
+# ahk 1 to 2 // tags: 260210
+
+# 
+vse prelil do clipb log 
+uz bliss v doku
+byly tam 2 .git
+notepad knows  .md files 
+giti 0
+
+
 # ahk 1 to 2 // tags: 260210
 
 dear Gemini
