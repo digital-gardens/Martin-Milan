@@ -128,6 +128,8 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
     return
 }
 
+; ok „Penízky ukryl jsem do hlíny pod dubem,
+
 
 ;============================== Main Script ==============================
 
