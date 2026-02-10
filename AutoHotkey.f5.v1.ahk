@@ -225,6 +225,7 @@ ClipChanged(Type) {
 	; i looked at highlighting {} in C lang mode ... seems ok
 	; back to ini mode ...
 
+; gemini explains that in v1, variables are ....
 
 	logFile2 :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
 

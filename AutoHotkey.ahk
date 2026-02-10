@@ -101,8 +101,37 @@ return
 ; 260210 disable in v1 OnClipboardChange ClipChanged
 
 
+ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but 'Type' works too.
+
+    ;Warning: v2 functions are "assume-local" by default.
+    ;This means variables created inside here (like logFile2) are safe and won't conflict with globals.
+
+    logFile2 := "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+
+    ; Pen?zky ukryl jsem do hl?ny pod dubem -> v2 handles Unicode much better!
+    ; We will force UTF-8 encoding below to ensure Czech characters save correctly.
+
+    ; Check if DataType is 1 (Text).
+    ; 0 = Empty, 1 = Text, 2 = Non-Text (like files/images)
+    if (DataType = 1) {
+
+        ; CHANGE 1: "Clipboard" is now "A_Clipboard" in v2
+        contents2 := SubStr(A_Clipboard, 1, 200)
+
+        ; CHANGE 2: FileAppend syntax
+        ; We add "UTF-8" at the end to fix the strange character issues you had in v1.
+        FileAppend contents2 "`n", logFile2, "UTF-8"
+    }
+
+    ; Note: 'Return' is not strictly needed at the end of a void function in v2,
+    ; but it is fine to leave it.
+    return
+}
 
 
-MsgBox "Hello! You are running AHK v2."
+;============================== Main Script ==============================
+
+
+;MsgBox "Hello! You are running AHK v2."
 
 ; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
