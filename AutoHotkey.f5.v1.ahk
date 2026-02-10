@@ -14,7 +14,7 @@
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
 
 ; # git push
-; # C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
+; ## C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
 
 ; code C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
 
@@ -40,6 +40,7 @@
 
 ; https://www.autohotkey.com/docs/v1/Hotkeys.htm
 	;https://github.com/martin12333/PUBLIC-group-of-gists/blob/main/www.autohotkey.com/docs/v1/Hotkeys.htm.md
+
 ;  $ ...  This is usually only necessary if the script uses the Send command to send the keys that comprise the hotkey itself, which might otherwise cause it to trigger itself. The $ prefix forces the keyboard hook to be used to implement this hotkey, which as a side-effect prevents the Send command from triggering it. The $ prefix is equivalent to having specified [#UseHook](lib/_UseHook.htm) somewhere above the definition of this hotkey.
 
 ; As with other commands, the comma in front of the first parameter is optional.
@@ -52,11 +53,9 @@
 ;==================
 
 ; ahk 1.1
-; file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
 ; see also ;Blank Template written by GroggyOtter
 
 ;============================== Start Auto-Execution Section ==============================
-
 
 #NoEnv
 
@@ -75,15 +74,15 @@
 
 
 ;251213
-
-SetKeyDelay , 111, 122
 SetKeyDelay , 53, 37
+
+;SetKeyDelay , 111, 122
 ;https://www.autohotkey.com/docs/v1/lib/SetKeyDelay.htm
 
 
-;   AAAAA    EDIT   :warning: [!!!] i have changed here   SendMode to default BECAUSE OF https://www.autohotkey.com/board/topic/55491-windows-key-still-pressed-after-script-execution/
-
+;   AAAAA    EDIT   :warning: [!!!] i have changed here   the SendMode to default, BECAUSE OF https://www.autohotkey.com/board/topic/55491-windows-key-still-pressed-after-script-execution/
 ;;;;;;;;;;;;;;;;;;;;SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
+
 
 ; https://www.autohotkey.com/docs/v1/lib/SendMode.htm
 	; EDIT: NOT NOW
@@ -95,6 +94,8 @@ SetKeyDelay , 53, 37
 
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Makes a script unconditionally use its own folder as its working directory.
+
+
 
 
 ;;; sets title matching to search for "containing" instead of "exact"
@@ -230,7 +231,7 @@ ClipChanged(Type) {
 		; is (new) text in the clipboard?
 
 		;contents2 := Clipboard
-		contents2 := SubStr( Clipboard, 1, 1255)  ;   100
+		contents2 := SubStr( Clipboard, 1, 200)  ;   100  1255
 
 		FileAppend, % contents2 "`n"  , %logFile2%
 

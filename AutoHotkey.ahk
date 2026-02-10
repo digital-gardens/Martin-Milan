@@ -1,8 +1,40 @@
+; use semicolon for comments in ahk
+; this is not a .f8 file, but a .f5 file
+
+;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
+;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
+
+;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
+; notes about debugging !!!
 
 
-; C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
+
+; f8 works ;
+
+; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
+
+; # git push
+; ## C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
+
+; code C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+
+
+; file:///C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
+
+
+
+
+
+; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+
+; file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
+
 ; .gitignore
 ; dont ignore this file, it is the main entry point for the AutoHotkey script, and it is where we set up the environment and run the main script.
+
+
+
+;some lines are by gemini
 
 
 ;============================== Start Auto-Execution Section ==============================
@@ -24,3 +56,4 @@ SendMode "Event"
 SetWorkingDir A_ScriptDir
 
 ;============================== Main Script ==============================
+
