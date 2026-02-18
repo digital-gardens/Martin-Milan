@@ -193,6 +193,68 @@ notepad knows  .md files
 giti 0
 
 
+# 260216 LB scam 
+
+ocekava se zdrazeni  ai 
+
+dont.. i want this, MM, google account to leave the family..
+dont.. how to move from one google family to another
+
+# 260212 css
+what are the ways to force a Chrome or Edge browser to completely ignore CSS ... e.g. for accessibility reasons 
+
+1.
+2.
+3.
+...
+
+gemini 
+https://chatgpt.com/c/698e1b1c-be88-838b-9ac8-502e662e2ce4
+
+1. userstyle with all CSS rules set to default or empty
+2. browser extension that disables CSS
+3. browser settings that disable CSS (if available)
+4. custom stylesheet that overrides all CSS with default styles ... iexplore ... iexplore mode in edge? 
+
+* {
+  all: unset !important;
+  display: revert !important;
+}
+
+
+* {
+  all: unset !important;
+}
+
+
+* {
+  display: revert !important;
+}
+
+
+
+i am learning userstyles and userscripts
+i am experimenting with https://gemini.google.com/app/6daea1264bab84f0
+
+i am trying
+whether i could be able to make 
+the conversation history
+    conversations-list 
+ much wider and taller
+
+so far, the only 
+attempt that was rougly usable was 
+disable all styles 
+
+but after the disable, the  scroll doesnt update, as i expected
+
+i can paste you a screenshot and
+the contents of
+f12 /body /edit as html
+
+
+
+
 # ahk 1 to 2 // tags: 260210
 
 dear Gemini
