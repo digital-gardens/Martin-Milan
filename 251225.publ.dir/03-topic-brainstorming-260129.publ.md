@@ -237,7 +237,28 @@ https://takeout.google.com/?pli=1
 
 https://gemini.google.com/app/64f66c40988f32d8
 
+https://gemini.google.com/search
 
+Gemini  377 results for “.”
+
+[[Gemini 377 results for.md]]
+
+2023
+2025
+
+ℹ️ℹ️ℹ️🅰️ Fantomová .... Predict: Živé sledování kurýra
+01 02 🗃️ ℹ️ Popis dočasného stavu pacienta 3 hodiny po mirtazapinu
+
+# uniq only duplicates
+uniq --repeated 3 >4
+
+bash
+cd ../google-takeout/3
+ls
+head MyActivity.json
+grep --count safeHtmlItem MyActivity.json
+745
+neni info o thrd
 
 
 # 260212 css
