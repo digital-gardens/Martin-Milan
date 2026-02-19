@@ -13,6 +13,8 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 - old [[251105-symptom-tracker.f8]]
 - 7 lines header
 
+*.publ.*,*.ps1,*.cmd,*.sh,*.py,*.js,*.ahk,*.au3,*.f[0-9].*,*.f1[0-9].*
+
 Prevence vyhoření. Jak na mikro-přestávky, které skutečně regenerují mozek - Zdravotnický kompas │Navigace ve světě zdraví a medicíny
 
 > # https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
@@ -199,6 +201,44 @@ ocekava se zdrazeni  ai
 
 dont.. i want this, MM, google account to leave the family..
 dont.. how to move from one google family to another
+
+
+
+# 260219 echoes 
+limit is due to Gemini's API restrictions. Google's Gemini API becomes unreliable after 500-600 conversations and stops returning data properly. This is not a limitation imposed by our extension."><p>To manage this, we recommend regularly exporting your conversations to ensure you have a backup of your data. You can export your conversations by clicking on the "Export Conversations" button in the extension's settings. This will allow you to save your conversation history before reaching the API limit.</p>
+
+**• **Advanced Search**:Fuzzy matching, logical operators, and typo correction.• **Monthly Search Limit**: 20 searches per month.• **Date Filters**: 10 custom date filter uses per month.• **Sort Operations**: 10 sort operations per month.**  
+
+
+Organization:  
+**• **Labels**: Up to 5 labels for categorization.• **Favorites**: Up to 10 favorite conversations.  
+  
+**Actions:  
+**• **Exports**: 5 exports per month (up to 5 conversations each).  
+• **AI Summaries**: 10 AI summaries per month.  
+• **Title Edits**: 5 title edits per month.  
+• **Edit/Delete**: Full control to modify or remove your chats.**  
+  
+  **• **Timestamps**: Easily view when interactions occurred.• **Multi-Account**: Connect unlimited accounts across ChatGPT, Claude, Gemini, DeepSeek, Grok, Perplexity, and AI Studio.
+
+  https://echoes.r2bits.com/ ... the echoes extension ...
+  > 500 conversation limit ...    limit is due to Gemini's API restrictions. Google's Gemini API becomes unreliable after 500-600 conversations and stops returning data properly. This is not a limitation imposed by our extension.
+
+Showing 1-25 of 102 conversations.
+
+takeout
+
+https://takeout.google.com/?pli=1
+*****My Activity
+
+"C:\Users\marti\OneDrive\google-takeout\3\MyActivity.json"
+"C:\Users\marti\OneDrive\google-takeout\3\MyActivity.html"
+
+
+https://gemini.google.com/app/64f66c40988f32d8
+
+
+
 
 # 260212 css
 what are the ways to force a Chrome or Edge browser to completely ignore CSS ... e.g. for accessibility reasons 
@@ -643,7 +683,7 @@ https://takeout.google.com/?pli=1
 gemini..gems
 
 
-My Activity
+*****My Activity
 
 AI Mode
 Assistant
