@@ -116,6 +116,13 @@ https://www.facebook.com/profile.php?id=100004424177472
 ℹ️ https://github.com/digital-gardens/Martin-Milan
 
 
+### 01-NAPOVEDA ... pro orientaci v mém digitálním A PAPIROVEM systému
+### 0404-MAIN-INDEX ... of my web links 
+### 0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy 
+
+
+
+
 ℹ️ todo url to a search in Google chat, google keep, google photos
 
 

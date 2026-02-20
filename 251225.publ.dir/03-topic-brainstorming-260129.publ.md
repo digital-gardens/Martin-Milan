@@ -75,6 +75,7 @@ voda z okapu by mohla dělat problémy
 
 # https://github.com/digital-gardens/Martin-Milan/blob/main/README.md
 
+# 01-NAPOVEDA ... pro orientaci v mém digitálním A PAPIROVEM systému
 # 0404-MAIN-INDEX ... of my web links 
 # 0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy 
 
@@ -145,6 +146,9 @@ Vytvořte si potvrzení o vedení účtu, zůstatku na účtu, majiteli nebo dis
 
 # userscript or chrome extension to add a simple bookmarking or title search to the Google Gemini web app
 
+# userscript or chrome extension to automatically set the document.title of the Google Gemini web app
+
+https://voyager.nagi.fun/en/guide/cloud-sync.html
 
 
 # 260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
