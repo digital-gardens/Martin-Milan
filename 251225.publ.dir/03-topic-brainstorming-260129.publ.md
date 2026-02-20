@@ -243,6 +243,10 @@ Gemini  377 results for “.”
 
 [[Gemini 377 results for.md]]
 
+[[Gemini 19 times press the end key.md]]
+
+chybi prave ty pinned v recent [[Gemini zoom 25 percent.md]]
+
 2023
 2025
 
