@@ -185,6 +185,12 @@ https://lovers-communication-system.com/
 
 # ale filosofie antifragile je dulezitejsi 
 
+[[keep-zaloha.maybe.r8.md]]
+## edit moved edit moved https://github.com/digital-gardens/Martin-Milan 
+260221 
+copied to g docs
+
+
 
 f12 console command to get the previous url ... from what webpage did i came to this page
 copy(document.referrer)
@@ -197,7 +203,7 @@ nikoli na  digital-gardens,
 https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
 
 
-keep 3
+keep 3 + dole remove all links 
 
 done
 edit. odteď lístek v Google keep bude jen pro výjimečné přídavky Edit z mobilu... oficiální verze dokumentu bude https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md 
