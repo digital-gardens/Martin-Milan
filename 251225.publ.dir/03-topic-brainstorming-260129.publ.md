@@ -10,7 +10,10 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  â
 ---
 ```
 
-# viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
+extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
+# https://www.google.com/interests/saved/list/fNvsFNjr6yDGlNWZGAow2Q
+https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
+ viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
 
 # ale filosofie antifragile je dulezitejsi 
 

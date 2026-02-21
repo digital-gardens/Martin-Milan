@@ -5,6 +5,8 @@
 # možná udelat nejake google saved collections of links
 # 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
+## ale filosofie antifragility je dulezitejsi 
+
 
 viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
 
