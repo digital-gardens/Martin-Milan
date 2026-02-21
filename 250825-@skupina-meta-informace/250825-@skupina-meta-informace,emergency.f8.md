@@ -2,18 +2,11 @@
 
 
 
-# možná udelat nejake google saved collections of links
+# pomalu vytvarim  google-Saved collections of links
 # 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
-## ale filosofie antifragility je dulezitejsi 
+ collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
 
-
-viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
-
-edit the collection of links //Martin zatim
-https://www.google.com/interests/saved/list/-Gw_GSCuLz4YmUmSIPVztg
-
-maybe todo invite collaborative editing of the collection of links 
 
 
 
@@ -139,12 +132,28 @@ https://www.facebook.com/profile.php?id=100004424177472
 
 ℹ️ https://github.com/digital-gardens/Martin-Milan
 
+## ale filosofie antifragility je dulezitejsi 
 
-### 01-NAPOVEDA ... pro orientaci v mém digitálním A PAPIROVEM systému
+README.md
 
-### 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
+# for my family
+
+# 01-NAPOVEDA ?
+
+# 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
+
+- 2026-02  https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
+
+- 2025-08  https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
 
 
+
+
+
+
+
+
+maybe todo invite collaborative editing of the collection of links  , but dont share the link to the collection of links with github, only share the link via google chat, and only with the family, not with the public github, because of privacy and security and spam reasons.
 
 
 ℹ️ todo url to a search in Google chat, google keep, google photos

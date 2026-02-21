@@ -88,24 +88,35 @@ voda z okapu by mohla dělat problémy
 
 # https://github.com/digital-gardens/Martin-Milan/blob/main/README.md
 
-# 01-NAPOVEDA ... pro orientaci v mém digitálním A PAPIROVEM systému
+
+
+# for my family
+
+# 01-NAPOVEDA ?
 
 # 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
-- 250825 
+- 2026-02  https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
+
+- 2025-08  https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
+
+
+
+
+
+
+
+
 
 - https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/
 
 - https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/README.md
 - https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
 
-251225.publ.dir/03-topic-brainstorming-260129.publ.md
 
 OLD
 MAIN DIRECTORY INDEX 
 [[../README]]
-### 0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy 
-### 0404-MAIN-INDEX ... of my web links 
 
 
 # extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
