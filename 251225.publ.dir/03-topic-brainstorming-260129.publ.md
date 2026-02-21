@@ -9,6 +9,11 @@ gemini...
 tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
 ---
 ```
+
+viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
+
+
+
 - markdown table of contents is at the end of the file
 - old [[251105-symptom-tracker.f8]]
 - 7 lines header

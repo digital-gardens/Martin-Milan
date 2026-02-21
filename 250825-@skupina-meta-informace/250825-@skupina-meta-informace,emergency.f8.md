@@ -4,8 +4,7 @@
 # 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
 
-viewed collection of links
-https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
+viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
 
 edit the collection of links //Martin zatim
 https://www.google.com/interests/saved/list/-Gw_GSCuLz4YmUmSIPVztg
