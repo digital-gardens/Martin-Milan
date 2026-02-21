@@ -1,5 +1,7 @@
 
 
+
+
 # možná udelat nejake google saved collections of links
 # 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 

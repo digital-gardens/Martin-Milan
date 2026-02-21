@@ -10,7 +10,12 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 ---
 ```
 
-viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
+# viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
+
+# ale filosofie antifragile je dulezitejsi 
+
+
+
 
 
 
@@ -174,6 +179,41 @@ https://lovers-communication-system.com/
 
 # AAC and dementia
 
+
+
+# bug 260221 C:\Users\marti\OneDrive\Dokumenty\250825-@skupina-meta-informace\250825-@skupina-meta-informace,emergency.f8.md
+
+# ale filosofie antifragile je dulezitejsi 
+
+
+f12 console command to get the previous url ... from what webpage did i came to this page
+copy(document.referrer)
+https://keep.google.com/
+vedla Na zastaralé
+https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
+//github.com/martin12333/marti
+
+nikoli na  digital-gardens, 
+https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
+
+
+keep 3
+
+done
+edit. odteď lístek v Google keep bude jen pro výjimečné přídavky Edit z mobilu... oficiální verze dokumentu bude https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md 
+
+https://github.com/martin12333/marti-onedrive/tree/main2/1703-IJMVA/250825-250831-%40group-meta-informace-aaaaAAA-00000-CORE1000
+
+ //// ℹ️ Milan .. devel of my life tweet  #250918
+
+https://keep.google.com/#NOTE/15NT_oV2s3DmYlAMidJKTMJF1MgMj-3M7_Q9UTHyUZI1BMgCH0iRBZIdqk-NX
+
+ https://github.com/martin12333/marti-onedrive/blob/main2/Dokumenty/250918-929-antidepressant-shocks--akathisia.f8.md
+
+
+
+
+
 # copy from the terminal output using only keyboard //  tags: 260210 
 **VS Code integrated terminal**
 how to select some lines
@@ -204,7 +244,7 @@ explorer "C:\Users\marti\OneDrive\OnClipboardChange-251012"
 vse prelil do clipb log 
 uz bliss v doku
 byly tam 2 .git
-notepad knows  .md files 
+# notepad knows  .md files 
 giti 0
 
 
