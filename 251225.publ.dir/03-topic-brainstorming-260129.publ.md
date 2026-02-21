@@ -76,8 +76,8 @@ voda z okapu by mohla dělat problémy
 # https://github.com/digital-gardens/Martin-Milan/blob/main/README.md
 
 # 01-NAPOVEDA ... pro orientaci v mém digitálním A PAPIROVEM systému
-# 0404-MAIN-INDEX ... of my web links 
-# 0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy 
+
+# 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
 - 250825 
 
@@ -88,8 +88,12 @@ voda z okapu by mohla dělat problémy
 
 251225.publ.dir/03-topic-brainstorming-260129.publ.md
 
+OLD
 MAIN DIRECTORY INDEX 
 [[../README]]
+### 0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy 
+### 0404-MAIN-INDEX ... of my web links 
+
 
 # extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
 https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md

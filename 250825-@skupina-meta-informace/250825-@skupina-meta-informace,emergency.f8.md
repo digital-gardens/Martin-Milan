@@ -117,8 +117,8 @@ https://www.facebook.com/profile.php?id=100004424177472
 
 
 ### 01-NAPOVEDA ... pro orientaci v mém digitálním A PAPIROVEM systému
-### 0404-MAIN-INDEX ... of my web links 
-### 0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy 
+
+### 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
 
 
