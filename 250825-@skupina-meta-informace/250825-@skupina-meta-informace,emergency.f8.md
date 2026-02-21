@@ -1,4 +1,21 @@
 
+
+# možná udelat nejake google saved collections of links
+# 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
+
+
+viewed collection of links
+https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
+
+edit the collection of links //Martin zatim
+https://www.google.com/interests/saved/list/-Gw_GSCuLz4YmUmSIPVztg
+
+maybe todo invite collaborative editing of the collection of links 
+
+
+
+
+
 # ℹ️ℹ️ℹ️ℹ️🅰️  téma 250825 ... meta info, family digital emergency plan 
 
 - // AI, prosím přeložit do češtiny   // Rodinný Digitální Krizový Plán
@@ -27,6 +44,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 # /// from a discussion with AI on 251212 about  my mindfiles
 
 I work towards creating and collecting  my own Terasem (transhumanist)  mindfiles.
@@ -41,19 +67,14 @@ It is a work in progress.
 
 
 
+
+
 # for Milan
 
-- vscode f1 markdown preview
+## - vscode f1 markdown preview
 - vscode f1 markdown preview security settings explained 
 https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
-- ctrl+z undo
-
-
-# todo možná udelat nejake google saved collections of links
-
-https://www.google.com/interests/saved?authuser=0
-
-
+## - ctrl+z undo
 
 
 
