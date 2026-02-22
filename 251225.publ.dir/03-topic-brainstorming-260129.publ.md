@@ -205,22 +205,9 @@ https://lovers-communication-system.com/
 https://www.google.com/search?newwindow=1&sca_esv=9fcb0994feb150f1&sxsrf=ANbL-n7NapnMuE9v6MovkWCVn0NQ2JReQQ:1771707124396&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vWUtYx0DZdicpfE1faGYenqWn-q4MFiFFtvJjTKeAVxBf9XF8ByrMpEedseJb6C23ClWZiq90s5pDauQyCKzJD9aYfZPUZ9LKcuk11B1LdnA051_w0l1VLh8IpI_E3_0CYiXr9b2bP5-frNtsF-I6m1laON&q=AAC+and+dementia&sa=X&ved=2ahUKEwiTta6uu-uSAxWbnf0HHZBaG3IQtKgLegQIFhAB&biw=1389&bih=635&dpr=1.38
 
 
-# 260222.23
+# 260222.23 ahk /*- cut copy paste */
+# see also  ahk 1 to 2 // tags: 260210
 
- 	
-61  04F	 	d	39.28	Numpad1        	C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk - AutoHotkey v1.1.37.02
-61  04F	 	u	0.17	Numpad1        	
-B5  16D	a	d	2.28	Launch_Media   	
-B5  16D	a	u	0.17	Launch_Media   	
-A4  038	 	d	2.56	LAlt           	Media Player
-A4  038	 	u	0.02	LAlt           	
-73  03E	 	d	0.08	F4             	
-
-       	
-
-
-	
-74  03F	 	d	2.00	F5             	
 74  03F	 	u	0.11	F5             	
 B7  121	a	d	5.20	Launch_App2    	
 B7  121	a	u	0.17	Launch_App2    	
@@ -228,32 +215,7 @@ B7  121	a	d	0.80	Launch_App2    	Calculator
 B7  121	a	u	0.09	Launch_App2    	
 A4  038	 	d	4.30	LAlt           	Calculator
 73  03E	 	d	0.19	F4             	
-73  03E	 	u	0.16	F4             	Calculator
-A4  038	 	d	0.50	LAlt           	
-73  03E	 	d	0.00	F4             	
-73  03E	 	u	0.13	F4             	C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk - AutoHotkey v1.1.37.02
-A4  038	 	u	0.17	LAlt           	
-74  03F	 	d	0.70	F5             	
-74  03F	 	u	0.13	F5             	
-B6  16B	a	d	22.69	Launch_App1    	
-B6  16B	a	u	0.05	Launch_App1    	
-B6  16B	a	d	0.39	Launch_App1    	This PC - File Explorer
-B6  16B	a	u	0.16	Launch_App1    	
-A4  038	 	d	4.75	LAlt           	
-73  03E	 	d	0.23	F4             	
-73  03E	 	u	0.09	F4             	C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk - AutoHotkey v1.1.37.02
-A4  038	 	u	0.31	LAlt           	
-74  03F	 	d	0.70	F5             	
-74  03F	 	u	0.14	F5             	
-AB  166	a	d	24.20	Browser_Favorites	
-AB  166	a	u	0.17	Browser_Favorites	
-B4  16C	a	d	0.63	Launch_Mail    	
-B4  16C	a	u	0.14	Launch_Mail    	
-AC  132	a	d	0.70	Browser_Home   	
-AC  132	a	u	0.19	Browser_Home   	
-A4  038	 	d	2.59	LAlt           	2602 ⏰ mm - Personal - Microsoft​ Edge
-73  03E	 	d	0.11	F4             	
-73  03E	 	u	0.13	F4             	
+C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk - AutoHotkey v1.1.37.02
 
 
 
