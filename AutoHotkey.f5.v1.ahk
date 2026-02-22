@@ -392,9 +392,15 @@ $NumpadDot::Send {;}
 
 ;2024-06 =~~= 246    CUT COPY PASTE ^x  ^c  ^v
 
-$NumpadDiv::Send ^x
-$NumpadMult::Send ^c
-$NumpadSub::Send ^v
+
+Launch_Mail::Send ^x
+;$NumpadDiv::Send ^x
+
+Launch_App2::Send ^c
+;$NumpadMult::Send ^c
+
+Launch_App1::Send ^v
+;$NumpadSub::Send ^v
 
 
 ;;;old 2023-08 =~~= 238   ARROWS
@@ -553,7 +559,13 @@ $NumpadSub::Send ^v
 ;;
 ;;#$p::
 
-$Insert::
+
+
+
+
+;$Insert::
+
+$Browser_Home::
 {
 	Send, {Click 3}
 	Sleep, 400

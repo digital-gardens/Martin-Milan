@@ -10,8 +10,16 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 ---
 ```
 
-extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
 # https://www.google.com/interests/saved/list/fNvsFNjr6yDGlNWZGAow2Q
+extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
+
+# 0112 obnovit trávení, takeout c: ...
+# bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another #
+Workarounds ...
+https://takeout.google.com/?pli=1 ... export the data before moving the link
+"C:\Users\marti\OneDrive\Dokumenty\01-napoveda\Takeout\Saved"
+
+
 https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
  viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
 
@@ -92,7 +100,7 @@ voda z okapu by mohla dělat problémy
 
 # for my family
 
-# 01-NAPOVEDA ?
+# 01-NAPOVEDA ? POMOC HELP 
 
 # 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
@@ -134,6 +142,7 @@ onedrive
 3.37 GB on disk 
 41,000 files 4000 folders
 
+260221 3.43 GB on disk
 
 # 260209 do 28 navstivit csob a pozmenit trvalých příkazů , a popr jednorazovy prikaz 
 # 260209 sledovat klesání zůstatku na účtu  csas  
@@ -193,9 +202,127 @@ https://lovers-communication-system.com/
 
 # AAC and dementia
 
+https://www.google.com/search?newwindow=1&sca_esv=9fcb0994feb150f1&sxsrf=ANbL-n7NapnMuE9v6MovkWCVn0NQ2JReQQ:1771707124396&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpaEWjvZ2Py1XXV8d8KvlI3vWUtYx0DZdicpfE1faGYenqWn-q4MFiFFtvJjTKeAVxBf9XF8ByrMpEedseJb6C23ClWZiq90s5pDauQyCKzJD9aYfZPUZ9LKcuk11B1LdnA051_w0l1VLh8IpI_E3_0CYiXr9b2bP5-frNtsF-I6m1laON&q=AAC+and+dementia&sa=X&ved=2ahUKEwiTta6uu-uSAxWbnf0HHZBaG3IQtKgLegQIFhAB&biw=1389&bih=635&dpr=1.38
 
 
-# bug 260221 C:\Users\marti\OneDrive\Dokumenty\250825-@skupina-meta-informace\250825-@skupina-meta-informace,emergency.f8.md
+# 260222.23
+
+ 	
+61  04F	 	d	39.28	Numpad1        	C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk - AutoHotkey v1.1.37.02
+61  04F	 	u	0.17	Numpad1        	
+B5  16D	a	d	2.28	Launch_Media   	
+B5  16D	a	u	0.17	Launch_Media   	
+A4  038	 	d	2.56	LAlt           	Media Player
+A4  038	 	u	0.02	LAlt           	
+73  03E	 	d	0.08	F4             	
+
+       	
+
+
+	
+74  03F	 	d	2.00	F5             	
+74  03F	 	u	0.11	F5             	
+B7  121	a	d	5.20	Launch_App2    	
+B7  121	a	u	0.17	Launch_App2    	
+B7  121	a	d	0.80	Launch_App2    	Calculator
+B7  121	a	u	0.09	Launch_App2    	
+A4  038	 	d	4.30	LAlt           	Calculator
+73  03E	 	d	0.19	F4             	
+73  03E	 	u	0.16	F4             	Calculator
+A4  038	 	d	0.50	LAlt           	
+73  03E	 	d	0.00	F4             	
+73  03E	 	u	0.13	F4             	C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk - AutoHotkey v1.1.37.02
+A4  038	 	u	0.17	LAlt           	
+74  03F	 	d	0.70	F5             	
+74  03F	 	u	0.13	F5             	
+B6  16B	a	d	22.69	Launch_App1    	
+B6  16B	a	u	0.05	Launch_App1    	
+B6  16B	a	d	0.39	Launch_App1    	This PC - File Explorer
+B6  16B	a	u	0.16	Launch_App1    	
+A4  038	 	d	4.75	LAlt           	
+73  03E	 	d	0.23	F4             	
+73  03E	 	u	0.09	F4             	C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk - AutoHotkey v1.1.37.02
+A4  038	 	u	0.31	LAlt           	
+74  03F	 	d	0.70	F5             	
+74  03F	 	u	0.14	F5             	
+AB  166	a	d	24.20	Browser_Favorites	
+AB  166	a	u	0.17	Browser_Favorites	
+B4  16C	a	d	0.63	Launch_Mail    	
+B4  16C	a	u	0.14	Launch_Mail    	
+AC  132	a	d	0.70	Browser_Home   	
+AC  132	a	u	0.19	Browser_Home   	
+A4  038	 	d	2.59	LAlt           	2602 ⏰ mm - Personal - Microsoft​ Edge
+73  03E	 	d	0.11	F4             	
+73  03E	 	u	0.13	F4             	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 260222.20
+
+It is a trajectory in activation space.
+
+formalize “concept” as a subspace
+
+
+
+would it be possible 
+... an amateur philosophy 
+about neuron vectors (and covectors?) in LLMs
+
+
+about  character sets and character encoding
+
+at least the history of character sets and encoding
+
+and maybe some philosophical thoughts why the historicaly developed character sets and encoding are the way they are, and why they are not different, and what would be the consequences if they were different, and how the character sets and encoding affect our thinking, communication, culture, society, technology, etc.
+
+could you illustrate, what is epistemology, in this context of character sets and encoding
+
+you wrote 
+```
+Just like philosophy of science:
+
+Same data
+
+Different theoretical lens
+
+Different conclusions
+```
+...
+examples from science ?
+newton vs einstein
+
+
+
+# ale filosofie antifragile je dulezitejsi 
+
+
+
+
+# bug 260221 in my g keep content
+C:\Users\marti\OneDrive\Dokumenty\250825-@skupina-meta-informace\250825-@skupina-meta-informace,emergency.f8.md
 
 # ale filosofie antifragile je dulezitejsi 
 
