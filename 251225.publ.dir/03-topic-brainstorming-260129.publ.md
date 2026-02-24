@@ -17,8 +17,8 @@ extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
 # bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another #
 Workarounds ...
 https://takeout.google.com/?pli=1 ... export the data before moving the link
-"C:\Users\marti\OneDrive\Dokumenty\01-napoveda\Takeout\Saved"
-
+"C:\Users\marti\OneDrive\Dokumenty\011-POMOC\Takeout"
+"C:\Users\marti\OneDrive\Dokumenty\011-POMOC\Takeout\Saved"
 
 https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
  viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
@@ -100,7 +100,7 @@ voda z okapu by mohla dělat problémy
 
 # for my family
 
-# 01-NAPOVEDA ? POMOC HELP 
+# 011-POMOC NAPOVEDA HELP
 
 # 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
@@ -186,7 +186,8 @@ Vytvořte si potvrzení o vedení účtu, zůstatku na účtu, majiteli nebo dis
 # userscript or chrome extension to automatically set the document.title of the Google Gemini web app
 
 https://voyager.nagi.fun/en/guide/cloud-sync.html
-
+edge://extensions/?id=gibmkggjijalcjinbdhcpklodjkhhlne
+bug select all in the google gemini web app and copy with ctrl c doesnt work for the titles of conversations, but it works for the content of the conversations.
 
 # 260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
 
@@ -220,12 +221,15 @@ C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk - AutoHotkey v1.1.37.02
 
 
 
+# 260223 google tasks search for tags 04 plan rok 
+ google tasks search for tags 04 plan rok   260223
+https://mail.google.com/tasks/canvas?pli=1&gsessionid=OKAY
 
 
+- https://tasks.google.com/tasks/
 
 
-
-
+- <tbody><tr class="ccfi4d"><td class="K4S0pb">Create</td><td class="wp3MHd"><div>C</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Mark complete/incomplete</td><td class="wp3MHd"><div>Space</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Edit</td><td class="wp3MHd"><div>Return,<wbr> Enter</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Delete</td><td class="wp3MHd"><div>Backspace,<wbr> Delete</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Move task up/down</td><td class="wp3MHd"><div>Ctrl+<wbr>Up/<wbr>Down</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Move task to top/bottom</td><td class="wp3MHd"><div>Ctrl+<wbr>Shift+<wbr>Up/<wbr>Down</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Indent</td><td class="wp3MHd"><div>Ctrl+<wbr>]</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Unindent</td><td class="wp3MHd"><div>Ctrl+<wbr>[</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Add to Starred</td><td class="wp3MHd"><div>S, +, =</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Remove from Starred</td><td class="wp3MHd"><div>S, -</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Report spam</td><td class="wp3MHd"><div>!</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Focus task list</td><td class="wp3MHd"><div>Left</div></td></tr><tr class="ccfi4d"><td class="K4S0pb">Open menu</td><td class="wp3MHd"><div>Period, V</div></td></tr></tbody>
 
 
 

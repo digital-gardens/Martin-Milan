@@ -8,7 +8,9 @@ AA
 file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
 TODO ℹ️
 
-"C:\Users\marti\OneDrive\Dokumenty\01 napoveda.f5.cmd"
+C:\Users\marti\OneDrive\Dokumenty\011 POMOC NAPOVEDA HELP.f5.cmd
+"C:\Users\marti\OneDrive\Dokumenty\011-POMOC"
+
 asi neni zatim 
 04-KDE-MAS-HLAVNI-NAPOVEDU.f8.md
 
