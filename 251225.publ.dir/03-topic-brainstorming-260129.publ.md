@@ -221,8 +221,8 @@ C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk - AutoHotkey v1.1.37.02
 
 
 
-# 260223 google tasks search for tags 04 plan rok 
- google tasks search for tags 04 plan rok   260223
+# old 260223 google tasks search for tags 04plan rok 
+ google tasks search for tags 04plan rok   260223
 https://mail.google.com/tasks/canvas?pli=1&gsessionid=OKAY
 
 
@@ -234,6 +234,73 @@ https://mail.google.com/tasks/canvas?pli=1&gsessionid=OKAY
 
 
 
+# 260223  tags 04plan rok
+mkdir C:\Users\marti\OneDrive\Dokumenty\04plan
+
+Uses numerical codes like '250922' to represent both the date (22 September 2025) and the identifier of a topic.
+
+
+
+
+see also # 260131 a4 alphabetical  list all web apps, sites , that i would like to test 
+# 260223 a4 alphabetical  list all paths and  web  sites , where i could search for something like 01 011 0112  04plan, 0404 , 011-POMOC
+
+//Chrome 
+
+
+github 
+
+
+gemini chat 
+canvas
+extension 
+notebookLM chat 
+note
+
+
+
+google
+google tasks not shared , hard to search 
+
+
+google drive ... 
+google docs ...
+google keep ...
+google photos ...
+google chat
+
+
+
+microsoft
+m$
+ms office autosave 
+ms teams
+onenote
+onedrive
+
+tc
+vscode f1  
+
+
+
+
+# 0112
+
+0112 obnovit trávení, takeout c: ...
+
+01 zpěvník já písnička music singing
+
+
+
+
+I need reminders after each message to take small breaks, hum something, or review my topic 0112.
+
+I am on full disability pension.
+
+
+
+# 249s
+"C:\Users\marti\OneDrive\Dokumenty\1804-NEW\ingJH-2472\0004-tags-249s-2472-Praskliny-zdi.publ.md"
 
 
 
@@ -242,6 +309,71 @@ https://mail.google.com/tasks/canvas?pli=1&gsessionid=OKAY
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ale filosofie antifragile je dulezitejsi 
 
 
 
@@ -282,7 +414,6 @@ newton vs einstein
 
 
 
-# ale filosofie antifragile je dulezitejsi 
 
 
 
@@ -778,7 +909,7 @@ copy this to chats etc
 then switch off wifi
 
 
-# a4 alphabetical  list all web apps , that i would like to test 
+# 260131 a4 alphabetical  list all web apps, sites , that i would like to test 
 
 ai  used for note taking, brainstorming, writing, research, project management, coding, development, design,  etc.
 
@@ -800,7 +931,7 @@ note
 
 
 
-nblm
+# nblm
 
 2 users
 editing a note
@@ -848,11 +979,13 @@ google chat
 
 idb corruption ... highlighter data loss
 
+microsoft
+m$
 ms office autosave 
 ms teams
 onenote
 onedrive
-
+tc
 vscode
 
 
