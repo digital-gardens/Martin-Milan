@@ -1,18 +1,18 @@
 ---
-tags: pomoc help puls akupresura shiatsu  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji   gemini issues problems  ℹ️ℹ️ aaaa rrrrRR
+tags:    gemini  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR
 ---
 
 # téma 0112-belly-peristaltika-obnovit-trávení  \_💚_ 
 
-// slyšitelná peristaltika jako příznak uvolnění
 
 i uprostřed prací    
 potřebuji částečnou relaxaci,  
 aby se obnovilo trávení,  
-slyšitelná peristaltika,
 
+// slyšitelná peristaltika jako příznak uvolnění
+
+každých pár minut,
 možná každou minutu ??,  
-aspoň každou hodinu,
 
 abych se nedostal do nemocnice ...   
 kvůli podváze ...  
@@ -34,3 +34,4 @@ win+.
 belly
 ~~hamster
 
+additional tags:  puls akupresura shiatsu  

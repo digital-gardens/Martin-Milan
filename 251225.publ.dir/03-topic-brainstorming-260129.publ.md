@@ -28,6 +28,7 @@ po 7 hodinách spánku,
 
 # téma 0119-potreboval-bych-pomoc
 [[0119-potreboval-bych-pomoc.publ.md]]
+-- oni píšou souvislé texty ,
 
 
 # Prevence vyhoření. Jak na mikro-přestávky,
