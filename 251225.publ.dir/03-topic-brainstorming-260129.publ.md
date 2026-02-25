@@ -4,27 +4,24 @@ attention: aaaa
 tags: pomoc 0112 belly 0119 bych   meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa
 ---
 
-požádat AI,
-aby zkusila psát 
-raději
-max. 12 slabik
-na řádce
-
-srv. vědecký článek
-Magical seven plus minus two
-doporučuje 
-7 ± 2 slabik
-
-# 260225 scanning this file from line 1 
+# téma 011-POMOC
 
 # téma 0112-belly obnovit trávení, 
+i uprostřed prací 
+potřebuji částečnou relaxaci,
+aby se obnovilo trávení,
+slyšitelná peristaltika,
+
 možná každou minutu ??,
 aspoň každou hodinu,
+
 abych se nedostal do nemocnice ... 
 vkládat pauzy 
 
-po .. hodinách spánku
-... hodin po léku mirtazapin
+# 260225 scanning this file from line 1 
+
+po 7 hodinách spánku,
+10 hodin po léku mirtazapin,
 konečně se mi daří něco psát
 
 # téma 0119-potreboval-bych-pomoc
@@ -44,8 +41,26 @@ psát (si) poznámky ,
 psát stačí heslovitě,
 -- oni píšou souvislé texty ,
 
-ai
-, kteří by mi mohli pomoci s různými věcmi, které jsou pro mě teď těžké kvůli mému zdravotnímu stavu, a které by mi mohly pomoci zlepšit kvalitu mého života, a které by mi mohly pomoci být více samostatný a méně závislý na ostatních, a které by mi mohly pomoci být více aktivní a zapojený do života, a které by mi mohly pomoci být více spokojený a šťastný.
+# Prevence vyhoření. Jak na mikro-přestávky,
+ které skutečně regenerují mozek - Zdravotnický kompas │Navigace ve světě zdraví a medicíny
+
+
+# Magical seven plus minus two
+
+github copilot
+jak
+požádat AI,
+aby zkusila psát 
+raději
+max. 7 slov
+na řádce
+
+srv. vědecký článek
+Magical seven plus minus two
+doporučuje 
+7 ± 2 slabik
+
+
 
 
 # Gemini, create a new canvas README.md, add metadata to it...
@@ -72,18 +87,12 @@ https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-top
 
 # ale filosofie antifragile je dulezitejsi 
 
-
-
-
-
-
-- markdown table of contents is at the end of the file
+#  markdown table of contents is at the end of the file
 - old [[251105-symptom-tracker.f8]]
-- 7 lines header
+- 7 lines header - fail 
 
 *.publ.*,*.ps1,*.cmd,*.sh,*.py,*.js,*.ahk,*.au3,*.f[0-9].*,*.f1[0-9].*
 
-Prevence vyhoření. Jak na mikro-přestávky, které skutečně regenerují mozek - Zdravotnický kompas │Navigace ve světě zdraví a medicíny
 
 > # https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
 > Dobré ráno, jsem chatbot George, virtuální bankéř. Když budete chtít, spojím Vás s mým lidským kolegou, stačí mi to napsat.
@@ -99,6 +108,7 @@ V aplikaci George nebo v internetovém bankovnictví (george.csas.cz) máte dvě
 260207-enable-all-markdown-extensions.code-workspace
 
 https://github.com/digital-gardens/Martin-Milan/commits/main/
+
 # https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
 if settings.json has to be changed
   write the planned edits here 
@@ -352,7 +362,12 @@ I am on full disability pension.
 
 see line 249s in the file above, and the related photos in google photos, and the related notes in google keep, and the related live transcription, to understand what is going on with the cracks in the wall near the boiler, and what could be the causes and consequences of it, and what could be done about it, and how to prevent it from getting worse, and how to monitor it in the future.
 
-# 260225 scanning this file fromline 1 
+# 260225 scanning this file from line 1 
+
+
+
+
+
 
 ```yaml
 ---
