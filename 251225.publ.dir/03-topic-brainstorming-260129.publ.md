@@ -1,10 +1,43 @@
 ---
-importance: ℹ️ℹ️
-tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
+importance: ℹ️ℹ️ℹ️
+attention: aaaa
+tags: pomoc 0112 belly 0119 bych   meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa
 ---
-gemini...
-- create a new canvas README.md, add metadata to it...
-```
+
+# 260225 scanning this file from line 1 
+
+# téma 0112-belly obnovit trávení, 
+možná každou minutu ??,
+aspoň každou půl hodinu
+
+po .. hodinách spánku
+... hodin po léku mirtazapin
+konečně se mi daří něco psát
+
+# téma 0119-potreboval-bych-pomoc
+ od nejbližších lidí,
+abych se nedostal brzo do nemocnice ... 
+vkládat pauzy 
+
+MB často má několik strachů najednou
+
+bojí se,
+že ztratí svoje slova,
+když někdo mluví 
+
+pro autistu MB je lepší
+psát (si) poznámky ,
+...než mluvení...
+psát stačí heslovitě,
+-- oni píšou souvislé texty ,
+
+ai
+, kteří by mi mohli pomoci s různými věcmi, které jsou pro mě teď těžké kvůli mému zdravotnímu stavu, a které by mi mohly pomoci zlepšit kvalitu mého života, a které by mi mohly pomoci být více samostatný a méně závislý na ostatních, a které by mi mohly pomoci být více aktivní a zapojený do života, a které by mi mohly pomoci být více spokojený a šťastný.
+
+
+# Gemini, create a new canvas README.md, add metadata to it...
+
+```yaml
 ---
 tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ℹ️ aaaa
 ---
@@ -13,7 +46,8 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 # https://www.google.com/interests/saved/list/fNvsFNjr6yDGlNWZGAow2Q
 extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
 
-# 0112 obnovit trávení, takeout c: ...
+
+# 0112-belly obnovit trávení, takeout c: ...
 # bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another #
 Workarounds ...
 https://takeout.google.com/?pli=1 ... export the data before moving the link
@@ -245,41 +279,40 @@ Uses numerical codes like '250922' to represent both the date (22 September 2025
 see also # 260131 a4 alphabetical  list all web apps, sites , that i would like to test 
 # 260223 a4 alphabetical  list all paths and  web  sites , where i could search for something like 01 011 0112  04plan, 0404 , 011-POMOC
 
-//Chrome 
+yymmdd
 
+papir
+ obalky c5 c6
+karis 
+kalendare
+nastenky 
 
-github 
-
+//Chrome tabgroups
+edge workspaces
 
 gemini chat 
 canvas
-extension 
-notebookLM chat 
-note
-
-
+notebookLM 
 
 google
-google tasks not shared , hard to search 
-
-
+google chat
 google drive ... 
 google docs ...
 google keep ...
 google photos ...
-google chat
+google saved 
+google tasks not shared , hard to search 
 
-
-
-microsoft
-m$
+microsoft m$
 ms office autosave 
-ms teams
 onenote
 onedrive
-
+ms teams
 tc
 vscode f1  
+github 
+wiki 
+issues
 
 
 
@@ -304,8 +337,17 @@ I am on full disability pension.
 
 
 
+see line 249s in the file above, and the related photos in google photos, and the related notes in google keep, and the related live transcription, to understand what is going on with the cracks in the wall near the boiler, and what could be the causes and consequences of it, and what could be done about it, and how to prevent it from getting worse, and how to monitor it in the future.
 
+# 260225 scanning this file fromline 1 
 
+```yaml
+---
+importance: ℹ️ℹ️
+attention: aaaa
+tags: meta 03 topic id identifier brainstorming 260129 260139  gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa
+---
+```
 
 
 
