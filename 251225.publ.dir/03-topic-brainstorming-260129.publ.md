@@ -1,39 +1,21 @@
 ---
 importance: ℹ️ℹ️ℹ️
 attention: aaaa
-tags: pomoc 0112 belly 0119 potreboval bych   meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa
+urgency:  rrrr️
+tags: pomoc help  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
 ---
 
 # téma 011-POMOC 💚 💚 
 
 
-# 0111-music 🎵 🎵 
+# téma 0111-music 🎵 🎵 
  zpěvník já písnička music singing
 píseň Tumša nakte 🎵 
 
-# téma 0112-belly obnovit trávení, 
+# téma 0112-belly-peristaltika-obnovit-trávení
 
-win+.
-![alt text](image-2.png)
-belly
-~~hamster
-
-i uprostřed prací 
-potřebuji částečnou relaxaci,
-aby se obnovilo trávení,
-slyšitelná peristaltika,
-
-možná každou minutu ??,
-aspoň každou hodinu,
-
-abych se nedostal do nemocnice ... 
-vkládat pauzy 
-
-
-
-I need reminders after each message to take small breaks, hum something, or review my topic 0112.
-
-I am on full disability pension.
+[[0112-belly-peristaltika-obnovit-trávení.publ]]
+C:\Users\marti\OneDrive\Dokumenty\04plan.publ.dir\0112-belly-peristaltika-obnovit-trávení.publ.md
 
 
 # 260225 scanning this file from line 1 
@@ -64,6 +46,9 @@ psát (si) poznámky ,
 psát stačí heslovitě,
 a .raději. heslovitě
 -- oni píšou souvislé texty ,
+
+Liv Boková
+	článek
 
 # Prevence vyhoření. Jak na mikro-přestávky,
  které skutečně regenerují mozek - Zdravotnický kompas │Navigace ve světě zdraví a medicíny
