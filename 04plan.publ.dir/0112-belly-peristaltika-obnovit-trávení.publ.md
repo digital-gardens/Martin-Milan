@@ -1,12 +1,10 @@
 ---
-importance: ℹ️ℹ️ℹ️
-attention: aaaa
-urgency:  rrrr️
-tags: pomoc help  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji   gemini issues problems  ℹ️ℹ️ aaaa rrrr
+tags: pomoc help puls akupresura shiatsu  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji   gemini issues problems  ℹ️ℹ️ aaaa rrrrRR
 ---
 
-# téma 0112-belly-peristaltika-obnovit-trávení 💚 💚 
+# téma 0112-belly-peristaltika-obnovit-trávení  \_💚_ 
 
+// slyšitelná peristaltika jako příznak uvolnění
 
 i uprostřed prací    
 potřebuji částečnou relaxaci,  
