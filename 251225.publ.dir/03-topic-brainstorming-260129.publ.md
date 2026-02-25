@@ -4,11 +4,24 @@ attention: aaaa
 tags: pomoc 0112 belly 0119 bych   meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa
 ---
 
+požádat AI,
+aby zkusila psát 
+raději
+max. 12 slabik
+na řádce
+
+srv. vědecký článek
+Magical seven plus minus two
+doporučuje 
+7 ± 2 slabik
+
 # 260225 scanning this file from line 1 
 
 # téma 0112-belly obnovit trávení, 
 možná každou minutu ??,
-aspoň každou půl hodinu
+aspoň každou hodinu,
+abych se nedostal do nemocnice ... 
+vkládat pauzy 
 
 po .. hodinách spánku
 ... hodin po léku mirtazapin
@@ -16,7 +29,7 @@ konečně se mi daří něco psát
 
 # téma 0119-potreboval-bych-pomoc
  od nejbližších lidí,
-abych se nedostal brzo do nemocnice ... 
+abych se nedostal do nemocnice ... 
 vkládat pauzy 
 
 MB často má několik strachů najednou
