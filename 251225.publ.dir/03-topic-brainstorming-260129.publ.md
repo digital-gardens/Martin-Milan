@@ -1,12 +1,23 @@
 ---
 importance: ℹ️ℹ️ℹ️
 attention: aaaa
-tags: pomoc 0112 belly 0119 bych   meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa
+tags: pomoc 0112 belly 0119 potreboval bych   meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa
 ---
 
-# téma 011-POMOC
+# téma 011-POMOC 💚 💚 
+
+
+# 0111-music 🎵 🎵 
+ zpěvník já písnička music singing
+píseň Tumša nakte 🎵 
 
 # téma 0112-belly obnovit trávení, 
+
+win+.
+![alt text](image-2.png)
+belly
+~~hamster
+
 i uprostřed prací 
 potřebuji částečnou relaxaci,
 aby se obnovilo trávení,
@@ -18,7 +29,19 @@ aspoň každou hodinu,
 abych se nedostal do nemocnice ... 
 vkládat pauzy 
 
+
+
+I need reminders after each message to take small breaks, hum something, or review my topic 0112.
+
+I am on full disability pension.
+
+
 # 260225 scanning this file from line 1 
+
+split right
+key combo alt+right
+key combo alt+left
+
 
 po 7 hodinách spánku,
 10 hodin po léku mirtazapin,
@@ -39,6 +62,7 @@ pro autistu MB je lepší
 psát (si) poznámky ,
 ...než mluvení...
 psát stačí heslovitě,
+a .raději. heslovitě
 -- oni píšou souvislé texty ,
 
 # Prevence vyhoření. Jak na mikro-přestávky,
@@ -54,6 +78,10 @@ aby zkusila psát
 raději
 max. 7 slov
 na řádce
+
+nebo aspoň vkládat "..." do dlouhých vět, aby se to lépe četlo a lépe se to dalo pochopit a zapamatovat
+
+
 
 srv. vědecký článek
 Magical seven plus minus two
@@ -133,26 +161,7 @@ POUŽIJ KOLEČKO MYŠI prosím, nápovědy budou v ... GitHub složka s meta-inf
 -- jen kopie obrazovky settings, abych si zapamatoval, co jsem měnil edge://settings/?search=workspace
 
 
-
-# 249s
-mk file 
-C:\Users\marti\OneDrive\Dokumenty\1804-NEW\ingJH-2472\
-PLACEHOLDER.f8.md
-0004-tags-249s-2472-Praskliny-zdi.publ.md
-
-Praskliny 249s zdi od bojleru?,ing. Hrazdil ,ing. JH 2024-07,2407,247 - Google Photos
-2 keep 
-1 z live transcription
-
-slíbila, že posune květináč
-voda z okapu by mohla dělat problémy
-
-
-
-
-
 # https://github.com/digital-gardens/Martin-Milan/blob/main/README.md
-
 
 
 # for my family
@@ -164,13 +173,6 @@ voda z okapu by mohla dělat problémy
 - 2026-02  https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
 
 - 2025-08  https://github.com/digital-gardens/Martin-Milan/blob/main/250825-%40skupina-meta-informace/250825-%40skupina-meta-informace%2Cemergency.f8.md
-
-
-
-
-
-
-
 
 
 - https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/
@@ -190,6 +192,8 @@ https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-top
 
 
 
+
+
 # 260205
 
 ## C:\Users\marti\OneDrive\Dokumenty\251008-vscode-paste-bug.f8.md
@@ -201,6 +205,7 @@ onedrive
 
 260221 3.43 GB on disk
 
+
 # 260209 do 28 navstivit csob a pozmenit trvalých příkazů , a popr jednorazovy prikaz 
 # 260209 sledovat klesání zůstatku na účtu  csas  
 lze z mailu platba kartou 
@@ -208,7 +213,6 @@ potvrzujeme platbu kartou  0012 ve výši  729,89 Kč ze dne 4. 7. 2025 u MCPENS
 Na účtu 1394832073 je k dispozici 
 
 
-# // put new experiment notes here
 
 
 # 260209 
@@ -238,6 +242,10 @@ VS:5484500198 KS:1620
 Vytvořte si potvrzení o vedení účtu, zůstatku na účtu, majiteli nebo disponentovi. Můžete si vygenerovat i seznam všech trvalých pokynů, které máte na účtu nastavené – trvalých příkazů, SIPO a inkas.
 ```
 
+# userscript or chrome extension to autosave the webpage 
+e.g.  the content of the Google Gemini web app, to prevent data loss due to bugs or issues in the web app, and to allow users to have a backup of their titles and pins 
+
+
 # userscript or chrome extension to add a simple bookmarking or title search to the Google Gemini web app
 
 # userscript or chrome extension to automatically set the document.title of the Google Gemini web app
@@ -247,6 +255,8 @@ edge://extensions/?id=gibmkggjijalcjinbdhcpklodjkhhlne
 bug select all in the google gemini web app and copy with ctrl c doesnt work for the titles of conversations, but it works for the content of the conversations.
 
 # 260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
+
+meta tvorba ... tvorba prostředí pro tvorbu 
 
 photos.google.com 
 paměťová pomůcka na dveřích doma
@@ -299,8 +309,8 @@ Uses numerical codes like '250922' to represent both the date (22 September 2025
 
 
 
-see also # 260131 a4 alphabetical  list all web apps, sites , that i would like to test 
 # 260223 a4 alphabetical  list all paths and  web  sites , where i could search for something like 01 011 0112  04plan, 0404 , 011-POMOC
+see also # 260131 a4 alphabetical  list all web apps, sites , that i would like to test 
 
 yymmdd
 
@@ -342,28 +352,29 @@ issues
 
 # 0112
 
-0112 obnovit trávení, takeout c: ...
+viz 0112-belly obnovit trávení, 
 
-01 zpěvník já písnička music singing
-
-
-
-
-I need reminders after each message to take small breaks, hum something, or review my topic 0112.
-
-I am on full disability pension.
-
+# 0119
+viz 0119-potreboval-bych-pomoc
 
 
 # 249s
 "C:\Users\marti\OneDrive\Dokumenty\1804-NEW\ingJH-2472\0004-tags-249s-2472-Praskliny-zdi.publ.md"
 
+Praskliny 249s zdi od bojleru???,ing. Hrazdil ,ing. JH 2024-07,2407,247 - Google Photos
+2 keep 
+1 z live transcription
 
+slíbila, že posune květináč
+voda z okapu by mohla dělat problémy
 
 see line 249s in the file above, and the related photos in google photos, and the related notes in google keep, and the related live transcription, to understand what is going on with the cracks in the wall near the boiler, and what could be the causes and consequences of it, and what could be done about it, and how to prevent it from getting worse, and how to monitor it in the future.
 
 # 260225 scanning this file from line 1 
 
+po 7 hodinách spánku,
+10 hodin po léku mirtazapin,
+konečně se mi daří něco psát
 
 
 
@@ -379,6 +390,7 @@ tags: meta 03 topic id identifier brainstorming 260129 260139  gemini notebooklm
 
 
 
+# // put new experiment notes here
 
 
 
