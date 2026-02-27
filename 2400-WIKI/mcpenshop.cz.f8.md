@@ -1,4 +1,7 @@
 
+na konci souboru 
+Děrovačka Maped Essentials 10/12, 4 otvory, Černá
+
 
 - [mcpenshop prodejna: Praha – Atrium Karlovo náměstí](#mcpenshop-prodejna-praha--atrium-karlovo-náměstí)
 - [asi old ... rucne preposlat na b@k](#asi-old--rucne-preposlat-na-bk)
@@ -35,7 +38,7 @@
 
 # mcpenshop prodejna: Praha – Atrium Karlovo náměstí  
 prodejna: Praha – Atrium Karlovo náměstí
-jiri.vlastimil.bok
+jiri.vlastimil.
 
 
 # LINKS
@@ -44,7 +47,7 @@ https://www.mcpenshop.cz/prehled-objednavek
 
 chrome://bookmarks/?q=mcpen
 
-
+take lze hledat v mailu
 
 
 
@@ -317,7 +320,8 @@ https://www.mcpenshop.cz/desky-spisove-s-gumou-a4-prespanove-modre
 
 https://www.mcpenshop.cz/paska-lepici-penova-oboustranna-19-mm-x-1-m-bila
 
-Univerzální kancelářské etikety pro inkoustové a laserové tiskárny a kopírky. V balení 100 listů formátu A4. Rozměr: 105 x 74 mm. Etiket na stránce 8 ks. Samolepicí etikety jsou ideálním pomocníkem při každodenní práci v kancelářích, ve skladech při tvorbě adresních štítků nebo etiket na balíky, ve velkoobchodech či jakýchkoliv prodejnách a pro další provozy. Vhodné i pro použití ve školách a pro označení školních pomůcek.
+
+
 
 https://www.mcpenshop.cz/paska-stabilizacni-pevna-48-mm-x-10-m
 
@@ -329,7 +333,9 @@ https://www.mcpenshop.cz/zapisnik-spiralovy-telefonni-10-x-16-cm-cerny
 
 
 
+# RARELY 
 
+https://www.mcpenshop.cz/tuhy-do-pastelek-scala-4042-12-ks
 
 # RARELY 
 
@@ -359,7 +365,10 @@ https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-5-mm-3-ks-modra
 
 netroufam 	https://www.mcpenshop.cz/napln-pilot-frixion-point-0-5-mm-3-ks-modra     point 
 
+
+
 https://www.mcpenshop.cz/napln-do-kulickoveho-pera-easy-ink-0-5-mm-modra
+
 
 
 
@@ -405,30 +414,45 @@ https://www.mcpenshop.cz/klipy-binder-pastelove-deli-25-mm-48-ks
 
 https://www.mcpenshop.cz/klipy-binder-pastelove-deli-19-mm-40-ks
 
+
 https://www.mcpenshop.cz/klipy-kancelarske-vazaci-maped-19-mm-10-ks-barevne
 
-
-https://www.mcpenshop.cz/tuhy-do-pastelek-scala-4042-12-ks
-
+herlitz klipy kancelářské 19 mm, 10 ks, mix barev
 
 
-# krouzkove poradace   srv. karis bloky 
-# 260118
 
+# 260226 prolezl vsechny objednávky od zacatku casu 
+
+konec zbytecne 
+krome
+https://www.mcpenshop.cz/vlozka-nahradni-do-bloku-karis-a5-ctverecek-100-listu-2
+
+
+
+https://www.mcpenshop.cz/paska-lepici-penova-oboustranna-19-mm-x-1-m-bila
+https://www.mcpenshop.cz/kancelarske-potreby/lepeni-a-etikety/oboustranne-lepici-pasky
+https://www.mcpenshop.cz/hledani?query=paska+oboustranna
+
+https://www.mcpenshop.cz/blok-karis-pastelini-a5-zeleny
+ https://www.mcpenshop.cz/hmota-lepici-kores-gumfix-50-g
+
+# 260118 260226
+
+https://www.mcpenshop.cz/derovacka-specialni-maped-essentials-12-cerna
 Děrovačka Maped Essentials 10/12, 4 otvory, Černá
-
-https://www.mcpenshop.cz/kancelarske-potreby/poradace/krouzkove-poradace
-
-
-# Balíček pro Vás bude expedován do prodejny během 7 kalendářních dnů.
-
-# mcpenshop prodejna: Praha – Atrium Karlovo náměstí  
-prodejna: Praha – Atrium Karlovo náměstí
-
-
-
-
 
 
 shiatsu https://www.mcpenshop.cz/pryz-umelecka-6423-18
 
+Univerzální kancelářské etikety pro inkoustové a laserové tiskárny a kopírky. V balení 100 listů formátu A4. Rozměr: 105 x 74 mm. Etiket na stránce 8 ks. Samolepicí etikety jsou ideálním pomocníkem při každodenní práci v kancelářích, ve skladech při tvorbě adresních štítků nebo etiket na balíky, ve velkoobchodech či jakýchkoliv prodejnách a pro další provozy. Vhodné i pro použití ve školách a pro označení školních pomůcek.
+
+
+
+# krouzkove poradace   srv. karis bloky https://www.mcpenshop.cz/kancelarske-potreby/poradace/krouzkove-poradace
+# Balíček pro Vás bude expedován do prodejny během 7 kalendářních dnů.
+# mcpenshop prodejna: Praha – Atrium Karlovo náměstí  
+prodejna: Praha – Atrium Karlovo náměstí
+jiri.vlastimil.
+
+https://www.mcpenshop.cz/kosik
+reload pred odeslanim objednavky, kdyby selhala 
