@@ -452,7 +452,8 @@ Univerzální kancelářské etikety pro inkoustové a laserové tiskárny a kop
 # Balíček pro Vás bude expedován do prodejny během 7 kalendářních dnů.
 # mcpenshop prodejna: Praha – Atrium Karlovo náměstí  
 prodejna: Praha – Atrium Karlovo náměstí
+# Nezapomeňte nám do poznámky k objednávce napsat, kterou jste si vybrali.
 jiri.vlastimil.
 
 https://www.mcpenshop.cz/kosik
-reload pred odeslanim objednavky, kdyby selhala 
+rclick duplicate tab  pred odeslanim objednavky, kdyby selhala 
