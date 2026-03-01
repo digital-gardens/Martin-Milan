@@ -64,6 +64,7 @@ rclick on the title bar .. on the tab label: export text
 // copilot helps writing this
 
 
+# going back to default settings
 file:///D:\000doc24\Dokumenty\usb-flash-drive--cluster-size.f8.md
 
 EDIT 249s

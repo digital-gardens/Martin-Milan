@@ -2,7 +2,7 @@ usb-flash-drive--cluster-size.f8.md
 
 
 
-up file:///D:\000doc24\Dokumenty\new-usb-disk-drive,corsair,diskpart.f8.md
+# up file:///D:\000doc24\Dokumenty\new-usb-disk-drive,corsair,diskpart.f8.md
 
 
 EDIT 249s 1926
@@ -18,7 +18,7 @@ fat even worse
 EDIT 249s
 my messing with cluster Sizes
 seems to have done more harm than good
-going back to default settings
+# going back to default settings
 
 usb "flash" drive enable write caching 
 seems to have done more harm than good probably
