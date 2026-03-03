@@ -451,6 +451,37 @@ C:\Users\marti\OneDrive\Dokumenty\2400-WIKI\usb-flash-drive--cluster-size.f8.md
 
 
 
+# 260127-Topení-přímotopy
+260127-Topení-přímotopy
+https://www.datart.cz/topeni-primotopy.html
+
+non=workspace because jinak neprezije reload
+file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+edge://restart0/
+edge://welcome-to-your-workspace/
+https://www.youtube.com/watch?v=Ie5VrKMr524
+edge://restart0/
+
+edge://welcome-to-your-workspace/
+https://www.datart.cz/novinky/radce/jak-vyvbrat-topidlo
+https://www.alza.cz/hobby/pruvodce-jak-vybrat-primotop-art16376.htm
+
+https://www.datart.cz/chytre-konvektory.html/filter/o:4
+
+
+
+
+https://www.datart.cz/teplovzdusny-konvektor-ballu-bch-r-1800ei.html
+
+
+https://www.zbozi.cz/domaci-spotrebice/vzduchotechnika/topidla/
+
+
+https://topidla.heureka.cz/f:9739:1500,2000,2200,2300;9742:19302,19303;14165:653913,40457616,43183286,43183287;32036:42951887,43200911;32039:1;32042:42951890,75496375;32043:1/?o=5
+Elektrická topidla 2000 W, 2300 W, 4,2 – 6,02 kg, 6,04 – 9,3 kg, konvektory, infrapanely, keramická, radiátory, interiéry, koupelny, S wifi, nástěnná i volně stojící, volně stojící, S ventilátorem
+
+
+Bohužel obchod psal, že je přímotop s ventilátorem a to není! Zásadní problém. Do dneška nemám ani peníze zpět, nemluvím o komplikacích.
 
 
 
@@ -458,6 +489,38 @@ C:\Users\marti\OneDrive\Dokumenty\2400-WIKI\usb-flash-drive--cluster-size.f8.md
 
 
 
+
+pridat koupelny 
+
+https://topidla.heureka.cz/duux-edge-2000/#prehled/
+
+
+https://topidla.heureka.cz/f:9739:1500,2000,2200,2300;9742:19302,19303;14165:653913,40457616,43183286,43183287;32036:43200911;32039:1;32042:42951890,75496375;32043:1;s:1/?o=5
+Elektrická topidla 2300 W, 4,2 – 6,02 kg, 6,04 – 9,4 kg, konvektory, infrapanely, keramická, radiátory, interiéry, S wifi, nástěnná i volně stojící, volně stojící, S ventilátorem, skladem
+
+nblm
+
+https://www.hornbach.cz/p/konvektor-eurom-alutherm-podlaha-2000-w/10598260/?hgtid=00947361-5220-4dd7-b9c3-1d14ab030530
+zda má ventilátor 
+
+
+https://www.rohnson.cz/user/related_files/r-077_genius_wi-fi_cz_manual.pdf?srsltid=AfmBOoqyJ07P-znEBWHfUFiPg60fyeMCKqR06lxW8xC7UWqu8Nl6fFsc
+
+
+https://www.fenergy.cz/ecoflex-konvektory-2/nozky-pro-topidla-atlantic/
+
+
+pdf 
+
+rohnson r-08
+rohnson r-077 recenze plastové nohy šroubky
+
+https://www.jipos.cz/elektricke-topidlo-sklenene-maltec-ch5000dww-2000w-powermat/?hgtid=00947361-5220-4dd7-b9c3-1d14ab030530
+
+
+
+
+Jedna plastova noha naprosto nesla prisroubovat, az vetsi sroub a sila to spravili. Nechtelo se mi vracet. Potrebovala jsem topit.
 
 
 
