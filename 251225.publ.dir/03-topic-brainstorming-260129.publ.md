@@ -473,14 +473,32 @@ https://www.datart.cz/chytre-konvektory.html/filter/o:4
 
 https://www.datart.cz/teplovzdusny-konvektor-ballu-bch-r-1800ei.html
 
+Dokonce rozpozná i otevřené okno pro úsporu.
+
+Dobrý den, pokud se Vám nedaří aplikace stáhnout z App Store nebo Google Play, doporučíme kontaktovat podporu značky servis@ballu.store
+
+zesílené patky pro stabilní a bezpečnou montáž na podlahu,
+
+2h v jine mistnosti
+
+
+
+https://topidla.heureka.cz/f:9737:40252279;p:4;s:1/?o=5
 
 https://www.zbozi.cz/domaci-spotrebice/vzduchotechnika/topidla/
 
 
+https://topidla.heureka.cz/f:9737:40252279;p:4;s:1/?o=5
+
+BUG
+bug doesnt find ballu bch r 1800ei ...
 https://topidla.heureka.cz/f:9739:1500,2000,2200,2300;9742:19302,19303;14165:653913,40457616,43183286,43183287;32036:42951887,43200911;32039:1;32042:42951890,75496375;32043:1/?o=5
-Elektrická topidla 2000 W, 2300 W, 4,2 – 6,02 kg, 6,04 – 9,3 kg, konvektory, infrapanely, keramická, radiátory, interiéry, koupelny, S wifi, nástěnná i volně stojící, volně stojící, S ventilátorem
+bug Elektrická topidla 2000 W, 2300 W, 4,2 – 6,02 kg, 6,04 – 9,3 kg, konvektory, infrapanely, keramická, radiátory, interiéry, koupelny, S wifi, nástěnná i volně stojící, volně stojící, S ventilátorem
 
+https://topidla.heureka.cz/klarstein-bornholm-smart-bfearly9/#prehled/
+https://topidla.heureka.cz/klarstein-bansin-crystal-smart-aco14-bansincry1500b/#specifikace/
 
+https://topidla.heureka.cz/nedis-wifihtpl20fwt/#recenze/
 Bohužel obchod psal, že je přímotop s ventilátorem a to není! Zásadní problém. Do dneška nemám ani peníze zpět, nemluvím o komplikacích.
 
 
