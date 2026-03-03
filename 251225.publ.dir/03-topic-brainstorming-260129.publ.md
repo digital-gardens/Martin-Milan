@@ -450,12 +450,39 @@ C:\Users\marti\OneDrive\Dokumenty\2400-WIKI\usb-flash-drive--cluster-size.f8.md
 
 
 
+# 260127-doprava 
+
+## george.csas.cz docasny limit karta 20 000   2 dny 
+
+## neprivezou
+https://www.datart.cz/osobni-vaha-tanita-bc-401-bila.html   
+https://www.datart.cz/teplovzdusny-konvektor-ballu-bch-r-1800ei.html#popis
+Doprava DPD kurýrem z prodejny
+
+https://www.datart.cz/osobni-vaha-garmin-index-s2-bila.html
+bojim zdrzi nalehavy primotop
+
+## https://www.datart.cz/mobilni-aplikace
+
+## "C:\Users\marti\OneDrive\google.com--mail\mb75\mailFilters (55).xml"
+
 
 # 260127-Topení-přímotopy
 260127-Topení-přímotopy
 https://www.datart.cz/topeni-primotopy.html
 
-non=workspace because jinak neprezije reload
+## george.csas.cz docasny limit karta 20 000   2 dny 
+
+## neprivezou
+https://www.datart.cz/osobni-vaha-tanita-bc-401-bila.html   
+https://www.datart.cz/teplovzdusny-konvektor-ballu-bch-r-1800ei.html#popis
+Doprava DPD kurýrem z prodejny
+
+shoplist
+https://www.datart.cz/porovnat
+
+
+## non=workspace because jinak neprezije reload
 file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
 edge://restart0/
 edge://welcome-to-your-workspace/
@@ -472,6 +499,89 @@ https://www.datart.cz/chytre-konvektory.html/filter/o:4
 
 
 https://www.datart.cz/teplovzdusny-konvektor-ballu-bch-r-1800ei.html
+neprivezou
+Doprava DPD kurýrem z prodejny
+
+https://www.datart.cz/chytre-konvektory.html/filter/o:4
+
+Hmotnost výrobku	6.9 kg	7.5 kg	10.5 kg	10.5 kg	7.8 kg
+
+Sencor SCF 4240WH
+
+2 699 Kč
+
+Solight KP01WIFI černá barva
+
+3 599 Kč
+
+Sencor SCF 4742RD
+
+4 062 Kč
+
+Sencor SCF 4740WH
+
+4 048 Kč
+
+Duux DXCH14 Edge 2000 Gray Wifi
+
+4 799 Kč
+
+Ballu BCH/R-1800EI
+
+5 044 Kč
+
+gemini
+materiál?
+Teplovzdušný konvektor Concept KS4100 černá barva
+Sencor SCF 4240WH
+Solight KP01WIFI černá barva
+Sencor SCF 4742RD
+Sencor SCF 4740WH
+Duux DXCH14 Edge 2000 Gray Wifi
+Ballu BCH/R-1800EI
+
+Konvektor Eurom Alutherm ...zda má ventilátor 
+
+potřebuji topení do ložnice
+představa, že by zvuk ventilátoru kazil spánek, mě děsí
+Poznámka: Některé české e-shopy mohou mít v parametrech u těchto modelů chybně uvedenou položku "ventilátor" kvůli nepřesným automatickým překladům a filtrům
+
+Duux DXCH14 Edge 2000 Gray Wifi ... doufám, že nemá ventilátor
+, protože jsem ho objednal 
+
+, ale přímo z oficiálních technických listů a manuálů Eurom vyplývá, že modely Alutherm jím nedisponují.
+
+
+
+zanovni
+bazar 
+
+Blesková výměna 
+
+Pojištění prodloužené záruky PLUS 
+https://www.datart.cz/napoveda/prodlouzena-zaruka
+Zajistíme a zaplatíme opravy i s dopravou, u velkých spotřebičů přijede opravář k vám domů.
++ 5 let
++ 5 let
+14.7.1975
+
+
+Doprava: DOPRAVART – prémiová doprava
+699 Kč
+Odvoz spotřebiče k recyklaci
+zdarma
+Rozbalit výrobek u zákazníka
+zdarma
+Volat hodinu předem
+zdarma
+Google Pay online
+0 Kč
+Celková cena včetně dopravy
+7 585 Kč s DPH
+
+
+===========
+jiny
 
 Dokonce rozpozná i otevřené okno pro úsporu.
 
@@ -508,18 +618,20 @@ Bohužel obchod psal, že je přímotop s ventilátorem a to není! Zásadní pr
 
 
 
-pridat koupelny 
 
 https://topidla.heureka.cz/duux-edge-2000/#prehled/
+zda má ventilátor 
+https://image.datart.cz/document/1/2/9/doc_4762921.pdf
+ventil 
+větr
+pdf 0 
 
-
-https://topidla.heureka.cz/f:9739:1500,2000,2200,2300;9742:19302,19303;14165:653913,40457616,43183286,43183287;32036:43200911;32039:1;32042:42951890,75496375;32043:1;s:1/?o=5
-Elektrická topidla 2300 W, 4,2 – 6,02 kg, 6,04 – 9,4 kg, konvektory, infrapanely, keramická, radiátory, interiéry, S wifi, nástěnná i volně stojící, volně stojící, S ventilátorem, skladem
 
 nblm
 
+Konvektor Eurom Alutherm podlaha 2000 W - HORNBACH
 https://www.hornbach.cz/p/konvektor-eurom-alutherm-podlaha-2000-w/10598260/?hgtid=00947361-5220-4dd7-b9c3-1d14ab030530
-zda má ventilátor 
+Konvektor Eurom Alutherm ...zda má ventilátor 
 
 
 https://www.rohnson.cz/user/related_files/r-077_genius_wi-fi_cz_manual.pdf?srsltid=AfmBOoqyJ07P-znEBWHfUFiPg60fyeMCKqR06lxW8xC7UWqu8Nl6fFsc
