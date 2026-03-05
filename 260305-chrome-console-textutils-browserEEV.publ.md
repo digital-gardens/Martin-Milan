@@ -1,5 +1,18 @@
 
 
+cp C:\Users\marti\OneDrive\Dokumenty\users-marti.publ.package.json   C:\Users\marti\package.json
+
+
+> i cannot see the ``` ... ``` 
+
+i have to apologize 
+after hitting F5, i do see all your code snippets 
+
+
+
+
+
+
 - 00 písnička málo související ... Tvůj tajný sen, tu touhu já znám
 - 00 písnička málo související ... žít svůj sen
 
@@ -14,8 +27,6 @@ to simulate shell text utils
 e.g. 
 in chrome developer console, for example to simulate the experience of using command line text processing tools like grep, sed, awk, etc. in the browser console, to allow users to manipulate and analyze text data in a more powerful and flexible way, using familiar command line syntax and semantics.
 
-keywords: textutils and browserEEV are from my attempts many many months ago
-later maybe i will try to connect with them 
 
 e.g. 
 - echo ... console.log
@@ -58,8 +69,158 @@ by the way, i remember i have seen an advanced trick ... how to open *devtools o
 
 in this direction, i may be able to read the console history 
 
+snippets
 
 
+// i started a new file 260305-chrome-console-textutils-browserEEV.publ.md
+
+
+
+// keywords: textutils and browserEEV.. are from my attempts many many months ago ..
+
+later maybe i will try to connect with them 
+
+
+and a yet another sub-direction in this thought stream..
+i dimly remember something like this:
+chrome --remote-debugging-port=9222  
+maybe i connected from another browser? or from nodejs? 
+
+but 
+i am going to..
+i want to  learn a bit more of javascript 
+i know shell from my youth 
+but i am interested in the world of javascript
+i already spend most of the time in the browser and in vscode
+
+
+will it be possible to send lines from vscode terminal to the browser console?
+// in vscode, like in EEV, i can send lines from a text file, by F8, to the terminal 
+
+// i dimly remember ..i hope there already is  something like node --debug-chrome-by-port=9222 or some node package which can connect to the browser console and send commands to it
+
+Your memory is spot on! The package you are thinking of is almost certainly 
+
+
+chrome-remote-interface
+
+maybe i already have it installed,
+but i will have to update it 
+i am in c:\Users\marti\OneDrive\Dokumenty\
+it could be in c:\Users\marti\OneDrive or c:\Users\marti\ or global
+what npm command should i use
+
+> i cannot see the ``` ... ``` 
+
+i have to apologize 
+after hitting F5, i do see all your code snippets 
+
+
+
+
+
+```
+
+npm ...
+
+```
+
+in what you have written
+
+First, try finding it globally by typing: 
+
+```sh
+npm list -g chrome-remote-interface
+npm list  chrome-remote-interface
+
+
+PS C:\Users\marti\OneDrive\Dokumenty> npm list -g chrome-remote-interface
+C:\Users\marti\AppData\Roaming\npm
+└── (empty)
+
+PS C:\Users\marti\OneDrive\Dokumenty> npm list  chrome-remote-interface
+f8_text_file--clouddrive--monorepo@0.9.1 C:\Users\marti\OneDrive
+└── (empty)
+
+```
+
+But that second output revealed something fantastic. It found a package.json file in your C:\Users\marti\OneDrive folder named f8_text_file--clouddrive--monorepo.
+
+It looks like you already laid the groundwork for this exact "F8 text file" workflow in the past! Because that monorepo package exists in your OneDrive folder, any npm install you run in your Dokumenty folder will automatically attach to that existing project, which keeps everything perfectly organized.
+
+
+
+```
+npm install chrome-remote-interface
+
+PS C:\Users\marti\OneDrive\Dokumenty> npm install chrome-remote-interface
+npm warn reify Removing non-directory C:\Users\marti\OneDrive\node_modules
+
+added 7 packages, and audited 8 packages in 9s
+```
+
+that warning...
+npm warn reify Removing non-directory 
+C:\Users\marti\OneDrive\node_modules
+..
+it probably has been a symlink
+
+ok, now i have a paid onedrive, which is big enough
+
+
+
+
+
+
+```sh
+dir C:\Users\marti\package*
+dir C:\Users\marti\node*
+donot cp because npm updates the C:\Users\marti\package.json C:\Users\marti\OneDrive\Dokumenty\users-marti.publ.package.json   C:\Users\marti\package.json
+
+# powershell safe copy with interaction, verbose, no force, confirm-overwrite?
+
+Copy-Item -Path C:\Users\marti\OneDrive\Dokumenty\users-marti.publ.package.json -Destination C:\Users\marti\package.json -Confirm -Verbose 
+Copy-Item -Destination C:\Users\marti\OneDrive\Dokumenty\2users-marti.publ.package.json -Path C:\Users\marti\package.json -Verbose -Confirm
+
+
+
+```
+
+
+before that
+a small change 
+i have renamed node_modules to node_modules_old
+i have renamed package*.json to package_old*
+
+i have edited and moved package.json to OneDrive/.. , which is c:/Users/marti/
+and  i have reinstalled
+the chrome-remote-interface package
+
+---
+
+
+Moving your package.json up to C:/Users/marti/ and out of the direct OneDrive path is a very clean way to manage your dependencies. It gives you a stable, centralized "workspace" root without battling the cloud sync engine over thousands of tiny Node files.
+
+--- 
+
+btw now there is a file
+"C:\Users\marti\node_modules\.bin\chrome-remote-interface.ps1"
+... 
+what is it for 
+
+
+
+
+List Open Tabs: Running npx chrome-remote-interface list will output a JSON array of every tab currently open in your debugged Chrome instance.
+
+Start an Instant REPL: Running npx chrome-remote-interface repl will instantly drop you into an interactive terminal prompt connected to Chrome. You can type Runtime.evaluate({expression: "2+2"}) right there without writing a single line of your own bridge.js code.
+
+
+
+
+
+
+# devtools://devtools/
 
 Great workaround, but tedious. I fiddled around and found a way which does not require undocking and has less steps. Create a bookmark to devtools://devtools/bundled/devtools_app.html for easy access (or paste it in a new tab). Whenever you want to get the history, go to that page, open the console (DON'T use the one already displayed), and paste copy(JSON.parse(localStorage.getItem("consoleHistory")).join('\n'))
 

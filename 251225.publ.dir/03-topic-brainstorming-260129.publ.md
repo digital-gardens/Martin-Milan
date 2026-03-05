@@ -691,7 +691,7 @@ Jedna plastova noha naprosto nesla prisroubovat, az vetsi sroub a sila to spravi
 
 [[260305-chrome-console-textutils-browserEEV.publ.md]]
 
-
+	
 
 
 

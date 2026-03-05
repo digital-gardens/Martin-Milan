@@ -1,0 +1,22 @@
+{
+  "name": "parentof-f8_text_file--clouddrive--monorepo",
+  "displayName": "parentof-f8_text_file--clouddrive--monorepo",
+  "description": "",
+  "version": "0.9.2",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "scripts": {},
+  "devDependencies": {
+    "@types/glob": "^8.1.0",
+    "@types/node": "16.x",
+    "@types/vscode": "^1.72.0"
+  },
+  "dependencies": {
+    "chrome-remote-interface": "^0.34.0"
+  }
+}
