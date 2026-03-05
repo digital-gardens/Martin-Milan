@@ -683,11 +683,85 @@ Jedna plastova noha naprosto nesla prisroubovat, az vetsi sroub a sila to spravi
 
 
 
+- 00 písnička málo související ... Tvůj tajný sen, tu touhu já znám
+- 00 písnička málo související ... žít svůj sen
+
+
+# 260303-pseudo-notation3
+
+
+
+
+one of 
+my dream projects, a dream project direction
+
+something like
+pseudo-Notation3 and pseudo-RDF
+
+maybe
+pseudo-YAML-LD 
+pseudo-OWL
+pseudo-Semantic Web
+
+
+closest existing things ...
+a notation ...
+- Notation3
+- YAML-LD
+- is there something like EDN-LD ?
 
 
 
 
 
+example sentence
+
+```
+In the land of Mordor,
+in the fires of Mount Doom,
+Sauron the Dark Lord
+secretly
+forged 
+a master ring.
+```
+
+reification of the example sentence above,
+
+```
+a forging event
+  has location the land of Mordor
+  has location the fires of Mount Doom
+  has agent Sauron the Dark Lord
+  has manner secretly
+  has result a master ring
+
+```
+
+
+
+and my attempt to represent it in a more structured way, using a pseudo-Notation3 or pseudo-RDF style
+
+- newlines for semicolons
+- "e" for "a" where appropriate, and brackets to group related information together.
+- "m" ... modifier
+
+pseudo-Notation3
+```notation3
+[
+  a forging event
+  has location [a land; name Mordor]
+  has location [
+	e  fires
+	of Mount Doom]
+  has agent [a lord; name Sauron; title Dark Lord]
+  has manner secretly
+  has result [a ring; m master]
+]
+
+```
+
+is there already something like this in the world?
+ 
 
 
 
