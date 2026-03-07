@@ -17,10 +17,39 @@ but .. my escapism
 
 # links
 
+
+//observablehq.com/   
+	halp i know no javascript
+
 "C:\Users\marti\OneDrive\edge-f12-devtools-override\0004-LINKS\browserEEV - Shortcut.lnk"
 "C:\Users\marti\OneDrive\browserEEV\browserEEV.f8.md"
 
 "C:\Users\marti\OneDrive\browserEEV\custom-url,uri.f8.ps1"
+
+*.f8.js
+
+C:\Users\marti\OneDrive\snippets-227\js\bb-F12-snippets.f8.js
+C:\Users\marti\OneDrive\quokka-24\quokka.f8.js
+C:\Users\marti\OneDrive\javascript-js-224-11\saving-html.f8.js
+C:\Users\marti\OneDrive\dr4\MYNOTES-MYNOTES\JS\myjs2011\grel.f8.js
+
+C:\Users\marti\OneDrive\hyperpolyglot-f8\hyperpolyglot.f8.js
+
+C:\Users\marti\OneDrive\overwrite\hyperpolyglot.f8.js
+C:\Users\marti\OneDrive\bivector.net\Algebra.f8.js
+
+C:\Users\marti\OneDrive\eev-f8\document.body.textContent.f8.js
+
+C:\Users\marti\OneDrive\node-f8\test.f8.js
+C:\Users\marti\OneDrive\cowasm\42-run.f8.js
+C:\Users\marti\OneDrive\cowasm\cowasm-kernel-stdout.f8.js
+C:\Users\marti\OneDrive\Jevko\jevko.f8.js
+C:\Users\marti\OneDrive\make-a-lisp\mal.f8.js
+C:\Users\marti\OneDrive\stackblitz-WebContainer\WebContainer.f8.js
+C:\Users\marti\OneDrive\f8-notebooks--older\hist--clipbo.json.f8.js
+C:\Users\marti\OneDrive\codewars,haskell,math\f7.f8.js
+C:\Users\marti\OneDrive\dr4\MYNOTES-MYNOTES\JS\myjs2011\bb-F12-snippets.f8.js
+C:\Users\marti\OneDrive\dr4\MYNOTES-MYNOTES\JS\myjs2011\mycmdlinehist.f8.js
 
 
 f12 
