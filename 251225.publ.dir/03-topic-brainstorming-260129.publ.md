@@ -687,6 +687,36 @@ Jedna plastova noha naprosto nesla prisroubovat, az vetsi sroub a sila to spravi
 - 00 písnička málo související ... žít svůj sen
 
 
+# 260306-co-person--artificial-MM--artMM
+
+related ...
+- Terasem mindfiles
+- transhumanism
+- digital immortality
+- artificial consciousness
+- artificial personhood
+- artificial human 
+- artificial mind
+- artificial self
+- artificial identity
+- artificial soul
+- artificial brain
+- artificial memory
+- 
+
+when I am writing, sometimes I am trying to continue in creating a co-person made of words ...
+- a virtual me
+- a mirror of myself
+- a digital twin
+
+could you suggest more synonyms for artificial, digital co-person 
+- 
+textual
+
+
+
+
+
 # 260305-chrome-console-textutils-browserEEV
 
 [[260305-chrome-console-textutils-browserEEV.publ.md]]
