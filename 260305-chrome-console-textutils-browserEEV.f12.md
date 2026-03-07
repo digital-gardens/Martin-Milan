@@ -1,6 +1,8 @@
+260305-chrome-console-textutils-browserEEV.f12.md
+f12 
 
-
-cp C:\Users\marti\OneDrive\Dokumenty\users-marti.publ.package.json   C:\Users\marti\package.json
+donot cp, because npm updates the C:\Users\marti\package.json C:\Users\marti\OneDrive\Dokumenty\users-marti.publ.package.json   C:\Users\marti\package.json
+see Copy-Item
 
 
 > i cannot see the ``` ... ``` 
@@ -9,12 +11,42 @@ i have to apologize
 after hitting F5, i do see all your code snippets 
 
 
-
-
-
-
+but .. my escapism
 - 00 písnička málo související ... Tvůj tajný sen, tu touhu já znám
 - 00 písnička málo související ... žít svůj sen
+
+# links
+
+"C:\Users\marti\OneDrive\edge-f12-devtools-override\0004-LINKS\browserEEV - Shortcut.lnk"
+"C:\Users\marti\OneDrive\browserEEV\browserEEV.f8.md"
+
+"C:\Users\marti\OneDrive\browserEEV\custom-url,uri.f8.ps1"
+
+
+f12 
+
+C:\Users\marti\OneDrive\edge-f12-devtools-override\
+C:\Users\marti\OneDrive\edge-f12-devtools-override\snippet%3A\myScript-snippet1.ctrl.shift.f12.js
+C:\Users\marti\OneDrive\snippets-227\js\bb-F12-snippets.f8.js
+C:\Users\marti\OneDrive\javascript-js-224-11\bb-F12-snippets.js
+C:\Users\marti\OneDrive\dr4\MYNOTES-MYNOTES\JS\bb-F12-snippets.js
+C:\Users\marti\OneDrive\dr4\MYNOTES-MYNOTES\JS\bb-F12-inspect-snippets.html
+C:\Users\marti\OneDrive\dr4\MYNOTES-MYNOTES\JS\stringify-doppio-f12.js
+C:\Users\marti\OneDrive\dr4\MYNOTES-MYNOTES\JS\myjs2011\bb-F12-snippets.f8.js
+C:\Users\marti\OneDrive\dr4\MYNOTES-MYNOTES\f12-test.html
+
+*.f1*.*
+
+C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\other\251126.00-template-experiment.f16.md
+C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\prokrast-250523.f10.yaml
+C:\Users\marti\OneDrive\edge-f12-devtools-override\snippet%3A\myScript-snippet1.ctrl.shift.f12.js
+
+
+<../edge-f12-devtools-override/0004-LINKS/Export-IndexedDB-using-devtools-console,idb - Shortcut.lnk>
+
+
+
+
 
 
 # 260305-chrome-console-textutils-browserEEV
@@ -235,5 +267,9 @@ InspectorFrontendHost
 
 
 
+C:\Users\marti\OneDrive\edge-f12-devtools-override\snippet%3A\myScript-snippet1.ctrl.shift.f12.js
 
-
+typeof Clipboard
+typeof Document
+typeof FileSystemHandle
+typeof SpeechSynthesisUtterance
