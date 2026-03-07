@@ -10,7 +10,8 @@ Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried 
 
 # for my family
 
-# 01-NAPOVEDA ?
+# POMOC HELP  https://github.com/digital-gardens/Martin-Milan/blob/011-POMOC.publ.dir/
+
 
 # 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
