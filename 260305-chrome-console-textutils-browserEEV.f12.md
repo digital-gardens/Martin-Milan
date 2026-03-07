@@ -26,6 +26,8 @@ but .. my escapism
 
 "C:\Users\marti\OneDrive\browserEEV\custom-url,uri.f8.ps1"
 
+"C:\Users\marti\OneDrive\gih30-seconds\30-seconds-of-code-master\snippets\replaceLast.md"
+
 *.f8.js
 
 C:\Users\marti\OneDrive\snippets-227\js\bb-F12-snippets.f8.js
