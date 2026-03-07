@@ -85,6 +85,7 @@ tags: 260139 260203 gemini notebooklm data loss bugs features issues problems  �
 
 # https://www.google.com/interests/saved/list/fNvsFNjr6yDGlNWZGAow2Q
 extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
+https://github.com/digital-gardens/Martin-Milan/blob/main/011-POMOC.publ.dir/011-POMOC-pro-Martina-Milana.publ.md
 
 
 # 0112-belly obnovit trávení, takeout c: ...
@@ -714,9 +715,11 @@ Jedna plastova noha naprosto nesla prisroubovat, az vetsi sroub a sila to spravi
 - 00 písnička málo související ... žít svůj sen
 
 
-# 260306-co-person--artificial-MM--artMM
+# 260306-co-person
+co-Martin
 coMM 
 iMM
+--artificial-MM--artMM
 
 
 related ...
