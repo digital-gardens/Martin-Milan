@@ -1,5 +1,5 @@
 ---
-tags: pomoc help  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
+tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
 ---
 
 importance: ℹ️ℹ️ℹ️
@@ -7,6 +7,22 @@ attention: aaaa
 urgency:  rrrr️
 
 # téma 011-POMOC 💚 💚 
+
+https://github.com/digital-gardens/Martin-Milan/tree/main/011-POMOC.publ.dir
+
+# 011-POMOC-pro-Martina-Milana.publ.md 
+[[011-POMOC-pro-Martina-Milana.publ.md]]
+proskenil, prelil radky tohoto 1..700
+"proskenil, prelil" jak to pojmenovat spisovne
+- scanned
+- copied
+- transferred
+- transformed
+- converted
+- extracted
+- generated the new file
+- created the new file based on this 
+
 
 # téma 0111-music 🎵 🎵 
  zpěvník já písnička music singing
@@ -17,22 +33,24 @@ píseň Tumša nakte 🎵
 [[0112-belly-peristaltika-obnovit-trávení.publ]]
 C:\Users\marti\OneDrive\Dokumenty\04plan.publ.dir\0112-belly-peristaltika-obnovit-trávení.publ.md
 
+
 # 260225 scanning this file from line 1 
 split right
-key combo alt+right
-key combo alt+left
+# key combo alt+left
+ key combo alt+right
+
 
 # konečně se mi daří něco psát
+po 3, 
 po 7 hodinách spánku,
 10 hodin po léku mirtazapin,
 
+
 # téma 0119-potreboval-bych-pomoc
 [[0119-potreboval-bych-pomoc.publ.md]]
--- oni píšou souvislé texty ,
+-- oni píšou souvislé texty , 
 
 
-# Prevence vyhoření. Jak na mikro-přestávky,
- které skutečně regenerují mozek - Zdravotnický kompas │Navigace ve světě zdraví a medicíny
 
 
 # Magical seven plus minus two
@@ -117,7 +135,7 @@ git push
 
 
 
-# stačí click the continue this chat button
+# stačí click the continue this chat button, a pak n2co pripsat 
 https://gemini.google.com/share/83acae7ac420
 # https://github.com/digital-gardens/Martin-Milan/tree/main/250825-%40skupina-meta-informace
 https://github.com/digital-gardens/Martin-Milan/tree/main/11DIRS%2CFILES
@@ -133,6 +151,7 @@ POUŽIJ KOLEČKO MYŠI prosím, nápovědy budou v ... GitHub složka s meta-inf
 # for my family
 
 # 011-POMOC NAPOVEDA HELP
+[[011-POMOC dir]]
 
 # 0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy 
 
@@ -170,6 +189,7 @@ onedrive
 41,000 files 4000 folders
 
 260221 3.43 GB on disk
+
 
 
 # 260209 do 28 navstivit csob a pozmenit trvalých příkazů , a popr jednorazovy prikaz 
@@ -314,6 +334,8 @@ wiki
 issues
 
 
+# 011-POMOC NAPOVEDA HELP
+[[011-POMOC dir]]
 
 
 # 0112
@@ -353,7 +375,7 @@ tags: meta 03 topic id identifier brainstorming 260129 260139  gemini notebooklm
 
 # 260225 ... 226 27 28 nemohl pokracovat prestoze trivialni
 
-
+pokr trochu 260306+
 
 
 
@@ -429,6 +451,8 @@ asi nebudu
 00
 "D:\Users\milanlocal\Music"
 Tumsa nakte
+Nu Dieviņ(i): Nyní, Bože / Božíčku
+tava vaļa: tvoje vůle / tvá moc
 
 "D:\Users\milanlocal\23bgSystemReport.zip"
 
@@ -450,11 +474,13 @@ C:\Users\marti\OneDrive\Dokumenty\2400-WIKI\usb-flash-drive--cluster-size.f8.md
 
 
 
+
+
 # 260127-doprava 
 
 ## george.csas.cz docasny limit karta 20 000   2 dny 
 
-## neprivezou
+## neprivezou vubec nektere vyrobky
 https://www.datart.cz/osobni-vaha-tanita-bc-401-bila.html   
 https://www.datart.cz/teplovzdusny-konvektor-ballu-bch-r-1800ei.html#popis
 Doprava DPD kurýrem z prodejny
@@ -462,7 +488,7 @@ Doprava DPD kurýrem z prodejny
 https://www.datart.cz/osobni-vaha-garmin-index-s2-bila.html
 bojim zdrzi nalehavy primotop
 
-## https://www.datart.cz/mobilni-aplikace
+## https://www.datart.cz/mobilni-aplikace  nebyla potrreba 260304
 
 ## "C:\Users\marti\OneDrive\google.com--mail\mb75\mailFilters (55).xml"
 
@@ -560,8 +586,9 @@ Blesková výměna
 
 Pojištění prodloužené záruky PLUS 
 https://www.datart.cz/napoveda/prodlouzena-zaruka
-Zajistíme a zaplatíme opravy i s dopravou, u velkých spotřebičů přijede opravář k vám domů.
-+ 5 let
+# Zajistíme a zaplatíme opravy i s ******dopravou******, u velkých spotřebičů přijede opravář k vám domů.
+ Zajistíme a zaplatíme opravy i s dopravou
+## + 5 let
 + 5 let
 14.7.1975
 
@@ -627,7 +654,7 @@ větr
 pdf 0 
 
 
-nblm
+nblm?  todo?
 
 Konvektor Eurom Alutherm podlaha 2000 W - HORNBACH
 https://www.hornbach.cz/p/konvektor-eurom-alutherm-podlaha-2000-w/10598260/?hgtid=00947361-5220-4dd7-b9c3-1d14ab030530
@@ -688,9 +715,13 @@ Jedna plastova noha naprosto nesla prisroubovat, az vetsi sroub a sila to spravi
 
 
 # 260306-co-person--artificial-MM--artMM
+coMM 
+iMM
+
 
 related ...
 - Terasem mindfiles
+- mindclone
 - transhumanism
 - digital immortality
 - artificial consciousness
@@ -710,7 +741,8 @@ when I am writing, sometimes I am trying to continue in creating a co-person mad
 - a digital twin
 
 could you suggest more synonyms for artificial, digital co-person 
-- 
+- i-person
+- info-person
 textual
 
 
