@@ -2,6 +2,12 @@
 tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
 ---
 
+
+DONT PUBLISH EMAIL addresses 
+FIND
+@g
+
+
 importance: ℹ️ℹ️ℹ️
 attention: aaaa
 urgency:  rrrr️
@@ -750,6 +756,193 @@ textual
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DONT PUBLISH EMAIL addresses 
+FIND
+@g
+
+# 50.  mohla bys prosim do  7 dnu prijmout .. invitation to join the digital-gardens organization on GitHub?
+
+> You've invited eduard
+to digital-gardens! They'll be receiving an email shortly.
+
+@Eduard Laifr
+
+Give them an appropriate role in the organization and add them to some teams to give access to repositories.
+
+Role in the organization
+Member
+Membe
+
+Invitation expired. User did not accept this invite for 7 days
+
+mohla bys prosim do  7 dnu prijmout this invitation to join the digital-gardens organization on GitHub?
+
+@
+
+
+https://github.com/orgs/digital-gardens/people/failed_invitations
+https://github.com/orgs/digital-gardens/people/failed_invitations
+Give them an appropriate role in the organization and add them to some teams to give access to repositories.
+
+Role in the organization
+Member
+
+Membe
+
+
+
+
+# 260308 Zpráva pro Charri o financích
+
+bkup do obsidian vaultu
+
+
+
+ahoj Charri
+
+je zajímavé co píšeš. 💚 edit. diky i za screenshot
+
+mrzí mě, že kvůli své invaliditě já nemůžu spolupracovat víc.. mám velmi málo duševní energie. důležité povinnosti zanedbávám roky
+
+> . Ja jsem nepozorovala na chvili kolik Dollaru
+
+to je v pohodě 💚 
+
+jsem příjemně překvapený jak je to zatím levné
+
+můj invalidní důchod je asi 15 tisíc měsíčně
+
+10. mám tam poslat dalších 10 nebo 20 dolarů?
+
+20. ℹ️ℹ️ ale do roku 2030 bych rád gpt opustil
+už teď používám jen Gemini
+
+30. ℹ️ℹ️ℹ️ platím tarif Gemini pro 6 lidí
+
+40. a uvažuji o Claude
+aby pomáhal mým rodičům klikat
+
+@
+
+# 07-50let-26030 meta téma na roky
+
+## connect
+
+maybe i would like 
+to *connect* with other people
+to share and discuss the coping strategies 
+how to help our elderly parents, 
+to cope with the fact that it is very hard for them to learn something permanently
+especially navigating computers (Windows), web, mobiles (Android) 
+
+When you are ready to post in these communities, you will get the best responses if you share the philosophy you’ve already started building. People will love your analytical approach.
+
+my computing branches 3, 4, 5, 
+
+who are 80 years old, 
+
+ around 50 years of age, who are interested in the topic of brain changes around 40 and 50 years of age, and possibilities to learn something permanently, and coping strategies when it is very hard to learn something permanently
+
+and most importantly,
+
+
+
+
+
+
+## mozna zalozit reuse my subreddit
+r/tech la bo 
+
+klid to je jen reddit nikoli chat google
+	prominte, muj brain dump 
+	popisuji moje 
+meta 07-50let-26030
+tags 
+
+Claude in chrome extension for seniors with mild cognitive impairment to help them click and navigate computers and web 
+
+https://www.reddit.com/r/tasker/comments/7e8ytv/request_im_43_with_dementia_looking_for_help_to/
+https://www.reddit.com/r/AgingParents/comments/1onm9qy/helping_my_79yearold_dad_with_tech_is_turning/
+https://www.reddit.com/r/Millennials/comments/1jzcr74/parents_acting_like_theyve_never_used_technology/
+https://www.reddit.com/r/ArtificialInteligence/comments/1bsf9mi/my_parents_are_getting_dementia_can_ai_help/
+https://www.reddit.com/r/AgingParents/comments/1lsy4m9/im_losing_my_mind_being_their_247_tech_support_is/
+
+https://www.reddit.com/r/TechForAgingParents/
+https://www.reddit.com/r/DementiaTech/top/?t=all
+
+## topic: tags: 50 50yo theory 260308 
+
+hypotheses about brain changes around 40 years of age, and around 50 years of age ... possibilities to learn something permanently, and coping strategies, when it is very hard to  learn something permanently
+
+
+that is  interesting ... please translate to Czech, maybe i will discuss it with my parents (i am 50, they are 80)
+
+hypotézy o změnách mozku kolem 40 let věku, a kolem 50 let věku ... možnosti něco se trvale naučit, a "coping strategies" při nemožnosti se něco trvale naučit 
+
+// English for "hypotéza" is
+// English for "hypotéza" is "hypothesis", but in the context of "hypotéza o 50yo" it might be more appropriate to use "theory" or "idea".
+
+## téma: tags: 011-POMOC 50 50yo theory 260308 Windows ovládání okna NAPOVEDA HELP
+hypotézy o změnách mozku po 50 letech věku ... možnosti něco se trvale naučit, a "coping strategies" při nemožnosti se něco trvale naučit ... např.
+- trochu pokročilejší ovládání Windows, 
+- kopírování textu z jednoho okna do druhého, 
+- přecházení mezi okny, 
+- používání pravého tlačítka myši, 
+- jak znovu otevřít soubor OneDrive\Dokumenty\011-POMOC\011-POMOC.txt, když si nemohu zapamatovat, že ten folder a ten soubor vůbec existuje
+
+
+// pozn... toto je  /share/continue/ od Gemini pro mého tátu ... originál a popř. pokračování je v účtu JB https://gemini.google.com/app/0004202846b6b81f   
+
+
+// kopie z diskuse https://gemini.google.com/app/aa44f605a9f4ccc0
+
+Zjednodušení plochy: Můžeme skrýt všechny zbytečné ikony a nechat tam jen 3–4 obrovské dlaždice/ikony s jasnými názvy (např. "INTERNET", "FOTKY", "POMOC").
+
+
+
+
+Základním kamenem naší strategie musí být upřímné přijetí faktu: Táta si ty postupy pravděpodobně už nezapamatuje, a nemá smysl ho do toho nutit. Frustrace z toho, že "už to zase zapomněl", blokuje schopnost učit se úplně.
+
+Místo trénování paměti musíme upravit prostředí. Počítač musí být "vyzpytatelný" a nesmí dělat nečekané věci.
+
+Vypnutí "Přichytávání oken" (Snap Assist): Víte, jak se okno zvětší na půlku obrazovky, když s ním omylem narazíte do okraje monitoru? Pro seniora je to naprostý chaos.
+
+Maximalizace jako standard: Naučte tátu pracovat vždy jen v jednom okně přes celou obrazovku. Zabrání to kliknutí "vedle" do jiného okna, které ho vyruší.
+
+Přepínání přes Hlavní panel (spodní lištu): Klávesová zkratka Alt+Tab je moc abstraktní. Nastavte Hlavní panel tak, aby se na něm neslučovala tlačítka (aby každé otevřené okno mělo svůj široký obdélník s textem, nejen malou ikonku). Táta tak vždy uvidí, co má otevřené, a přepne se jedním kliknutím.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ale filosofie antifragile je dulezitejsi 
 
 
 # 260305-chrome-console-textutils-browserEEV
