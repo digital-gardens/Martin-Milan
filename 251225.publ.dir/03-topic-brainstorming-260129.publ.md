@@ -839,7 +839,22 @@ aby pomáhal mým rodičům klikat
 
 @
 
-# 07-50let-26030 meta téma na roky
+# convert hsv 8 100 100 ... to rgb and hex
+HSV (8, 100, 100) corresponds to RGB and the hexadecimal color code ?? 
+#FF0000.
+#FFff00.
+#FF8000.
+#FF7000.
+#FF6000.
+#FF5000.
+#FF4000.
+#FF3000.
+#FF2000.
+#FF1000.
+#FF0000.
+#FF8000.
+
+# 07-50let-26030 multi téma na roky
 
 ## connect
 
