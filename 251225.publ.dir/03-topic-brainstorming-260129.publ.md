@@ -839,22 +839,19 @@ aby pomáhal mým rodičům klikat
 
 @
 
-# convert hsv 8 of 100, 100 100 ... to rgb and hex
+# philips hue apps # convert hsv 8 of 100, 100 100 ... to rgb and hex
+// tags: philips hue 251023
+// #FF8000
+
+[[Philips-Hue-251023-02x-03x-06x-07x.f8.md]]
+"C:\Users\marti\OneDrive\Dokumenty\251119Philips-Hue-251023-02x-03x-06x-07x\Datastore_001788FFFE611B8E.txt.f8.json"
+win + q    hue
+  #FF0000 not win + q philips
+#FF0000 8 of 100, not of 255, not of 360
 8 of 100 is half of 17 of 100, which corresponds to 17% of the hue spectrum. The hue spectrum is typically represented as a circle of 360 degrees, so 17% of 360 degrees is approximately 61.2 degrees.
-HSV (60, 100, 100) corresponds to RGB and the hexadecimal color code ?? 
-HSV (30, 100, 100) corresponds to RGB and the hexadecimal color code ?? 
-#FF0000.
-#FFff00.
-#FF8000.
-#FF7000.
-#FF6000.
-#FF5000.
-#FF4000.
-#FF3000.
-#FF2000.
-#FF1000.
-#FF0000.
-#FF8000.
+HSV (60, 100, 100) corresponds to RGB and the hexadecimal color code #FFFF00, which is a bright yellow color.
+HSV (30, 100, 100) corresponds to RGB and the hexadecimal color code #FF8000, which is a bright orange color.
+#FF0000.  #FFff00. #FF8000. #FF7000. #FF6000. #FF5000. #FF4000. #FF3000. #FF2000. #FF1000. #FF0000. #FF8000.
 
 # 07-50let-26030 multi téma na roky
 
