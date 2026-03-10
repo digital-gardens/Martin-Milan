@@ -839,8 +839,10 @@ aby pomáhal mým rodičům klikat
 
 @
 
-# convert hsv 8 100 100 ... to rgb and hex
-HSV (8, 100, 100) corresponds to RGB and the hexadecimal color code ?? 
+# convert hsv 8 of 100, 100 100 ... to rgb and hex
+8 of 100 is half of 17 of 100, which corresponds to 17% of the hue spectrum. The hue spectrum is typically represented as a circle of 360 degrees, so 17% of 360 degrees is approximately 61.2 degrees.
+HSV (60, 100, 100) corresponds to RGB and the hexadecimal color code ?? 
+HSV (30, 100, 100) corresponds to RGB and the hexadecimal color code ?? 
 #FF0000.
 #FFff00.
 #FF8000.
