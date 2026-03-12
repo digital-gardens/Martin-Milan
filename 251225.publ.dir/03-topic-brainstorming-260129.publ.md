@@ -952,11 +952,41 @@ Přepínání přes Hlavní panel (spodní lištu): Klávesová zkratka Alt+Tab 
 
 
 
+# spiritual kvintet radio 
+brontosaurus
+https://open.spotify.com/playlist/37i9dQZF1E4mQKPhUS8XkM
+
+
+
+Na kameni kámen (1985): LP a MC – Panton, 1986: CD – BMG; reedice 1991: CD – Panton, 1995: CD – Panton
+20 let, Supraphon 1984, reedice 1993
+
+Spirituály a balady, Supraphon 1978, reedice 1995, 2007
+
+Písničky z roku raz dva, Supraphon 1973, reedice 2003
+https://open.spotify.com/artist/1q1wIf1NIwUMVpE8B2XDWD/discography/all
+
+https://cs.wikipedia.org/wiki/Spiritu%C3%A1l_kvintet#Diskografie
+
+
+
+
+
+
+
+
 
 
 
 
 # ale filosofie antifragile je dulezitejsi 
+
+
+
+
+
+
+
 
 
 # 260305-chrome-console-textutils-browserEEV
