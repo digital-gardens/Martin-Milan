@@ -392,15 +392,30 @@ $NumpadDot::Send {;}
 
 ;2024-06 =~~= 246    CUT COPY PASTE ^x  ^c  ^v
 
+; 260313
+;;;# 260313 testing ^x ^c ^v ins  file:///C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
 
-Launch_Mail::Send ^x
-;$NumpadDiv::Send ^x
 
-Launch_App2::Send ^c
-;$NumpadMult::Send ^c
+Browser_Favorites::Send ^x
+; ins isnt yet at C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
 
-Launch_App1::Send ^v
-;$NumpadSub::Send ^v
+Launch_Mail::Send ^c
+;Launch_Mail::Send ^x
+;;;$NumpadDiv::Send ^x
+
+$Browser_Home::Send ^v
+;Launch_App2::Send ^c
+;;;$NumpadMult::Send ^c
+
+;see also
+; 260313
+;;;$Insert::
+;$Browser_Home::
+;Launch_App2::
+
+Launch_App1::Send ^a
+;Launch_App1::Send ^v
+;;;$NumpadSub::Send ^v
 
 
 ;;;old 2023-08 =~~= 238   ARROWS
@@ -562,10 +577,15 @@ Launch_App1::Send ^v
 
 
 
+; 260313
+;see also
+; 260313
+;Browser_Favorites
 
-;$Insert::
+;;;$Insert::
+;$Browser_Home::
 
-$Browser_Home::
+Launch_App2::
 {
 	Send, {Click 3}
 	Sleep, 400

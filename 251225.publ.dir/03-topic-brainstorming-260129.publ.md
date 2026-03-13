@@ -970,14 +970,18 @@ https://cs.wikipedia.org/wiki/Spiritu%C3%A1l_kvintet#Diskografie
 
 
 
+# wiki transclusion with parameters
+
+example:
+
+```
+{{#invoke:TemplateName|functionName|param1=value1|param2=value2}}
+```
+{{MyTiddler##index}} transcludes a specified indexed property of a DataTiddler
 
 
-
-
-
-
-
-
+# kyberprostor s zachováním informace ... trvalá paměť ... paměťový prostor 
+# a ať po evoluce řeší 
 
 # ale filosofie antifragile je dulezitejsi 
 

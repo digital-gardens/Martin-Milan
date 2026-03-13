@@ -1,6 +1,22 @@
 
 
 
+;;;# 260313 testing ^x ^c ^v ins  C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
+260313
+260210
+
+téma 00111-music pro lepsi dychani 🎵 🎵
+zpěvník Já písnička, music, singing
+
+píseň Tumša nakte 🎵 Nu, Dieviņ(i): Nyní, Bože / Božíčku tava vaļa: tvoje vůle / tvá moc nu tavāi rociņā(i): nyní ve tvých rukou ...Celkově to znamená: "Nyní je to, Božíčku, tvoje vůle, nyní je to ve tvých rukou..
+
+00 písnička málo související ... Tvůj tajný sen, tu touhu já znám
+00 písnička málo související ... žít svůj sen
+
+260306-co-person coMM iMM
+
+
+
 260210
 
 
