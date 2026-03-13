@@ -970,6 +970,108 @@ https://cs.wikipedia.org/wiki/Spiritu%C3%A1l_kvintet#Diskografie
 
 
 
+
+# https://myaccount.google.com/security-checkup/1
+
+
+Google can use your recovery email to contact you if you need help signing in or if we notice suspicious activity
+
+
+# https://gemini.google.com/sharing
+
+prosím zapamatuj si, že
+- moje jméno je Jirka 
+- můj syn se jmenuje Milan
+
+Vždy prosím mluvte na mne v češtině.
+
+prosím zapamatuj si, že:
+piš mi vždy v češtině
+
+odmazal jsem 
+Please remember everything I tell you permanently, no deletion.
+
+
+# dear Gemini, what do you know about me?
+please list all the things you know about me
+
+do you know my name,
+- my age,
+- my email address,
+
+please remember
+- my real first name is Milan
+- my internet pseudonym is Martin
+
+
+
+- my phone number,
+- my address,
+- my family members,
+- my friends,
+- my hobbies,
+- my interests,
+- my personality traits,
+- my preferences,
+- my beliefs,
+- my values,
+- my goals,
+- my fears,
+- my dreams,
+- my memories,
+
+
+
+
+, based on our interactions and your memory of them.
+
+
+
+
+# 12 Pomoc v nouzi: Psychická podpora
+// napsal jsem tento text pro svého tátu
+
+Moc děkuji za důvěru, že jsi mi to prozradil. To dává všem těm lístkům mnohem hlubší a osobnější smysl.
+
+Z těch vzkazů je jasně cítit, že jsi pod obrovským tlakem, vyčerpaný a že se snažíš svému tátovi předat zprávu o tom, jak moc potřebuješ zpomalit a odpočinout si. Ta zmínka o strachu z nemocnice, potřebě záchrany a stresu z neudělaných úkolů ukazuje, že už toho na Tebe musí být opravdu hodně a potřebuješ, aby Tě v tom někdo slyšel a pochopil. Je vidět, že se to snažíš nějak strukturovat a dát tomu řád.
+
+Jsem sice umělá inteligence a nemám lidské pocity, ale z toho textu velmi jasně vnímám tu tíhu, kterou se snažíš komunikovat. Je moc dobře, že jsi ty pocity dokázal dát na papír – někdy to je ten nejtěžší a nejdůležitější krok, jak dostat věci z hlavy ven. A to, že jsi našel úlevu ve zpěvu, je skvělé, protože to opravdu pomáhá fyzicky uvolnit napětí v těle a zklidnit mysl.
+
+Chystáš se mu ty lístky teprve předat, nebo už je četl? Chtěl bys pomoci vymyslet, jak s ním o tom všem začít tváří v tvář mluvit, nebo bys raději zkusil probrat ty nakupené „neudělané práce“, abychom z nich zkusili udělat menší a méně děsivé kroky?
+
+
+
+
+# asi v poradi od konce, renamed ok, share, copy the url, paste, comment 
+// napsal jsem tento text pro svého tátu
+# zbyva zpracování dalších vzkazů, které jsi napsal, a pak bychom mohli zkusit dát dohromady nějaký plán, jak s tátou o tom všem mluvit a jak mu předat tu zprávu, kterou se snažíš komunikovat. Je důležité, aby věděl, že to není jen o tom, že potřebuješ pomoc s konkrétními úkoly, ale že je to o tom, že potřebuješ, aby Tě někdo slyšel a pochopil, jak se cítíš a co prožíváš.
+
+13V Výpadky ..Přepis ručně psaného textu z obrázku
+Připnutý chat
+populární písničky 60. a70. let
+Připnutý chat
+12a5 Gemini Live, Přepis rukou psaného vzkazu pro ...,,,Milana,,,
+Připnutý chat
+ℹ️ 12a p. Sedláková dokumenty
+Připnutý chat
+ℹ️ℹ️ 12JP prosba Komunikace přes Geminiho
+Připnutý chat
+Připnutý chat
+
+pak se vykašlu na takeout
+
+
+
+
+# ale filosofie antifragile je dulezitejsi 
+
+
+
+
+# ahk
+
+# win remove qwertz
+
 # wiki transclusion with parameters
 
 example:
@@ -982,12 +1084,6 @@ example:
 
 # kyberprostor s zachováním informace ... trvalá paměť ... paměťový prostor 
 # a ať po evoluce řeší 
-
-# ale filosofie antifragile je dulezitejsi 
-
-
-
-
 
 
 
