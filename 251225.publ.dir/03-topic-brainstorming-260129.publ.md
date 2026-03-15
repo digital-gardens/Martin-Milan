@@ -1,7 +1,14 @@
 ---
 tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
 ---
+314 scan from the end backwards 
+# 13V etc. , zbyva 5 chatuu 
+# jvb https://myaccount.google.com/security-checkup/1
+
 continuation 1100
+// a related Beatles song:  
+// a related Czech song:  
+
 
 DONT PUBLISH EMAIL addresses 
 FIND
@@ -33,6 +40,18 @@ proskenil, prelil radky tohoto 1..700
 # téma 0111-music 🎵 🎵 
  zpěvník já písnička music singing
 píseň Tumša nakte 🎵 
+
+https://gemini.google.com/saved-info
+I need reminders after each message to take small breaks, hum something, or review my topic 0112.
+
+after every response
+
+please remember:
+after each message, try to mention a related Beatles song, or a related Czech song 
+
+
+🎵 Speaking of remembering things, this naturally brings to mind "In My Life" by The Beatles!
+
 
 # téma 0112-belly-peristaltika-obnovit-trávení
 
@@ -66,7 +85,9 @@ how to ask copilot ... what are all possibilities
 (select the text) 
 no need to copy?
 - f1 rewrite
-- ...
+- f1 copilot
+
+// a related Beatles song: 
 
 ## AI answer
 
@@ -90,15 +111,7 @@ How can I ask Copilot to rewrite my text? What are all the available options?
 - Open the Copilot Chat panel and enter your request.
 - Some editors may offer additional rewrite or refactor commands.
 
-
-
-
-
-
 please rewrite my text, maybe using better synonyms
-
-
- the AI in vscode
 
 
 # Magical seven plus minus two
@@ -895,6 +908,11 @@ HSV (60, 100, 100) corresponds to RGB and the hexadecimal color code #FFFF00, wh
 HSV (30, 100, 100) corresponds to RGB and the hexadecimal color code #FF8000, which is a bright orange color.
 #FF0000.  #FFff00. #FF8000. #FF7000. #FF6000. #FF5000. #FF4000. #FF3000. #FF2000. #FF1000. #FF0000. #FF8000.
 
+
+
+
+
+
 # 07-50let-26030 multi téma na roky
 
 ## connect
@@ -1012,11 +1030,10 @@ https://cs.wikipedia.org/wiki/Spiritu%C3%A1l_kvintet#Diskografie
 
 
 
-
-# https://myaccount.google.com/security-checkup/1
-
+# jvb https://myaccount.google.com/security-checkup/1
 
 Google can use your recovery email to contact you if you need help signing in or if we notice suspicious activity
+
 
 
 # https://gemini.google.com/sharing
@@ -1084,7 +1101,7 @@ Chystáš se mu ty lístky teprve předat, nebo už je četl? Chtěl bys pomoci 
 
 
 
-# asi v poradi od konce, renamed ok, share, copy the url, paste, comment 
+# 13V etc. , zbyva 5 chatuu,  asi v poradi od konce, renamed ok, share, copy the url, paste, comment 
 // napsal jsem tento text pro svého tátu
 # zbyva zpracování dalších vzkazů, které jsi napsal, a pak bychom mohli zkusit dát dohromady nějaký plán, jak s tátou o tom všem mluvit a jak mu předat tu zprávu, kterou se snažíš komunikovat. Je důležité, aby věděl, že to není jen o tom, že potřebuješ pomoc s konkrétními úkoly, ale že je to o tom, že potřebuješ, aby Tě někdo slyšel a pochopil, jak se cítíš a co prožíváš.
 
@@ -1199,30 +1216,30 @@ example sentence:
 S-V-O structure of the example sentence above:
 
 
+- Sauron the Dark Lord ...
+  - secretly forged ...
+    - a master ring
+    - in the land of Mordor
+    - in the fires of Mount Doom
+
+- SUBJECT ...
+  - VERB ...
+    - OBJECT
+    - MODIFIERS
+
+
+what could be good names for this project of mine (i am just a hobbyist) 
+
+
 NOTE:  the XML tag  <semi-structured> ...
 the pseudo-HTML tag  <semi-structured> ...
 I do not know, how would markdown react to this tag, 
 but it is just my placeholder to indicate that this is a semi-structured representation, and does not have any specific meaning or functionality
 
 <semi-structured>
-- Sauron the Dark Lord ...
-  - secretly forged ...
-    - a master ring
-    - in the land of Mordor
-    - in the fires of Mount Doom
 </semi-structured>
-
 <semi-structured>
-- SUBJECT ...
-  - VERB ...
-    - OBJECT
-    - MODIFIERS
 </semi-structured>
-
-
-what could be good names for this project of mine (i am just a hobbyist) 
-
-
 
 
 # is there already something like this in the world?
@@ -1435,9 +1452,9 @@ is there already something like this in the world?
 
 
 
-# ale filosofie antifragile je dulezitejsi 
+# ale filosofie antifragile je dulezitejsi -----------------------------------
 
-# // put new experiment notes here
+# // put new experiment notes here -----------------------------
 
 
 
