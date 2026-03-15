@@ -9,7 +9,7 @@ tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím 
 // a related Beatles song:  
 // a related Czech song:  
 
-# 260315--reddit-bug--losing-posts  in   1-user subreddits
+# 260315--reddit-bug--losing   1-user subreddits
 
 # DONT PUBLISH EMAIL addresses 
 FIND
@@ -1163,7 +1163,7 @@ example:
 
 
 
-# 260315--reddit-bug--losing-posts  in   1-user subreddits
+# 260315--reddit-bug--losing ?    1-user subreddits
 
 bug https://www.reddit.com/user/martin_m_n_novy/
 fail https://new.reddit.com/user/martin_m_n_novy/
@@ -1173,10 +1173,10 @@ lists all https://old.reddit.com/user/martin_m_n_novy/
 
 
 afraid losing 
-todo https://www.reddit.com/r/code_rosettas/
+# todo https://www.reddit.com/r/code_rosettas/
 
 already unlisted 
-todo https://www.reddit.com/r/survival_of_our_info/
+# todo https://www.reddit.com/r/survival_of_our_info/
 
 
 
@@ -1192,9 +1192,12 @@ https://www.reddit.com/r/a:t5_4sdxhh/
 
 why it is unlisted https://www.reddit.com/r/autistic_self_help/
 
-mitigation strategy for reddit bug of losing posts in 1-user subreddits
+# mitigation strategy for reddit bug of losing 1-user subreddits
 
-copied to obsidian vault
+# copied to obsidian vault
+https://old.reddit.com/r/code_rosettas/
+survival_of_our_info
+
 renamed to r..a..t5_4sdxhh
 mobileBatterySafety
 
