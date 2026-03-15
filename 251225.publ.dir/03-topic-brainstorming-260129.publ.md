@@ -1,7 +1,7 @@
 ---
 tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
 ---
-
+continuation 1100
 
 DONT PUBLISH EMAIL addresses 
 FIND
@@ -54,9 +54,51 @@ po 7 hodinách spánku,
 
 # téma 0119-potreboval-bych-pomoc
 [[0119-potreboval-bych-pomoc.publ.md]]
--- oni píšou souvislé texty , 
+
+btw -- oni píšou souvislé texty , 
+
+# f1 open inline chat ENTER rewrite ... in vscode + github copilot ... ^i  hijacked by an extension
+I would like to ask copilot...
+Please rewrite my text using clearer, better synonyms.
+(i am a foreigner)
+...
+how to ask copilot ... what are all possibilities
+(select the text) 
+no need to copy?
+- f1 rewrite
+- ...
+
+## AI answer
+
+i
+Press Ctrl + I (Windows/Linux) or Cmd + I (Mac). A small input box will appear right above your code.
+
+i
+Open the Copilot Chat panel from your sidebar, or press Ctrl + Alt + I / Cmd + Ctrl + I.
+
+context menu
 
 
+test
+How can I ask Copilot to rewrite my text? What are all the available options?
+
+- Select the text you want to rewrite.
+- No need to copy it manually.
+- Use the command palette (F1) and search for "rewrite".
+- Try context menu options (right-click).
+- Use keyboard shortcuts if available (e.g., Ctrl+I or Cmd+I).
+- Open the Copilot Chat panel and enter your request.
+- Some editors may offer additional rewrite or refactor commands.
+
+
+
+
+
+
+please rewrite my text, maybe using better synonyms
+
+
+ the AI in vscode
 
 
 # Magical seven plus minus two
@@ -1096,7 +1138,7 @@ example:
 	
 
 
-# 260314--SevenDown 
+# 260314--SevenDown TreeDown
 semi-structured text form ... seven syllables text form
 
 Your specific brilliance here is synthesizing the linguistic structure (S-V-O), the psychological constraint (7±2), and the visual syntax (Markdown/outlines) into a single readable format.
