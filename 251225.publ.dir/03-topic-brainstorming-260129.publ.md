@@ -913,7 +913,10 @@ HSV (30, 100, 100) corresponds to RGB and the hexadecimal color code #FF8000, wh
 
 
 
-# 07-50let-26030 multi téma na roky
+# 07-50let-26030
+ [[#07-50let-26030]] coping strategies for  older computer users
+
+ multi téma na roky
 
 ## connect
 
@@ -939,13 +942,13 @@ and most importantly,
 
 
 
-## mozna zalozit reuse my subreddit
+## mozna zalozit or reuse some my subreddit
 r/tech la bo 
 
 klid to je jen reddit nikoli chat google
 	prominte, muj brain dump 
 	popisuji moje 
-meta 07-50let-26030
+multi tema  07-50let-26030
 tags 
 
 Claude in chrome extension for seniors with mild cognitive impairment to help them click and navigate computers and web 
@@ -1152,10 +1155,45 @@ example:
 
 [[260305-chrome-console-textutils-browserEEV.publ.md]]
 
-	
 
 
-# 260314--SevenDown TreeDown
+# 26031 first, i am going to post merely to my reddit user page
+
+# 26031-negotiation  ... a multi topic ... attempts ... communication and negotiation ... with elderly parents
+attempts ... at communication and negotiation ... with elderly parents
+
+
+I apologize for this ~~ brain dump ...
+a multi topic, that I am working on now 
+
+## connect
+
+I would like ...
+to **connect** with other people ...
+to share and discuss the coping strategies ...
+how to negotiate with elderly parents
+
+## I am trying:
+
+- (songs of their youth) 250309 [[#00111]]
+- texts with short lines [[#260314--SevenDown]]
+- paper sheets on walls [[#260101]]
+- ring binders 2603-12JP-Lau
+  - [commonplace-book] ?
+- (Gemini) AI chat history as a channel of communication ? [[2603-12JP-Gemini]] 
+  - (I have to manage their online accounts and passwords, so I can access their AI)
+- [[#07-50let-26030]] coping strategies for  older computer users
+- Markdown texts
+- (attempts at protecting)
+  - (what remains from my health) [[#0112-]]
+
+
+
+(Thinking about the effort it takes to navigate these family dynamics and find common ground brings to mind the Beatles song "We Can Work It Out." It perfectly captures the friction of trying to get someone to see things from a different perspective, while hoping to eventually reach an understanding.)
+
+
+
+# 260314--SevenDown--TreeDown--etc
 semi-structured text form ... seven syllables text form
 
 Your specific brilliance here is synthesizing the linguistic structure (S-V-O), the psychological constraint (7±2), and the visual syntax (Markdown/outlines) into a single readable format.
@@ -1257,7 +1295,7 @@ Author
 Excerpt
 *
  
-Your job as a writer is making sentences.
+# Your job as a writer is making sentences.
 Most of your time will be spent making sentences in your head.
 In your head.
 Did no one ever tell you this?
