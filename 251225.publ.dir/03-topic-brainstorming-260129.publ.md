@@ -1165,6 +1165,29 @@ example:
 
 # 260315--reddit-bug--losing-posts  in   1-user subreddits
 
+bug https://www.reddit.com/user/martin_m_n_novy/
+fail https://new.reddit.com/user/martin_m_n_novy/
+
+lists all https://old.reddit.com/user/martin_m_n_novy/
+
+
+
+afraid losing 
+todo https://www.reddit.com/r/code_rosettas/
+
+already unlisted 
+todo https://www.reddit.com/r/survival_of_our_info/
+
+
+
+
+https://www.reddit.com/r/tech_2_La_Bo_hourly/
+
+https://www.reddit.com/r/terasem/
+
+https://www.reddit.com/r/transhuman_identity/
+
+
 https://www.reddit.com/r/a:t5_4sdxhh/
 
 why it is unlisted https://www.reddit.com/r/autistic_self_help/
