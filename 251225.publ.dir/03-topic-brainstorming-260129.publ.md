@@ -5,12 +5,13 @@ tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím 
 # 13V etc. , zbyva 5 chatuu 
 # jvb https://myaccount.google.com/security-checkup/1
 
-continuation 1100
+# continuation 1100
 // a related Beatles song:  
 // a related Czech song:  
 
+# 260315--reddit-bug--losing-posts  in   1-user subreddits
 
-DONT PUBLISH EMAIL addresses 
+# DONT PUBLISH EMAIL addresses 
 FIND
 @g
 
@@ -49,8 +50,13 @@ after every response
 please remember:
 after each message, try to mention a related Beatles song, or a related Czech song 
 
+please remember:
+after each message, try to add a related emoji or two 
 
 🎵 Speaking of remembering things, this naturally brings to mind "In My Life" by The Beatles!
+Speaking of adding a little something extra to the mix, this feels a bit like the colorful additions in "Penny Lane" by The Beatles! 🎺🖼️
+
+
 
 
 # téma 0112-belly-peristaltika-obnovit-trávení
@@ -1157,6 +1163,25 @@ example:
 
 
 
+# 260315--reddit-bug--losing-posts  in   1-user subreddits
+
+https://www.reddit.com/r/a:t5_4sdxhh/
+
+why it is unlisted https://www.reddit.com/r/autistic_self_help/
+
+mitigation strategy for reddit bug of losing posts in 1-user subreddits
+
+copied to obsidian vault
+renamed to r..a..t5_4sdxhh
+mobileBatterySafety
+
+edit no, i am afraid ...will not ... will share to u/
+# https://www.reddit.com/r/productivity/comments/1gr0ogu/i_find_myself_being_more_productive_by_eating_less/
+
+
+
+
+
 # 26031 first, i am going to post merely to my reddit user page
 
 # 26031-negotiation  ... a multi topic ... attempts ... communication and negotiation ... with elderly parents
@@ -1184,11 +1209,12 @@ how to negotiate with elderly parents
   - (I have to manage their online accounts and passwords, so I can access their AI)
 - [[#07-50let-26030]] coping strategies for  older computer users
 - Markdown texts
-- (attempts at protecting)
-  - (what remains from my health) [[#0112-]]
 
 
+## - (attempts at protecting) ...   - (what remains from my health) [[#0112-]]
 
+
+// I asked my AI to suggest songs 🎵 
 (Thinking about the effort it takes to navigate these family dynamics and find common ground brings to mind the Beatles song "We Can Work It Out." It perfectly captures the friction of trying to get someone to see things from a different perspective, while hoping to eventually reach an understanding.)
 
 
