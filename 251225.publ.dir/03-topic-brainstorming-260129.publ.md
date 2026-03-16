@@ -778,7 +778,7 @@ Jedna plastova noha naprosto nesla prisroubovat, az vetsi sroub a sila to spravi
 
 
 
-- 00 písnička málo související ... Tvůj tajný sen, tu touhu já znám
+# - 00 písnička málo související ... Tvůj tajný sen, tu touhu já znám
 - 00 písnička málo související ... žít svůj sen
 
 
@@ -1039,6 +1039,12 @@ https://cs.wikipedia.org/wiki/Spiritu%C3%A1l_kvintet#Diskografie
 
 
 
+
+
+
+
+
+
 # jvb https://myaccount.google.com/security-checkup/1
 
 Google can use your recovery email to contact you if you need help signing in or if we notice suspicious activity
@@ -1131,6 +1137,11 @@ pak se vykašlu na takeout
 
 
 
+
+
+
+
+
 # ale filosofie antifragile je dulezitejsi 
 
 
@@ -1155,11 +1166,17 @@ example:
 
 
 
-
-
 # 260305-chrome-console-textutils-browserEEV
 
 [[260305-chrome-console-textutils-browserEEV.publ.md]]
+
+
+
+
+
+
+
+
 
 
 
@@ -1208,6 +1225,11 @@ edit no, i am afraid ...will not ... will share to u/
 
 
 
+
+
+
+
+
 # 26031 first, i am going to post merely to my reddit user page
 
 # 26031-negotiation  ... a multi topic ... attempts ... communication and negotiation ... with elderly parents
@@ -1227,7 +1249,7 @@ how to negotiate with elderly parents
 ## I am trying:
 
 - (songs of their youth) 250309 [[#00111]]
-- texts with short lines [[#260314--SevenDown]]
+- texts with short lines [[#260314-]]
 - paper sheets on walls [[#260101]]
 - ring binders 2603-12JP-Lau
   - [commonplace-book] ?
@@ -1245,12 +1267,60 @@ how to negotiate with elderly parents
 
 
 
-# 260314--SevenDown--TreeDown--etc
-semi-structured text form ... seven syllables text form
+
+scan 26031 
+# 260314 i am going to post merely to my small subreddit r/tree_notations 
+
+# 260314-texts with short lines ...
+ short-lines text form ...
+in prose
+
+ a multi-topic ... 
+
+I apologize for this ~~ brain dump ...
+a multi topic, that I am working on now 
+
+
+I wish it could be useful for
+- trying to  negotiate with an older family member
+- tired readers 
+- more readable legalese e.g. gnu general public license 
+- more readable presentations ... slides 
+
+
+design dimensions 
+
+- source vs rendered text
+- flat vs hierarchical structure
+- line breaks vs bullet points
+- whether 7±2 syllables per line
+- markdown vs TSV 
+- visual syntax ?? vs natural language syntax S-V-O ??
+
+formats, ordered roughly from less radical to more radical, and from more general to more specific:
+
+- short lines in source text
+  - semantic line breaks, ventilated prose
+  
+- short lines in rendered text
+  - lists
+    - line breaks in rendered text
+    - bullet points
+  - trees 
+
+     - bullet trees 
+
+
+
+semi-structured text form ... 
+
+
+- 7±2 syllables per line, to match human working memory capacity
+
+SevenDown--
+seven syllables text form
 
 Your specific brilliance here is synthesizing the linguistic structure (S-V-O), the psychological constraint (7±2), and the visual syntax (Markdown/outlines) into a single readable format.
-
-1. Semantic Linebreaking (or "Ventilated Prose")
 
 
 
@@ -1274,18 +1344,18 @@ You are spot on! You are remembering one of the most famous papers in psychology
 
 
 
-i wish it could be useful for
-- trying to  negotiate with an older family member
-- tired readers 
-- more readable legalese e.g. gnu general public license 
-- more readable presentations ... slides 
-
 Would you like me to try converting a short snippet of the GNU General Public License (or a different text of your choice) into your proposed "SevenDown" format so we can see how the syntax looks in practice?
+
+
+
 
 
 
 one of my dream projects,
   is to create a semi-structured way of representing information, that is more structured than plain text, but less formal than a full ontology or knowledge graph.
+
+
+
 
 closest existing things ...
 a semi-structured format ...
@@ -1298,6 +1368,8 @@ a semi-structured format ...
 - CSV with hierarchical keys ?
 - Notation3
 - EDN ?
+
+
 - Attempto Controlled English (ACE)
 
 example sentence:
@@ -1318,7 +1390,11 @@ S-V-O structure of the example sentence above:
     - MODIFIERS
 
 
+
+
 what could be good names for this project of mine (i am just a hobbyist) 
+
+
 
 
 NOTE:  the XML tag  <semi-structured> ...
@@ -1332,28 +1408,35 @@ but it is just my placeholder to indicate that this is a semi-structured represe
 </semi-structured>
 
 
+
+
+
+
 # is there already something like this in the world?
 
 edge://accessibility/
 
 
 
-kindle
-Several Short Sentences About Writing | Penguin Random House Retail
+
+
+# kindle Several Short Sentences About Writing | Penguin Random House Retail
 https://www.penguinrandomhouseretail.com/book/?isbn=9780307279415
 About
 Praise
 Author
 Excerpt
 *
- 
+
+
 # Your job as a writer is making sentences.
 Most of your time will be spent making sentences in your head.
 In your head.
 Did no one ever tell you this?
 That is the writer's life.
 Never imagine you've left the level of the sentence behind.
- 
+
+
 Most of the sentences you make will need to be killed.
 The rest will need to be fixed.
 This will be true for a long time.
@@ -1366,7 +1449,12 @@ This will get much, much easier, but the decision making  will never end.
 
 
 
+
+# reddit zettelkasten
 Here's an example, from my own thinking last month that I'm finally getting around to trying to atomize - notice that the first line alone summarizes each entire idea or sub-idea:
+
+my/ COPYING LOST THE INDENTS
+
 
 Sanctity flows downward
 
@@ -1393,7 +1481,11 @@ https://iio.ie/sembr#:~:text=sembr,more%20clarity%20out%20of%20them.
 
 This technique is known as semantic line breaking, a concept that can be traced back to Buckminster Fuller in the 1930s. Fuller introduced the idea of “ventilated prose,” a method where sentences were broken down to match the natural rhythm of speech. His approach prioritized clarity, making it easier for readers to process and retain information. Over time, this principle has been adapted into the widely used method of semantic line breaks.
 
+
+
 The source files are written in Pandoc Markdown (Pandoc: John MacFarlane et al; GPL) (source files: Gwern Branwen, CC-0). The Pandoc Markdown uses a number of extensions; pipe tables are preferred for anything but the simplest tables; and I use semantic linefeeds (also called “semantic line breaks” or “ventilated prose”) formatting.
+
+
 
 
 
@@ -1421,6 +1513,13 @@ In 2008, I suggested using indented ventilated prose as a standard reform of Eng
 
 
 
+
+
+
+
+
+
+
 # old 260314--semi-structured
 related to my 260303-pseudo-notation3,
 
@@ -1444,6 +1543,9 @@ which of these could be called "semi-structured" ?
 
 
 
+
+
+
 # what markdown editors can gemini be integrated 
 
 Gemini CLI CompanionPreview
@@ -1462,6 +1564,8 @@ The Gemini CLI Companion extension pairs with Gemini CLI. This extension is comp
 edge://accessibility/
 
 edge://tab-search.top-chrome/
+
+
 
 # kolik bylo nas a stale nic
 
