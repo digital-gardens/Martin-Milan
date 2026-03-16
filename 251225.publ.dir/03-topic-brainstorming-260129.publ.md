@@ -1,14 +1,15 @@
 ---
 tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
 ---
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 text pisne meeting briefing brainstorming 
-
 
 314 scan from the end backwards 
 # 13V etc. , zbyva 5 chatuu 
 # jvb https://myaccount.google.com/security-checkup/1
 
 # continuation 1100
+- [26031-negotiation  ... a multi topic ... attempts ... communication and negotiation ... with elderly parents](#26031-negotiation---a-multi-topic--attempts--communication-and-negotiation--with-elderly-parents)
 // a related Beatles song:  
 // a related Czech song:  
 
@@ -1211,497 +1212,17 @@ edit no, i am afraid ...will not ... will share to u/
 
 
 
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-# 26031 first, i am going to post merely to my reddit user page
-
 # 26031-negotiation  ... a multi topic ... attempts ... communication and negotiation ... with elderly parents
-
-attempts ... at communication and negotiation ... with elderly parents .26031
-
-
-I apologize for this ~~ brain dump ...
-a multi topic, that I am working on now 
-
-## connect
-
-I would like ...
-to **connect** with other people ...
-to share and discuss the coping strategies ...
-how to negotiate with elderly parents
-
-## I am trying:
-
-- (songs of their youth) 250309 [[#00111]]
-- texts with short lines [[260314]]
-- paper sheets on walls [[#260101]]
-- ring binders 2603-12JP-Lau
-  - [commonplace-book] ?
-- (Gemini) AI chat history as a channel of communication ? [[2603-12JP-Gemini]] 
-  - (I have to manage their online accounts and passwords, so I can access their AI)
-- [[#07-50let-26030]] coping strategies for  older computer users
-- Markdown texts
-
-
-## - (attempts at protecting) ...   - (what remains from my health)  ℹ️ℹ️ℹ️ 💚💚 
-[[011-POMOC-pro-Martina-Milana.publ.md]]
-[[0112-belly-peristaltika-obnovit-trávení.publ.md]]
-[[0119-potreboval-bych-pomoc.publ.md]]
-
-
-// I asked my AI to suggest songs 🎵 
-(Thinking about the effort it takes to navigate these family dynamics and find common ground brings to mind the Beatles song "We Can Work It Out." It perfectly captures the friction of trying to get someone to see things from a different perspective, while hoping to eventually reach an understanding.)
-
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-// scanned 26031 
-texts-with-short-lines ...
- short-lines text form ...
-
-gemini
-Related Song: "We Can Work It Out" by The Beatles (A fitting anthem for negotiating with family and finding a clearer way to communicate!) 🌳 📝
-
-
-
-
-
-An example piece of legalese, converted to Tree Notation
-(my experiment ... Semantic indents ... to make legalese more readable for humans)
-
-.
- all the files
-  in this repo
- are shared
-  in the hope
-   that they will be useful to you
-  but WITHOUT ANY WARRANTY
-  without even the implied warranty
-   of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
-
-
-    - but WITHOUT ANY WARRANTY
-
-      - without even the implied warranty
-        - of MERCHANTABILITY
-	- or FITNESS
-	 FOR A PARTICULAR PURPOSE
-
-
-
-// 260314 i am going to post merely to my small subreddit r/tree_notations 
-
-
+[[26031-negotiation.publ.md]]
 
 # 260314-text-formats-with-short-lines (for prose)
-.260314
-
-
-text-formats-with-short-lines (for prose) .260314
-
-## an extreme example
-```md
-- all the files ...
-  - in this repo
-  - are shared ...
-    - in the hope ...
-      - that they will be useful to you
-```
-
-
-## I wish, short lines  could be useful for
-- trying to  negotiate with an older family member
-- tired readers 
-- more readable legalese e.g. gnu general public license 
-- more readable presentations ... slides 
-
-
-
-
-# another example sentence and transformation into various  formats
-
-> In the land of Mordor, in the fires of Mount Doom, Sauron the Dark Lord secretly forged a master ring.
-
-
-S-V-O structure of the example sentence 
-```tsv
-Sauron the Dark Lord
-	secretly forged
-		a master ring
-		in the land of Mordor 
-		in the fires of Mount Doom
-```
-
-an extreme transformation ... a bullet tree 
-
-- Sauron the Dark Lord ...
-  - secretly forged ...
-    - a master ring
-    - in the land of Mordor
-    - in the fires of Mount Doom
-
-- SUBJECT ...
-  - VERB ...
-    - OBJECT
-    - MODIFIERS
-
-
-
-
-## formats, ordered roughly from less radical to more radical, and from more general to more specific:
-
-- short lines in source text
-  - semantic line breaks, ventilated prose ... #exists
-    - examples: 
-      - Buckminster Fuller, "ventilated prose"
-- short lines in rendered text
-  - lists
-    - line breaks in rendered text
-    - bullet points
-  - trees ...   #dream-project
-     - bullet trees 
-
-
-
-
-## design dimensions 
-
-- source only vs rendered text ... visibility of the line breaks
-- flat vs hierarchical structure // nested, indents #dream-project
-- line breaks vs bullet points
-- whether 7±2 syllables per line
-- markdown vs TSV 
-- visual syntax ?? vs natural language syntax S-V-O ??
-
-
-
-
-
-
-
-
-
-# treenotations
-The things I have seen
-If you could only see the things I have seen.
-
-Lines of code moving like living cells.
-
-Communicating.
-
-Teaming up.
-
-Cooperating.
-
-Duplicating.
-
-Evolving.
-
-You would understand why I am betting everything on Scroll without worry.
-
-Scroll is the future.
-
-
-
-
-
-# ai ..please generate conversion of 1 example sentence into all these formats, to illustrate the differences and tradeoffs between them.
-
-
-
-
-# 7+/-2 syllables per line
-
-one of the most famous papers in psychology: "The Magical Number Seven, Plus or Minus Two" by George A. Miller, published in 1956.
-
-there could be seven +/- two syllables on a line, and that could be related to  human readability and comprehension, because it would match the capacity of our working memory, which can hold about seven +/- two chunks of information at a time...
-
-\*.7.\*
-
-## Magical seven plus minus two
-
-github copilot
-jak
-požádat AI,
-aby zkusila psát 
-raději
-max. 7 slov
-na řádce
-
-nebo aspoň vkládat "..." do dlouhých vět, aby se to lépe četlo a lépe se to dalo pochopit a zapamatovat
-
-
-
-srv. vědecký článek
-Magical seven plus minus two
-doporučuje 
-7 ± 2 slabik
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# kindle Several Short Sentences About Writing | Penguin Random House Retail
-https://www.penguinrandomhouseretail.com/book/?isbn=9780307279415
-About
-Praise
-Author
-Excerpt
-*
-
-
-## Your job as a writer is making sentences.
-Most of your time will be spent making sentences in your head.
-In your head.
-Did no one ever tell you this?
-That is the writer's life.
-Never imagine you've left the level of the sentence behind.
-
-
-Most of the sentences you make will need to be killed.
-The rest will need to be fixed.
-This will be true for a long time.
-The hard part now is deciding which to kill and which
-to fix and how to fix them.
-This will get much, much easier, but the decision making  will never end.
- 
-
-
-
-
-
-
-
-
-
-# semantic line breaks  
-
-
-
-https://www.google.com/search?q=Buckminster+Fuller%2C+%22ventilated+prose%22&oq=Buckminster+Fuller%2C+%22ventilated+prose%22&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOagCALACAA&sourceid=chrome&ie=UTF-8
-
-
-https://iio.ie/sembr#:~:text=sembr,more%20clarity%20out%20of%20them.
-
-
-This technique is known as semantic line breaking, a concept that can be traced back to Buckminster Fuller in the 1930s. Fuller introduced the idea of “ventilated prose,” a method where sentences were broken down to match the natural rhythm of speech. His approach prioritized clarity, making it easier for readers to process and retain information. Over time, this principle has been adapted into the widely used method of semantic line breaks.
-
-
-
-The source files are written in Pandoc Markdown (Pandoc: John MacFarlane et al; GPL) (source files: Gwern Branwen, CC-0). The Pandoc Markdown uses a number of extensions; pipe tables are preferred for anything but the simplest tables; and I use semantic linefeeds (also called “semantic line breaks” or “ventilated prose”) formatting.
-
-
-
-
-
-To me this is excellent, and beautiful, writing, though contemporary teachers of writing might not assign it a passing grade. My method of ventilating changes it to:
-
-AFTER an unequivocal experience of the inefficiency
-of the subsisting federal government,
-you are called upon to deliberate
-on a new Constitution for the United States of America.
-The subject speaks its own importance;
-comprehending in its consequences nothing less
-than the existence of the UNION,
-the safety and welfare of the parts of which it is composed,
-the fate of an empire
-in many respects the most interesting in the world.
-
-Kragen Javier Sitaker wanted to post this comment. I have done it here at his request.
-
-
-In 2008, I suggested using **indented** ventilated prose as a standard reform of English (along with other proposals which have even less chance of being adopted, one based on comics), pointing to the “VSTF” folks. I actually quoted Fuller from one of your web pages to illustrate that post!
-
- Dave Long wrote a brilliant reply, touching on the history of 20th-century orthographic reforms in the Netherlands and Switzerland, and the
- 
-  origins of word spacing (a topic previously discussed on kragen-tol and replied to with ASCII-art illuminations and comparison with Japanese) Long also pointed out that if you’re writing text for HTML, Wikis, troff, or format=flowed email, you can fearlessly ventilate as you please to aid your composition process, without alarming the reader with unconventional formatting.
-
-
-
-
-
-
-
-
-# reddit zettelkasten
-
-Here's an example, from my own thinking last month that I'm finally getting around to trying to atomize - notice that the first line alone summarizes each entire idea or sub-idea:
-
-my/ COPYING LOST THE INDENTS
-
-
-Sanctity flows downward
-
-from the divine,
-
-itself perhaps a religious abstraction of secular kingship
-
-(the concept of gods who are above humanity,
-
-as opposed to powerful otherworld beings who are merely different,
-
-is unique to hierarchical societies)
-
-
-
-
-# is there already something like this in the world?
-
-edge://accessibility/
-
-
-
-# 260314 one of my dream projects,  is to create a semi-structured way of representing information, that is more structured than plain text, but less formal than a full ontology or knowledge graph.
-
-
-
-
-- Attempto Controlled English (ACE)
-
-example sentence:
-> In the land of Mordor, in the fires of Mount Doom, Sauron the Dark Lord secretly forged a master ring.
-
-extreme transformation 
-
-S-V-O structure of the example sentence above:
-
-
-- Sauron the Dark Lord ...
-  - secretly forged ...
-    - a master ring
-    - in the land of Mordor
-    - in the fires of Mount Doom
-
-- SUBJECT ...
-  - VERB ...
-    - OBJECT
-    - MODIFIERS
-
-
-
-
-what could be good names for this project of mine (i am just a hobbyist) 
-
-sevendown?  *.7.md ?
-
-
-
-NOTE:  the XML tag  <semi-structured> ...
-the pseudo-HTML tag  <semi-structured> ...
-I do not know, how would markdown react to this tag, 
-but it is just my placeholder to indicate that this is a semi-structured representation, and does not have any specific meaning or functionality
-
-<semi-structured>
-</semi-structured>
-<semi-structured>
-</semi-structured>
-
-
-
-
-
-
-
-
-
-# old 260314--semi-structured
-
-
-
-
-
-closest existing things ...
-a semi-structured format ...
-- markdown nested bullet points
-- HTML nested lists
-- org-mode nested bullet points
-- XML
-- YAML
-- JSON
-- CSV with hierarchical keys ?
-- Notation3
-- EDN ?
-
-
-Would you like me to try converting a short snippet of the GNU General Public License (or a different text of your choice) into your proposed "SevenDown" format so we can see how the syntax looks in practice?
-
-
-
-Your specific brilliance here is synthesizing the linguistic structure (S-V-O), the psychological constraint (7±2), and the visual syntax (Markdown/outlines) into a single readable format.
-
-
-
-related to my 260303-pseudo-notation3,
-
-In computer science, semi-structured data is defined as information that does not conform to the rigid tabular structure of relational databases (structured data) but still contains tags, markers, or metadata to separate semantic elements and enforce hierarchies. 
-
-While it is technically correct, as you noted, it is almost exclusively associated with specific self-describing formats like JSON, XML, YAML, or HTML. 
-
-which of these could be called "semi-structured" ?
-"semi-structured" text form?
-"semi-structured" way of representing information?
-
-- markdown nested bullet points
-- HTML nested lists
-- org-mode nested bullet points
-- XML
-- YAML
-- JSON
-- CSV with hierarchical keys ?
-- Notation3
-- EDN ?
-
-
-
-
-
+[[260314-text-formats-with-short-lines.publ.md]]
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # what markdown editors can gemini be integrated 
 
@@ -2634,27 +2155,153 @@ find . -iname "*.publ.md" -exec grep  "260125" {} \; -print
 
 ///
 03-topic-brainstorming-260129.publ.md
+- old [[251105-symptom-tracker.f8]]
 
-table of contents
+open in another vscode workspace 260207
+
+# Table of Contents
 =================
 
 
 
-- [https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george](#httpswwwcsasczcsinternetove-bankovnictvigeorgehey-george)
+
+- [13V etc. , zbyva 5 chatuu](#13v-etc--zbyva-5-chatuu)
+- [jvb https://myaccount.google.com/security-checkup/1](#jvb-httpsmyaccountgooglecomsecurity-checkup1)
+- [continuation 1100](#continuation-1100)
+- [260315--reddit-bug--losing   1-user subreddits](#260315--reddit-bug--losing---1-user-subreddits)
+- [DONT PUBLISH EMAIL addresses](#dont-publish-email-addresses)
+- [téma 011-POMOC 💚 💚](#téma-011-pomoc--)
+- [011-POMOC-pro-Martina-Milana.publ.md](#011-pomoc-pro-martina-milanapublmd)
+- [téma 0111-music 🎵 🎵](#téma-0111-music--)
+- [téma 0112-belly-peristaltika-obnovit-trávení](#téma-0112-belly-peristaltika-obnovit-trávení)
+- [260225 scanning this file from line 1](#260225-scanning-this-file-from-line-1)
+- [key combo alt+left](#key-combo-altleft)
+- [konečně se mi daří něco psát](#konečně-se-mi-daří-něco-psát)
+- [téma 0119-potreboval-bych-pomoc](#téma-0119-potreboval-bych-pomoc)
+- [f1 open inline chat ENTER rewrite ... in vscode + github copilot ... ^i  hijacked by an extension](#f1-open-inline-chat-enter-rewrite--in-vscode--github-copilot--i--hijacked-by-an-extension)
+	- [AI answer](#ai-answer)
+- [Gemini, create a new canvas README.md, add metadata to it...](#gemini-create-a-new-canvas-readmemd-add-metadata-to-it)
+- [https://www.google.com/interests/saved/list/fNvsFNjr6yDGlNWZGAow2Q](#httpswwwgooglecominterestssavedlistfnvsfnjr6ydglnwzgaow2q)
+- [0112-belly obnovit trávení, takeout c: ...](#0112-belly-obnovit-trávení-takeout-c-)
+- [bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another](#bug-26022123-google-saved--collections-of-links--data-loss--the-link-of-a--note-when-moving--a-link-from-one-collection-to-another)
+- [ale filosofie antifragile je dulezitejsi](#ale-filosofie-antifragile-je-dulezitejsi)
+- [markdown table of contents is at the end of the file](#markdown-table-of-contents-is-at-the-end-of-the-file)
 - [\[\[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md\]\]](#260207publmdvscode-workspace---enable-all-markdown-extensionspublmd)
 - [https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md](#httpsgithubcomdigital-gardensmartin-milanblobmain251008-vscode-paste-bugf8md)
-- [stačí click the continue this chat button](#stačí-click-the-continue-this-chat-button)
+- [stačí click the continue this chat button, a pak n2co pripsat](#stačí-click-the-continue-this-chat-button-a-pak-n2co-pripsat)
 - [https://github.com/digital-gardens/Martin-Milan/tree/main/250825-%40skupina-meta-informace](#httpsgithubcomdigital-gardensmartin-milantreemain250825-40skupina-meta-informace)
-- [249s](#249s)
 - [https://github.com/digital-gardens/Martin-Milan/blob/main/README.md](#httpsgithubcomdigital-gardensmartin-milanblobmainreadmemd)
-- [0404-MAIN-INDEX ... of my web links](#0404-main-index--of-my-web-links)
-- [0404-HLAVNÍ-ROZCESTNÍK ... moje hlavní webové odkazy](#0404-hlavní-rozcestník--moje-hlavní-webové-odkazy)
+- [for my family](#for-my-family)
+- [011-POMOC NAPOVEDA HELP](#011-pomoc-napoveda-help)
+- [0404--HLAVNI-ROZCESTNIK--MAIN-INDEX ... moje hlavní webové odkazy](#0404--hlavni-rozcestnik--main-index--moje-hlavní-webové-odkazy)
 - [extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html](#extensionahmddkokfhbdbmlioknpkipoikcckpahoptionshtml)
 - [260205](#260205)
 	- [C:\\Users\\marti\\OneDrive\\Dokumenty\\251008-vscode-paste-bug.f8.md](#cusersmartionedrivedokumenty251008-vscode-paste-bugf8md)
-- [// put new experiment notes here](#-put-new-experiment-notes-here)
+- [260209 do 28 navstivit csob a pozmenit trvalých příkazů , a popr jednorazovy prikaz](#260209-do-28-navstivit-csob-a-pozmenit-trvalých-příkazů--a-popr-jednorazovy-prikaz)
+- [260209 sledovat klesání zůstatku na účtu  csas](#260209-sledovat-klesání-zůstatku-na-účtu--csas)
+- [260209](#260209)
+- [userscript or chrome extension to autosave the webpage](#userscript-or-chrome-extension-to-autosave-the-webpage)
+- [userscript or chrome extension to add a simple bookmarking or title search to the Google Gemini web app](#userscript-or-chrome-extension-to-add-a-simple-bookmarking-or-title-search-to-the-google-gemini-web-app)
+- [userscript or chrome extension to automatically set the document.title of the Google Gemini web app](#userscript-or-chrome-extension-to-automatically-set-the-documenttitle-of-the-google-gemini-web-app)
 - [260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos](#260101-photos--paměťová-pomůcka-na-dveřích-skříně--memory-aid-on-the-cabinet-door--24br-ai-dr-tesař---google-photos)
 - [AAC and dementia](#aac-and-dementia)
+- [260222.23 ahk /\*- cut copy paste \*/](#26022223-ahk---cut-copy-paste-)
+- [see also  ahk 1 to 2 // tags: 260210](#see-also--ahk-1-to-2--tags-260210)
+- [old 260223 google tasks search for tags 04plan rok](#old-260223-google-tasks-search-for-tags-04plan-rok)
+- [260223  tags 04plan rok](#260223--tags-04plan-rok)
+- [260223 a4 alphabetical  list all paths and  web  sites , where i could search for something like 01 011 0112  04plan, 0404 , 011-POMOC](#260223-a4-alphabetical--list-all-paths-and--web--sites--where-i-could-search-for-something-like-01-011-0112--04plan-0404--011-pomoc)
+- [011-POMOC NAPOVEDA HELP](#011-pomoc-napoveda-help-1)
+- [0112](#0112)
+- [0119](#0119)
+- [249s](#249s)
+- [260225 scanning this file from line 1](#260225-scanning-this-file-from-line-1-1)
+- [260225 ... 226 27 28 nemohl pokracovat prestoze trivialni](#260225--226-27-28-nemohl-pokracovat-prestoze-trivialni)
+- [260301 mb keep  https://keep.google.com/u/0/?pli=1#NOTE/1qFVcO9KHuly\_KTE7wSNmAHyQZjwdwsN\_5EBpjmLrEoIOxn-JlD2SYghdxOJqEQ](#260301-mb-keep--httpskeepgooglecomu0pli1note1qfvco9khuly_kte7wsnmahyqzjwdwsn_5ebpjmlreoioxn-jld2syghdxojqeq)
+- [260301.1810  efi uefi   223c 220312](#2603011810--efi-uefi---223c-220312)
+- [C:\\Users\\marti\\OneDrive\\Dokumenty\\2400-WIKI\\new-usb-disk-drive,corsair,diskpart.f8.md](#cusersmartionedrivedokumenty2400-wikinew-usb-disk-drivecorsairdiskpartf8md)
+- [260127-doprava](#260127-doprava)
+	- [george.csas.cz docasny limit karta 20 000   2 dny](#georgecsascz-docasny-limit-karta-20-000---2-dny)
+	- [neprivezou vubec nektere vyrobky](#neprivezou-vubec-nektere-vyrobky)
+	- [https://www.datart.cz/mobilni-aplikace  nebyla potrreba 260304](#httpswwwdatartczmobilni-aplikace--nebyla-potrreba-260304)
+	- ["C:\\Users\\marti\\OneDrive\\google.com--mail\\mb75\\mailFilters (55).xml"](#cusersmartionedrivegooglecom--mailmb75mailfilters-55xml)
+- [260127-Topení-přímotopy](#260127-topení-přímotopy)
+	- [george.csas.cz docasny limit karta 20 000   2 dny](#georgecsascz-docasny-limit-karta-20-000---2-dny-1)
+	- [neprivezou](#neprivezou)
+	- [non=workspace because jinak neprezije reload](#nonworkspace-because-jinak-neprezije-reload)
+- [Zajistíme a zaplatíme opravy i s ******dopravou******, u velkých spotřebičů přijede opravář k vám domů.](#zajistíme-a-zaplatíme-opravy-i-s-dopravou-u-velkých-spotřebičů-přijede-opravář-k-vám-domů)
+	- [+ 5 let](#-5-let)
+- [- 00 písnička málo související ... Tvůj tajný sen, tu touhu já znám](#--00-písnička-málo-související--tvůj-tajný-sen-tu-touhu-já-znám)
+- [260306-co-person](#260306-co-person)
+- [50.  mohla bys prosim do  7 dnu prijmout .. invitation to join the digital-gardens organization on GitHub?](#50--mohla-bys-prosim-do--7-dnu-prijmout--invitation-to-join-the-digital-gardens-organization-on-github)
+- [260308 Zpráva pro Charri o financích](#260308-zpráva-pro-charri-o-financích)
+- [philips hue apps # convert hsv 8 of 100, 100 100 ... to rgb and hex](#philips-hue-apps--convert-hsv-8-of-100-100-100--to-rgb-and-hex)
+- [07-50let-26030](#07-50let-26030)
+	- [connect](#connect)
+	- [mozna zalozit or reuse some my subreddit](#mozna-zalozit-or-reuse-some-my-subreddit)
+	- [topic: tags: 50 50yo theory 260308](#topic-tags-50-50yo-theory-260308)
+	- [téma: tags: 011-POMOC 50 50yo theory 260308 Windows ovládání okna NAPOVEDA HELP](#téma-tags-011-pomoc-50-50yo-theory-260308-windows-ovládání-okna-napoveda-help)
+- [spiritual kvintet radio](#spiritual-kvintet-radio)
+- [jvb https://myaccount.google.com/security-checkup/1](#jvb-httpsmyaccountgooglecomsecurity-checkup1-1)
+- [https://gemini.google.com/sharing](#httpsgeminigooglecomsharing)
+- [dear Gemini, what do you know about me?](#dear-gemini-what-do-you-know-about-me)
+- [12 Pomoc v nouzi: Psychická podpora](#12-pomoc-v-nouzi-psychická-podpora)
+- [13V etc. , zbyva 5 chatuu,  asi v poradi od konce, renamed ok, share, copy the url, paste, comment](#13v-etc--zbyva-5-chatuu--asi-v-poradi-od-konce-renamed-ok-share-copy-the-url-paste-comment)
+- [zbyva zpracování dalších vzkazů, které jsi napsal, a pak bychom mohli zkusit dát dohromady nějaký plán, jak s tátou o tom všem mluvit a jak mu předat tu zprávu, kterou se snažíš komunikovat. Je důležité, aby věděl, že to není jen o tom, že potřebuješ pomoc s konkrétními úkoly, ale že je to o tom, že potřebuješ, aby Tě někdo slyšel a pochopil, jak se cítíš a co prožíváš.](#zbyva-zpracování-dalších-vzkazů-které-jsi-napsal-a-pak-bychom-mohli-zkusit-dát-dohromady-nějaký-plán-jak-s-tátou-o-tom-všem-mluvit-a-jak-mu-předat-tu-zprávu-kterou-se-snažíš-komunikovat-je-důležité-aby-věděl-že-to-není-jen-o-tom-že-potřebuješ-pomoc-s-konkrétními-úkoly-ale-že-je-to-o-tom-že-potřebuješ-aby-tě-někdo-slyšel-a-pochopil-jak-se-cítíš-a-co-prožíváš)
+- [ale filosofie antifragile je dulezitejsi](#ale-filosofie-antifragile-je-dulezitejsi-1)
+- [ahk](#ahk)
+- [win remove qwertz](#win-remove-qwertz)
+- [wiki transclusion with parameters](#wiki-transclusion-with-parameters)
+- [kyberprostor s zachováním informace ... trvalá paměť ... paměťový prostor](#kyberprostor-s-zachováním-informace--trvalá-paměť--paměťový-prostor)
+- [a ať po evoluce řeší](#a-ať-po-evoluce-řeší)
+- [260305-chrome-console-textutils-browserEEV](#260305-chrome-console-textutils-browsereev)
+- [260315--reddit-bug--losing ?    1-user subreddits](#260315--reddit-bug--losing-----1-user-subreddits)
+- [todo https://www.reddit.com/r/code\_rosettas/](#todo-httpswwwredditcomrcode_rosettas)
+- [todo https://www.reddit.com/r/survival\_of\_our\_info/](#todo-httpswwwredditcomrsurvival_of_our_info)
+- [mitigation strategy for reddit bug of losing 1-user subreddits](#mitigation-strategy-for-reddit-bug-of-losing-1-user-subreddits)
+- [copied to obsidian vault](#copied-to-obsidian-vault)
+- [https://www.reddit.com/r/productivity/comments/1gr0ogu/i\_find\_myself\_being\_more\_productive\_by\_eating\_less/](#httpswwwredditcomrproductivitycomments1gr0ogui_find_myself_being_more_productive_by_eating_less)
+- [26031 first, i am going to post merely to my reddit user page](#26031-first-i-am-going-to-post-merely-to-my-reddit-user-page)
+- [26031-negotiation  ... a multi topic ... attempts ... communication and negotiation ... with elderly parents](#26031-negotiation---a-multi-topic--attempts--communication-and-negotiation--with-elderly-parents)
+	- [connect](#connect-1)
+	- [I am trying:](#i-am-trying)
+	- [- (attempts at protecting) ...   - (what remains from my health)  ℹ️ℹ️ℹ️ 💚💚](#--attempts-at-protecting------what-remains-from-my-health--ℹ️ℹ️ℹ️-)
+- [260314-text-formats-with-short-lines (for prose)](#260314-text-formats-with-short-lines-for-prose)
+	- [an extreme example](#an-extreme-example)
+	- [I wish, short lines  could be useful for](#i-wish-short-lines--could-be-useful-for)
+- [another example sentence and transformation into various  formats](#another-example-sentence-and-transformation-into-various--formats)
+	- [formats, ordered roughly from less radical to more radical, and from more general to more specific:](#formats-ordered-roughly-from-less-radical-to-more-radical-and-from-more-general-to-more-specific)
+	- [design dimensions](#design-dimensions)
+- [treenotations](#treenotations)
+- [ai ..please generate conversion of 1 example sentence into all these formats, to illustrate the differences and tradeoffs between them.](#ai-please-generate-conversion-of-1-example-sentence-into-all-these-formats-to-illustrate-the-differences-and-tradeoffs-between-them)
+- [7+/-2 syllables per line](#7-2-syllables-per-line)
+	- [Magical seven plus minus two](#magical-seven-plus-minus-two)
+- [kindle Several Short Sentences About Writing | Penguin Random House Retail](#kindle-several-short-sentences-about-writing--penguin-random-house-retail)
+	- [Your job as a writer is making sentences.](#your-job-as-a-writer-is-making-sentences)
+- [semantic line breaks](#semantic-line-breaks)
+- [reddit zettelkasten](#reddit-zettelkasten)
+- [is there already something like this in the world?](#is-there-already-something-like-this-in-the-world)
+- [260314 one of my dream projects,  is to create a semi-structured way of representing information, that is more structured than plain text, but less formal than a full ontology or knowledge graph.](#260314-one-of-my-dream-projects--is-to-create-a-semi-structured-way-of-representing-information-that-is-more-structured-than-plain-text-but-less-formal-than-a-full-ontology-or-knowledge-graph)
+- [old 260314--semi-structured](#old-260314--semi-structured)
+- [what markdown editors can gemini be integrated](#what-markdown-editors-can-gemini-be-integrated)
+- [kolik bylo nas a stale nic](#kolik-bylo-nas-a-stale-nic)
+- [260303-pseudo-notation3](#260303-pseudo-notation3)
+- [ale filosofie antifragile je dulezitejsi -----------------------------------](#ale-filosofie-antifragile-je-dulezitejsi------------------------------------)
+- [// put new experiment notes here -----------------------------](#-put-new-experiment-notes-here------------------------------)
+- [260222.20](#26022220)
+- [bug 260221 in my g keep content](#bug-260221-in-my-g-keep-content)
+- [ale filosofie antifragile je dulezitejsi](#ale-filosofie-antifragile-je-dulezitejsi-2)
+	- [edit moved edit moved https://github.com/digital-gardens/Martin-Milan](#edit-moved-edit-moved-httpsgithubcomdigital-gardensmartin-milan)
+- [copy from the terminal output using only keyboard //  tags: 260210](#copy-from-the-terminal-output-using-only-keyboard---tags-260210)
+- [log based info system, thought stream](#log-based-info-system-thought-stream)
+- [ahk 1 to 2 // tags: 260210](#ahk-1-to-2--tags-260210)
+- [](#)
+- [notepad knows  .md files](#notepad-knows--md-files)
+- [260216 LB scam](#260216-lb-scam)
+- [260219 echoes](#260219-echoes)
+- [uniq only duplicates](#uniq-only-duplicates)
+- [260212 css](#260212-css)
+- [ahk 1 to 2 // tags: 260210](#ahk-1-to-2--tags-260210-1)
+- [install gemini cli on windows 11](#install-gemini-cli-on-windows-11)
 - [260204 userstyles to tweak the https://gemini.google.com/app](#260204-userstyles-to-tweak-the-httpsgeminigooglecomapp)
 - [g search](#g-search)
 - [gemini.google.com/app](#geminigooglecomapp)
@@ -2669,7 +2316,8 @@ table of contents
 - [260203.1640](#2602031640)
 - [about gemini canvas... what happens when i, by mistake, open the same canvas on two different devices at the same time, and then make edits on both devices... which edits get saved?  lost edits?](#about-gemini-canvas-what-happens-when-i-by-mistake-open-the-same-canvas-on-two-different-devices-at-the-same-time-and-then-make-edits-on-both-devices-which-edits-get-saved--lost-edits)
 - [260131 experiment editing a text, and then going offline, .... and then back online ... does it sync properly?](#260131-experiment-editing-a-text-and-then-going-offline--and-then-back-online--does-it-sync-properly)
-- [a4 alphabetical  list all web apps , that i would like to test](#a4-alphabetical--list-all-web-apps--that-i-would-like-to-test)
+- [260131 a4 alphabetical  list all web apps, sites , that i would like to test](#260131-a4-alphabetical--list-all-web-apps-sites--that-i-would-like-to-test)
+- [nblm](#nblm)
 - [260131 Google Gemini ... Data Loss: Legal workspace - 99% content is lost (90+ files, 25k+ words)](#260131-google-gemini--data-loss-legal-workspace---99-content-is-lost-90-files-25k-words)
 	- [My-Activity 	survived](#my-activity-survived)
 - [https://takeout.google.com/?pli=1](#httpstakeoutgooglecompli1)
@@ -2679,4 +2327,4 @@ table of contents
 - [260129 gemini search ... this search page,  https://gemini.google.com/search , cannot find exact *keywords* in renamed titles of chats](#260129-gemini-search--this-search-page--httpsgeminigooglecomsearch--cannot-find-exact-keywords-in-renamed-titles-of-chats)
 - [260129 At gemini.google.com/search, in the text field ... /i am not talking about google search, i am not querying the entire web, i am querying merely  my own gemini chat conversation history!/ ...  what are all special characters ... the minus sign works](#260129-at-geminigooglecomsearch-in-the-text-field--i-am-not-talking-about-google-search-i-am-not-querying-the-entire-web-i-am-querying-merely--my-own-gemini-chat-conversation-history---what-are-all-special-characters--the-minus-sign-works)
 - [raději tc, vscode search for "260129"](#raději-tc-vscode-search-for-260129)
-- [table of contents](#table-of-contents)
+- [Table of Contents](#table-of-contents)
