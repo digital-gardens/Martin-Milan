@@ -4,7 +4,27 @@ tags:    gemini  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR
 
 # téma 0112-belly-peristaltika-obnovit-trávení  \_💚_ 
 
-potřeboval bych pomoct  
+
+
+## 0112 meditace, mindfulness 
+https://anagora.org/meditation%20for%20programmers
+  - meditation for programmers 
+    - thanks for returning
+      - reward yourself for returning to the present moment
+
+McCartney 
+
+programmers ... is it possible to practice mindfulness during working hours    ?
+
+programátoři ... je možné praktikovat mindfulness během pracovní doby    ?
+
+pomodoro
+
+## Any coders/programmers who are able to meditate or practice mindfulness while in the process of coding?
+
+
+
+# potřeboval bych pomoct  
 i uprostřed prací    
 učit se  
 často dělat pauzy,  

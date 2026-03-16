@@ -21,8 +21,9 @@ nu tavāi rociņā(i): nyní ve tvých rukou
 # téma 0112-belly-peristaltika-obnovit-trávení
 
 [[0112-belly-peristaltika-obnovit-trávení.publ]]
-todo move
-C:\Users\marti\OneDrive\Dokumenty\04plan.publ.dir\0112-belly-peristaltika-obnovit-trávení.publ.md
+## 0112 meditace, mindfulness 
+https://anagora.org/meditation%20for%20programmers
+McCartney 
 
 
 # téma 0119-potreboval-bych-pomoc--pauzy
@@ -97,14 +98,6 @@ víc trávit
 
 
 
-# meditace
-  - meditation for programmers 
-    - webpage 
-    - Flancian ?
-    - YouTube??
-    - thanks for returning
-
-## Any coders/programmers who are able to meditate or practice mindfulness while in the process of coding?
 
 
 # the philosophy of antifragility is more important 

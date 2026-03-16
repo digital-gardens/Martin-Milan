@@ -1,21 +1,14 @@
 260314-text-formats-with-short-lines.publ.md 
 # 260314-text-formats-with-short-lines (for prose)
 
-
-
-
-
-
-
-
-
-
 // scanned 26031 
 texts-with-short-lines ...
  short-lines text form ...
 
 gemini
 Related Song: "We Can Work It Out" by The Beatles (A fitting anthem for negotiating with family and finding a clearer way to communicate!) 🌳 📝
+
+
 
 
 

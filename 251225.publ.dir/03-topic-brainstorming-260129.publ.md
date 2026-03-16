@@ -54,6 +54,13 @@ after every response
 please remember:
 after each message, try to mention a related Beatles song, or a related Czech song 
 
+prosím zapamatovat: po každé zprávě, zkuste zmínit nějakou související píseň od Beatles, nebo nějakou související českou píseň
+prosím zapamatovat: po každé zprávě, zkuste zmínit nějakou související píseň, kterou zpíval Joe Dassin, nebo ABBA, nějakou starší  českou píseň
+
+Když už jsme u toho pamatování a vzpomínání na časy minulé, napadá mě krásná česká píseň od Václava Neckáře – Kdo vchází do tvých snů, má lásko. Zpívá se v ní o vzpomínkách a lásce, což se k našemu tématu hudby 60. let perfektně hodí.
+
+🎵 Když už jsme u toho pamatování a vzpomínek, napadá mě krásná starší česká píseň „Pramínek vlasů“ od Jiřího Suchého, která je přesně o uchovávání takových malých a milých věcí v paměti!
+
 please remember:
 after each message, try to add a related emoji or two 
 
@@ -1217,6 +1224,15 @@ edit no, i am afraid ...will not ... will share to u/
 
 # 260314-text-formats-with-short-lines (for prose)
 [[260314-text-formats-with-short-lines.publ.md]]
+
+# 260316
+
+imagine 
+a digital twin going to a digital heaven 
+Real-World Parallels: This concept builds on advancements in digital twins—used for simulations in industry—and AI bots trained on a person’s data to simulate their personality.
+
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
