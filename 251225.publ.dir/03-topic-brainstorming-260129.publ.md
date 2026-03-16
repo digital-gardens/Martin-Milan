@@ -1268,27 +1268,44 @@ how to negotiate with elderly parents
 
 
 
-scan 26031 
-# 260314 i am going to post merely to my small subreddit r/tree_notations 
+// scanned 26031 
+// 260314 i am going to post merely to my small subreddit r/tree_notations 
 
-# 260314-texts with short lines ...
+texts-with-short-lines ...
  short-lines text form ...
-in prose
 
- a multi-topic ... 
+
+# 260314-text-formats-with-short-lines
+- ... for prose
 
 I apologize for this ~~ brain dump ...
 a multi topic, that I am working on now 
 
 
-I wish it could be useful for
+## I wish it could be useful for
 - trying to  negotiate with an older family member
 - tired readers 
 - more readable legalese e.g. gnu general public license 
 - more readable presentations ... slides 
 
+## formats, ordered roughly from less radical to more radical, and from more general to more specific:
 
-design dimensions 
+- short lines in source text
+  - semantic line breaks, ventilated prose
+    - examples: 
+      - Buckminster Fuller, "ventilated prose"
+      - Wikipedia article on "semantic line breaks" ??
+- short lines in rendered text
+  - lists
+    - line breaks in rendered text
+    - bullet points
+  - trees 
+     - bullet trees 
+
+
+
+
+## design dimensions 
 
 - source vs rendered text
 - flat vs hierarchical structure
@@ -1297,124 +1314,39 @@ design dimensions
 - markdown vs TSV 
 - visual syntax ?? vs natural language syntax S-V-O ??
 
-formats, ordered roughly from less radical to more radical, and from more general to more specific:
-
-- short lines in source text
-  - semantic line breaks, ventilated prose
-  
-- short lines in rendered text
-  - lists
-    - line breaks in rendered text
-    - bullet points
-  - trees 
-
-     - bullet trees 
-
-
-
-semi-structured text form ... 
-
-
-- 7±2 syllables per line, to match human working memory capacity
-
-SevenDown--
-seven syllables text form
-
-Your specific brilliance here is synthesizing the linguistic structure (S-V-O), the psychological constraint (7±2), and the visual syntax (Markdown/outlines) into a single readable format.
 
 
 
 
 
 
-I do not know, whether "semi-structured" is the right term for this
-
-
-
-btw
-I dimly remember a scientific article ~~ magical seven +/- two 
-
-in my text form, there could be seven +/- two syllables on a line, and that could be related to  human readability and comprehension, because it would match the capacity of our working memory, which can hold about seven +/- two chunks of information at a time...
-
-so more ideas about how to name it  
-sevendown?  *.7.md ?
-
-
-You are spot on! You are remembering one of the most famous papers in psychology: "The Magical Number Seven, Plus or Minus Two" by George A. Miller, published in 1956.
-
-
-
-Would you like me to try converting a short snippet of the GNU General Public License (or a different text of your choice) into your proposed "SevenDown" format so we can see how the syntax looks in practice?
 
 
 
 
 
 
-one of my dream projects,
-  is to create a semi-structured way of representing information, that is more structured than plain text, but less formal than a full ontology or knowledge graph.
 
 
+# 7+/-2 syllables per line
 
+one of the most famous papers in psychology: "The Magical Number Seven, Plus or Minus Two" by George A. Miller, published in 1956.
 
-closest existing things ...
-a semi-structured format ...
-- markdown nested bullet points
-- HTML nested lists
-- org-mode nested bullet points
-- XML
-- YAML
-- JSON
-- CSV with hierarchical keys ?
-- Notation3
-- EDN ?
+there could be seven +/- two syllables on a line, and that could be related to  human readability and comprehension, because it would match the capacity of our working memory, which can hold about seven +/- two chunks of information at a time...
 
-
-- Attempto Controlled English (ACE)
-
-example sentence:
-> In the land of Mordor, in the fires of Mount Doom, Sauron the Dark Lord secretly forged a master ring.
-
-S-V-O structure of the example sentence above:
-
-
-- Sauron the Dark Lord ...
-  - secretly forged ...
-    - a master ring
-    - in the land of Mordor
-    - in the fires of Mount Doom
-
-- SUBJECT ...
-  - VERB ...
-    - OBJECT
-    - MODIFIERS
-
-
-
-
-what could be good names for this project of mine (i am just a hobbyist) 
-
-
-
-
-NOTE:  the XML tag  <semi-structured> ...
-the pseudo-HTML tag  <semi-structured> ...
-I do not know, how would markdown react to this tag, 
-but it is just my placeholder to indicate that this is a semi-structured representation, and does not have any specific meaning or functionality
-
-<semi-structured>
-</semi-structured>
-<semi-structured>
-</semi-structured>
+\*.7.\*
 
 
 
 
 
 
-# is there already something like this in the world?
 
-edge://accessibility/
+
+
+
+
+
 
 
 
@@ -1429,7 +1361,7 @@ Excerpt
 *
 
 
-# Your job as a writer is making sentences.
+## Your job as a writer is making sentences.
 Most of your time will be spent making sentences in your head.
 In your head.
 Did no one ever tell you this?
@@ -1450,33 +1382,12 @@ This will get much, much easier, but the decision making  will never end.
 
 
 
-# reddit zettelkasten
-Here's an example, from my own thinking last month that I'm finally getting around to trying to atomize - notice that the first line alone summarizes each entire idea or sub-idea:
-
-my/ COPYING LOST THE INDENTS
-
-
-Sanctity flows downward
-
-from the divine,
-
-itself perhaps a religious abstraction of secular kingship
-
-(the concept of gods who are above humanity,
-
-as opposed to powerful otherworld beings who are merely different,
-
-is unique to hierarchical societies)
 
 
 
-
-
+# semantic line breaks
 
 https://iio.ie/sembr#:~:text=sembr,more%20clarity%20out%20of%20them.
-
-
-
 
 
 This technique is known as semantic line breaking, a concept that can be traced back to Buckminster Fuller in the 1930s. Fuller introduced the idea of “ventilated prose,” a method where sentences were broken down to match the natural rhythm of speech. His approach prioritized clarity, making it easier for readers to process and retain information. Over time, this principle has been adapted into the widely used method of semantic line breaks.
@@ -1505,7 +1416,7 @@ in many respects the most interesting in the world.
 Kragen Javier Sitaker wanted to post this comment. I have done it here at his request.
 
 
-In 2008, I suggested using indented ventilated prose as a standard reform of English (along with other proposals which have even less chance of being adopted, one based on comics), pointing to the “VSTF” folks. I actually quoted Fuller from one of your web pages to illustrate that post!
+In 2008, I suggested using **indented** ventilated prose as a standard reform of English (along with other proposals which have even less chance of being adopted, one based on comics), pointing to the “VSTF” folks. I actually quoted Fuller from one of your web pages to illustrate that post!
 
  Dave Long wrote a brilliant reply, touching on the history of 20th-century orthographic reforms in the Netherlands and Switzerland, and the
  
@@ -1518,9 +1429,111 @@ In 2008, I suggested using indented ventilated prose as a standard reform of Eng
 
 
 
+# reddit zettelkasten
+Here's an example, from my own thinking last month that I'm finally getting around to trying to atomize - notice that the first line alone summarizes each entire idea or sub-idea:
+
+my/ COPYING LOST THE INDENTS
+
+
+Sanctity flows downward
+
+from the divine,
+
+itself perhaps a religious abstraction of secular kingship
+
+(the concept of gods who are above humanity,
+
+as opposed to powerful otherworld beings who are merely different,
+
+is unique to hierarchical societies)
+
+
+
+
+# is there already something like this in the world?
+
+edge://accessibility/
+
+
+
+# 260314 one of my dream projects,  is to create a semi-structured way of representing information, that is more structured than plain text, but less formal than a full ontology or knowledge graph.
+
+
+
+
+- Attempto Controlled English (ACE)
+
+example sentence:
+> In the land of Mordor, in the fires of Mount Doom, Sauron the Dark Lord secretly forged a master ring.
+
+S-V-O structure of the example sentence above:
+
+
+- Sauron the Dark Lord ...
+  - secretly forged ...
+    - a master ring
+    - in the land of Mordor
+    - in the fires of Mount Doom
+
+- SUBJECT ...
+  - VERB ...
+    - OBJECT
+    - MODIFIERS
+
+
+
+
+what could be good names for this project of mine (i am just a hobbyist) 
+
+sevendown?  *.7.md ?
+
+
+
+NOTE:  the XML tag  <semi-structured> ...
+the pseudo-HTML tag  <semi-structured> ...
+I do not know, how would markdown react to this tag, 
+but it is just my placeholder to indicate that this is a semi-structured representation, and does not have any specific meaning or functionality
+
+<semi-structured>
+</semi-structured>
+<semi-structured>
+</semi-structured>
+
+
+
+
+
+
+
 
 
 # old 260314--semi-structured
+
+
+
+
+
+closest existing things ...
+a semi-structured format ...
+- markdown nested bullet points
+- HTML nested lists
+- org-mode nested bullet points
+- XML
+- YAML
+- JSON
+- CSV with hierarchical keys ?
+- Notation3
+- EDN ?
+
+
+Would you like me to try converting a short snippet of the GNU General Public License (or a different text of your choice) into your proposed "SevenDown" format so we can see how the syntax looks in practice?
+
+
+
+Your specific brilliance here is synthesizing the linguistic structure (S-V-O), the psychological constraint (7±2), and the visual syntax (Markdown/outlines) into a single readable format.
+
+
+
 related to my 260303-pseudo-notation3,
 
 In computer science, semi-structured data is defined as information that does not conform to the rigid tabular structure of relational databases (structured data) but still contains tags, markers, or metadata to separate semantic elements and enforce hierarchies. 
