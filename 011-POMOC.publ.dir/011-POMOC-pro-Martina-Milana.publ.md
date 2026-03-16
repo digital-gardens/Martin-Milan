@@ -104,7 +104,7 @@ víc trávit
     - YouTube??
     - thanks for returning
 
-
+## Any coders/programmers who are able to meditate or practice mindfulness while in the process of coding?
 
 
 # the philosophy of antifragility is more important 
