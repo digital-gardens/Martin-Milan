@@ -1269,14 +1269,15 @@ how to negotiate with elderly parents
 
 
 // scanned 26031 
-// 260314 i am going to post merely to my small subreddit r/tree_notations 
-
 texts-with-short-lines ...
  short-lines text form ...
 
+gemini
+Related Song: "We Can Work It Out" by The Beatles (A fitting anthem for negotiating with family and finding a clearer way to communicate!) 🌳 📝
 
-# 260314-text-formats-with-short-lines
-- ... for prose
+// 260314 i am going to post merely to my small subreddit r/tree_notations 
+
+# 260314-text-formats-with-short-lines (for prose)
 
 I apologize for this ~~ brain dump ...
 a multi topic, that I am working on now 
@@ -1308,7 +1309,7 @@ a multi topic, that I am working on now
 ## design dimensions 
 
 - source vs rendered text
-- flat vs hierarchical structure
+- flat vs hierarchical structure // nested, indents
 - line breaks vs bullet points
 - whether 7±2 syllables per line
 - markdown vs TSV 
@@ -1319,10 +1320,41 @@ a multi topic, that I am working on now
 
 
 
+example sentence:
+> In the land of Mordor, in the fires of Mount Doom, Sauron the Dark Lord secretly forged a master ring.
+
+
+S-V-O structure of the example sentence above:
+```tsv
+Sauron the Dark Lord
+	secretly forged
+		a master ring
+		in the land of Mordor 
+		in the fires of Mount Doom
+```
+
+an extreme transformation ... a bullet tree 
+
+- Sauron the Dark Lord ...
+  - secretly forged ...
+    - a master ring
+    - in the land of Mordor
+    - in the fires of Mount Doom
+
+- SUBJECT ...
+  - VERB ...
+    - OBJECT
+    - MODIFIERS
 
 
 
 
+
+
+
+
+
+please generate conversion of 1 example sentence into all these formats, to illustrate the differences and tradeoffs between them.
 
 
 
@@ -1465,6 +1497,8 @@ edge://accessibility/
 
 example sentence:
 > In the land of Mordor, in the fires of Mount Doom, Sauron the Dark Lord secretly forged a master ring.
+
+extreme transformation 
 
 S-V-O structure of the example sentence above:
 
