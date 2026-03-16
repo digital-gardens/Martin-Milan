@@ -1233,7 +1233,8 @@ edit no, i am afraid ...will not ... will share to u/
 # 26031 first, i am going to post merely to my reddit user page
 
 # 26031-negotiation  ... a multi topic ... attempts ... communication and negotiation ... with elderly parents
-attempts ... at communication and negotiation ... with elderly parents
+
+attempts ... at communication and negotiation ... with elderly parents .26031
 
 
 I apologize for this ~~ brain dump ...
@@ -1307,10 +1308,10 @@ An example piece of legalese, converted to Tree Notation
 
 
 # 260314-text-formats-with-short-lines (for prose)
+.260314
 
 
-
-text-formats-with-short-lines (for prose)
+text-formats-with-short-lines (for prose) .260314
 
 ## an extreme example
 ```md
@@ -1364,14 +1365,14 @@ an extreme transformation ... a bullet tree
 ## formats, ordered roughly from less radical to more radical, and from more general to more specific:
 
 - short lines in source text
-  - semantic line breaks, ventilated prose
+  - semantic line breaks, ventilated prose ... #exists
     - examples: 
       - Buckminster Fuller, "ventilated prose"
 - short lines in rendered text
   - lists
     - line breaks in rendered text
     - bullet points
-  - trees 
+  - trees ...   #dream-project
      - bullet trees 
 
 
@@ -1380,7 +1381,7 @@ an extreme transformation ... a bullet tree
 ## design dimensions 
 
 - source only vs rendered text ... visibility of the line breaks
-- flat vs hierarchical structure // nested, indents
+- flat vs hierarchical structure // nested, indents #dream-project
 - line breaks vs bullet points
 - whether 7±2 syllables per line
 - markdown vs TSV 
@@ -1394,12 +1395,31 @@ an extreme transformation ... a bullet tree
 
 
 
+# treenotations
+The things I have seen
+If you could only see the things I have seen.
+
+Lines of code moving like living cells.
+
+Communicating.
+
+Teaming up.
+
+Cooperating.
+
+Duplicating.
+
+Evolving.
+
+You would understand why I am betting everything on Scroll without worry.
+
+Scroll is the future.
 
 
 
 
-please generate conversion of 1 example sentence into all these formats, to illustrate the differences and tradeoffs between them.
 
+# ai ..please generate conversion of 1 example sentence into all these formats, to illustrate the differences and tradeoffs between them.
 
 
 
@@ -1461,7 +1481,12 @@ This will get much, much easier, but the decision making  will never end.
 
 
 
-# semantic line breaks
+# semantic line breaks  
+
+
+
+https://www.google.com/search?q=Buckminster+Fuller%2C+%22ventilated+prose%22&oq=Buckminster+Fuller%2C+%22ventilated+prose%22&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOagCALACAA&sourceid=chrome&ie=UTF-8
+
 
 https://iio.ie/sembr#:~:text=sembr,more%20clarity%20out%20of%20them.
 
@@ -1506,6 +1531,7 @@ In 2008, I suggested using **indented** ventilated prose as a standard reform of
 
 
 # reddit zettelkasten
+
 Here's an example, from my own thinking last month that I'm finally getting around to trying to atomize - notice that the first line alone summarizes each entire idea or sub-idea:
 
 my/ COPYING LOST THE INDENTS
