@@ -1275,56 +1275,68 @@ texts-with-short-lines ...
 gemini
 Related Song: "We Can Work It Out" by The Beatles (A fitting anthem for negotiating with family and finding a clearer way to communicate!) 🌳 📝
 
+
+
+
+
+An example piece of legalese, converted to Tree Notation
+(my experiment ... Semantic indents ... to make legalese more readable for humans)
+
+.
+ all the files
+  in this repo
+ are shared
+  in the hope
+   that they will be useful to you
+  but WITHOUT ANY WARRANTY
+  without even the implied warranty
+   of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
+
+
+    - but WITHOUT ANY WARRANTY
+
+      - without even the implied warranty
+        - of MERCHANTABILITY
+	- or FITNESS
+	 FOR A PARTICULAR PURPOSE
+
+
+
 // 260314 i am going to post merely to my small subreddit r/tree_notations 
+
+
 
 # 260314-text-formats-with-short-lines (for prose)
 
-I apologize for this ~~ brain dump ...
-a multi topic, that I am working on now 
 
 
-## I wish it could be useful for
+text-formats-with-short-lines (for prose)
+
+## an extreme example
+```md
+- all the files ...
+  - in this repo
+  - are shared ...
+    - in the hope ...
+      - that they will be useful to you
+```
+
+
+## I wish, short lines  could be useful for
 - trying to  negotiate with an older family member
 - tired readers 
 - more readable legalese e.g. gnu general public license 
 - more readable presentations ... slides 
 
-## formats, ordered roughly from less radical to more radical, and from more general to more specific:
-
-- short lines in source text
-  - semantic line breaks, ventilated prose
-    - examples: 
-      - Buckminster Fuller, "ventilated prose"
-      - Wikipedia article on "semantic line breaks" ??
-- short lines in rendered text
-  - lists
-    - line breaks in rendered text
-    - bullet points
-  - trees 
-     - bullet trees 
 
 
 
+# another example sentence and transformation into various  formats
 
-## design dimensions 
-
-- source vs rendered text
-- flat vs hierarchical structure // nested, indents
-- line breaks vs bullet points
-- whether 7±2 syllables per line
-- markdown vs TSV 
-- visual syntax ?? vs natural language syntax S-V-O ??
-
-
-
-
-
-
-example sentence:
 > In the land of Mordor, in the fires of Mount Doom, Sauron the Dark Lord secretly forged a master ring.
 
 
-S-V-O structure of the example sentence above:
+S-V-O structure of the example sentence 
 ```tsv
 Sauron the Dark Lord
 	secretly forged
@@ -1345,6 +1357,38 @@ an extreme transformation ... a bullet tree
   - VERB ...
     - OBJECT
     - MODIFIERS
+
+
+
+
+## formats, ordered roughly from less radical to more radical, and from more general to more specific:
+
+- short lines in source text
+  - semantic line breaks, ventilated prose
+    - examples: 
+      - Buckminster Fuller, "ventilated prose"
+- short lines in rendered text
+  - lists
+    - line breaks in rendered text
+    - bullet points
+  - trees 
+     - bullet trees 
+
+
+
+
+## design dimensions 
+
+- source only vs rendered text ... visibility of the line breaks
+- flat vs hierarchical structure // nested, indents
+- line breaks vs bullet points
+- whether 7±2 syllables per line
+- markdown vs TSV 
+- visual syntax ?? vs natural language syntax S-V-O ??
+
+
+
+
 
 
 
