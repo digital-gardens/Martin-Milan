@@ -1,6 +1,9 @@
 ---
 tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
 ---
+text pisne meeting briefing brainstorming 
+
+
 314 scan from the end backwards 
 # 13V etc. , zbyva 5 chatuu 
 # jvb https://myaccount.google.com/security-checkup/1
@@ -82,6 +85,8 @@ po 7 hodinách spánku,
 
 btw -- oni píšou souvislé texty , 
 
+
+
 # f1 open inline chat ENTER rewrite ... in vscode + github copilot ... ^i  hijacked by an extension
 I would like to ask copilot...
 Please rewrite my text using clearer, better synonyms.
@@ -94,6 +99,7 @@ no need to copy?
 - f1 copilot
 
 // a related Beatles song: 
+
 
 ## AI answer
 
@@ -119,25 +125,6 @@ How can I ask Copilot to rewrite my text? What are all the available options?
 
 please rewrite my text, maybe using better synonyms
 
-
-# Magical seven plus minus two
-
-github copilot
-jak
-požádat AI,
-aby zkusila psát 
-raději
-max. 7 slov
-na řádce
-
-nebo aspoň vkládat "..." do dlouhých vět, aby se to lépe četlo a lépe se to dalo pochopit a zapamatovat
-
-
-
-srv. vědecký článek
-Magical seven plus minus two
-doporučuje 
-7 ± 2 slabik
 
 
 
@@ -1459,8 +1446,24 @@ there could be seven +/- two syllables on a line, and that could be related to  
 
 \*.7.\*
 
+## Magical seven plus minus two
+
+github copilot
+jak
+požádat AI,
+aby zkusila psát 
+raději
+max. 7 slov
+na řádce
+
+nebo aspoň vkládat "..." do dlouhých vět, aby se to lépe četlo a lépe se to dalo pochopit a zapamatovat
 
 
+
+srv. vědecký článek
+Magical seven plus minus two
+doporučuje 
+7 ± 2 slabik
 
 
 
