@@ -1226,6 +1226,9 @@ edit no, i am afraid ...will not ... will share to u/
 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
@@ -1250,7 +1253,7 @@ how to negotiate with elderly parents
 ## I am trying:
 
 - (songs of their youth) 250309 [[#00111]]
-- texts with short lines [[#260314-]]
+- texts with short lines [[260314]]
 - paper sheets on walls [[#260101]]
 - ring binders 2603-12JP-Lau
   - [commonplace-book] ?
@@ -1260,11 +1263,35 @@ how to negotiate with elderly parents
 - Markdown texts
 
 
-## - (attempts at protecting) ...   - (what remains from my health) [[#0112-]]
+## - (attempts at protecting) ...   - (what remains from my health)  ℹ️ℹ️ℹ️ 💚💚 
+[[011-POMOC-pro-Martina-Milana.publ.md]]
+[[0112-belly-peristaltika-obnovit-trávení.publ.md]]
+[[0119-potreboval-bych-pomoc.publ.md]]
 
 
 // I asked my AI to suggest songs 🎵 
 (Thinking about the effort it takes to navigate these family dynamics and find common ground brings to mind the Beatles song "We Can Work It Out." It perfectly captures the friction of trying to get someone to see things from a different perspective, while hoping to eventually reach an understanding.)
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1657,6 +1684,16 @@ which of these could be called "semi-structured" ?
 - CSV with hierarchical keys ?
 - Notation3
 - EDN ?
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
