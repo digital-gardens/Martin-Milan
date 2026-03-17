@@ -1,6 +1,10 @@
 260314-text-formats-with-short-lines.publ.md 
 # 260314-text-formats-with-short-lines (for prose)
 
+edge workspace
+tree--260314-text-formats-with-short-lines.publ.md
+
+
 // scanned 26031 
 texts-with-short-lines ...
  short-lines text form ...

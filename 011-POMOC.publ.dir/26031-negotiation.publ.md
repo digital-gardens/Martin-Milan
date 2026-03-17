@@ -1,4 +1,8 @@
 # 26031-negotiation  ... a multi topic ... attempts ... communication and negotiation ... with elderly parents
+edge workspace
+komunikace-26031-negotiation.publ.md
+edge://welcome-to-your-workspace/
+
 
 ## connect
 
