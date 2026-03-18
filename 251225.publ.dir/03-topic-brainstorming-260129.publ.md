@@ -1233,8 +1233,124 @@ Real-World Parallels: This concept builds on advancements in digital twins—use
 
 
 
+# trees for free
+
+Size: 23.0 MBSize23.0 MBVersion: 4 . 8 . 7Version4.8.7
+
+This extension contains malware.
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#  # 260314 # clipboard copy paste
+
+https://gemini.google.com/app/d0a6c1c750574918
+
+clipboard copy paste ...
+- i would like to get diagnostics about it... clipboard formats, especially HTML
+- and i would like to get the html code from the clipboard
+
+i have windows 11, powertoys, powershell, ahk, python, deno, cscript, wscript .... is it possible to get diagnostics about clipboard formats, especially HTML, using these tools? without installing any third party software, if possible
+
+vscode
+HTML Format
+System.String
+UnicodeText
+Text
+Chromium internal source RFH token
+Chromium Web Custom MIME Data Format
+Chromium internal source URL
+
+
+edge
+without the MIME 
+
+
+
+--- HTML Format ---
+Version:0.9
+StartHTML:0000000105
+EndHTML:0000000555
+StartFragment:0000000141
+EndFragment:0000000519
+
+html>
+body>
+<!--StartFragment--><div style="color: #cccccc;background-color: #1f1f1f;font-family: 'segoe ui',CcfSymbolFont_ASEMTOG_F700,calibri,'Lucida sans','Lucida sans unicode',Arial,'microsoft sans serif',Consolas, 'Courier New', monospace, Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;
+
+white-space: pre;
+
+"><div><span style="color: #cccccc;">
+
+ps1</span></div></div><!--EndFragment-->
+/body>
+/html>
+
+--- System.String ---
+ps1
+
+
+--- HTML Format ---
+Version:0.9
+StartHTML:0000000219
+EndHTML:0000001823
+StartFragment:0000000255
+EndFragment:0000001787
+
+SourceURL:https://www.reddit.com/r/Zettelkasten/comments/tt04p8/im_finding_its_much_easier_to_understand_a_text/
+
+
+html
+body
+
+<!--StartFragment-->
+<p style="margin: 0px; color: rgb(187, 195, 203); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(16, 18, 20); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Sanctity flows downward</p><ul style="margin-bottom: 0px; padding-inline-start: 2rem; color: rgb(187, 195, 203); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(16, 18, 20); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><li style="margin-top: 0.25rem;"><p style="margin: 0px;">from the divine,</p></li></ul><!--EndFragment-->
+
+
+
+
+                     
+```ps1
+
+
+Add-Type -AssemblyName System.Windows.Forms
+
+$data = [System.Windows.Forms.Clipboard]::GetDataObject()   ;   $data.GetFormats() | ForEach-Object { Write-Host "`n--- $_ ---" -ForegroundColor Cyan; $data.GetData($_) }
+
+
+
+# Load the Windows Forms assembly to access clipboard classes
+Add-Type -AssemblyName System.Windows.Forms
+
+
+# Grab the current clipboard object
+$clipboardObj = [System.Windows.Forms.Clipboard]::GetDataObject()   ;    $formats = $clipboardObj.GetFormats() ; $formats[3]
+
+# [System.Windows.Forms.Clipboard]::GetDataObject()
+
+if ($null -ne $clipboardObj) {
+    # 1. Diagnostics: Get a list of all current clipboard formats
+    $formats = $clipboardObj.GetFormats()
+    
+    $clipboardObj.GetFormats()
+    
+    Write-Host "Available Clipboard Formats:" -ForegroundColor Cyan
+    $formats | ForEach-Object { Write-Host " - $_" }
+
+    # 2. Extraction: Grab the HTML code specifically
+    if ($formats -contains "HTML Format") {
+        Write-Host "`n--- Raw HTML Content Found ---" -ForegroundColor Green
+        $htmlData = $clipboardObj.GetData("HTML Format")
+        
+        # The raw Windows HTML clipboard format includes headers.
+        # This outputs the exact raw string from memory.
+        $htmlData
+    } else {
+        Write-Host "`nNo 'HTML Format' currently on the clipboard." -ForegroundColor Yellow
+    }
+} else {
+    Write-Host "The clipboard is currently empty." -ForegroundColor Red
+}
+```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -2340,7 +2456,4 @@ open in another vscode workspace 260207
 	- [gemini](#gemini)
 - [2026-02-01](#2026-02-01)
 	- [Documentation](#documentation)
-- [260129 gemini search ... this search page,  https://gemini.google.com/search , cannot find exact *keywords* in renamed titles of chats](#260129-gemini-search--this-search-page--httpsgeminigooglecomsearch--cannot-find-exact-keywords-in-renamed-titles-of-chats)
-- [260129 At gemini.google.com/search, in the text field ... /i am not talking about google search, i am not querying the entire web, i am querying merely  my own gemini chat conversation history!/ ...  what are all special characters ... the minus sign works](#260129-at-geminigooglecomsearch-in-the-text-field--i-am-not-talking-about-google-search-i-am-not-querying-the-entire-web-i-am-querying-merely--my-own-gemini-chat-conversation-history---what-are-all-special-characters--the-minus-sign-works)
-- [raději tc, vscode search for "260129"](#raději-tc-vscode-search-for-260129)
-- [Table of Contents](#table-of-contents)
+- [260129 gemini search ... this search page,  https://gemini.google.com/search , cannot find exact *keywords* in renamed titles of chats](#260129-gemini-search--this-search-page--httpsgeminigooglecomsearch--cannot-
