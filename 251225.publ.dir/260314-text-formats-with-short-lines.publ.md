@@ -278,12 +278,195 @@ In 2008, I suggested using **indented** ventilated prose as a standard reform of
 
 
 
+# https://www.mail-archive.com/kragen-tol@canonical.org/msg00214.html
+ok
+spaces 
 
+       threw a stone in the water,
+       With the complex
+          of consequences
+             crossing all departmental lines.
+
+   The parsing contains some errors; this would be more accurate:
+
+    And wherever they came from,
+        The thoughts 
+                arranged in this book
+            are discoveries of its author 
+
+# view-source:https://www.mail-archive.com/kragen-tol@canonical.org/msg00214.html
+
+spaces 
+ok
+
+
+ rendered
+   Fuller's text above as follows:
+
+    And wherever
+        they came from,
+       The thoughts arranged
+          in this book are discoveries
+             of its author since he first
+           came in 1913
+              to think that nature
+                 did not have
+                separate departments
+                  of mathematics,
+       physics,
+          chemistry,
+       biology,
+          history,
+       and languages,
+          Which
+        would require department
+            head meetings
+        to decide what
+            to do whenever
+                a boy
+                    threw a stone in the water,
+       With the complex
+          of consequences
+             crossing all departmental lines.
+
+   The parsing contains some errors; this would be more accurate:
+
+    And wherever they came from,
+        The thoughts 
+                arranged in this book
+            are discoveries of its author 
+                since he first came 
+                    in 1913
+                to think 
+                    that nature did not have
+                        separate departments
+                            of mathematics,
+                               physics,
+                               chemistry,
+                               biology,
+                               history, and
+                               languages,
+                        which would require 
+                                department head meetings
+                            to decide what to do 
+                                whenever 
+                                    a boy threw a stone 
+                                        in the water,
+                            with the complex
+                                of consequences
+                                    crossing all departmental lines.
+
+# title: "Live Ink® eBooks"
+source: "https://www.livebook.com/"
+author:
+published:
+created: 2026-03-18
+description:
+tags:
+  - "clippings"
+---
+- [HOME](https://www.livebook.com/index.htm)
+- [ABOUT US](https://www.livebook.com/a/a.php)
+- TESTIMONIALS
+	- [• CPA, Florida](https://www.livebook.com/t/t1.php)
+		- [• Consultant for blind and visually impaired](https://www.livebook.com/t/t2.php)
+		- [• Colorado teacher](https://www.livebook.com/t/t3.php)
+		- [• Reading specialist, tutor of adults with reading disabilities](https://www.livebook.com/t/t4.php)
+		- [• Graduate Student, University of Minnesota](https://www.livebook.com/t/t5.php)
+		- [• A parent from Denmark](https://www.livebook.com/t/t6.php)
+- RESULTS
+	- [• Peer-Reviewed Research Article in *Reading Online*, a Journal of the International Reading Association](http://www.readingonline.org/articles/art_index.asp?HREF=/articles/r_walker/)
+		- [• US Department of Education Phase II Reading Research Results (pdf)](https://www.livebook.com/LiveInkSynopsis.pdf)
+		- [• US Department of Education Phase I Reading Research Results (in Live Ink)](https://www.livebook.com/vstf/vstf.htm)
+- [==AWARDS==](https://www.livebook.com/awards/awards.php)
+- ARTICLES
+	- [• A Brief History of Reading by Live Ink®](https://www.livebook.com/articles/history.php)
+		- [• Live Ink® Reading Enhancement Technologies](https://www.livebook.com/about/about.php?slide=1)
+		- [• History of Walker Reading Technologies, Inc.](https://www.livebook.com/a/a.php)
+- [VIDEOS](https://www.livebook.com/videos/videos.php)
+	- [• Colorado Principal - Live Ink® helps school pass state tests](https://www.livebook.com/videos/videos.php#principal)
+- [EBOOKS](https://www.livebook.com/e/e.php)
+	- [•DEMO - Cask of Amontillado, by Edgar Allan Poe](https://www.livebook.com/eRead/LIeRead.php?nb=read&si=0&rf=poe@refpt001)
+		- [•DEMO - Romeo and Juliet](https://www.livebook.com/eRead/LIeRead.php?nb=read&rf=romjul@refpt001)
+- [==CONTACT US==](https://www.livebook.com/contact/contact.php)
+  
+
+| ![](https://www.livebook.com/liveinkquill4.jpg)   eBooks | [![](https://www.livebook.com/poster.jpg)](https://www.livebook.com/poster.jpg) |
+| --- | --- |
+
+**[Click here](http://ebooks.livebook.com/) to try our new LiveInk® eBook website, with over 40 ebooks.**
+
+[King James Bible in Live Ink](https://www.livebook.com/eBook01/LIeBook.php?bkgmode=light)  
+[A Christmas Carol by Charles Dickens in Live Ink](https://www.livebook.com/eBook01/LIeBook.php?bkgmode=light)  
+[Pride And Prejudice, by Jane Austen in Live Ink](https://www.livebook.com/eBook01/LIeBook.php?bkgmode=light)  
+[Cask of Amontillado, by Edgar Allan Poe in Live Ink](https://www.livebook.com/eBook01/LIeBook.php?bkgmode=light)  
+[Romeo and Juliet in Live Ink](https://www.livebook.com/eBook01/LIeBook.php?bkgmode=light)  
+[Excerpts from Classics](https://www.livebook.com/eBook02/LIeBook.php?bkgmode=light)  
+
+  
+
+This site is best viewed using [FireFox 2®](http://www.mozilla.com/en-US/firefox), with your window at 1024 x 768.
+
+---
+
+(c) Copyrighted Walker Reading Technologies, Inc. 2001-07  
+US Patent No. 5,802,533 and Patents Pending.  
+Live Ink® is a registered trademark of Walker Reading Technologies, Inc.  
+  
+Walker Reading Technologies, Inc.  
+2 Appletree Square, Suite 204  
+Bloomington, MN 55425  
+  
+All Rights Reserved.  
+  
+Last updated: 05/04/2008 06:27:32
+
+
+
+ A new process,
+             Visual-Syntactic Text Formatting (VSTF),
+           transforms block-shaped text
+                 into cascading patterns
+               that help readers
+                    identify grammatical structure.
+  The new method
+            integrates converging evidence
+                from linguistic,
+             educational,
+           visual,
+             and cognitive research,
+           and is made rapid
+                 and feasible
+               through computer-executed algorithms
+                     and electronic displays.
+
+
+
+
+
+# how to not lose the indents when copying from a source that has them, and pasting into a destination 
+
+03 brainstorming # 260314 # clipboard copy paste
+
+e.g. copying from reddit bullet tree 
+
+- tab characters?
+- spaces?
+- html bullet tree
+
+paste to wysiwyg editor that supports indents, and then copy from there to the final destination?
+- google keep, - google docs,- word, 
+- markdown editors with wysiwyg mode, e.g. typora, obsidian, logseq, ...
+- reddit
+- gemini , nblm
 
 
 
 
 # reddit zettelkasten
+
+ subscribe ... done follow post
+https://www.reddit.com/r/Zettelkasten/comments/tt04p8/im_finding_its_much_easier_to_understand_a_text/
 
 Here's an example, from my own thinking last month that I'm finally getting around to trying to atomize - notice that the first line alone summarizes each entire idea or sub-idea:
 
@@ -301,6 +484,66 @@ itself perhaps a religious abstraction of secular kingship
 as opposed to powerful otherworld beings who are merely different,
 
 is unique to hierarchical societies)
+
+
+
+
+
+# via obsidian clipper 
+
+---
+title: "I'm finding it's much easier to understand a text if I turn it into an outline - even analyzing complex *sentences* this way. : r/Zettelkasten"
+source: "https://www.reddit.com/r/Zettelkasten/comments/tt04p8/im_finding_its_much_easier_to_understand_a_text/"
+author:
+  - "[[reddit.com]]"
+published: 2022-03-31
+created: 2026-03-18
+description:
+tags:
+  - "clippings"
+---
+ganize it into this kind of outline. It's so much easier to read.
+
+Here's an example, from my own thinking last month that I'm finally getting around to trying to atomize - notice that the first line alone summarizes each entire idea or sub-idea:
+
+- Sanctity flows downward
+	- from the divine,
+		- itself perhaps a religious abstraction of secular kingship
+			- (the concept of gods who are above humanity,
+				- as opposed to powerful otherworld beings who are merely different,
+						- is unique to hiera
+
+
+
+
+## BUG  260318.1340 obsidian web clipper .. DEDENT in bullet trees ... some dedents are changed to indents 
+- is unique to hierarchical societies)
+
+
+
+
+
+# via obsidian paste and then copy
+
+e's an example, from my own thinking last month that I'm finally getting around to trying to atomize - notice that the first line alone summarizes each entire idea or sub-idea:
+
+- Sanctity flows downward
+    
+    - from the divine,
+        
+        - itself perhaps a religious abstraction of secular kingship
+            
+            - (the concept of gods who are above humanity,
+                
+                - as opposed to powerful otherworld beings who are merely different,
+                    
+            - is unique to hierarchical societies)
+                
+    - to the mundane,
+        
+    - and then to the unholy,
+        
+    - weakening all the way.
 
 
 
