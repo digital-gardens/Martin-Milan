@@ -8,16 +8,6 @@ exit
 
 ^s
 
-
-pred velkymi zmenami
-pozor pri plnem disku
-win+q
-restore-point
-
-# JBPC DISK FULL 260319
-https://gemini.google.com/app/76b863f7a4cfec01
-
-
 ZMENA ...  MASTER PRESUNUT DO OneDrive
 
 dont pin in vscode

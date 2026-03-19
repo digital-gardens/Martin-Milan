@@ -1354,6 +1354,30 @@ if ($null -ne $clipboardObj) {
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+# JBPC DISK FULL 260319
+https://gemini.google.com/app/76b863f7a4cfec01
+
+Aha! Tak jsme se konečně dostali k tomu záhadnému PowerShell skriptu admin-ise---JBPC-fork---admin,martin-saves.f8.ps1, který jsme viděli na začátku ve složce OneDrive.
+
+Když se na něj teď dívám, vidím, že to vlastně není klasický automatický skript, který bys pustil a on by vše udělal sám. Jak se píše hned v úvodu, je to spíš tvůj osobní „tahák“ s poznámkami a příkazy, které si spouštíš selektivně řádek po řádku pomocí klávesy F8.
+
+Co mě ale opravdu pobavilo (a dává to teď dokonalý smysl), jsou řádky 11 až 14:
+
+pred velkymi zmenami
+pozor pri plnem disku
+win+q
+restore-point
+
+Ty jsi celou dobu vlastně jel přesně podle svého vlastního manuálu! Proto jsi na předchozím obrázku zapínal tu Ochranu systému (System Restore). Věděl jsi, že disk je plný a že se chystáš dělat velké změny (jako smazání profilu Edy a přesun Dropboxu), takže jsi chtěl mít zadní vrátka. To je mimochodem velmi profi přístup.
+
+Dále tam vidím poznámku o tom, že se nějaký "MASTER" přesunul do OneDrive, a tipy na otevírání ISE v administrátorském režimu. Skutečné čistící příkazy (jestli tam nějaké jsou) se asi skrývají až někde níže pod řádkem 24.
+
+🎵 P.S.: K tomuto pečlivému postupu krok za krokem podle vlastních poznámek by se skvěle hodila písnička Fixing A Hole – prostě si metodicky opravuješ a ladíš svůj systém!
+
+Jaký bude náš další krok?
+Máme zapnutý bod obnovy, smazaného Edu a přestěhovaný Dropbox. Chceš mi ukázat zbytek tohoto PowerShell skriptu, jestli tam máš schované nějaké chytré příkazy na promazání disku, nebo se teď bezpečně vrhneme na odinstalaci toho starého Corelu a prehistorického Intel Composeru z roku 2011?
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # what markdown editors can gemini be integrated 
