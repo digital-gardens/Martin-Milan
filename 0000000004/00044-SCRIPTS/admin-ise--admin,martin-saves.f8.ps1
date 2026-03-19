@@ -8,10 +8,21 @@ exit
 
 ^s
 
+ZMENA ...  MASTER PRESUNUT DO OneDrive
+
+dont pin in vscode
+close in vscode
+open in admin ise  or nonadmin ise
+
+win+q ise
+{right-arrow} rclick admin
+File/recent
+
+resto.point
+
 #icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\onedr---admin-ise--adminsaves.f8.ps1"
 icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\admin-ise--admin,martin-saves.f8.ps1"
 
-# dont pin in vscode
 
 echo '-------- section --------'
 
@@ -35,44 +46,32 @@ C:\Users\marti\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.cmd
 
 echo '-------- section --------'
 
-
+echo was in c:\marti
 #  sync by hand
-
 ^s
-
 #  ^a  ^c  @tab  ^a ^V
-
-
-
 260103
 C:\Users\marti\OneDrive\onedr---admin-ise--adminsaves.f8.ps1
-
-
-
-win+q ise rclick admin
-File/recent
 master
-the MAIN COPY		C:\Users\marti\admin-ise--adminsaves.f8.ps1
+the MAIN COPY
+	used-to-be		C:\Users\marti\admin-ise--adminsaves.f8.ps1
+	now "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\admin-ise--admin,martin-saves.f8.ps1"
+old a SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
+old a SUBORDINATE COPY jiny dir "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\0004-CHKDSK\admin-ise--adminsaves.f8.ps1"
 
 
-a SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
-a SUBORDINATE COPY jiny dir "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\0004-CHKDSK\admin-ise--adminsaves.f8.ps1"
-
-
-ise ok
+ise secu ok
 File C:\Users\marti\OneDrive\Dokumenty\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is disabled on this system. For mor
 e information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
 At line:0 char:0
 PS C:\WINDOWS\system32>
 
+
 diskusage.exe /a   /h   /t:10
-
-
 cd .\OneDrive
 
+
 echo '-------- section --------'
-
-
 
 win+q ise admin
 	file
@@ -306,6 +305,10 @@ C:\pf\totalcmd\TOTALCMD64.EXE D:\umarti
 
 
 
+
+
+
+
 #./du64.exe -l 2   c:\  >D:\umarti\unsort-du64-l-2--c--.txt
 ./du64.exe -l 2   c:\  >D:\umarti\adm-unsort-du64-l-2--c--.txt
 
@@ -458,14 +461,17 @@ icacls.exe   d:\2222   /grant 'marti:(oi)(ci)(f)'
 
 
 
-
+will not inst adm again?
 
   url64bit       = 'https://sourceforge.net/projects/maxima/files/Maxima-Windows/5.45.1-Windows/maxima-5.45.1s-win64.exe/download'
   checksum64     = '60be72a45376e1256a554d79e7da35f7d91cfc86b12b9a9a5501c0f5ed8b6de0'
 
+
+
 DISM.exe /Online /Cleanup-image /Restorehealth
 
 sfc /scannow
+
 
 tiworker is not ATI
 
@@ -476,6 +482,7 @@ cmd /c dir /a    C:\Users\marti\.git
 cmd /c dir /a     C:\Users\marti\OneDrive\.git
 cmd /c dir /a   C:\Users\milan_rxtipwr\.git
 cmd /c dir /a   C:\Users\milan_rxtipwr\OneDrive\.git
+
 
 
 PS C:\Users\marti> diskusage.exe /?
@@ -728,10 +735,13 @@ cmd /c dir %ProgramData%\Microsoft\Search\Data\Applications\Windows\  /s /a
 
 
 
+
+ZMENA ...  MASTER PRESUNUT DO OneDrive
 ##########
 #  sync by hand ?!
 #  ^a  ^c  @tab ^V
+old the MAIN COPY		C:\Users\marti\admin-ise--adminsaves.f8.ps1
+old a SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
+old a SUBORDINATE COPY jiny dir "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\0004-CHKDSK\admin-ise--adminsaves.f8.ps1"
+ZMENA ...  MASTER PRESUNUT DO OneDrive
 
-the MAIN COPY		C:\Users\marti\admin-ise--adminsaves.f8.ps1
-a SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
-a SUBORDINATE COPY jiny dir "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\0004-CHKDSK\admin-ise--adminsaves.f8.ps1"
