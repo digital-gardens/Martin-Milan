@@ -1,15 +1,22 @@
 
 # f8_text_file
 # (an f8_text_file is-not meant to be run as a whole)
+# (selected lines from this file can be run in a terminal ... e.g. by the F8 key, customly bound to runSelectedText  )
+
 )
 exit
 
-# (selected lines from this file can be run in a terminal ... e.g. by the F8 key, customly bound to runSelectedText  )
+^s
+
+#icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\onedr---admin-ise--adminsaves.f8.ps1"
+icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\admin-ise--admin,martin-saves.f8.ps1"
+
+# dont pin in vscode
 
 echo '-------- section --------'
 
-this file is editable even from win milan
-
+echo was in c:\marti
+###this file is editable even from win milan
 https://keep.google.com/u/0/#NOTE/1w57XJBY6hzeLf0JdyX5cFti_UzbCllAlX4QRwrnSUbRwJvjQGv9YOZSUi0_oqg
 
 

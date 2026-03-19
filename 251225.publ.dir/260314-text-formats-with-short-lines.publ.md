@@ -520,6 +520,16 @@ Here's an example, from my own thinking last month that I'm finally getting arou
 - is unique to hierarchical societies)
 
 
+# via reddit editor
+
+ze - notice that the first line alone summarizes each entire idea or sub-idea:
+Sanctity flows downward  
+from the divine,
+itself perhaps a religious abstraction of secular kingship
+(the concept of gods who are above humanity,
+as opposed to powerful otherworld beings who are merely different,
+is unique to hierarchical societies)
+to the mundane,
 
 
 
