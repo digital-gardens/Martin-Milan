@@ -1,6 +1,9 @@
 260314-text-formats-with-short-lines.publ.md 
 # 260314-text-formats-with-short-lines (for prose)
 
+https://www.reddit.com/r/tree_notations/comments/1rv5aqo/textformatswithshortlines_for_prose/
+
+
 edge workspace
 tree--260314-text-formats-with-short-lines.publ.md
 
@@ -118,18 +121,24 @@ an extreme transformation ... a bullet tree
 ## design dimensions 
 
 - source only vs rendered text ... visibility of the line breaks
-- flat vs hierarchical structure // nested, indents #dream-project
+- flat vs hierarchical structure // nested, indents, trees  #dream-project
 - line breaks vs bullet points
 - whether 7±2 syllables per line
 - markdown vs TSV 
 - visual syntax ?? vs natural language syntax S-V-O ??
 
+edit tsv ... tab characters for indents 
 
 
+# The Tab-Indented Tree Format
 
+ai: What you are describing is a wonderfully simple and lightweight way to structure hierarchical data. While it doesn't have a strict, universally standardized name like JSON or XML, it is most commonly referred to as a Tab-Indented Tree, an Outline Format, or a Tab-Separated Tree.
 
+existing implementations ... keywords
 
-
+- cronvel/tif-parser: Tab Indented Format Parser
+- TAML - Tab Annotated Markup Language
+- antyakushev/tabdown: A tab-structured tree markup language. Inspired by Python, Markdown, and YAML
 
 
 # treenotations
@@ -484,6 +493,10 @@ itself perhaps a religious abstraction of secular kingship
 as opposed to powerful otherworld beings who are merely different,
 
 is unique to hierarchical societies)
+
+
+> I love love love outlines. They're the best aid for analytically breaking down topics, regardless of their complexity. Outlines force you to shred for singular ideas--almost as if you were atomizing locally.
+
 
 
 
