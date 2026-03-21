@@ -1,3 +1,7 @@
+
+# .260314
+
+
 260314-text-formats-with-short-lines.publ.md 
 # 260314-text-formats-with-short-lines (for prose)
 
@@ -127,8 +131,155 @@ an extreme transformation ... a bullet tree
 - markdown vs TSV 
 - visual syntax ?? vs natural language syntax S-V-O ??
 
-edit tsv ... tab characters for indents 
 
+
+edit tsv .. probably change to  ... tab characters for indents 
+ai understand tsv as a relational table, but i want it to be a tree, 
+
+
+
+
+
+
+
+   Fuller's "ventilated prose" fails to take advantage of indentation.
+
+   More recently, a group of researchers have written software to
+   parse and automatically reformat text in this format, under the
+   name "Visual-Syntactic Text Formatting" or "Live Ink", and
+   conducted numerous experiments to measure its effect on
+   readability.  They found that it improved readability
+   substantially.  For more details, see
+   http://www.readingonline.org/articles/r_walker/ "Visual-Syntactic
+   Text Formatting", by Stan Walker, P. Schloss, C. R. Fletcher,
+   C. A. Vogel, & R. C. Walker, 2005-05, via Reading Online 8(6), ISSN
+   1096-1232; their software online at
+   http://phil.red-castle.com/cgi-bin/HtmlClipRead80.exe rendered
+   Fuller's text above as follows:
+
+
+
+   The parsing contains some errors; this would be more accurate:
+
+   There is considerable room for debate about the best layout for
+   English text; even for simpler languages like OCaml that are
+   traditionally written indented in this fashion, there is often some
+   ambiguity about the best way to format code.  The basic principle,
+   though, is that the hierarchical structure of the sentences should
+   be reflected in a layout with the smaller parts of the sentence
+   indented further to the right.
+
+# .260314
+"Visual-Syntactic
+   Text Formatting", by Stan Walker, P. Schloss, C. R. Fletcher,
+   C. A. Vogel, & R. C. Walker, 2005-05, via Reading Online 8(6), ISSN
+   1096-1232; 
+
+b-The-First-Sentence-of-the-Declaration-of-Independence-Presented-with-the.png (675×763)
+
+
+
+
+please transcribe, with indents if possible
+```txt
+...
+```
+
+
+
+When in the Course
+    of human events,
+    it becomes necessary
+        for one people
+            to dissolve the political bands
+            which have
+                connected them with another,
+        and to assume
+            among the powers
+            of the earth,
+        the separate and equal station
+            to which
+                the Laws of Nature
+                    and of Nature's God
+                entitle them,
+        a decent respect
+            to the opinions
+                of mankind
+        requires
+            that they
+                should declare the causes
+                which impel them
+                    to the separation.
+
+http://www.liveink.com/e-bookstore.php
+
+
+href="assets/hints/content1-landscape.plist" media="paginated and (orientation:landscape)"/></head><body><p id="p0" xml:lang="en-US" class="s1 s2"><a id="page1" class="page"/><a id="page2" class="pageShape"/><span class="c1">  </span><span class="c2 c3">P</span><span class="c1">art I.</span></p><p id="p1" xml:lang="en-US" class="s1 s2"><span class="c1"> ​<br/>  To Sherlock Holmes​<br/>     she </span><span class="c4 c5">is</span><span class="c1"> always THE woman.​<br/> ​<br/>  I </span><span class="c4 c5">have</span><span class="c1"> seldom </span><span class="c4 c5">heard</span><span class="c1"> him​<br/>      </span><span class="c4 c5">mention</span><span class="c1"> her​<br/>         under any other name.​<br/> ​<br/>  In his eyes​<br/>   she </span><span class="c4 c5">eclipses​<br/></span><span class="c1">      and </span><span class="c4 c5">predominates​<br/></span><span class="c1">         the whole of her sex.​<br/> ​<br/>  It </span><span class="c4 c5">was not</span><span class="c1"> that​<br/>      he </span><span class="c4 c5">felt</span><span class="c1"> any emotion ​<br/>          akin to love ​<br/>        for Irene Adler.​<br/> ​<br/>  All emotions,​<br/>      and that one particularly,​<br/>    </span><span class="c4 c5">were</span><span class="c1"> abhorrent​<br/>        to his cold,​<br/>             precise​<br/
+
+
+  Part I.
+
+ ​
+  To Sherlock Holmes​
+     she is always THE woman.​
+ ​
+  I have seldom heard him​
+      mention her​
+         under any other name.​
+ ​
+  In his eyes​
+   she eclipses​
+      and predominates​
+         the whole of her sex.​
+ ​
+  It was not that​
+      he felt any emotion ​
+          akin to love ​
+        for Irene Adler.​
+ ​
+  All emotions,​
+      and that one particularly,​
+    were abhorrent​
+        to his cold,​
+             precise​
+          but admirably balanced mind.​
+ ​
+  He was,​
+       I take it,​
+    the most perfect reasoning​
+       and observing machine​
+           that the world has seen,​
+    but as a lover​
+       he would have placed himself​
+          in a false position.​
+ ​
+  He never spoke​
+      of the softer passions,​
+    save with a gibe​
+         and a sneer.​
+ ​
+  They were admirable things​
+        for the observer​
+   -- excellent​
+         for drawing the veil​
+             from men's motives​
+           and actions.​
+ ​
+  But for the trained reasoner​
+      to admit​
+          such intrusions​
+         into his own delicate​
+
+
+
+
+
+
+
+
+
+ markdown .. can you escape a [TAB] by [backslash][tab]. ? .260314
+no
 
 # The Tab-Indented Tree Format
 
