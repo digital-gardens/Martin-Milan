@@ -48,7 +48,7 @@ An example piece of legalese, converted to Tree Notation
 
 
 
-// 260314 i am going to post merely to my small subreddit r/tree_notations 
+# // 260314 i am going to post merely to my small subreddit r/tree_notations 
 
 
 
@@ -76,7 +76,7 @@ text-formats-with-short-lines (for prose) .260314
 
 
 
-# another example sentence and transformation into various  formats
+## another example sentence and transformation into various  formats
 
 > In the land of Mordor, in the fires of Mount Doom, Sauron the Dark Lord secretly forged a master ring.
 
@@ -168,118 +168,6 @@ ai understand tsv as a relational table, but i want it to be a tree,
    though, is that the hierarchical structure of the sentences should
    be reflected in a layout with the smaller parts of the sentence
    indented further to the right.
-
-# .260314
-"Visual-Syntactic
-   Text Formatting", by Stan Walker, P. Schloss, C. R. Fletcher,
-   C. A. Vogel, & R. C. Walker, 2005-05, via Reading Online 8(6), ISSN
-   1096-1232; 
-
-b-The-First-Sentence-of-the-Declaration-of-Independence-Presented-with-the.png (675×763)
-
-
-
-
-please transcribe, with indents if possible
-```txt
-...
-```
-
-
-
-When in the Course
-    of human events,
-    it becomes necessary
-        for one people
-            to dissolve the political bands
-            which have
-                connected them with another,
-        and to assume
-            among the powers
-            of the earth,
-        the separate and equal station
-            to which
-                the Laws of Nature
-                    and of Nature's God
-                entitle them,
-        a decent respect
-            to the opinions
-                of mankind
-        requires
-            that they
-                should declare the causes
-                which impel them
-                    to the separation.
-
-http://www.liveink.com/e-bookstore.php
-
-
-href="assets/hints/content1-landscape.plist" media="paginated and (orientation:landscape)"/></head><body><p id="p0" xml:lang="en-US" class="s1 s2"><a id="page1" class="page"/><a id="page2" class="pageShape"/><span class="c1">  </span><span class="c2 c3">P</span><span class="c1">art I.</span></p><p id="p1" xml:lang="en-US" class="s1 s2"><span class="c1"> ​<br/>  To Sherlock Holmes​<br/>     she </span><span class="c4 c5">is</span><span class="c1"> always THE woman.​<br/> ​<br/>  I </span><span class="c4 c5">have</span><span class="c1"> seldom </span><span class="c4 c5">heard</span><span class="c1"> him​<br/>      </span><span class="c4 c5">mention</span><span class="c1"> her​<br/>         under any other name.​<br/> ​<br/>  In his eyes​<br/>   she </span><span class="c4 c5">eclipses​<br/></span><span class="c1">      and </span><span class="c4 c5">predominates​<br/></span><span class="c1">         the whole of her sex.​<br/> ​<br/>  It </span><span class="c4 c5">was not</span><span class="c1"> that​<br/>      he </span><span class="c4 c5">felt</span><span class="c1"> any emotion ​<br/>          akin to love ​<br/>        for Irene Adler.​<br/> ​<br/>  All emotions,​<br/>      and that one particularly,​<br/>    </span><span class="c4 c5">were</span><span class="c1"> abhorrent​<br/>        to his cold,​<br/>             precise​<br/
-
-
-  Part I.
-
- ​
-  To Sherlock Holmes​
-     she is always THE woman.​
- ​
-  I have seldom heard him​
-      mention her​
-         under any other name.​
- ​
-  In his eyes​
-   she eclipses​
-      and predominates​
-         the whole of her sex.​
- ​
-  It was not that​
-      he felt any emotion ​
-          akin to love ​
-        for Irene Adler.​
- ​
-  All emotions,​
-      and that one particularly,​
-    were abhorrent​
-        to his cold,​
-             precise​
-          but admirably balanced mind.​
- ​
-  He was,​
-       I take it,​
-    the most perfect reasoning​
-       and observing machine​
-           that the world has seen,​
-    but as a lover​
-       he would have placed himself​
-          in a false position.​
- ​
-  He never spoke​
-      of the softer passions,​
-    save with a gibe​
-         and a sneer.​
- ​
-  They were admirable things​
-        for the observer​
-   -- excellent​
-         for drawing the veil​
-             from men's motives​
-           and actions.​
- ​
-  But for the trained reasoner​
-      to admit​
-          such intrusions​
-         into his own delicate​
-
-
-
-
-
-
-
-
-
- markdown .. can you escape a [TAB] by [backslash][tab]. ? .260314
-no
 
 # The Tab-Indented Tree Format
 
@@ -427,7 +315,7 @@ the safety and welfare of the parts of which it is composed,
 the fate of an empire
 in many respects the most interesting in the world.
 
-Kragen Javier Sitaker wanted to post this comment. I have done it here at his request.
+# Kragen Javier Sitaker wanted to post this comment. I have done it here at his request.
 
 
 In 2008, I suggested using **indented** ventilated prose as a standard reform of English (along with other proposals which have even less chance of being adopted, one based on comics), pointing to the “VSTF” folks. I actually quoted Fuller from one of your web pages to illustrate that post!
@@ -435,6 +323,8 @@ In 2008, I suggested using **indented** ventilated prose as a standard reform of
  Dave Long wrote a brilliant reply, touching on the history of 20th-century orthographic reforms in the Netherlands and Switzerland, and the
  
   origins of word spacing (a topic previously discussed on kragen-tol and replied to with ASCII-art illuminations and comparison with Japanese) Long also pointed out that if you’re writing text for HTML, Wikis, troff, or format=flowed email, you can fearlessly ventilate as you please to aid your composition process, without alarming the reader with unconventional formatting.
+
+
 
 
 
@@ -453,6 +343,7 @@ spaces
         The thoughts 
                 arranged in this book
             are discoveries of its author 
+
 
 # view-source:https://www.mail-archive.com/kragen-tol@canonical.org/msg00214.html
 
@@ -515,6 +406,148 @@ ok
                             with the complex
                                 of consequences
                                     crossing all departmental lines.
+
+
+
+my 
+And wherever they came from,
+The thoughts 
+        arranged in this book
+    are discoveries of its author 
+        since he first came 
+            in 1913
+        to think 
+
+
+
+
+# .260314
+
+# "Visual-Syntactic   Text Formatting", by Stan Walker, P. Schloss, C. R. Fletcher,
+   C. A. Vogel, & R. C. Walker, 2005-05, via Reading Online 8(6), ISSN
+   1096-1232; 
+
+b-The-First-Sentence-of-the-Declaration-of-Independence-Presented-with-the.png (675×763)
+
+
+
+
+please transcribe, with indents if possible
+```txt
+...
+```
+
+When in the Course
+    of human events,
+    it becomes necessary
+        for one people
+            to dissolve the political bands
+            which have
+                connected them with another,
+        and to assume   //  error
+            among the powers
+            of the earth,
+        the separate and equal station
+            to which
+                the Laws of Nature
+                    and of Nature's God
+                entitle them,
+        a decent respect
+            to the opinions
+                of mankind
+        requires
+            that they
+                should declare the causes
+                which impel them
+                    to the separation.
+
+
+
+
+
+my
+When in the Course
+        of human events,
+    it becomes necessary
+        for one people
+            to dissolve the political bands
+                which have
+                    connected them with another,
+            and to assume   
+
+
+# http://www.liveink.com/e-bookstore.php
+
+
+href="assets/hints/content1-landscape.plist" media="paginated and (orientation:landscape)"/></head><body><p id="p0" xml:lang="en-US" class="s1 s2"><a id="page1" class="page"/><a id="page2" class="pageShape"/><span class="c1">  </span><span class="c2 c3">P</span><span class="c1">art I.</span></p><p id="p1" xml:lang="en-US" class="s1 s2"><span class="c1"> ​<br/>  To Sherlock Holmes​<br/>     she </span><span class="c4 c5">is</span><span class="c1"> always THE woman.​<br/> ​<br/>  I </span><span class="c4 c5">have</span><span class="c1"> seldom </span><span class="c4 c5">heard</span><span class="c1"> him​<br/>      </span><span class="c4 c5">mention</span><span class="c1"> her​<br/>         under any other name.​<br/> ​<br/>  In his eyes​<br/>   she </span><span class="c4 c5">eclipses​<br/></span><span class="c1">      and </span><span class="c4 c5">predominates​<br/></span><span class="c1">         the whole of her sex.​<br/> ​<br/>  It </span><span class="c4 c5">was not</span><span class="c1"> that​<br/>      he </span><span class="c4 c5">felt</span><span class="c1"> any emotion ​<br/>          akin to love ​<br/>        for Irene Adler.​<br/> ​<br/>  All emotions,​<br/>      and that one particularly,​<br/>    </span><span class="c4 c5">were</span><span class="c1"> abhorrent​<br/>        to his cold,​<br/>             precise​<br/
+
+
+  Part I.
+
+ ​
+  To Sherlock Holmes​
+     she is always THE woman.​
+ ​
+  I have seldom heard him​
+      mention her​
+         under any other name.​
+ ​
+  In his eyes​
+   she eclipses​
+      and predominates​
+         the whole of her sex.​
+ ​
+  It was not that​
+      he felt any emotion ​
+          akin to love ​
+        for Irene Adler.​
+ ​
+  All emotions,​
+      and that one particularly,​
+    were abhorrent​
+        to his cold,​
+             precise​
+          but admirably balanced mind.​
+ ​
+  He was,​
+       I take it,​
+    the most perfect reasoning​
+       and observing machine​
+           that the world has seen,​
+    but as a lover​
+       he would have placed himself​
+          in a false position.​
+ ​
+  He never spoke​
+      of the softer passions,​
+    save with a gibe​
+         and a sneer.​
+ ​
+  They were admirable things​
+        for the observer​
+   -- excellent​
+         for drawing the veil​
+             from men's motives​
+           and actions.​
+ ​
+  But for the trained reasoner​
+      to admit​
+          such intrusions​
+         into his own delicate​
+
+
+
+
+
+
+
+
+
+ markdown .. can you escape a [TAB] by [backslash][tab]. ? .260314
+no
+
+
+
 
 # title: "Live Ink® eBooks"
 source: "https://www.livebook.com/"
@@ -604,6 +637,8 @@ Last updated: 05/04/2008 06:27:32
 
 
 
+
+
 # how to not lose the indents when copying from a source that has them, and pasting into a destination 
 
 03 brainstorming # 260314 # clipboard copy paste
@@ -619,6 +654,8 @@ paste to wysiwyg editor that supports indents, and then copy from there to the f
 - markdown editors with wysiwyg mode, e.g. typora, obsidian, logseq, ...
 - reddit
 - gemini , nblm
+
+
 
 
 
@@ -718,6 +755,8 @@ e's an example, from my own thinking last month that I'm finally getting around 
     - and then to the unholy,
         
     - weakening all the way.
+
+
 
 
 
