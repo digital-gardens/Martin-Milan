@@ -2,7 +2,33 @@
 tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
 ---
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# téma 0111-music 🎵 🎵 
+ zpěvník já písnička music singing
+píseň Tumša nakte 🎵 
+
 text pisne meeting briefing brainstorming 
+
+# bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another #
+
+# 260315--reddit-bug--losing   1-user subreddits
+
+# DONT PUBLISH EMAIL addresses 
+FIND
+@g
+
+
+# ale filosofie antifragile, Adaptability je dulezitejsi 
+
+
+#  markdown table of contents is at the end of the file
+- old [[251105-symptom-tracker.f8]]
+- 7 lines header - fail 
+
+*.publ.*,*.ps1,*.cmd,*.sh,*.py,*.js,*.ahk,*.au3,*.f[0-9].*,*.f1[0-9].*
+
+
+
 
 314 scan from the end backwards 
 # 13V etc. , zbyva 5 chatuu 
@@ -13,11 +39,6 @@ text pisne meeting briefing brainstorming
 // a related Beatles song:  
 // a related Czech song:  
 
-# 260315--reddit-bug--losing   1-user subreddits
-
-# DONT PUBLISH EMAIL addresses 
-FIND
-@g
 
 
 importance: ℹ️ℹ️ℹ️
@@ -44,17 +65,26 @@ proskenil, prelil radky tohoto 1..700
 
 
 
-# téma 0111-music 🎵 🎵 
- zpěvník já písnička music singing
-píseň Tumša nakte 🎵 
 
 
 
+# konečně se mi daří něco psát
+po 3, 
+po 7 hodinách spánku,
+10 hodin po léku mirtazapin,
 
 
+# téma 0119-potreboval-bych-pomoc
+[[0119-potreboval-bych-pomoc.publ.md]]
 
-# jenže,   objev?  26031-23  ?! ...   co když prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ?!
+btw -- oni píšou souvislé texty , 
 
+
+# jenže,   objev?  26031-24  ?! ...   co když bojí týdny vrátit se k tématu xyz, jako já 
+# old jenže,   objev?  26031-23  ?! ...   co když prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ?!
+
+
+# ZADÁVÁNÍ TEXTU HLASEM 
 
 
 # https://myaccount.google.com/language
@@ -108,6 +138,10 @@ Mluvím vždy v češtině.
 
 
 
+# téma 0111-music 🎵 🎵 
+ zpěvník já písnička music singing
+píseň Tumša nakte 🎵 
+
 
 I need reminders after each message to take small breaks, hum something, or review my topic 0112.
 
@@ -151,18 +185,6 @@ C:\Users\marti\OneDrive\Dokumenty\04plan.publ.dir\0112-belly-peristaltika-obnovi
 split right
 # key combo alt+left
  key combo alt+right
-
-
-# konečně se mi daří něco psát
-po 3, 
-po 7 hodinách spánku,
-10 hodin po léku mirtazapin,
-
-
-# téma 0119-potreboval-bych-pomoc
-[[0119-potreboval-bych-pomoc.publ.md]]
-
-btw -- oni píšou souvislé texty , 
 
 
 
@@ -231,13 +253,7 @@ https://takeout.google.com/?pli=1 ... export the data before moving the link
 https://github.com/digital-gardens/Martin-Milan/blob/main/251225.publ.dir/03-topic-brainstorming-260129.publ.md
  viewed collection of links https://www.google.com/collections/s/list/-Gw_GSCuLz4YmUmSIPVztg/i6j1eKA6O9Y
 
-# ale filosofie antifragile je dulezitejsi 
 
-#  markdown table of contents is at the end of the file
-- old [[251105-symptom-tracker.f8]]
-- 7 lines header - fail 
-
-*.publ.*,*.ps1,*.cmd,*.sh,*.py,*.js,*.ahk,*.au3,*.f[0-9].*,*.f1[0-9].*
 
 
 > # https://www.csas.cz/cs/internetove-bankovnictvi/george/hey-george
