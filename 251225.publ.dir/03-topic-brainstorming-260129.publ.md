@@ -46,18 +46,35 @@ proskenil, prelil radky tohoto 1..700
  zpěvník já písnička music singing
 píseň Tumša nakte 🎵 
 
-# https://gemini.google.com/saved-info
 
 
-# https://myaccount.google.com/language
 
-Pokus 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
+
+
+# jenže,   objev?  26031-23  ?! ...   co když prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ?!
+
+
+# Pokus 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
 	doc patri martinovi ale dir patri milanovi
 251022 Diktování dokumentů ve Wordu.docx
 	no permission to rename 
 
 
+# https://gemini.google.com/saved-info
+
+# https://myaccount.google.com/language
+objev 26031-22
+gemini language settings
+mobile 
+web 
+
+
+
 https://myaccount.google.com/language?continue=https%3A%2F%2Fmyaccount.google.com%2F%3Fhl%3Den%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzBd&hl=en&utm_source=OGB&utm_medium=act&gar=WzBd
+
+
+https://chatgpt.com/c/69c0903c-34a0-838b-9672-44b5e5974b7f#settings
+
 
 
 Chci komunikovat v češtině.
