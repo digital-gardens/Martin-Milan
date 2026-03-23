@@ -85,6 +85,13 @@ btw -- oni píšou souvislé texty ,
 
 
 # ZADÁVÁNÍ TEXTU HLASEM 
+## see also keep 251217  ...   v případě postele
+https://keep.google.com/#NOTE/1n5Ew-5bzvYuP3LWpnkzsg1ggEJjdGErEw8uBXAtQa9rjJHS7f8HiOi_BDDTMEydAEmYu
+kopie z keep do docs 
+https://docs.google.com/document/d/1gUUuJ9McRrdcZsqKvgDW4o6NnMP8qYNtwJqVbGtp3xg/edit?tab=t.0
+
+
+bug trochu neslušné texty v inbox
 
 
 # https://myaccount.google.com/language
