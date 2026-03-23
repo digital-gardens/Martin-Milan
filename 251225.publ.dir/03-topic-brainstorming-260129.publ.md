@@ -91,7 +91,10 @@ kopie z keep do docs
 https://docs.google.com/document/d/1gUUuJ9McRrdcZsqKvgDW4o6NnMP8qYNtwJqVbGtp3xg/edit?tab=t.0
 
 
-bug trochu neslušné texty v inbox
+# bug trochu neslušné texty v
+gdr 2 documents 
+CHYBY 260323 - Google Drive
+ , v onedrive 1 doc
 
 
 # https://myaccount.google.com/language
