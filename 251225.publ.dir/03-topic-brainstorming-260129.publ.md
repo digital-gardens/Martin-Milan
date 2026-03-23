@@ -3,6 +3,9 @@ tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím 
 ---
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+
+
 # téma 0111-music 🎵 🎵 
  zpěvník já písnička music singing
 píseň Tumša nakte 🎵 
@@ -20,6 +23,14 @@ FIND
 
 # ale filosofie antifragile, Adaptability je dulezitejsi 
 
+
+# 011 system 
+# gdr mkdir 
+011-POMOC/JM
+https://drive.google.com/drive/folders/1U03UE4NRofKL7UOpMbQWSMeGAZFAgfLN
+
+# odr mkdir
+011-POMOC.publ.dir/JM/
 
 #  markdown table of contents is at the end of the file
 - old [[251105-symptom-tracker.f8]]
@@ -91,10 +102,9 @@ kopie z keep do docs
 https://docs.google.com/document/d/1gUUuJ9McRrdcZsqKvgDW4o6NnMP8qYNtwJqVbGtp3xg/edit?tab=t.0
 
 
-# bug trochu neslušné texty v
-gdr 2 documents 
-CHYBY 260323 - Google Drive
- , v onedrive 1 doc
+# fixed bug trochu neslušné? texty v # Musím si připravit obranu ...  dolovat. # 251022 
+
+ 
 
 
 # https://myaccount.google.com/language
@@ -120,7 +130,7 @@ nepomohlo nastavit celý dokument na Czech
 
 ## ?? v případě budoucích problémů typu 251217 .. a co kdybych nastavil češtinu v microsoftu ?! v edge? zeptat ai?
 
- 260323 Pokus zadávání textu hlasem. To je zajímavý. Teď ta čeština funguje. 
+## 260323 Pokus zadávání textu hlasem. To je zajímavý. Teď ta čeština funguje. 
 
 Drobná chybka místo slova žádná. On mi píše 0. 
 
