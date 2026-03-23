@@ -54,13 +54,6 @@ píseň Tumša nakte 🎵
 # jenže,   objev?  26031-23  ?! ...   co když prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ?!
 
 
-# Pokus 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
-	doc patri martinovi ale dir patri milanovi
-251022 Diktování dokumentů ve Wordu.docx
-	no permission to rename 
-
-
-# https://gemini.google.com/saved-info
 
 # https://myaccount.google.com/language
 objev 26031-22
@@ -69,6 +62,26 @@ mobile
 web 
 
 
+
+
+# 260323 a co kdybych nastavil češtinu v microsoftu ?!
+
+# word 251217 diktování jen Engl ve wordu 
+251022 Diktování dokumentů ve Wordu.docx
+	no permission to rename 
+
+
+
+#   Pokus 251217 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
+	doc patri martinovi ale dir patri milanovi
+
+# pozor možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, a možná to bude fungovat
+
+
+
+
+
+# https://gemini.google.com/saved-info
 
 https://myaccount.google.com/language?continue=https%3A%2F%2Fmyaccount.google.com%2F%3Fhl%3Den%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzBd&hl=en&utm_source=OGB&utm_medium=act&gar=WzBd
 
