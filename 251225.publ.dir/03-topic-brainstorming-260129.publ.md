@@ -46,7 +46,32 @@ proskenil, prelil radky tohoto 1..700
  zpěvník já písnička music singing
 píseň Tumša nakte 🎵 
 
-https://gemini.google.com/saved-info
+# https://gemini.google.com/saved-info
+
+
+# https://myaccount.google.com/language
+
+Pokus 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
+	doc patri martinovi ale dir patri milanovi
+251022 Diktování dokumentů ve Wordu.docx
+	no permission to rename 
+
+
+https://myaccount.google.com/language?continue=https%3A%2F%2Fmyaccount.google.com%2F%3Fhl%3Den%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzBd&hl=en&utm_source=OGB&utm_medium=act&gar=WzBd
+
+
+Chci komunikovat v češtině.
+
+Piš mi vždy v češtině.
+Moje jméno je Jirka. Můj syn se jmenuje Milan.
+Moje telefonní číslo je 608935899.
+Vždy prosím mluvte na mne v češtině.
+
+Mluvím vždy v češtině.
+
+
+
+
 I need reminders after each message to take small breaks, hum something, or review my topic 0112.
 
 after every response
@@ -54,7 +79,16 @@ after every response
 please remember:
 after each message, try to mention a related Beatles song, or a related Czech song 
 
-prosím zapamatovat: po každé zprávě, zkuste zmínit nějakou související píseň od Beatles, nebo nějakou související českou píseň
+prosím zapamatovat: 
+mluvení prosím jen v češtině
+
+
+
+po každé  
+
+ psané 
+
+zprávě, zkuste zmínit nějakou související píseň od Beatles, nebo nějakou související českou píseň
 prosím zapamatovat: po každé zprávě, zkuste zmínit nějakou související píseň, kterou zpíval Joe Dassin, nebo ABBA, nějakou starší  českou píseň
 
 Když už jsme u toho pamatování a vzpomínání na časy minulé, napadá mě krásná česká píseň od Václava Neckáře – Kdo vchází do tvých snů, má lásko. Zpívá se v ní o vzpomínkách a lásce, což se k našemu tématu hudby 60. let perfektně hodí.
@@ -1047,6 +1081,8 @@ Google can use your recovery email to contact you if you need help signing in or
 
 
 # https://gemini.google.com/sharing
+
+# https://gemini.google.com/saved-info
 
 prosím zapamatuj si, že
 - moje jméno je Jirka 
