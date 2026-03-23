@@ -24,6 +24,7 @@ importance: ℹ️ℹ️ℹ️
 attention: aaaa
 urgency:  rrrr️
 
+
 # téma 011-POMOC 💚 💚 
 
 https://github.com/digital-gardens/Martin-Milan/tree/main/011-POMOC.publ.dir
@@ -40,6 +41,7 @@ proskenil, prelil radky tohoto 1..700
 - extracted
 - generated the new file
 - created the new file based on this 
+
 
 
 # téma 0111-music 🎵 🎵 
@@ -64,7 +66,11 @@ web
 
 
 
-# 260323 a co kdybych nastavil češtinu v microsoftu ?!
+# pozor 260323 a co kdybych nastavil češtinu v microsoftu ?! v edge? zeptat ai?
+# word online a zadávání hlasem
+home..dictate
+  transcribe
+260323 251217 251022 Diktování dokumentů ve Wordu  
 
 # word 251217 diktování jen Engl ve wordu 
 251022 Diktování dokumentů ve Wordu.docx
@@ -72,11 +78,12 @@ web
 
 
 
+
+# pozor 260323 možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, a možná to bude fungovat
+# google docs ..tools .. voice typing ctrl Shift s v google docs
 #   Pokus 251217 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
 	doc patri martinovi ale dir patri milanovi
-
-# pozor možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, a možná to bude fungovat
-
+260323 251217 Copy of Pokus 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google
 
 
 
