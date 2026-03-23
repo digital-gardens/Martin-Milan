@@ -110,7 +110,7 @@ nepomohlo nastavit celý dokument na Czech
 
 ## ?? v případě budoucích problémů typu 251217 .. a co kdybych nastavil češtinu v microsoftu ?! v edge? zeptat ai?
 
-# 260323 Pokus zadávání textu hlasem. To je zajímavý. Teď ta čeština funguje. 
+ 260323 Pokus zadávání textu hlasem. To je zajímavý. Teď ta čeština funguje. 
 
 Drobná chybka místo slova žádná. On mi píše 0. 
 
@@ -123,15 +123,18 @@ Vůbec 0 nastavení jsem ještě neměnil. 0. 0 není 0. Není 0. 0. Místo slov
  
 
 
+# google docs má ....V malém okénku Voice typing.. v menu se dá nastavit jazyk čeština. .......# google docs ..tools .. voice typing ctrl Shift s v google docs
 
-# pozor 260323 možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, 
-# google docs ..tools .. voice typing ctrl Shift s v google docs
-#   Pokus 251217 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
+https://docs.google.com/document/d/1CPIi7EzG6Mp8K7pv17CKiP_oM6CFIGFYGfrW2OX--J0/edit?tab=t.0
+   Pokus 251217 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
 	doc patri martinovi ale dir patri milanovi
 260323 251217 Copy of Pokus 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google
 
-260323 Pokus zadávání textu hlasem.No, výborně teď to funguje.Tady v majáku se dá nastavit jazyk čeština.V.V malém okénku v menu se dá nastavit jazyk čeština. 
+260323 Pokus zadávání textu hlasem.No, výborně teď to funguje.Tady v majáku se dá nastavit jazyk čeština.V.
+
 Diktováno přes Martin a. 
+
+## ?? v případě budoucích problémů  možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, 
 
 
 
