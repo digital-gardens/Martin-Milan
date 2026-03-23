@@ -96,25 +96,42 @@ web
 
 
 
-# pozor 260323 a co kdybych nastavil češtinu v microsoftu ?! v edge? zeptat ai?
 # word online a zadávání hlasem
 home..dictate
   transcribe
 260323 251217 251022 Diktování dokumentů ve Wordu  
+https://onedrive.live.com/personal/4b12298d932a2860/_layouts/15/Doc.aspx?resid=4B12298D932A2860!s38532af3f43e465e803d40a44beb3499&cid=4b12298d932a2860&migratedtospo=true&app=Word
 
-# word 251217 diktování jen Engl ve wordu 
+# word 251217 problem ..  diktování je  jen Engl ve wordu 
+nepomohlo nastavit celý dokument na Czech
+
 251022 Diktování dokumentů ve Wordu.docx
 	no permission to rename 
 
+## ?? v případě budoucích problémů typu 251217 .. a co kdybych nastavil češtinu v microsoftu ?! v edge? zeptat ai?
+
+# 260323 Pokus zadávání textu hlasem. To je zajímavý. Teď ta čeština funguje. 
+
+Drobná chybka místo slova žádná. On mi píše 0. 
+
+Vůbec 0 nastavení jsem ještě neměnil. 0. 0 není 0. Není 0. 0. Místo slova 0. On mi pořád píše 0. 0,7. Ani 1 nastavení jsem ještě neměnil a zadávání češtiny funguje. 
+
+ Sama. Ke tomu možný? Jak je to možné? Krásně funguje. Zadávám přes Martin a. 
+
+251022 Umí některé příkazy jako například. Nový Řádek.  
+
+ 
 
 
 
-# pozor 260323 možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, a možná to bude fungovat
+# pozor 260323 možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, 
 # google docs ..tools .. voice typing ctrl Shift s v google docs
 #   Pokus 251217 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
 	doc patri martinovi ale dir patri milanovi
 260323 251217 Copy of Pokus 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google
 
+260323 Pokus zadávání textu hlasem.No, výborně teď to funguje.Tady v majáku se dá nastavit jazyk čeština.V.V malém okénku v menu se dá nastavit jazyk čeština. 
+Diktováno přes Martin a. 
 
 
 
