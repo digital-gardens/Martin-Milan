@@ -36,10 +36,17 @@ https://drive.google.com/drive/folders/1U03UE4NRofKL7UOpMbQWSMeGAZFAgfLN
 keep existing 0000, 0404
 "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-250825-250831-ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8.md"
 
+00043-tags-0000-is--0-SYSTEM---ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md
+
+maybe
 00043-tags-0404-shouldbe-04plan---ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md
-00043-tags-011-subsumed-0404---ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md
+
+maybe 00043-tags-011-subsumed-0404---ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md
 
 ```pwsh
+
+cp "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-250825-250831*"  "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-0000-is--0-SYSTEM---ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md"
+
 
 cp "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-250825-250831*"  "C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\00043-tags-011-subsumed-0404---ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md"
 cp "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-250825-250831*"  "C:\Users\marti\OneDrive\Dokumenty\0404-HLAVNI-ROZCESTNIK-MAIN-INDEX\00043-tags-0404-shouldbe-04plan-ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md"
