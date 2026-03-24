@@ -24,6 +24,8 @@ FIND
 # ale filosofie antifragile, Adaptability je dulezitejsi 
 
 
+# 0 system
+# 01+04 system
 # 011 system 
 # gdr mkdir 
 011-POMOC/JM
@@ -31,6 +33,8 @@ https://drive.google.com/drive/folders/1U03UE4NRofKL7UOpMbQWSMeGAZFAgfLN
 
 # odr mkdir
 011-POMOC.publ.dir/JM/
+keep existing 0000, 0404
+
 
 #  markdown table of contents is at the end of the file
 - old [[251105-symptom-tracker.f8]]
