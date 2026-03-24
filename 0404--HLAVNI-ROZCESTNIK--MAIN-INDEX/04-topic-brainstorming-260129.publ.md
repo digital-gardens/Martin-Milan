@@ -1,15 +1,14 @@
 ---
-tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr
+tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr filosofie adaptability
 ---
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+# ale filosofie adaptability je dulezitejsi 
 
 
 # téma 0111-music 🎵 🎵 
  zpěvník já písnička music singing
 píseň Tumša nakte 🎵 
-
 text pisne meeting briefing brainstorming 
 
 # bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another #
@@ -19,9 +18,6 @@ text pisne meeting briefing brainstorming
 # DONT PUBLISH EMAIL addresses 
 FIND
 @g
-
-
-# ale filosofie antifragile, Adaptability je dulezitejsi 
 
 
 # 0 system
@@ -49,8 +45,13 @@ cp "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-250825-250831*"  "C:
 
 
 cp "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-250825-250831*"  "C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\00043-tags-011-subsumed-0404---ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md"
-cp "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-250825-250831*"  "C:\Users\marti\OneDrive\Dokumenty\0404-HLAVNI-ROZCESTNIK-MAIN-INDEX\00043-tags-0404-shouldbe-04plan-ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md"
 cp "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-250825-250831*"  "C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\00043-tags-0404-shouldbe-04plan-ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md"
+
+
+cp "C:\Users\marti\OneDrive\Dokumenty\0000000004\00043-tags-250825-250831*"  "C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\02-topic-brainstorming-260129.publ.md"
+
+code   "C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\02-topic-brainstorming-260129.publ.md" 
+0404-HLAVNI-ROZCESTNIK-MAIN-INDEX\00043-tags-0404-shouldbe-04plan-ℹ️ℹ️ℹ️ℹ️ℹ️-aaaaAAA-00000-CORE1000-.f8.md"
 
 
 ```
