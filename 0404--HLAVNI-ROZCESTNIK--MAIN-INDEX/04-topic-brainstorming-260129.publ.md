@@ -20,6 +20,14 @@ FIND
 @g
 
 
+
+NOW MARK SOME 
+  TODO  
+EG. 1270
+
+
+
+
 # 0 system
 # 01+04 system
 # 011 system 
@@ -309,10 +317,12 @@ extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
 https://github.com/digital-gardens/Martin-Milan/blob/main/011-POMOC.publ.dir/011-POMOC-pro-Martina-Milana.publ.md
 
 
-# 0112-belly obnovit trávení, takeout c: ...
+# TAKEOUT GOOGLE-SAVED ... export the data before moving the link
+ https://takeout.google.com/?pli=1 ...   GOOGLE-SAVED ... export the data before moving the link
 # bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another #
 Workarounds ...
-https://takeout.google.com/?pli=1 ... export the data before moving the link
+comment at google-saved
+ 0112-belly obnovit trávení, takeout c: ...
 "C:\Users\marti\OneDrive\Dokumenty\011-POMOC\Takeout"
 "C:\Users\marti\OneDrive\Dokumenty\011-POMOC\Takeout\Saved"
 
@@ -1395,6 +1405,7 @@ Size: 23.0 MBSize23.0 MBVersion: 4 . 8 . 7Version4.8.7
 This extension contains malware.
 
 
+# is there an app with a command palette with parameters ... i mean, where the mini-lang of the commands supports commands with parameters ... something analogous to a  mini shell 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #  # 260314 # clipboard copy paste
 
@@ -1765,6 +1776,7 @@ dont.. how to move from one google family to another
 
 
 
+
 # 260219 echoes 
 limit is due to Gemini's API restrictions. Google's Gemini API becomes unreliable after 500-600 conversations and stops returning data properly. This is not a limitation imposed by our extension."><p>To manage this, we recommend regularly exporting your conversations to ensure you have a backup of your data. You can export your conversations by clicking on the "Export Conversations" button in the extension's settings. This will allow you to save your conversation history before reaching the API limit.</p>
 
@@ -1787,16 +1799,48 @@ Organization:
 
 Showing 1-25 of 102 conversations.
 
-takeout
+
+
+
+
+# TAKEOUT GEMINI    260325
 
 https://takeout.google.com/?pli=1
+
+^f
+
+Zrušit výběr všech
+
 *****My Activity
+Moje aktivita
+
+default is html
+
+Zrušit výběr všech
+
+Aplikace s Gemini
+
+
+Až export kopie dokončíme, soubory přidáme na Disk a zašleme vám e-mailem odkaz na jejich umístění. Tyto soubory se budou počítat do kvóty úložiště. Další informace o tom, jak najít, zobrazit a sdílet data.
+
+
+??
+Exportovat jednou
+Exportovat každé 2 měsíce po dobu jednoho roku
+
+
+
+"C:\Users\marti\OneDrive\google-takeout\260325\archive_browser.html"
+"C:\Users\marti\OneDrive\google-takeout\260325\MojeAktivita.html"
 
 "C:\Users\marti\OneDrive\google-takeout\3\MyActivity.json"
 "C:\Users\marti\OneDrive\google-takeout\3\MyActivity.html"
 
 
-https://gemini.google.com/app/64f66c40988f32d8
+
+
+
+# https://gemini.google.com/app/64f66c40988f32d8
 
 https://gemini.google.com/search
 

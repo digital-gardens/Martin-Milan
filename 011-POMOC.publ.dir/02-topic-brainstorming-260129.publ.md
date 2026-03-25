@@ -19,3 +19,64 @@ text pisne meeting briefing brainstorming
 FIND
 @g
 
+
+
+# scan C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\04-topic-brainstorming-260129.publ.md
+
+
+
+
+
+
+# google drive 260323
+
+011-proMilana - Google Drive
+
+02-MB-251217 hlasové zadávání topic-brainstorming-260129 251217 251022 260323
+
+JM 
+
+02-JB hlasové zadávání 260129 260323 251022 251217
+
+
+C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\02-topic-brainstorming-260129.publ.md
+
+voice-typing 
+ℹ️ℹ️ℹ️ℹ️ 251217-nápady povedlo se mi v posteli pokus 251022
+
+
+google docs  . tabs 
+Name tabs, add emojis, and create sub-tabs to add structure and make your document easier to read
+
+
+gemini v google docs ... první dojem ... viděl jsem zajímavé příklady: něco jako ..
+prohledej web a napiš odstavec o ...
+prohledej můj google drive a napiš odstavec o ...
+napiš email o ...
+
+
+Welcome to Gemini in Google Docs
+gemini in google docs ... first time ... i have seen interesting examples: something like ..write a paragraph about,
+
+search the web to write a paragraph about ...
+search my drive
+
+write an email about
+
+create a plan for 
+
+outline 
+
+# do a web search about 
+
+# Bulletize: Turn a complex paragraph into an easy-to-read list.
+
+vygeneruj nečíslovaný seznam z tohoto textu, aby to bylo přehlednější a snazší k pochopení.
+
+jaký je oficiální název pro nečíslovaný seznam?
+
+Nečíslovaný seznam se oficiálně nazývá odrážkový seznam.
+
+// … menu Formát
+
+
