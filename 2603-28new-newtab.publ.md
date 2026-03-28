@@ -1,4 +1,4 @@
-
+2603-28new-newtab.publ.md
 
 # 2603-27
 https://
@@ -28,7 +28,6 @@ Allow access to file URLs
 
 
 
-todo delete some of the inspect from obsidian
 
 
 
@@ -75,6 +74,9 @@ permissions are optional
  
 
 ## Redirect URL
+
+
+file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
 
  Save Cancel 
 

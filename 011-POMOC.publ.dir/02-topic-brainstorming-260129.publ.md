@@ -23,7 +23,7 @@ FIND
 https://
 musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
 
-# [[2603-28newtab.publ.md]]
+# [[2603-28new-newtab.publ.md]]
 
 
 

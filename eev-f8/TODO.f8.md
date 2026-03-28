@@ -1,6 +1,30 @@
 
-file:///C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251225.tagged.lines.publ.md
+zda namirit newtab na 
+file:///C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir/011-POMOC-pro-Martina-Milana.publ.md
+nebo na
+file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
 
+
+
+# privatni poznamky
+# téma 011-POMOC 💚 💚 
+#  filosofie antifragile je dulezitejsi 
+011-POMOC-pro-Martina-Milana.publ.md  scanned the file 03-brainstorming, transferred the content to this new file
+ 
+260306-co-person
+coMM 
+iMM
+
+new tab home page
+# extension://ahmddkokfhbdbmlioknpkipoikcckpah/options.html
+https://github.com/digital-gardens/Martin-Milan/blob/main/011-POMOC.publ.dir/011-POMOC-pro-Martina-Milana.publ.md
+https://www.google.com/interests/saved/list/fNvsFNjr6yDGlNWZGAow2Q
+
+# Z hlediska roku 2026, 2030, 2040 💚⏰!
+
+file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
+
+file:///C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251225.tagged.lines.publ.md
 
 file:///C:/Users/marti/OneDrive/Dokumenty/BIGfavorites_11_7_25.html
 
