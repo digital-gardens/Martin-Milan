@@ -1347,14 +1347,27 @@ fail https://new.reddit.com/user/martin_m_n_novy/
 
 lists all https://old.reddit.com/user/martin_m_n_novy/
 
+LB
+https://www.reddit.com/user/Reasonable-Map-9245/
+
+# afraid it will get renamed
+maybe wasnt unlisted?
+ https://www.reddit.com/r/code_rosettas/
+linked from
+	https://docs.google.com/spreadsheets/d/1w4MAxWcWjX3aMBRkOsqjwcAabFtY4WT4JloPRd944og/edit?gid=377285990#gid=377285990
+https://github.com/code-rosettas
+now 2 members
+
+now it is visible at 
+	https://www.reddit.com/user/martin_m_n_novy/
 
 
-afraid losing 
-# todo https://www.reddit.com/r/code_rosettas/
-
-already unlisted 
+ unlisted 
 # todo https://www.reddit.com/r/survival_of_our_info/
+now 2 members
 
+
+I like your where_can_i_host_my_website_and_not_have_it ... I have reshared to r/survival_of_our_info
 
 
 
@@ -1368,6 +1381,7 @@ https://www.reddit.com/r/transhuman_identity/
 https://www.reddit.com/r/a:t5_4sdxhh/
 
 why it is unlisted https://www.reddit.com/r/autistic_self_help/
+now 2 members
 
 # mitigation strategy for reddit bug of losing 1-user subreddits
 
@@ -1378,8 +1392,9 @@ survival_of_our_info
 renamed to r..a..t5_4sdxhh
 mobileBatterySafety
 
-edit no, i am afraid ...will not ... will share to u/
+edit no, i am afraid ...will not ... share to u/
 # https://www.reddit.com/r/productivity/comments/1gr0ogu/i_find_myself_being_more_productive_by_eating_less/
+
 
 
 
