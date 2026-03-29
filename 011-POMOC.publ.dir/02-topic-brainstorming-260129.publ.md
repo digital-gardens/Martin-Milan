@@ -84,9 +84,16 @@ Nečíslovaný seznam se oficiálně nazývá odrážkový seznam.
 
 // … menu Formát
 
+# https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/?utm_source=kw-newsletter&utm_medium=email&utm_campaign=03272026&utm_content=cta
 
 # [[bliss-2603.publ.md]]
 
+
+# Facebook settings to stop notifications about
+- blast from the past memories
+- look back on this day memories
+- remix your memories
+https://www.facebook.com/memories/?source=bookmark
 
 # [[260326-github-notifications.publ.md]]
 

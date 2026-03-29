@@ -1,5 +1,32 @@
 bliss-2603.publ.md
 
+https://discord.com/channels/786550541182435338/786550541182435341/1483026669773262949
+
+github
+
+reddit 
+
+has: link 
+
+from: matsl5528 
+
+# A question: Your Blissary resources are really in many ways the best around today - rivaled only by subscription based Bliss Online in some ways. There is of course some additional things one would like to see: 
+The first one is a tool for creating new bliss words from existing bliss characters (rather than building from scratch with Bliss Maker (which is excellent for building new characters, but which you seldom need, and generally should avoid)).
+
+
+
+
+
+
+
+
+I'm in contact with Shirley and Margarets and a few more weekly over Zoom, as part of Jutta Treviranus project about Bliss and AI, in witch they frequently use Blissary and Bliss-SVG-Builder.
+
+
+
+Treat Bliss as a language in its own right, give it rules for how to combine character to words, and words to sentences, and remove all confusing inconsistencies and strange contractions. Then, maybe you can generate the amount needed... 😂  I didn't really get anyone with me on this, so I took a year off from the discussions, to let them try their thing. I just recently joined again, and I feel other winds, now, so... we'll see! Shirley encouraged me to open up for a more exploratory, consistent, AI friendly path on Blissary, alongside relaying BCI information which I have done exclusively, so far. 
+
+
 
 
 
