@@ -85,12 +85,10 @@ Nečíslovaný seznam se oficiálně nazývá odrážkový seznam.
 // … menu Formát
 
 
+# [[bliss-2603.publ.md]]
 
 
-
-
-
-[[260326-github-notifications.publ.md]]
+# [[260326-github-notifications.publ.md]]
 
 25 selected
 unsubscribe

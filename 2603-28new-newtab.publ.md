@@ -30,6 +30,13 @@ Allow access to file URLs
 
 
 
+zda namirit newtab na 
+file:///C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir/011-POMOC-pro-Martina-Milana.publ.md
+nebo na
+file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
+
+
+
 
 
 
@@ -37,7 +44,7 @@ Allow access to file URLs
 https://github.com/jimschubert/NewTab-Redirect?tab=readme-ov-file
 
 https://github.com/jimschubert/newtab-redirect/wiki
-
+uz jsem procetl faq
 
 
 
