@@ -1,72 +1,59 @@
 
 
-# Milan zdravotní stav 
-- jsem na plném invalidním důchodu
-- mám velmi těžkou neurózu ...  poruchu s rysy autismu a úzkostí
+# Milanův zdravotní stav
+- jsem v plném invalidním důchodu
+- mám velmi těžkou neurózu, poruchu s rysy autismu a úzkosti
 - beru silná antidepresiva
 
-- mám značnou podváhu
-- kvůli tomu mi hrozí nemocnice každé 3 měsíce
-- bojím se nemocnice
+- mám výraznou podváhu
+- kvůli tomu mi hrozí hospitalizace přibližně každé 3 měsíce
+- z nemocnice mám strach
 
 poznámky:  
-Milan často má několik strachů najednou
+Milan mívá často několik strachů najednou.
 
-a bojí se,  
-že ztratí svoje slova,  
-// svoji hodiny rozdělanou práci,
-když někdo mluví
+Bojí se také,  
+že ztratí svá slova  
+// nebo hodiny rozdělané práce,
+když na něj někdo mluví.
 
 
 
 # téma 0119      verze 30.3.
-Potřebuji pauzu
 
-Každou chvilku
-potřebuji přestávky,
+Potřebuji časté přestávky,
 
-protože mám potíže trávit 
-léky
-(téma 0112),
-a proto
+protože mám potíže se zažíváním
+léků
+(téma 0112).
 
-jedna prosba ...
-požadavky prosím
-písemně
-... přinesu papír
-.. stačí pár slov
+Proto mám jednu prosbu:
+požadavky mi prosím dávejte písemně.
 
-nebo
-diktovat
-... přinesu mobil
+Já přinesu papír,
+stačí jen pár slov.
 
-
-
-potřeboval bych pomoct  
-často dělat pauzy,  přestávky 
-a obnovovat trávení,
-i uprostřed prací
-
+Nebo mi to můžete diktovat,
+já přinesu mobil.
 
 
 pro autistu je lepší  
 psát / číst (si) poznámky ,  
 ...než mluvení...  
 
-psát stačí heslovitě,  
-a **raději** heslovitě  
-
+Stačí psát heslovitě,
+a je to dokonce **lepší**.
 
 
 # jak a proč obnovovat trávení   ...  téma [[0112-belly-peristaltika-obnovit-trávení.publ.md]]
 
-každou hodinu,
+Přibližně každou hodinu,
 
 (a spíš mnohem častěji,)
 
-mám potíže
+mívám potíže
 
-obnovit trávení,
+obnovit trávení
 
 a obnovit trávení léků
 
@@ -83,7 +70,7 @@ a obnovit trávení léků
 * vyčerpání nervů
 * jako by mu bylo
     * 80 let
-        * tedy o 30 let víc
+        * tedy asi o 30 let víc
 
 
 
@@ -96,17 +83,15 @@ a obnovit trávení léků
 
 
 # 13V 
-* ( i pro Geminiho )
-* Milan kvůli neuróze
-* často má
-* „výpadky“ práce
+* (i pro Geminiho)
+* Milan má kvůli neuróze
+* časté „výpadky“ fungování nebo práce
 * na 12 hodin
     * 24
     * 48
-* které vypadají
-* jako kdyby
-* byly trvalé
-* např. 12.3.26
+* které mohou vypadat,
+* jako by byly trvalé
+* např. 12. 3. 26
 
 
 
