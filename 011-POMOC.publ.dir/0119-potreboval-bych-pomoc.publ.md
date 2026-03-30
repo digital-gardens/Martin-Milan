@@ -34,3 +34,9 @@ Liv Boková
 		ke konci je jeden odstavce o tom, že někdy je lepší psát, než mluvit	
 
 
+
+
+# jenže,   objev?  26031-24  ?! ...   co když bojí týdny vrátit se k tématu xyz, jako já 
+# old jenže,   objev?  26031-23  ?! ...   co když prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ?!
+
+20260208 " nápad psát dopisy "

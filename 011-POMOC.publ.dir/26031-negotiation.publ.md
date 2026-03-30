@@ -51,19 +51,23 @@ a multi topic, that I am working on now
 # 29
 # 30vvč
 
-jak to spojit s [[0119-potreboval-bych-pomoc.publ.md]]
+asi už prohlédl 011-POMOC-pro-Martina-Milana.publ.md,  
 
-musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
+jak to spojit s [[0119-potreboval-bych-pomoc.publ.md]]
 
 
 
 from gemini of JB 
+asi 6 transcribed images of a5 
 
-20260208 nápad psát dopisy
+zda do 0119
+nebo do nového souboru 30vvč 
 
-to gemini of LB
+komu ty zprávy píšu
+- fantazijně ... pro vyjednavače 
+- pro  gemini of LB
+- pro  gemini of JB 
 
-fantazijně ... pro vyjednavače 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
