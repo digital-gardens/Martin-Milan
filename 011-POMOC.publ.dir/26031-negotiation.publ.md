@@ -323,7 +323,8 @@ více laskavou a rodinnou
 více stručnou
 více spisovnou.
 
-
+commit
+Copyedited two Czech markdown files for clarity and consistency. In 0119-potreboval-bych-pomoc.publ.md: improved headings and wording about Milan's health (disability, anxiety, weight/hospitalization), clarified requests for written notes and breaks, tightened phrasing, fixed punctuation and minor formatting (hourly digestion notes, age comparison, and date formatting). In 26031-negotiation.publ.md: inserted a short Copilot note explaining the light edit, listing what was improved (clarity, smoother Czech, gentler phrasing for parents, preserved meaning/structure) and offering alternative versions (more tender, concise, or formal). Changes are editorial only — no functional or structural rewrites.
 
 
 # [[0119pozdeji.publ.md]]
