@@ -34,17 +34,6 @@ how to negotiate with elderly parents
 (Thinking about the effort it takes to navigate these family dynamics and find common ground brings to mind the Beatles song "We Can Work It Out." It perfectly captures the friction of trying to get someone to see things from a different perspective, while hoping to eventually reach an understanding.)
 
 
-
-
-
-
-
-
-
-
-26031-negotiation.publ.md
-
-
 # 26031 first, i am going to post merely to my reddit user page
 
 reddit
@@ -53,3 +42,22 @@ attempts ... at communication and negotiation ... with elderly parents .26031
 
 I apologize for this ~~ brain dump ...
 a multi topic, that I am working on now 
+
+
+
+# 26031-30vvč
+
+co dát do 011
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
+
+
+
+
+
+
+
+
