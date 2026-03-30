@@ -21,7 +21,7 @@ FIND
 
 
 # 2603-27phys
-# https://musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
+# musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
 # 29
 [[26031-negotiation.publ.md]]
 # 30vvč

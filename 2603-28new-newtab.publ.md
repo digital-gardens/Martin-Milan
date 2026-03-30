@@ -1,7 +1,7 @@
 2603-28new-newtab.publ.md
 
 # 2603-27
-https://
+https://   ___???
 musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
 
 # https://gemini.google.com/app/a319ecf14c4949be

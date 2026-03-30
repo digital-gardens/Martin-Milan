@@ -51,7 +51,9 @@ a multi topic, that I am working on now
 # 29
 # 30vvč
 
-# https://musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
+jak to spojit s [[0119-potreboval-bych-pomoc.publ.md]]
+
+musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
 
 
 
@@ -60,6 +62,8 @@ from gemini of JB
 20260208 nápad psát dopisy
 
 to gemini of LB
+
+fantazijně ... pro vyjednavače 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
@@ -71,4 +75,4 @@ EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT
 
 
 
-# https://musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
+musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
