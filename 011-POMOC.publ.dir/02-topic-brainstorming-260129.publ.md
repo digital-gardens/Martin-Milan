@@ -24,7 +24,7 @@ FIND
 # https://musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
 # 29
 [[26031-negotiation.publ.md]]
-# 26031-30vvč
+# 30vvč
 
 
 # [[2603-28new-newtab.publ.md]]

@@ -4,6 +4,8 @@ komunikace-26031-negotiation.publ.md
 edge://welcome-to-your-workspace/
 
 
+# google photos 26031 
+
 ## connect
 
 I would like ...
@@ -45,11 +47,19 @@ a multi topic, that I am working on now
 
 
 
-# 26031-30vvč
+# 27phys
+# 29
+# 30vvč
 
-co dát do 011
+# https://musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
 
 
+
+from gemini of JB 
+
+20260208 nápad psát dopisy
+
+to gemini of LB
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
@@ -61,3 +71,4 @@ EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT
 
 
 
+# https://musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
