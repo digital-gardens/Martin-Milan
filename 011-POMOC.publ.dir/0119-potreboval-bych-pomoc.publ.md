@@ -28,15 +28,34 @@ psát / číst (si) poznámky ,
 psát stačí heslovitě,  
 a **raději** heslovitě  
 
-pozn.:
-Liv Boková
-	článek Jak komunikovat 
+
+
+
+# old, jenže,   objev?  26031-23  ?! ...   co když oni prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ?!
+
+# jenže,   objev?  26031-24  ?! ...   co když oni se  bojí týdny vrátit se k určité práci, jako já někdy 
+
+# 20260208 " nápad psát dopisy "
+
+
+
+
+
+
+#později
+
+# 12a5. platí opakovaně,
+Milan:
+Děkuji za Tvých
+19 psaných slov,
+ale mohl jsi
+tato slova
+dát Geminimu,
+a také několik snímků
+obrazovky
+dát Geminimu,
+klávesa Print Screen
+
+
+# Liv Boková...	článek Jak komunikovat 
 		ke konci je jeden odstavce o tom, že někdy je lepší psát, než mluvit	
-
-
-
-
-# jenže,   objev?  26031-24  ?! ...   co když bojí týdny vrátit se k tématu xyz, jako já 
-# old jenže,   objev?  26031-23  ?! ...   co když prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ?!
-
-20260208 " nápad psát dopisy "

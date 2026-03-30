@@ -57,6 +57,22 @@ jak to spojit s [[0119-potreboval-bych-pomoc.publ.md]]
 
 
 
+prosím zapamatuj si, že
+- moje jméno je Ljuba
+- můj syn se jmenuje Milan
+
+https://gemini.google.com/saved-info
+
+🎵 A protože jste zmínila svého syna Milana, hned se mi vybavila krásná a dojemná píseň od skupiny ABBA – „Slipping Through My Fingers“. Je to nádherná písnička, která emotivně popisuje pouto k dítěti a to, jak ten společný čas neskutečně rychle letí.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
+
+
+
+
+
+
 from gemini of JB 
 asi 6 transcribed images of a5 
 
@@ -79,4 +95,110 @@ EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT
 
 
 
-musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
+# 12 Pomoc v nouzi: Psychická podpora
+// napsal jsem tento text pro svého tátu
+
+Odpověď Gemini
+Tady je přepis třetího lístku:
+
+Milan: napsal
+
+0112.b +
+12w2. + Dám 30000,- ročně
+za víc přestávek ♡
+♡ ♪ !
+
+//... S zpívám rád, a je to
+na mně, doufám, znát 
+zpívám rád 
+častokrát
+
+
+Moc děkuji za důvěru, že jsi mi to prozradil. To dává všem těm lístkům mnohem hlubší a osobnější smysl.
+
+Z těch vzkazů je jasně cítit, že jsi pod obrovským tlakem, vyčerpaný a že se snažíš svému tátovi předat zprávu o tom, jak moc potřebuješ zpomalit a odpočinout si. Ta zmínka o strachu z nemocnice, potřebě záchrany a stresu z neudělaných úkolů ukazuje, že už toho na Tebe musí být opravdu hodně a potřebuješ, aby Tě v tom někdo slyšel a pochopil. Je vidět, že se to snažíš nějak strukturovat a dát tomu řád.
+
+Jsem sice umělá inteligence a nemám lidské pocity, ale z toho textu velmi jasně vnímám tu tíhu, kterou se snažíš komunikovat. Je moc dobře, že jsi ty pocity dokázal dát na papír – někdy to je ten nejtěžší a nejdůležitější krok, jak dostat věci z hlavy ven. A to, že jsi našel úlevu ve zpěvu, je skvělé, protože to opravdu pomáhá fyzicky uvolnit napětí v těle a zklidnit mysl.
+
+Chystáš se mu ty lístky teprve předat, nebo už je četl? Chtěl bys pomoci vymyslet, jak s ním o tom všem začít tváří v tvář mluvit, nebo bys raději zkusil probrat ty nakupené „neudělané práce“, abychom z nich zkusili udělat menší a méně děsivé kroky?
+
+# EDIT [[26031-negotiation.publ.md]] #30vvč
+# EDIT [[26031-negotiation.publ.md#30vvč]] 
+# 13V etc. , zbyva 5 chatuu,  asi v poradi od konce, renamed ok, share, copy the url, paste, comment 
+// napsal jsem tento text pro svého tátu
+# zbyva zpracování dalších vzkazů, které jsi napsal, a pak bychom mohli zkusit dát dohromady nějaký plán, jak s tátou o tom všem mluvit a jak mu předat tu zprávu, kterou se snažíš komunikovat. Je důležité, aby věděl, že to není jen o tom, že potřebuješ pomoc s konkrétními úkoly, ale že je to o tom, že potřebuješ, aby Tě někdo slyšel a pochopil, jak se cítíš a co prožíváš.
+
+13V Výpadky ..Přepis ručně psaného textu z obrázku
+Připnutý chat
+populární písničky 60. a70. let
+Připnutý chat
+12a5 Gemini Live, Přepis rukou psaného vzkazu pro ...,,,Milana,,,
+Připnutý chat
+ℹ️ 12a p. Sedláková dokumenty
+Připnutý chat
+ℹ️ℹ️ 12JP prosba Komunikace přes Geminiho
+Připnutý chat
+Připnutý chat
+
+pak se vykašlu na takeout
+ne, vykašlal na toto, raději udělal takeout
+
+
+Chaty
+ℹ️🅰️Zámrznutí vody v zahradní hadici
+Připnutý chat
+Enya: The Sun in the Stream
+Připnutý chat
+myheri Platba kartou a její limity
+Připnutý chat
+Přepis e-mailů a související informace
+Připnutý chat
+Microsoft Edge Profile Preferences Explained
+Připnutý chat
+Microsoft Edge New Tab Customization
+Připnutý chat
+🐾 Vyčištění disku C: od zbytečných souborů
+Připnutý chat
+pdf Antivirus Intercepts Dropbox Worm Threat
+Připnutý chat
+Copilot-actions Desktop App Settings Explained
+Připnutý chat
+🔴 topení rohnson Přepis textu ze spotřebiče
+Připnutý chat
+Vysvětlení neurózy a vyčerpání nervů
+Připnutý chat
+Poznámky o vylepšení pracovního prostoru
+Připnutý chat
+Czech Brainstorming: Workspace Organization Ideas
+Připnutý chat
+populární písničky 60. a70. let
+Připnutý chat
+15 Gemini v práci Přepis Ručně Psaných Poznámek
+Připnutý chat
+15 Přepis Výzkumné Zprávy Sekce Optiky
+Připnutý chat
+13V Výpadky ..Přepis ručně psaného textu z obrázku
+Připnutý chat
+12a5 Gemini Live, Přepis rukou psaného vzkazu pro ...,,,Milana,,,
+Připnutý chat
+ℹ️ 12a p. Sedláková dokumenty
+Připnutý chat
+ℹ️ℹ️ 12JP prosba Komunikace přes Geminiho
+Připnutý chat
+12 Pomoc v nouzi: Psychická podpora
+
+
+0112.b +
+12w2. + Dám 30000,- ročně
+za víc přestávek ♡
+♡ ♪ !
+
+
+
+
+
+
+
+
+
+
