@@ -284,3 +284,25 @@ léky
 (téma 0112),
 a proto
 
+---
+tags: 011 0119 potřeboval bych pomoc prosím děkuji   gemini  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR
+---
+
+# téma 0119-potreboval-bych-pomoc
+
+# vysvětlení pro Geminiho 
+// já, Milan, napsal jsem 
+několik krátkých textů 
+pro svoje rodiče
+na listy papíru A5
+do kroužkového sešitu
+
+a také jsem je vyfotil a poslal Geminimu,
+aby mi pomohl s přepisem a zpracováním těch textů,
+
+
+
+
+
+
+# [[0119pozdeji.publ.md]]
