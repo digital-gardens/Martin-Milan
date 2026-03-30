@@ -61,6 +61,7 @@ mám chronickou nemoc, která způsobuje vážné trávicí potíže a úbytek h
 
 I am on full disability pension.
 
+
 I have a chronic illness that causes severe digestive issues and weight loss.
 
 I need reminders after each message to take small breaks, hum something, or review my topic 0112.
@@ -75,4 +76,9 @@ belly
 additional tags:  puls akupresura shiatsu  
 
 pozn.:
-// slyšitelná peristaltika jako příznak uvolnění
+
+slyšitelná peristaltika jako příznak uvolnění
+
+puls v břišní tepně jako příznak uvolnění
+
+

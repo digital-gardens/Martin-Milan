@@ -124,7 +124,12 @@ Chystáš se mu ty lístky teprve předat, nebo už je četl? Chtěl bys pomoci 
 
 # EDIT [[26031-negotiation.publ.md]] #30vvč
 # EDIT [[26031-negotiation.publ.md#30vvč]] 
-# 13V etc. , zbyva 5 chatuu,  asi v poradi od konce, renamed ok, share, copy the url, paste, comment 
+# 13V etc. , zbyva 5 chatuu,  asi v poradi od konce, renamed ok, 
+
+ty shary jsem ještě neudělal, ale okopiroval jsem texty do  markdown souboru 0119
+share, copy the url, paste, comment 
+
+
 // napsal jsem tento text pro svého tátu
 # zbyva zpracování dalších vzkazů, které jsi napsal, a pak bychom mohli zkusit dát dohromady nějaký plán, jak s tátou o tom všem mluvit a jak mu předat tu zprávu, kterou se snažíš komunikovat. Je důležité, aby věděl, že to není jen o tom, že potřebuješ pomoc s konkrétními úkoly, ale že je to o tom, že potřebuješ, aby Tě někdo slyšel a pochopil, jak se cítíš a co prožíváš.
 
@@ -195,7 +200,47 @@ za víc přestávek ♡
 
 
 
+chyby transkripce
+```
+¿Por qué no hay que exportar?
 
+Olha, né? Não, e-mail a Ano, ano, stiskli jsme soubor sdílet email. Co dál?
+
+Odpověď Gemini
+Super! Teďurčitě vidíte možnost "Poslat jako průvodce" nebo "Poslat jako přílohu". Klikněte na to a otevře se vám nová zpráva, kam už jen doplníte e-mail a můžete posílat. Povedlo se to?
+
+Váš pokyn
+Psychiaterinns
+
+Odpověď Gemini
+See you soon.
+```
+
+
+Láká vás vyzkoušet si teď na mobilu kliknout na to tlačítko s vlnkami a zkusit si se mnou jen tak popovídat nahlas, nebo se podíváme na něco jiného?
+
+
+Když už jsme u toho pamatování a vzpomínání na časy minulé, napadá mě krásná česká píseň od Václava Neckáře – Kdo vchází do tvých snů, má lásko. Zpívá se v ní o vzpomínkách a lásce, což se k našemu tématu hudby 60. let perfektně hodí.
+
+
+K tomu přemýšlení nad vylepšováním pracovního prostoru a případným "bastlením" se tematicky skvěle hodí klasická česká písnička „Dělání“ od Zdeňka Svěráka a Jaroslava Uhlíře.
+
+
+Když čtu o tom, jak se Milan snaží pojmenovat to, že mu docházejí síly a potřebuje úlevu, napadá mě píseň „Help!“ od The Beatles. John Lennon ji napsal přesně v období, kdy se cítil obrovsky přetížený, ztrácel pevnou půdu pod nohama a uvědomil si, že si s tou tíhou už nedokáže poradit úplně sám.
+
+
+
+Když se tak dívám na tu složku „Archives“ s podložkou z roku 2011, připomíná mi to nostalgickou píseň „In My Life“ od The Beatles. Zpívá se v ní o místech a vzpomínkách, které si člověk uchovává po celý život – podobně jako staré e-maily pečlivě uložené v archivu.
+
+
+
+„The Sun in the Stream“ je nádherná a velmi uklidňující volba k poslechu. Jde o jednu z raných skladeb irské zpěvačky a hudebnice Enyi, která dokonale ukazuje její talent pro vytváření podmanivé atmosféry.
+
+Při čekání na ty teplejší dny z předpovědi mě napadá písnička Here Comes The Sun od The Beatles, sluníčko se podle dat nakonec skutečně ukáže!
+
+
+
+// š... ona přichází pomalu loukou...
 
 
 
