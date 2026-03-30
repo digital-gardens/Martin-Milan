@@ -277,3 +277,10 @@ jsem na plném invalidním důchodu,
 
 
 
+protože mám potíže trávit 
+léky
+// chyba přepisu lidi -> léky
+
+(téma 0112),
+a proto
+
