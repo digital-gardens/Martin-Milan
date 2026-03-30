@@ -247,3 +247,12 @@ Při čekání na ty teplejší dny z předpovědi mě napadá písnička Here C
 
 
 
+----
+
+
+
+musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
+
+
+
+
