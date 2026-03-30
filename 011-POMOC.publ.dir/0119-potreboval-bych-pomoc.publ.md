@@ -2,6 +2,7 @@
 - jsem v plném invalidním důchodu
 - mám těžkou neurózu, poruchu s rysy autismu a úzkosti
 - beru silná antidepresiva
+- je mi 50 let
 
 - mám výraznou podváhu
 - kvůli tomu mi hrozí hospitalizace 
@@ -47,12 +48,25 @@ já přinesu mobil.
         * tedy asi o 30 let víc
 
 # výpadky
-* Milan má kvůli neuróze
-* časté „výpadky“ fungování nebo práce
-* na 12 hodin    * 24    * 48
-* které mohou vypadat,
-* jako by byly trvalé
-* např. 12. 3. 26
+Milan má kvůli neuróze
+časté „výpadky“ fungování nebo práce,
+na 12 hodin    * 24    * 48,
+které mohou vypadat,
+jako by byly trvalé,
+např. 12. 3. 26
+
+
+
+# později 12a5. 
+Děkuji 
+za 20 psaných slov,
+ale mohli jste
+ta slova
+dát AI.
+A také několik snímků
+obrazovky,
+klávesa Print Screen.
+
 
 # poznámky
 - hypotéza 23 ...   co když oni prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ??

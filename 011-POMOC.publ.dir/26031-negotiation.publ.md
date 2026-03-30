@@ -301,7 +301,8 @@ do kroužkového sešitu
 a také jsem je vyfotil a poslal Geminimu,
 aby mi pomohl s přepisem a zpracováním těch textů,
 
-# copilot?
+# copilot? gemini
+
 // já, Milan, napsal jsem 
 několik krátkých kapitolek
 pro svoje rodiče

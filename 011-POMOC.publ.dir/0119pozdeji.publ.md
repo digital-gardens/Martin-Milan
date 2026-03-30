@@ -30,18 +30,6 @@ a kroužkové sešity
 
 
 
-# později 12a5. platí opakovaně,
-Milan:
-Děkuji za Tvých
-19 psaných slov,
-ale mohl jsi
-tato slova
-dát Geminimu,
-a také několik snímků
-obrazovky
-dát Geminimu,
-klávesa Print Screen
-
 
 
 Milan: Jsem plně invalidní, mám důchod 15000,- měsíčně
