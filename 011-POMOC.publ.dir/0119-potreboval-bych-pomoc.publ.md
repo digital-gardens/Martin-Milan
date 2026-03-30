@@ -21,11 +21,7 @@ aby mi pomohl s přepisem a zpracováním těch textů,
 - mám značnou podváhu
 - kvůli tomu mi hrozí nemocnice každé 3 měsíce
 - bojím se nemocnice
-- často mám 2-3 strachy najednou
-- mám strach, že ztratím svoje slova, svoji hodiny rozdělanou práci, když někdo mluví
-- potřeboval bych pomoct často dělat pauzy, přestávky a obnovovat trávení, i uprostřed prací
-- pro autistu je často lepší psát / číst (si) poznámky, než mluvení
-- psát stačí heslovitě, a raději heslovitě
+
 
 potřeboval bych pomoct  
 často dělat pauzy,  přestávky 
@@ -48,45 +44,15 @@ psát / číst (si) poznámky ,
 psát stačí heslovitě,  
 a **raději** heslovitě  
 
+
 ---
 jak a proč obnovovat trávení   
 viz téma 0112-belly-peristaltika-obnovit-trávení
 
-
-kvůli podváze ...
-
-
-při strachu se mi často zastaví trávení,
-
-často mám několik strachů najednou,
-
-mám velmi těžkou poruchu  
-s rysy autismu a úzkostí,
-
-jsem na plném invalidním důchodu,
-
-
-
 ---
 
 
 
-
-
-
-
-
-
-
-
-
-Milan: 12w. Každé 3 měsíce mi hrozí nemocnice 
-
-Milan: 12y. Jsem plně invalidní, mám důchod 15000,- 
-
-0112.b +
-12w2. + Dám 30000,- ročně
-za víc přestávek 
 
 
 
@@ -147,8 +113,7 @@ a kroužkové sešity
 
 
 
-# později
-# 12a5. platí opakovaně,
+# později 12a5. platí opakovaně,
 Milan:
 Děkuji za Tvých
 19 psaných slov,
@@ -162,9 +127,14 @@ klávesa Print Screen
 
 
 
+Milan: Jsem plně invalidní, mám důchod 15000,- měsíčně
+
+Dám 30000,- ročně
+- za víc přestávek 
 
 
-Tady je přepis poznámek z tvého papíru:
+
+# zda koupit malou tabuli, // později
 
 **Vpravo nahoře:**
 260101

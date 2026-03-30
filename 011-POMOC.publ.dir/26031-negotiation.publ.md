@@ -256,3 +256,24 @@ musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
 
 
 
+kvůli podváze ...
+
+
+při strachu se mi často zastaví trávení,
+
+často mám několik strachů najednou,
+
+mám velmi těžkou poruchu  
+s rysy autismu a úzkostí,
+
+jsem na plném invalidním důchodu,
+
+
+
+
+
+- často mám 2-3 strachy najednou
+- např. mám strach, že ztratím svoje slova, svoji hodiny rozdělanou práci, když někdo mluví
+
+
+
