@@ -104,6 +104,17 @@ Nečíslovaný seznam se oficiálně nazývá odrážkový seznam.
 google docs ... how to set view ... make invisible white characters visible
 Select Show non-printing characters from the dropdown list.
 
+o change whether a document has pages or is pageless:
+
+On your computer, open a document in Google Docs.
+Go to File and then Page setup.
+At the top of the dialog window, select Pages or Pageless.
+Click OK to confirm.
+Tips:
+
+You can click Set as default to apply these settings to any new documents you create.
+To switch formats at any time, at the top, click Format and select Switch to Pageless format or Switch to Pages format.
+
 
 
 

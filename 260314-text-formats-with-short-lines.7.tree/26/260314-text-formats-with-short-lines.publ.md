@@ -655,9 +655,49 @@ paste to wysiwyg editor that supports indents, and then copy from there to the f
 - reddit
 - gemini , nblm
 
+# google docs 
+
+<span class="c1">&nbsp; &nbsp; když někdo mluví.</span>
+
+<span class="c1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.</span>
 
 
 
+- tab indent experiment
+	1.
+		2	.
+	3.
+- // copy symbols  🗐   ⧉ ⩵ ==  
+
+C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\0119-potreboval-bych-pomoc.publ.md
+[[0119-potreboval-bych-pomoc.publ.md]]
+
+ 
+
+- tab indent experiment 
+
+false alarm
+copy paste from msoft word online ... tabs lost
+Aa 
+
+	dfsdfsfd 
+
+aabb	. 
+
+but they are still in the docx ... 
+msoft round trip 
+back to gdocs 
+
+https://docs.google.com/document/d/1FSZibnKUBSyaiVhzt4rlLWvgBhwc17rOZ-0O7z-tn4M/edit?tab=t.0 
+
+- tab indent experiment
+	aa
+		aabb	.
+
+	bb
+
+	 
+	 
 
 
 # reddit zettelkasten

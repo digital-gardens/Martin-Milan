@@ -74,4 +74,9 @@ klávesa Print Screen.
 - stará verze C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\0119-potreboval-bych-pomoc.publ.md
 - novější verze https://docs.google.com/document/d/1FSZibnKUBSyaiVhzt4rlLWvgBhwc17rOZ-0O7z-tn4M/edit?tab=t.0 
 
+- tab indent experiment
+	aa
+		aabb	.
+	bb
 - // copy symbols  🗐   ⧉ ⩵ ==  
+
