@@ -1,6 +1,6 @@
 # Milanův zdravotní stav
 - jsem v plném invalidním důchodu
-- mám těžkou neurózu, poruchu s rysy autismu a úzkosti
+- mám těžkou neurózu ...  poruchu s rysy autismu a úzkosti
 - beru silná antidepresiva
 - je mi 50 let
 
@@ -8,13 +8,10 @@
 - kvůli tomu mi hrozí hospitalizace 
   - každé 3 měsíce
 
-poznámky:  
-Milan mívá často několik strachů najednou.
-
-Bojí se také,  
-že ztratí svá slova  
-// nebo hodiny rozdělané práce,
-když na něj někdo mluví.
+- mám často několik strachů najednou.
+  - bojím se, že ztratím svá slova,
+    // nebo hodiny rozdělané práce,
+    když někdo mluví.
 
 # jak obnovovat trávení   ...  téma [[0112-belly-peristaltika-obnovit-trávení.publ.md]]
 Přibližně každou hodinu,
@@ -47,15 +44,12 @@ já přinesu mobil.
     * 80 let
         * tedy asi o 30 let víc
 
-# výpadky
-Milan má kvůli neuróze
+# výpadkyMilan má kvůli neuróze
 časté „výpadky“ fungování nebo práce,
 na 12 hodin    * 24    * 48,
 které mohou vypadat,
 jako by byly trvalé,
 např. 12. 3. 26
-
-
 
 # později 12a5. 
 Děkuji 
@@ -70,5 +64,14 @@ klávesa Print Screen.
 
 # poznámky
 - hypotéza 23 ...   co když oni prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ??
+- hypotéza 23b ...   co když oni prostě jen podvědomě chtějí... soutěžit, soupeřit ??
+
 - hypotéza 24 ...   co když oni se  bojí ... týdny ... vrátit se k určité práci, jako já někdy ?
 - pozn.: 20260208 google photos ... Ljuba napsala A5 papír  ... " nápad psát dopisy "
+
+- [[0119pozdeji.publ.md]]
+
+- stará verze C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\0119-potreboval-bych-pomoc.publ.md
+- novější verze https://docs.google.com/document/d/1FSZibnKUBSyaiVhzt4rlLWvgBhwc17rOZ-0O7z-tn4M/edit?tab=t.0 
+
+- // copy symbols  🗐   ⧉ ⩵ ==  

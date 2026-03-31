@@ -48,7 +48,7 @@ EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT
 
 
 
-# google drive 260323
+# google drive 260323 docs 
 
 011-proMilana - Google Drive
 
@@ -98,6 +98,15 @@ jaký je oficiální název pro nečíslovaný seznam?
 Nečíslovaný seznam se oficiálně nazývá odrážkový seznam.
 
 // … menu Formát
+
+
+
+google docs ... how to set view ... make invisible white characters visible
+Select Show non-printing characters from the dropdown list.
+
+
+
+
 
 
 

@@ -329,3 +329,31 @@ Copyedited two Czech markdown files for clarity and consistency. In 0119-potrebo
 
 
 # [[0119pozdeji.publ.md]]
+
+# copy unicode characters 
+
+fuj ©️copy :clipboard: 
+
+---
+title: "is there a Unicode character for Copy and Paste?"
+source: "https://stackoverflow.com/questions/8714969/is-there-a-unicode-character-for-copy-and-paste"
+author:
+  - "[[Xah Lee          
+Was looking as well, found these alternatives: ☍ ⊕ ⎘ ⩲ ⨧ ⑃ ended up using ⎘ like suggested above
+
+
+There is an insertion symbol: x2380 ⎀
+
+
+For copy: ⿻ = Ideographic Description Character Overlaid \u2FFB
+
+
+⩵ Two Consecutive Equals Signs (U+2A75) Symbol Meaning, Copy and Paste
+copy
+ 🗐 
+for anyone still in need: ⧉
+
+
+
+⩵ copy  🗐   ⧉
+- // copy symbols  🗐   ⧉ ⩵ ==  
