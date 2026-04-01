@@ -1,4 +1,9 @@
 
+# 2603-27phys
+musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
+
+
+ [[2603-28new-newtab.publ.md]]
 zda namirit newtab na 
 file:///C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir/011-POMOC-pro-Martina-Milana.publ.md
 nebo na
