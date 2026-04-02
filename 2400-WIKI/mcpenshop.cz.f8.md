@@ -1,7 +1,4 @@
 
-na konci souboru 
-Děrovačka Maped Essentials 10/12, 4 otvory, Černá
-
 
 - [mcpenshop prodejna: Praha – Atrium Karlovo náměstí](#mcpenshop-prodejna-praha--atrium-karlovo-náměstí)
 - [asi old ... rucne preposlat na b@k](#asi-old--rucne-preposlat-na-bk)
@@ -35,10 +32,13 @@ Děrovačka Maped Essentials 10/12, 4 otvory, Černá
 
 
 
+# copy .. reminder ..  antifragile is more important 
 
 # mcpenshop prodejna: Praha – Atrium Karlovo náměstí  
 prodejna: Praha – Atrium Karlovo náměstí
-jiri.vlastimil.
+
+
+# mail jiri.vlastimil.
 
 
 # LINKS
@@ -50,22 +50,20 @@ chrome://bookmarks/?q=mcpen
 take lze hledat v mailu
 
 
+2604 done mk C5 obalka McPen
+	done scan all v teto obalce 
 
 
-exportovat do html
+//// bookmarks . exportovat do html 
+	"C:\Users\marti\OneDrive\Dokumenty\bookmarks_11_28_24.html"
 
-"C:\Users\marti\OneDrive\Dokumenty\bookmarks_11_28_24.html"
-
-C:\Users\marti\OneDrive\2400-WIKI\mcpenshop.cz.f8.md
-OLD old D:\000doc24\Dokumenty\mcpenshop.cz.f8.md
-
-
+//// C:\Users\marti\OneDrive\Dokumenty\2400-WIKI\mcpenshop.cz.f8.md
 
 
 
 
-# OLD asi old ... kdysi jsem  musel rucne preposilat na b@k
-gmail Milan Bok
+# very OLD asi obsolete  ... kdysi jsem  musel rucne preposilat na b@k
+////// from gmail Milan Bok
 
 # OLD starsi
 https://keep.google.com/u/0/#NOTE/1UawUjeW3-OaIbvaQ9dMMsYhnraj4OpXl6MjMrmDDCsKuD1laElv0mhSaEc3Rug
@@ -74,25 +72,13 @@ https://keep.google.com/u/0/#NOTE/1UawUjeW3-OaIbvaQ9dMMsYhnraj4OpXl6MjMrmDDCsKuD
 vratit do prodejny
 Prosíme nepřidávat zápalky ... máme už troje.
 
-https://www.mcpenshop.cz/karty-do-kartoteky-a7-100-listu-bile
+////// https://www.mcpenshop.cz/karty-do-kartoteky-a7-100-listu-bile
 
 # OLD Liner Elite 4721, 0,3 mm, Zelený
-Kód produktu
-14200203
-EAN
-8595013633021
-
-//Liner Elite 4721, 0,3 mm, Modrý
-//Kód produktu: 14200202
-//EAN: 8595013633014
 
 
 
-
-
-
-# RARELY
-
+# RARELY  1r10 proklety rijen 
 
 https://www.mcpenshop.cz/hledani?query=anezka
 https://www.mcpenshop.cz/hledani?query=alois
@@ -106,19 +92,15 @@ https://www.mcpenshop.cz/hledani?query=diana
 
 ## 24b proskenil od zacatku casu a prelil sem do f8.md
 
-
-249 rok nazpatek
-
-
 https://www.mcpenshop.cz/klip-binder-concorde-51-mm-cerny
-
-https://www.mcpenshop.cz/sponky-kancelarske-26-mm-100-ks-mix-barev
-
 https://www.mcpenshop.cz/sponky-kancelarske-concorde-50-mm-100-ks
+
+/////// https://www.mcpenshop.cz/sponky-kancelarske-26-mm-100-ks-mix-barev
+
 
 
 ## radeji   6*  at se neplete    5* a6   6* a5
-https://www.mcpenshop.cz/vlozka-nahradni-do-bloku-karis-a6-linka-100-listu     
+// https://www.mcpenshop.cz/vlozka-nahradni-do-bloku-karis-a6-linka-100-listu     
 
 https://www.mcpenshop.cz/vlozka-nahradni-do-bloku-karis-a5-ctverecek-100-listu-2
 
@@ -126,14 +108,14 @@ Vložka náhradní do bloků karis A5 linka, 100 listů
 Kód produktu: 15300044
 EAN: 8595096753142
 
-https://www.mcpenshop.cz/vlozka-nahradni-do-bloku-karis-a4-ctverecek-100-listu-2
+// https://www.mcpenshop.cz/vlozka-nahradni-do-bloku-karis-a4-ctverecek-100-listu-2
 
 
-https://www.mcpenshop.cz/blok-poznamkovy-a6-cisty-50-listu-krtek
+//// https://www.mcpenshop.cz/blok-poznamkovy-a6-cisty-50-listu-krtek
 
-https://www.mcpenshop.cz/doklad-pokladni-vydajovy-i-pro-podvojne-ucetnictvi-a6-nepropisujici-2
+// https://www.mcpenshop.cz/doklad-pokladni-vydajovy-i-pro-podvojne-ucetnictvi-a6-nepropisujici-2
 
-https://www.mcpenshop.cz/doklad-pokladni-univerzalni-a6-propisujici
+// https://www.mcpenshop.cz/doklad-pokladni-univerzalni-a6-propisujici
 
 
 
@@ -154,13 +136,16 @@ EAN: 8595096753074
 
 # blok karis a5
 
-https://www.mcpenshop.cz/blok-karis-a5-color-office-modra
+pozdeji radeji jine barvy
 
-https://www.mcpenshop.cz/blok-karis-s-poradacem-a5-cerny
+// https://www.mcpenshop.cz/blok-karis-a5-color-office-modra
 
-https://www.mcpenshop.cz/blok-karis-pastelini-a5-merunkovy
+// https://www.mcpenshop.cz/blok-karis-s-poradacem-a5-cerny
 
-# Versatilka plastová: nejlépe zelenou; případně žlutou; červenou (případně modrou; fialovou);
+// https://www.mcpenshop.cz/blok-karis-pastelini-a5-merunkovy
+
+
+# do nemocnice.. Versatilka plastová: nejlépe zelenou; případně žlutou; červenou (případně modrou; fialovou);
 Versatilka plastová 5211 2,0 mm, Mix barev
 Kód produktu: 32600199
 EAN: 8593539818045
@@ -171,7 +156,7 @@ https://www.mcpenshop.cz/psaci-potreby/tuzky/versatilky
 
 
 
-# https://www.mcpenshop.cz/sacky-do-kose-zatahovaci-63-x-73-cm-60-l-10-ks-zelene
+# ////  https://www.mcpenshop.cz/sacky-do-kose-zatahovaci-63-x-73-cm-60-l-10-ks-zelene
 
 
 
@@ -184,11 +169,13 @@ DopravaCZ - Osobní odběr - Prodejna McPen
 PlatbaPlatební kartou online
 POZNÁMKA K OBJEDNÁVCE
 
-Prosíme nepřidávat zápalky ... máme už troje
 prodejna: Praha – Atrium Karlovo náměstí. 
-Versatilka plastová: nejlépe žlutou; případně červenou (případně modrou; zelenou; fialovou).
 
 
+// Versatilka plastová: nejlépe žlutou; případně červenou (případně modrou; zelenou; fialovou).
+
+
+///// Prosíme nepřidávat zápalky ... máme už troje
 
 
 
@@ -284,86 +271,67 @@ Versatilka plastová 5211 2,0 mm, Mix barev
 32600199
 
 EAN: 8593539818045
-1 ks
-( 1 ks )	
-Jednotková cena s DPH61,66 Kč
-Celkem bez DPH50,96 Kč
-Celkem s DPH61,66 Kč
-
-/images/mcpen/produkty/14200202.jpg	
-Liner Elite 4721, 0,3 mm, Modrý
-14200202
-
-EAN: 8595013633014
-1 ks
-( 1 ks )	
-Jednotková cena s DPH20,81 Kč
-Celkem bez DPH17,20 Kč
-Celkem s DPH20,81 Kč
-Cena celkem bez DPH300,00 Kč
-
-
 
 
 
 # OLD dump objednavek  str 1
 
-https://www.mcpenshop.cz/kelimky-plastove-na-kavu-0-18-l-15-ks-hnede
+// https://www.mcpenshop.cz/kelimky-plastove-na-kavu-0-18-l-15-ks-hnede
 
-https://www.mcpenshop.cz/karty-do-kartoteky-a7-100-listu-bile
+/// https://www.mcpenshop.cz/karty-do-kartoteky-a7-100-listu-bile
 
-https://www.mcpenshop.cz/paska-samolepici-reflexni-compass-2-x-90-cm-zluta
+// https://www.mcpenshop.cz/paska-samolepici-reflexni-compass-2-x-90-cm-zluta
 
- "C:\Users\marti\OneDrive\Dokumenty\bookmarks_11_28_24.html"
+// "C:\Users\marti\OneDrive\Dokumenty\bookmarks_11_28_24.html"
 
-https://www.mcpenshop.cz/desky-spisove-s-gumou-a4-prespanove-modre
+// https://www.mcpenshop.cz/desky-spisove-s-gumou-a4-prespanove-modre
+
 
 https://www.mcpenshop.cz/paska-lepici-penova-oboustranna-19-mm-x-1-m-bila
 
 
 
 
-https://www.mcpenshop.cz/paska-stabilizacni-pevna-48-mm-x-10-m
+//// na popelnici a nebo kinesio https://www.mcpenshop.cz/paska-stabilizacni-pevna-48-mm-x-10-m
 
-https://www.mcpenshop.cz/paska-kobercova-50-mm-x-10-m-modra
-
-
-https://www.mcpenshop.cz/zapisnik-spiralovy-telefonni-10-x-16-cm-cerny
+// https://www.mcpenshop.cz/paska-kobercova-50-mm-x-10-m-modra
 
 
+/// https://www.mcpenshop.cz/zapisnik-spiralovy-telefonni-10-x-16-cm-cerny
 
 
-# RARELY 
 
-https://www.mcpenshop.cz/tuhy-do-pastelek-scala-4042-12-ks
 
 # RARELY 
 
-https://www.mcpenshop.cz/zvyraznovac-8552-4-6-mm-zeleny
+////////// https://www.mcpenshop.cz/tuhy-do-pastelek-scala-4042-12-ks
+
+# RARELY 
+
+// https://www.mcpenshop.cz/zvyraznovac-8552-4-6-mm-zeleny
 centropen highlighter
 
-https://www.mcpenshop.cz/popisovac-permanentni-8566-2-5-mm-cerveny
+// https://www.mcpenshop.cz/popisovac-permanentni-8566-2-5-mm-cerveny
 
 
 
 
 
 
-# nejblizsi
+
+# nejblizsi napln-pilot JB
 https://www.mcpenshop.cz/napln-pilot-do-super-grip-0-7-mm-cerna
 https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-5-mm-3-ks-zelena
-
-
-
-
-# https://www.mcpenshop.cz/pero-gelove-pilot-g-2-0-7-mm-tmave-cervene
-
-https://www.mcpenshop.cz/napln-do-rolleru-pilot-g-2-0-7-mm-cervena
 
 https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-7-mm-3-ks-zelena
 https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-5-mm-3-ks-modra
 
 netroufam 	https://www.mcpenshop.cz/napln-pilot-frixion-point-0-5-mm-3-ks-modra     point 
+
+
+//// https://www.mcpenshop.cz/pero-gelove-pilot-g-2-0-7-mm-tmave-cervene
+
+//// https://www.mcpenshop.cz/napln-do-rolleru-pilot-g-2-0-7-mm-cervena
 
 
 
@@ -393,9 +361,8 @@ https://www.mcpenshop.cz/blok-spiralovy-a7-linka-50-listu
 
 
 
-https://www.mcpenshop.cz/tuhy-do-versatilky-metalicke-4380-6-ks-mix-barev
-
-https://www.mcpenshop.cz/versatilka-kovova-trojhranna-5347-5-6-mm-cerna
+////////// https://www.mcpenshop.cz/tuhy-do-versatilky-metalicke-4380-6-ks-mix-barev
+////////////https://www.mcpenshop.cz/versatilka-kovova-trojhranna-5347-5-6-mm-cerna
 
 
 
@@ -410,50 +377,50 @@ https://www.mcpenshop.cz/versatilka-kovova-trojhranna-5347-5-6-mm-cerna
 
 
 # todo done
-https://www.mcpenshop.cz/klipy-binder-pastelove-deli-25-mm-48-ks
-
-https://www.mcpenshop.cz/klipy-binder-pastelove-deli-19-mm-40-ks
-
-
-https://www.mcpenshop.cz/klipy-kancelarske-vazaci-maped-19-mm-10-ks-barevne
-
-herlitz klipy kancelářské 19 mm, 10 ks, mix barev
+// https://www.mcpenshop.cz/klipy-binder-pastelove-deli-25-mm-48-ks
+// https://www.mcpenshop.cz/klipy-binder-pastelove-deli-19-mm-40-ks
+// https://www.mcpenshop.cz/klipy-kancelarske-vazaci-maped-19-mm-10-ks-barevne
+// herlitz klipy kancelářské 19 mm, 10 ks, mix barev
 
 
 
 # 260226 prolezl vsechny objednávky od zacatku casu 
 
-konec zbytecne 
+konec uplne  zbytecne 
 krome
 https://www.mcpenshop.cz/vlozka-nahradni-do-bloku-karis-a5-ctverecek-100-listu-2
 
 
 
-https://www.mcpenshop.cz/paska-lepici-penova-oboustranna-19-mm-x-1-m-bila
-https://www.mcpenshop.cz/kancelarske-potreby/lepeni-a-etikety/oboustranne-lepici-pasky
-https://www.mcpenshop.cz/hledani?query=paska+oboustranna
+// https://www.mcpenshop.cz/paska-lepici-penova-oboustranna-19-mm-x-1-m-bila
+// https://www.mcpenshop.cz/kancelarske-potreby/lepeni-a-etikety/oboustranne-lepici-pasky
+// https://www.mcpenshop.cz/hledani?query=paska+oboustranna
 
-https://www.mcpenshop.cz/blok-karis-pastelini-a5-zeleny
- https://www.mcpenshop.cz/hmota-lepici-kores-gumfix-50-g
+// https://www.mcpenshop.cz/hmota-lepici-kores-gumfix-50-g
+
 
 # 260118 260226
 
-https://www.mcpenshop.cz/derovacka-specialni-maped-essentials-12-cerna
-Děrovačka Maped Essentials 10/12, 4 otvory, Černá
+//// https://www.mcpenshop.cz/derovacka-specialni-maped-essentials-12-cerna Děrovačka Maped Essentials 10/12, 4 otvory, Černá
 
 
 shiatsu https://www.mcpenshop.cz/pryz-umelecka-6423-18
 
-Univerzální kancelářské etikety pro inkoustové a laserové tiskárny a kopírky. V balení 100 listů formátu A4. Rozměr: 105 x 74 mm. Etiket na stránce 8 ks. Samolepicí etikety jsou ideálním pomocníkem při každodenní práci v kancelářích, ve skladech při tvorbě adresních štítků nebo etiket na balíky, ve velkoobchodech či jakýchkoliv prodejnách a pro další provozy. Vhodné i pro použití ve školách a pro označení školních pomůcek.
+
+// Univerzální kancelářské etikety pro inkoustové a laserové tiskárny a kopírky. V balení 100 listů formátu A4. Rozměr: 105 x 74 mm. Etiket na stránce 8 ks. Samolepicí etikety jsou ideálním pomocníkem při každodenní práci v kancelářích, ve skladech při tvorbě adresních štítků nebo etiket na balíky, ve velkoobchodech či jakýchkoliv prodejnách a pro další provozy. Vhodné i pro použití ve školách a pro označení školních pomůcek.
 
 
 
 # krouzkove poradace   srv. karis bloky https://www.mcpenshop.cz/kancelarske-potreby/poradace/krouzkove-poradace
+
 # Balíček pro Vás bude expedován do prodejny během 7 kalendářních dnů.
 # mcpenshop prodejna: Praha – Atrium Karlovo náměstí  
 prodejna: Praha – Atrium Karlovo náměstí
 # Nezapomeňte nám do poznámky k objednávce napsat, kterou jste si vybrali.
 jiri.vlastimil.
 
-https://www.mcpenshop.cz/kosik
-rclick duplicate tab  pred odeslanim objednavky, kdyby selhala 
+
+
+
+# https://www.mcpenshop.cz/kosik
+rclick duplicate tab  pred odeslanim objednavky, kdyby selhala zase 
