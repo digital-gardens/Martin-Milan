@@ -1,4 +1,13 @@
 
+0112 diky ze vratil k meditaci
+
+vysilen jeji slova septas.. bez pokladu se nevracej
+
+
+edge mb tradicne 
+
+ctrl + click 
+
 
 - [mcpenshop prodejna: Praha – Atrium Karlovo náměstí](#mcpenshop-prodejna-praha--atrium-karlovo-náměstí)
 - [asi old ... rucne preposlat na b@k](#asi-old--rucne-preposlat-na-bk)
@@ -34,8 +43,10 @@
 
 # copy .. reminder ..  antifragile is more important 
 
+
 # mcpenshop prodejna: Praha – Atrium Karlovo náměstí  
 prodejna: Praha – Atrium Karlovo náměstí
+totez je na konci souboru 2400-WIKI/mcpenshop.cz.f8.md
 
 
 # mail jiri.vlastimil.
@@ -45,6 +56,7 @@ prodejna: Praha – Atrium Karlovo náměstí
 
 https://www.mcpenshop.cz/prehled-objednavek
 
+edge://favorites/?q=mcpen
 chrome://bookmarks/?q=mcpen
 
 take lze hledat v mailu
@@ -62,19 +74,17 @@ take lze hledat v mailu
 
 
 
-# very OLD asi obsolete  ... kdysi jsem  musel rucne preposilat na b@k
+# //////// very OLD asi obsolete  ... kdysi jsem  musel rucne preposilat na b@k
 ////// from gmail Milan Bok
 
 # OLD starsi
 https://keep.google.com/u/0/#NOTE/1UawUjeW3-OaIbvaQ9dMMsYhnraj4OpXl6MjMrmDDCsKuD1laElv0mhSaEc3Rug
 
+
 # OLD // Prosíme nepřidávat zápalky ... máme už dvoje
 vratit do prodejny
 Prosíme nepřidávat zápalky ... máme už troje.
 
-////// https://www.mcpenshop.cz/karty-do-kartoteky-a7-100-listu-bile
-
-# OLD Liner Elite 4721, 0,3 mm, Zelený
 
 
 
@@ -91,6 +101,21 @@ https://www.mcpenshop.cz/hledani?query=diana
 #  https://www.mcpenshop.cz/prehled-objednavek
 
 ## 24b proskenil od zacatku casu a prelil sem do f8.md
+
+# 260226 prolezl vsechny objednávky od zacatku casu 
+
+konec uplne  zbytecne 
+krome
+https://www.mcpenshop.cz/vlozka-nahradni-do-bloku-karis-a5-ctverecek-100-listu-2
+
+
+// https://www.mcpenshop.cz/paska-lepici-penova-oboustranna-19-mm-x-1-m-bila
+// https://www.mcpenshop.cz/kancelarske-potreby/lepeni-a-etikety/oboustranne-lepici-pasky
+// https://www.mcpenshop.cz/hledani?query=paska+oboustranna
+
+// https://www.mcpenshop.cz/hmota-lepici-kores-gumfix-50-g
+
+
 
 https://www.mcpenshop.cz/klip-binder-concorde-51-mm-cerny
 https://www.mcpenshop.cz/sponky-kancelarske-concorde-50-mm-100-ks
@@ -144,6 +169,7 @@ pozdeji radeji jine barvy
 
 // https://www.mcpenshop.cz/blok-karis-pastelini-a5-merunkovy
 
+// https://www.mcpenshop.cz/blok-karis-a5-foam-verde-zeleny
 
 # do nemocnice.. Versatilka plastová: nejlépe zelenou; případně žlutou; červenou (případně modrou; fialovou);
 Versatilka plastová 5211 2,0 mm, Mix barev
@@ -163,25 +189,8 @@ https://www.mcpenshop.cz/psaci-potreby/tuzky/versatilky
 
 
 
-# OLD DOPRAVA A PLATBA
-DopravaCZ - Osobní odběr - Prodejna McPen
 
-PlatbaPlatební kartou online
-POZNÁMKA K OBJEDNÁVCE
-
-prodejna: Praha – Atrium Karlovo náměstí. 
-
-
-// Versatilka plastová: nejlépe žlutou; případně červenou (případně modrou; zelenou; fialovou).
-
-
-///// Prosíme nepřidávat zápalky ... máme už troje
-
-
-
-
-
-# OLD dump objednavek  str nejstarsi
+# ////////////// OLD dump objednavek  str nejstarsi
 
 dnávky	Datum	Doprava	položek	Stav	Celkem bez DPH	Celkem s DPH			
 2022005926	13. 10. 2022	CZ - Osobní odběr - Prodejna McPen	8	vyřízená	284,22 Kč	343,90 Kč	
@@ -217,7 +226,7 @@ Stavy objednávek
 
 
 
-# OLD dump objednavek  str Detail
+# //// OLD dump objednavek  str Detail
 
 – Atrium Karlovo náměstí
 Vybrat vše
@@ -274,6 +283,7 @@ EAN: 8593539818045
 
 
 
+
 # OLD dump objednavek  str 1
 
 // https://www.mcpenshop.cz/kelimky-plastove-na-kavu-0-18-l-15-ks-hnede
@@ -287,7 +297,6 @@ EAN: 8593539818045
 // https://www.mcpenshop.cz/desky-spisove-s-gumou-a4-prespanove-modre
 
 
-https://www.mcpenshop.cz/paska-lepici-penova-oboustranna-19-mm-x-1-m-bila
 
 
 
@@ -322,11 +331,19 @@ centropen highlighter
 # nejblizsi napln-pilot JB
 https://www.mcpenshop.cz/napln-pilot-do-super-grip-0-7-mm-cerna
 https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-5-mm-3-ks-zelena
+https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-5-mm-3-ks-modra
+netroufam 	https://www.mcpenshop.cz/napln-pilot-frixion-point-0-5-mm-3-ks-modra     point 
+
 
 https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-7-mm-3-ks-zelena
-https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-5-mm-3-ks-modra
 
-netroufam 	https://www.mcpenshop.cz/napln-pilot-frixion-point-0-5-mm-3-ks-modra     point 
+https://www.mcpenshop.cz/psaci-potreby/prepisovatelna-pera/naplne-frixion?page=1&pa-85=6881,6908,7515&pa-121=12214
+
+https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-7-mm-3-ks-vinova
+https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-7-mm-3-ks-fialova
+https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-7-mm-3-ks-lila
+https://www.mcpenshop.cz/napln-pilot-frixion-ball-clicker-0-7-mm-3-ks-hneda
+
 
 
 //// https://www.mcpenshop.cz/pero-gelove-pilot-g-2-0-7-mm-tmave-cervene
@@ -339,11 +356,10 @@ https://www.mcpenshop.cz/napln-do-kulickoveho-pera-easy-ink-0-5-mm-modra
 
 
 
-
+# // ...
 https://www.mcpenshop.cz/obalky-c6-samolepici-25-ks
 https://www.mcpenshop.cz/obalky-c5-samolepici-25-ks
 https://www.mcpenshop.cz/obalky-dl-samolepici-25-ks
-
 
 https://www.mcpenshop.cz/klipy-kovove-19-mm-10-ks-mix-barev
 
@@ -354,15 +370,16 @@ https://www.mcpenshop.cz/klipy-kancelarske-maped-32-mm-4-ks-barevne
 
 
 # chrome://bookmarks/?q=a6+mcpen
-chrome://bookmarks/?q=a6+mcpen
-https://www.mcpenshop.cz/blok-spiralovy-a6-linka-50-listu
-https://www.mcpenshop.cz/blok-poznamkovy-a7-cisty-200-listu-krtek
-https://www.mcpenshop.cz/blok-spiralovy-a7-linka-50-listu
+// chrome://bookmarks/?q=a6+mcpen
+// https://www.mcpenshop.cz/blok-spiralovy-a6-linka-50-listu
+// https://www.mcpenshop.cz/blok-poznamkovy-a7-cisty-200-listu-krtek
+// https://www.mcpenshop.cz/blok-spiralovy-a7-linka-50-listu
 
 
 
 ////////// https://www.mcpenshop.cz/tuhy-do-versatilky-metalicke-4380-6-ks-mix-barev
 ////////////https://www.mcpenshop.cz/versatilka-kovova-trojhranna-5347-5-6-mm-cerna
+
 
 
 
@@ -384,24 +401,11 @@ https://www.mcpenshop.cz/blok-spiralovy-a7-linka-50-listu
 
 
 
-# 260226 prolezl vsechny objednávky od zacatku casu 
-
-konec uplne  zbytecne 
-krome
-https://www.mcpenshop.cz/vlozka-nahradni-do-bloku-karis-a5-ctverecek-100-listu-2
-
-
-
-// https://www.mcpenshop.cz/paska-lepici-penova-oboustranna-19-mm-x-1-m-bila
-// https://www.mcpenshop.cz/kancelarske-potreby/lepeni-a-etikety/oboustranne-lepici-pasky
-// https://www.mcpenshop.cz/hledani?query=paska+oboustranna
-
-// https://www.mcpenshop.cz/hmota-lepici-kores-gumfix-50-g
-
 
 # 260118 260226
 
 //// https://www.mcpenshop.cz/derovacka-specialni-maped-essentials-12-cerna Děrovačka Maped Essentials 10/12, 4 otvory, Černá
+
 
 
 shiatsu https://www.mcpenshop.cz/pryz-umelecka-6423-18
@@ -411,11 +415,53 @@ shiatsu https://www.mcpenshop.cz/pryz-umelecka-6423-18
 
 
 
+
+# /////////// OLD Liner Elite 4721, 0,3 mm, Zelený
+////// https://www.mcpenshop.cz/karty-do-kartoteky-a7-100-listu-bile
+
+
+# 2604 2 
+jeste neco na papirech
+schneider
+https://www.mcpenshop.cz/pero-kulickove-schneider-slider-edge-zelene
+luxor 
+https://www.mcpenshop.cz/pero-kulickove-schneider-epsilon-tmave-ruzove
+https://www.mcpenshop.cz/psaci-potreby/kulickova-a-gelova-pera-rollery/pera-kulickova?page=1&pa-18=7346&pa-121=8388
+
+
+
+
+
+JESTE NECO NA PAPIRECH
+
+
 # krouzkove poradace   srv. karis bloky https://www.mcpenshop.cz/kancelarske-potreby/poradace/krouzkove-poradace
 
+
+
+
+# DOPRAVA A PLATBA
+
+DopravaCZ - Osobní odběr - Prodejna McPen
+
+PlatbaPlatební kartou online
+POZNÁMKA K OBJEDNÁVCE
+
+prodejna: Praha – Atrium Karlovo náměstí. 
+
+
+// Versatilka plastová: nejlépe žlutou; případně červenou (případně modrou; zelenou; fialovou).
+
+
+///// Prosíme nepřidávat zápalky ... máme už troje
+
+
 # Balíček pro Vás bude expedován do prodejny během 7 kalendářních dnů.
+
 # mcpenshop prodejna: Praha – Atrium Karlovo náměstí  
+
 prodejna: Praha – Atrium Karlovo náměstí
+
 # Nezapomeňte nám do poznámky k objednávce napsat, kterou jste si vybrali.
 jiri.vlastimil.
 
