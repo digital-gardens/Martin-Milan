@@ -48,6 +48,8 @@ EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT
 
 
 
+
+
 # google drive 260323 docs 
 
 011-proMilana - Google Drive
@@ -121,6 +123,8 @@ To switch formats at any time, at the top, click Format and select Switch to Pag
 
 
 
+
+
 # https://blog.google/innovation-and-ai/products/gemini-app/switch-to-gemini-app/?utm_source=kw-newsletter&utm_medium=email&utm_campaign=03272026&utm_content=cta
 
 
@@ -131,7 +135,7 @@ To switch formats at any time, at the top, click Format and select Switch to Pag
 
 
 
-
+# [[260404-generalization-of-language.publ.md]]
 
 # [[bliss-2603.publ.md]]
 
