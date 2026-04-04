@@ -1,19 +1,78 @@
 ---
 tags: sklep voda zahrada mrznout potrubí dům příčiny následky mrazivý zima prevent pipes freezing  # space-separated
 
+
+keep: https://keep.google.com/#NOTE/11kbDLT0LGgzI_szOkeOaapnN-iR9S0I1-M6NSIiWfrhNKuMne5Vt4RrFWgvFc8Qmz4Ji
+
+
 chat: https://mail.google.com/chat/u/0/#chat/space/AAAAkg0JJJc
+
 photos: https://photos.google.com/share/AF1QipO4JYzSNp4UAoL3dU23QkY8s2aV_XyCRPizWobYZT4TiHzmfhm2yTpKcT-ss_-3yw
+
 links:
   - C:\Pf86\Google\Chrome\Application\chrome.exe # Ljuba
   - gemini.google.com/app
-  - https://www.chmi.cz/meteogram/362-praha-lipence
-  - https://www.chmi.cz/predpoved-pocasi/praha/dalsi-dny
+
+  - https://www.chmi.cz
+
+  - https://www.youtube.com/playlist?list=PLY5wBCOleg-SWexwUq_Fkl38ojuf0Y8O5
 
 ---
 
-- [tasks](#tasks)
-- [250228](#250228)
-- [250302](#250302)
+
+
+
+
+# východisko strategie  260404.1150
+
+https://intranet.chmi.cz/predpovedi/predpovedi-pocasi/ceska-republika/tydenni-predpoved
+https://www.chmi.cz/predpoved-pocasi/tyden
+https://www.chmi.cz/predpoved-pocasi/praha/dalsi-dny
+https://www.chmi.cz/meteogram/362-praha-lipence
+
+
+https://www.chmi.cz/meteogram/364-praha-radotin
+
+
+
+# https://www.chmi.cz/meteogram/362-praha-lipence
+https://www.chmi.cz/predpoved-pocasi/praha/dalsi-dny
+
+
+^a 
+
+Předpověď na úterý
+Předpověď vydána: 3. 4. 2026 12:30
+Předpověď na úterý (00-24):
+Jasno nebo skoro jasno.
+
+Nejnižší noční teploty +2 až 0 °C.
+
+
+
+https://www.chmi.cz/predpoved-pocasi/tyden
+
+reload!
+
+https://intranet.chmi.cz/files/portal/docs/meteo/ov/aladin/results/public/meteogramy/mhtml/m.html
+
+
+# mm, jb gemini.google.com/app
+
+
+
+
+
+
+# Proč se ale vlastně s touhle teplotní rezervou 3 až 5 °C u venkovních rozvodů počítá? Zde jsou ty hlavní fyzikální a meteorologické důvody, které můžeš babičce vysvětlit:
+
+Zrádné měření teploty: Meteorologové (a aplikace v telefonu) udávají teplotu měřenou ve výšce 2 metrů nad zemí a ve stínu.
+
+Radiační ochlazování u země: Těsně nad zemí, u zdiva nebo v místech, kam může „stékat“ studený vzduch, bývá v noci při vyjasnění klidně o 3 až 5 stupňů chladněji než ve dvou metrech. Meteorologové tomu říkají přízemní mrazíky.
+
+
+
+
 
 
 
@@ -49,20 +108,11 @@ mkdir OLD-publ
 
 
 
-Proč se ale vlastně s touhle teplotní rezervou 3 až 5 °C u venkovních rozvodů počítá? Zde jsou ty hlavní fyzikální a meteorologické důvody, které můžeš babičce vysvětlit:
-
-Zrádné měření teploty: Meteorologové (a aplikace v telefonu) udávají teplotu měřenou ve výšce 2 metrů nad zemí a ve stínu.
-
-Radiační ochlazování u země: Těsně nad zemí, u zdiva nebo v místech, kam může „stékat“ studený vzduch, bývá v noci při vyjasnění klidně o 3 až 5 stupňů chladněji než ve dvou metrech. Meteorologové tomu říkají přízemní mrazíky.
 
 
 
 
-
-
-
-
-S opětovným uvedením do provozu je dobré počkat, až teploty stabilně zůstanou nad nulou – obvykle koncem března nebo začátkem dubna. Důležité je také zkontrolovat těsnost spojů a stav příslušenství.
+# S opětovným uvedením do provozu je dobré počkat, až teploty stabilně zůstanou nad nulou – obvykle koncem března nebo začátkem dubna. Důležité je také zkontrolovat těsnost spojů a stav příslušenství.
 
 
 Obvykle to sice bývá přelom března a dubna, ale letos si mrazy zkrátka dávají načas
@@ -113,30 +163,28 @@ https://www.istockphoto.com/cs/search/2/image?mediatype=photography&phrase=froze
 https://www.shutterstock.com/image-photo/water-damage-basement-caused-by-sewer-2438206431?trackingId=c0f8cd51-4497-4a3e-adac-811210f0387e&listId=searchResults
 
 
-https://www.chmi.cz/meteogram/362-praha-lipence
-https://www.chmi.cz/meteogram/364-praha-radotin
-https://www.chmi.cz/predpoved-pocasi/praha/dalsi-dny
+
+# diskuse jako https://www.reddit.com/r/Calgary/comments/1c84isa/safe_to_turn_on_my_outside_water
+
+https://www.reddit.com/r/Calgary/comments/1c84isa/safe_to_turn_on_my_outside_water/?tl=cs
 
 
-^a 
-
-Předpověď na úterý
-Předpověď vydána: 3. 4. 2026 12:30
-Předpověď na úterý (00-24):
-Jasno nebo skoro jasno.
-
-Nejnižší noční teploty +2 až 0 °C.
+nblm
+https://notebooklm.google.com/notebook/69334cda-282d-40a3-a8cf-0b28f905458f
+kde přesně se v těch textech píše o prasknutí trubky
 
 
 
-https://www.chmi.cz/predpoved-pocasi/tyden
-
-reload!
-
-https://intranet.chmi.cz/files/portal/docs/meteo/ov/aladin/results/public/meteogramy/mhtml/m.html
+Jako někdo, kdo se teprve loni musel vypořádat s téměř $3k škodami v interiéru, které způsobila prasklá samovypouštěcí "frost-free" venkovní hadicová přípojka, která se shodou okolností instalovala s pouhým náznakem zpětného spádu... počkejte, až noční teploty budou konzistentně kolem 3-4 stupňů.
 
 
-# jb gemini.google.com/app
+Zažili jsme to před pár lety. Jednoho dne v polovině dubna, kdy bylo 20 stupňů, jsme pustili vodu do venkovních kohoutků. Ten večer byla polovina našeho sklepa pokryta asi centimetrem vody. Prasklé potrubí vedoucí ven z domu.
+
+
+
+
+
+
 
 
 
