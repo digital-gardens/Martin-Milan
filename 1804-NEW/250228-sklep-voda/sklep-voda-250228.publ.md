@@ -5,12 +5,140 @@ chat: https://mail.google.com/chat/u/0/#chat/space/AAAAkg0JJJc
 photos: https://photos.google.com/share/AF1QipO4JYzSNp4UAoL3dU23QkY8s2aV_XyCRPizWobYZT4TiHzmfhm2yTpKcT-ss_-3yw
 links:
   - C:\Pf86\Google\Chrome\Application\chrome.exe # Ljuba
----
+  - gemini.google.com/app
+  - https://www.chmi.cz/meteogram/362-praha-lipence
+  - https://www.chmi.cz/predpoved-pocasi/praha/dalsi-dny
 
+---
 
 - [tasks](#tasks)
 - [250228](#250228)
 - [250302](#250302)
+
+
+
+
+
+# 260403
+
+// výběr z konverzace  https://gemini.google.com/app/d6268b8eb90631f6, sdílené na  https://gemini.google.com/app/2c7ad6a11a45aedb
+
+g docs 
+04 
+mkdir 250228-sklep-voda
+Zamrznutí vody ℹ️🅰️ 250228 v zahradní trubce 260403.publ.md
+Zamrznutí vody ℹ️🅰️ v zahradní trubce, 250228, 260403.publ
+
+C:\Users\marti\OneDrive\Dokumenty\1804-NEW\250228-sklep-voda\sklep-voda-250228.publ.md
+
+obsidian://open?vault=Dokumenty&file=Clippings%2F250228%20Zamrznut%C3%AD%20vody%20%E2%84%B9%EF%B8%8F%F0%9F%85%B0%EF%B8%8F%20v%20zahradn%C3%AD%20trubce
+
+Clippings/250228 Zamrznutí vody ℹ️🅰️ v zahradní trubce.md
+
+https://gemini.google.com/app/2c7ad6a11a45aedb
+
+
+mkdir 
+onedrive/oldpubl  ?
+dokumenty/OLD-publ  ?
+mkdir OLD-publ
+
+
+
+
+
+
+
+Proč se ale vlastně s touhle teplotní rezervou 3 až 5 °C u venkovních rozvodů počítá? Zde jsou ty hlavní fyzikální a meteorologické důvody, které můžeš babičce vysvětlit:
+
+Zrádné měření teploty: Meteorologové (a aplikace v telefonu) udávají teplotu měřenou ve výšce 2 metrů nad zemí a ve stínu.
+
+Radiační ochlazování u země: Těsně nad zemí, u zdiva nebo v místech, kam může „stékat“ studený vzduch, bývá v noci při vyjasnění klidně o 3 až 5 stupňů chladněji než ve dvou metrech. Meteorologové tomu říkají přízemní mrazíky.
+
+
+
+
+
+
+
+
+S opětovným uvedením do provozu je dobré počkat, až teploty stabilně zůstanou nad nulou – obvykle koncem března nebo začátkem dubna. Důležité je také zkontrolovat těsnost spojů a stav příslušenství.
+
+
+Obvykle to sice bývá přelom března a dubna, ale letos si mrazy zkrátka dávají načas
+
+
+
+
+> - **Odolnost potrubí vs. armatur:** Instalatéři na odborných fórech upozorňují, že zatímco samotná plastová trubka v zemi nějaký ten mrazík vydržet může, povrchové ventily a klasické kovové kohoutky zamrznou už při poklesu na -2 °C. 
+
+prosím o odkazy na taková odborná fóra, kde se o tom diskutuje 
+
+
+A nezáleží na tom, jestli je k nim připojená hadice, nebo ne. 
+
+
+
+> Kovový kohout prostě prochladne, voda uvnitř něj zmrzne a vnitřní tlak zničí těsnění, nebo dokonce celou armaturu roztrhne.
+
+> Led pak dokáže i masivní kovový ventil roztrhnout zevnitř.
+
+> .... vytopený sklep nebo vysekávat prasklou trubku ze zdi,
+
+zda jde na webu najít fotky těchto škod
+
+
+
+, o kterých píšeš
+
+
+
+- **Běžný standard (polovina až konec dubna):** Většina lidí otevírá hlavní uzávěr venkovní vody až ve druhé polovině dubna. Tou dobou už bývá půda více prohřátá a riziko nečekaných nočních mrazů výrazně klesá.
+
+prosím o odkaz na článek, který je o této tématice, a mluví o polovině dubna 
+
+ aspoň částečně potvrzuje tvé tvrzení o polovině dubna 
+
+, že většina lidí otevírá hlavní uzávěr venkovní vody až ve 
+
+> venkovní voda se do systému pouští až ve chvíli, kdy noční teploty stabilně a dlouhodobě neklesají pod 3 až 5 °C
+prosím o odkaz na článek, který je o této tématice, a mluví o 3 až 5 °C jako o hranici pro pouštění venkovní vody do systému
+
+
+Flooding from a burst pipe in the basement
+
+
+GPT
+https://www.istockphoto.com/cs/search/2/image?mediatype=photography&phrase=frozen%20pipe%20damage
+https://www.shutterstock.com/image-photo/water-damage-basement-caused-by-sewer-2438206431?trackingId=c0f8cd51-4497-4a3e-adac-811210f0387e&listId=searchResults
+
+
+https://www.chmi.cz/meteogram/362-praha-lipence
+https://www.chmi.cz/meteogram/364-praha-radotin
+https://www.chmi.cz/predpoved-pocasi/praha/dalsi-dny
+
+
+^a 
+
+Předpověď na úterý
+Předpověď vydána: 3. 4. 2026 12:30
+Předpověď na úterý (00-24):
+Jasno nebo skoro jasno.
+
+Nejnižší noční teploty +2 až 0 °C.
+
+
+
+https://www.chmi.cz/predpoved-pocasi/tyden
+
+reload!
+
+https://intranet.chmi.cz/files/portal/docs/meteo/ov/aladin/results/public/meteogramy/mhtml/m.html
+
+
+# jb gemini.google.com/app
+
+
 
 # tasks #task
 #task na starem mobilu 2014 nejdou spaces
@@ -67,6 +195,9 @@ https://www.forbes.com/home-improvement/plumbing/how-to-winterize-outdoor-faucet
 
 How To Winterize Outdoor Faucets
 https://www.forbes.com/home-improvement/plumbing/how-to-winterize-outdoor-faucets/
+
+
+
 
 Highlights & Notes
 > pays to err on the side of caution. Be sure to winterize outdoor faucets by the time low temperatures are forecast to fall below 35 degrees Fahrenheit (1.7 degrees Celsius), just in case the actual temperature dips lower than the predicti
