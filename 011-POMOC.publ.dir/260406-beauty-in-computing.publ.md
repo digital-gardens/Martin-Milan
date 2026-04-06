@@ -32,20 +32,16 @@ related
 - innovation
 
 - insight
-
 - surprise
+- paradox
+- irony
+✨ 3. Unexpected connections
 
 
 
-- simplicity
-- elegance
 
-- unity
-- variety
 
-- depth
-- richness
-
+- order
 - expressiveness
 - clarity
 - power
@@ -58,23 +54,21 @@ related
 - minimalism
 - maximalism
 
-- paradox
-- irony
-- humor
 
-- order
+- simplicity
+- elegance
 
-- aesthetics
-- symmetry
-- harmony
-- balance
-- proportion
-- rhythm
-- contrast
+- unity
+- variety
+
+- depth
+- richness
 
 
+# reddit discussions about beauty in computing and math .. do they give any examples 
 
 
+# examples of insights, surprises in history and philosophy of mathematics
 
 
 
