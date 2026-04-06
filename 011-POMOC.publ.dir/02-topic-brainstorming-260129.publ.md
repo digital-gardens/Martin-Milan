@@ -133,7 +133,9 @@ To switch formats at any time, at the top, click Format and select Switch to Pag
 
 
 
+# meta .. [[260125-merely-start-a-big-topic.meta.publ.md]]
 
+# [[260406-beauty-in-computing.publ.md]]
 
 # [[260404-generalization-of-language.publ.md]]
 

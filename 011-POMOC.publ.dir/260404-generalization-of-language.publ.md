@@ -1,5 +1,9 @@
 topic 260404
 
+
+# meta .. [[260125-merely-start-a-big-topic.meta.publ.md]]
+
+
 how to name this topic?
 
 - generalization of language

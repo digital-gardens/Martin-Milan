@@ -1,6 +1,7 @@
 260125-start-a-big-topic.meta.publ.md
 
 
+new [[260404-generalization-of-language.publ.md]]
 
 
 
