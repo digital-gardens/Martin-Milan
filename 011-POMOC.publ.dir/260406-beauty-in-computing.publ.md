@@ -5,27 +5,78 @@
 
 # topic 260406
 
-how to name this topic?
+# how to name this topic?
+
+joy
 
 beauty
+
 emotional
+
 poetical 
 ornamental 
+
+...
 
 in computing
 in math 
 in math philosophy
 
 
+related
+
+- creativity
+- inspiration
+- wonder
+
+- innovation
+
+- insight
+
+- surprise
 
 
-- generalization of language
-- language-like systems
 
-insight?
-brainstorming
+- simplicity
+- elegance
 
-260406-beauty-in-computing.publ.md
+- unity
+- variety
+
+- depth
+- richness
+
+- expressiveness
+- clarity
+- power
+- efficiency
+
+- generalization
+- abstraction
+
+- unification
+- minimalism
+- maximalism
+
+- paradox
+- irony
+- humor
+
+- order
+
+- aesthetics
+- symmetry
+- harmony
+- balance
+- proportion
+- rhythm
+- contrast
+
+
+
+
+
+
 
 
 
