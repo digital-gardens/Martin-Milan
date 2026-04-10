@@ -4,6 +4,9 @@
 new [[260404-generalization-of-language.publ.md]]
 
 
+# [[260409-ontology-conceptual-model.publ.md]]
+
+
 
 - [is it possible to use gemini canvas for starting a big topic as 1 or more markdown files ... first ... collecting search terms, quotes from search results, links ...](#is-it-possible-to-use-gemini-canvas-for-starting-a-big-topic-as-1-or-more-markdown-files--first--collecting-search-terms-quotes-from-search-results-links-)
 		- [**The Workflow: From Chaos to Markdown**](#the-workflow-from-chaos-to-markdown)
