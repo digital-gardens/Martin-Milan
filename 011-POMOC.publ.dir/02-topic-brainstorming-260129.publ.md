@@ -130,11 +130,23 @@ To switch formats at any time, at the top, click Format and select Switch to Pag
 
 
 
+
+Table A.1 COMPARISON OF COCAINE WITH TODAY’S ANTIDEPRESSANTS
 011-Pomoc 
 011-antidepresiva 
 "C:\Users\marti\OneDrive\Dokumenty\250825-@skupina-meta-informace"
 "C:\Users\marti\OneDrive\Dokumenty\ntidep"
 rename 011
+
+amazon The Antidepressant Solution A Step-by-Step Guide to Safely Overcoming Antidepressant Withdrawal, Dependence, ... Joseph Glenmullen.md
+Table A.1 COMPARISON OF COCAINE WITH TODAY’S ANTIDEPRESSANTS
+
+Kindle
+Your Notes and Highlights
+
+
+
+
 
 # meta .. [[260125-merely-start-a-big-topic.meta.publ.md]]
 
