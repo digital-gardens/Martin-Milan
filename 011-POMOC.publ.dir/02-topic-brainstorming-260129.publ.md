@@ -134,6 +134,7 @@ To switch formats at any time, at the top, click Format and select Switch to Pag
 011-antidepresiva 
 "C:\Users\marti\OneDrive\Dokumenty\250825-@skupina-meta-informace"
 "C:\Users\marti\OneDrive\Dokumenty\ntidep"
+rename 011
 
 # meta .. [[260125-merely-start-a-big-topic.meta.publ.md]]
 

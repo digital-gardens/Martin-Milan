@@ -68,7 +68,7 @@ Question: is it possible that some people are more prone to akathisia (caused by
 
 
 # todo link to slovníček pojmů ℹ️ℹ️ℹ️ℹ️ C:\Users\marti\OneDrive\Dokumenty\ntidep\nefoam-antidepresiva-slovnik-2021.f8.md
-
+rename 011
 
 ## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
 

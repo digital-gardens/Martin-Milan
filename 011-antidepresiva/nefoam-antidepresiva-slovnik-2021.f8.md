@@ -16,6 +16,7 @@ todo
 # transclusion  https://keep.google.com/#NOTE/15NT_oV2s3DmYlAMidJKTMJF1MgMj-3M7_Q9UTHyUZI1BMgCH0iRBZIdqk-NX ℹ️ℹ️ℹ️ℹ️ℹ️ #250831 #aaaaAAA #00000 #CORE1000 pro případ např. zranění #mozku... potřeboval bych, aby tento kousek textu přežil....:  And I am worried about #antidepressant -related #akathisia ⚠️‼️💊😭🆘☠️   read dr. Shipko
 
 C:\Users\marti\OneDrive\ntidep\250831-aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8.md
+rename 011
 
 na konci tohoto je  kapitola backups
 

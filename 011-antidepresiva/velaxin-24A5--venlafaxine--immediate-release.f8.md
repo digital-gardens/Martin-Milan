@@ -110,6 +110,7 @@ Date: 06.03.2019
 
 # https://pacient.erecept.sukl.cz/suklweb/Pacient/ErpPredpisy/DetailReceptu?idDokladu=PM84POM............
 file:///C:\Users\marti\OneDrive\ntidep\
+rename 011
 
 2x VELAXIN 75MG TBL NOB 56(4X14)
 Diagnóza:	
