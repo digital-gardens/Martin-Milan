@@ -249,14 +249,67 @@ doporučuje
 
 
 
-# kindle Several Short Sentences About Writing | Penguin Random House Retail
+# pdf? Several Short Sentences About Writing | Penguin Random House Retail
 https://www.penguinrandomhouseretail.com/book/?isbn=9780307279415
+
+Several Short Sentences About Writing by Verlyn Klinkenborg
+
+i am going to buy it as an ebook 
+
+i wonder, whether any publisher would allow 
+to the czech republic
+the pdf with social drm 
+so i can upload it to you 
+
+
+ebooks.com 
+Online Reader 20% every 30 days
+
+restrictions.
+
+The publisher has set limits on how much of this ebook you may print, copy or read aloud. These limits may differ between book formats.
+
+
+https://read.amazon.com/notebook?ref_=kcr_notebook_lib&language=en-US
+https://read.amazon.com/notebook?ref_=kcr_notebook_lib&language=en-US
+Some highlights have been hidden or truncated due to export limits.
+
+ok, just truncated 
+
+ 
+
+
+## Feminized By
+.........................................
+By: Lady Alexa
+
+
+
+# fail
+upload study notes to coursehero.com
+study guides 
+
+Upload study notes to Course Hero to earn free document unlocks by contributing original materials like class notes, study guides, and assignments. Accepted documents (taking 1-3 hours to process) must be over a 
+
+full page, clearly titled, and tagged with the correct school, course, and professor. 
+
+
+
+
+https://glasp.co/uploader
+
+https://www.saveourenvironment.ca/Sev
+
+
+
+
 About
 Praise
 Author
 Excerpt
-*
 
+
+## *
 
 ## Your job as a writer is making sentences.
 Most of your time will be spent making sentences in your head.
@@ -266,13 +319,31 @@ That is the writer's life.
 Never imagine you've left the level of the sentence behind.
 
 
-Most of the sentences you make will need to be killed.
+## Most of the sentences you make will need to be killed.
 The rest will need to be fixed.
 This will be true for a long time.
 The hard part now is deciding which to kill and which
 to fix and how to fix them.
 This will get much, much easier, but the decision making  will never end.
+
+*
+
+As you practice noticing, notice how thickly particled
+## with names the world around you is.
+This will gradually become part of your noticing,
+looking not for words to make us see the way you saw--
+But for the names of what you've noticed.
+Names that announce the whatness of the world to a single species.
  
+It's hard to grasp at first the density, the specificity
+With which the world has been named.
+This is a planet of overlapping lexicons,
+Generation after generation, trade after trade,
+Expedition after expedition sent out to bring home
+Name upon name, terms of identity in endless degrees of intimacy,
+And all at hand, if you look for them.
+ 
+*
 
 
 
