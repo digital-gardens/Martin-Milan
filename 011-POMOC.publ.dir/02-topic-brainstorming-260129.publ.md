@@ -131,6 +131,10 @@ To switch formats at any time, at the top, click Format and select Switch to Pag
 
 
 
+
+12k ... VEDCI 
+https://github.com/search?q=antidepressants+cocaine&type=wikis
+
 Table A.1 COMPARISON OF COCAINE WITH TODAY’S ANTIDEPRESSANTS
 011-Pomoc 
 011-antidepresiva 

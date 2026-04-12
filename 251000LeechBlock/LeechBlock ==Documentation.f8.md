@@ -10,6 +10,14 @@ tags:
   - "clippings"
 ---
 
+save 
+general options/ export txt 
+tc 
+
+18 of 30, 25
+9 of 30, 12
+
+
 extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/diagnostics.html
 
 https://www.tapatalk.com/groups/leechblock/

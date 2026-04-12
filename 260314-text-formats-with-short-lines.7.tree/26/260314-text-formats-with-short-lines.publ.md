@@ -269,6 +269,12 @@ restrictions.
 
 The publisher has set limits on how much of this ebook you may print, copy or read aloud. These limits may differ between book formats.
 
+https://reader.ebooks.com/?bid=860917&t=639114790106200224&reqid=163135943&uid=129051018&hash=aa80dcaf102f19c6877b45bb39641e49
+This version is still being developed and may not yet include all the features available in our legacy reader. However, it brings a range of improvements designed to enhance your reading experience — especially on mobile devices.
+
+https://libro.eb20.net/Reader/rdr.aspx?b=860917
+
+
 
 https://read.amazon.com/notebook?ref_=kcr_notebook_lib&language=en-US
 https://read.amazon.com/notebook?ref_=kcr_notebook_lib&language=en-US
