@@ -1416,6 +1416,67 @@ lists all https://old.reddit.com/user/martin_m_n_novy/
 LB
 https://www.reddit.com/user/Reasonable-Map-9245/
 
+
+260413
+my github org,  "digital-gardens" , that is  very related to this subreddit .. survival of our info
+https://github.com/digital-gardens
+
+
+https://www.reddit.com/mod/survival_of_our_info/privacy
+desperate debugging ... why i am  not seeing my "survival_of_our_info" at my [~~ moderator of these subreddits] list of subreddits at https://www.reddit.com/user/martin_m_n_novy/ ?
+
+i cannot find in subreddit settings ...where can i set a subreddit ~~content ~filtering to high 
+
+spam filter
+
+author:martin_m_n_novyb high
+
+Scroll down to the Spam filter strength section.
+
+https://old.reddit.com/r/survival_of_our_info/about/edit/
+content filters
+The content types you select will be automatically added to your modqueue for you to review.
+
+filter text posts:	offon
+filter link, poll, media posts:	offon
+filter comments:	offon
+Perhaps I should move to a specific Blissymbols subreddit? EDIT: "Spam filter strength in this sub was too high" ... my new post. and i will ...Read more
+
+
+Spam filter strength in this sub was too high
+in recent months, reddit is targetted by tons of crypto spam
+
+now it seems, i set the "Spam filter strength" as way way too high ('ALL')
+
+'HIGH' is the standard filter, 'LOW' disables most filtering, 'ALL' will filter every post initially and they will need to be approved manually to be visible
+
+https://www.reddit.com/r/visual_conlangs/about/edit?page=posts
+
+...
+
+// i did this foolishness in several subs
+
+.....
+
+https://www.reddit.com/r/visual_conlangs/about/modqueue
+
+posts are marked "Sorry, this post was removed by Reddit’s filters."
+
+...
+
+I apologize.
+
+reddit didnt notify me (well enough?) , that there are posts waiting
+
+so i am going back to the 'HIGH' setting
+
+and i will be promoting some posters to be moderators, so they could approve their posts
+
+
+
+
+
+
 # afraid it will get renamed
 maybe wasnt unlisted?
  https://www.reddit.com/r/code_rosettas/
