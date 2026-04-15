@@ -1,5 +1,22 @@
 bliss-2603.publ.md
 
+
+
+https://freevoiceaac.app/app/
+
+// uses emojis
+my dream project.. to fork it at github, and to add Blissymbols
+
+extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&http://github.com/Chuea81/freevoice-aac
+
+
+
+
+https://app.mycoughdrop.com/example/core-112
+https://www.opensymbols.org/search?q=glasses
+
+
+
 https://discord.com/channels/786550541182435338/786550541182435341/1483026669773262949
 
 github

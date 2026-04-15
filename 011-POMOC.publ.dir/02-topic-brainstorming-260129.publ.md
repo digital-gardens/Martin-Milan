@@ -132,6 +132,9 @@ To switch formats at any time, at the top, click Format and select Switch to Pag
 
 
 
+
+
+
 12k ... VEDCI 
 https://github.com/search?q=antidepressants+cocaine&type=wikis
 
@@ -149,10 +152,30 @@ Kindle
 Your Notes and Highlights
 
 
-
-
-
 # meta .. [[260125-merely-start-a-big-topic.meta.publ.md]]
+
+C:\Users\marti\OneDrive\Dokumenty\Clippings\Soundtrack Co takhle svatba, princi - Když se načančám.md
+
+# 26041 track 
+C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\
+
+"C:\Users\marti\OneDrive\Dokumenty\old-251225-tagged-text-lines.publ.code-workspace"
+
+251105-symptom-tracker.f8.md
+[[251105-symptom-tracker.f8.md]]
+
+workspace
+
+"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\.vscode\settings.json"
+C:\Users\marti\OneDrive\Dokumenty\251225.publ.code-workspace
+C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\other\qqq2511-symptom-tracker.publ.dir.code-workspace
+	"settings": {
+		"markdown-hashtags.sorting.order": "asc",
+		"markdown-hashtags.sorting.key": "name"
+	}
+[[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
+
+
 
 # [[260409-ontology-conceptual-model.publ.md]]
 
@@ -165,8 +188,10 @@ Your Notes and Highlights
 
 # [[260404-generalization-of-language.publ.md]]
 
-# [[bliss-2603.publ.md]]
 
+
+# [[bliss-2603.publ.md]]
+https://freevoiceaac.app/app/
 
 
 

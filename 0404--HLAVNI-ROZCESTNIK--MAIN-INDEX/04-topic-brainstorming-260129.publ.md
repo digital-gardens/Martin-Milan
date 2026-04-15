@@ -1417,11 +1417,16 @@ LB
 https://www.reddit.com/user/Reasonable-Map-9245/
 
 
-260413
+# 260414 
+added reasonable-map-9245 as a moderator to r/survival_of_our_info
+https://www.reddit.com/mod/survival_of_our_info/moderators/
+
+
+# 260413
 my github org,  "digital-gardens" , that is  very related to this subreddit .. survival of our info
 https://github.com/digital-gardens
 
-
+didnt help 24 h 
 https://www.reddit.com/mod/survival_of_our_info/privacy
 desperate debugging ... why i am  not seeing my "survival_of_our_info" at my [~~ moderator of these subreddits] list of subreddits at https://www.reddit.com/user/martin_m_n_novy/ ?
 
@@ -1443,7 +1448,7 @@ filter comments:	offon
 Perhaps I should move to a specific Blissymbols subreddit? EDIT: "Spam filter strength in this sub was too high" ... my new post. and i will ...Read more
 
 
-Spam filter strength in this sub was too high
+# Spam filter strength in this sub was too high
 in recent months, reddit is targetted by tons of crypto spam
 
 now it seems, i set the "Spam filter strength" as way way too high ('ALL')
