@@ -157,12 +157,27 @@ Your Notes and Highlights
 C:\Users\marti\OneDrive\Dokumenty\Clippings\Soundtrack Co takhle svatba, princi - Když se načančám.md
 
 # 26041 track 
-C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\
 
-"C:\Users\marti\OneDrive\Dokumenty\old-251225-tagged-text-lines.publ.code-workspace"
+scan
+	C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\
 
-251105-symptom-tracker.f8.md
+"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251225.tagged.lines.publ.md"
+strange mtime 
+look at github 
+
+
+
+
+"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\260218-dr.S.-24b6-antidepressants-BMI-diary-mudr-doktor-invalidni-duchod-pracovat-akce--PRAHA-city-doprava.publ.md"
+
+"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251212-weighted-tree-md.FILETYPE.publ.md"
+
+
+
+tagged-text-lines
+
 [[251105-symptom-tracker.f8.md]]
+
 
 workspace
 
@@ -174,6 +189,80 @@ C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\other\qqq2511-symptom-tracker.
 		"markdown-hashtags.sorting.key": "name"
 	}
 [[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
+
+
+
+C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251126.00-template-experiment.f16.md
+
+- 2025-11-06 00:47 - #010-nose-shiatsu , one-sided ... vagus nerve stimulation 
+
+
+https://freevoiceaac.app/app/
+👆I
+
+🤚Need
+
+🚫Stop
+
+⏸️I need a break
+
+⏸️I need a break
+
+🚫Stop
+
+😩Tired
+
+
+Feelings
+
+😄Happy
+
+😢Sad
+
+😡Angry
+
+😨Scared
+
+😩Tired
+
+🤒Sick
+
+🥱Bored
+
+🤗Love
+
+😤Frustrated
+
+🥰Good
+
+😰Worried
+
+🥳Excited
+
+😬Nervous
+
+😌Calm
+
+🤔Confused
+
+😲Surprised
+
+😇Proud
+
+😔Lonely
+
+😳Embarrassed
+
+🥺Hurt Feelings
+
+😶Shy
+
+😏Silly
+
+🥰Grateful
+
+😞Disappointed
+
 
 
 
