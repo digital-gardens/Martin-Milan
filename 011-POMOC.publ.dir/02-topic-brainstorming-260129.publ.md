@@ -158,25 +158,21 @@ C:\Users\marti\OneDrive\Dokumenty\Clippings\Soundtrack Co takhle svatba, princi 
 
 # 26041 track 
 
-scan
+scanned
 	C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\
 
+[[251105-symptom-tracker.f8.md]]
+
+
+"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251212-weighted-tree-md.FILETYPE.publ.md"
+
 "C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251225.tagged.lines.publ.md"
-strange mtime 
-look at github 
-
-
+tagged-text-lines
 
 
 "C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\260218-dr.S.-24b6-antidepressants-BMI-diary-mudr-doktor-invalidni-duchod-pracovat-akce--PRAHA-city-doprava.publ.md"
 
-"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251212-weighted-tree-md.FILETYPE.publ.md"
 
-
-
-tagged-text-lines
-
-[[251105-symptom-tracker.f8.md]]
 
 
 workspace
@@ -192,9 +188,32 @@ C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\other\qqq2511-symptom-tracker.
 
 
 
+
 C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251126.00-template-experiment.f16.md
 
-- 2025-11-06 00:47 - #010-nose-shiatsu , one-sided ... vagus nerve stimulation 
+
+
+- ℹ️ 2025-11-06 00:47 - #010-nose-shiatsu , one-sided ... vagus nerve stimulation 
+
+- 2025-11-05 10:42 - #V-antidepressant , #felix-felicis ?
+
+ℹ️ℹ️ because i am harmed by antidepressants..a quote from yc .. Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).”  
+
+ℹ️ Když se vyspím dobře, a vezmu si antidepressant už před snídaní, je to trochu jako kouzelný lektvar Felix Felicis ... v takovém dni zvládnu některou z těžších prací 
+
+ℹ️ℹ️ℹ️ 250827 Rule of Two-or-Three Hits .Antifragile and Agile concepts
+
+
+ℹ️ℹ️💚⏰, v uvozovkách.. OBNOVIL dýchání
+
+ℹ️ pomohla hudba .. broukám si melodii z pink floyd. shine on you crazy diamond 
+
+
+* * .... ℹ️ pomohlo se vyspat
+
+
+
+## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
 
 
 https://freevoiceaac.app/app/

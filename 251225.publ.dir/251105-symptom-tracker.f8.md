@@ -85,6 +85,8 @@ foam enabled
 markdown-hashtags   installed ... issues of the other two probably nothing to do with this 
 	disable, enable in 1 workspace 
 
+
+
 insert timestamp here
 /da
 Choose a consistent timestamp format that works across your logs (e.g., ISO YYYY-MM-DD hh:mm or with timezone if you like).
@@ -109,6 +111,7 @@ markdown-hashtags
 gemini
 deep Research
 vscode extensions that support hashtags ..
+
 what ascii characters are allowed in hashtags in markdown files ..
 i am curious about
 `[-_.\w]+`
@@ -129,6 +132,8 @@ and
 #
 
 
+
+
 # pokusy jak vyznacovat importance from [[251212-weighted-tree-md.FILETYPE.publ]] 
 
 fail  #️⃣#️⃣#️⃣
@@ -145,7 +150,7 @@ fail  #️⃣#️⃣#️⃣
 - **Insert Date String**: This extension allows you to quickly insert the current date and time in various formats. You can customize the format to suit your needs.
 - **Date Time Stamper**: This extension provides a simple way to insert timestamps into your files. It supports multiple formats and can be triggered with a keyboard shortcut.
 - **Markdown Timestamp**: Specifically designed for Markdown files, this extension helps you insert timestamps in a format suitable for note-taking and journaling.
-- **Auto Timestamp**: This extension automatically inserts a timestamp whenever you save a file. It can be configured to use different date and time formats.
+- **Quick Date Inserter**: A lightweight extension that provides quick access to insert the current date and time with customizable formats, ideal for developers who frequently need timestamps in their code or documentation.
 
 
 
@@ -155,7 +160,6 @@ fail  #️⃣#️⃣#️⃣
 
 
 
-- **Quick Date Inserter**: A lightweight extension that provides quick access to insert the current date and time with customizable formats, ideal for developers who frequently need timestamps in their code or documentation.
 - 
 
 
@@ -237,7 +241,7 @@ fail  #️⃣#️⃣#️⃣
   - AI comment: Utilizing digital tools and automation can streamline the logging process and improve accuracy. Consider exploring various apps and extensions designed for symptom tracking.
   
 
-- 2025-11-06 00:47 - #010-nose-shiatsu , one-sided ... vagus nerve stimulation 
+- ℹ️ 2025-11-06 00:47 - #010-nose-shiatsu , one-sided ... vagus nerve stimulation 
   - AI note: Consider incorporating regular shiatsu sessions into your routine to help manage symptoms.
   - AI suggestion: Research the benefits of vagus nerve stimulation for symptom relief and discuss with a healthcare provider.
   - 
@@ -301,7 +305,7 @@ o víkendu snad napíšu víc
 ## prompt pride 25090 251129 https://keep.google.com/#NOTE/1gQT7ckz6Kad_TTKb94KwJnmysb9Hzhe2RwuHpUcF7e6vHuOypazxbXWchET5Og
 
 
-because i am harmed by antidepressants..a quote from yc .. Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).”  
+ℹ️ℹ️ because i am harmed by antidepressants..a quote from yc .. Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).”  
 
 // já
 Many people don't understand what is an antidepressant withdrawal

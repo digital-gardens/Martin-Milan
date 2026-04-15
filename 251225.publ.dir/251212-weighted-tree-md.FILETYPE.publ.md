@@ -95,9 +95,14 @@ experiments with tagging * *
 
 # zachranka apod
 
+C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251212-weighted-tree-md.FILETYPE.publ.md
 pokusy jak vyznacovat importance 
 
 fail  #️⃣#️⃣#️⃣
+
+
+* * * 26041   aaaa ii m nn qq rr yy !! ?? *** 
+
 
 - .aa \aa aaa ℹ️ℹ️ℹ️   #️⃣aa  #aaaaii #aaaaℹ️ℹ️  [Jméno] ZACHRANKA Konzultační Centrum [Mobil] 800 888 155
   - Jen info ...Málokdo o něm ví. Číslo na konzultační centrum záchranky je těžké dohledat https://www.idnes.cz/praha/zpravy/tisnova-linka-pomoc-zdravotnik-pohotovost-zachranna-sluzba.A250115_091555_praha-zpravy_idh
