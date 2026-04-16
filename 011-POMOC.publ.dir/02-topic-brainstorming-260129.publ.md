@@ -156,147 +156,17 @@ Your Notes and Highlights
 
 C:\Users\marti\OneDrive\Dokumenty\Clippings\Soundtrack Co takhle svatba, princi - Když se načančám.md
 
-# 26041 track 
-
-scanned
-	C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\
-
-[[251105-symptom-tracker.f8.md]]
-
-
-"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251212-weighted-tree-md.FILETYPE.publ.md"
-
-"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251225.tagged.lines.publ.md"
-tagged-text-lines
-
-
-"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\260218-dr.S.-24b6-antidepressants-BMI-diary-mudr-doktor-invalidni-duchod-pracovat-akce--PRAHA-city-doprava.publ.md"
-
-
-
-
-workspace
-
-"C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\.vscode\settings.json"
-C:\Users\marti\OneDrive\Dokumenty\251225.publ.code-workspace
-C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\other\qqq2511-symptom-tracker.publ.dir.code-workspace
-	"settings": {
-		"markdown-hashtags.sorting.order": "asc",
-		"markdown-hashtags.sorting.key": "name"
-	}
-[[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
-
-
-
-
-C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\251126.00-template-experiment.f16.md
-
-
-
+# 26041-symptom-tracker.f8.md 
+[[26041-symptom-tracker.f8.md]]
+https://freevoiceaac.app/app/ 👆I 🤚Need 🚫Stop ⏸️I need a break  ⏸️I need a break 🚫Stop 😩Tired
 - ℹ️ 2025-11-06 00:47 - #010-nose-shiatsu , one-sided ... vagus nerve stimulation 
 
-- 2025-11-05 10:42 - #V-antidepressant , #felix-felicis ?
-
-ℹ️ℹ️ because i am harmed by antidepressants..a quote from yc .. Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).”  
-
-ℹ️ Když se vyspím dobře, a vezmu si antidepressant už před snídaní, je to trochu jako kouzelný lektvar Felix Felicis ... v takovém dni zvládnu některou z těžších prací 
-
-ℹ️ℹ️ℹ️ 250827 Rule of Two-or-Three Hits .Antifragile and Agile concepts
-
-
-ℹ️ℹ️💚⏰, v uvozovkách.. OBNOVIL dýchání
-
-ℹ️ pomohla hudba .. broukám si melodii z pink floyd. shine on you crazy diamond 
-
-
-* * .... ℹ️ pomohlo se vyspat
-
-
-
-## dle filosofie dr. Praška a antifragility ... ℹ️ℹ️ℹ️ℹ️možná se rodina pro příštích 50 let trochu posílila ...
-
-
-https://freevoiceaac.app/app/
-👆I
-
-🤚Need
-
-🚫Stop
-
-⏸️I need a break
-
-⏸️I need a break
-
-🚫Stop
-
-😩Tired
-
-
-Feelings
-
-😄Happy
-
-😢Sad
-
-😡Angry
-
-😨Scared
-
-😩Tired
-
-🤒Sick
-
-🥱Bored
-
-🤗Love
-
-😤Frustrated
-
-🥰Good
-
-😰Worried
-
-🥳Excited
-
-😬Nervous
-
-😌Calm
-
-🤔Confused
-
-😲Surprised
-
-😇Proud
-
-😔Lonely
-
-😳Embarrassed
-
-🥺Hurt Feelings
-
-😶Shy
-
-😏Silly
-
-🥰Grateful
-
-😞Disappointed
-
-
-
-
 # [[260409-ontology-conceptual-model.publ.md]]
-
 
 # [[260406-beauty-in-computing.publ.md]]
 
 # [[Vopěnka,Vopenka.publ.md]]
-
-
-
 # [[260404-generalization-of-language.publ.md]]
-
-
 
 # [[bliss-2603.publ.md]]
 https://freevoiceaac.app/app/
