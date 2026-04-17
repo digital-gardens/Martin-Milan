@@ -599,9 +599,9 @@ tags: meta 03 topic id identifier brainstorming 260129 260139  gemini notebooklm
 ---
 ```
 
-# 260225 ... 226 27 28 nemohl pokracovat prestoze trivialni
 
-pokr trochu 260306+
+# iiℹ️ 260225 ... 226 27 28 nemohl pokracovat prestoze trivialni  
+iiℹ️ pokr trochu 260306+
 
 
 
@@ -610,7 +610,7 @@ pokr trochu 260306+
 
 00
 "D:\Users\milanlocal\Music"
-Tumsa nakte
+iii Tumsa nakte
 Nu, Dieviņ(i): Nyní, Bože / Božíčku
 tava vaļa: tvoje vůle / tvá moc
 nu tavāi rociņā(i): nyní ve tvých rukou
@@ -676,7 +676,8 @@ asi nebudu
 
 00
 "D:\Users\milanlocal\Music"
-Tumsa nakte
+iiℹTumsa nakte
+iiiℹ️ℹ️  Tumsa nakte
 Nu Dieviņ(i): Nyní, Bože / Božíčku
 tava vaļa: tvoje vůle / tvá moc
 
@@ -1388,7 +1389,7 @@ example:
 
 
 # kyberprostor s zachováním informace ... trvalá paměť ... paměťový prostor 
-# a ať po evoluce řeší 
+# a ať to evoluce řeší 
 
 
 
@@ -1542,6 +1543,44 @@ edit no, i am afraid ...will not ... share to u/
 imagine 
 a digital twin going to a digital heaven 
 Real-World Parallels: This concept builds on advancements in digital twins—used for simulations in industry—and AI bots trained on a person’s data to simulate their personality.
+
+
+# 260416
+ai
+
+what are possibilities
+free or paid 
+to get 
+a nice text 
+related to the topic of
+cross-dreaming
+(male to female)
+... i mean
+- not BSDM 
+- not a disorder 
+- maybe better soft than hard 
+- maybe more about the positive aspects of it, rather than the negative aspects of it
+
+
+- maybe more about the emotional and spiritual aspects of it, rather than the physical aspects
+- maybe more about the possibilities and opportunities of it, rather than the challenges and difficulties of it
+- maybe more about the personal and subjective experiences of it, rather than the general and objective facts about it
+- maybe more about the self-discovery and self-acceptance aspects of it, rather than the social and cultural aspects of it
+- maybe more about the individual and unique aspects of it, rather than the common and stereotypical aspects of it
+- maybe more about the fluidity and flexibility of it, rather than the rigidity and fixedness of it
+- maybe more about the beauty and diversity of it, rather than the stigma and discrimination
+- maybe more about the love and connection aspects of it, rather than the fear and isolation aspects
+- maybe more about the growth and transformation aspects of it, rather than the suffering and trauma aspects of it
+
+
+Many stories here overlap with sci-fi or fantasy.
+
+Autistic individuals frequently experience "wiggle room" in gender perception, often identifying as non-binary, gender-fluid, or agender, or simply feeling a disconnect from rigid societal gender roles. This phenomenon, sometimes called "autigender," stems from a reduced inclination toward social conformity, difficulty grasping gendered social constructs, and a focus on internal identity rather than external performance. 
+
+https://www.reddit.com/r/mypartneristrans/search/?q=lesbian&type=posts&sort=top&cId=a5a2d926-b297-405d-8790-2d8019169176&iId=9e9f2391-a1bd-4cfc-857d-c50aa991f4c0
+
+https://www.reddit.com/r/transgender/comments/ik751e/she_came_out_as_trans_her_wife_came_out_as/
+
 
 
 

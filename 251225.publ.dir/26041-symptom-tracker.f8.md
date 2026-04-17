@@ -49,6 +49,14 @@ C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\other\qqq2511-symptom-tracker.
 ℹ️ pomohla hudba .. broukám si melodii z pink floyd. shine on you crazy diamond 
 
 
+
+
+# iiℹ️ℹ️  260225 ... 226 27 28 nemohl pokracovat prestoze trivialni  
+iiℹ️ pokr trochu 260306+
+
+iiiℹ️ℹ️  Tumsa nakte
+
+
 * * .... ℹ️ pomohlo se vyspat
 
 

@@ -175,6 +175,14 @@ https://freevoiceaac.app/app/
 
 
 
+# security incident xz-utils 
+ssh.exe --help
+
+windows 11..can ssh.exe be used to transfer files ? .. //i want it
+
+where.exe scp
+bash
+which scp
 
 
 # Facebook settings to stop notifications about
