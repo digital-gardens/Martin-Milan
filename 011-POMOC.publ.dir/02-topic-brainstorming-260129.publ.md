@@ -5,32 +5,54 @@ tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím 
 
 # ale filosofie adaptability je dulezitejsi 
 
-TODO předělat tento dokument.. aby 1. 100 řádek četl AI 
+# TODO předělat tento dokument.. aby 1. 100 řádek četl AI 
 jak vím které řádky čte AI 
 vscode mi to nějak kdysi zobrazil 
 
-todo kdo snese 
- v hashtagu
+# todo kdo snese v hashtagu
 české znaky
 pomlčky
 
-20260418
-#mir-lék + 11 hodin 
-slabika-slabika
-mirtazapin
-jde mi psát do 02-topic-brainstorming-260129.publ.md
+aŤ hashtag začíná aspoň 3 latinské znaky
+buď obětuji hacky a carky 
+a nebo, když ai nebude rozumet, zvolim jine slovo 
+mir-lék
+#vic-důležité 
+#vic-dulezite
 
-jako Litchfield v Carnegie 
+
+
+# 20260418
+#mir-lék + 11 hodin 
+-- slabika-slabika
+-- mirtazapin
+jde mi psát do 02-topic-brainstorming-260129.publ.md
+ale zase skoro nic nejím
+hrozí mi nemocnice kvůli váze 48kg
+
+
+nepřímé škody řádově 100 000 Kč 
+
+
+nebo jiný přístup.. #peristaltika a ostatní zvládne #evoluce
+
+nebo jako Litchfield v Carnegie 
 
 čeho se bojím
 co mohu udělat
 
-nebo jiný přístup.. #peristaltika a ostatní zvládne #evoluce
+brainstorming.. k čemu využít felix felicis který může být dnes/zítra k dispozici
 
-nebo brainstorming.. k čemu využít felix felicis který může být dnes/zítra k dispozici
 - něco nejvíc meta, idealizovaný člověk
 
+- meta reformy 
+
+- reformy 
+
 - něco co mi pomůže s adaptabilitou
+
+-- některé řádky doplňuje AI, některé ne
+-- některé řádky jsou pro AI, některé ne
 
 - něco co mi pomůže s přehledem o mých aktivitách a jejich dopadem na mě
 - něco co mi pomůže s přehledem o mých výpadcích a jejich příčinách
@@ -40,23 +62,59 @@ TODO několik workspaceů ...
   aby pro sledování mých výpadků
     fungovaly hashtags 
 
-
+todo research ... vscode completion suggestions
+  - funguje /
+  - zda funguje pomlčky
 
 - 2035 2065 plán na 100 let
   - github org .. digital legacy
 
+srv. zelený karis blok a5 
+žlutá záložka
+05-plan na měsíc 
+
 - 2045 plán na 20 let
   - vlastnictví nemovitosti
     - dnes ještě počká
-      - JB také chce řídit sám 
+      - JB také chce řídit sebe sám 
 
 - 2035 plán na 10 let
   - ropa, zemní plyn
 
-
-
+- 2030 plán na 5 let
+  - mitigate alzheimer 
 
 - plán na 1 rok
+
+metaproblém 
+
+problém nemocnice
+
+48 podváha 
+
+přílišná spavost kvůli lékům
+
+49 nedostatek bílkovin
+gastro-deprese 
+gastro-demence 
+
+
+
+zmírňovat 
+
+přestávky 
+
+
+
+zbývají 2 _? problémy 
+  - "48" 48kg váha
+  - "49" ... nedostatek bílkovin 
+- plán na 6 měsíců
+  - zlepšit trávení a vstřebávání živin
+- plán na 3 měsíce
+  - zlepšit peristaltiku
+
+
 - plán na 1 měsíc
 - plán na 1 týden
 - plán na 1 den
