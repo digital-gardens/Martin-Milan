@@ -3,6 +3,12 @@ tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím 
 ---
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+# LINKS 
+file:///C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\04-topic-brainstorming-260129.publ.md
+file:///C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\03-topic-brainstorming-260129.publ.md
+file:///C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\01-topic-brainstorming-260129.publ.md
+
 # ale filosofie adaptability je dulezitejsi 
 
 

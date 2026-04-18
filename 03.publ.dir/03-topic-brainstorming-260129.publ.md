@@ -1,22 +1,84 @@
 ---
 tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr filosofie adaptability
 ---
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# LINKS 
+file:///C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\04-topic-brainstorming-260129.publ.md
+file:///C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\03-topic-brainstorming-260129.publ.md
+file:///C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\01-topic-brainstorming-260129.publ.md
+
+
 
 # ale filosofie adaptability je dulezitejsi 
 
-# TODO předělat tento dokument.. aby 1. 100 řádek četl AI 
-jak vím které řádky čte AI 
-vscode mi to nějak kdysi zobrazil 
+# téma 0111-music 🎵 🎵 
+ zpěvník já písnička music singing
+píseň Tumša nakte 🎵 
+## text pisne meeting briefing brainstorming 
 
-# todo kdo snese v hashtagu
+# bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another #
+
+# 260315--reddit-bug--losing   1-user subreddits
+
+# DONT PUBLISH EMAIL addresses 
+FIND
+@g
+
+# 2603-27phys
+# musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
+[[26031-negotiation.publ.md]]
+# 30vvč
+
+# [[2603-28new-newtab.publ.md]]
+
+
+
+# zmena ... hashtagy pro sdileni v non24 apod ...english hashtags for sharing in non24 etc
+ale mene dulezite hashtagy asi cesky kvuli rodicum 
+
+# todo hyphens in hashtags ... allowed or not allowed ... to be decided, experiment 
+vscode completeion suggestions .. fail  
+vscode hashtag suggestions ... ok 
+
+# old todo kdo snese v hashtagu
 české znaky
-pomlčky
 
 aŤ hashtag začíná aspoň 3 latinské znaky
 buď obětuji hacky a carky 
 a nebo, když ai nebude rozumet, zvolim jine slovo 
-mir-lék
+
+
+tomu by mohli rozumet i rodice 
+please suggest english renaming of mir-lék
+#mirtazapine 
+
+#venlafaxine
+
+google search 
+"medicine-v"
+"medicine-m"
+medic-m
+
+smartphone 
+tablet-m
+mir-tablet
+google
+mirtazapine tablet
+ok 
+"mir tablet"  vitamins  
+"mirta tablet"
+"mirtaz tablet"
+registered trademark  
+
+- mir-medicine
+- mir-medication
+- mir-pill
+- mir-capsule
+- mir-dose
+- mir-meds
+
+
 #vic-důležité 
 #vic-dulezite
 -- slabika-slabiky
@@ -24,8 +86,8 @@ mir-lék
 
 
 # 20260418
-#mir-lék + 11 hodin 
--- mirtazapin
+#mirtazapine tablet + 11 hodin 
+
 jde mi psát do [[02-topic-brainstorming-260129.publ.md]]
 detaily [[26041-symptom-tracker.f8.md]]
 
@@ -125,38 +187,11 @@ zbývají 2 _? problémy
 
 
 
-# téma 0111-music 🎵 🎵 
- zpěvník já písnička music singing
-píseň Tumša nakte 🎵 
-
-text pisne meeting briefing brainstorming 
 
 
 
 
 
-
-
-
-
-
-# bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another #
-
-# 260315--reddit-bug--losing   1-user subreddits
-
-# DONT PUBLISH EMAIL addresses 
-FIND
-@g
-
-
-# 2603-27phys
-# musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
-# 29
-[[26031-negotiation.publ.md]]
-# 30vvč
-
-
-# [[2603-28new-newtab.publ.md]]
 
 
 # voyager This means our previous listing — with 160,000+ users and 700–800 reviews — is gone, at least for now. It's a real loss, and we're genuinely sad about it. A huge thank-you to everyone who supported us there. We hope you'll follow us to the new home and continue the journey together.
@@ -166,7 +201,7 @@ FIND
 EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
 
 
-# scan C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\04-topic-brainstorming-260129.publ.md
+# scan file:///C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\04-topic-brainstorming-260129.publ.md
 
 
 
