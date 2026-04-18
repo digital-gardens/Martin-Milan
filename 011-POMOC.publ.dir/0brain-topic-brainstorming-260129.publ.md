@@ -4,9 +4,10 @@ tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # LINKS 
-file:///C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\04-topic-brainstorming-260129.publ.md
-file:///C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\03-topic-brainstorming-260129.publ.md
-file:///C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\01-topic-brainstorming-260129.publ.md
+20260418 namesystem 
+{f1}{Backspace}
+0brain-topic-brainstorming.publ
+0tra-symptom-tracker.publ
 
 # ale filosofie adaptability je dulezitejsi 
 
@@ -32,7 +33,7 @@ FIND
 
 
 
-# TODO předělat tento dokument.. aby 1. 100 řádek četl AI 
+# TODO ? předělat tento dokument?.. aby 1. 100 řádek četl AI ?
 jak vím které řádky čte AI 
 vscode mi to nějak kdysi zobrazil 
 

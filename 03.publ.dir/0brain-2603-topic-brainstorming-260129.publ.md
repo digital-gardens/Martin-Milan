@@ -10,6 +10,10 @@ file:///C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\01-topic-brainstorm
 
 
 
+# TODO ? předělat tento dokument?.. aby 1. 100 řádek četl AI ?
+jak vím které řádky čte AI 
+vscode mi to nějak kdysi zobrazil 
+
 # ale filosofie adaptability je dulezitejsi 
 
 # téma 0111-music 🎵 🎵 
@@ -38,7 +42,7 @@ FIND
 ale mene dulezite hashtagy asi cesky kvuli rodicum 
 
 # todo hyphens in hashtags ... allowed or not allowed ... to be decided, experiment 
-vscode completeion suggestions .. fail  
+vscode completeion suggestions .. fail  ... can ./\\ 
 vscode hashtag suggestions ... ok 
 
 # old todo kdo snese v hashtagu
