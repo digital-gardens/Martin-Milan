@@ -155,4 +155,32 @@ Feelings
 
 😞Disappointed
 
+# 02
+ TODO předělat tento dokument.. aby 1. 100 řádek četl AI 
+
+# todo kdo snese v hashtagu
+české znaky
+pomlčky
+
+aŤ hashtag začíná aspoň 3 latinské znaky
+buď obětuji hacky a carky 
+a nebo, když ai nebude rozumet, zvolim jine slovo 
+mir-lék
+#vic-důležité 
+#vic-dulezite
+
+
+
+# 20260418 pokus o meta reformy
+#mir-lék + 11 hodin 
+-- mirtazapin
+
+detaily [[26041-symptom-tracker.f8.md]]
+
+napsal a5 svazek červený
+jde mi psát do [[02-topic-brainstorming-260129.publ.md]]
+
+ale zase skoro nic nejím
+hrozí mi nemocnice kvůli váze 48kg
+
 

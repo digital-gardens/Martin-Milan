@@ -19,17 +19,18 @@ a nebo, když ai nebude rozumet, zvolim jine slovo
 mir-lék
 #vic-důležité 
 #vic-dulezite
+-- slabika-slabiky
 
 
 
 # 20260418
 #mir-lék + 11 hodin 
--- slabika-slabika
 -- mirtazapin
-jde mi psát do 02-topic-brainstorming-260129.publ.md
+jde mi psát do [[02-topic-brainstorming-260129.publ.md]]
+detaily [[26041-symptom-tracker.f8.md]]
+
 ale zase skoro nic nejím
 hrozí mi nemocnice kvůli váze 48kg
-
 
 nepřímé škody řádově 100 000 Kč 
 
