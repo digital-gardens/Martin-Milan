@@ -5,11 +5,81 @@ tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím 
 
 # ale filosofie adaptability je dulezitejsi 
 
+TODO předělat tento dokument.. aby 1. 100 řádek četl AI 
+jak vím které řádky čte AI 
+vscode mi to nějak kdysi zobrazil 
+
+todo kdo snese 
+ v hashtagu
+české znaky
+pomlčky
+
+20260418
+#mir-lék + 11 hodin 
+slabika-slabika
+mirtazapin
+jde mi psát do 02-topic-brainstorming-260129.publ.md
+
+jako Litchfield v Carnegie 
+
+čeho se bojím
+co mohu udělat
+
+nebo jiný přístup.. #peristaltika a ostatní zvládne #evoluce
+
+nebo brainstorming.. k čemu využít felix felicis který může být dnes/zítra k dispozici
+- něco nejvíc meta, idealizovaný člověk
+
+- něco co mi pomůže s adaptabilitou
+
+- něco co mi pomůže s přehledem o mých aktivitách a jejich dopadem na mě
+- něco co mi pomůže s přehledem o mých výpadcích a jejich příčinách
+vscode + AI + hashtags + workspace + nějaké vizualizace
+
+TODO několik workspaceů ... 
+  aby pro sledování mých výpadků
+    fungovaly hashtags 
+
+
+
+- 2035 2065 plán na 100 let
+  - github org .. digital legacy
+
+- 2045 plán na 20 let
+  - vlastnictví nemovitosti
+    - dnes ještě počká
+      - JB také chce řídit sám 
+
+- 2035 plán na 10 let
+  - ropa, zemní plyn
+
+
+
+
+- plán na 1 rok
+- plán na 1 měsíc
+- plán na 1 týden
+- plán na 1 den
+- plán na 1 hodinu
+- plán na 1 minutu
+- plán na 1 sekundu
+
+
 
 # téma 0111-music 🎵 🎵 
  zpěvník já písnička music singing
 píseň Tumša nakte 🎵 
+
 text pisne meeting briefing brainstorming 
+
+
+
+
+
+
+
+
+
 
 # bug 260221.23 google-saved ... collections of links ... data loss ... the link of a  note when moving  a link from one collection to another #
 
@@ -183,6 +253,14 @@ windows 11..can ssh.exe be used to transfer files ? .. //i want it
 where.exe scp
 bash
 which scp
+
+mitigations:
+- 
+
+
+# \\JIRKA\Screenshots
+
+
 
 
 # Facebook settings to stop notifications about
