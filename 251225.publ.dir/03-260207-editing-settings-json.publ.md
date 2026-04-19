@@ -17,8 +17,11 @@ if settings.json has to be changed
 
 
 wait minutes 
+or run the script, that copies settings.json to onedrive
+
 
 f8
+exit
 C:\Users\marti\OneDrive\00\Robocopy---c-onedrive---d-mir.f5.cmd
 
 or
@@ -27,7 +30,14 @@ pwsh
 robocopy 
 
 ghd
+onedrive of dee
 git push 
+
+check if the file is updated 
+// related https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
+
+debug
+// related file:///C:\Users\marti\OneDrive\tar-exe\c\Users\marti\AppData\Roaming\Code\User\settings.json
 
 
 
