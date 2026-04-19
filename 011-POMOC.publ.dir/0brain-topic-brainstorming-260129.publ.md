@@ -53,6 +53,9 @@ tomu by mohli rozumet i rodice
 
 
 
-# 20260419 Carrington event 
-# > You simply would not be able to reach or download your data for weeks or months.
 
+
+
+# 20260419 #Carrington event #PINNED
+# > You simply would not be able to reach or download your data for #weeks or months.
+#citations-needed

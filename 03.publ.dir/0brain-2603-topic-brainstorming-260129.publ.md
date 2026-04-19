@@ -373,11 +373,32 @@ https://www.facebook.com/memories/?source=bookmark
 25 selected
 unsubscribe
 
-# moje.mnd.cz    Pinned
+
+
+
+
+
+
+
+
+# #Corsair flash disk .. melting #problem 
+alza usb3 prodluzovaci kabel 0,5m
+PremiumCord Prodlužovací kabel USB 3.0 Super-speed 5Gbps A-A, MF, 9pin, 0,5m bílá - Datový kabel | Alza.cz
+
+#9pin #usb3
+
+
+
+
+
+
+
+
+# moje.mnd.cz    Pinned  #MND
 maily
 b at k 
 https://moje.mnd.cz/
-Máte vše uhrazeno
+Máte vše #uhrazeno
 
 EAN: 859182400302905633
 https://moje.mnd.cz/requests
@@ -393,18 +414,9 @@ https://moje.mnd.cz/?request=selfreading-notifications
 caste dotazy 
 
 
-
-
-
-
-
-
-
-
-
-# 20260419 Carrington event 
+# 20260419 #Carrington event #PINNED
 text moved to C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\0brain-260129-topic-brainstorming.publ.md
 
-# > You simply would not be able to reach or download your data for weeks or months.
+# > You simply would not be able to reach or download your data for #weeks or months.
 
-citations needed
+#citations-needed
