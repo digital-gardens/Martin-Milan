@@ -15,6 +15,7 @@ jak vím které řádky čte AI
 vscode mi to nějak kdysi zobrazil 
 
 # ale filosofie adaptability je dulezitejsi 
+#rule-3-hits 
 
 # téma 0111-music 🎵 🎵 
  zpěvník já písnička music singing
@@ -400,3 +401,10 @@ caste dotazy
 
 
 
+
+# 20260419 Carrington event 
+text moved to C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\0brain-260129-topic-brainstorming.publ.md
+
+# > You simply would not be able to reach or download your data for weeks or months.
+
+citations needed

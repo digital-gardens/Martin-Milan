@@ -10,6 +10,7 @@ tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím 
 0tra-symptom-tracker.publ
 
 # ale filosofie adaptability je dulezitejsi 
+#rule-3-hits 
 
 # téma 0111-music 🎵 🎵 
 píseň Tumša nakte 🎵 
@@ -42,3 +43,16 @@ ale mene dulezite hashtagy asi cesky kvuli rodicum
 please suggest english renaming of mir-lék
 tomu by mohli rozumet i rodice 
 # todo hyphens in hashtags ... allowed or not allowed ... to be decided, experiment 
+
+
+
+
+
+
+
+
+
+
+# 20260419 Carrington event 
+# > You simply would not be able to reach or download your data for weeks or months.
+
