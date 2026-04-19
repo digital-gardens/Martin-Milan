@@ -31,6 +31,12 @@ robocopy
 
 ghd
 onedrive of dee
+
+once more maybe
+C:\Users\marti\OneDrive\00\Robocopy---c-onedrive---d-mir.f5.cmd
+
+
+
 git push 
 
 check if the file is updated 
