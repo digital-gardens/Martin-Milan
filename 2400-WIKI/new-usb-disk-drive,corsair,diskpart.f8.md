@@ -1,9 +1,32 @@
 
 
-WARNING FIRST GRANT AND ONLY THEN REMOVE
+#aaa #WARNING FIRST GRANT AND ONLY THEN REMOVE
+
+win+x disk management
+
+chkdsk e:\
+FAT32
+
+win Milan
+win+q create a recovery drive again 
+
+how to get whether the drive is mbr or gpt
+win+x disk management
+properties
+volumes
+partition style
+	mbr 
+		FAT32
+
+copy the files to onedrive
+grant readonly permissions to marti 
+
+copy to dee when new dee is ready
 
 
 # flashdisk Corsair-24 Windows usb diskpart sandisk corsair 
+
+
 https://photos.google.com/album/AF1QipNGaruGvp5IYxpLhcZhn7iVKzRje6jDSIEZOV9f
 rem  bylo 66MB na zacatku volnych mam pocit ... probably made a screenshot
 
