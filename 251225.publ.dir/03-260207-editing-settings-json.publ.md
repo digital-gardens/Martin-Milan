@@ -7,6 +7,15 @@ if settings.json has to be changed
 // DONT  EDIT setting.json  IN AN EXPERIMENTAL WORKSPACE 
  the   file:///c:/Users/marti/AppData/Roaming/Code/User/settings.json
 
+
+
+
+	  // ctrl`
+	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
+		// rclick fix, explain,
+
+
+
 wait minutes 
 
 f8
@@ -54,3 +63,10 @@ line 167
     "markdown.extension.toc.updateOnSave": false,   // to be lightweight? // to prevent various bugs and data loss when the extension tries to update the file without user explicitly asking for it  ..    file:///C:\Users\marti\OneDrive\Dokumenty\260207-vscode-markdown-toc-bug-hell.publ.md
 	// todo move  up to line 40
 
+
+	"terminal.integrated.enableMultiLinePasteWarning": "always",
+
+	//"terminal.integrated.enableMultiLinePasteWarning": true,
+	  // ctrl`
+	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
+		// rclick fix, explain,

@@ -381,7 +381,7 @@ unsubscribe
 
 
 
-# #Corsair flash disk .. melting #problem 
+# #Corsair flash disk .. melting #problem #mitigation 
 alza usb3 prodluzovaci kabel 0,5m
 PremiumCord Prodlužovací kabel USB 3.0 Super-speed 5Gbps A-A, MF, 9pin, 0,5m bílá - Datový kabel | Alza.cz
 
