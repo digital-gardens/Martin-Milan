@@ -3,6 +3,7 @@
 #aaa #WARNING FIRST GRANT AND ONLY THEN REMOVE
 
 
+# explorer "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\Robocopy---c-onedrive---d-mir.f5.cmd - Shortcut.lnk"
 explorer "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\Robocopy---c-onedrive---d-mir.f5.cmd - Shortcut.lnk"
 
 win milan
@@ -11,15 +12,16 @@ dee 0004
 
 
 
+# "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\260419-ONEDRIVE-SYNC-problem--workaround\RECOVERY-drive-WIN-q.zip"
+
 cmd
 dir C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
 cd C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
 dir
 explorer C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
 
-# 260419-
 
-OneDrive-SYNC-PROBLEM
+# 260419-OneDrive-SYNC-PROBLEM
 some files are not syncing to OneDrive
 availability Status .. excluded .. not synced 
 - *.lnk ... newest 
@@ -30,7 +32,6 @@ Workarounds
 
 can i get the names of files that are not syncing to OneDrive
 ... that are deep in the folder structure
-
 
 Get-ChildItem -Path "C:\Users\YourUsername\OneDrive" -Recurse -Force | Where-Object { $_.Extension -eq '.lnk' -or $_.Name -match '^\.' } | Select-Object FullName
 
@@ -54,6 +55,9 @@ $statusCol = -1
 for ($i = 0; $i -lt 400; $i++) {
 	echo $rootFolder.GetDetailsOf($null, $i) 
     if ($rootFolder.GetDetailsOf($null, $i) -match 'status') {
+
+# error? ... offline status 
+
         $statusCol = $i
         break
     }
@@ -134,11 +138,11 @@ $item|select  *
         }
     }
 
-
-
 ```
 
 "C:\Users\marti\OneDrive\Dokumenty\02-STARTUP--roam-ms-wi-sta-p-startup\260419-ONEDRIVE-SYNC-BUG---02-STARTUP--roam-ms-wi-sta-p-startup.zip"
+
+
 
 
 
