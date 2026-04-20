@@ -2,6 +2,15 @@
 
 #aaa #WARNING FIRST GRANT AND ONLY THEN REMOVE
 
+
+
+# 260301 mb 223c 220312 260301 efi uefi ..JEN 50 PATHS
+C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\0brain-260129-topic-brainstorming.publ.md
+
+
+
+# 20260419 sandisk
+
 win+x disk management
 
 chkdsk e:\
@@ -19,14 +28,16 @@ partition style
 		FAT32
 
 copy the files to onedrive
+keep always on this device 
 grant readonly permissions to marti 
 
+# todo
 copy to dee when new dee is ready
 
 
+
+
 # flashdisk Corsair-24 Windows usb diskpart sandisk corsair 
-
-
 https://photos.google.com/album/AF1QipNGaruGvp5IYxpLhcZhn7iVKzRje6jDSIEZOV9f
 rem  bylo 66MB na zacatku volnych mam pocit ... probably made a screenshot
 
@@ -69,8 +80,10 @@ asi jen vyber
 # install Milan Windows 2020 Lenovo ThinkCentre M720q  acronis acro2468 uefi223c efi linux ubuntu. Microsoft account, usb flash diskpart sandisk corsair​
 https://photos.google.com/share/AF1QipNNl6K1O6u44TD_llRU4fePuYU5YpgyOaMk_zsxb4AnE4eKjw8tACli48bLA8gNbA?key=Y3k4NDNaWk83Z0I2dThyUmJkZkU1c2FPT1J5eUx3
 
+
+
 btw,
-wmic path softwarelicensingservice get oa3xoriginalproductkey
+# wmic path softwarelicensingservice get oa3xoriginalproductkey
 btw, 223c
 Wednesday, March 16, 2022, 8:58 PM
 
@@ -211,16 +224,21 @@ DISKPART> lis dis
 
 ```
 
+
+
+
 # finish
 
 
 #icacls e:\
 #everyone
 #WARNING FIRST GRANT AND ONLY THEN REMOVE
-todo
+# todo
 
 
-# old
+
+
+# old  ooold  
 cmd /c dir e:\   /a
 
 fmt dopor exfat 128k

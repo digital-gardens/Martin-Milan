@@ -611,11 +611,40 @@ iiℹ️ pokr trochu 260306+
 
 
 
-# 260301 mb keep  https://keep.google.com/u/0/?pli=1#NOTE/1qFVcO9KHuly_KTE7wSNmAHyQZjwdwsN_5EBpjmLrEoIOxn-JlD2SYghdxOJqEQ
- 223c 220312 260301 efi uefi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 260301 mb 223c 220312 260301 efi uefi ..JEN 50 PATHS
+
+2604
+
+*223c*.f8*
+0
+
+*efi*.f8.*
+onedrive
+*efi
+~~ grub
+
+
+
+ keep  https://keep.google.com/u/0/?pli=1#NOTE/1qFVcO9KHuly_KTE7wSNmAHyQZjwdwsN_5EBpjmLrEoIOxn-JlD2SYghdxOJqEQ
+2604 keep obsahuje totez, co bylo tady 
 
 00
+
 "D:\Users\milanlocal\Music"
+
 iii Tumsa nakte
 Nu, Dieviņ(i): Nyní, Bože / Božíčku
 tava vaļa: tvoje vůle / tvá moc
@@ -626,16 +655,26 @@ Celkově to znamená: "Nyní je to, Božíčku, tvoje vůle, nyní je to ve tvý
 "D:\Users\milanlocal\23bgSystemReport.zip"
 
 
-https://gemini.google.com/app/bcda02d1e0ac48db
+## https://gemini.google.com/app/bcda02d1e0ac48db
+mb 
+## the sharing button is grayed #problem
+---
+// a chat for sharing new phrases and topics
+https://keep.google.com/u/0/?pli=1#NOTE/1qFVcO9KHuly_KTE7wSNmAHyQZjwdwsN_5EBpjmLrEoIOxn-JlD2SYghdxOJqEQ
+---
+
+
+
 
 
 "D:\Users\milanlocal\AABKUP-MMBEveryDrive"
 c:
 "D:\Users\milanlocal\abkup  MNEveryDrive"
 "C:\Users\milan_rxtipwr\OneDrive\ABKUP---MNEveryDrive"
+
 win+e c:mnevery 2g/ floating menu/ free up space
 ...
-asi nebudu
+## asi nebudu
 "D:\Users\milanlocal\ACRONIS HM (F).tibx"
 "D:\Users\milanlocal\okno-q-recov---acro--lin.tibx"
 "D:\Users\milanlocal\efi-recov.tibx"
@@ -678,7 +717,7 @@ asi nebudu
 
 
 
-#  260301.1810  efi uefi   223c 220312
+##  260301.1810  efi uefi   223c 220312
 
 00
 "D:\Users\milanlocal\Music"
@@ -694,14 +733,20 @@ tava vaļa: tvoje vůle / tvá moc
 c:
 "D:\Users\milanlocal\abkup  MNEveryDrive"
 "C:\Users\milan_rxtipwr\OneDrive\ABKUP---MNEveryDrive"
+
 win+e c:mnevery 2g/ floating menu/ free up space
 
 
 "D:\Users\milanlocal\DESKTOP-5AI0U6N2-0003.tibx"
 
 
-# C:\Users\marti\OneDrive\Dokumenty\2400-WIKI\new-usb-disk-drive,corsair,diskpart.f8.md
+## C:\Users\marti\OneDrive\Dokumenty\2400-WIKI\new-usb-disk-drive,corsair,diskpart.f8.md
 C:\Users\marti\OneDrive\Dokumenty\2400-WIKI\usb-flash-drive--cluster-size.f8.md
+
+
+
+
+
 
 
 
