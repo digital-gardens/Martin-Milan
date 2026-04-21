@@ -20,6 +20,10 @@ my messing with cluster Sizes
 seems to have done more harm than good
 # going back to default settings
 
+
+# 260421 ssd ext hdd different story
+
+# 24
 usb "flash" drive enable write caching 
 seems to have done more harm than good probably
 going back to default settings

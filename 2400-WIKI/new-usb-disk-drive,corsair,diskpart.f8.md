@@ -29,6 +29,27 @@ dee 0004
 - .* 
 
 
+# 2604
+change 
+ext ssd 
+ehdd
+
+properties
+hardware
+populate 
+properties
+policies 
+from quick removal
+to better performance
+enables write caching 
+
+rebooting
+
+mk restore point
+
+
+
+
 # 260421
 before data-surgery 
 
@@ -97,6 +118,9 @@ e8
 [
 	D
 ](d:/conda/conda-meta/history)
+
+"D:\0-tibx,vhdx,iso"
+
 
 
 
@@ -340,7 +364,7 @@ rclick on the title bar .. on the tab label: export text
 // copilot helps writing this
 
 
-# going back to default settings
+# going back to default settings   for flashdisk
 file:///D:\000doc24\Dokumenty\usb-flash-drive--cluster-size.f8.md
 
 EDIT 249s
