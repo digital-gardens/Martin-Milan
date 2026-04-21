@@ -346,12 +346,20 @@ https://freevoiceaac.app/app/
 
 # 260421 
 
-Extender umožňuje použití jednoho vysílače a více přijímačů vzájemně propojených pomocí LAN sítě, switchů a routerů (otestováno na FULL HD 1080p a 100m kabelu + swich + 2 přijímače) tato počítačová síť musí být vyhrazena pouze pro HDMI extendery, nesmí sdílet další počítače, tiskárny a jiná síťová zařízení.
+
+pikvm 
+
+wireless kvm 
+
+Extender umožňuje použití jednoho vysílače a více přijímačů vzájemně propojených pomocí LAN sítě, switchů a routerů (otestováno na FULL HD 1080p a 100m kabelu + swich + 2 přijímače) tato počítačová síť musí být 
+
+# vyhrazena pouze pro HDMI extendery, nesmí sdílet další počítače, tiskárny a jiná síťová zařízení.
+
 
 
 
 google image search
-how does a neural network work with images?
+# how does a neural network work with images?
 does it use a pyramid of images?
 does it split the image into parts?
 

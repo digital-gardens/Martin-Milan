@@ -32,7 +32,23 @@ dee 0004
 # 260421
 before data-surgery 
 
+restore point
+ if makes sense 
+acronis true image 
+	i hope the active protection is off 
+acronis true image system report
+
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Clone Disk.lnk"
+
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Acronis Startup Recovery Manager.lnk"
+
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Acronis System Report.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Add New Disk.lnk"
+"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Bootable Rescue Media Builder.lnk"
+
+
 git push 
+
 
 gemini 
 gpt not mbr
@@ -42,6 +58,15 @@ volumes
 partition style
 ```ps1
 get-disk | select number, friendlyname, size, partitionstyle 
+
+Get-PhysicalDisk | select FriendlyName, Size, MediaType
+Get-Volume | select DriveLetter, FileSystem, Size, FreeSpace, HealthStatus, DriveType
+Get-Partition | select DiskNumber, PartitionNumber, DriveLetter, Size, Type, GptType, IsBoot, IsSystem, IsActive
+
+foo Get-PartitionSupportedSize -DiskNumber 1 -PartitionNumber 1
+Get-
+
+
 ```
 
 
