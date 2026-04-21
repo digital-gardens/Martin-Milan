@@ -89,6 +89,19 @@ e8
 -32000
 399000
 
+
+
+
+# "C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\D--conda--conda-meta\history"
+"D:\conda\conda-meta\xz-5.2.10-h8cc25b3_1.json"
+[
+	D
+](d:/conda/conda-meta/history)
+
+
+
+
+
 # 260419-OneDrive-SYNC-PROBLEM
 some files are not syncing to OneDrive
 availability Status .. excluded .. not synced 
