@@ -46,6 +46,8 @@ acronis true image system report
 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Add New Disk.lnk"
 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Bootable Rescue Media Builder.lnk"
 
+"C:\Program Files (x86)\Acronis\TrueImageHome\SystemReport.zip"
+"C:\Users\marti\OneDrive\Acronis-SystemReport\SystemReport.zip"
 
 git push 
 
@@ -57,6 +59,7 @@ properties
 volumes
 partition style
 ```ps1
+
 get-disk | select number, friendlyname, size, partitionstyle 
 
 Get-PhysicalDisk | select FriendlyName, Size, MediaType
@@ -69,7 +72,22 @@ Get-
 
 ```
 
+# 260421 
+1000
+31768
+e32
 
+16000
+e16
+
+8192
+e8
+
+8
+
+431401
+-32000
+399000
 
 # 260419-OneDrive-SYNC-PROBLEM
 some files are not syncing to OneDrive
