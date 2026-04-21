@@ -628,6 +628,18 @@ iiℹ️ pokr trochu 260306+
 
 2604
 
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\Git"
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\260419-ONEDRIVE-SYNC-problem--workaround"
+
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\RECOVERY-drive-WIN-q"
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\VERBATIM SD"
+
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\8minut=VERBATIM SD-tc-pause-rename"
+
+
+
+
+
 *223c*.f8*
 0
 
@@ -638,8 +650,8 @@ onedrive
 
 
 
+2603   keep obsahuje totez, co bylo tady 
  keep  https://keep.google.com/u/0/?pli=1#NOTE/1qFVcO9KHuly_KTE7wSNmAHyQZjwdwsN_5EBpjmLrEoIOxn-JlD2SYghdxOJqEQ
-2604 keep obsahuje totez, co bylo tady 
 
 00
 

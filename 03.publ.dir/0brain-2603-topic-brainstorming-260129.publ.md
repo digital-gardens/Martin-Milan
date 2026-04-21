@@ -344,7 +344,22 @@ https://freevoiceaac.app/app/
 
 
 
-# security incident xz-utils 
+# 260421 
+
+Extender umožňuje použití jednoho vysílače a více přijímačů vzájemně propojených pomocí LAN sítě, switchů a routerů (otestováno na FULL HD 1080p a 100m kabelu + swich + 2 přijímače) tato počítačová síť musí být vyhrazena pouze pro HDMI extendery, nesmí sdílet další počítače, tiskárny a jiná síťová zařízení.
+
+
+
+google image search
+how does a neural network work with images?
+does it use a pyramid of images?
+does it split the image into parts?
+
+bird sky 
+
+
+
+# security incident xz-utils 2604
 ssh.exe --help
 
 windows 11..can ssh.exe be used to transfer files ? .. //i want it

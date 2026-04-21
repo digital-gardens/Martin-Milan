@@ -1,6 +1,15 @@
 
-
 #aaa #WARNING FIRST GRANT AND ONLY THEN REMOVE
+
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\RECOVERY-drive-WIN-q"
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\Git"
+explorer C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
+dir C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
+
+not pwsh
+cmd
+cd C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
+exit 
 
 
 # explorer "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\Robocopy---c-onedrive---d-mir.f5.cmd - Shortcut.lnk"
@@ -12,13 +21,29 @@ dee 0004
 
 
 
-# "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\260419-ONEDRIVE-SYNC-problem--workaround\RECOVERY-drive-WIN-q.zip"
 
-cmd
-dir C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
-cd C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
-dir
-explorer C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
+
+# "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\260419-ONEDRIVE-SYNC-problem--workaround\RECOVERY-drive-WIN-q.zip"
+////there is a chapter 260419-OneDrive-SYNC-PROBLEM
+- *.lnk ... newest 
+- .* 
+
+
+# 260421
+before data-surgery 
+
+git push 
+
+gemini 
+gpt not mbr
+win+x disk management
+properties
+volumes
+partition style
+```ps1
+get-disk | select number, friendlyname, size, partitionstyle 
+```
+
 
 
 # 260419-OneDrive-SYNC-PROBLEM
@@ -56,7 +81,13 @@ for ($i = 0; $i -lt 400; $i++) {
 	echo $rootFolder.GetDetailsOf($null, $i) 
     if ($rootFolder.GetDetailsOf($null, $i) -match 'status') {
 
+
+
+
 # error? ... offline status 
+
+
+
 
         $statusCol = $i
         break
@@ -152,6 +183,14 @@ $item|select  *
 # 260301 mb 223c 220312 260301 efi uefi ..JEN 50 PATHS
 C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\0brain-260129-topic-brainstorming.publ.md
 
+2604
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\Git"
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\260419-ONEDRIVE-SYNC-problem--workaround"
+
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\RECOVERY-drive-WIN-q"
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\VERBATIM SD"
+
+"C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\8minut=VERBATIM SD-tc-pause-rename"
 
 
 # 20260419 sandisk

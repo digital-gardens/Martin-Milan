@@ -1,4 +1,11 @@
 
+
+
+ebooks.com 
+Online Reader 20% every 30 days
+
+
+
 # .260314
 
 
@@ -178,9 +185,29 @@ existing implementations ... keywords
 - cronvel/tif-parser: Tab Indented Format Parser
 - TAML - Tab Annotated Markup Language
 - antyakushev/tabdown: A tab-structured tree markup language. Inspired by Python, Markdown, and YAML
+- https://github.com/rand/topos/blob/main/README.md
+```
+
+when: user submits task creation form with valid title
+the system shall: create a new task with status "todo"
+
+acceptance:
+  given: user is authenticated
+  when: user creates task with title "Fix login bug"
+  then: task appears in task list with status "todo"
+
+
+```
+
+
+# 260421
+indented structured prose
+indented structured English text
+
 
 
 # treenotations
+
 The things I have seen
 If you could only see the things I have seen.
 
