@@ -8,7 +8,14 @@ songs:
 emojis:  💚 ⏰ 🎵 🎵
 blissymbols:   \_💚_ 
 tags:  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music
+
 title: 
+
+
+parent: 260301
+
+concurrent:
+  - 0b-vyhýbat-se-nemocnici
 
 ---
 ------------------------------------------------------------------------------------------------------------------------
@@ -290,6 +297,10 @@ $item|select  *
 
 # 260301 mb 223c 220312 260301 efi uefi ..JEN 50 PATHS
 C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\0brain-260129-topic-brainstorming.publ.md
+moved to 
+[[260301-disks.publ.md]]
+
+
 
 2604
 "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\Git"
