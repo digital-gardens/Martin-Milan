@@ -1,4 +1,15 @@
-260125-start-a-big-topic.meta.publ.md
+---
+songs:  
+emojis:  💚 ⏰ 🎵 🎵
+blissymbols:   \_💚_ 
+tags:  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music
+
+title: 260125-merely-start-a-big-topic.meta.publ.md
+---
+
+
+# LINKS 
+[[0b-vyhýbat-se-nemocnici.publ.md]]
 
 
 new [[260404-generalization-of-language.publ.md]]

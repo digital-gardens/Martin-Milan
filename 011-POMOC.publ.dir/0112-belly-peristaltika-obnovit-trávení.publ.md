@@ -1,9 +1,20 @@
 ---
-tags:    gemini  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR
+songs:  
+  - Tumša nakte
+emojis:  💚 ⏰ 🎵 🎵
+blissymbols:   \_💚_ 
+tags:  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music 
+
+title: 0112-belly-peristaltika-obnovit-trávení
+
 ---
 
-# téma 0112-belly-peristaltika-obnovit-trávení  \_💚_ 
 
+
+# links 
+[[0b-vyhýbat-se-nemocnici.publ.md]]
+[[011-POMOC-pro-Martina-Milana.publ.md]]
+## téma music pro lepsi dychani 🎵 🎵 
 
 
 ## 0112 meditace, mindfulness 

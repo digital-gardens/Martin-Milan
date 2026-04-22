@@ -1,9 +1,19 @@
 ---
-tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr filosofie adaptability
+songs:  
+emojis:  💚 ⏰ 🎵 🎵
+blissymbols:   \_💚_ 
+tags:  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music
+title: 0brain-   -topic-brainstorming-260129
+
 ---
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# LINKS 
+# links 
+[[0b-vyhýbat-se-nemocnici.publ.md]]
+[[011-POMOC-pro-Martina-Milana.publ.md]]
+[[0brain-topic-brainstorming-260129.publ.md]]
+[[0tra-26041-symptom-tracker.f8.md]]
+
 file:///C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\04-topic-brainstorming-260129.publ.md
 file:///C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\03-topic-brainstorming-260129.publ.md
 file:///C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\01-topic-brainstorming-260129.publ.md

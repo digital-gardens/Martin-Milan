@@ -1,3 +1,19 @@
+---
+songs:  
+
+emojis:  💚 ⏰ 🎵 🎵
+blissymbols:   \_💚_ 
+tags:  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music 
+
+title:
+---
+
+
+# links 
+[[0b-vyhýbat-se-nemocnici.publ.md]]
+
+
+
 # Milanův zdravotní stav
 - jsem v plném invalidním důchodu
 - mám těžkou neurózu ...  poruchu s rysy autismu a úzkosti

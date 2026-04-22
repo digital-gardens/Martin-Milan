@@ -1,9 +1,18 @@
 ---
-tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice 0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr filosofie adaptability
+songs:  
+emojis:  💚 ⏰ 🎵 🎵
+blissymbols:   \_💚_ 
+
+tags:  pomoc help 011  0112 belly peristaltika trávení nemocnice      resting recovery restore music    0119 prosím potreboval bych děkuji  meta  03 topic id identifier brainstorming 260129 260139 260203 gemini notebooklm data loss bugs features issues problems  ℹ️ℹ️ aaaa rrrr filosofie adaptability 
+
+title: 
+
 ---
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # LINKS 
+[[0b-vyhýbat-se-nemocnici.publ.md]]
+
 20260418 namesystem 
 {f1}{Backspace}
 0brain-topic-brainstorming.publ

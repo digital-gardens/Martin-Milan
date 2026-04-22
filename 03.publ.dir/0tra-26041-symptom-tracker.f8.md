@@ -1,4 +1,18 @@
-# 26041-symptom-tracker.f8.md 
+---
+songs:  
+emojis:  💚 ⏰ 🎵 🎵
+blissymbols:   \_💚_ 
+tags:  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music
+title: 0brain-topic-brainstorming-260129
+
+title: 0tra-26041-symptom-tracker.f8.md 
+---
+
+# links 
+[[0b-vyhýbat-se-nemocnici.publ.md]]
+[[011-POMOC-pro-Martina-Milana.publ.md]]
+[[0brain-topic-brainstorming-260129.publ.md]]
+
 previous 
 [[251105-symptom-tracker.f8.md]]
 
