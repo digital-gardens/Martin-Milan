@@ -1,0 +1,50 @@
+C:\Users\ NT AUTHORITY\SYSTEM:(OI)(CI)(F)
+          BUILTIN\Administrators:(OI)(CI)(F)
+          BUILTIN\Users:(RX)
+          BUILTIN\Users:(OI)(CI)(IO)(GR,GE)
+          Everyone:(RX)
+          Everyone:(OI)(CI)(IO)(GR,GE)
+          S-1-15-3-65536-3323407561-2172269196-3486974656-4132058316-2250862433-3856296919-434318741-3760235072:(S,RD,X)
+
+Successfully processed 1 files; Failed processing 0 files
+C:\Users\marti NT AUTHORITY\SYSTEM:(OI)(CI)(F)
+               BUILTIN\Administrators:(OI)(CI)(F)
+               LEN20\marti:(OI)(CI)(F)
+               S-1-15-3-65536-3852923496-3228631905-2361761901-1328441031-2492177081-392074989-583479735-4232454157:(S,X)
+
+Successfully processed 1 files; Failed processing 0 files
+D:\Users\ BUILTIN\Administrators:(OI)(CI)(F)
+          NT AUTHORITY\SYSTEM:(OI)(CI)(F)
+          BUILTIN\Users:(OI)(CI)(RX)
+
+Successfully processed 1 files; Failed processing 0 files
+D:\Users\marti BUILTIN\Administrators:(OI)(CI)(F)
+               NT AUTHORITY\SYSTEM:(OI)(CI)(F)
+               LEN20\marti:(OI)(CI)(F)
+
+Successfully processed 1 files; Failed processing 0 files
+D:\Users\milanlocal NT AUTHORITY\SYSTEM:(OI)(CI)(RX,W)
+                    LEN20\marti:(OI)(CI)(RX)
+                    LEN20\milan_rxtipwr:(OI)(CI)(F)
+                    BUILTIN\Administrators:(I)(OI)(CI)(F)
+                    NT AUTHORITY\SYSTEM:(I)(OI)(CI)(F)
+                    BUILTIN\Users:(I)(OI)(CI)(RX)
+
+Successfully processed 1 files; Failed processing 0 files
+d:\Users\Eda\ BUILTIN\Administrators:(I)(OI)(CI)(F)
+              NT AUTHORITY\SYSTEM:(I)(OI)(CI)(F)
+              BUILTIN\Users:(I)(OI)(CI)(RX)
+
+Successfully processed 1 files; Failed processing 0 files
+d:\Users\Eda\SteamLibrary LEN20\marti:(OI)(CI)(F)
+                          BUILTIN\Administrators:(I)(OI)(CI)(F)
+                          NT AUTHORITY\SYSTEM:(I)(OI)(CI)(F)
+                          BUILTIN\Users:(I)(OI)(CI)(RX)
+
+Successfully processed 1 files; Failed processing 0 files
+D:\Users\Eda\zoom LEN20\marti:(OI)(CI)(F)
+                  BUILTIN\Administrators:(I)(OI)(CI)(F)
+                  NT AUTHORITY\SYSTEM:(I)(OI)(CI)(F)
+                  BUILTIN\Users:(I)(OI)(CI)(RX)
+
+Successfully processed 1 files; Failed processing 0 files

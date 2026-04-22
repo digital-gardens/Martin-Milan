@@ -1,0 +1,160 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"csharp","items":[{"aliases":[],"name":"csharp"}]}}
+
+#!pwsh
+
+# GIT LOCK AFTER "STOP CELL EXEC": POMOHLO F1 DEVEL RELOAD
+
+#!pwsh
+
+Robocopy.exe    d:\000doc24   C:\Users\marti\OneDrive   /e    /XJ     /XD Obr*    /XD .git    /XD node_modules   /XD OLD*    /xd .vscode   /xf .git  /xf .gitignore         /XO  /njh   /LOG+:C:\Users\marti\log\doc24.log   /tee    /V  # |  findstr.exe  -i   older
+  # /L
+#  /nfl  /ndl
+## \BACKUP-DONTEDIT-000doc24
+
+#!value
+
+ Log File : C:\Users\marti\log\doc24.log
+
+
+	         named		     253	.gitignore
+
+	       named      -1	d:\000doc24\.git\
+	       named      -1	d:\000doc24\.vscode\
+	    Newer     		    6235	BACKUP.f8.dib
+	         older		      46	experim-wrong-edit.f8.md
+
+	*EXTRA Dir        -1	C:\Users\marti\OneDrive\Diabetes_ 10 warning signs that can appear on your skin\
+
+	         older		     715	000doc24 - Shortcut.lnk
+
+	          same		      45	a.ps1
+	          same		     387	launch.json
+
+#!pwsh
+
+cd D:\000doc24
+git init
+
+#!pwsh
+
+Hypothesis activity for the query {"user":"martin_m_n_novy","group":"all","url":"","wildcard_uri":"","tag":"","any":"","max":"999","service":"https://hypothes.is","exactTagSearch":"false","expanded":"false","addQuoteContext":"false","format":"json","_separate_replies":"false","groupName":"All","sortBy":"recency"}
+
+#!pwsh
+
+git add -vv 'C:\Users\marti\OneDrive\ps-mylen-mar\start-robocopy.cmd'
+
+# git show
+git push
+
+#!pwsh
+
+cd ~/OneDrive
+git add -vv  '*.f8.*'  #### '*-add-all'   ##   "C:\Users\marti\OneDrive\xxxxxxxxx"
+git commit -v -a -m backup    #-before
+git push
+	git show --name-only
+
+#!pwsh
+
+cd ~/OneDrive
+$x=cmd /c dir  /b   /s      '*-add-all'    #### add  '**/*-add-all'   ##   "C:\Users\marti\OneDrive\xxxxxxxxx"
+echo $x
+git add -vv   $x
+
+#!pwsh
+
+(Get-ChildItem  -Recurse C:\Users\marti\OneDrive          ).FullName   >C:\Users\marti\93
+###   7 seconds
+
+#!pwsh
+
+cd ~/OneDrive
+$x=Get-ChildItem  -Recurse    '*-add-all'    #### add  '**/*-add-all'   ##   "C:\Users\marti\OneDrive\xxxxxxxxx"
+#git add -vv   $x.FullName
+###    44 seconds !!
+
+#!pwsh
+
+#cmd /c dir  C:\Users\marti\OneDrive   /b /ad /s    >C:\Users\marti\8
+cmd /c dir  C:\Users\marti\OneDrive   /b  /s    >C:\Users\marti\82
+
+#!pwsh
+
+git ls-files  |   findstr.exe -i autohot
+
+#!pwsh
+
+cat  ../../../.849c9593-d756-4e56-8d6e-42412f2a707b
+#cat  .849c9593-d756-4e56-8d6e-42412f2a707b
+###cmd /c type ~/.849c9593-d756-4e56-8d6e-42412f2a707b
+
+#!pwsh
+
+wsl --list --all --verbose
+wsl --shutdown
+
+#!pwsh
+
+cat    C:\Users\marti\OneDrive\tar-exe\d\umarti\powershell_eternal_history.txt    |findstr -i    'mklink'  # 'mklink./d'
+
+#!value
+
+mklink /d C:\u "C:\Users\marti"
+cmd /c mklink /d xxxx  D:\umarti\dowNLOADS--SYMLINKED
+#cmd /c mklink /j xxxx  AppData
+
+#!pwsh
+
+cmd /c dir c:\p*
+cmd /c dir C:\Users\marti   |   findstr.exe  -i   'junc'
+cmd /c dir C:\Users\marti   |   findstr.exe  -i   'syml'
+
+#!javascript
+
+//return vscode
+return Object.keys(this)
+//code.
+//cons
+
+#!markdown
+
+["window","self","document","name","location","customElements","history","locationbar","menubar","personalbar","scrollbars","statusbar","toolbar","status","closed","frames","length","top","opener","navigator","origin","external","screen","innerWidth","innerHeight","scrollX","pageXOffset","scrollY","pageYOffset","visualViewport","screenX","screenY","outerWidth","outerHeight","devicePixelRatio","clientInformation","screenLeft","screenTop","defaultStatus","defaultstatus","styleMedia","onsearch","isSecureContext","performance","onappinstalled","onbeforeinstallprompt","crypto","indexedDB","webkitStorageInfo","sessionStorage","localStorage","onbeforexrselect","onabort","onblur","oncancel","oncanplay","oncanplaythrough","onchange","onclick","onclose","oncontextlost","oncontextmenu","oncontextrestored","oncuechange","ondblclick","ondrag","ondragend","ondragenter","ondragleave","ondragover","ondragstart","ondrop","ondurationchange","onemptied","onended","onerror","onfocus","onformdata","oninput","oninvalid","onkeydown","onkeypress","onkeyup","onload","onloadeddata","onloadedmetadata","onloadstart","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onpause","onplay","onplaying","onprogress","onratechange","onreset","onresize","onscroll","onsecuritypolicyviolation","onseeked","onseeking","onselect","onslotchange","onstalled","onsubmit","onsuspend","ontimeupdate","ontoggle","onvolumechange","onwaiting","onwebkitanimationend","onwebkitanimationiteration","onwebkitanimationstart","onwebkittransitionend","onwheel","onauxclick","ongotpointercapture","onlostpointercapture","onpointerdown","onpointermove","onpointerup","onpointercancel","onpointerover","onpointerout","onpointerenter","onpointerleave","onselectstart","onselectionchange","onanimationend","onanimationiteration","onanimationstart","ontransitionrun","ontransitionstart","ontransitionend","ontransitioncancel","onafterprint","onbeforeprint","onbeforeunload","onhashchange","onlanguagechange","onmessage","onmessageerror","onoffline","ononline","onpagehide","onpageshow","onpopstate","onrejectionhandled","onstorage","onunhandledrejection","onunload","alert","atob","blur","btoa","cancelAnimationFrame","cancelIdleCallback","captureEvents","clearInterval","clearTimeout","close","confirm","createImageBitmap","fetch","find","focus","getComputedStyle","getSelection","matchMedia","moveBy","moveTo","open","postMessage","print","prompt","queueMicrotask","releaseEvents","reportError","requestAnimationFrame","requestIdleCallback","resizeBy","resizeTo","scroll","scrollBy","scrollTo","setInterval","setTimeout","stop","structuredClone","webkitCancelAnimationFrame","webkitRequestAnimationFrame","caches","cookieStore","ondevicemotion","ondeviceorientation","ondeviceorientationabsolute","launchQueue","onbeforematch","getScreenDetails","showDirectoryPicker","showOpenFilePicker","showSaveFilePicker","originAgentCluster","trustedTypes","navigation","speechSynthesis","onpointerrawupdate","crossOriginIsolated","scheduler","openDatabase","webkitRequestFileSystem","webkitResolveLocalFileSystemURL","chrome","interactive","kernel","webview","requirejs","require","define"]
+
+#!javascript
+
+return [Object.keys(this.interactive),
+ Object.keys(this.kernel.root.rootKernel), (this.kernel.root._kernelInfo.uri),  Object.keys(this.webview.kernelHost)  , 4
+]
+
+#!javascript
+
+//https://github.com/dotnet/interactive/blob/main/docs/javascript-overview.md#using-requirejs
+//////require\(.*vscode
+///////requirejs("vscode")
+
+#!markdown
+
+[aaaaaaaa](command:workbench.action.toggleKeybindingsLog)
+[FAIL aaaaaaaa](command:workbench.action.openGlobalKeybindings)
+[aaaaaaaa](command:workbench.action.keybindingsReference)
+
+
+
+[aaaaaaaa](command:markdown.showPreview)
+[aaaaaaaa](command:markdown.showPreviewToSide)
+[aaaaaaaa](command:workbench.action.terminal.openNativeConsole)
+[aaaaaaaa](command:workbench.action.quickOpen)
+[aaaaaaaa](command:workbench.action.gotoLine)
+[aaaaaaaa](command:copyFilePath)
+[aaaaaaaa](command:emojisense.quickEmoji)
+[aaaaaaaa](command:PowerShell.ShowSessionConsole)
+
+#!pwsh
+
+get-ch
+
+#!pwsh
+
+'sffs'.Chars(2)

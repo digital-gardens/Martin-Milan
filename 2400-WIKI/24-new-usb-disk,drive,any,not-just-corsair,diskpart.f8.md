@@ -56,11 +56,13 @@ dee 0004
 - .* 
 
 
+# incident 260422-disks
+
 # 2604
 change 
-- dont for ehdd ...
+- dont for ehdd ... incident #[[260422-disks]]
   - had to revert to quick removal
-  - cannot eject .. 
+  - cannot eject .. Safely Remove Hardware and Eject Media
     - an autistic me  cannot stand the normal mild noise from the motor 
       - ////tried to disable the drive, after reboot that action seems to be ignored by the system, drive is still enabled and working, seems like the drive is not really disabled
 
