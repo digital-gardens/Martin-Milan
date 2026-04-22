@@ -15,7 +15,9 @@ title:
 parent: 260301
 
 concurrent:
-  - 0b-vyhýbat-se-nemocnici
+
+
+- 0b-vyhýbat-se-nemocnici
 
 ---
 ------------------------------------------------------------------------------------------------------------------------
@@ -40,6 +42,7 @@ exit
 
 
 # explorer "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\Robocopy---c-onedrive---d-mir.f5.cmd - Shortcut.lnk"
+
 explorer "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\Robocopy---c-onedrive---d-mir.f5.cmd - Shortcut.lnk"
 
 win milan
@@ -56,7 +59,7 @@ dee 0004
 - .* 
 
 
-# incident 260422-disks
+# incident 260422-disks  ... ehdd incident
 
 # 2604
 change 
@@ -67,6 +70,7 @@ change
       - ////tried to disable the drive, after reboot that action seems to be ignored by the system, drive is still enabled and working, seems like the drive is not really disabled
 
 
+change 
 - for ext ssd ... yes .. 
 
 properties
@@ -86,8 +90,11 @@ po e hdd perf
 ehdd revert to quick, seems not disabled
 
 
+
+
 # 260421
 before data-surgery 
+
 
 restore point
  if makes sense 
@@ -95,30 +102,38 @@ acronis true image
 	i hope the active protection is off 
 acronis true image system report
 
-"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Clone Disk.lnk"
+entire disk "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Clone Disk.lnk"
 
 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Acronis Startup Recovery Manager.lnk"
 
-"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Acronis System Report.lnk"
+explorer "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Acronis System Report.lnk"
+
 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Add New Disk.lnk"
 "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Bootable Rescue Media Builder.lnk"
+
+
 
 "C:\Program Files (x86)\Acronis\TrueImageHome\SystemReport.zip"
 "C:\Users\marti\OneDrive\Acronis-SystemReport\SystemReport.zip"
 
 
+
 # git push 
 
 
+# change ssd to gpt partitionstyle
 gemini 
 gpt not mbr
 win+x disk management
 properties
 volumes
 partition style
+
 ```ps1
 
 get-disk | select number, friendlyname, size, partitionstyle 
+
+get-disk | select -Property  number, friendlyname, size, partitionstyle 
 
 Get-PhysicalDisk | select FriendlyName, Size, MediaType
 Get-Volume | select DriveLetter, FileSystem, Size, FreeSpace, HealthStatus, DriveType
@@ -147,6 +162,28 @@ e8
 -32000
 399000
 
+
+
+
+# going to destroy internal ubuntu ... first back it up to external
+acronis 
+"I:\ubu,re-to-iii.tibx"
+
+experiment with the recovery drive
+recovered to the original???
+location
+
+gemini 
+please transcribe 
+2 sys reports
+
+explorer "C:\Users\marti\OneDrive\Acronis-SystemReport\"
+explorer "C:\program files (x86)\Acronis\TrueImageHome\"
+explorer "C:\Program Files (x86)\Acronis\TrueImageHome\"
+
+
+backup only  the recov partition maybe 
+too late 
 
 
 
