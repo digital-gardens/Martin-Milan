@@ -31,8 +31,14 @@ dee 0004
 
 # 2604
 change 
-ext ssd 
-ehdd
+- dont for ehdd ...
+  - had to revert to quick removal
+  - cannot eject .. 
+    - an autistic me  cannot stand the normal mild noise from the motor 
+      - ////tried to disable the drive, after reboot that action seems to be ignored by the system, drive is still enabled and working, seems like the drive is not really disabled
+
+
+- for ext ssd ... yes .. 
 
 properties
 hardware
@@ -45,9 +51,10 @@ enables write caching
 
 rebooting
 
-mk restore point
-
-
+done
+	mk restore point
+po e hdd perf
+ehdd revert to quick, seems not disabled
 
 
 # 260421
@@ -70,7 +77,8 @@ acronis true image system report
 "C:\Program Files (x86)\Acronis\TrueImageHome\SystemReport.zip"
 "C:\Users\marti\OneDrive\Acronis-SystemReport\SystemReport.zip"
 
-git push 
+
+# git push 
 
 
 gemini 
@@ -119,9 +127,9 @@ e8
 	D
 ](d:/conda/conda-meta/history)
 
-"D:\0-tibx,vhdx,iso"
+# "D:\0-tibx,vhdx,iso"
 
-
+chkdsk e:
 
 
 
