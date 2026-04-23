@@ -175,6 +175,7 @@ location
 
 could be a false alarm 
 
+
 gemini 
 please transcribe 
 2 sys reports
