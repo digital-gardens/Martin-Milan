@@ -1,12 +1,69 @@
 
-
-
-
 markdown all-in-one extension enabled
 i hope it will not interfere with github copilot
 
+# links-chapter
 
-- [links-chapter is moved to the bottom of the file](#links-chapter-is-moved-to-the-bottom-of-the-file)
+[[260423-github-copilot-chat.f8.md]]
+
+
+ https://github.com/settings/billing/summary
+
+
+/// ctrl+l is something else
+
+
+- [https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line](#httpsdocsgithubcomencopilotusing-github-copilotusing-github-copilot-in-the-command-line)
+- [I'm noticing the following pattern while working with Jupyter notebooks: when things get slow, Copilot status icon is spinning.](#im-noticing-the-following-pattern-while-working-with-jupyter-notebooks-when-things-get-slow-copilot-status-icon-is-spinning)
+- [links-chapter](#links-chapter)
+- [bottom of the file](#bottom-of-the-file)
+
+# https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line
+
+
+
+
+
+////////000 how can i use openai api for autosuggestions
+
+
+
+
+
+
+>copilo log
+>copilo
+
+
+2024-08-19 03:48:41.405 [warning] Failed to update repository branch protection: No GitHub authentication session available.
+
+https://github.com/search?q=repo%3Acommunity%2Fcommunity+markdown++completion+keyboard++ctrl&type=discussions&s=&o=desc&p=1
+
+
+
+slow
+spinning
+
+
+# I'm noticing the following pattern while working with Jupyter notebooks: when things get slow, Copilot status icon is spinning.
+
+I have a high-end PC and it still becomes crippling slow. It can be mitigated by reloading VS Code so there must be some underlying bug.
+
+y VSCode was close to unusable with Copilot still a couple weeks ago. I did some searching and tweaking and now it is significantly better. Two things that I believe made all the difference:
+
+I stopped working with a folder open, i.e., with a workspace, only opening individual files (and keeping as few of them open as possible).
+I keep disabling Copilot with a key shortcut when I don't need it, because the worst lags coincide with the little Copilot icon in the bottom right corner spinning as Copilot is fetching an inline suggestion. The key shortcut required a little hack using the Toggle extension, because the shortcut "enable/disable Copilot completions" does not seem to work. If people could go upvote my bug report about this would be good to get it some visib
+
+Working in Jupyter notebooks is becoming impossible. Most of the time, there are full seconds of delay between typing and characters appearing on the screen, particularly in markdown cells. The keyboard shortcut for disabling copilot completions isn't working as expected. I have tried the insiders release of vs code and the pre-release of copilot to no avail. This problem has only recently gotten insanely bad. Pylance and copilot also seem to be fighting each other.
+
+I was having the same issue. For large projects, it seems copilot is too ambitious with the analysis. You can try reducing the scope of the search by changing the file settings (settings.json (USER)):
+
+
+
+
+
+
+
 - [GitHub Copilot ... markdown writer's impressions 💚 💛 🧡 ❤️](#github-copilot--markdown-writers-impressions----️)
 - [day 1](#day-1)
 	- [if you have an autoclicker, you can switch it off for just 1 minute, use hover, there is Always Show Toolbar option in the settings](#if-you-have-an-autoclicker-you-can-switch-it-off-for-just-1-minute-use-hover-there-is-always-show-toolbar-option-in-the-settings)
@@ -32,15 +89,6 @@ i hope it will not interfere with github copilot
 	- [quickfix?? ... does nothing](#quickfix--does-nothing)
 	- [old](#old)
 - [https://www.reddit.com/r/NoteTaking/comments/149uzok/is\_note\_taking\_with\_ai\_autocomplete\_something/](#httpswwwredditcomrnotetakingcomments149uzokis_note_taking_with_ai_autocomplete_something)
-- [https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line](#httpsdocsgithubcomencopilotusing-github-copilotusing-github-copilot-in-the-command-line)
-- [old](#old-1)
-- [I'm noticing the following pattern while working with Jupyter notebooks: when things get slow, Copilot status icon is spinning.](#im-noticing-the-following-pattern-while-working-with-jupyter-notebooks-when-things-get-slow-copilot-status-icon-is-spinning)
-- [links-chapter](#links-chapter)
-- [bottom of the file](#bottom-of-the-file)
-
-
-
-# links-chapter is moved to the bottom of the file
 
 
 
@@ -417,59 +465,6 @@ I use GitHub-Copilot in VSCode, and I do like its autocompletion  ...  for writi
 
 
 I need AI text prediction ... in markdown files (especially English) 
-
-
-
-
-
-# https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line
-
-# old
-
-https://github.com/settings/billing/summary
-
-
-
-////////000 how can i use openai api for autosuggestions
-
-
-
-
-
-
->copilo log
->copilo
-
-
-2024-08-19 03:48:41.405 [warning] Failed to update repository branch protection: No GitHub authentication session available.
-
-https://github.com/search?q=repo%3Acommunity%2Fcommunity+markdown++completion+keyboard++ctrl&type=discussions&s=&o=desc&p=1
-
-
-
-slow
-spinning
-
-
-# I'm noticing the following pattern while working with Jupyter notebooks: when things get slow, Copilot status icon is spinning.
-
-I have a high-end PC and it still becomes crippling slow. It can be mitigated by reloading VS Code so there must be some underlying bug.
-
-y VSCode was close to unusable with Copilot still a couple weeks ago. I did some searching and tweaking and now it is significantly better. Two things that I believe made all the difference:
-
-I stopped working with a folder open, i.e., with a workspace, only opening individual files (and keeping as few of them open as possible).
-I keep disabling Copilot with a key shortcut when I don't need it, because the worst lags coincide with the little Copilot icon in the bottom right corner spinning as Copilot is fetching an inline suggestion. The key shortcut required a little hack using the Toggle extension, because the shortcut "enable/disable Copilot completions" does not seem to work. If people could go upvote my bug report about this would be good to get it some visib
-
-Working in Jupyter notebooks is becoming impossible. Most of the time, there are full seconds of delay between typing and characters appearing on the screen, particularly in markdown cells. The keyboard shortcut for disabling copilot completions isn't working as expected. I have tried the insiders release of vs code and the pre-release of copilot to no avail. This problem has only recently gotten insanely bad. Pylance and copilot also seem to be fighting each other.
-
-I was having the same issue. For large projects, it seems copilot is too ambitious with the analysis. You can try reducing the scope of the search by changing the file settings (settings.json (USER)):
-
-
-# links-chapter
- https://github.com/settings/billing/summary
-
-
-/// ctrl+l is something else
 
 
 
