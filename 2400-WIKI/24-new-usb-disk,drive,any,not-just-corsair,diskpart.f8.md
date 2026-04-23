@@ -173,9 +173,12 @@ experiment with the recovery drive
 recovered to the original???
 location
 
+could be a false alarm 
+
 gemini 
 please transcribe 
 2 sys reports
+explorer "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acronis\True Image\Tools and Utilities\Acronis System Report.lnk"
 
 explorer "C:\Users\marti\OneDrive\Acronis-SystemReport\"
 explorer "C:\program files (x86)\Acronis\TrueImageHome\"
@@ -185,6 +188,7 @@ explorer "C:\Program Files (x86)\Acronis\TrueImageHome\"
 backup only  the recov partition maybe 
 too late 
 
+booting to the recovery drive..ok
 
 
 # "C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\D--conda--conda-meta\history"
