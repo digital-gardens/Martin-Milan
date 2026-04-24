@@ -15,6 +15,12 @@ C:\pf\Git\bin\bash.exe --verbose -c help
 C:\pf\Git\bin\bash.exe  --% --verbose -c "help set"
 C:\pf\Git\bin\bash.exe   --verbose -c "help set"
 
+C:\pf\Git\bin\bash.exe   --verbose -c "sha1sum.exe   ~/dir1/*"
+C:\pf\Git\bin\bash -c "sha1sum.exe   ~/dir1/*"
+C:\pf\Git\bin\bash -c "sha1sum   ~/dir1/*"
+
+
+
 
 Type `/usr/bin/bash -c "help set"' for more information about shell options.
 Type `/usr/bin/bash -c help' for more information about shell builtin commands.
@@ -123,6 +129,12 @@ cd ../..
 
 C:\Pf\Git\usr\bin\sha1sum.exe   1.txt
 C:\Pf\Git\usr\bin\sha1sum.exe   *.txt
+
+
+C:\Pf\Git\usr\bin\sha1sum.exe   ~/dir1/*
+sha1sum dir1/*
+
+
 
 > 1.txt
  > ../../1.txt
