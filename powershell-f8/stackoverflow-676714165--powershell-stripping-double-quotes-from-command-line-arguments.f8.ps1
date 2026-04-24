@@ -81,6 +81,7 @@ Get-Alias bash |select *
 profile.ps1
 
 
+C:\Pf\Git\usr\bin\echo.exe    '"hello"'
 $PSVersionTable
 echo.exe  '"hello"'
 
@@ -89,43 +90,62 @@ echo.exe  '"""hello"""'
 
 echo.exe  '"'hello'"'
 
-C:\Pf\Git\usr\bin\echo.exe    '"hello"'
+# in polyglot notebook
+"hello"
+"""hello"""
+hello
+
+# f8
+C:\Pf\Git\usr\bin\echo.exe    '"hello"'|clip
+hello
 
 #
-C:\Pf\Git\usr\bin\echo.exe    '"""hello"""'
+C:\Pf\Git\usr\bin\echo.exe    '"""hello"""'|clip
+"hello"
 
-C:\Pf\Git\usr\bin\echo.exe    "hello"
+C:\Pf\Git\usr\bin\echo.exe    "hello"|clip
+hello
 
 #
 cmd.exe /c   echo    '"hello"'
 
+##
 cmd.exe /c   echo    '"'hello'"'
-cmd.exe /c   echo.exe    '"hello"'
-cmd.exe /c   echo.exe    '"'hello'"'
 
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"hello"'
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"'hello'"'
+######
+cmd.exe /?
+##cmd.exe "echo.exe"
+####cmd.exe /c   echo.exe    '"hello"'
+#####cmd.exe /c   echo.exe    '"'hello'"'
 
-#
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"""hello"""'
-
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    """""hello"""""
-
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '""hello""'
+# 2604 bojim aby nepovazoval za batch
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"hello"'
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"'hello'"'
 
 #
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '""""hello""""'
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"""hello"""'
 
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"""""hello"""""'
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"""""hello"""""'
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '""""""hello""""""'
-cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"""""""hello"""""""'
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    """""hello"""""
+
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '""hello""'
+
+#
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '""""hello""""'
+
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"""""hello"""""'
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"""""hello"""""'
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '""""""hello""""""'
+#cmd.exe /c   C:\Pf\Git\usr\bin\echo.exe    '"""""""hello"""""""'
 
 where.exe   echo.exe | clip
 
 exit
+Recently I have been having some trouble using GnuWin32 from PowerShell whenever double quotes are involved.
+
 
 nd line arguments, even when properly escaped.
+
+Nick
 
 PS C:\Documents and Settings\Nick> echo '"hello"'
 "hello"
