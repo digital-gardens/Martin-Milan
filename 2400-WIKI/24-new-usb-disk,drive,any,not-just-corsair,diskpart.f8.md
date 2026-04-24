@@ -165,6 +165,12 @@ e8
 
 
 
+# close the elevated TCommander after the work is done  ?
+###Stop-Process -Name "TOTALCMD64" -Force
+
+
+
+
 # going to destroy internal ubuntu ... first back it up to external
 acronis 
 "I:\ubu,re-to-iii.tibx"

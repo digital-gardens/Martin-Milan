@@ -1,87 +1,40 @@
 
 # f8_text_file
 # (an f8_text_file is-not meant to be run as a whole)
-# (selected lines from this file can be run in a terminal ... e.g. by the F8 key, customly bound to runSelectedText  )
-
 )
 exit
 
+# (selected lines from this file can be run in a terminal ... e.g. by the F8 key, customly bound to runSelectedText  )
+
+echo '-------- section --------'
+
+
+#  sync by hand ?!
+
 ^s
 
-
-pred velkymi zmenami
-pozor pri plnem disku
-win+q
-restore-point
-
-# JBPC DISK FULL 260319
-https://gemini.google.com/app/76b863f7a4cfec01
-
-
-ZMENA ...  MASTER PRESUNUT DO OneDrive
-
-dont pin in vscode
-close in vscode
-open in admin ise  or nonadmin ise
-
-win+q ise
-{right-arrow} rclick admin
-File/recent
-
-resto.point
-
-#icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\onedr---admin-ise--adminsaves.f8.ps1"
-icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\admin-ise--admin,martin-saves.f8.ps1"
-
-
-echo '-------- section --------'
-
-echo was in c:\marti
-###this file is editable even from win milan
-https://keep.google.com/u/0/#NOTE/1w57XJBY6hzeLf0JdyX5cFti_UzbCllAlX4QRwrnSUbRwJvjQGv9YOZSUi0_oqg
-
-
-echo '-------- section --------'
-
-260103
-jenze secu hole ... if runni pwsh adm ...fuj pwsh.exe -ExecutionPolicy Bypass -File  D:\0004-LINKS\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.ps1
-
-powershell.exe -ExecutionPolicy Bypass -File  D:\0004-LINKS\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.ps1
-
-C:\Users\marti\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.ps1
-
-fuj C:\Users\milan_rxtipwr\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.cmd
-C:\Users\marti\OneDrive\ps-mylen-mar\251029-disk-full-monitor.f5.cmd
-
-
-echo '-------- section --------'
-
-echo was in c:\marti
-#  sync by hand
-^s
 #  ^a  ^c  @tab  ^a ^V
-260103
-C:\Users\marti\OneDrive\onedr---admin-ise--adminsaves.f8.ps1
+
+
+win+q ise rclick admin
+File/recent
 master
-the MAIN COPY
-	used-to-be		C:\Users\marti\admin-ise--adminsaves.f8.ps1
-	now "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\admin-ise--admin,martin-saves.f8.ps1"
-old a SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
-old a SUBORDINATE COPY jiny dir "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\0004-CHKDSK\admin-ise--adminsaves.f8.ps1"
+the MAIN COPY		C:\Users\marti\admin-ise--adminsaves.f8.ps1
+the SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
 
 
-ise secu ok
+ise ok
 File C:\Users\marti\OneDrive\Dokumenty\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is disabled on this system. For mor
 e information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
 At line:0 char:0
-PS C:\WINDOWS\system32>
+PS C:\WINDOWS\system32> diskusage.exe /a   /h   /t:10
 
 
-diskusage.exe /a   /h   /t:10
-cd .\OneDrive
 
 
 echo '-------- section --------'
+
+
 
 win+q ise admin
 	file
@@ -93,29 +46,8 @@ echo '-------- section --------'
 
 mkdir d:\2222
 mkdir d:\000doc24
-
-
-explorer i:\
-owner admi
-
-icacls i:\
-
-PS C:\WINDOWS\system32> icacls i:\
-i:\ Everyone:(OI)(CI)(RX)
-    CREATOR OWNER:(OI)(CI)(IO)(F)
-    NT AUTHORITY\SYSTEM:(OI)(CI)(F)
-    MB-PC\milan_rxtipwr:(OI)(CI)(F)
-    BUILTIN\Administrators:(OI)(CI)(F)
-
-Successfully processed 1 files; Failed processing 0 files
-
-PS C:\WINDOWS\system32>
-
-
-
 icacls.exe   d:\2222   /grant 'marti:(oi)(ci)(f)'
-icacls.exe   d:\000doc24
-  /grant 'marti:(oi)(ci)(f)'
+icacls.exe   d:\000doc24   /grant 'marti:(oi)(ci)(f)'
 icacls.exe   d:\000doc24   /grant 'marti:(oi)(ci)(f)'
 icacls.exe   d:\000doc24   /grant 'marti:(oi)(ci)(f)'
 icacls.exe   d:\000doc24   /grant 'techl:(oi)(ci)(f)'
@@ -300,8 +232,6 @@ cd "C:\Users\milan_rxtipwr\OneDrive\Plocha\du64-mujlen-podpisy\"
 
 
 ./du64
-du
-./du64
 
 ./du64.exe -l 1 ../..  | sort
 
@@ -311,10 +241,6 @@ du
 cmd /c dir D:\umarti\*du*
 
 C:\pf\totalcmd\TOTALCMD64.EXE D:\umarti
-
-
-
-
 
 
 
@@ -471,17 +397,14 @@ icacls.exe   d:\2222   /grant 'marti:(oi)(ci)(f)'
 
 
 
-will not inst adm again?
+
 
   url64bit       = 'https://sourceforge.net/projects/maxima/files/Maxima-Windows/5.45.1-Windows/maxima-5.45.1s-win64.exe/download'
   checksum64     = '60be72a45376e1256a554d79e7da35f7d91cfc86b12b9a9a5501c0f5ed8b6de0'
 
-
-
 DISM.exe /Online /Cleanup-image /Restorehealth
 
 sfc /scannow
-
 
 tiworker is not ATI
 
@@ -492,7 +415,6 @@ cmd /c dir /a    C:\Users\marti\.git
 cmd /c dir /a     C:\Users\marti\OneDrive\.git
 cmd /c dir /a   C:\Users\milan_rxtipwr\.git
 cmd /c dir /a   C:\Users\milan_rxtipwr\OneDrive\.git
-
 
 
 PS C:\Users\marti> diskusage.exe /?
@@ -561,7 +483,7 @@ diskusage.exe  /f:1911999888 C:\
 diskusage.exe   /h   /t:10
 diskusage.exe /?
 
-echo jjjjjjjjjjjjjjjjjjjjmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+
 
 
       4,110,569,472       37,868  C:\Users\marti\OneDrive
@@ -585,46 +507,10 @@ PS C:\Users\marti\OneDrive> diskusage.exe  /f:911999888 C:\ProgramData\Microsoft
 
 
 
-cd ..
 
 
-PS C:\Users\marti\OneDrive>
-
-
-diskusage.exe  /f:911999888 C:\Users\marti\AppData
-diskusage.exe  /f:911999888 C:\Users\marti\
-
-
-
-
-
-
-PS C:\Users\marti\OneDrive> cd ..
-PS C:\Users\marti> diskusage.exe  /f:911999888 C:\Users\marti\
+PS C:\Users\marti\OneDrive> diskusage.exe  /f:911999888 C:\Users\marti\AppData
          SizeOnDisk        Files  Directory path
-      1,651,978,240       35,074  C:\Users\marti\.vscode\extensions
-      1,652,023,296       35,075  C:\Users\marti\.vscode
-      2,413,137,920       20,336  C:\Users\marti\AppData\Local\Microsoft\Edge\User Data\Default
-      5,329,215,488       44,136  C:\Users\marti\AppData\Local\Microsoft\Edge\User Data
-      5,329,256,448       44,136  C:\Users\marti\AppData\Local\Microsoft\Edge
-      6,945,050,624       73,205  C:\Users\marti\AppData\Local\Microsoft
-      1,710,477,312       15,679  C:\Users\marti\AppData\Local\Packages
-     12,304,764,928      103,407  C:\Users\marti\AppData\Local
-      1,866,964,992       46,004  C:\Users\marti\AppData\Roaming\Code
-      2,941,841,408       73,703  C:\Users\marti\AppData\Roaming
-     15,306,788,864      177,691  C:\Users\marti\AppData
-      3,587,768,320       40,236  C:\Users\marti\OneDrive
-     25,379,442,688      320,945  C:\Users\marti
-
-133,810,102,272/158,678,904,832  84.3% of disk in use
-
-
-
-
-
-
-
-SizeOnDisk        Files  Directory path
         941,576,192        8,646  C:\Users\marti\AppData\Local\Google\Chrome\User Data\Default
       1,018,167,296       13,285  C:\Users\marti\AppData\Local\Google\Chrome\User Data\Profile 1
       2,582,478,848       25,814  C:\Users\marti\AppData\Local\Google\Chrome\User Data
@@ -682,14 +568,6 @@ er Data
       6,038,155,264       56,933  C:\Users\marti\AppData\Local\Microsoft
       7,881,097,216            1  C:\Users\marti\AppData\Local\Packages\Canonica
 lGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc\LocalState
-
-
-explorer C:\Users\marti\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc\LocalState
-explorer C:\Users\marti\AppData
-\Local\Packages\CanonicalGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc\LocalState
-win q t
-
-
       7,881,175,040           11  C:\Users\marti\AppData\Local\Packages\Canonica
 lGroupLimited.Ubuntu22.04LTS_79rhkp1fndgsc
       9,814,663,168       17,198  C:\Users\marti\AppData\Local\Packages
@@ -701,9 +579,6 @@ tc del
       5,248,626,688       86,864  C:\Users\marti\AppData\Roaming
      27,424,256,000      201,379  C:\Users\marti\AppData
       2,362,658,816           12  C:\Users\marti\gensim-data
-
-
-
       4,113,485,824       37,880  C:\Users\marti\OneDrive
      40,148,791,296      340,973  C:\Users\marti
       2,511,880,192       16,905  C:\Users\micha\AppData\Local
@@ -730,30 +605,16 @@ a
       7,963,148,288          753  C:\Windows\ServiceProfiles
       4,016,394,240       11,494  C:\Windows\System32
       4,215,287,808       74,461  C:\Windows\WinSxS
-     31,222,853,632      106,443  C:\Windows
+31,222,853,632      106,443  C:\Windows				
     137,904,435,200      942,660  C:\
 
 150,749,855,744/158,678,904,832  95.0% of disk in use
 
 PS C:\WINDOWS\system32>
 
-# 260424
-reagentc /info
-reagentc /?
-
-
-cmd /c dir %ProgramData%\Microsoft\Search\Data\Applications\Windows\  /s /a
-538
-
-
-
-
-ZMENA ...  MASTER PRESUNUT DO OneDrive
 ##########
 #  sync by hand ?!
 #  ^a  ^c  @tab ^V
-old the MAIN COPY		C:\Users\marti\admin-ise--adminsaves.f8.ps1
-old a SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
-old a SUBORDINATE COPY jiny dir "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\0004-CHKDSK\admin-ise--adminsaves.f8.ps1"
-ZMENA ...  MASTER PRESUNUT DO OneDrive
 
+the MAIN COPY		C:\Users\marti\admin-ise--adminsaves.f8.ps1
+the SUBORDINATE COPY jiny dir C:\Users\marti\OneDrive\powershell-f8\admin-ise--adminsaves.f8.ps1
