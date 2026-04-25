@@ -9,8 +9,18 @@ and a GitHub organization
 		… it is linked  
 		in the subreddit
 
+
+
 the reason
-why the sub
+why the GitHub org
+was created...
+	to protect
+	texts of members
+	from deletion
+		by GitHub
+		when the members 
+		become inactive
+
 
 
 //////// in some subreddits, i will omit this  
