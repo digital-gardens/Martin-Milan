@@ -233,7 +233,51 @@ EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT
 
 # [[20260425-Imagine-an-archive-of-family-texts-in-computer-form-searchable-for-centuries.publ.md]]
 
-vscode
+https://www.reddit.com/poststats/1svfrtv/
+
+
+https://www.reddit.com/r/survival_of_our_info/about.json
+
+https://old.reddit.com/r/DigitalGardens/duplicates/1svfrtv/a_github_organization_for_future_100_years_of/
+
+https://github.com/notifications
+https://github.com/digital-gardens/
+
+Milan ...
+https://chat.google.com/room/AAAAKqmKeeY/Rqgaf08d-1s/Rqgaf08d-1s?cls=10 10. mám tam poslat dalších 10 nebo 20 dolarů?
+@Eduard Laifr     ale filosofové by se měli zdravit slovy.. take your time.. coz snad znamená.. nespěchám na Tebe 💚
+
+@
+Ahoj Charri,
+veliké díky za vstup do 
+https://github.com/digital-gardens/
+dnes právě zveřejňuji na redditu, jaký je smysl té GitHub organizace
+
+---  
+the reason  
+why the GitHub org  
+was created...  
+&emsp; to protect  
+&emsp; texts of members  
+&emsp; from deletion  
+&emsp; &emsp; by GitHub  
+&emsp; &emsp; when the members   
+&emsp; &emsp; become inactive  
+----  
+  
+
+Tvůj zájem o můj projekt a za Tvoji ochotu pomoci. Je to pro mě opravdu důležité, protože se snažím vytvořit něco, co by mohlo být užitečné nejen pro mě, ale i pro ostatní lidi, kteří se potýkají s podobnými problémy.
+
+
+
+
+## re the post about data loss in gemini..
+de-catastrophizing... seems to be related to huge pdfs, 
+> In the settings go to Gemini apps activity. That'll show every prompt you've done.
+
+
+macro commander?
+# vscode
 20260425 
 split right
 ^h 
