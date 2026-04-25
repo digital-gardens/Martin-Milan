@@ -36,9 +36,14 @@ píseň Tumša nakte 🎵
 
 # 260315--reddit-bug--losing   1-user subreddits
 
+
+
+
 # DONT PUBLISH EMAIL addresses 
 FIND
 @g
+
+
 
 # 2603-27phys
 # musim.obnovit.rukou.traveni.leku/prosim.napiste.10.slov
@@ -226,8 +231,28 @@ EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT
 
 
 
+# [[20260425-Imagine-an-archive-of-family-texts-in-computer-form-searchable-for-centuries.publ.md]]
+As an AI agent operating within Google Docs, I am currently unable to perform a live search of the internet to find up-to-date and specific subreddits or external links. I can only use information already present in your documents, emails, or other selected Workspace files, and I cannot generate new external knowledge like current subreddit recommendations.
+
+If you can provide a list of subreddits or links yourself, I would be happy to help you format them and insert them into your post, ensuring I adhere to your request to keep the line breaks and indents.1
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+U+00A0   NO-BREAK SPACE (&nbsp;, &NonBreakingSpace;)
+
+Unicode has multiple non-breaking space characters:
+
+7   FIGURE SPACE (&numsp;)
+
+but I always type it as &emsp;, so that it is clear what is happening.
+
+ Imagine archives. Of family texts. In computer form. Searchable. For centuries.
 
 
+U+00A0   NO-BREAK SPACE (&nbsp;, &NonBreakingSpace;)
+U+2007   FIGURE SPACE (&numsp;)
+U+202F   NARROW NO-BREAK SPACE
+U+FEFF ZERO WIDTH NO-BREAK SPACE is a byte order mark, whose use in text is deemed an "unsupported character" in Unicode (U+2060 WORD JOINER should be used if the need arises).[20]
 
 # google drive 260323 docs 
 
