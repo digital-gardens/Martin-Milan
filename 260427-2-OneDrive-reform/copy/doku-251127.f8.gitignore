@@ -1,0 +1,54 @@
+
+# gh desktop
+
+# file:///C:\Users\marti\OneDrive\Dokumenty\0000000004\gitignore-test.f8.sh.ps1
+# file:///C:\Users\marti\OneDrive\gitignore-test.f8.sh.ps1
+
+
+# Ignore all files
+*
+
+## But not markdown files
+#!*.md
+
+!*.f[0-9].*
+!*.f1[0-9].*
+!*.publ.*
+!README.*
+
+# But not this gitignore file itself
+!.gitignore
+
+
+#OLD*/
+OLD*
+BIG
+
+1111/
+
+
+# ai
+
+# Windows thumbnail cache files
+Thumbs.db
+#Desktop.ini
+
+# Temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Recycle Bin used on file shares
+#$RECYCLE.BIN/
+# Windows Installer files
+
+*.tmp
+
+### *.lnk
+# desktop.ini
+
+# If you want, I can give you:
+# ✔ ready-made
+# .gitignore
+#  for markdown files
+

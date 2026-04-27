@@ -1,0 +1,21 @@
+
+# comment
+# from file:///C:\Users\marti\OneDrive\Eda-f8\kopie--programming stuff\do you want icecream.txt.txt
+
+### some notes are at  file:///C:\Users\marti\OneDrive\Eda-f8\attempt--cpp-to-yaml.f8.yaml
+
+main:
+    cout: (You and your friend are walking on the street) Hej! I'm hungry, do you want some icecream? (y/n)
+    y:
+        cout: Okay! (You go up to the icecream van down the street but your friend doesn't have anymore money left)\n    Hej! I don't have any money left! Can you give me some money? (y/n)
+        y:
+            cout: (You give some money to your friend) Thanks! (And you two eat your icecream) [end]
+        n:
+            cout: (You say you don't have money) Oh well, that's okay i guess... [end]
+        else:
+            cout: (Your friend doesn't understand you, and then your realise it's just a dream)
+    n:
+        cout: Okay...
+    else:
+        cout: (Your friend doesn't understand you, and he realises he doesn't have money, so nothing happened) [end]
+

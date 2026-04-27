@@ -1,6 +1,13 @@
 260427-2-OneDrive-reform.publ.md
 
 
+.git 
+.gitig
+
+desktop.ini	
+
+
+
 "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\260427OneDrive\Dokumenty"
 260420
 

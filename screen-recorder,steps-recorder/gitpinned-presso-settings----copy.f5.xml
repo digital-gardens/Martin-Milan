@@ -1,0 +1,103 @@
+﻿<ScreenpressoSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>15</Version>
+  <SeqNum>24</SeqNum>
+  <CheckForUpdate>true</CheckForUpdate>
+  <Fum>false</Fum>
+  <ActivationKey />
+  <LicenseKey />
+  <AndroidBitRate xsi:nil="true" />
+  <EffectsSettings />
+  <ResizeSettings />
+  <DefaultEffects />
+  <DefaultResize />
+  <TempFolderScreenShots>D:\umarti\Videos\Screenpresso</TempFolderScreenShots>
+  <CurrentWorkspaceSettings />
+  <VideoCaptureToolbar>true</VideoCaptureToolbar>
+  <LastScreenshotRegion>
+    <Location>
+      <X>770</X>
+      <Y>377</Y>
+    </Location>
+    <Size>
+      <Width>375</Width>
+      <Height>262</Height>
+    </Size>
+    <X>770</X>
+    <Y>377</Y>
+    <Width>375</Width>
+    <Height>262</Height>
+  </LastScreenshotRegion>
+  <LastVideoRegion xsi:nil="true" />
+  <HistoryCount>10000</HistoryCount>
+  <HistoryHideFilesButNeverDeleteThem>true</HistoryHideFilesButNeverDeleteThem>
+  <WorkspaceOrderInverted>true</WorkspaceOrderInverted>
+  <ExportEffects />
+  <ExportResize />
+  <SharingAccounts>
+    <SharingAccount xsi:type="ScreenpressoCloudAnonymousAccount">
+      <Guid>adfd192851a7474dae3d3d401bcacf49</Guid>
+      <Identifier>ScreenpressoCloud</Identifier>
+      <AutoRun>false</AutoRun>
+      <SyncLicenseAgreed>false</SyncLicenseAgreed>
+      <NOU>nDRton68+OgnHwbe5XM3IQ==</NOU>
+    </SharingAccount>
+    <SharingAccount xsi:type="EMailAccount">
+      <Guid>0e07883ecb234432a1da0a248d1d7d72</Guid>
+      <Identifier>E-mail:</Identifier>
+      <AutoRun>false</AutoRun>
+      <AttachAsPdf>false</AttachAsPdf>
+    </SharingAccount>
+    <SharingAccount xsi:type="DriveAccount">
+      <AutoRun>false</AutoRun>
+      <GeneratePublicLink>false</GeneratePublicLink>
+    </SharingAccount>
+    <SharingAccount xsi:type="OneDriveAccount">
+      <AutoRun>false</AutoRun>
+    </SharingAccount>
+  </SharingAccounts>
+  <CaptureMouseCursor>true</CaptureMouseCursor>
+  <FirstTimeSettings>
+    <LicenseAgreed>true</LicenseAgreed>
+    <SystrayIconRunningCount>0</SystrayIconRunningCount>
+    <NoWorkspaceEditImage>true</NoWorkspaceEditImage>
+    <NoWorkspaceCaptureTip>true</NoWorkspaceCaptureTip>
+  </FirstTimeSettings>
+  <CanvasSettings />
+  <WorkspaceLocation>
+    <X>1022</X>
+    <Y>424</Y>
+  </WorkspaceLocation>
+  <WorkspaceScreenScaleFactor>1.25</WorkspaceScreenScaleFactor>
+  <WorkspaceThumbnailSize xsi:nil="true" />
+  <WorkspaceSize>
+    <Width>893</Width>
+    <Height>591</Height>
+  </WorkspaceSize>
+  <WorkspaceAlwaysOnTop>false</WorkspaceAlwaysOnTop>
+  <WorkspaceAutoClose>false</WorkspaceAutoClose>
+  <SharingHistory />
+  <NumberOfCaptures>13</NumberOfCaptures>
+  <CaptureShortcutKey>None</CaptureShortcutKey>
+  <CaptureShortcutKey2>None</CaptureShortcutKey2>
+  <HotKeyScreenshotActiveWindow>None</HotKeyScreenshotActiveWindow>
+  <HotKeyScreenshotLastRegion>None</HotKeyScreenshotLastRegion>
+  <HotKeyScreenshotFullScreen>MButton Back Clear Space Home Down Snapshot PrintScreen Control</HotKeyScreenshotFullScreen>
+  <HotKeyScreenshotAllScreens>None</HotKeyScreenshotAllScreens>
+  <HotKeyScreenshotScrollingWnd>None</HotKeyScreenshotScrollingWnd>
+  <HotKeyScreenshotScrollingWndWinModifier>false</HotKeyScreenshotScrollingWndWinModifier>
+  <HotKeyCaptureVideo>None</HotKeyCaptureVideo>
+  <HotKeyCaptureVideoRegion>None</HotKeyCaptureVideoRegion>
+  <HotKeyOpenWorkspace>None</HotKeyOpenWorkspace>
+  <HotKeyOpenWorkspaceWinModifier>false</HotKeyOpenWorkspaceWinModifier>
+  <CaptureVideoZoomShortcutKey>None</CaptureVideoZoomShortcutKey>
+  <CaptureVideoZoomAlsoUseWinKey>false</CaptureVideoZoomAlsoUseWinKey>
+  <CaptureVideoWebcamShortcutKey>None</CaptureVideoWebcamShortcutKey>
+  <CaptureVideoWebcamAlsoUseWinKey>false</CaptureVideoWebcamAlsoUseWinKey>
+  <VideoCaptureCursorHightlight>true</VideoCaptureCursorHightlight>
+  <VideoCaptureStopAfterDelay>true</VideoCaptureStopAfterDelay>
+  <EditorLastBounds xsi:nil="true" />
+  <WorkspaceSettings />
+  <EditorDisplay>\\.\DISPLAY1</EditorDisplay>
+  <QuickCaptureWindowLocation xsi:nil="true" />
+  <QuickViewSize xsi:nil="true" />
+</ScreenpressoSettings>

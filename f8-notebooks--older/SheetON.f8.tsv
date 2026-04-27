@@ -1,0 +1,49 @@
+https://donhopkins.medium.com/representing-and-editing-json-with-spreadsheets-8f8832db5239
+
+
+Representing and Editing JSON with Spreadsheets
+
+
+JSONster
+
+
+
+
+As you can obviously see, you simply write your JSON expressions as an indented outline with type names before the values, putting keys, types and values in separate indented cells.
+
+object
+	tileRows        number  10
+	tileColumns     number  10
+	materialTiling  object
+		x       number  4
+		y       number  4
+	materialOffset  object
+		x       number  0.5
+		y       number  0.5
+
+
+array
+	string Joao Paulo/Textures/Abstract_001/Abstract_001
+	string Joao Paulo/Textures/Abstract_001/Abstract_002
+	string Joao Paulo/Textures/Abstract_001/Abstract_003
+	…
+
+
+
+
+Some people laugh at me when I say I prefer spreadsheets to outliners or even text editors. I’d love it if there were a decent tree structures JSON editor as powerful and ubiquitous as Google Sheets, but I’ve never heard of one. Tell me if you have, please!
+
+
+
+So I’ve come up with a simple format and convenient conventions for representing and editing JSON in spreadsheets, without any sigils, tabs, quoting, escaping or trailing comma problems, but with comments, rich formatting, formulas, and leveraging the full power of the spreadsheet.
+
+
+
+The goal is to leverage the spreadsheet grid format to reduce syntax and ambiguity, and eliminate problems with brackets, braces, quotes, colons, commas, missing commas, tabs versus spaces, etc.
+
+
+
+re coming up with a name, one question to answer is how to position these ideas? A library? A convention? A standard? A general purpose idea that could be implemented in many different ways?
+
+
+
