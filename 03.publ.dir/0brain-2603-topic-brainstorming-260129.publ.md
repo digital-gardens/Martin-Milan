@@ -233,6 +233,78 @@ EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT
 
 # [[20260425-Imagine-an-archive-of-family-texts-in-computer-form-searchable-for-centuries.publ.md]]
 
+// song: Imagine - John Lennon
+
+restore-window, reopen closed
+
+file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+
+### Top Comment
+
+, 3 hr. ago, Number of votes: 1. u/martinmn\_novy ~ I use "ventilated prose" in one of the largest sections of my own digital garden: > 
+todo https://bra.in/  url
+
+ Never knew it had a name. Thanks. I look forward to reviewing your new sub-reddit."](https://www.reddit.com/r/DigitalGardens/comments/1svfrtv/a_github_organization_for_future_100_years_of/oicues7/)
+
+
+(935) Want to be happy? Be grateful | David Steindl-Rast - YouTube
+
+#458: Gratitude
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Let gratitude be your goal.
+
+When you cannot be
+grateful and accepting,
+examine your resistances
+and objections.
+
+They will reveal
+the terms and conditions
+you are dictating for
+how Reality should appear.
+
+"Gratefulness is the heart of prayer."
+        Brother David Steindl-Rast
+
+
+
+1
+
+give reddit gold
+i look forward too 
+sipping tea 
+
+
+---
+
+todo Shares
+
+10
+
+---
+
+Crossposts
+
+0
+
+
+
+
+
+
+https://www.thebrain.com/docs/markdown-info
+Newline characters (when you press Enter/Return) are always respected whereas traditional Markdown would ignore single line breaks unless the line ended with space.
+
+
+
+
+
+
+
+
+
+
+
 https://www.reddit.com/poststats/1svfrtv/
 
 
