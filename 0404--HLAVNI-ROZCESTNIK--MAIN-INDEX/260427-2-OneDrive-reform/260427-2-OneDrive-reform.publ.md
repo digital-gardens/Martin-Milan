@@ -5,6 +5,9 @@
 .gitig
 
 
+move part of
+ 00 to dokumenty
+
 
 
 "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\260427OneDrive\Dokumenty"
