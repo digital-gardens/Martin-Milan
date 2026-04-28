@@ -65,13 +65,18 @@ links
 	https://www.greyhathacker.net/?p=738
 		Elevating privileges by exploiting weak folder permissions – GreyHatHacker.NET
 
-		It gets interesting when applications gets installed in the root and add its path to the system path environment. This now opens the attack surface for a large number of applications that may have DLL hijacking vulnerabilities. One scenario is software getting pushed onto machines, with the likes of Marimba, Landesk, etc. which use a Windows service running with system privileges to install the software. Since it runs with system privileges software pushed onto machines such as Perl, Python or Ruby it will add to the system path environment if adding the path had been set in the package along with being installed on the root as default. Or it could be an IT support personnel installs the software with their admin rights for the user. If a user installs manually (if possible) with non-admin rights then it may be added to user path environment and then exploitation would not be possible
+		It gets interesting when applications gets installed in the root and add its path to the system path environment. This now opens the attack surface for a large number of applications that may have DLL hijacking vulnerabilities. One scenario is software getting pushed onto machines, with the likes of Marimba, Landesk, etc. which use a Windows service running with system privileges to install the
+
+		software. Since it runs with system privileges software pushed onto machines such as Perl, Python or Ruby it will add to the system path environment if adding the path had been set in the package along with being installed on the root as default. Or it could be an IT support personnel installs the software with their admin rights for the user. If a user installs manually (if possible) with non-admin rights then it may be added to user path environment and then exploitation would not be possible
+
 
 	https://github.com/msys2/msys2-installer/issues/51
 
+
 	http://webcache.googleusercontent.com/search?q=cache:DkaQ9X0mWO0J:https://medium.com/@dasagreeva/windows-privilege-escalation-methods-2e93c954a287&hl=en&gl=cz&strip=1&vwsrc=0
 
-		Windows Privilege Escalation Methods | by Dasagreeva
+
+	Windows Privilege Escalation Methods | by Dasagreeva
 		medium.com
 		2021
 
@@ -135,14 +140,22 @@ my: Win+q ISE
 
 	Run the Following Command:
 
+
+
 	icacls D:\.install\python /inheritance:r /grant "Authenticated Users:(OI)(CI)(RX)" "SYSTEM:(OI)(CI)(F)" "Administrators:(OI)(CI)(F)"
 
 
 
 	This command does the following:
+
+
 	/inheritance:r: Removes inherited permissions.
+
+
 	/grant: Grants specific permissions to the specified groups or users.
 	"Authenticated Users:(OI)(CI)(RX)": Allows read and execute permissions for all authenticated users.
+
+
 
 
 #####################################
@@ -176,6 +189,8 @@ isn't it necessary to do
 icacls.exe "D:\.install\python"  /reset /T
 first?
 
+
+
 __AI__
 	Before applying the permissions, it’s a good practice to reset the existing permissions on the directory. You can do this using the following command:
 
@@ -186,15 +201,20 @@ __AI__
 
 
 
+
+
 #from googling
 
 icacls "C:\Test" /reset /T
 icacls "C:\Test" /grant "User":(OI)(CI)RX
+maybe (RX) or RX?
+
 icacls "C:\Test" /inheritance:r
 
 
 
 # https://github.com/ContinuumIO/salt/blob/develop/pkg/windows/installer/Salt-Minion-Setup.nsi
+
 icacls c:\salt /inheritance:r /grant:r "BUILTIN\Administrators":(OI)(CI)F /grant:r "NT AUTHORITY\SYSTEM":(OI)(CI)F
 
 
@@ -205,7 +225,8 @@ icacls c:\salt /inheritance:r /grant:r "BUILTIN\Administrators":(OI)(CI)F /grant
 ai
 	##https://gemini.google.com/app/0f5fc1a833190786
 
-You're right, weak folder permissions can be a security risk. Here's how you can address this while installing Python on your D drive:
+
+	You're right, weak folder permissions can be a security risk. Here's how you can address this while installing Python on your D drive:
 
 ....
 1. Mitigate Permissions for D Drive
@@ -235,6 +256,8 @@ Get-Acl   c:\*  |  foreach{
 
 ).Count
 
+
+
 select AreAccessRulesProtected,Path  |
 
 Get-ChildItem C:\temp -recurse | Select @{Name='Path';Expression={$_.FullName}},@{Name='InheritedCount';Expression={(Get-Acl $_.FullName | Select -ExpandProperty Access | Where { $_.IsInherited }).Count}}
@@ -249,6 +272,8 @@ echo    c:\,C:\Users,'C:\Program Files',C:\conda,C:\mytemp,C:\tmp,C:\Windows  | 
 echo    c:\,C:\Users,'C:\Program Files',C:\conda,C:\mytemp,C:\tmp,C:\Windows  | foreach {icacls $_}
 
    findstr.exe -i "(i)"
+
+
 
 
 Get-Acl   c:\,C:\Users,'C:\Program Files',C:\conda,C:\mytemp,C:\tmp,C:\Windows
@@ -269,6 +294,9 @@ Get-Acl   c:,C:..,C:\Users\marti\OneDrive\AAAAcontac,C:\Users\marti\OneDrive\eev
 Get-Acl   c:*  |  select AreAccessRulesProtected
 Get-Acl   c:*  |  select AreAccessRulesProtected
 
+
+
+
 ls c:\
 
 icacls c:\  |  findstr.exe -i user
@@ -281,6 +309,8 @@ icacls C:\Windows |  findstr.exe -i user
 icacls C:\Users |  findstr.exe -i user
 
 
+
+
 cacls.exe  'C:\'
 cacls
 cacls.exe  'C:\Program Files'
@@ -288,6 +318,9 @@ cacls.exe  'C:\Pf'
 
 cacls.exe C:\Users
 Get-Acl   C:\Users | select *| findstr.exe -i inher
+
+
+
 
 #less interesting meaning of inherit
 Get-Item C:\Users | get-acl | select -ExpandProperty Access
@@ -298,6 +331,8 @@ Get-Item C:\Users | get-acl | select -ExpandProperty Access
 
 
 
+
+
 # learning powershell
 help gm
 help get-item
@@ -305,6 +340,7 @@ q
 Get-Acl c:\ | gm
 Get-Acl C:\Users | select *
 Get-Acl C:\Users | select * |gm
+
 
 Get-Item C:\Users | get-acl | select -ExpandProperty Access |gm
 
@@ -325,7 +361,10 @@ GR - generic read
 GW - generic write
 GE - generic execute
 
+
+
 RD - read data/list directory
+
 
 X - execute/traverse
 
@@ -348,14 +387,28 @@ only to directories:
 icacls.exe  d:\Users\Eda\SteamLibrary
 
 
+
+
+
+
 ##########
 I set the same ACL with the GUI and with icacls, yet the results are different - The Old New Thing ... Deny ACE ... So the icacls program is lying when it says that it denied Delete (D) permission. It actually denied both Delete and Synchronize.
+
+
+
 
 
 a teacher cautioned us against the DENY,
 	me did not found any other DENY anywhere in my C: D:
 	icacls.exe C:\Users\Public\experi\prase
 	C:\Users\Public\experi\prase LEN20\jhgjghgjhgjgh:(I)(OI)(CI)(DENY)(DE,WDAC,WO,WD,DC)
+
+
+gemini
+Remove "Allow" Rules Instead of Using "Deny" Rules: It is a common mistake to try and secure a drive by running icacls G:\ /deny Everyone:(W). Do not do this. Explicit "Deny" rules take precedence over "Allow" rules in Windows. If you deny "Everyone" or "Users", you will likely lock out your own Administrator account (since Admins are also members of the Everyone/Users groups). Always secure a drive by removing the overly permissive "Allow" groups, as shown in the commands above.
+
+
+
 
 
 icacls.exe C:\Users\marti
@@ -479,6 +532,9 @@ https://github.com/git-for-windows/git/security/advisories/GHSA-9w66-8mq8-5vm8
 
 
 
+
+
+
 # an EDIT 3 years later: the default folder permissions for D:\ are a security weakness ... I will put a web link into a comment
 
 # an EDIT 3 years later: maybe the indexer won't index AppData and dotfolders?
@@ -544,6 +600,9 @@ cmd /c dir "C:\Program Files\Microsoft VS Code\resources\app"
 code  "C:\Program Files\Microsoft VS Code\bin\code.cmd"
 #code  "C:\Program Files\Microsoft VS Code\resources\app\out\cli.js"
 
+
+
+
 cmd /c dir "C:\Users\marti\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar"
 explorer.exe "C:\Users\marti\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar"
 
@@ -552,6 +611,8 @@ explorer.exe "C:\Users\marti\AppData\Roaming\Microsoft\Internet Explorer\Quick L
 
 ######################
 seealso
+
+
 
 	code conda-dotfiles\CWE-426--Untrusted-Search-Path---conda.f8.ps1
 
