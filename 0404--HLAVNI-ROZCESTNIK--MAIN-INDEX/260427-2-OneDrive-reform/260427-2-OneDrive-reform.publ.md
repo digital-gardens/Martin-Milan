@@ -18,6 +18,11 @@ move part of
 cmd /c dir C:\Users\marti\OneDrive\   /l /n /s   >  C:\Users\marti\OneDrive\Dokumenty\00\dir-onedrive-s.publ.txt
 10s
 
+cmd /c dir   /l /n /s   >  C:\Users\marti\OneDrive\Dokumenty\00\dir-milan-onedrive-l-n-s.publ.txt  "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\"
+18s
+
+
+
 cmd /c dir C:\Users\marti\OneDrive\Dokumenty   /l /n /s
 
 C:\Users\marti\OneDrive\Dokumenty\00\Robocopy---c-onedrive---d-mir.f5.cmd
