@@ -2,6 +2,14 @@
 tags: 20260430
 ---
 
+converted-to-google-docs
+
+hledám
+texty
+které píšou sami pacienti
+i anglicky
+
+
 # Zda existují pacienti jako já
 
 // pro AI
