@@ -96,6 +96,40 @@ reagentc /info
 
 echo '-------- section --------'
 
+# tags: 20260428 430.0101 disks icacls 
+
+# my suggestion , version 3
+
+icacls g:\ 
+
+#icacls g:\ /grant "SYSTEM:(OI)(CI)F"
+#icacls g:\ /grant "Administrators:(OI)(CI)F"
+#icacls g:\ /remove "Everyone"
+#icacls g:\ /remove "Users"   # ?
+
+icacls G:\ /remove "NT AUTHORITY\Authenticated Users"
+icacls g:\ /grant "NT AUTHORITY\Authenticated Users:(OI)(CI)(RX)"
+
+icacls g:\ 
+
+
+# 2. Downgrade Authenticated Users and Users to Read & Execute only
+#BUG
+icacls G:\ /grant:r "NT AUTHORITY\Authenticated Users:(OI)(CI)(RX)"
+#BUG
+
+#BUG
+icacls G:\ /grant:r "BUILTIN\Users:(OI)(CI)(RX)"
+#BUG
+
+icacls g:\
+
+# after grant
+# 3. Explicitly wipe out Everyone (just as a safety net)
+icacls G:\ /remove "Everyone"
+
+echo '-------- section --------'
+
 
 mkdir d:\2222
 mkdir d:\000doc24
