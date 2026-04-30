@@ -91,6 +91,12 @@ win+q ise admin
 
 echo '-------- section --------'
 
+reagentc /info
+
+
+echo '-------- section --------'
+
+
 mkdir d:\2222
 mkdir d:\000doc24
 
