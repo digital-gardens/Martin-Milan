@@ -1,8 +1,33 @@
 ---
-tags: 20260430
+songs:
+  - 
+emojis: //// 💚 ⏰ 🎵 🎵
+blissymbols: ////  _💚_ 
+tags:  20260430 ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music 
+title: 20260430 zda existují pacienti jako já
 ---
 
-converted-to-google-docs
+# komentáře
+- komentáře za 4  lomítky je možné ignorovat //// VZDÁLENÝ KOMENTÁŘ
+- komentáře za 8 a více lomítky je potřeba ignorovat //////// VELMI VZDÁLENÝ KOMENTÁŘ
+
+//// upload dir 011 to google drive 011/
+//////011-20260430-POMOC.publ.dir 
+////// delete 0004
+
+//// future?? this file is in subdir converted-to-google-docs
+
+//// nový je dokument 20240430 
+//// folder 011-POMOC.publ.dir je trochu starší
+
+//////// ... lze použít texty v folderu  "C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir"  - dám kopii na google disk a budu ho sdílet s AI
+
+
+# links 
+//// [[0b-vyhýbat-se-nemocnici.publ.md]]
+
+
+# Zda existují pacienti jako já
 
 hledám
 texty
@@ -10,15 +35,7 @@ které píšou sami pacienti
 i anglicky
 
 
-# Zda existují pacienti jako já
 
-// pro AI
-... lze použít texty v folderu 
-"C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir"
-- později dám kopii na google disk a budu ho sdílet s AI
-
-- komentáře za 4  lomítky je možné ignorovat //// VZDÁLENÝ KOMENTÁŘ
-- komentáře za 8 a více lomítky je potřeba ignorovat //////// VELMI VZDÁLENÝ KOMENTÁŘ
 
 # mám diagnostikovánu
 .. velmi těžkou poruchu s rysy
