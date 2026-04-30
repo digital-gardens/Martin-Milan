@@ -204,6 +204,34 @@ acceptance:
 indented structured prose
 indented structured English text
 
+# 260430 
+an example of ... tree prose? tree text? - how to call it? - in reddit markdown - emsp characters
+
+//
+I would love to find 
+several people
+who want
+to remake Markdown
+
+
+my dream 
+is better support for 
+
+- short lines 
+
+- tree structures in text
+
+https://www.reddit.com/r/tree_notations/comments/1szq58y/an_example_of_tree_prose_tree_text_how_to_call_it/
+
+
+
+example 
+
+
+
+
+
+tree structures in text
 
 
 # treenotations
