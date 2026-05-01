@@ -8,6 +8,8 @@ tags:  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music
 title:
 ---
 
+# novější verze https://docs.google.com/document/d/1FSZibnKUBSyaiVhzt4rlLWvgBhwc17rOZ-0O7z-tn4M/edit?tab=t.0 
+
 
 # links 
 [[0b-vyhýbat-se-nemocnici.publ.md]]
@@ -88,7 +90,8 @@ klávesa Print Screen.
 - [[0119pozdeji.publ.md]]
 
 - stará verze C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\0119-potreboval-bych-pomoc.publ.md
-- novější verze https://docs.google.com/document/d/1FSZibnKUBSyaiVhzt4rlLWvgBhwc17rOZ-0O7z-tn4M/edit?tab=t.0 
+
+# novější verze https://docs.google.com/document/d/1FSZibnKUBSyaiVhzt4rlLWvgBhwc17rOZ-0O7z-tn4M/edit?tab=t.0 
 
 - tab indent experiment
 	aa

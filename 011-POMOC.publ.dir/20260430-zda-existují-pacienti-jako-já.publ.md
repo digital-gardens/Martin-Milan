@@ -11,16 +11,24 @@ title: 20260430 zda existují pacienti jako já
 - komentáře za 4  lomítky je možné ignorovat //// VZDÁLENÝ KOMENTÁŘ
 - komentáře za 8 a více lomítky je potřeba ignorovat //////// VELMI VZDÁLENÝ KOMENTÁŘ
 
-//// upload dir 011 to google drive 011/
-//////011-20260430-POMOC.publ.dir 
-////// delete 0004
-
-//// future?? this file is in subdir converted-to-google-docs
-
+//// gemini + folder 011-POMOC.publ.dir
+//// code ... upload folder or github repo
+////// jinak asi bere jen 1 soubory .. predam zip ... zda zvlada ceske znaky
 //// nový je dokument 20240430 
-//// folder 011-POMOC.publ.dir je trochu starší
+//// zbytek folderu 011-POMOC.publ.dir je podstatně starší
+bash
+wc -l 011-POMOC.publ.dir/*.md
+wc -l *.md
+wc --help
 
 //////// ... lze použít texty v folderu  "C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir"  - dám kopii na google disk a budu ho sdílet s AI
+
+////////obsolete
+//////// upload dir 011 to google drive 011/ 011
+//////////011-20260430-POMOC.publ.dir 
+////////// delete 0004
+
+////// future?? this file is in subdir converted-to-google-docs
 
 
 # links 
