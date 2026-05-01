@@ -15,13 +15,16 @@
 
 
 ## not ignore my publ  files
-#!*.md
+######!*.md
 !*.f[0-9].*
 !*.f1[0-9].*
 !*.publ.*
+
+## not ignore ~~ control files
 !README.*
 !.gitignore
 !AutoHotkey.ahk
+!settings.json
 
 
 #OLD*/

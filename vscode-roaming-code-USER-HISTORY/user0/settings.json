@@ -1,0 +1,6 @@
+{
+    "window.zoomLevel": 0,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "files.autoSave": "afterDelay",
+    "git.path": "C:/Program Files/Git/cmd/git.exe"
+}

@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 1,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+    "files.autoSave": "afterDelay",
+    "git.path": "C:/Program Files/Git/cmd/git.exe",
+    /////////"git.enableSmartCommit": true
+}

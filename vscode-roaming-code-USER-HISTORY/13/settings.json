@@ -1,0 +1,100 @@
+{
+
+    //warning: CRLF will be replaced by LF in AppData/Roaming/Code/User/settings.json.
+
+    // uz jsem to pridal do git
+
+    "files.eol": "\n",
+    "files.trimTrailingWhitespace": true,
+	"terminal.integrated.rightClickBehavior": "default",
+
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "git.path": "C:/Program Files/Git/cmd/git.exe",
+    "files.associations": {
+        "*.w": "scheme",
+        "*.sbcl_history": "clojure",
+        "*.opt2": "shellscript"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "solid",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "C:\\WINDOWS\\System32\\wsl.exe (migrated)": {
+            "path": "C:\\WINDOWS\\System32\\wsl.exe",
+            "args": []
+        }
+    },
+    "javascript.suggest.completeFunctionCalls": true,
+    "python.autoComplete.addBrackets": true,
+    "powershell.promptToUpdatePowerShell": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.olean": true,
+        "**/node_modules": true
+    },
+    "spellright.documentTypes": [
+
+        "markdown",
+        "latex",
+        //"plaintext"
+    ],
+    "spellright.ignoreFiles": [
+
+        "**/.gitignore",
+        "**/.spellignore"
+    ],
+    "spellright.ignoreRegExps": [
+
+    ],
+    "spellright.ignoreRegExpsByClass": {
+
+    },
+
+    "spellright.language": [
+        "en",
+        "cs",
+    ],
+
+    "spellright.languageContext": {
+
+    },
+    "spellright.recheckOnSave": false,
+    "markdown.extension.toc.updateOnSave": false,
+    "markdown.extension.toc.omittedFromToc": {
+
+    },
+
+    "editor.wordWrap": "on",
+
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true, // false,
+        "strings": true, //false
+    },
+
+    "[markdown]": {
+
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions":  {
+            "other": true,
+            "comments": true, // false,
+            "strings": true, //false
+        },
+    },
+    "python.analysis.completeFunctionParens": true,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    /////////"git.enableSmartCommit": true
+}
