@@ -1,3 +1,4 @@
+
 2sp.md.2sp-format--260501-260314-tree-markdown.publ.2sp.md
 *.2sp.md
 *.md.2sp
@@ -5,11 +6,15 @@
 C:\Users\marti\OneDrive\Dokumenty\260314-text-formats-with-short-lines.7.tree\26\260314-text-formats-with-short-lines.publ.md
 
 260501-260314
-my personal extension of markdown, with a trivial preprocessor to convert it to regular markdown, that would be more suitable for prose with short lines and tree structures in text
+my personal extension of markdown, 
+i am going to develop 
+a trivial preprocessor 
+in js 
+to convert it to regular markdown, that would be more suitable for prose with short lines and tree structures in text
+
 indents by 2 spaces 
 
 # example 
-
 
 ---
 I have started  
@@ -45,13 +50,13 @@ prose styles with short lines
 
 
 
-# .gitignore
+# .gitignore done
 !settings.json
 markdown
 spaces: 2
 
 
-ai
+# ai
 my personal dream project is to create a new markdown format, that would be more suitable for prose with short lines and tree structures in text, and to make it popular on reddit and elsewhere, and to make it supported by various tools, e.g. pandoc, vscode markdown extension, etc.
 
 

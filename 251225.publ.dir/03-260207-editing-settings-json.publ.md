@@ -1,8 +1,11 @@
 03-260207-editing-settings-json.publ.md
 
+# .gitignore done
+!settings.json
+
 if settings.json has to be changed
   write the planned edits into this    [[03-260207-editing-settings-json.publ.md]]
-	at the end of the file 
+  	at the end of the file 
   then go back here
 
 
@@ -14,8 +17,10 @@ if settings.json has to be changed
 
 
 
-	  // ctrl`
-	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
+
+# press  ctrl`   .... do it often 
+# menu/problems
+#	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
 		// rclick fix, explain,
 
 
@@ -23,6 +28,11 @@ if settings.json has to be changed
 wait minutes 
 or run the script, that copies settings.json to onedrive
 
+
+win+q
+robocopy 
+mir.f5
+00
 
 f8
 exit
@@ -33,8 +43,12 @@ pwsh
 ^r
 robocopy 
 
-ghd
-onedrive of dee
+
+---
+
+# or if lazy, then save settings.json in onedrive/doku, and ctrl+w 
+
+# ghd  onedrive of dee
 
 once more maybe
 C:\Users\marti\OneDrive\00\Robocopy---c-onedrive---d-mir.f5.cmd
