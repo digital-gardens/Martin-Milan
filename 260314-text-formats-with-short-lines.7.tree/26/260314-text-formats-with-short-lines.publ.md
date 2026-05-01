@@ -204,6 +204,11 @@ acceptance:
 indented structured prose
 indented structured English text
 
+
+# // 260314-260501-20260425-2-tree .. imagine  ... tree in markdown REFORM ..new files have 2 spaces, old files have tabs
+
+[[2-tree--REFORM--my-markdown--260314--260501--20260425.publ.md]]
+
 # 260430 
 an example of ... tree prose? tree text? - how to call it? - in reddit markdown - emsp characters
 
