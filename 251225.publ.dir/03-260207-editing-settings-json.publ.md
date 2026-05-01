@@ -18,7 +18,9 @@ if settings.json has to be changed
 
 
 
-# press  ctrl`   .... do it often 
+#  .... do it often 
+# menu/view/problems
+# or press  ctrl` 
 # menu/problems
 #	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
 		// rclick fix, explain,
@@ -60,12 +62,13 @@ git push
 check if the file is updated 
 // related https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
 
-debug
+
+# debug
 // related file:///C:\Users\marti\OneDrive\tar-exe\c\Users\marti\AppData\Roaming\Code\User\settings.json
 
 
 
-line 1
+# line 1
 // DONT  EDIT setting.json  IN AN EXPERIMENTAL WORKSPACE 
 
 // file:///C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\03-260207-editing-settings-json.publ.md
@@ -91,7 +94,11 @@ line 1
 
 
 
-260207
+
+
+
+
+# 260207
 line 167
     "markdown.extension.toc.updateOnSave": false,   // to be lightweight
     "markdown.extension.toc.updateOnSave": false,   // to be lightweight? // to prevent various bugs and data loss when the extension tries to update the file without user explicitly asking for it  ..    file:///C:\Users\marti\OneDrive\Dokumenty\260207-vscode-markdown-toc-bug-hell.publ.md
@@ -104,6 +111,8 @@ line 167
 	  // ctrl`
 	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
 		// rclick fix, explain,
+
+
 
 
 
