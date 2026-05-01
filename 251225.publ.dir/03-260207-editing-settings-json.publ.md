@@ -1,7 +1,11 @@
 03-260207-editing-settings-json.publ.md
 
 if settings.json has to be changed
-  write the planned edits here   [[03-260207-editing-settings-json.publ.md]]
+  write the planned edits into this    [[03-260207-editing-settings-json.publ.md]]
+	at the end of the file 
+  then go back here
+
+
   push this file to git
 
 // DONT  EDIT setting.json  IN AN EXPERIMENTAL WORKSPACE 
@@ -86,3 +90,26 @@ line 167
 	  // ctrl`
 	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
 		// rclick fix, explain,
+
+
+
+# 20260425 imagine
+
+260501
+
+
+    "[markdown]": {
+
+	// 260501.. 20260425 imagine  ... tree in markdown REFORM ..new files have 2 spaces, old files have tabs
+		////// 2491 disabled because .hash.tsv in markdown needs tabs
+		//// 248L added
+        "editor.insertSpaces": true,
+        //"editor.insertSpaces": false,
+
+        "editor.tabSize": 2,
+        //"editor.tabSize": 8,
+        
+	"editor.detectIndentation": true,  // old files have tabs
+        //"editor.detectIndentation": false,
+
+
