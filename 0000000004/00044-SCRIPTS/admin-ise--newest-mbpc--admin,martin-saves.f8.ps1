@@ -93,6 +93,8 @@ echo '-------- section --------'
 
 reagentc /info
 
+chkdsk d:
+
 
 echo '-------- section --------'
 
@@ -100,6 +102,8 @@ echo '-------- section --------'
 
 # my suggestion , version 3
 
+cmd /c dir f:\ 
+icacls f:\ 
 icacls g:\ 
 
 #icacls g:\ /grant "SYSTEM:(OI)(CI)F"
@@ -107,9 +111,12 @@ icacls g:\
 #icacls g:\ /remove "Everyone"
 #icacls g:\ /remove "Users"   # ?
 
+icacls f:\ /remove "NT AUTHORITY\Authenticated Users"
+icacls f:\ /grant "NT AUTHORITY\Authenticated Users:(OI)(CI)(RX)"
 icacls G:\ /remove "NT AUTHORITY\Authenticated Users"
 icacls g:\ /grant "NT AUTHORITY\Authenticated Users:(OI)(CI)(RX)"
 
+icacls f:\ 
 icacls g:\ 
 
 
