@@ -1,6 +1,17 @@
 2605 clone dee.publ.md
 
 
+switch off search indexing
+f:
+g:
+
+switch off antivirus for f: ?
+temporarily for g:?
+
+switch windows user 
+
+
+
 ```powershell
 
 chkdsk d:
