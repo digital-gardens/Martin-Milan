@@ -96,6 +96,17 @@ reagentc /info
 chkdsk d:
 
 
+net stop wsearch
+
+get-process SearchIndexer
+taskkill /F /IM SearchIndexer.exe /T
+
+cmd  /c sc config wsearch start= disabled
+taskkill /F /IM SearchIndexer.exe /T
+
+
+
+
 echo '-------- section --------'
 
 # tags: 20260428 430.0101 disks icacls 
