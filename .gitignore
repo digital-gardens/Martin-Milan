@@ -5,6 +5,13 @@
 
 # i have ROUGHLY fixed bug 251127.13  nested .gitignore files in OneDrive Dokumenty folder ... more comments in other files
 
+
+
+
+# problem id 260504.1819 ... WARNING .. a HIGHLY UNUSUAL .gitignore ... makes many files, that are significant, ignored by git
+
+
+
 # Ignore all files
 *
 # but not directories
