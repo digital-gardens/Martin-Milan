@@ -1,37 +1,44 @@
-fsdklfd;lsfk history-w--file.publ.txt
+
 echo ' echo  q.txt '  |dos2unix
 echo ' echo  *.txt '  |dos2unix
 echo ' echo  q.txt '  |dos2unix|bash
 echo ' echo  *.txt '  |dos2unix
 echo ' echo  *.txt '  |dos2unix|bash
 exit
+
+
 wc "I:\GIT-bk04\tc.publ.txt"
 split -l 5000 "I:\GIT-bk04\tc.publ.txt" "I:\GIT-bk04\tc.publ.part-"
 iconv -f utf-16 -t utf-8 "I:\GIT-bk04\tc.publ.txt" > "I:\GIT-bk04\tc.publ.utf8.txt"
 sort -u "I:\GIT-bk04\tc.publ.utf8.txt" > "I:\GIT-bk04\tc.publ.utf8.sorted.txt"
 
+
 git status
 git status|clip
 
+
+#fail
 git init
 cat .git
 mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-old2
-
 git init
 git init --separate-git-dir=/d/GIT-bk04/Dokumenty.git
 mkdir -p /d/GIT-bk04/Dokumenty.git
 git init --separate-git-dir=/d/GIT-bk04/Dokumenty.git
 
-mv -iv .git .git-old2
-n
 
+
+mv -iv .git .git-old3
+n
+y
 
 
 git init --separate-git-dir=/d/GIT-bk04/Dokumenty.git
 
-
 git remote add origin https://github.com/digital-gardens/Martin-Milan
 
+
+#fail
 git pull
 git pull origin main
 git status
@@ -47,9 +54,9 @@ Resolving deltas: 100% (1484/1484), done.
 From https://github.com/digital-gardens/Martin-Milan
  * branch            main       -> FETCH_HEAD
  * [new branch]      main       -> origin/main
-
 marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
 $
+
 
 
 
@@ -77,7 +84,7 @@ git status|clip
 du -sk /d/GIT-bk04/Dokumenty.git
 ls -l /d/GIT-bk04/*Dokumenty.git*
 ls -ld /d/GIT-bk04/*Dokumenty.git*
-du -sk  /d/GIT-bk04/*Dokumenty.git*
+
 
 
 du -sk  /d/GIT-bk04/*Dokumenty.git*
@@ -85,6 +92,9 @@ du -sk  /d/GIT-bk04/*Dokumenty.git*
 
 mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-1159
 mv -i -v /d/GIT-bk04/renamed--Dokumenty.git  /d/GIT-bk04/Dokumenty.git
+
+
+
 git status
 git status|wc -l
 git status|clip
@@ -99,12 +109,16 @@ git diff --name-status origin/main
 
 
 
+
+
 mkdir -p ~/0tmp/260504-git-reset--mixed-origin-main-safety-test
 find . -name '260504*' -exec echo  cp -iv {} ~/0tmp/260504-git-reset--mixed-origin-main-safety-test/ \;
 find . -name '260504*' -exec echo aaaaAAA  cp -iv {} ~/0tmp/260504-git-reset--mixed-origin-main-safety-test/ aaaaAAA   \;
 find . -name '260504*' -exec  cp -iv {} ~/0tmp/260504-git-reset--mixed-origin-main-safety-test/   \;
 echo find . -name '260504*' -exec echo aaaaAAA  cp -iv {} ~/0tmp/260504-git-reset--mixed-origin-main-safety-test/ aaaaAAA   \;
 git status
+
+
 
 
 echo git reset --mixed origin/main
@@ -135,6 +149,9 @@ find . -name '260504*' -exec  cp -iv {} ~/0tmp/260504-git-reset--mixed-origin-ma
 y
 
 history -a
+
+
+
 mkdir -p ~/OneDrive/0tmp-odr/260504-git-reset--mixed-origin-main-safety-test
 find . -name '260504*' -exec  cp -iv {} ~/OneDrive/0tmp-odr/260504-git-reset--mixed-origin-main-safety-test/   \;
 find . -name '260504*' -exec  cp -iv {} ~/OneDrive/0tmp-odr/260504-git-reset--mixed-origin-main-safety-test/   \;
@@ -148,12 +165,16 @@ history
 history -a
 
 
+
+
 history -w ../q
 
 C:\Users\marti\OneDrive\Dokumenty\00\Dokumenty-Robocopy---c-Dokumenty---d-mir.f5.cmd
 
-git reset --mixed origin/main
 
+
+
+git reset --mixed origin/main
 
 marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
 $ git reset --mixed origin/main
@@ -161,21 +182,26 @@ Unstaged changes after reset:
 M       00/Robocopy---c-onedrive---d-mir.f5.cmd
 M       0000000004/00044-SCRIPTS/admin-ise--newest-mbpc--admin,martin-saves.f8.ps1
 M       0404--HLAVNI-ROZCESTNIK--MAIN-INDEX/260301-disks/260502-clone-disk-dee.publ.md
-
 marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
 $
+
+
 
 
     git push --set-upstream origin main
 git push
 
+
+
+
 history -a
 
-code ../q
 history -w ../q
+code ../q
 history -w ../history-w---file.publ.sh.txt
 
 C:\Users\marti\OneDrive\Dokumenty\00\Dokumenty-Robocopy---c-Dokumenty---d-mir.f5.cmd
 1.289 g bytes
-Robocopy
+Robocopy .cmd
+3 g bytes
 
