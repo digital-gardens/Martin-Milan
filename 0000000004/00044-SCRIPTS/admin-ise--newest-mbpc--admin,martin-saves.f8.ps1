@@ -93,7 +93,15 @@ echo '-------- section --------'
 
 reagentc /info
 
+chkdsk c:
 chkdsk d:
+
+chkdsk e:
+
+chkdsk f:
+
+chkdsk g:
+chkdsk i:
 
 
 net stop wsearch

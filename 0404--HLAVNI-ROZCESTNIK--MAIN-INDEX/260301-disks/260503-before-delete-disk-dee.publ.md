@@ -1,11 +1,41 @@
 260503-before-delete-disk-dee.publ.md
 
+icacls /? |clip
 
 
 ```powershell
 
+$(
+  
+  icacls i:\
+  icacls d:\
+  
+  icacls i:\*  
+  icacls d:\*
+
+  icacls i:\Users\*  
+  icacls d:\Users\*
+  
+) >i260503-icacls-before-delete-disk-dee.publ.icacls.txt
+
+totalcmd.exe 
+  |clip
+
+```
+
+powershell
+win q
+ise
+```powershell
+
+chkdsk c:
+chkdsk d:
+chkdsk e:
+
 chkdsk f:
 
+chkdsk g:
+chkdsk i:
 
 ```
 
@@ -27,7 +57,12 @@ only events from today, or from the last 24 hours, what is simpler
 
 
 ```powershell
-Get-WinEvent -FilterHashtable @{LogName='System'; ProviderName='disk'  } | clip
+
+
+Get-WinEvent -FilterHashtable @{LogName='System'; ProviderName='disk'  }
+
+
+ | clip
  | measure-object
 
 Get-WinEvent -FilterHashtable @{LogName='System'; ProviderName='disk'; Level=1,2}  | measure-object
@@ -44,9 +79,14 @@ THE TEXT FILE CONTAINS NULL-BYTES
 
 and (Level=1 or Level=2 or Level=3)
 
+
 cmd
 exit
-wevtutil qe System /q:"*[System[Provider[@Name='disk'] ]]" /f:text > NULLchar-260503-qqqqqdisk-events.publ.txt
+wevtutil qe System /q:"*[System[Provider[@Name='disk'] ]]" /f:text 
+
+> NULLchar-260503-qqqqqdisk-events.publ.txt
+
+
 
 cat NULLchar-260503-qqqqqdisk-events.publ.txt | measure-object
 code NULLchar-260503-qqqqqdisk-events.publ.txt
@@ -58,3 +98,7 @@ wevtutil qe System /q:"*[System[Provider[@Name='disk'] and (Level=1 or Level=2 o
 measure-object
 
 wevtutil qe System /q:"*[System[Provider[@Name='disk'] and (Level=1 or Level=2 or Level=3) and TimeCreated[timediff(@SystemTime) <= 186400000]]]" /f:text
+
+
+
+
