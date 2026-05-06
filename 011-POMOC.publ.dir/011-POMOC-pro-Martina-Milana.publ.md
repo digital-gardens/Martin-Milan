@@ -5,6 +5,7 @@ songs:
 
 emojis:  💚 ⏰ 🎵 🎵
 blissymbols:  _💚_ 
+MMBliss: 💚1 
 SuttonGlyphs:  (lék) [židle stůl] (nota+01)  
 tags:  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music 
 
