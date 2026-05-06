@@ -1,0 +1,89 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+. : File C:\Users\marti\OneDrive\Dokumenty\WindowsPowerShell\profile.ps1 cannot be loaded because running scripts is
+disabled on this system. For more information, see about_Execution_Policies at
+https:/go.microsoft.com/fwlink/?LinkID=135170.
+At line:1 char:3
++ . 'C:\Users\marti\OneDrive\Dokumenty\WindowsPowerShell\profile.ps1'
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : SecurityError: (:) [], PSSecurityException
+    + FullyQualifiedErrorId : UnauthorizedAccess
+Loading personal and system profiles took 691ms.
+PS C:\Users\marti> diskpart.exe
+
+Microsoft DiskPart version 10.0.26100.1150
+
+Copyright (C) Microsoft Corporation.
+On computer: MB-PC
+
+DISKPART> lis dis
+
+  Disk ###  Status         Size     Free     Dyn  Gpt
+  --------  -------------  -------  -------  ---  ---
+  Disk 0    Online          238 GB    76 GB        *
+  Disk 1    Online          476 GB  1009 MB        *
+
+DISKPART> sel dis 0
+
+Disk 0 is now the selected disk.
+
+DISKPART> lis par
+
+  Partition ###  Type              Size     Offset
+  -------------  ----------------  -------  -------
+  Partition 1    System             260 MB  1024 KB
+  Partition 2    Reserved            16 MB   261 MB
+  Partition 3    Primary            147 GB   277 MB
+  Partition 4    Recovery           592 MB   148 GB
+  Partition 6    Primary             11 GB   224 GB
+  Partition 7    Unknown            880 MB   236 GB
+  Partition 8    Recovery           995 MB   237 GB
+
+DISKPART> sel par 4
+
+Partition 4 is now the selected partition.
+
+DISKPART> lis par
+
+  Partition ###  Type              Size     Offset
+  -------------  ----------------  -------  -------
+  Partition 1    System             260 MB  1024 KB
+  Partition 2    Reserved            16 MB   261 MB
+  Partition 3    Primary            147 GB   277 MB
+* Partition 4    Recovery           592 MB   148 GB
+  Partition 6    Primary             11 GB   224 GB
+  Partition 7    Unknown            880 MB   236 GB
+  Partition 8    Recovery           995 MB   237 GB
+
+DISKPART> lis dis
+
+  Disk ###  Status         Size     Free     Dyn  Gpt
+  --------  -------------  -------  -------  ---  ---
+* Disk 0    Online          238 GB    76 GB        *
+  Disk 1    Online          476 GB  1009 MB        *
+
+DISKPART> del par
+
+Virtual Disk Service error:
+Cannot delete a protected partition without the force protected parameter set.
+
+
+DISKPART> del par override
+
+DiskPart successfully deleted the selected partition.
+
+DISKPART> lis par
+
+  Partition ###  Type              Size     Offset
+  -------------  ----------------  -------  -------
+  Partition 1    System             260 MB  1024 KB
+  Partition 2    Reserved            16 MB   261 MB
+  Partition 3    Primary            147 GB   277 MB
+  Partition 6    Primary             11 GB   224 GB
+  Partition 7    Unknown            880 MB   236 GB
+  Partition 8    Recovery           995 MB   237 GB
+
+DISKPART>

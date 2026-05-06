@@ -92,6 +92,13 @@ win+q ise admin
 echo '-------- section --------'
 
 reagentc /info
+reagentc /info|clip
+
+
+
+##diskpart
+
+
 
 chkdsk c:
 chkdsk d:
