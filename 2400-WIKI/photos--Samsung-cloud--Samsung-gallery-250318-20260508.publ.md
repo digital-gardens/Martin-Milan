@@ -28,7 +28,6 @@ number of photos, sum of  size of photos, storage space occupied, backup and syn
 
 
 
-online??
 
 
 ```powershell
@@ -48,14 +47,28 @@ cmd  /c dir  /s   /n  "C:\Users\marti\OneDrive\Obrázky\Camera Roll"   |  findst
 
 cmd  /c dir  /s   /n  "C:\Users\marti\OneDrive\Obrázky\"   |  findstr 'bytes'  |   Tee-Object -Append -FilePath "C:\Users\marti\OneDrive\Dokumenty\dir--findstr--bytes--photos-Obrázky-20260508.publ.txt"
 
+code "C:\Users\marti\OneDrive\Dokumenty\dir--findstr--bytes--photos-Obrázky-20260508.publ.txt"
+
+
+
 
 cmd  /c dir  /s   /n  "C:\Users\milan_rxtipwr\OneDrive\Obrázky"   |   findstr 'bytes'   |   Tee-Object -Append -FilePath "C:\Users\marti\OneDrive\Dokumenty\dir--findstr--bytes--photos-Obrázky-20260508.publ.txt"
 
-
-
-code "C:\Users\marti\OneDrive\Dokumenty\dir--findstr--bytes--photos-Obrázky-20260508.publ.txt"
-
 ```
+
+online??
+https://www.samsungcloud.com/
+login via googlele account
+
+
+onedrive photos
+ai auto tagging?
+
+
+
+
+
+
 
 # android apps ... screenshots
 files by google 

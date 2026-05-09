@@ -180,3 +180,31 @@
                0 File(s)              0 bytes
             2080 File(s)    947,861,354 bytes
               35 Dir(s)  89,396,670,464 bytes free
+               1 File(s)          1,777 bytes
+               1 File(s)          1,981 bytes
+               0 File(s)              0 bytes
+               0 File(s)              0 bytes
+              55 File(s)     57,182,771 bytes
+             582 File(s)    213,280,666 bytes
+               0 File(s)              0 bytes
+              34 File(s)        129,953 bytes
+               0 File(s)              0 bytes
+             571 File(s)    187,612,175 bytes
+             864 File(s)    502,426,659 bytes
+               0 File(s)              0 bytes
+            2108 File(s)    960,635,982 bytes
+              35 Dir(s)  89,390,157,824 bytes free
+               1 File(s)          1,777 bytes
+               1 File(s)          1,981 bytes
+               0 File(s)              0 bytes
+               0 File(s)              0 bytes
+              55 File(s)     57,182,771 bytes
+             630 File(s)    241,311,099 bytes
+               0 File(s)              0 bytes
+              34 File(s)        129,953 bytes
+               0 File(s)              0 bytes
+             571 File(s)    187,612,175 bytes
+             864 File(s)    502,426,659 bytes
+               0 File(s)              0 bytes
+            2156 File(s)    988,666,415 bytes
+              35 Dir(s)  89,099,096,064 bytes free
