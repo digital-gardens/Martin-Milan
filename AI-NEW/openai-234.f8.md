@@ -305,8 +305,81 @@ Credit balance
 $10.00
 Auto recharge is off
 
+
+
+
+
+
+# 20260509-ChatGPT.com-vs-openai.com
+
+https://platform.openai.com/
+
+[[openai-234.f8.md]]
+[[251008-openai-api--completion--sends-whole-file.f8.md]]
+
+
+google
+chat
+
+antifragile
+
+https://mail.google.com/mail/u/0/#search/openai++api++usage/FMfcgzQfCMnJgdGFtMjZDnqHbkjCQWhL
+
+
+> Your API usage this month for Personal (org-hk1WyI7mFwV6qFfFXqo5INqd) has reached the alert configured for 60.00% ($6.00) of your $10.00 budget for this month.
+
+how can I add $10 to my openai account?
+
+// chci teď poslat EDIT:10 dolarů na gpt , jak jsem psal //// https://chat.google.com/room/AAAAKqmKeeY/Rqgaf08d-1s/Rqgaf08d-1s?cls=10  
+// byl jsem líný podívat se do mých *.md, jak se to dělá 
+přihlásil jsem se na ChatGPT.com  
+asi jsem se měl přihlásit na openai.com
+// sliboval jsem kdysi , že budu informovat před tím, než se budu přihlašovat na ChatGPT.com 
+//// už jsem se zase odhlásil
+
+//// téma EDIT # 20260509-ChatGPT.com-vs-openai.com
+
+
+
+
+(
+// malá omluva
+omlouvám se
+
+10
+// chci teď poslat 20 dolarů na gpt 
+// byl jsem líný podívat se do mých *.md, jak se to dělá 
+přihlásil jsem se na ChatGPT.com  
+asi jsem se měl přihlásit na openai.com
+// sliboval jsem kdysi , že budu informovat před tím, než se budu přihlašovat na ChatGPT.com 
+//// už jsem se zase odhlásil
+)
+
+@E
+
+https://chatgpt.com/c/69ff9c71-7ef4-83eb-bdf1-c5755c3a413e
+Add funds to account
+
+
+
+
+
+
+
+
+
+
+
+
+
 # because i am harmed by antidepressants..a quote from yc .. Nothing worked better than exercise, sleep, nicotine, staying hydrated, and coffee. Strategic fasting can also be effective, but you have to be careful with that (like intermittent fasting).”
 
 
 # Changing or switching the authentication method you use to sign in to ChatGPT is not supported, even if you delete your account.
+
+
+
+
+# expire one year from purchase date.
+
 

@@ -431,6 +431,14 @@ what about ms teams?
 
 
 
+# 20260509-ChatGPT.com-vs-openai.com
+
+https://platform.openai.com/
+
+[[openai-234.f8.md]]
+
+
+
 
 # 20260508  android-photos-backup-sync
 [[photos-250318.publ.md]]
@@ -442,7 +450,7 @@ what about ms teams?
 
 
 
-https://www.reddit.com/poststats/1svfrtv/
+# https://www.reddit.com/poststats/1svfrtv/
 
 
 https://www.reddit.com/r/survival_of_our_info/about.json
