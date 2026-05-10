@@ -297,8 +297,8 @@ https://platform.openai.com/usage
 
 
 
-# expire one year from purchase date.
-By continuing you agree to our service credit terms. Paid credits are non-refundable and 
+# expire one year from purchase date. .. of .. Paid credits are non-refundable and 
+By continuing you agree to our service credit terms. 
 
 Pay as you go
 Credit balance
@@ -360,6 +360,10 @@ asi jsem se měl přihlásit na openai.com
 https://chatgpt.com/c/69ff9c71-7ef4-83eb-bdf1-c5755c3a413e
 Add funds to account
 
+#
+openai credits  expire one year from purchase date. .. of .. Paid credits are non-refundable and 
+
+We've updated the billing system for your OpenAI API account. Instead of receiving a bill at the end of the month, you'll now need to pre-purchase credits to use the API. You can add credits to your account by visiting the billing page. To learn more about prepaid billing, please see this help center article prepaid billing.
 
 
 
@@ -380,6 +384,6 @@ Add funds to account
 
 
 
-# expire one year from purchase date.
+# expire one year from purchase date. .. of .. Paid credits are non-refundable and 
 
 
