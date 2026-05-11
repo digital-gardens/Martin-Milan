@@ -564,3 +564,50 @@ mp":"2026-05-11T18:18:19.685Z","userType":"external","entrypoint":"local-agent",
 
 
 
+
+
+
+
+
+Write
+
+Learn
+
+Code
+
+Life stuff
+
+Claude’s choice
+Directory
+
+Skills
+
+Connectors
+
+Plugins
+
+Back
+Gmail
+Draft replies, summarize threads, & search your inbox
+Connect Gmail to Claude to quickly find important emails and understand long conversations. Claude can search through your messages, read entire email threads to give you context, and help you stay on top of your inbox. Perfect for finding that message you remember sending, catching up on email chains you missed, or preparing for meetings.
+
+Developed by Google
+
+Only use connectors from developers you trust. Anthropic does not control which tools developers make available and cannot verify that they will work as intended or that they won't change.
+
+Tools
+5
+create_draft
+get_thread
+list_drafts
+list_labels
+search_threads
+Details
+Author
+Google
+Connector URL
+https://gmailmcp.googleapis.com/mcp/v1
+More info
+Documentation
+Support
+Privacy Policy

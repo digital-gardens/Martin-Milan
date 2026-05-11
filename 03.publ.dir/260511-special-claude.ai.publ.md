@@ -2,8 +2,39 @@
 260511-special-claude.ai.publ.md
 
 
+
+
+
+
+
+
+
+https://claude.ai/settings/connectors
++Let Claude surface connectors from the directory that may be relevant to your conversation.
+
+
+
+https://claude.ai/directory/connectors/2701e52f-b826-4aaf-8b25-11f2a97c98b0
+
+Tools
+5
+create_draft
+get_thread
+list_drafts
+list_labels
+search_threads
+Details
+Author
+Google
+
+
+
+online too
 https://claude.ai/customize/skills
 
+
+
+not online
 https://claude.ai/settings/desktop/extensions/advanced
 -Automatically update extensions when new versions are available. If disabled, you’ll need to manually update extensions.
 
@@ -42,6 +73,13 @@ Screen recording
 
 
 
+https://claude.ai/directory/connectors/ant.dir.ant.anthropic.filesystem
+
+
+
+
+
+
 
 
 "C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc"
@@ -51,5 +89,8 @@ Screen recording
 
 dir c:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\
 
+
+
+Claude prompting guide.md
 
 
