@@ -20,6 +20,16 @@ links:
 ---
 
 
+# 260511 ledovi muzi Pankrác, Servác a Bonifác
+
+https://www.chmi.cz/predpoved-pocasi/praha/dalsi-dny
+
+Servác přinese četné přízemní mrazíky.
+
+hodnoty ve výšce 2 metrů nad zemí, které udávají meteorologové, jsou pro běžné venkovní rozvody vody zrádné. V noci při vyjasnění a klidném počasí totiž dochází k tzv. radiačnímu ochlazování u země, kdy těsně nad povrchem, u zdiva nebo v místech, kam může „stékat“ studený vzduch, bývá o 3 až 5 stupňů chladněji než ve dvou metrech. Meteorologové tomu říkají přízemní mrazíky.
+
+
+
 
 
 
