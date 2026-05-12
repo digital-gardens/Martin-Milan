@@ -19,7 +19,7 @@ Toggle extended thinking
 
 
 https://claude.ai/settings/connectors
-+Let Claude surface connectors from the directory that may be relevant to your conversation.
+yy+Let Claude surface connectors from the directory that may be relevant to your conversation.
 
 
 
@@ -43,10 +43,6 @@ https://claude.ai/customize/skills
 
 
 
-not online
-https://claude.ai/settings/desktop/extensions/advanced
--Automatically update extensions when new versions are available. If disabled, you’ll need to manually update extensions.
-
 
 
 
@@ -54,11 +50,13 @@ https://claude.ai/customize/plugins/engineering%40knowledge-work-plugins/connect
 
 
 https://claude.ai/customize/connectors
--for-now
+nn -for-now
+
 Claude in Chrome lets Claude handle work in the browser via Claude Desktop. Once enabled, browser tools are always available to Claude. Only grant full permissions for trusted sites. See more safety tips.
 
 
 
+nn 
 -Let Claude work on tasks from your phone using this computer. When off, your phone won't be able to dispatch work here.
 
 
@@ -75,7 +73,7 @@ Screen recording
 
 
 
-
+nn
 -Keep Claude running in the system tray
 
 
@@ -85,6 +83,10 @@ Screen recording
 https://claude.ai/directory/connectors/ant.dir.ant.anthropic.filesystem
 
 
+
+not online
+https://claude.ai/settings/desktop/extensions/advanced
+nn-Automatically update extensions when new versions are available. If disabled, you’ll need to manually update extensions.
 
 
 
