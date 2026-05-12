@@ -50,7 +50,7 @@ Prevent your computer from idle-sleeping while Claude is open so scheduled tasks
 
 Computer useBeta
 
-yy    Let Claude take screenshots and control your keyboard and mouse in apps you allow. [Learn more](https://support.claude.com/en/articles/14128542)
+yy aa    Let Claude take screenshots and control your keyboard and mouse in apps you allow. [Learn more](https://support.claude.com/en/articles/14128542)
 
 
 

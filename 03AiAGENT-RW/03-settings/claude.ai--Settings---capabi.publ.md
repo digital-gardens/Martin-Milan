@@ -10,10 +10,9 @@ tags:
 ---
 ### Memory
 
-todo 
-yy Allow Claude to search for relevant details in past chats. [Learn more](https://support.claude.com/en/articles/11817273-using-claude-s-chat-search-and-memory-to-build-on-previous-context).
+dd yy Allow Claude to search for relevant details in past chats. [Learn more](https://support.claude.com/en/articles/11817273-using-claude-s-chat-search-and-memory-to-build-on-previous-context).
 
-yy Generate memory from chat history
+dd yy Generate memory from chat history
 
 Allow Claude to remember relevant context from your chats. Memory includes your entire chat history with Claude. [Learn more](https://support.anthropic.com/articles/11817273-how-does-claude-s-memory-work).
 
@@ -28,7 +27,8 @@ Tool access mode
 
 Controls how connector tools are loaded in new conversations.
 
-yy Let Claude surface connectors from the directory that may be relevant to your conversation.
+done
+done dd yy Let Claude surface connectors from the directory that may be relevant to your conversation.
 
 ### Visuals
 
