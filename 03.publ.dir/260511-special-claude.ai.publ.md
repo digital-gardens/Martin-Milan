@@ -1,7 +1,15 @@
+https://claude.ai/login?from=logout
+success 20260512
+login in edge of only G/ MN
+
+
+
+
 
 260511-special-claude.ai.publ.md
 
 
+Toggle extended thinking
 
 
 
@@ -92,5 +100,9 @@ dir c:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roamin
 
 
 Claude prompting guide.md
+
+
+C:\Users\marti\AppData\Local\Packages\CLAUDE~1\LOCALC~1\Roaming\Claude\LOCAL-~1\CFBBDA~1\85112E~1\LOCAL_~1\CLAUDE~1\projects\C--USE~1\F55B63~1\TOOL-R~1
+
 
 
