@@ -5,6 +5,15 @@
 
 # topic 260406
 
+## 20260512 related 
+
+google photos
+260406  20260512  wonder joy success dopamine opens possibilities happy fun pleasure good feelings útěcha úleva satisfaction  beauty
+https://photos.google.com/album/AF1QipNc7qT9tTaxhZeKumslGVKLvgps9R5uCLTJ4dfz
+
+
+
+
 # how to name this topic?
 
 joy

@@ -229,6 +229,14 @@ EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT
 
 
 
+# topic 260406 beauty in computing, in math, in math philosophy
+## 20260512 related 
+google photos
+260406  20260512  wonder joy success dopamine opens possibilities happy fun pleasure good feelings útěcha úleva satisfaction  beauty
+https://photos.google.com/album/AF1QipNc7qT9tTaxhZeKumslGVKLvgps9R5uCLTJ4dfz
+
+
+
 
 
 # [[20260425-Imagine-an-archive-of-family-texts-in-computer-form-searchable-for-centuries.publ.md]]

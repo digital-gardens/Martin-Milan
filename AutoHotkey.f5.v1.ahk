@@ -469,9 +469,13 @@ Launch_App1::Send ^a
 
 
 
-
+; file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+; log contains the word.. reload
+;TEST  test :    ^#{space}  win+q auto  AutoHotkey run the app ... it asks to reload this ahk file
 
 ;============================== Click_and_Copy  ==============================
+
+; claude
 
 ; in AutoHotkey.ahk  v1
 ; how can i write
@@ -489,6 +493,7 @@ Launch_App1::Send ^a
 ; 20260512
 ; #IfWinActive ahk_exe msedge.exe
 ;	#IfWinActive ahk_exe chrome.exe
+;#if any winactive
 #IfWinActive
 
 ;AutoHotkey
