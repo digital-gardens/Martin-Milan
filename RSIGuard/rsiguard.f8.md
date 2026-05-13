@@ -5,11 +5,20 @@ exit
 
 # jde ^a ^c  
 
-Restrict me to 
-20
- minutes of activity per 
-30
+
+
+Force breaks to be at least 
+2
  minutes
+
+
+Force breaks to be at least 
+1
+ minutes
+
+
+
+
 
 Restrict me to 
 50
@@ -17,6 +26,27 @@ Restrict me to
 60
  minutes
 
+Restrict me to 
+25
+ minutes of activity per 
+30
+ minutes
+
+Restrict me to 
+20
+ minutes of activity per 
+24
+ minutes
+
+
+
+
+
+Restrict me to 
+10
+ minutes of activity per 
+12
+ minutes
 
 
 
