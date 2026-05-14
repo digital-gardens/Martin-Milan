@@ -8,6 +8,22 @@ title: 260125-merely-start-a-big-topic.meta.publ.md
 ---
 
 
+
+
+# 20260504
+[[20260504]]
+
+
+
+
+# 20260504   YYYYMMDD   yymmdd
+[[20260504]]
+
+
+
+
+
+
 # LINKS 
 [[0b-vyhýbat-se-nemocnici.publ.md]]
 

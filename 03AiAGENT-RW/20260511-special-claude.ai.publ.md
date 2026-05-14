@@ -6,6 +6,7 @@ eol test aaaa
 
 knowledge work 
 
+[[20260504]]
 
 
 "C:\Users\marti\OneDrive\Dokumenty\011-POMOC.devel-20260513\Screenshot (1127).png"

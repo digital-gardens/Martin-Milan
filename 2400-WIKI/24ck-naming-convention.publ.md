@@ -100,7 +100,18 @@ grep -i '[-]{0,5}b'
 
 ```
 
+
+
+
+# 20260504   YYYYMMDD   yymmdd
+[[20260504]]
+
+
+
 # 24ck
+
+
+
 
 naming
 yymmdd
