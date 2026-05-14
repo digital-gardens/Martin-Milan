@@ -438,6 +438,11 @@ init
 bash
 git init --separate-git-dir=/d/GIT-bk04/pokus251127_19.git
 
+
+
+
+
+
 git ls-files -vv | wc -l
 
 cd "D:\GIT-bk04\251127"

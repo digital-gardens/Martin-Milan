@@ -76,7 +76,7 @@ D:\0004-LINKS\OneDrive\textutils.node-218\vsc-ext\.gitignore
 
 
 https://github.com/martin12333/Dokumenty
-
+moved to digital-gardens/Martin-Milan
 
 todo
 put into
@@ -97,8 +97,13 @@ git commit  -vv   -m "desperate backup "
 
 init
 ```sh
-bash
+bash    
 git init --separate-git-dir=/d/GIT-bk04/Dokumenty.git
+
+# 20260514   copy elesewhere,    [[260504.1022 now git doesnt work on repos, that have separate git dir pointing to dee.publ.md]]
+
+
+
 
 
 #cd "C:\Users\marti\OneDrive\Dokumenty"
