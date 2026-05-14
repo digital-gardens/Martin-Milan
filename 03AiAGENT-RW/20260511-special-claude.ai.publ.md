@@ -78,6 +78,10 @@ not online
 nnn 
 -Let Claude work on tasks from your phone using this computer. When off, your phone won't be able to dispatch work here.
 
+Instructions here apply to all Cowork sessions. Use this for preferences, conventions, or context that Claude should always know.
+
+
+
 
 
 Let Claude take screenshots and control your keyboard and mouse in apps you allow. Learn more
