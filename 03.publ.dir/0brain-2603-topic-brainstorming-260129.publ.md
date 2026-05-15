@@ -230,6 +230,9 @@ zbývají 2 _? problémy
 
 
 
+
+
+
 # voyager This means our previous listing — with 160,000+ users and 700–800 reviews — is gone, at least for now. It's a real loss, and we're genuinely sad about it. A huge thank-you to everyone who supported us there. We hope you'll follow us to the new home and continue the journey together.
 
 
