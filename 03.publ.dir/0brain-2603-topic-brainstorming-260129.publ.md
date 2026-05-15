@@ -212,15 +212,28 @@ zbývají 2 _? problémy
 
 
 
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
+
+
+
 # 20260515.jóga..mudry..vědecké.vysvětlení.publ.md
 [[20260515.jóga..mudry..vědecké.vysvětlení.publ.md]]  
+
+
+
+[[aaa youtube transcript Beseda na téma demence seniorů a jak ji rozpoznat.publ.md]]
+
+
 
 
 # voyager This means our previous listing — with 160,000+ users and 700–800 reviews — is gone, at least for now. It's a real loss, and we're genuinely sad about it. A huge thank-you to everyone who supported us there. We hope you'll follow us to the new home and continue the journey together.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
 
 
 # scan file:///C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\04-topic-brainstorming-260129.publ.md
