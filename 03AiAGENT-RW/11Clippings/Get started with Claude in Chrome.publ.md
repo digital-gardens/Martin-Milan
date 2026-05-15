@@ -98,7 +98,7 @@ aaa Completing these steps will add Claude in Chrome to the “Connectors” dro
 
 ### Record a workflow
 
-aaaaa     Teach Claude a workflow by recording the steps yourself, and Claude learns to repeat them. This is useful for repetitive browser tasks that follow the same pattern each time. To record a workflow:
+aaaaaa     Teach Claude a workflow by recording the steps yourself, and Claude learns to repeat them. This is useful for repetitive browser tasks that follow the same pattern each time. To record a workflow:
 
 1. Click the record icon in the extension panel.
 2. Perform the steps you want Claude to learn.
@@ -151,23 +151,23 @@ The Claude icon will appear in your Chrome toolbar. Click it to open Claude in a
 
 You will need to grant Claude in Chrome the following permissions to install and use the extension:
 
-| **Permission** | **Why Claude Needs This** |
-| --- | --- |
-| sidePanel | This lets Claude appear as a panel on the side of your browser, so you can chat with Claude while browsing any website. |
-| storage | This lets Claude save your preferences so they're still there when you close and reopen your browser. |
-| scripting | This lets Claude read text on webpages so it can help you with tasks. |
-| debugger | This is what allows Claude to actually control your browser – clicking buttons, typing text, and taking screenshots – when you ask it to complete tasks for you. |
-| tabGroups | This lets Claude organize tabs it opens into a separate group with a different color, so you can easily tell which tabs Claude is using versus your personal browsing. |
-| tabs | This lets Claude open, close, and switch between browser tabs when completing tasks for you. |
-| alarms | This lets Claude run scheduled tasks at specific times you choose – like checking something on a website at a set time every day. |
-| notifications | This lets Claude send you a notification on your computer when it finishes a task or needs you to take action. |
-| system.display | This lets Claude know the size of your screen so it can accurately click in the right places when automating tasks. |
-| webNavigation | This lets Claude intervene if it detects that you are on a high-risk website. |
-| declarativeNetRequestWithHostAccess | This lets the extension identify itself to Anthropic's servers, helping us understand how the browser extension is being used and troubleshoot any issues. |
-| offscreen | This lets Claude play notification sounds in the background when your attention is needed. |
-| nativeMessaging | This will let the extension seamlessly integrate with other Anthropic products on your computer like Claude Desktop or Claude Code once we enable that capability. |
-| downloads | This lets Claude download files from websites and open them when you ask it to save or work with files as part of an automated workflow. |
-| unlimitedStorage | This lets Claude store more data locally (like complex instructions for a detailed workflow) beyond the normal limits that Chrome sets for extensions. |
+| **Permission**                      | **Why Claude Needs This**                                                                                                                                                 |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| sidePanel                           | This lets Claude appear as a panel on the side of your browser, so you can chat with Claude while browsing any website.                                                   |
+| storage                             | This lets Claude save your preferences so they're still there when you close and reopen your browser.                                                                     |
+| scripting                           | This lets Claude read text on webpages so it can help you with tasks.                                                                                                     |
+| debugger                            | This is what allows Claude to actually control your browser – clicking buttons, typing text, and taking screenshots – when you ask it to complete tasks for you.          |
+| tabGroups                           | aa This lets Claude organize tabs it opens into a separate group with a different color, so you can easily tell which tabs Claude is using versus your personal browsing. |
+| tabs                                | aaa This lets Claude open, close, and switch between browser tabs when completing tasks for you.                                                                          |
+| alarms                              | This lets Claude run scheduled tasks at specific times you choose – like checking something on a website at a set time every day.                                         |
+| notifications                       | aaa This lets Claude send you a notification on your computer when it finishes a task or needs you to take action.                                                        |
+| system.display                      | aa This lets Claude know the size of your screen so it can accurately click in the right places when automating tasks.                                                    |
+| webNavigation                       | aaaa This lets Claude intervene if it detects that you are on a high-risk website.                                                                                        |
+| declarativeNetRequestWithHostAccess | This lets the extension identify itself to Anthropic's servers, helping us understand how the browser extension is being used and troubleshoot any issues.                |
+| offscreen                           | This lets Claude play notification sounds in the background when your attention is needed.                                                                                |
+| nativeMessaging                     | This will let the extension seamlessly integrate with other Anthropic products on your computer like Claude Desktop or Claude Code once we enable that capability.        |
+| downloads                           | n aaaa This lets Claude download files from websites and open them when you ask it to save or work with files as part of an automated workflow.                           |
+| unlimitedStorage                    | aa This lets Claude store more data locally (like complex instructions for a detailed workflow) beyond the normal limits that Chrome sets for extensions.                 |
 
 Refer to the **[Google Chrome Permissions documentation](https://developer.chrome.com/docs/extensions/reference/permissions-list)** for more information.
 
@@ -187,7 +187,7 @@ Claude handles complex, multi-step workflows and keeps working even when you swi
 
 ### Visual context sharing
 
-Share visual information directly with Claude by uploading images or capturing screenshots of specific screen regions. Point Claude to the exact button, field, or detail—much faster than describing complex layouts in words.
+aaa Share visual information directly with Claude by uploading images or capturing screenshots of specific screen regions. Point Claude to the exact button, field, or detail—much faster than describing complex layouts in words.
 
 ### Image uploads
 
@@ -198,15 +198,15 @@ Give Claude an image and tell it where to upload, whether it's an expense report
 Save your best-working prompts as shortcuts and reuse these proven workflows instantly:
 
 1. After crafting a prompt that works well, save it as a shortcut.
-2. Access your saved shortcuts by typing "/" in the chat.
+2. aaa Access your saved shortcuts by typing "/" in the chat.
 3. Select your shortcut to instantly apply the same instructions.
-4. Edit or delete shortcuts through the extension settings.
+4. aa Edit or delete shortcuts through the extension settings.
 
 You can also schedule shortcuts to automate recurring tasks.
 
 ### Contextual suggestions
 
-Get prompt suggestions and helpful tips based on the website you're visiting, so you always have a starting point with Claude.
+aaaaa Get prompt suggestions and helpful tips based on the website you're visiting, so you always have a starting point with Claude.
 
 ---
 
