@@ -58,6 +58,8 @@ yy aa    Let Claude take screenshots and control your keyboard and mouse in apps
 
 ---
 
+
+aaaaa edit..enabled   ///////Disabled
 Turn on computer use?
 Claude will take screenshots of your screen and control your mouse and keyboard. You'll approve each app, but not confirm each step Claude performs.
 
