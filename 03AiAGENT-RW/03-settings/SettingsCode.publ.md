@@ -80,7 +80,7 @@ Claude can start dev servers, open a live preview, and verify code changes with 
 
 Persist Preview sessions
 
-aa Save cookies, local storage, and login sessions for dev server previews. Data is stored per workspace and persists across app restarts. Turning this off clears all saved session data.
+aaa Save cookies, local storage, and login sessions for dev server previews. Data is stored per workspace and persists across app restarts. Turning this off clears all saved session data.
 
 ### Pull requests
 

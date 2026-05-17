@@ -6,7 +6,7 @@ exit
 # jde ^a ^c  
 
 
-
+returned to 
 Force breaks to be at least 
 2
  minutes
@@ -47,6 +47,18 @@ Restrict me to
  minutes of activity per 
 12
  minutes
+
+
+
+
+
+
+ average, breaks will be suggested every: 27m
+(more often when you work intensely, less often when you take natural rests)
+
+On average, suggested breaks will last: 2m 37s
+(longer when you postpone brea
+
 
 
 

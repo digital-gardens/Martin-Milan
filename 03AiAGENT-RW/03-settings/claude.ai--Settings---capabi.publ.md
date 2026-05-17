@@ -42,9 +42,13 @@ Allow Claude to generate interactive visualizations, charts, and diagrams direct
 
 Claude can execute code and create and edit docs, spreadsheets, presentations, PDFs, and data reports. Required for skills.
 
-Allow network egress
 
-Give Claude network access to install packages and libraries in order to perform advanced data analysis, custom visualizations, and specialized file processing. Monitor chats closely as this comes with [security risks](https://support.anthropic.com/en/articles/12111783-create-and-edit-files-with-claude#h_0ee9d698a1).
+
+aaaa   Allow network egress   ...now:    false
+
+//// https://dev.to/matthewhou/github-copilot-cli-executes-malware-with-zero-approval-your-cicd-pipeline-would-have-caught-it-4g19#:~:text=The%20Copilot%20CLI%20exploit%20shows,actual%20safety%20is%20an%20illusion.
+
+//Give Claude network access to install packages and libraries in order to perform advanced data analysis, custom visualizations, and specialized file processing. Monitor chats closely as this comes with [security risks](https://support.anthropic.com/en/articles/12111783-create-and-edit-files-with-claude#h_0ee9d698a1).
 
 ### Skills
 
