@@ -27,6 +27,9 @@ tags:
 - [Extensions](https://claude.ai/settings/desktop/extensions)
 - [Developer](https://claude.ai/settings/desktop/developer)
 
+
+
+
 ### General desktop settings
 
 Run on startup
@@ -53,6 +56,20 @@ Computer useBeta
 yy aa    Let Claude take screenshots and control your keyboard and mouse in apps you allow. [Learn more](https://support.claude.com/en/articles/14128542)
 
 
+---
+
+Turn on computer use?
+Claude will take screenshots of your screen and control your mouse and keyboard. You'll approve each app, but not confirm each step Claude performs.
+
+Keep in mind:
+Some actions can't be undone.
+Apps you approve could open other apps that you haven't approved.
+Websites and docs could contain malicious instructions that misdirect Claude.
+Close anything sensitive. Claude can see your screen.
+This is a research preview. Start with tasks where mistakes are easy to fix. Read safe use tips
+
+
+---
 
 
 Unhide apps when Claude finishes
@@ -76,43 +93,7 @@ Not supported
 
 -------------------
 
-[  
-Skills](https://claude.ai/customize/skills)[Connectors](https://claude.ai/customize/connectors)
 
----
 
-Personal plugins
+C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\03-settings\Claude--setti--cust-connec.publ.md
 
-[Productivity](https://claude.ai/customize/plugins/productivity%40knowledge-work-plugins)
-
-[Engineering](https://claude.ai/customize/plugins/engineering%40knowledge-work-plugins)
-
-## Connectors
-
-Desktop[](https://claude.ai/settings/desktop/extensions)
-
-![Claude in Chrome icon](https://claude.ai/images/crochet/browser.png)
-
-Claude in ChromeINCLUDED
-
-Not connected
-
-GitHub Integration
-
-![Gmail icon](https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mail.google.com&size=64)
-
-Gmail
-
-![Claude in Chrome icon](https://claude.ai/images/crochet/browser.png)
-
-# Claude in Chrome
-
-Claude in Chrome lets Claude handle work in the browser via Claude Desktop. Once enabled, browser tools are always available to Claude. Only grant full permissions for trusted sites. See more [safety tips](https://support.anthropic.com/en/articles/12902428-using-claude-for-chrome-safely).
-
-Disabled
-
-Don't have the chrome extension yet?
-
-Tool permissions
-
-Site-level permissions are inherited from the Chrome extension. [Manage permissions](http://clau.de/chrome/chrome-permissions) in the Chrome extension settings to control which sites Claude can browse, click, and type on.
