@@ -199,7 +199,7 @@ login in edge of only G/ MN
 # settings
 see also 
 the folder 
-"C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\03-settings"
+code "C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\03-settings"
 
 https://claude.ai/settings/connectors
 dd yy+Let Claude surface connectors from the directory that may be relevant to your conversation.

@@ -30,6 +30,10 @@ Voice
 
 ### Notifications
 
+
+set 4 of 5
+
+
 Response completions
 
 Get notified when Claude has finished a response. Useful for long-running tasks.
