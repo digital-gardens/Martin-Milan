@@ -213,7 +213,9 @@ the folder
 code "C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\03-settings"
 
 
-
+C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\
+20260511-claude.ai
+rename dir 
 
 # files 
 
