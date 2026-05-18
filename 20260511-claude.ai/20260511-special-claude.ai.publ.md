@@ -210,12 +210,17 @@ take screenshot of settings page
 see 
 ///////////////also 
 the folder 
-code "C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\03-settings"
+##code "C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\03-settings"
+###code "C:\Users\marti\OneDrive\Dokumenty\20260511-claude.ai"
+code "C:\Users\marti\OneDrive\Dokumenty\20260511-claude.ai\03-settings"
+mkdir  "C:\Users\marti\OneDrive\Dokumenty\20260511-claude.ai\03AiAGENT-RW"
 
 
+C:\Users\marti\OneDrive\Dokumenty\20260511-claude.ai\20260511-special-claude.ai.publ.md
 C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\
 20260511-claude.ai
 rename dir 
+
 
 # files 
 
