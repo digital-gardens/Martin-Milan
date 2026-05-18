@@ -3,22 +3,50 @@
 
 
 
+
+for long term ... disable ext
+![[Pasted image 20260518032116.png]]
+![[Pasted image 20260518032224.png]]
+
+![[Pasted image 20260518032355.png]]
+
+
+
+
+
+local exe crashed 
+
+
+
+
+
+
+
 again enabled 
-
 no teach no record nothing appeared
-
 again disabled
 
 ![[Pasted image 20260518002952.png]]
 
 
 
+edge:restart
+still works skill recoeding
+![[Pasted image 20260518013256.png]]
+![[Pasted image 20260518013659.png]]
 
 
+REDDIT IS BLOCKED
 
+![[Pasted image 20260518020458.png]]
+edge://restart 
 
+chrome works  
+![[Pasted image 20260518032005.png]]
+setting this back in edge
+edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
 
-
+![[Pasted image 20260518032822.png]]
 
 
 ^  a   
@@ -345,13 +373,15 @@ Payment handlers
 
 ![[Pasted image 20260517230412.png]]
 
+chrome://settings/content/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+![[Pasted image 20260518023251.png]]
 
 Insecure content
 
 Web app installations
 ![[Pasted image 20260517230612.png]]
 
-
+![[Pasted image 20260518023356.png]]
 
 
 
@@ -556,6 +586,35 @@ This paragraph is located below a green-highlighted paragraph about RFC 2606 and
 
 
 
+file:///C:/Users/marti/OneDrive/Dokumenty/03AiAGENT-RW/03-settings/claude.ai--Settings---chrome.md.publ.md
+
+Navigate to a local markdown documentation file about Claude.ai Chrome settings (the file path will be a local file URL pointing to a markdown document titled "Settings" with information about Claude's browser extension).
+
+Once the document loads, you will see:
+- At the top: Metadata including title "Settings", source URL "https://claude.ai/settings/browser-extension", creation date "2026-05-12", and a description about Claude being Anthropic's AI
+- A section header "### Claude in Chrome settings"
+- A section header "### Site permissions"
+- Under that, the heading "Default for all sites"
+- A key line of text reading: "?? Choose whether Claude in Chrome works on all sites by default"
+- On the left side: A vertical navigation menu containing items like "General", "Account", "Privacy", "Billing", "Usage", "Capabilities", "Connectors", "Claude Code", "Cowork", "Claude in Chrome", "Beta", "Desktop app", "General", "Extensions", "Developer"
+- Further down: Another "aaaa" heading, "Claude in Chrome settings", "Site permissions", "Default for all sites", and "Choose whether Claude in Chrome works on all sites by default"
+
+Your task is to:
+1. Locate and click on the text "all sites" (which appears in the phrase "Choose whether Claude in Chrome works on all sites by default")
+2. Then click specifically on the word "all" (which is part of "all sites")
+3. Finally, click on the complete text "all sites" again
+
+The text "all sites" appears in a line asking whether Claude in Chrome should work on all sites by default. The user is performing multiple clicks on this text element, focusing on different parts of the same phrase - first the complete phrase, then the word "all" specifically, then the complete phrase again.
+
+The visual context shows a dark-themed documentation page with white text on a black background, with a blue circular highlight/indicator appearing around the "all sites" text during the interaction.
+
+
+
+
+
+
+
+![[Pasted image 20260518003934.png]]
 
 
 
@@ -564,8 +623,97 @@ This paragraph is located below a green-highlighted paragraph about RFC 2606 and
 
 
 
+Fair catch — I stated that confidently but I actually don't know if it's a documented known limitation or just what I inferred from the screenshot. I shouldn't have presented it as established fact. Let me look it up.
 
 
+
+
+
+![[Pasted image 20260518021523.png]]
+
+
+![[Pasted image 20260518023802.png]]
+Search Google for solutions to a Claude browser access error by looking for relevant Reddit discussions. The workflow should:
+
+1. Perform a Google search that includes the error message and restricts results to Reddit discussions (using site:www.reddit.com)
+2. Click on the most relevant Reddit thread discussing "Browser automation connector issues" or similar Claude access problems
+3. Look for solutions mentioning the "Insecure Content Toggle" setting in Chrome
+4. Identify the specific fix: In Chrome's site settings for localhost, manually set the "Insecure content" option to "Allow"
+
+The goal is to find and understand the solution for Claude being blocked from accessing certain pages due to insecure content restrictions in Chrome browser settings.
+
+
+
+
+
+Navigate to the Claude Workflows website at http://www.claudeworkflows.org/. Once on the homepage, locate and click on a post-mortem workflow item to view workflow details. After viewing the workflow, click on the "Safety" badge/tag to filter workflows by that category. 
+
+Then, use the "All categories" dropdown menu located in the top navigation bar (positioned between the search bar and "Sort by value" dropdown) to filter workflows. Click on the dropdown to open it, then select the specified category filter from the available options. The dropdown displays categories with their count in parentheses (e.g., "Other (211)", "CLI (102)", "Git (30)", "Security (29)").
+
+After selecting the category, the page will refresh to display only workflows in that category. Browse the filtered results to find the "Claude-Driven Software Development Lifecycle: From Jira Ticket to PR with Automated Reviews" workflow card and view its details.
+
+The workflow demonstrates how to navigate the Claude Workflows repository, use category filtering to find relevant workflows, and explore specific workflow implementations across different categories like Safety, Development Tools (CLI, Git), and Security.
+
+
+
+
+
+
+Navigate to Google Photos and search for photos from the specified search date. Browse through the search results, select a photo from that date, and download it to your device.
+
+Note: This workflow navigates through the Google Photos interface (which appears to be in Czech language), accesses the photo library, uses the search functionality with a date parameter, reviews the search results, selects a specific photo, and initiates a download.
+
+
+
+
+Open and navigate to the specified text file. Locate a URL that appears in the file content (it may be prefixed with "# (R)" or appear as plain text). Select and extract this URL from the file by clicking on it to highlight/select the text. The URL should be made ready for copying or further use.
+
+Note: The file may contain multiple entries, file paths, command text, and other content. Focus on identifying and selecting the URL that matches the pattern "https://www.calculator.net/anorexic-bmi-calculator.html" or similar web addresses in the document.
+
+
+
+
+  
+out because it's something you're trying to troubleshoot?
+ default blocked categories (
+A post-mortem analysis of how a Claude-generated `cmd` command, due to escape character collapse across zsh, tmux, and PowerShell, led to the deletion of an entire Windows installation. It outlines cr
+---
+title: "[Workflow] Preventing AI-Induced Data Loss: Lessons from a Windows Installation Deletion"
+source: "https://www.reddit.com/r/ClaudeWorkflows/comments/1t95kdl/workflow_preventing_aiinduced
+A post-mortem analysis of how a Claude-generated cmd command, due to escape character collapse across zsh, tmux, and PowerShell, led to the deletion of an entire Windows installation. It outlines crit
+https://support.claude.com/en/articles/12902405-claude-in-chrome-troubleshooting
+https://support.claude.com/en/articles/12902405-claude-in-chrome-troubleshooting
+chrome://settings/content/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+Web app installations
+
+Can't access this page Claude cannot assist with the content on this page. site:www.reddit.com
+Search Google for solutions to a Claude browser access error by looking for relevant Reddit discussions. The workflow should:
+
+1. Perform a Google search that includes the error message and restrict
+Search Google for solutions to a Claude browser access error by looking for relevant Reddit discussions. The workflow should:
+
+2. Perform a Google search that includes the error message and restrict
+http://www.claudeworkflows.org/
+http://www.claudeworkflows.org/
+Navigate to the Claude Workflows website at http://www.claudeworkflows.org/. Once on the homepage, locate and click on a post-mortem workflow item to view workflow details. After viewing the workflow,
+https://photos.google.com/album/AF1QipNc7qT9tTaxhZeKumslGVKLvgps9R5uCLTJ4dfz
+Navigate to Google Photos and search for photos from the specified search date. Browse through the search results, select a photo from that date, and download it to your device.
+
+Note: This workflow
+file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+AAAAa
+
+out because it's something you're trying to troubleshoot?
+
+Fair catch — I stated that confidently but I actually don't know if it's a documented known limitation or just what I inferred from the screenshot. I shouldn't have presented it as established fact. L
+Open and navigate to the specified text file. Locate a URL that appears in the file content (it may be prefixed with "# (R)" or appear as plain text). Select and extract this URL from the file by clic
+
+
+
+
+
+extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://gemini.google.com/saved-info
 
 
 
