@@ -4,6 +4,8 @@
 .publ.md
 20260519
 
+a ~~ normal  .gitignore
+
 attempt 
 moving
 # NEW: or splitting
@@ -13,6 +15,11 @@ to a  new repo root
 dokumenty/00-MM/
 ///////////////////////////////old  00-files/  
 
+
+# vscode 2 search functions ..  experiment   .. ok , no regression
+- f1 backspace
+- f1 search find in files  
+20260519
 
 
 # sort order experim    00-MM
@@ -130,16 +137,18 @@ seems ok
 ghd 
 to 00-MM 
 
-
-move some 0* dirs and files using vscode, not tc
-
-bug 20260519.1553
+bug 20260519.1553 fixed
 obsidian settings
 is it possible to set 
 into which folder 
  the pasted images 
 should be saved 
 not the root folder of the vault 
+
+
+# move some 0* dirs  using vscode, not tc
+# BUT DONT MOVE UNTRACKED FILES ... GRAYED OUT IN GIT STATUS in vscode
+
 
 
 
