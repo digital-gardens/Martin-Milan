@@ -7,5 +7,68 @@ sites/site*/public/admin/
 sites/site*/public/setup/
 sites/site*/public/theme/
 textpattern/
-HISTORY.txt
+#HISTORY.txt
 README.txt
+
+
+
+# ----------------------------------------
+
+# ignore and dont publish
+
+#OLD*/
+OLD*
+
+# 20260519
+BIG
+BIG*
+
+.ipynb_checkpoints/
+overwrite/
+node_modules
+
+1111/
+
+*#
+*~
+.#*
+
+
+# ----------------------------------------
+# by ai
+
+# Windows thumbnail cache files
+Thumbs.db
+#Desktop.ini
+
+# Temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Recycle Bin used on file shares
+#$RECYCLE.BIN/
+# Windows Installer files
+
+*.tmp
+
+### *.lnk
+# desktop.ini
+
+# If you want, I can give you:
+# ✔ ready-made
+# .gitignore
+#  for markdown files
+
+
+
+# ----------------------------------------
+
+# and definitely dont publish these
+
+# in .gitignore the last line wins?
+
+*.r8.*
+*.n8.*
+
+
