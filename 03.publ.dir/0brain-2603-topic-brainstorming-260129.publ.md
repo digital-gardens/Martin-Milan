@@ -225,10 +225,23 @@ zbývají 2 _? problémy
 
 
 
+many months ago 
+i read an article 
+a blog post ...
+now i cannot find it ... 
 
-gwern linked?
-"sky-burial" insight into origins of rhythmic tribal hunter music a million years ago
+it was
+an insight 
+ into the  origins of rhythmic tribal hunter music a million years ago
+it was about fighting with lions 
+it contained the phrase 
+"sky-burial"
 
+maybe gwern linked to it ??
+
+"sky burial"
+file:music 
+file:500 
 
 
 [[aaa youtube transcript Beseda na téma demence seniorů a jak ji rozpoznat.publ.md]]

@@ -151,4 +151,12 @@ not the root folder of the vault
 
 
 
+# for Martin ... a note to self  ... 
+
+/// some 
+subfolders are being moved to 
+   https://github.com/digital-gardens/00-MM
+
+
+
 
