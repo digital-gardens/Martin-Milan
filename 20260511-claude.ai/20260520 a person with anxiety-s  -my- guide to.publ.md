@@ -8,14 +8,32 @@ see
 to enable 
 
 
+extension://fcoeoabgfenejglbffodgkkbkcdhcgfn/options.html
+
+edge://extensions/?id=fcoeoabgfenejglbffodgkkbkcdhcgfn
+
+edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
 
 
-20260520 a person with anxiety-s  -my- guide to.publ.md
+
+
+
+# 20260520 a person with anxiety-s  -my- guide to.publ.md
  a person with anxiety-s  -my- guide to 
  a person with anxiety 's guide to 
 
-
 trying claude in chrome 
+
+
+open a page 
+Twitter.com 
+file url ?? 
+click on the extension icon
+no choices except 4.6 4.7
+
+   Please go to Twitter and summarize the top posts  about   claude in chrome 
+
+
 
 
 q=claude%20in%20chrome%20a%20walkthrough%20with%20screenshots%20a%20brown%20frame%2C%20approvals%20&
@@ -31,7 +49,8 @@ glasp
 https://www.youtube.com/watch?v=D5nTL66HVUU
 
 
-aaaa   Please uh go to Twitter and summarize the news about the latest open AI model. Search something and then tell me about it. I don't know. I'm just spitballing here.
+
+aaaa   Please go to Twitter and summarize the top posts  about   claude in chrome  the latest open AI model. Search something and then tell me about it. I don't know. I'm just spitballing here.
 
 
 (01:11) We're just going to have a little bit of fun. So, okay. So, here it says approve plan. And you'll notice here that it's giving me an approach to follow. So, it's going to first navigate to Twitter. Then it's going to search for news about the latest OpenAI model. It's going to review the search results and relevant tweets.
