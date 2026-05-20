@@ -17,6 +17,7 @@
 ![[Pasted image 20260518210000.png]]
 
 
+--- 
 
 20260520 edit..enable again 
 edge://edge-urls/
@@ -29,6 +30,7 @@ maybe restrict sites to
 iana.org
 
 
+old 
 for long term ... disable ext
 ![[Pasted image 20260518032116.png]]
 ![[Pasted image 20260518032224.png]]
@@ -46,7 +48,7 @@ local exe crashed
 
 
 
-
+cowork 
 again enabled 
 no teach no record nothing appeared
 again disabled
@@ -69,7 +71,9 @@ edge://restart
 chrome works  
 ![[Pasted image 20260518032005.png]]
 setting this back in edge
-edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+
+
+#aaaa?    edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
 
 ![[Pasted image 20260518032822.png]]
 
