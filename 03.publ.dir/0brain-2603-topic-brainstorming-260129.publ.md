@@ -479,6 +479,9 @@ what about ms teams?
 
 
 
+
+
+
 # Karpathy LLM wiki pattern ... LLM Agent (e.g. OpenAI Codex, Claude Code, OpenCode / Pi, or etc.). .... my question 1. 
 (read, write markdown files) 
 what are the etc ...
@@ -486,6 +489,9 @@ what are the etc ...
 - github copilot?
 - what else?
 - 
+
+
+an interesting comment on the original post by Karpathy ... 
 
 
 
