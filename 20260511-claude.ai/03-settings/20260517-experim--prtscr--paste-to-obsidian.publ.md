@@ -98,6 +98,12 @@ insecure content?
 ![[Pasted image 20260518032822.png]]
 
 
+after 520 
+?? #aaaa   Sites can show sign-in prompts from identity services
+
+![[Pasted image 20260520172858.png]]
+
+
 ---
 
 my screenshots are *after* change  // by default

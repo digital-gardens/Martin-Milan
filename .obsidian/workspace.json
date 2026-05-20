@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20260511-claude.ai/20260520 a person with anxiety-s  -my- guide to.publ.md",
+                "file": "20260511-claude.ai/03-settings/20260517-experim--prtscr--paste-to-obsidian.publ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20260520 a person with anxiety-s  -my- guide to.publ"
+              "title": "Backlinks for 20260517-experim--prtscr--paste-to-obsidian.publ"
             }
           },
           {
@@ -143,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20260511-claude.ai/20260520 a person with anxiety-s  -my- guide to.publ.md",
+                "file": "20260511-claude.ai/03-settings/20260517-experim--prtscr--paste-to-obsidian.publ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20260520 a person with anxiety-s  -my- guide to.publ"
+              "title": "Outgoing links from 20260517-experim--prtscr--paste-to-obsidian.publ"
             }
           },
           {
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20260511-claude.ai/20260520 a person with anxiety-s  -my- guide to.publ.md",
+                "file": "20260511-claude.ai/03-settings/20260517-experim--prtscr--paste-to-obsidian.publ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20260520 a person with anxiety-s  -my- guide to.publ"
+              "title": "Outline of 20260517-experim--prtscr--paste-to-obsidian.publ"
             }
           }
         ]
@@ -198,8 +198,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6283ee73d16cec1",
+  "active": "fad8dcc24a7fff5a",
   "lastOpenFiles": [
+    "20260511-claude.ai/03-settings/attachments/Pasted image 20260520172858.png",
+    "20260511-claude.ai/20260520 a person with anxiety-s  -my- guide to.publ.md",
     "20260511-claude.ai/attachments/Pasted image 20260520172204.png",
     "20260511-claude.ai/attachments/Screenshot (2808).png",
     "20260511-claude.ai/attachments/2026-05-20_17h08_19.png",
@@ -209,7 +211,6 @@
     "20260511-claude.ai/attachments/Pasted image 20260520164635.png",
     "20260511-claude.ai/attachments",
     "20260511-claude.ai/03-settings/20260517-experim--prtscr--paste-to-obsidian.publ.md",
-    "20260511-claude.ai/20260520 a person with anxiety-s  -my- guide to.publ.md",
     "20260520 obsidian vscode.md",
     "new vault.md"
   ]
