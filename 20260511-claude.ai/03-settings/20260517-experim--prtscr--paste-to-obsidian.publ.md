@@ -1,3 +1,5 @@
+#aa 
+
 
 ^  a   
 or drag to select in manage extensuion
@@ -15,7 +17,7 @@ shift ^ p new
 
 
 
-new vault
+# new vault
 
 ![[Pasted image 20260519155516.png]]
 
@@ -33,7 +35,8 @@ new vault
 
 --- 
 
-20260520 edit..enable again 
+# 20260520 edit..enable again 
+
 edge://edge-urls/
 edge://extensions/?q=clau
 edge://extensions/?id=fcoeoabgfenejglbffodgkkbkcdhcgfn
@@ -87,18 +90,19 @@ chrome works
 setting this back in edge
 
 
-#aaaa?    edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+#aaaa  ?    edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
 payment handlers
 insecure content?
 
 
 ![[Pasted image 20260518032822.png]]
 
+
 ---
 
 my screenshots are *after* change  // by default
 
-Computer useBeta
+Computer use Beta
 ![[Pasted image 20260517215544.png]]
 
 
@@ -142,9 +146,9 @@ Logged in as milan.bok.75@gmail.com
 
 
 
+---
 
-
-On average, breaks will be suggested every: **39m**  
+# On average, breaks will be suggested every: **39m**  
 _(more often when you work intensely, less often when you take natural rests)_  
   
 On average, suggested breaks will last: **4m 9s**  
@@ -153,7 +157,7 @@ _(longer when you postpone breaks)_
 ![[Pasted image 20260517224408.png]]
 
 
-
+---
 
 
 
@@ -396,7 +400,7 @@ Pre-approve actions that Claude can take on websites before you start working. Y
 
 
 
-edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+#aaaa ?   edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
 
 ![[Pasted image 20260517230702.png]]
 
@@ -406,7 +410,8 @@ Payment handlers
 
 ![[Pasted image 20260517230412.png]]
 
-chrome://settings/content/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+
+#aaaa  ?  chrome://settings/content/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
 ![[Pasted image 20260518023251.png]]
 
 Insecure content
@@ -473,8 +478,7 @@ If you select this option, your browser history may still be recorded. Edge can'
 
 
 
-aaaa
-Allow access to file URLs
+aaaa Allow access to file URLs
 
 Collect errors
 
@@ -526,7 +530,7 @@ Sonnet 4.6
 
 How can I help you today?
 
-Ask before acting
+#aaa  Ask before acting
 
 [Claude is AI and can make mistakes. Please double-check responses.](https://support.anthropic.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on)
 

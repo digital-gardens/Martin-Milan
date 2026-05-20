@@ -3,8 +3,9 @@
 
 will it work with opening in vscode also  ????
 
-see also 
+see 
 20260517-experim--prtscr--paste-to-obsidian.publ
+to enable 
 
 
 
