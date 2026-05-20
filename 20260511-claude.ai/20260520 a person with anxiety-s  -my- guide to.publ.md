@@ -39,7 +39,7 @@ temporary switch off the autoclick if you use rsiguard
 
 be prepared to take screenshots of the process
 
-   Please go to Twitter and summarize the top posts  about   claude in chrome 
+   Please go to Twitter and summarize the top xposts  about   claude in chrome 
 
 ![[Pasted image 20260520164635.png]]
 Sonnet 4.6
@@ -92,41 +92,184 @@ win + prtscr
 
 ---
 
+expand the item 16 steps
+
+  
+
 Sonnet 4.6
+
+  
+  
 
 Please go to Twitter and summarize the top posts  about   claude in chrome
 
-16 steps
+  
+  
+  
+  
 
 16 steps
 
-Here's a summary of the top posts about **"Claude in Chrome"** on X/Twitter:
+16 steps
 
----
+  
 
-**1. @AnthropicAI (Anthropic) — Aug 26, 2025** ⭐ Most popular 📊 **1.6M views | 8.5K likes | 1.5K reposts | 434 replies** Anthropic announced the development of "Claude for Chrome," where Claude works directly inside your browser and can take actions on your behalf. It was initially released as a **research preview**.
+Created a plan
 
----
+  
 
-**2. @claudeai (Claude) — Dec 18, 2025** 📊 **1.2M views | 6.7K likes | 806 reposts | 228 replies** The official Claude account announced that **Claude in Chrome is now available to all paid plans**, and also revealed a new integration with **Claude Code**.
+Batch — 2/2 actions
 
----
+Navigate to https://x.com/search?q=claude+...
 
-**3. @claudeai (Claude) — Dec 18, 2025** _(reply to above)_ 📊 **782K views | 1.9K likes | 265 reposts** A follow-up post explaining the **Claude Code + Chrome** integration in more detail: Claude Code can now test code **directly in the browser** to validate its work, and can also read **client-side errors via console logs**. Users can activate it by running `/chrome` in the latest Claude Code version.
+Take screenshot
 
----
+Screenshot thumbnail
 
-**4. @charlieholtz (Charlie Holtz) — Jan 14** 📊 **28K views | 231 likes | 7 reposts** Developer Charlie Holtz shared that **Claude with Chrome is live in Conductor**, demoing it solving the daily Wordle puzzle in just 3 tries — a fun showcase of the browser automation capability.
+Tool: browser_batch
 
----
+  
 
-**Key takeaway:** The dominant conversation around "Claude in Chrome" centers on Anthropic's browser-native AI feature — first launched as a research preview in August 2025, then expanded to all paid users in December 2025 with a Claude Code integration that allows Claude to autonomously operate the browser, test code, and read console errors.
+Wait 3 seconds
+
+  
+
+Take screenshot
+
+Screenshot thumbnail
+
+The page has loaded. Let me scroll down to see more posts and then extract the full text.
+
+  
+  
+
+Extract page text
+
+The text extraction only captured one post. Let me scroll down to get more content.
+
+  
+  
+
+Batch — 2/2 actions
+
+Scroll down
+
+Screenshot thumbnail
+
+Take screenshot
+
+Screenshot thumbnail
+
+Tool: browser_batch
+
+  
+
+Read page (all)
+
+  
+
+Batch — 2/2 actions
+
+Read page (all)
+
+Read page (all)
+
+Tool: browser_batch
+
+  
+
+Batch — 3/3 actions
+
+Read page (all)
+
+Read page (all)
+
+Read page (all)
+
+Tool: browser_batch
+
+Now let me scroll down to see if there are more posts.
+
+  
+  
+
+Batch — 2/2 actions
+
+Scroll down
+
+Screenshot thumbnail
+
+Take screenshot
+
+Screenshot thumbnail
+
+Tool: browser_batch
+
+I now have enough information from the top posts. Let me also scroll further to see if there are any more significant posts below.
+
+  
+  
+
+Batch — 2/2 actions
+
+Scroll down
+
+Screenshot thumbnail
+
+Take screenshot
+
+Screenshot thumbnail
+
+Tool: browser_batch
+
+I have enough data from the top posts. I can see the Anthropic post with 1.6M views at the bottom, and a reply from Kazuki Nakayashiki. I now have a clear picture of the top posts. Let me compile the summary.
+
+  
+
+Done
+
+Here's a summary of the top posts about "Claude in Chrome" on X/Twitter:
+
+  
+
+1. @AnthropicAI (Anthropic) — Aug 26, 2025 ⭐ Most popular 📊 1.6M views | 8.5K likes | 1.5K reposts | 434 replies Anthropic announced the development of "Claude for Chrome," where Claude works directly inside your browser and can take actions on your behalf. It was initially released as a research preview.
+
+  
+
+2. @claudeai (Claude) — Dec 18, 2025 📊 1.2M views | 6.7K likes | 806 reposts | 228 replies The official Claude account announced that Claude in Chrome is now available to all paid plans, and also revealed a new integration with Claude Code.
+
+  
+
+3. @claudeai (Claude) — Dec 18, 2025 (reply to above) 📊 782K views | 1.9K likes | 265 reposts A follow-up post explaining the Claude Code + Chrome integration in more detail: Claude Code can now test code directly in the browser to validate its work, and can also read client-side errors via console logs. Users can activate it by running /chrome in the latest Claude Code version.
+
+  
+
+4. @charlieholtz (Charlie Holtz) — Jan 14 📊 28K views | 231 likes | 7 reposts Developer Charlie Holtz shared that Claude with Chrome is live in Conductor, demoing it solving the daily Wordle puzzle in just 3 tries — a fun showcase of the browser automation capability.
+
+  
+
+Key takeaway: The dominant conversation around "Claude in Chrome" centers on Anthropic's browser-native AI feature — first launched as a research preview in August 2025, then expanded to all paid users in December 2025 with a Claude Code integration that allows Claude to autonomously operate the browser, test code, and read console errors.
+
+  
+  
+  
+  
+  
 
 Get notified when tasks complete or need input
+
+  
 
 Notify me
 
   
+  
+  
+  
+
+Ask before acting
+
+Claude is AI and can make mistakes. Please double-check responses.  
 
 Ask before acting
 
