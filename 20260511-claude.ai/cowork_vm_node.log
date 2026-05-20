@@ -1,0 +1,135 @@
+2026-05-10 20:09:46 [info] [Bundle:status] rootfs.vhdx missing
+2026-05-10 20:09:46 [info] [VM] Loading vmClient (TypeScript) module...
+2026-05-10 20:09:46 [info] [VM] Module loaded successfully
+2026-05-11 15:33:14 [info] [Bundle:status] rootfs.vhdx missing
+2026-05-11 15:33:19 [info] [Bundle:status] rootfs.vhdx missing
+2026-05-11 15:33:19 [info] [Bundle:status] rootfs.vhdx missing
+2026-05-11 15:33:19 [info] [warm] No warm file found for rootfs.vhdx at current version
+2026-05-11 15:33:19 [info] [cache] No cached compressed file for rootfs.vhdx
+2026-05-11 15:33:19 [info] rootfs.vhdx not found, downloading...
+2026-05-11 15:33:19 [info] Downloading rootfs.vhdx...
+2026-05-11 15:33:21 [info] [KernelBugMonitor] State reset
+2026-05-11 15:33:21 [info] [VM:start] Beginning startup, bundlePath=~\AppData\Roaming\Claude\vm_bundles\claudevm.bundle
+2026-05-11 15:33:21 [info] [VM:start] Bundle version: <blob>
+2026-05-11 15:33:21 [info] [VM:start] VM instance ID: d02260dc-6a04-4b42-b313-dc9a95d27d63
+2026-05-11 15:33:21 [info] [VM:steps] download_and_sdk_prepare started
+2026-05-11 15:33:21 [info] [downloadVM] Download already in progress, waiting...
+2026-05-11 15:35:49 [error] [download] VM download failed: Request error: net::ERR_CONNECTION_RESET
+2026-05-11 15:35:49 [error] [VM:start] Startup failed: Error: Request error: net::ERR_CONNECTION_RESET
+    at ClientRequest.<anonymous> (app://\.vite\build\index.js:440:56873)
+    at ClientRequest.emit (node:events:521:24)
+    at ClientRequest._die (node:electron/js2c/browser_init:2:135782)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:134508)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28) {
+  [stack]: [Getter/Setter],
+  [message]: 'Request error: net::ERR_CONNECTION_RESET'
+}
+2026-05-11 15:35:49 [info] [VM:start] Auto-reinstalling workspace after startup failure
+2026-05-11 15:35:49 [info] [deleteVMBundle] Deleting reinstall files from ~\AppData\Roaming\Claude\vm_bundles\claudevm.bundle
+2026-05-11 15:35:49 [info] [deleteVMBundle] Reinstall files deleted (sessiondata.img and compressed cache preserved)
+2026-05-11 15:36:11 [info] [Bundle:status] rootfs.vhdx missing
+2026-05-11 15:36:11 [info] [VM] Loading vmClient (TypeScript) module...
+2026-05-11 15:36:11 [info] [VM] Module loaded successfully
+2026-05-11 15:36:12 [info] [Bundle:status] rootfs.vhdx missing
+2026-05-11 15:36:12 [info] [Bundle:status] rootfs.vhdx missing
+2026-05-11 15:36:12 [info] [warm] No warm file found for rootfs.vhdx at current version
+2026-05-11 15:36:12 [info] [cache] No cached compressed file for rootfs.vhdx
+2026-05-11 15:36:12 [info] rootfs.vhdx not found, downloading...
+2026-05-11 15:36:12 [info] Downloading rootfs.vhdx...
+2026-05-11 15:36:19 [info] [KernelBugMonitor] State reset
+2026-05-11 15:36:19 [info] [VM:start] Beginning startup, bundlePath=~\AppData\Roaming\Claude\vm_bundles\claudevm.bundle
+2026-05-11 15:36:19 [info] [VM:start] Bundle version: <blob>
+2026-05-11 15:36:19 [info] [VM:start] VM instance ID: 3924664d-b114-4162-9038-378c54e21966
+2026-05-11 15:36:19 [info] [VM:steps] download_and_sdk_prepare started
+2026-05-11 15:36:19 [info] [downloadVM] Download already in progress, waiting...
+2026-05-11 15:47:36 [error] [download] VM download failed: Request error: net::ERR_QUIC_PROTOCOL_ERROR
+2026-05-11 15:47:36 [error] [VM:start] Startup failed: Error: Request error: net::ERR_QUIC_PROTOCOL_ERROR
+    at ClientRequest.<anonymous> (app://\.vite\build\index.js:440:56873)
+    at ClientRequest.emit (node:events:521:24)
+    at ClientRequest._die (node:electron/js2c/browser_init:2:135782)
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:134508)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28) {
+  [stack]: [Getter/Setter],
+  [message]: 'Request error: net::ERR_QUIC_PROTOCOL_ERROR'
+}
+2026-05-11 15:47:36 [info] [VM:start] Skipping auto-reinstall (already attempted once)
+2026-05-11 18:44:37 [info] [KernelBugMonitor] State reset
+2026-05-11 18:44:37 [info] [VM:start] Beginning startup, bundlePath=~\AppData\Roaming\Claude\vm_bundles\claudevm.bundle
+2026-05-11 18:44:37 [info] [VM:start] Bundle version: <blob>
+2026-05-11 18:44:37 [info] [VM:start] VM instance ID: 3924664d-b114-4162-9038-378c54e21966
+2026-05-11 18:44:37 [info] [VM:steps] download_and_sdk_prepare started
+2026-05-11 18:44:37 [info] [Bundle:status] rootfs.vhdx missing
+2026-05-11 18:44:37 [info] [Bundle:status] rootfs.vhdx missing
+2026-05-11 18:44:37 [info] [warm] No warm file found for rootfs.vhdx at current version
+2026-05-11 18:44:37 [info] [cache] No cached compressed file for rootfs.vhdx
+2026-05-11 18:44:37 [info] rootfs.vhdx not found, downloading...
+2026-05-11 18:44:37 [info] Downloading rootfs.vhdx...
+2026-05-11 18:44:37 [info] [startVM] VM startup already in progress, waiting...
+2026-05-11 19:07:43 [info] rootfs.vhdx.zst checksum validated
+2026-05-11 19:07:43 [info] [downloadVM] Saved compressed rootfs.vhdx to cache
+2026-05-11 19:07:43 [info] [Bundle:status] vmlinuz missing
+2026-05-11 19:07:43 [info] [warm] No warm file found for vmlinuz at current version
+2026-05-11 19:07:43 [info] [cache] No cached compressed file for vmlinuz
+2026-05-11 19:07:43 [info] vmlinuz not found, downloading...
+2026-05-11 19:07:43 [info] Downloading vmlinuz...
+2026-05-11 19:07:49 [info] vmlinuz.zst checksum validated
+2026-05-11 19:07:49 [info] [downloadVM] Saved compressed vmlinuz to cache
+2026-05-11 19:07:49 [info] [Bundle:status] initrd missing
+2026-05-11 19:07:49 [info] [warm] No warm file found for initrd at current version
+2026-05-11 19:07:49 [info] [cache] No cached compressed file for initrd
+2026-05-11 19:07:49 [info] initrd not found, downloading...
+2026-05-11 19:07:49 [info] Downloading initrd...
+2026-05-11 19:10:00 [info] initrd.zst checksum validated
+2026-05-11 19:10:00 [info] [downloadVM] Saved compressed initrd to cache
+2026-05-11 19:10:00 [info] All files ready in ~\AppData\Roaming\Claude\vm_bundles\claudevm.bundle
+2026-05-11 19:10:00 [info] [VM:steps] download_and_sdk_prepare completed (1522994ms)
+2026-05-11 19:10:00 [info] [VM:steps] load_swift_api started
+2026-05-11 19:10:00 [info] [VM:steps] load_swift_api completed (0ms)
+2026-05-11 19:10:00 [info] [Callbacks] Initializing VM event callbacks...
+2026-05-11 19:10:00 [info] [Callbacks] VM event callbacks initialized
+2026-05-11 19:10:00 [info] [VM:start] Copying smol-bin.x64.vhdx to bundle: <drv>:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\resources\smol-bin.x64.vhdx -> ~\AppData\Roaming\Claude\vm_bundles\claudevm.bundle\smol-bin.vhdx
+2026-05-11 19:10:00 [info] [VM:start] smol-bin.x64.vhdx copied successfully
+2026-05-11 19:10:00 [info] [VM:start] Configuring Windows VM service...
+2026-05-11 19:10:00 [info] [VM:start] Windows VM service configured
+2026-05-11 19:10:04 [info] [VM:steps] vm_boot completed (0ms)
+2026-05-11 19:10:04 [info] [VM:steps] add_plan9_shares started
+2026-05-11 19:10:04 [info] [VM:steps] add_plan9_shares completed (41ms)
+2026-05-11 19:10:14 [info] [VM:start] Still waiting for guest connection... 10460ms elapsed, 21 polls
+2026-05-11 19:10:25 [info] [VM:start] Still waiting for guest connection... 20683ms elapsed, 41 polls
+2026-05-11 19:10:27 [info] [VM] Network status: CONNECTED
+2026-05-11 19:10:28 [info] [VM:steps] sdk_install started
+2026-05-11 19:10:28 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 19:10:35 [info] [VM] API reachability: REACHABLE
+2026-05-11 19:10:47 [info] [Keepalive] Starting (interval=2000ms)
+2026-05-11 19:10:47 [info] [VM:steps] sdk_install completed (19311ms)
+2026-05-11 19:10:47 [info] [VM:start] Startup complete, total time: 1570321ms
+2026-05-11 19:44:55 [info] [startVM] VM already connected
+2026-05-11 19:44:55 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 19:45:00 [warn] [Keepalive] Already running
+2026-05-11 19:46:43 [info] [startVM] VM already connected
+2026-05-11 19:46:43 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 19:46:44 [warn] [Keepalive] Already running
+2026-05-11 19:47:00 [info] [startVM] VM already connected
+2026-05-11 19:47:00 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 19:47:00 [warn] [Keepalive] Already running
+2026-05-11 19:47:10 [info] [startVM] VM already connected
+2026-05-11 19:47:10 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 19:47:10 [warn] [Keepalive] Already running
+2026-05-11 19:47:16 [info] [startVM] VM already connected
+2026-05-11 19:47:16 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 19:47:17 [warn] [Keepalive] Already running
+2026-05-11 19:48:08 [info] [startVM] VM already connected
+2026-05-11 19:48:08 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 19:48:09 [warn] [Keepalive] Already running
+2026-05-11 19:52:55 [warn] [Keepalive] Ping failed: Keep-alive ping timed out
+2026-05-11 19:53:03 [warn] [Keepalive] Ping failed: Keep-alive ping timed out
+2026-05-11 19:53:11 [warn] [Keepalive] Ping failed: Keep-alive ping timed out
+2026-05-11 20:16:20 [info] [startVM] VM already connected
+2026-05-11 20:16:20 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 20:16:24 [warn] [Keepalive] Already running
+2026-05-11 20:17:23 [info] [startVM] VM already connected
+2026-05-11 20:17:23 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 20:17:25 [warn] [Keepalive] Already running
+2026-05-11 20:18:13 [info] [startVM] VM already connected
+2026-05-11 20:18:13 [info] [postConnect] Installing SDK: subpath=c/Users/<user>/AppData/Local/Packages/Claude_pzs8sxrjxfjjc/LocalCache/Roaming/Claude/claude-code-vm, version=2.1.128
+2026-05-11 20:18:14 [warn] [Keepalive] Already running

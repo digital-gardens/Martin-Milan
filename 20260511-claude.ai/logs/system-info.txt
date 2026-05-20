@@ -1,0 +1,107 @@
+=== APP INFORMATION ===
+App Name: Claude
+App Version: 1.6608.2
+Electron Version: 41.5.0
+Chrome Version: 146.0.7680.216
+Node Version: 24.15.0
+V8 Version: 14.6.202.34-electron.0
+App Path: C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\resources\app.asar
+User Data Path: C:\Users\marti\AppData\Roaming\Claude
+Logs Path: C:\Users\marti\AppData\Roaming\Claude\logs
+Temp Path: C:\Users\marti\AppData\Local\Temp
+Is Packaged: true
+
+=== SYSTEM INFORMATION ===
+Platform: win32
+Architecture: x64
+OS Type: Windows_NT
+OS Release: 10.0.26200
+OS Version: Windows 11 Pro
+OS Build: 26100.1.amd64fre.ge_release.240331-1435
+Hostname: MB-PC
+Locale: en-US
+System Locale: en-US
+
+=== HARDWARE INFORMATION ===
+CPUs: 6 cores
+CPU Model: Intel(R) Core(TM) i5-9400T CPU @ 1.80GHz
+Total Memory: 7.87 GB
+Free Memory: 1.23 GB
+Memory Usage: 84.4%
+
+=== DISK SPACE INFORMATION ===
+User Data (C:\Users\marti\AppData\Roaming\Claude):
+  Total: 224.59 GB
+  Free: 66.83 GB
+  Available: 66.83 GB
+  Used: 70.2%
+Home (C:\Users\marti):
+  Total: 224.59 GB
+  Free: 66.83 GB
+  Available: 66.83 GB
+  Used: 70.2%
+Temp (C:\Users\marti\AppData\Local\Temp):
+  Total: 224.59 GB
+  Free: 66.83 GB
+  Available: 66.83 GB
+  Used: 70.2%
+
+=== PROCESS INFORMATION ===
+Process ID: 28712
+Process Type: browser
+Process Memory (Private): 195.06 MB
+Process Memory (Shared): 0.25 MB
+Process Memory (Residentset): 119.82 MB
+CPU Usage (User): 0.00%
+Uptime: 293.58 minutes
+
+=== DETAILED MEMORY INFORMATION ===
+Heap Used: 42.91 MB
+Heap Total: 46.09 MB
+External: 17.92 MB
+Array Buffers: 0.00 MB
+RSS: 120.00 MB
+System Swap Total: 30591.00 MB
+System Swap Free: 8288.63 MB
+
+=== DISPLAY INFORMATION ===
+Display 1:
+  Resolution: 1536x864
+  Scale Factor: 1.25
+  Primary: No
+
+=== WINDOW INFORMATION ===
+Total Windows: 1
+Window 1:
+  ID: 1
+  Position: -7, -7
+  Size: 1552x832
+  Visible: true
+  Focused: true
+
+=== WEBCONTENTS INFORMATION ===
+Total WebContents: 3
+WebContents 1:
+  ID: 3
+  Type: window
+  URL: null
+  Loading: false
+WebContents 2:
+  ID: 2
+  Type: window
+  URL: https://claude.ai
+  Loading: false
+WebContents 3:
+  ID: 1
+  Type: window
+  URL: null
+  Loading: false
+
+=== NETWORK INFORMATION ===
+Tailscale: 169.254.83.107
+vEthernet (Default Switch): 172.31.16.1
+Ethernet: 10.0.0.54
+
+=== DEBUG INFO GENERATED ===
+Timestamp: 2026-05-11T18:29:39.727Z
+Local Time: 5/11/2026, 8:29:39 PM

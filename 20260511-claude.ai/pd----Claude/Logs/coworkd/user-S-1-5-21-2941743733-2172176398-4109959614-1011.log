@@ -1,0 +1,76 @@
+2026/05/11 17:10:15 [coworkd] starting coworkd
+2026/05/11 17:10:15 [coworkd] console output enabled (writing to /dev/vport0p0)
+2026/05/11 17:10:15 [updater] found smol-bin device: /dev/sdb1
+2026/05/11 17:10:15 [updater] mounted smol-bin device /dev/sdb1 at /smol/bin
+2026/05/11 17:10:15 [updater] checking for updates from /smol/bin
+2026/05/11 17:10:16 [updater] sdk-daemon update detected (old=6380c309... new=861d942a...)
+2026/05/11 17:10:16 [updater] sdk-daemon updated
+2026/05/11 17:10:16 [updater] sandbox-helper update detected (old=935f40df... new=42629067...)
+2026/05/11 17:10:16 [updater] sandbox-helper updated
+2026/05/11 17:10:16 [updater] srt-settings.json update detected (old=3ae5f946... new=8f6caf0a...)
+2026/05/11 17:10:16 [updater] srt-settings.json updated
+2026/05/11 17:10:16 [updater] unmounted smol-bin
+2026/05/11 17:10:16 [coworkd] restarting to apply coworkd update
+2026/05/11 17:10:20 [coworkd] starting coworkd
+2026/05/11 17:10:20 [coworkd] console output enabled (writing to /dev/vport0p0)
+2026/05/11 17:10:20 [updater] found smol-bin device: /dev/sdb1
+2026/05/11 17:10:20 [updater] mounted smol-bin device /dev/sdb1 at /smol/bin
+2026/05/11 17:10:20 [updater] checking for updates from /smol/bin
+2026/05/11 17:10:20 [updater] cli-wrapper update detected (old=... new=b3412ad8...)
+2026/05/11 17:10:20 [updater] cli-wrapper updated
+2026/05/11 17:10:20 [updater] unmounted smol-bin
+2026/05/11 17:10:20 [coworkd] checking for Hyper-V host
+2026/05/11 17:10:20 [coworkd] detected Hyper-V host, loading vsock/9p modules
+2026/05/11 17:10:20 [hyperv] setting up Hyper-V socket modules
+2026/05/11 17:10:20 [hyperv] modules loaded successfully
+2026/05/11 17:10:20 [hyperv] found session disk at /dev/sdc
+2026/05/11 17:10:20 [coworkd] configuring static IP on tap0: 172.16.10.3/24 gateway=172.16.10.1 dns=172.16.10.1
+2026/05/11 17:10:20 [coworkd] formatting session disk /dev/sdc with ext4
+2026/05/11 17:10:21 [coworkd] masked systemd-timesyncd (time sync via host RPC)
+2026/05/11 17:10:22 [coworkd] MTU on tap0 is 1400, already at or below target 1400
+2026/05/11 17:10:22 [coworkd] static IP configured successfully
+2026/05/11 17:10:22 [tapvsock] TAP device configured (tap=tap0, ip=172.16.10.3/24, gw=172.16.10.1)
+2026/05/11 17:10:22 [tapvsock] connecting to host network via vsock port 1024
+2026/05/11 17:10:22 [tapvsock] connected to host network, bridge running
+2026/05/11 17:10:22 [coworkd] session disk formatted successfully
+2026/05/11 17:10:22 [coworkd] mounting session disk /dev/sdc at /sessions
+2026/05/11 17:10:22 [coworkd] session disk mounted successfully at /sessions
+2026/05/11 17:10:22 [coworkd] user recovery complete: recovered=0 skipped=1 failed=0
+2026/05/11 17:10:22 [cli-plugin] listening on /run/coworkd/cli-plugin.sock
+2026/05/11 17:10:22 [proxy] generating ephemeral CA certificate (private key in memory only)
+2026/05/11 17:10:22 [proxy] ephemeral CA generated (expires: 2027-05-11T17:10:22Z)
+2026/05/11 17:10:27 [proxy] CA certificate installed to system trust store
+2026/05/11 17:10:27 [proxy] MITM proxy started on /var/run/mitm-proxy.sock
+2026/05/11 17:10:27 [rpc] connecting to host CID=2 port=51234
+2026/05/11 17:10:27 [rpc] connected successfully
+2026/05/11 17:10:27 [coworkd] waiting for IPv4 route
+2026/05/11 17:10:27 [coworkd] IPv4 route is available
+2026/05/11 17:10:27 [rpc] ready event sent
+2026/05/11 17:10:27 [hyperv] mounting Plan9 share "c" via vsock port 9902 at /mnt/.virtiofs-root/shared/c
+2026/05/11 17:10:27 [hyperv] Plan9 share "c" mounted at /mnt/.virtiofs-root/shared/c
+2026/05/11 17:10:27 [hyperv] mounting Plan9 share "d" via vsock port 9903 at /mnt/.virtiofs-root/shared/d
+2026/05/11 17:10:27 [hyperv] Plan9 share "d" mounted at /mnt/.virtiofs-root/shared/d
+2026/05/11 17:10:27 [hyperv] mounting Plan9 share "g" via vsock port 9906 at /mnt/.virtiofs-root/shared/g
+2026/05/11 17:10:27 [hyperv] Plan9 share "g" mounted at /mnt/.virtiofs-root/shared/g
+2026/05/11 17:10:27 [hyperv] mounted 3/3 Plan9 shares
+2026/05/11 17:10:35 [coworkd] installed 94 host CA certificates
+2026/05/11 17:10:35 [coworkd] checking reachability https://api.anthropic.com/ (timeout=30s)
+2026/05/11 17:10:35 [coworkd] reachability check passed (status=404)
+2026/05/11 17:10:35 [coworkd] connected, waiting for commands
+2026/05/11 17:10:47 [coworkd] installed SDK binary v2.1.128 to /usr/local/bin/claude
+2026/05/11 17:45:00 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 17:44:55 [timesync] stepped clock by -4.28s (host=2026-05-11T17:44:55Z guest=2026-05-11T17:45:00Z)
+2026/05/11 17:45:02 [timesync] stepped clock by 4.288s (host=2026-05-11T17:45:02Z guest=2026-05-11T17:44:57Z)
+2026/05/11 17:46:44 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 17:47:00 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 17:47:10 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 17:47:17 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 17:48:09 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 18:16:24 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 18:16:22 [timesync] stepped clock by -2.627s (host=2026-05-11T18:16:22Z guest=2026-05-11T18:16:24Z)
+2026/05/11 18:16:26 [timesync] stepped clock by 2.628s (host=2026-05-11T18:16:26Z guest=2026-05-11T18:16:24Z)
+2026/05/11 18:17:25 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 18:18:14 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 18:28:05 [coworkd] SDK binary v2.1.128 already installed, skipping
+2026/05/11 18:28:03 [timesync] stepped clock by -2.313s (host=2026-05-11T18:28:03Z guest=2026-05-11T18:28:05Z)
+2026/05/11 18:28:07 [timesync] stepped clock by 2.316s (host=2026-05-11T18:28:07Z guest=2026-05-11T18:28:05Z)

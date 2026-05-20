@@ -1,0 +1,58 @@
+{
+  "auxAttributes": {
+    "amdSwitchable": false,
+    "canSupportThreadedTextureMailbox": false,
+    "directMLFeatureLevel": "Not supported",
+    "dx12FeatureLevel": "Not supported",
+    "glImplementationParts": "(gl=none,angle=none)",
+    "glResetNotificationStrategy": 0,
+    "inProcessGpu": true,
+    "initializationTime": 0,
+    "isAsan": false,
+    "isClangCoverage": false,
+    "jpegDecodeAcceleratorSupported": false,
+    "optimus": false,
+    "overlayInfo": {
+      "bgra8OverlaySupport": "NONE",
+      "directComposition": false,
+      "nv12OverlaySupport": "NONE",
+      "p010OverlaySupport": "NONE",
+      "rgb10a2OverlaySupport": "NONE",
+      "supportsOverlays": false,
+      "yuy2OverlaySupport": "NONE"
+    },
+    "passthroughCmdDecoder": false,
+    "sandboxed": false,
+    "skiaBackendType": "None",
+    "subpixelFontRendering": true,
+    "supportsD3dSharedImages": false,
+    "supportsDirectML": false,
+    "supportsDx12": false,
+    "supportsVulkan": false,
+    "targetCpuBits": 64,
+    "visibilityCallbackCallCount": 0,
+    "vulkanVersion": "Not supported"
+  },
+  "gpuDevice": [
+    {
+      "active": false,
+      "deviceId": 16018,
+      "deviceString": "Intel(R) UHD Graphics 630",
+      "driverVersion": "31.0.101.2115",
+      "gpuPreference": 0,
+      "revision": 0,
+      "subSysId": 825038762,
+      "vendorId": 32902
+    },
+    {
+      "active": false,
+      "deviceId": 140,
+      "deviceString": "Microsoft Basic Render Driver",
+      "driverVersion": "10.0.26100.8246",
+      "gpuPreference": 0,
+      "revision": 0,
+      "subSysId": 0,
+      "vendorId": 5140
+    }
+  ]
+}

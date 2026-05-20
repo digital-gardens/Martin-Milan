@@ -1,0 +1,74 @@
+{
+  "nativeQuickEntry": {
+    "status": "unavailable"
+  },
+  "quickEntryDictation": {
+    "status": "unavailable"
+  },
+  "customQuickEntryDictationShortcut": {
+    "status": "supported"
+  },
+  "plushRaccoon": {
+    "status": "unavailable"
+  },
+  "quietPenguin": {
+    "status": "unavailable"
+  },
+  "chillingSlothFeat": {
+    "status": "supported"
+  },
+  "chillingSlothEnterprise": {
+    "status": "supported"
+  },
+  "chillingSlothLocal": {
+    "status": "supported"
+  },
+  "chillingSlothPool": {
+    "status": "unavailable"
+  },
+  "yukonSilver": {
+    "status": "supported"
+  },
+  "yukonSilverGems": {
+    "status": "supported"
+  },
+  "yukonSilverGemsCache": {
+    "status": "supported"
+  },
+  "wakeScheduler": {
+    "status": "unavailable"
+  },
+  "desktopTopBar": {
+    "status": "supported"
+  },
+  "ccdPlugins": {
+    "status": "supported"
+  },
+  "computerUse": {
+    "status": "supported"
+  },
+  "coworkKappa": {
+    "status": "unavailable"
+  },
+  "coworkArtifacts": {
+    "status": "supported"
+  },
+  "markTaskComplete": {
+    "status": "unavailable"
+  },
+  "framebufferPreview": {
+    "status": "unavailable"
+  },
+  "iosSimulator": {
+    "status": "unavailable"
+  },
+  "androidEmulator": {
+    "status": "unavailable"
+  },
+  "grandPrix": {
+    "status": "unavailable"
+  },
+  "louderPenguin": {
+    "status": "unavailable"
+  }
+}

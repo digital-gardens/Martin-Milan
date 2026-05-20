@@ -1,0 +1,225 @@
+2026/05/10 20:09:24.061544 Starting CoworkVMService as Windows service
+2026/05/10 20:09:24.076736 Claude VM Service starting...
+2026/05/10 20:09:24.076736 Waiting for configuration from app via 'configure' method...
+2026/05/10 20:09:24.076736 [HCS] Initializing HCS DLLs...
+2026/05/10 20:09:24.080426 Warning: failed to open service for recovery config: Access is denied.
+2026/05/10 20:09:24.101286 [HCS] vmcompute.dll loaded successfully
+2026/05/10 20:09:24.114510 [HCS] computecore.dll loaded successfully
+2026/05/10 20:09:24.115063 [HCS] Procs initialized, HCS ready
+2026/05/10 20:09:24.115063 [HCN] Initialized HCN API from computenetwork.dll
+2026/05/10 20:09:24.185480 [HCN] EnumerateNetworks result: ["c08cb7b8-9b3c-408e-8e30-5e16a3aeb444"]
+2026/05/10 20:09:25.357651 [Server] Signature verification initialized
+2026/05/10 20:09:25.357651 [Server]   Service: C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\resources\cowork-svc.exe
+2026/05/10 20:09:25.357651 [Server]   Subject: Anthropic, PBC
+2026/05/10 20:09:25.357651 [Server]   Thumbprint: dbde5d16768ed0c1...
+2026/05/10 20:09:25.357651 [Server]   Enforce: true
+2026/05/10 20:09:25.357651 [Server] Starting named pipe server on \\.\pipe\cowork-vm-service
+2026/05/10 20:09:25.358708 [Server] Named pipe server listening
+2026/05/10 20:09:25.358708 Service ready. Listening on \\.\pipe\cowork-vm-service
+2026/05/10 20:09:46.022392 [Server] Client connected
+2026/05/10 20:09:48.856954 [Server] Client signature verified: C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\claude.exe (subject: Anthropic, PBC)
+2026/05/10 20:09:48.860292 [Server] Client connected: user=marti exe=claude.exe isDev=false
+2026/05/10 20:09:48.861481 [VM] VM owner set: id=cowork-vm-5d61c9a6 sid=S-1-5-21-2941743733-2172176398-4109959614-1011
+2026/05/10 20:09:48.862021 [VM] Event callbacks set
+2026/05/10 20:09:48.862021 [Server] Created new VM session for marti:C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude
+2026/05/10 20:09:48.862591 [Server] Persistent RPC: entering loop
+2026/05/10 20:09:55.359023 [IdleCheck] Session marti:C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude: starting idle timer now
+2026/05/11 09:10:25.632257 [Server] Persistent RPC: connection ended: message too large: 2065853797 bytes
+2026/05/11 09:10:25.811159 [Server] Session marti:C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude has no active connections, idle timeout starts
+2026/05/11 09:10:26.418115 [Server] Client connected
+2026/05/11 10:04:16.284890 [Server] Client signature verified: C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\claude.exe (subject: Anthropic, PBC)
+2026/05/11 10:04:16.341403 [Server] Client connected: user=marti exe=claude.exe isDev=false
+2026/05/11 10:04:16.436057 [Server] Persistent RPC: entering loop
+2026/05/11 14:02:42.497449 [Server] Persistent RPC: connection ended: message too large: 2065853797 bytes
+2026/05/11 14:02:42.514907 [Server] Session marti:C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude has no active connections, idle timeout starts
+2026/05/11 14:02:45.208992 [Server] Client connected
+2026/05/11 14:03:06.978727 [Server] Client signature verified: C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\claude.exe (subject: Anthropic, PBC)
+2026/05/11 14:03:07.396314 [Server] Client connected: user=marti exe=claude.exe isDev=false
+2026/05/11 14:03:09.229221 [Server] Persistent RPC: entering loop
+2026/05/11 15:36:04.176983 [Server] Persistent RPC: connection ended: failed to read length: EOF
+2026/05/11 15:36:04.188999 [Server] Session marti:C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude has no active connections, idle timeout starts
+2026/05/11 15:36:11.700693 [Server] Client connected
+2026/05/11 15:36:19.213859 [Server] Client signature verified: C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\claude.exe (subject: Anthropic, PBC)
+2026/05/11 15:36:19.226794 [Server] Client connected: user=marti exe=claude.exe isDev=false
+2026/05/11 15:36:19.245180 [Server] Persistent RPC: entering loop
+2026/05/11 18:50:38.163093 [Server] Persistent RPC: connection ended: message too large: 2065853797 bytes
+2026/05/11 18:50:38.179785 [Server] Session marti:C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude has no active connections, idle timeout starts
+2026/05/11 18:50:38.206516 [Server] Client connected
+2026/05/11 18:50:41.628449 [Server] Client signature verified: C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\claude.exe (subject: Anthropic, PBC)
+2026/05/11 18:50:41.637604 [Server] Client connected: user=marti exe=claude.exe isDev=false
+2026/05/11 18:50:41.651796 [Server] Persistent RPC: entering loop
+2026/05/11 19:10:00.104081 [Server] Client connected
+2026/05/11 19:10:00.818235 [Server] Client connected: user=marti exe=claude.exe isDev=false
+2026/05/11 19:10:00.825084 [Server] Configuring VM for user=marti userDataDir=C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude
+2026/05/11 19:10:00.825664 [Server]   Bundle: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle
+2026/05/11 19:10:00.826366 [Server]   VHDX: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\rootfs.vhdx
+2026/05/11 19:10:00.826366 [Server]   Kernel: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\vmlinuz
+2026/05/11 19:10:00.826366 [Server]   Initrd: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\initrd
+2026/05/11 19:10:00.826366 [Server]   SmolBin: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\smol-bin.vhdx
+2026/05/11 19:10:00.829373 [VM] VHDX path set: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\rootfs.vhdx
+2026/05/11 19:10:00.830503 [VM] Kernel path set: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\vmlinuz
+2026/05/11 19:10:00.832620 [VM] Initrd path set: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\initrd
+2026/05/11 19:10:00.833135 [VM] SmolBin path set: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\smol-bin.vhdx
+2026/05/11 19:10:00.839917 [VHDX] Creating sparse VHDX: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\sessiondata.vhdx (size: 10737418240 bytes)
+2026/05/11 19:10:00.897876 [VHDX] Created sparse VHDX: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\sessiondata.vhdx
+2026/05/11 19:10:00.899385 [VM] Session disk path set: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\sessiondata.vhdx
+2026/05/11 19:10:00.899385 [VM] User token set for Plan9 identity
+2026/05/11 19:10:00.902493 [VM] Plan9 share added: c -> C:\ (port=9902, readOnly=false)
+2026/05/11 19:10:00.902493 [VM] Plan9 share added: d -> D:\ (port=9903, readOnly=false)
+2026/05/11 19:10:00.903040 [VM] Plan9 share added: g -> G:\ (port=9906, readOnly=false)
+2026/05/11 19:10:00.903040 [VM] Memory set: 4096 MB
+2026/05/11 19:10:00.903040 [VM] CPU count set: 2
+2026/05/11 19:10:00.903040 [Server] Configuration complete for marti:C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude
+2026/05/11 19:10:00.915723 [VM] StartVMWithBundle called (bundlePath=C:\Users\marti\AppData\Roaming\Claude\vm_bundles\claudevm.bundle, memoryGB=0, cpuCount=0)
+2026/05/11 19:10:00.917184 [VM] Starting VM with config: ID=cowork-vm-5d61c9a6, Memory=4096MB, CPUs=2, VHDX=C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\rootfs.vhdx
+2026/05/11 19:10:00.917689 [VM] Creating virtual network provider...
+2026/05/11 19:10:01.017139 [VNet] Created virtual network: subnet=172.16.10.0/24 gateway=172.16.10.1 mtu=1400
+2026/05/11 19:10:01.019161 [VM] 🔵 Boot mode: LinuxKernelDirect (x64)
+2026/05/11 19:10:01.019161 [VM] 🔵 KernelCmdLine: console=ttyS0 earlyprintk=serial root=/dev/sda1 rootfstype=ext4 rw panic=10
+2026/05/11 19:10:01.023748 [VM] HCS Config JSON:
+{
+  "Owner": "cowork-vm-5d61c9a6",
+  "SchemaVersion": {
+    "Major": 2,
+    "Minor": 2
+  },
+  "ShouldTerminateOnLastHandleClosed": true,
+  "VirtualMachine": {
+    "Chipset": {
+      "LinuxKernelDirect": {
+        "InitRdPath": "C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\initrd",
+        "KernelCmdLine": "console=ttyS0 earlyprintk=serial root=/dev/sda1 rootfstype=ext4 rw panic=10",
+        "KernelFilePath": "C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\vmlinuz"
+      }
+    },
+    "ComputeTopology": {
+      "Memory": {
+        "AllowOvercommit": true,
+        "SizeInMB": 4096
+      },
+      "Processor": {
+        "Count": 2
+      }
+    },
+    "Devices": {
+      "HvSocket": {
+        "HvSocketConfig": {
+          "DefaultBindSecurityDescriptor": "D:P(A;;FA;;;WD)",
+          "DefaultConnectSecurityDescriptor": "D:P(A;;FA;;;WD)",
+          "ServiceTable": {
+            "00000400-facb-11e6-bd58-64006a7986d3": {
+              "AllowWildcardBinds": true,
+              "BindSecurityDescriptor": "D:P(A;;FA;;;WD)",
+              "ConnectSecurityDescriptor": "D:P(A;;FA;;;WD)"
+            },
+            "0000c822-facb-11e6-bd58-64006a7986d3": {
+              "AllowWildcardBinds": true,
+              "BindSecurityDescriptor": "D:P(A;;FA;;;WD)",
+              "ConnectSecurityDescriptor": "D:P(A;;FA;;;WD)"
+            }
+          }
+        }
+      },
+      "Plan9": {},
+      "Scsi": {
+        "Primary SCSI Controller": {
+          "Attachments": {
+            "0": {
+              "Path": "C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\rootfs.vhdx",
+              "Type": "VirtualDisk"
+            },
+            "1": {
+              "Path": "C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\smol-bin.vhdx",
+              "ReadOnly": true,
+              "Type": "VirtualDisk"
+            },
+            "2": {
+              "Path": "C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\sessiondata.vhdx",
+              "Type": "VirtualDisk"
+            }
+          }
+        }
+      },
+      "VirtioSerial": {
+        "Ports": {
+          "0": {
+            "Name": "claude-daemon-console",
+            "NamedPipe": "\\\\.\\pipe\\cowork-daemon-console-cowork-vm-5d61c9a6"
+          }
+        }
+      }
+    }
+  }
+}
+2026/05/11 19:10:01.023748 [VM] Creating HCS compute system...
+2026/05/11 19:10:01.023748 [HCS] Calling HcsCreateComputeSystem with id=cowork-vm-5d61c9a6
+2026/05/11 19:10:01.023748 [HCS] Config JSON:
+{"Owner":"cowork-vm-5d61c9a6","SchemaVersion":{"Major":2,"Minor":2},"ShouldTerminateOnLastHandleClosed":true,"VirtualMachine":{"Chipset":{"LinuxKernelDirect":{"InitRdPath":"C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\initrd","KernelCmdLine":"console=ttyS0 earlyprintk=serial root=/dev/sda1 rootfstype=ext4 rw panic=10","KernelFilePath":"C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\vmlinuz"}},"ComputeTopology":{"Memory":{"AllowOvercommit":true,"SizeInMB":4096},"Processor":{"Count":2}},"Devices":{"HvSocket":{"HvSocketConfig":{"DefaultBindSecurityDescriptor":"D:P(A;;FA;;;WD)","DefaultConnectSecurityDescriptor":"D:P(A;;FA;;;WD)","ServiceTable":{"00000400-facb-11e6-bd58-64006a7986d3":{"AllowWildcardBinds":true,"BindSecurityDescriptor":"D:P(A;;FA;;;WD)","ConnectSecurityDescriptor":"D:P(A;;FA;;;WD)"},"0000c822-facb-11e6-bd58-64006a7986d3":{"AllowWildcardBinds":true,"BindSecurityDescriptor":"D:P(A;;FA;;;WD)","ConnectSecurityDescriptor":"D:P(A;;FA;;;WD)"}}}},"Plan9":{},"Scsi":{"Primary SCSI Controller":{"Attachments":{"0":{"Path":"C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\rootfs.vhdx","Type":"VirtualDisk"},"1":{"Path":"C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\smol-bin.vhdx","ReadOnly":true,"Type":"VirtualDisk"},"2":{"Path":"C:\\Users\\marti\\AppData\\Local\\Packages\\Claude_pzs8sxrjxfjjc\\LocalCache\\Roaming\\Claude\\vm_bundles\\claudevm.bundle\\sessiondata.vhdx","Type":"VirtualDisk"}}}},"VirtioSerial":{"Ports":{"0":{"Name":"claude-daemon-console","NamedPipe":"\\\\.\\pipe\\cowork-daemon-console-cowork-vm-5d61c9a6"}}}}}}
+2026/05/11 19:10:01.031446 [HCS] Created operation handle: 1558252265200
+2026/05/11 19:10:01.147240 [HCS] HcsCreateComputeSystem returned: hr=0x0, handle=1558252265152, lastErr=The operation completed successfully.
+2026/05/11 19:10:02.000316 [HCS] HcsWaitForOperationResult returned: hr=0x0
+2026/05/11 19:10:02.000316 [HCS] Result JSON: (nil)
+2026/05/11 19:10:02.001441 [HCS] HcsGetComputeSystemProperties returned: hr=0x0
+2026/05/11 19:10:02.003106 [HCS] Properties result: {"Id":"cowork-vm-5d61c9a6","SystemType":"VirtualMachine","Owner":"cowork-vm-5d61c9a6","RuntimeId":"2b4a99ad-add6-5265-b623-d7d3dfc30d27"}
+2026/05/11 19:10:02.005009 [VM] Got VM runtime ID: 2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:02.005009 [VM] Starting RPC server for vsock connections...
+2026/05/11 19:10:02.008220 [HVSock] Creating listener:
+2026/05/11 19:10:02.008220 [HVSock]   VMID: 2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:02.008220 [HVSock]   Port: 51234 (0xc822)
+2026/05/11 19:10:02.008220 [HVSock]   ServiceGUID: 0000c822-facb-11e6-bd58-64006a7986d3
+2026/05/11 19:10:02.014743 [HVSock] Listening on port 51234 (service GUID: 0000c822-facb-11e6-bd58-64006a7986d3)
+2026/05/11 19:10:02.015296 [RPC] Server started, waiting for sdk-daemon connection on port 51234
+2026/05/11 19:10:02.016308 [HVSock] Creating listener:
+2026/05/11 19:10:02.016308 [HVSock]   VMID: 2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:02.016308 [HVSock]   Port: 1024 (0x400)
+2026/05/11 19:10:02.016308 [HVSock]   ServiceGUID: 00000400-facb-11e6-bd58-64006a7986d3
+2026/05/11 19:10:02.016818 [HVSock] Listening on port 1024 (service GUID: 00000400-facb-11e6-bd58-64006a7986d3)
+2026/05/11 19:10:02.016818 [VNet] Listening for VM network connections on vsock port 1024
+2026/05/11 19:10:02.406090 [VM] Granted VM access to: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\rootfs.vhdx for NT VIRTUAL MACHINE\2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:02.603705 [VM] Granted VM access to: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\vmlinuz for NT VIRTUAL MACHINE\2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:02.784889 [VM] Granted VM access to: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\initrd for NT VIRTUAL MACHINE\2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:02.894857 [VM] Granted VM access to: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\smol-bin.vhdx for NT VIRTUAL MACHINE\2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:02.997977 [VM] Granted VM access to: C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude\vm_bundles\claudevm.bundle\sessiondata.vhdx for NT VIRTUAL MACHINE\2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:02.998521 [VM] Starting compute system...
+2026/05/11 19:10:02.999030 [HCS] HcsStartComputeSystem returned: hr=0x0, lastErr=The operation completed successfully.
+2026/05/11 19:10:03.518701 [Server] Client signature verified: C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\claude.exe (subject: Anthropic, PBC)
+2026/05/11 19:10:03.519326 [Server] Event subscriber connected for marti:C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude (total: 1)
+2026/05/11 19:10:04.281031 [VM] Adding Plan9 share via HcsModifyComputeSystem: name=c path=C:\ port=9902 flags=0x10 hasToken=true
+2026/05/11 19:10:04.282021 [HCS] Calling HcsModifyComputeSystem
+2026/05/11 19:10:04.282021 [HCS] Config: {"ResourcePath":"VirtualMachine/Devices/Plan9/Shares","RequestType":"Add","Settings":{"Name":"c","AccessName":"c","Path":"C:\\","Port":9902,"Flags":16}}
+2026/05/11 19:10:04.283242 [HCS] HcsModifyComputeSystem returned: hr=0x0, lastErr=The operation completed successfully.
+2026/05/11 19:10:04.318370 [VM] Adding Plan9 share via HcsModifyComputeSystem: name=d path=D:\ port=9903 flags=0x10 hasToken=true
+2026/05/11 19:10:04.318370 [HCS] Calling HcsModifyComputeSystem
+2026/05/11 19:10:04.319369 [HCS] Config: {"ResourcePath":"VirtualMachine/Devices/Plan9/Shares","RequestType":"Add","Settings":{"Name":"d","AccessName":"d","Path":"D:\\","Port":9903,"Flags":16}}
+2026/05/11 19:10:04.319369 [HCS] HcsModifyComputeSystem returned: hr=0x0, lastErr=The operation completed successfully.
+2026/05/11 19:10:04.321421 [VM] Adding Plan9 share via HcsModifyComputeSystem: name=g path=G:\ port=9906 flags=0x10 hasToken=true
+2026/05/11 19:10:04.321421 [HCS] Calling HcsModifyComputeSystem
+2026/05/11 19:10:04.321421 [HCS] Config: {"ResourcePath":"VirtualMachine/Devices/Plan9/Shares","RequestType":"Add","Settings":{"Name":"g","AccessName":"g","Path":"G:\\","Port":9906,"Flags":16}}
+2026/05/11 19:10:04.322044 [HCS] HcsModifyComputeSystem returned: hr=0x0, lastErr=The operation completed successfully.
+2026/05/11 19:10:04.324000 [VM] Starting daemon console reader: pipe=\\.\pipe\cowork-daemon-console-cowork-vm-5d61c9a6 log=C:\ProgramData\Claude\Logs\coworkd\user-S-1-5-21-2941743733-2172176398-4109959614-1011.log
+2026/05/11 19:10:04.324000 [VM] VM started successfully
+2026/05/11 19:10:04.346377 [Console] Connected to daemon console pipe: \\.\pipe\cowork-daemon-console-cowork-vm-5d61c9a6
+2026/05/11 19:10:22.582015 [HVSock] Accepted connection from VM=2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:22.588637 [VNet] VM network connected from 2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:27.775996 [HVSock] Accepted connection from VM=2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:27.775996 [RPC] sdk-daemon connected from VM 2b4a99ad-add6-5265-b623-d7d3dfc30d27
+2026/05/11 19:10:27.781327 [RPC] Network status: CONNECTED
+2026/05/11 19:10:27.781327 [VM] Network status: CONNECTED
+2026/05/11 19:10:27.781327 [RPC] sdk-daemon is ready
+2026/05/11 19:10:27.781327 [VM] sdk-daemon is ready!
+2026/05/11 19:10:27.784459 [VM] Sent plan9Shares notification (3 shares)
+2026/05/11 19:10:27.816735 [Certs] Loaded 82 CA certificates from CurrentUser\ROOT
+2026/05/11 19:10:27.899644 [Certs] Loaded 12 CA certificates from CurrentUser\CA (11 untrusted skipped)
+2026/05/11 19:10:27.910879 [Certs] Loaded 0 CA certificates from LocalMachine\ROOT
+2026/05/11 19:10:27.928155 [Certs] Loaded 0 CA certificates from LocalMachine\CA (8 untrusted skipped)
+2026/05/11 19:10:27.928155 [Certs] Loaded 94 unique CA certificates from Windows ROOT+CA stores
+2026/05/11 19:10:27.928155 [RPC] Sending 94 CA certificates for installation
+2026/05/11 19:10:35.081719 [VM] Installed 94 CA certificates in guest
+2026/05/11 19:10:35.574688 [RPC] API reachability: REACHABLE
+2026/05/11 19:10:35.574688 [VM] API reachability: REACHABLE
+2026/05/11 19:52:53.440649 [Server] Persistent RPC: connection ended: message too large: 2065853797 bytes
+2026/05/11 19:52:53.496878 [Server] Session marti:C:\Users\marti\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude has no active connections, idle timeout starts
+2026/05/11 19:52:54.642868 [Server] Client connected
+2026/05/11 19:53:13.623193 [Server] Client signature verified: C:\Program Files\WindowsApps\Claude_1.6608.2.0_x64__pzs8sxrjxfjjc\app\claude.exe (subject: Anthropic, PBC)
+2026/05/11 19:53:13.629632 [Server] Client connected: user=marti exe=claude.exe isDev=false
+2026/05/11 19:53:13.645085 [Server] Persistent RPC: entering loop

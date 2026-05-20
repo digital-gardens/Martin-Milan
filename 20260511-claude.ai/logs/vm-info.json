@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-05-11T18:29:45.414Z",
+  "vmBundle": {
+    "version": "5680b11bcdab215cccf07e0c0bd1bd9213b0c25d",
+    "path": "C:\\Users\\marti\\AppData\\Roaming\\Claude\\vm_bundles\\claudevm.bundle",
+    "exists": true,
+    "sizeBytes": 13762587666,
+    "sizeMB": "13125.03",
+    "isDownloaded": true
+  },
+  "vmStatus": {
+    "isGuestConnected": true,
+    "debugLoggingEnabled": false
+  },
+  "sdk": {
+    "version": "2.1.128",
+    "path": "C:\\Users\\marti\\AppData\\Roaming\\Claude\\claude-code-vm",
+    "exists": true,
+    "sizeBytes": 248789639,
+    "sizeMB": "237.26"
+  },
+  "sessions": {
+    "basePath": "C:\\Users\\marti\\AppData\\Roaming\\Claude\\local-agent-mode-sessions",
+    "count": 1,
+    "totalSizeBytes": 4979215,
+    "totalSizeMB": "4.75",
+    "active": [
+      {
+        "sessionId": "local_a19dd9c3-cf95-4656-a352-b01c49a0cb71",
+        "processName": "outputs",
+        "isRunning": false,
+        "isArchived": false,
+        "createdAt": 1778517875340,
+        "lastActivityAt": 1778523499708
+      }
+    ]
+  }
+}

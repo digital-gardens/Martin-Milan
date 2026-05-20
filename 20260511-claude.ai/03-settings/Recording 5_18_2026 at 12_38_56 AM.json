@@ -1,0 +1,68 @@
+{
+    "title": "Recording 5/18/2026 at 12:38:56 AM",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1142,
+            "height": 643,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "file:///C:/Users/marti/OneDrive/Dokumenty/03AiAGENT-RW/03-settings/claude.ai--Settings---chrome.md.publ.md",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "file:///C:/Users/marti/OneDrive/Dokumenty/03AiAGENT-RW/03-settings/claude.ai--Settings---chrome.md.publ.md",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "pre"
+                ],
+                [
+                    "xpath//html/body/pre"
+                ],
+                [
+                    "pierce/pre"
+                ]
+            ],
+            "offsetY": 232,
+            "offsetX": 305,
+            "duration": 422
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Control"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "c"
+        },
+        {
+            "type": "keyUp",
+            "key": "c",
+            "target": "main"
+        },
+        {
+            "type": "keyUp",
+            "key": "Control",
+            "target": "main"
+        },
+        {
+            "type": "keyDown",
+            "target": "main",
+            "key": "Alt"
+        }
+    ]
+}
