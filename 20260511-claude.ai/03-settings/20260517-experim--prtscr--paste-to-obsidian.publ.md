@@ -1,7 +1,21 @@
 
+^  a   
+or drag to select in manage extensuion
 
 
 
+shift ^ p new  
+
+ ^  prtscr 
+ ^prtscr 
+
+! [[Pasted image 20260517215310.png]]
+
+---
+
+
+
+new vault
 
 ![[Pasted image 20260519155516.png]]
 
@@ -79,20 +93,6 @@ insecure content?
 
 
 ![[Pasted image 20260518032822.png]]
-
----
-
-^  a   
-or drag to select in manage extensuion
-
-
-
-shift ^ p new  
-
- ^  prtscr 
- ^prtscr 
-
-![[Pasted image 20260517215310.png]]
 
 ---
 
