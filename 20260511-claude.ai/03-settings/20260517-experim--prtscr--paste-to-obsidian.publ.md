@@ -74,9 +74,13 @@ setting this back in edge
 
 
 #aaaa?    edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+payment handlers
+insecure content?
+
 
 ![[Pasted image 20260518032822.png]]
 
+---
 
 ^  a   
 or drag to select in manage extensuion
