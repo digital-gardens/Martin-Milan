@@ -37,6 +37,11 @@ cmd /c  dir .git  /s /b /a
 cd OneDrive
 git ls-files
 
+bash
+
+git ls-files | grep -o '.*[/]'  | sort -u  | grep -oEi   '[.a-z0-9]*[.]\w*'  | sort -u
+
+
 
 
 
