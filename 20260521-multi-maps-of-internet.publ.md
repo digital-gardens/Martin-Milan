@@ -62,9 +62,23 @@ git clone c:\Users\marti\OneDrive\Dokumenty\00-MM
 cd 00-MM
 
 rather not 
+# MODIFIES GIT DIR 
 git read-tree --help
 git read-tree --dry-run
-git read-tree 
+###################### git read-tree 
+192 changed files
+git ls-files 
+0 
+
+
+git reset --soft    --dry-run  -vv
+git reset --soft  
+git reset --mixed 
+
+git ls-files |measure-object 
+192 
+
+
 
  --format='%(objectname) %(path)'
 FIELD NAMES
