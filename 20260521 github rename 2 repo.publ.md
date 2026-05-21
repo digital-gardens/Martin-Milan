@@ -21,4 +21,8 @@ git remote -vv
 git remote set-url origin https://github.com/digital-gardens/Martin-Milan-Dokumenty
 
 
-MINGW64:/d/0004-LINKS/03dee-Ai-AGENT-RW/deecloneMartin-Milan
+
+
+after rename repo at github, move files
+
+
