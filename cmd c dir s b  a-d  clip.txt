@@ -1,0 +1,192 @@
+\.gitignore
+\20260520 obsidian vscode.md
+\20260521-multi-maps-of-internet.publ.md
+\Code-User-snippets-markdown.json.publ.md
+\LICENSE
+\new vault.md
+\README.md
+\.obsidian\app.json
+\.obsidian\appearance.json
+\.obsidian\core-plugins.json
+\.obsidian\workspace.json
+\0020260519-attempt-move-repo\011 0404 not 2602 ? mm.publ.md
+\0020260519-attempt-move-repo\20260519-attempt-move-split-repo.publ.md
+\0020260519-attempt-move-repo\Ask HN Best way to host a website for 500 years.md
+\0020260519-attempt-move-repo\My External Brain  Living with Brain Injury.md
+\0020260519-attempt-move-repo\sort-order\0-MM\PLACEHOLDER.f8.md
+\0020260519-attempt-move-repo\sort-order\00-MM\PLACEHOLDER.f8.md
+\0020260519-attempt-move-repo\sort-order\00MM\PLACEHOLDER.f8.md
+\0020260519-attempt-move-repo\sort-order\0MM\PLACEHOLDER.f8.md
+\011-POMOC.publ.dir\00043-tags-011-subsumed-0404---?????-aaaaAAA-00000-CORE1000-.f8.md
+\011-POMOC.publ.dir\01-251218-Headphone-Healing.publ.md
+\011-POMOC.publ.dir\011 POMOC NAPOVEDA HELP otevreni .f5. windows.command.cmd
+\011-POMOC.publ.dir\011-POMOC-pro-Martina-Milana.publ.md
+\011-POMOC.publ.dir\0112-belly-peristaltika-obnovit-tr├íven├¡.publ.md
+\011-POMOC.publ.dir\0119-potreboval-bych-pomoc.publ.md
+\011-POMOC.publ.dir\0119pozdeji.publ.md
+\011-POMOC.publ.dir\02-251019-Zdrav├¡.f8.md
+\011-POMOC.publ.dir\0b-vyhybat-se-nemocnici.publ.md
+\011-POMOC.publ.dir\20260430-zda-existuj├¡-pacienti-jako-j├í.publ.md
+\011-POMOC.publ.dir\20260504-YYYYMMDD-YYMMDD-NAMING-24cf-meta-aaaaAAA--03-260129-251225-topic-brainstorming.publ.md
+\011-POMOC.publ.dir\20260515.yoga.j├│ga..mudry..vedeck├⌐.vysvetlen├¡.publ.md
+\011-POMOC.publ.dir\0004-LINKS---DONOT-PUT-LONG-FILES-HERE--AI-WILL-READ\0000-url-file.f4-edit.f5.url
+\011-POMOC.publ.dir\0004-LINKS---DONOT-PUT-LONG-FILES-HERE--AI-WILL-READ\0404-url-file.f5.url
+\011-POMOC.publ.dir\0004-LINKS---DONOT-PUT-LONG-FILES-HERE--AI-WILL-READ\PLACEHOLDER.f8.md
+\03.publ.dir\0brain-260129-topic-brainstorming.publ.md
+\03.publ.dir\0brain-2603-topic-brainstorming-260129.publ.md
+\03.publ.dir\0brain-topic-brainstorming-260129.publ.md
+\03.publ.dir\0tra-251105-symptom-tracker.f8.md
+\03.publ.dir\0tra-26041-symptom-tracker.f8.md
+\03.publ.dir\20260425 Imagine an archive. Of family texts. In computer form. Searchable. For centuries.publ.md
+\03.publ.dir\20260518T193046 vscode-terminal-launch-error.publ.md
+\03.publ.dir\260125-merely-start-a-big-topic.meta.publ.md
+\03.publ.dir\260404-generalization-of-language.publ.md
+\03.publ.dir\260406-beauty-in-computing.publ.md
+\03.publ.dir\unsort-du64-l-3--d.txt
+\03.publ.dir\.vscode\extensions.json
+\03.publ.dir\.vscode\settings.json
+\03.publ.dir\0004-MOVING-FROM-2512--SMALL-FILES\0000-url-file.f4-edit.f5.url
+\03.publ.dir\0004-MOVING-FROM-2512--SMALL-FILES\0404-url-file.f5.url
+\03.publ.dir\0004-MOVING-FROM-2512--SMALL-FILES\250226-aaaa-config-stt-tracker - Shortcut.lnk
+\03.publ.dir\drafts\2 draft 20260425 Imagine an archive. Of family texts. In computer form. Searchable. For centuries.md
+\03.publ.dir\drafts\20260425Imagineanarchive.Offamilytexts.Incomp.html
+\03.publ.dir\drafts\22 draft 20260425 Imagine an archive. Of family texts. In computer form. Searchable. For centuries.publ.md
+\03.publ.dir\drafts\2322 draft 20260425 Imagine an archive. Of family texts. In computer form. Searchable. For centuries.md
+\03.publ.dir\drafts\draft 20260425 Imagine an archive. Of family texts. In computer form. Searchable. For centuries.md
+\03.publ.dir\drafts\I-am-preparing-a-reddit-post..-It-is-my-dream-for-many-months-related-song-...-i.md
+\03.publ.dir\drafts\Subreddit Suggestions for Digital Archives.md
+\03.publ.dir\drafts\subscribersUntitled-6.json
+\20260511-claude.ai\2026-05-11T16-45-01-001Z.jsonl
+\20260511-claude.ai\202605-claude.ai.publ.md
+\20260511-claude.ai\20260511-special-claude.ai.publ.md
+\20260511-claude.ai\20260520 a person with anxiety-s  -my- guide to.publ.md
+\20260511-claude.ai\Claude New Chrome Extension The Secret Weapon Everyone Should be Using - YouTube.md
+\20260511-claude.ai\claude_desktop_config.json
+\20260511-claude.ai\cowork_vm_node.log
+\20260511-claude.ai\llm-wiki.f8.md
+\20260511-claude.ai\ruben.substack.com-p-youre.publ.md
+\20260511-claude.ai\youre-just-a-text-file--2.md
+\20260511-claude.ai\youre-just-a-text-file.md
+\20260511-claude.ai\03-settings\20260517-experim--prtscr--paste-to-obsidian.publ.md
+\20260511-claude.ai\03-settings\clau---Settings---Code.publ.md
+\20260511-claude.ai\03-settings\clau-Settings--genera--3-ways-to-copy.md.publ.md
+\20260511-claude.ai\03-settings\Claude in Chrome Permissions Guide.md
+\20260511-claude.ai\03-settings\Claude--setti--cust-connec.publ.md
+\20260511-claude.ai\03-settings\claude.ai--Settings---capabi.publ.md
+\20260511-claude.ai\03-settings\claude.ai--Settings---chrome.md.publ.md
+\20260511-claude.ai\03-settings\claude.ai--Settings---desktop1.md.publ.md
+\20260511-claude.ai\03-settings\gemini.google.com---saved-info.publ.md
+\20260511-claude.ai\03-settings\Get started with Claude Cowork.md
+\20260511-claude.ai\03-settings\image.png
+\20260511-claude.ai\03-settings\Let Claude use your computer in Cowork.md
+\20260511-claude.ai\03-settings\Pasted image 20260517215310.png
+\20260511-claude.ai\03-settings\Pasted image 20260517215544.png
+\20260511-claude.ai\03-settings\Recording 5_18_2026 at 12_38_56 AM.json
+\20260511-claude.ai\03-settings\setti-from--20260511-special-claude.ai.publ.md
+\20260511-claude.ai\03-settings\Use Claude Cowork safely.md
+\20260511-claude.ai\03-settings\Using Claude in Chrome safely.md
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517221023.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517221953.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517222224.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517224408.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517230050.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517230207.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517230412.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517230612.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517230702.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517230830.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517231330.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517234020.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517234322.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517234459.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517234649.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517234753.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517235501.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260517235852.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518000042.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518000121.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518001356.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518002138.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518002447.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518002722.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518002952.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518003934.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518013235.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518013256.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518013659.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518020458.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518021523.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518023251.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518023356.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518023802.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518032005.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518032116.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518032224.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518032355.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518032822.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518210000.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260518211211.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260519155516.png
+\20260511-claude.ai\03-settings\attachments\Pasted image 20260520172858.png
+\20260511-claude.ai\03-settings\attachments\Untitled 2.md
+\20260511-claude.ai\11Clippings\AGENTS.md
+\20260511-claude.ai\11Clippings\Anthropic Is Turning Claude Code Into a "Context Operating System".md
+\20260511-claude.ai\11Clippings\Build your AI Second Brain using Obsidian and Andrej Karpathy's LLM Wiki pattern.md
+\20260511-claude.ai\11Clippings\chatgpt, gemini, claude, grok.md
+\20260511-claude.ai\11Clippings\cheat sheets.md
+\20260511-claude.ai\11Clippings\Claude CLI deleted my entire home directory! Wiped my whole mac.md
+\20260511-claude.ai\11Clippings\Claude completely changed my life, and I'm not even a programmer.md
+\20260511-claude.ai\11Clippings\Claude in Chrome.md
+\20260511-claude.ai\11Clippings\Claude Skills are awesome, maybe a bigger deal than MCP.md
+\20260511-claude.ai\11Clippings\claude.ai disability accessibility reddit.md
+\20260511-claude.ai\11Clippings\Excerpt from Several Short Sentences About Writing.md
+\20260511-claude.ai\11Clippings\Get started with Claude in Chrome 1.md
+\20260511-claude.ai\11Clippings\Get started with Claude in Chrome.md
+\20260511-claude.ai\11Clippings\Get started with Claude in Chrome.publ.md
+\20260511-claude.ai\11Clippings\GitHub Copilot in VS Code.md
+\20260511-claude.ai\11Clippings\GitHub Copilot Security Review It Executes Malware With Zero Approval.md
+\20260511-claude.ai\11Clippings\I finally tried the Claude Chrome extension, and I regret waiting this long.md
+\20260511-claude.ai\11Clippings\I run Claude Code on 256GB  8GB RAM. Here's what's silently eating your disk 1.md
+\20260511-claude.ai\11Clippings\Inside GitHub Copilot's Brain Reverse-Engineering the System Prompts That Power VS Code's AI.md
+\20260511-claude.ai\11Clippings\is Gemini Standard subscriptions incl. the Gemini CLI.md
+\20260511-claude.ai\11Clippings\List Reading list  Curated by Martin Novy.md
+\20260511-claude.ai\11Clippings\Llm wiki setup for Cowork users.md
+\20260511-claude.ai\11Clippings\llm-wiki.md
+\20260511-claude.ai\11Clippings\My External Brain  Living with Brain Injury.md
+\20260511-claude.ai\11Clippings\Post by @zan2434 on X.md
+\20260511-claude.ai\11Clippings\The Second Brain That Grows Smarter and Lives on your Computer.md
+\20260511-claude.ai\11Clippings\The `How to AI' library.md
+\20260511-claude.ai\11Clippings\Use plugins in Claude Cowork.md
+\20260511-claude.ai\11Clippings\Why do hand mudras work.md
+\20260511-claude.ai\11Clippings\Workflow Preventing AI-Induced Data Loss Lessons from a Windows Installation Deletion.md
+\20260511-claude.ai\11Clippings\Yoga as therapy.md
+\20260511-claude.ai\11Clippings\You said  reddit ... in recent months ... ui chag.md
+\20260511-claude.ai\attachments\2026-05-20_17h08_19.png
+\20260511-claude.ai\attachments\Pasted image 20260520164635.png
+\20260511-claude.ai\attachments\Pasted image 20260520172204.png
+\20260511-claude.ai\attachments\Screenshot (2788).png
+\20260511-claude.ai\attachments\Screenshot (2789).png
+\20260511-claude.ai\attachments\Screenshot (2808).png
+\20260511-claude.ai\attachments\Screenshot (2813).png
+\20260511-claude.ai\copy-from--onedr-my.claude\CLAUDE.md
+\20260511-claude.ai\dotclaude\.claude.json.backup.1778916052577.json.md
+\20260511-claude.ai\dotclaude\snapshot-bash-1778740241092-wlsyj7.sh
+\20260511-claude.ai\logs\claude.ai-web.log
+\20260511-claude.ai\logs\cowork-service.log
+\20260511-claude.ai\logs\coworkd-user.log
+\20260511-claude.ai\logs\cowork_vm_node.log
+\20260511-claude.ai\logs\gpu-info.json
+\20260511-claude.ai\logs\main.log
+\20260511-claude.ai\logs\mcp-info.json
+\20260511-claude.ai\logs\ssh.log
+\20260511-claude.ai\logs\supported-features-info.json
+\20260511-claude.ai\logs\system-info.txt
+\20260511-claude.ai\logs\vm-info.json
+\20260511-claude.ai\pd----Claude\Logs\cowork-service.log
+\20260511-claude.ai\pd----Claude\Logs\coworkd\user-S-1-5-21-2941743733-2172176398-4109959614-1011.log
+\exports.publ.dir\20251004_134320.jpg
+\exports.publ.dir\AAA-ODKAZY.f8 (2).md
+\exports.publ.dir\goodreads_library_export.csv
+\exports.publ.dir\LeechBlockOptions-2026-05-16T11-00-06.txt
+\exports.publ.dir\obsidian-web-clipper-settings.json
+\exports.publ.dir\Screenshot_20260517-203953_Settings.png

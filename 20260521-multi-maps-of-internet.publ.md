@@ -25,6 +25,21 @@ pilot
 
 tc fail fail 
 
+
+
+
+
+
+
+cd ..
+cmd /c  dir .git  /s /b /a
+
+cd OneDrive
+git ls-files
+
+
+
+
 cmd /c dir /s /b  | clip
 is it sorted by name ?
 no, it is sorted by path depth first?
@@ -34,19 +49,57 @@ help
 cmd /c dir /?
 
 cmd /c dir /s /b  | measure-object
+cmd /c dir /s /b /a-h | measure-object
 cmd /c dir /s /b  /aa | measure-object
 cmd /c dir /s /b  /ai | measure-object
+
 cmd /c dir /s /b  /ad | measure-object
 
 cmd /c dir /s /b  /a-d | measure-object
+192
 
-cmd /c dir /s   | measure-object
-cmd /c dir /s /n  | measure-object
+cmd /c dir /s /b  /a-d | clip
+
+cmd /c dir /s >e
+
+cmd /c dir /s >e
+| clip
+   | measure-object
+cmd /c dir /s /n  >n
+|clip
+  | measure-object
+
+cmd /c fc e n >f
+code f
+code e
+code n
 
 cmd /c dir /s /w /o /p | measure-object
 cmd /c dir /s /w /o /p  /a:-d | measure-object
 cmd /c dir /s /w /o /p  /a:d | measure-object
 
+
+cd ..
+mkdir  dir
+cd dir
+tc move .git elsewhere
+or make it hidden 
+
+cmd  /c   move .git ..\elsewhere
+cmd  /c   move /?
+
+
+fail
+windows command to make a file hidden
+cmd /c attrib +h .git
+
+
+
+cd d:\0004-LINKS
+git clone c:\Users\marti\OneDrive\Dokumenty\00-MM
+cd 00-MM
+
+tc 
 
 git ls-files 
 git ls-files -v
