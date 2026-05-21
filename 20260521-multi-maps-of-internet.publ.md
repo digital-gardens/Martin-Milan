@@ -39,7 +39,11 @@ git ls-files
 
 bash
 
-git ls-files | grep -o '.*[/]'  | sort -u  | grep -oEi   '[.a-z0-9]*[.]\w*'  | sort -u
+git ls-files | grep -o '.*[/]'  | sort -u   | grep cla
+
+ok 00-MM
+
+ | grep -oEi   '[.a-z0-9]*[.]\w*'  | sort -u   
 
 
 
