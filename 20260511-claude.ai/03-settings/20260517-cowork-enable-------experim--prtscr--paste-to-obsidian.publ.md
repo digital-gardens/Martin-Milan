@@ -1,5 +1,12 @@
 #aa 
 
+Logged in as mil @gmail.com
+
+
+
+git status
+
+
 
 ^  a   
 or drag to select in manage extensuion
@@ -58,8 +65,8 @@ for long term ... disable ext
 
 
 
-local exe crashed 
-
+local exe crashed ?
+doesnt matter for chrome ext?
 
 
 
@@ -89,21 +96,29 @@ chrome works
 ![[Pasted image 20260518032005.png]]
 setting this back in edge
 
+---
 
-#aaaa  ?    edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+# #aaaa  ?    edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
 payment handlers
 insecure content?
 
 
 ![[Pasted image 20260518032822.png]]
 
+---
 
+
+
+# ?? #aaaa   Sites can show sign-in prompts from identity services
 after 520 
+
 edit.. revert to default settings, in both edge and chrome 
+^f default
 
-edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+edit..
+chrome://settings/content/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+doesnt have a setting for sign-in prompts
 
-?? #aaaa   Sites can show sign-in prompts from identity services
 
 1. what will happen if i set this to block ?
 
@@ -114,9 +129,6 @@ Since this entry is scoped to a chrome-extension:// URL (not a regular website),
 3. will it break the extension ?
 
 
-
-
-
 ![[Pasted image 20260520172858.png]]
 
 
@@ -124,6 +136,7 @@ Since this entry is scoped to a chrome-extension:// URL (not a regular website),
 
 my screenshots are *after* change  // by default
 
+cowork
 Computer use Beta
 ![[Pasted image 20260517215544.png]]
 
@@ -137,7 +150,7 @@ No browsers connected
 No Chrome instances are connected. Open Chrome with the Claude extension and sign in.
 
 
-
+---
 
 Claude in Chrome lets Claude handle work in the browser via Claude Desktop. Once enabled, browser tools are always available to Claude. Only grant full permissions for trusted sites. See more [safety tips](https://support.anthropic.com/en/articles/12902428-using-claude-for-chrome-safely).
 
@@ -150,7 +163,7 @@ Claude in Chrome lets Claude handle work in the browser via Claude Desktop. Once
 
 
 
-
+---
 
 # Claude for Chrome would like to connect to your Claude chat account
 
@@ -162,7 +175,6 @@ Contribute to your Claude subscription usage
 
 Create, continue, and delete your conversations
 
-Logged in as milan.bok.75@gmail.com
 
 ![[Pasted image 20260517222224.png]]
 
@@ -438,7 +450,7 @@ Payment handlers
 
 Insecure content
 
-Web app installations
+Web app installations ... probably harmless
 ![[Pasted image 20260517230612.png]]
 
 ![[Pasted image 20260518023356.png]]
