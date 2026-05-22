@@ -99,7 +99,23 @@ insecure content?
 
 
 after 520 
+edit.. revert to default settings, in both edge and chrome 
+
+edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+
 ?? #aaaa   Sites can show sign-in prompts from identity services
+
+1. what will happen if i set this to block ?
+
+2. will some website break (stop working)?
+
+Since this entry is scoped to a chrome-extension:// URL (not a regular website), it only affects that extension's own context. Regular websites you visit are governed by their own separate permission entries, so no, your websites won't be affected by this toggle.
+
+3. will it break the extension ?
+
+
+
+
 
 ![[Pasted image 20260520172858.png]]
 
