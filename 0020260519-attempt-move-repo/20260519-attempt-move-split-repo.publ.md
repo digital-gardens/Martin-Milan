@@ -148,6 +148,10 @@ not the root folder of the vault
 
 # move some 0* dirs  using vscode, not tc
 # BUT DONT MOVE UNTRACKED FILES ... GRAYED OUT IN GIT STATUS in vscode
+cd 00-MM
+cmd /c dir /s /b *.r8.*
+cmd /c dir /s /b *.n8.*
+git ls-files --others --ignored --exclude-standard
 
 
 
