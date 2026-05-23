@@ -340,7 +340,89 @@ Crossposts
 https://www.thebrain.com/docs/markdown-info
 Newline characters (when you press Enter/Return) are always respected whereas traditional Markdown would ignore single line breaks unless the line ended with space.
 
+# 20260522
 
+TOTALCMD#BAR#DATA
+cm_CopyFullNamesToClip
+
+C:\Program Files\Total Commander\Wcmicons3.dll,45
+Copy Full Names to Clipboard
+
+
+2018
+
+site:https://www.ghisler.ch/ make a "url file " link
+
+windows file-manager to make a "url file " link to a local file or directory site:www.reddit.com
+
+
+//// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
+
+## 20260523   
+
+cmd /c dir c:\Users\marti\OneDrive\Dokumenty\00-MM\.vsc
+
+
+cmd /c dir /a C:\Users\marti\AppData\Roaming\Code\User\   /s 
+46000 files
+12000 folders
+938 MB 
+
+
+???
+mklink /j
+from C:\Users\marti\AppData\Roaming\Code\Preferences
+to C:\Users\marti\OneDrive\... 
+
+??? do some  people use mklink /j to link their vscode \Users\marti\AppData\Roaming\Code\Preferences
+ to their OneDrive or Google Drive or Dropbox or etc. to have them backed up 
+
+
+
+from C:\Users\marti\AppData\Roaming\Code\User
+
+
+
+
+first 
+C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1.md
+
+
+"C:\Users\marti\AppData\Roaming\Code\Preferences"
+"C:\Users\marti\AppData\Roaming\Code\code.lock"
+
+
+mklink /j settings.json
+from C:\Users\marti\AppData\Roaming\Code\User\settings.json
+to C:\Users\marti\OneDrive\Dokumenty\00-MM\Code,vscode\settings.json
+is it already a symbolic link?
+cmd /c dir /al C:\Users\marti\AppData\Roaming\Code\User\settings.json
+cmd /c dir /al C:\Users\marti\AppData\Roaming\Code\User\
+cmd /c dir /a C:\Users\marti\AppData\Roaming\Code\User\
+
+vscode.. simulate.. a two-pane file manager , like total commander or midnight commander, using 
+the built-in explorer view 
+or extensions
+
+
+//// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
+//
+
+---
+
+https://github.com/microsoft/vscode/issues?q=label%3A%22file-explorer%22%20sort%3Acomments-desc&page=2
+
+
+alt help 
+@vscode ask questions about VS Code 
+
+
+pdp-11 keyboard layout
+commodore pet keyboard layout
+what were the computers ,that Emacs started on ... PDP-11???
+
+
+hewlett packard computer .. 1970s Measurement and control system .. with fortran iv, 5 MB hard drive, punched tape
 
 
 # https://www.reddit.com/answers/
@@ -491,7 +573,29 @@ what are the etc ...
 - 
 
 
-an interesting comment on the original post by Karpathy ... 
+an interesting comment on the original post by Karpathy ... months of experience ... about LLM agents that can read and write markdown files ...
+
+
+
+# 20260522
+any non-trivial examples
+of
+
+
+any recent 
+
+hard sci-fi
+or ultra hard sci-fi
+
+visions of the future
+about computing
+
+e.g. 
+- a billion nanocomputers on a home wall
+- a brain made of computers covering the entire surface of Mars
+- 
+
+If you want a single entry point: start with Permutation City — it's the most readable of the ultra-hard computing novels and directly addresses the "what is a computer, what is a substrate" question at its core. If you want the most recent and most rigorous, Egan's short collections from 2020–2023 are the frontier.
 
 
 
