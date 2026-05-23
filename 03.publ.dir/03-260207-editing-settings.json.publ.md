@@ -3,8 +3,73 @@
 
 
 
-todo 20260523  edit settings.json
+# todo 20260523  edit settings.json
 C:\Users\marti\OneDrive\Dokumenty\00-MM\03.publ.dir\03-260207-editing-settings.json.publ.md
+
+
+
+
+
+https://github.com/martin12333/marti-onedrive/commits/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
+
+
+
+"   "
+comma in powershell
+
+##mkdir "C:\Users\marti\OneDrive\Dokumenty\00-MM\Code,vscode"
+claude code 
+mkdir "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode"
+
+
+cmd /c 
+copy  "C:\Users\marti\AppData\Roaming\Code\Preferences"
+ "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+
+
+cmd /c dir c:\Users\marti\OneDrive\Dokumenty\00-MM\.vsc
+
+
+cmd /c dir /a C:\Users\marti\AppData\Roaming\Code\User\   /s 
+46000 files
+12000 folders
+938 MB 
+
+
+???
+mklink /j
+from "C:\Users\marti\AppData\Roaming\Code\Preferences"
+to "C:\Users\marti\OneDrive\... "
+
+??? do some  people use mklink /j to link their vscode \Users\marti\AppData\Roaming\Code\Preferences
+ to their OneDrive or Google Drive or Dropbox or etc. to have them backed up 
+
+
+
+from C:\Users\marti\AppData\Roaming\Code\User
+
+
+
+
+first 
+C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1.md
+
+
+"C:\Users\marti\AppData\Roaming\Code\Preferences"
+"C:\Users\marti\AppData\Roaming\Code\code.lock"
+
+
+mklink /j settings.json
+from "C:\Users\marti\AppData\Roaming\Code\User\settings.json"
+to "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\settings.json"
+
+is it already a symbolic link?
+cmd /c dir /al C:\Users\marti\AppData\Roaming\Code\User\settings.json
+cmd /c dir /al C:\Users\marti\AppData\Roaming\Code\User\
+cmd /c dir /a C:\Users\marti\AppData\Roaming\Code\User\
+
+
+
 
 
 # .gitignore done
