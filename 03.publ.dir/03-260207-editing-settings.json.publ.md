@@ -50,7 +50,15 @@ cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C
 
 y
 
+code          "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  
+
+
+	"workbench.sideBar.location": "right",
+	// 20260523 vscdb sideBar <- moved Explorer view
+
 ---
+
+code  "C:\Users\marti\OneDrive\Dokumenty\00-MM\WIN-s\WIN..WIN..sticky-keys.md"
 
 
 
