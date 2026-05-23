@@ -362,9 +362,6 @@ windows file-manager to make a "url file " link to a local file or directory sit
 
 
 # 20260523 settings.json  
-
-
-
 todo 20260523  edit settings.json
 C:\Users\marti\OneDrive\Dokumenty\00-MM\03.publ.dir\03-260207-editing-settings.json.publ.md
 

@@ -1,6 +1,8 @@
 03-260207-editing-settings-json.publ.md
 
 
+# //// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
+
 
 
 # todo 20260523  edit settings.json
@@ -17,14 +19,25 @@ https://github.com/martin12333/marti-onedrive/commits/main2/tar-exe/c/Users/mart
 "   "
 comma in powershell
 
-##mkdir "C:\Users\marti\OneDrive\Dokumenty\00-MM\Code,vscode"
-claude code 
+NO ##mkdir "C:\Users\marti\OneDrive\Dokumenty\00-MM\Code,vscode"  NO  claude code 
 mkdir "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode"
+done 
 
 
-cmd /c 
-copy  "C:\Users\marti\AppData\Roaming\Code\Preferences"
- "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+13hours old 
+##copy  "C:\Users\marti\AppData\Roaming\Code\Preferences"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+
+
+dir C:\Users\marti\AppData\Roaming\Code\User\settings.json
+dir C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\settings.json
+
+
+cmd /c  copy   /-y       "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+y
+
+mkdir "C:\Users\marti\OneDrive\Dokumenty\00-MM\WIN-s"
+code  "C:\Users\marti\OneDrive\Dokumenty\00-MM\WIN-s\controlled-folder-access.md"
+
 
 
 cmd /c dir c:\Users\marti\OneDrive\Dokumenty\00-MM\.vsc
