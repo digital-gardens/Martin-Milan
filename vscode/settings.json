@@ -465,12 +465,15 @@
 	"jupyter.logKernelOutputSeparately": true,
 	"editor.renderWhitespace": "all",
 	"workbench.sideBar.location": "right",
+
 	// 20260523 vscdb sideBar <- moved Explorer view
 
-	
 	// DONT FORGET THE COMMA AFTER EACH SETTING
-// related file:///C:\Users\marti\OneDrive\tar-exe\c\Users\marti\AppData\Roaming\Code\User\settings.json
-// related https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
+
+	// related file:///C:\Users\marti\OneDrive\tar-exe\c\Users\marti\AppData\Roaming\Code\User\settings.json
+
+	// 00-MM
+	// related https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
 
 
 	///"foam.graph.titleMaxLength": 26,  /// just an experim
