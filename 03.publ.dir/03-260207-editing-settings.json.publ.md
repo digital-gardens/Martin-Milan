@@ -40,7 +40,7 @@ code  "C:\Users\marti\OneDrive\Dokumenty\00-MM\WIN-s\controlled-folder-access.md
 
 
 
-cmd /c dir c:\Users\marti\OneDrive\Dokumenty\00-MM\.vsc
+cmd /c dir c:\Users\marti\OneDrive\Dokumenty\00-MM\.vscode
 
 
 cmd /c dir /a C:\Users\marti\AppData\Roaming\Code\User\   /s 

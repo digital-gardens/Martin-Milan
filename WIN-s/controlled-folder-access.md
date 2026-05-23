@@ -16,3 +16,9 @@ Controlled folder access is a security feature in Windows that helps protect you
 
 To enable controlled folder access, follow these steps:
 
+win + q -> controlled folder access -> Manage controlled folder access -> Turn on controlled folder access
+
+win + s protected folders -> Manage protected folders -> Add a protected folder
+
+
+
