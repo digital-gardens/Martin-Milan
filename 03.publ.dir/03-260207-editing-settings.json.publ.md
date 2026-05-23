@@ -1,8 +1,22 @@
 this
 C:\Users\marti\OneDrive\Dokumenty\00-MM\03.publ.dir\03-260207-editing-settings.json.publ.md
 
-
 # //// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
+
+
+# cp -i   ...   copy /-y  ... cmd /c  copy   /-y       
+y
+
+
+# ---   redo..  copy settings.json to onedrive to the repo 
+
+redo
+
+code          "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  
+
+cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+
+---
 
 
 
@@ -41,42 +55,21 @@ cmd /c dir /a C:\Users\marti\AppData\Roaming\Code\User\   /s
 938 MB 
 
 ---
-
-/-y
-cmd /c  copy   /-y       
-
-redo
-cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
-
-y
-
-code          "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  
-
-
-	"workbench.sideBar.location": "right",
-	// 20260523 vscdb sideBar <- moved Explorer view
-
-code  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\hope-vscdb-no-secrets.md"
----
-
 code  "C:\Users\marti\OneDrive\Dokumenty\00-MM\WIN-s\WIN..WIN..sticky-keys.md"
 
 
 
 
-
-
-???
+# copy suffices   postpone   the   mklink /j  ...  symbolic link
 mklink /j
-from "C:\Users\marti\AppData\Roaming\Code\Preferences"
+from "C:\Users\marti\AppData\Roaming\Code\User\settings.json"
 to "C:\Users\marti\OneDrive\... "
 
-??? do some  people use mklink /j to link their vscode \Users\marti\AppData\Roaming\Code\Preferences
+? do some  people use mklink /j to link their vscode \Users\marti\AppData\Roaming\Code\User\settings.json
  to their OneDrive or Google Drive or Dropbox or etc. to have them backed up 
 
 
 
-from C:\Users\marti\AppData\Roaming\Code\User
 
 
 
@@ -85,7 +78,7 @@ first
 C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1.md
 
 
-"C:\Users\marti\AppData\Roaming\Code\Preferences"
+restart
 "C:\Users\marti\AppData\Roaming\Code\code.lock"
 
 
@@ -93,16 +86,21 @@ mklink /j settings.json
 from "C:\Users\marti\AppData\Roaming\Code\User\settings.json"
 to "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\settings.json"
 
-is it already a symbolic link?
+is it already a symbolic link?no 
+is it already a symbolic link? no, the dir is 900MB, 12000 folders, 46000 files
+
 cmd /c dir /al C:\Users\marti\AppData\Roaming\Code\User\settings.json
 cmd /c dir /al C:\Users\marti\AppData\Roaming\Code\User\
 cmd /c dir /a C:\Users\marti\AppData\Roaming\Code\User\
 
+.........
 
 
 
 
-# .gitignore done
+
+
+# .gitignore done     2604?
 !settings.json
 
 if settings.json has to be changed
@@ -237,4 +235,13 @@ line 167
 	"editor.detectIndentation": true,  // old files have tabs
         //"editor.detectIndentation": false,
 
+---
+	"workbench.sideBar.location": "right",
+	// 20260523 vscdb sideBar <- moved Explorer view
 
+
+
+
+
+20260523
+code  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\hope-vscdb-no-secrets.md"
