@@ -1,0 +1,489 @@
+{
+
+// DONT  EDIT setting.json  IN AN EXPERIMENTAL WORKSPACE
+
+// file:///C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\03-260207-editing-settings-json.publ.md
+//if settings.json has to be changed
+  //write the planned edits   [[03-260207-editing-settings-json.publ.md]]
+  //push this file to git
+
+	  // ctrl`
+	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
+		// rclick fix, explain,
+
+
+
+
+// related file:///C:\Users\marti\OneDrive\tar-exe\c\Users\marti\AppData\Roaming\Code\User\settings.json
+// related https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
+
+
+// the most important settings are put first here
+
+
+//24Ad  comment-out  because # i need github copilot updates
+// was: because f8 focus bug 1.75
+	//"update.mode": "manual",
+	//"update.enableWindowsBackgroundUpdates": false,
+
+	// ~nozaki
+	//"extensions.autoUpdate": false,
+    //"extensions.autoCheckUpdates": false,
+	"extensions.autoUpdate": false,
+    "extensions.autoCheckUpdates": false,
+
+    //"terminal.integrated.rightClickBehavior": "default",
+    "terminal.integrated.rightClickBehavior": "selectWord",
+    // 224
+    // Controls how terminal reacts to right click.
+	//  - default: Show the context menu.
+	//  - copyPaste: Copy when there is a selection, otherwise paste.
+	//  - paste: Paste on right click.
+	//  - selectWord: Select the word under the cursor and show the context menu.
+	//  - nothing: Do nothing and pass event to terminal.
+
+	"terminal.integrated.enableMultiLinePasteWarning": "always",
+
+	//"terminal.integrated.enableMultiLinePasteWarning": true,
+	  // ctrl`
+	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
+		// rclick fix, explain,
+
+    "markdown.extension.toc.updateOnSave": false,   // to be lightweight? // to prevent various bugs and data loss when the extension tries to update the file without user explicitly asking for it  ..    file:///C:\Users\marti\OneDrive\Dokumenty\260207-vscode-markdown-toc-bug-hell.publ.md
+
+
+
+
+    "workbench.colorCustomizations": {
+        "editorError.foreground":   "#ff000018", // "#ff000088",
+        "editorWarning.foreground": "#ffe600f8",
+        "editorInfo.foreground":    "#00ff00f8"
+    },
+
+
+
+	// Insert spaces when pressing `Tab`. This setting is overridden based on the file contents when `editor.detectIndentation` is on.
+	"editor.insertSpaces": false,   // true,
+    "editor.detectIndentation": false,   // true,
+
+
+    "[python]": {
+
+        "editor.detectIndentation": false,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+
+    },
+
+
+
+    //warning: CRLF will be replaced by LF in AppData/Roaming/Code/User/settings.json.
+    // uz jsem to pridal do git
+
+    "files.eol": "\n",
+	"files.trimTrailingWhitespace": true,
+    "git.path": "C:/Program Files/Git/cmd/git.exe",
+    "files.associations": {
+		"*.w": "scheme",
+		"*.sbcl_history": "clojure",
+		"*.opt2": "shellscript",
+		".zsh_history": "shellscript",
+		"*.zsh_history": "shellscript",
+		"*.hist*": "shellscript",
+		".sqlite_history": "sql",
+		"*.opt0": "shellscript",
+		".wslconfig": "properties",
+		"*.sw": "clojure",
+		"*.art": "clojure",
+		"*.r": "clojure",
+		"*.tcl": "perl6",
+		"*.factor": "clojure",
+		"*.gram": "javascript",
+		"*.ohayo": "javascript",
+		"*.sh-session": "shellscript",
+		"*.tasker": "ini",
+		"*.sage": "python",
+		"*.ahk": "ini",
+		"*.mac": "javascript",
+		"*.formulas": "vb"
+	},
+
+
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "solid",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "C:\\WINDOWS\\System32\\wsl.exe (migrated)": {
+            "path": "C:\\WINDOWS\\System32\\wsl.exe",
+            "args": []
+        },
+        "Windows PowerShell": {
+            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        }
+    },
+    "javascript.suggest.completeFunctionCalls": true,
+    "python.autoComplete.addBrackets": true,
+    "powershell.promptToUpdatePowerShell": false,
+    "files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		"**/CVS": true,
+		"**/*.olean": true,
+		"**/node_modules": true,
+		"out": false
+	},
+    "spellright.documentTypes": [
+
+        "markdown",
+        "latex",
+        //"plaintext"
+    ],
+    "spellright.ignoreFiles": [
+
+        "**/.gitignore",
+        "**/.spellignore"
+    ],
+    "spellright.ignoreRegExps": [
+
+    ],
+    "spellright.ignoreRegExpsByClass": {
+
+    },
+
+    "spellright.language": [
+        "en",
+        "cs",
+    ],
+
+    "spellright.languageContext": {
+
+    },
+    "spellright.recheckOnSave": false,
+
+
+
+
+    "markdown.extension.toc.omittedFromToc": {
+
+    },
+
+    "editor.wordWrap": "on",
+
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true, // false,
+        "strings": true, //false
+    },
+
+
+//  ok  C:\Users\marti\OneDrive\vscode-f8\vscode-quickSuggestions-completi.f8.md
+
+    "[markdown]": {
+
+
+
+		// 260501.. 20260425 imagine  ... 260314 tree in markdown REFORM ..new files have 2 spaces, old files have tabs
+			////// 2491 disabled because .hash.tsv in markdown needs tabs
+			//// 248L added
+        "editor.insertSpaces": true,
+        //"editor.insertSpaces": false,
+
+        "editor.tabSize": 2,
+        //"editor.tabSize": 8,
+
+		"editor.detectIndentation": true,  // old files have tabs
+        //"editor.detectIndentation": false,
+
+
+
+
+
+		"files.trimTrailingWhitespace": false,  // hard line breaks
+
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions":  {
+
+            "other":   true, // false, // 248j true,
+            "comments": true, // false,
+            "strings": true, //false
+
+        },
+    },
+
+
+    "python.analysis.completeFunctionParens": true,
+    "githubPullRequests.createOnPublishBranch": "never",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    // ?? but i will keep the false ... tried google search and it seems to be ~~frequent
+
+    "bashIde.globPattern": "**/*@(.sh|.inc|.bash|.command|.hist)",
+    "bashIde.highlightParsingErrors": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.commandPalette.preserveInput": true,
+    //"workbench.commandPalette.preserveInput": true,
+    /////////"git.enableSmartCommit": true
+
+
+	// Controls the font family of the terminal, this defaults to `editor.fontFamily`'s value.
+	//"terminal.integrated.fontFamily": "'cascadia mono','cascadia code'",
+	"terminal.integrated.fontFamily": "consolas,'cascadia mono','cascadia code'",
+
+    // emacs Courier New
+
+
+
+	"editor.fontFamily": "'segoe ui',CcfSymbolFont_ASEMTOG_F700,calibri,'Lucida sans','Lucida sans unicode',Arial,'microsoft sans serif',Consolas, 'Courier New', monospace",
+
+    //"terminal.integrated.automationProfile.osx": {    },
+
+    "tabnine.experimentalAutoImports": true,
+    "python.condaPath": "D:\\conda\\Library\\bin\\conda.bat",
+    "python.defaultInterpreterPath": "D:\\conda\\python.exe",
+	"python.languageServer": "Pylance",
+
+
+    "powershell.integratedConsole.showOnStartup": false,
+	"redhat.telemetry.enabled": true,
+
+
+
+
+	// 1000
+	// Controls the maximum amount of lines the terminal keeps in its buffer.
+	"terminal.integrated.scrollback": 10000,
+	"runme.shell.closeTerminalOnSuccess": false,
+	"git.openRepositoryInParentFolders": "never",
+	"workbench.panel.defaultLocation": "right",
+	"terminal.integrated.tabs.focusMode": "singleClick",
+	"cSpell.enableFiletypes": [
+		"!markdown"
+	],
+	"code-runner.executorMap": {
+
+		"javascript": "node",
+		"java": "cd $dir && javac $fileName && java $fileNameWithoutExt",
+		"c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+		"zig": "zig run",
+		"cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+		"objective-c": "cd $dir && gcc -framework Cocoa $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+		"php": "php",
+		"python": "python -u",
+		"perl": "perl",
+		"perl6": "perl6",
+		"ruby": "ruby",
+		"go": "go run",
+		"lua": "lua",
+		"groovy": "groovy",
+		"powershell": "powershell -ExecutionPolicy ByPass -File",
+		"bat": "cmd /c",
+		"shellscript": "bash",
+		"fsharp": "fsi",
+		"csharp": "scriptcs",
+		"vbscript": "cscript //Nologo",
+		"typescript": "ts-node",
+		"coffeescript": "coffee",
+		"scala": "scala",
+		"swift": "swift",
+		"julia": "julia",
+		"crystal": "crystal",
+		"ocaml": "ocaml",
+		"r": "Rscript",
+		"applescript": "osascript",
+		"clojure": "lein exec",
+		"haxe": "haxe --cwd $dirWithoutTrailingSlash --run $fileNameWithoutExt",
+		"rust": "cd $dir && rustc $fileName && $dir$fileNameWithoutExt",
+		"racket": "racket",
+		"scheme": "csi -script",
+		"ahk": "autohotkey",
+		"autoit": "autoit3",
+		"dart": "dart",
+		"pascal": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+		"d": "cd $dir && dmd $fileName && $dir$fileNameWithoutExt",
+		"haskell": "runghc",
+		"nim": "nim compile --verbosity:0 --hints:off --run",
+		"lisp": "sbcl --script",
+		"kit": "kitc --run",
+		"v": "v run",
+		"sass": "sass --style expanded",
+		"scss": "scss --style expanded",
+		"less": "cd $dir && lessc $fileName $fileNameWithoutExt.css",
+		"FortranFreeForm": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+		"fortran-modern": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+		"fortran_fixed-form": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+		"fortran": "cd $dir && gfortran $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+		"sml": "cd $dir && sml $fileName",
+		"mojo": "mojo run",
+		"erlang": "escript",
+		"spwn": "spwn build",
+		"pkl": "cd $dir && pkl eval -f yaml $fileName -o $fileNameWithoutExt.yaml",
+		"gleam": "gleam run -m $fileNameWithoutExt"
+	},
+	"dotnet-interactive.kernelTransportArgs": [
+
+		"{dotnet_path}",
+		"tool",
+		"run",
+		"dotnet-interactive",
+		"--",
+		"[vscode]",
+		"stdio",
+		"--working-dir",
+		"{working_dir}"
+	],
+	"dotnet-interactive.notebookParserArgs": [
+
+		"{dotnet_path}",
+		"tool",
+		"run",
+		"dotnet-interactive",
+		"--",
+		"notebook-parser"
+	],
+	"polyglot-notebook.defaultNotebookExtension": ".ipynb",
+	"polyglot-notebook.defaultNotebookLanguage": "pwsh",
+	"easy-extensibility.dateCommand.windows": "cmd /c date /T",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"notebook.output.textLineLimit": 161,
+	// 30
+	"notebook.output.wordWrap": true,
+	"notebook.lineNumbers": "on",
+	"notebook.output.fontSize": 10,
+
+	"liveshare.launcherClient": "visualStudioCode",
+
+	"github.copilot.enable": {
+		"markdown": true
+	},
+	"editor.inlineSuggest.showToolbar": "always",
+	"github.copilot.advanced": {
+
+	},
+
+	//"foam.edit.linkReferenceDefinitions": "withoutExtensions", //(default)  ... GH wiki? no
+	//"foam.edit.linkReferenceDefinitions": "withExtensions",  // 241227-01
+	"foam.edit.linkReferenceDefinitions": "off", // 241229-17
+
+	"window.zoomLevel": 2,
+	"powershell.integratedConsole.focusConsoleOnExecute": false,
+	"code-runner.customCommand": "echo Hello Set the custom command to run.",
+	"code-runner.runInTerminal": true,
+	"code-runner.executorMapByFileExtension": {
+
+		".vb": "cd $dir && vbc /nologo $fileName && $dir$fileNameWithoutExt",
+		".vbs": "cscript //Nologo",
+		".scala": "scala",
+		".jl": "julia",
+		".cr": "crystal",
+		".ml": "ocaml",
+		".zig": "zig run",
+		".exs": "elixir",
+		".hx": "haxe --cwd $dirWithoutTrailingSlash --run $fileNameWithoutExt",
+		".rkt": "racket",
+		".scm": "csi -script",
+		".ahk": "autohotkey",
+		".au3": "autoit3",
+		".kt": "cd $dir && kotlinc $fileName -include-runtime -d $fileNameWithoutExt.jar && java -jar $fileNameWithoutExt.jar",
+		".kts": "kotlinc -script",
+		".dart": "dart",
+		".pas": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+		".pp": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+		".d": "cd $dir && dmd $fileName && $dir$fileNameWithoutExt",
+		".hs": "runhaskell",
+		".nim": "nim compile --verbosity:0 --hints:off --run",
+		".csproj": "dotnet run --project",
+		".fsproj": "dotnet run --project",
+		".lisp": "sbcl --script",
+		".kit": "kitc --run",
+		".v": "v run",
+		".vsh": "v run",
+		".sass": "sass --style expanded",
+		".cu": "cd $dir && nvcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+		".ring": "ring",
+		".sml": "cd $dir && sml $fileName",
+		".mojo": "mojo run",
+		".erl": "escript",
+		".spwn": "spwn build",
+		".pkl": "cd $dir && pkl eval -f yaml $fileName -o $fileNameWithoutExt.yaml",
+		".gleam": "gleam run -m $fileNameWithoutExt"
+	},
+	"easy-extensibility.dateCommand.unix": "cmd /c date /T",
+	"security.allowedUNCHosts": [
+		"Jirka"
+	],
+	"files.autoSave": "afterDelay",
+	"editor.pasteAs.preferences": ["text.plain"
+
+	],
+	"markdown.extension.math.enabled": false,
+	"commandAutolink.schemes": [
+
+		"vscode-userdata",
+		"file",
+		"untitled"
+	],
+	"commandAutolink.queries": [
+	    {
+			"linkFilePattern": "**/*{.yml,pecl}",                      // defaults to "**/*"
+			"linkFileLanguage": ["php"],                               // similar to linkFilePattern but instead use language ids, defaults to []
+
+	        "linkPattern": "[\/]?([\\d]{8})[-]", // any regex to match the text, required
+			//"linkPattern": "[\/]?((dev-ops|opt)[^\\s]+\\.[^\\s]{2,})", // any regex to match the text, required
+
+			"linkCommand": "workbench.action.quickOpen",               // command id to execute when clicking the matched pattern link, required
+			"linkText": "Go To File"                                   // command text to show in the hover popup
+    	},
+
+	],
+	"chat.agent.thinkingStyle": "expanded",
+	"workbench.secondarySideBar.defaultVisibility": "visible",
+	"jupyter.logKernelOutputSeparately": true,
+	"editor.renderWhitespace": "all",
+
+	// DONT FORGET THE COMMA AFTER EACH SETTING
+// related file:///C:\Users\marti\OneDrive\tar-exe\c\Users\marti\AppData\Roaming\Code\User\settings.json
+// related https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
+
+
+	///"foam.graph.titleMaxLength": 26,  /// just an experim
+
+    // db
+    // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
+    // Capital-i Illustr ss01
+    // omlouvám se za opožděné přání všeho nejlepšího k narozeninám ... (chtěl jsem to říct ten den, kdy jste u nás byli na návštěvě, ale večer už nějak nebyla příležitost)
+    // The significance of withdrawal symptoms Withdrawal symptoms are not inconsequential – they indicate the nervous system is becoming destabilized,24,56,57 accounting for the variety and variability of symptoms.27 According to established pharmacological principles, chronic application of any psychotropic brings about neurophysiological processes: adaption, tolerance, and potential dependence with withdrawal upon reduction of the
+
+
+    // unknown configuration setting: languages
+
+
+}
+
+// https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
+
+    // exists f1 default settings
