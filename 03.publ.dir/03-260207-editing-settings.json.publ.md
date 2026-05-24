@@ -18,6 +18,17 @@ cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C
 
 ---
 
+# not very useful  probably
+
+explorer "C:\Users\marti\AppData\Roaming\Code\"
+dir "C:\Users\marti\AppData\Roaming\Code\Preferences"
+old
+13hours old 
+
+code   "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\13hours\Preferences.json"
+copy  "C:\Users\marti\AppData\Roaming\Code\Preferences"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\13hours\Preferences.json"
+
+
 
 
 # 20260523  
@@ -32,11 +43,6 @@ NO ##mkdir "C:\Users\marti\OneDrive\Dokumenty\00-MM\Code,vscode"  NO  claude cod
 
 done
 mkdir "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode"
-
-old
-13hours old 
-##copy  "C:\Users\marti\AppData\Roaming\Code\Preferences"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
-
 
 dir C:\Users\marti\AppData\Roaming\Code\User\settings.json
 dir C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\settings.json
