@@ -105,7 +105,8 @@
 		"*.sage": "python",
 		"*.ahk": "ini",
 		"*.mac": "javascript",
-		"*.formulas": "vb"
+		"*.formulas": "vb",
+		"*.txt": "plaintext"
 	},
 
 
@@ -464,9 +465,10 @@
 	"workbench.secondarySideBar.defaultVisibility": "hidden",
 	"jupyter.logKernelOutputSeparately": true,
 	"editor.renderWhitespace": "all",
-	"workbench.sideBar.location": "right",
 
-	// 20260523 vscdb sideBar <- moved Explorer view
+	// 20260523 probably vscdb ...
+		// 	  sideBar <- moved Explorer view, had to maximize to undo the change
+		// markdown outline follow cursor
 
 	// DONT FORGET THE COMMA AFTER EACH SETTING
 
