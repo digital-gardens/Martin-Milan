@@ -391,6 +391,15 @@ what were the computers ,that Emacs started on ... PDP-11???
 hewlett packard computer .. 1970s Measurement and control system .. with fortran iv, 5 MB hard drive, punched tape
 
 
+
+
+
+
+# 260314  tree  
+
+
+
+
 # https://www.reddit.com/answers/
 
 

@@ -1,0 +1,48 @@
+
+Home Listamatic Listamatic2 Listutorial Floatutorial Selectutorial
+« Previous Step Main menu Next step »
+Tutorial 3 - Nested lists
+Step 2 - Remove the bullets
+Milk
+Goat
+Cow
+Eggs
+Free-range
+Other
+Cheese
+Smelly
+Extra smelly
+To remove the HTML list bullets, set the "list-style-type" to "none".
+
+Go to Step 3 →
+
+CSS CODE
+#navcontainer ul { list-style-type: none; }
+
+
+HTML CODE
+<div id="navcontainer">
+<ul>
+   <li><a href="#">Milk</a>
+      <ul>
+      <li><a href="#">Goat</a></li>
+      <li><a href="#">Cow</a></li>
+      </ul>
+   </li>
+   <li><a href="#">Eggs</a>
+      <ul>
+      <li><a href="#">Free-range</a></li>
+      <li><a href="#">Other</a></li>
+      </ul>
+   </li>
+   <li><a href="#">Cheese</a>
+      <ul>
+      <li><a href="#">Smelly</a></li>
+      <li><a href="#">Extra smelly</a></li>
+      </ul>
+   </li>
+</ul>
+</div>
+
+Other Max Design articles and presentations
+Associated with webstandardsgroup.org

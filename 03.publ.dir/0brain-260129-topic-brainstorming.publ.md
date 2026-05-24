@@ -1367,7 +1367,7 @@ example:
 # 26031-negotiation  ... a multi topic ... attempts ... communication and negotiation ... with elderly parents
 [[26031-negotiation.publ.md]]
 
-# 260314-text-formats-with-short-lines (for prose)
+# 260314-text-formats-with-short-lines (for prose)    tree
 [[260314-text-formats-with-short-lines.publ.md]]
 
 # 260316
@@ -1424,6 +1424,12 @@ This extension contains malware.
 
 
 # is there an app with a command palette with parameters ... i mean, where the mini-lang of the commands supports commands with parameters ... something analogous to a  mini shell 
+
+emacs  
+
+claude 
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #  # 260314 # clipboard copy paste
 
@@ -1432,6 +1438,13 @@ https://gemini.google.com/app/d0a6c1c750574918
 clipboard copy paste ...
 - i would like to get diagnostics about it... clipboard formats, especially HTML
 - and i would like to get the html code from the clipboard
+
+
+
+edit obsidian vault, paste the html code, and see how it renders in obsidian
+
+
+
 
 i have windows 11, powertoys, powershell, ahk, python, deno, cscript, wscript .... is it possible to get diagnostics about clipboard formats, especially HTML, using these tools? without installing any third party software, if possible
 
