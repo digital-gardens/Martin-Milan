@@ -400,7 +400,23 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 
 
+
 # edge workspace 20260525 are there any people who compare themselves to LLMs (I like it)
+
+links please
+any links to reddit, github, lesswrong, medium, YC
+more links to reddit, github, lesswrong, medium, YC
+please..more links to reddit, github, lesswrong, medium, YC
+Good balanced formulation: humans have LLM-like behavior plus something else.
+Ways LLMs do and don't seem like the human brain — exhaustive mapping: RL in humans ↔ RLHF, predictive learning ↔ pretraining, chain-of-thought ↔ inner monologue.
+
+lukebechtel-web: know thy context — a dev's personal blog (in a GitHub repo) mapping LLM context windows, prompt engineering, and RAG onto human cognition. Kahneman System 1/2 framing.
+
+
+
+
+
+
 
 
 # edge workspace 20260525 YT alza.cz..zastrihovace-vlasu
@@ -408,14 +424,59 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 https://www.alza.cz/zastrihovace-vlasu-vousu-a-chloupku/18850388.htm
 
+
+
+Vlastnosti Nastavitelná délka střihu, Samoostřicí čepele
+
+Vlastnosti Nastavitelná délka střihu, Samoostřicí čepele
+
+Vlastnosti Samoostřicí čepele
+
+Vlastnosti Nastavitelná délka střihu, Protiskluzová rukojeť, Samoostřicí čepele
+
+https://www.alza.cz/zastrihovace-vlasu-vousu-a-chloupku/18850388.htm
+alza.cz/zastrihovace-vlasu
+
+todo edge workspace 20260525 YT alza.cz..zastrihovace-vlasu
+https://www.alz
+https://www.alza.cz/remingto
+https://www.alza.cz/remington-hc5035-colour-cut-d3810176.htm#parameters
+https://www.alza.cz/remington-hc5035-colour-cut-d3810176.htm#parameters
+https://www.alza.cz/wahl-9243-2616-home-pro-d6220318.htm#parameters
+https://www.alza.cz/wahl-9243-2616-home-pro-d6220318.htm#parameters
+parameters
+https://www.alza.cz/philips-hc3510-15-d5458873.htm#parameters
+https://www.alza.cz/philips-hc3510-15-d5458873.htm#parameters
+https://www.alza.cz/wahl-home-pro-300-series-d6997633.htm#parameters
+https://www.alza.cz/wahl-home-pro-300-series-d6997633.htm#parameters
+
+# file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+
 # edge export every workspace
 
 # edge    03workspace
 today 
 
+extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.google.com/search?q=move+tabs+to+a+new+workspace&oq=move+tabs+to+a+new+workspace&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABg
+Sharing, collaboration, and joining workspaces are not supported
+Sharing, collaboration, and joining workspaces are not supported
+I meant, any work-around that might involve a third-party tool, different browser extension, technique, etc
 
 
-file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+This removal is called out as part of the design of the new Workspaces architecture and is not described as a temporary regression.
+
+Workspace collaboration/sharing is intentionally being removed as part of the V2 migration.
+
+Check edge://sync-internals to confirm sync is enabled and that the device appears under Sync Node Browser > Device info.
+
+Because collaboration/sharing for Workspaces is being removed and cross-device sync for new v2 Workspaces may not be available in some environments, structured tab sets may need to be backed up or tra
+Because collaboration/sharing for Workspaces is being removed and cross-device sync for new v2 Workspaces may not be available in some environments, structured tab sets may need to be backed up or tra
+For tenant-wide or large-impact issues (such as loss of critical research structures), the documented path to influence or escalate product behavior is through Microsoft support (CSS) and feedback cha
+For tenant-wide or large-impact issues (such as loss of critical research structures), the documented path to influence or escalate product behavior is through Microsoft support (CSS) and feedback cha
+Saved Tab Group
+Edge Workspace
+
+
 
 # https://www.reddit.com/answers/
 
