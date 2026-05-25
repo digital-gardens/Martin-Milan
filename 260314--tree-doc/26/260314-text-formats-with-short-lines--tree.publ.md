@@ -46,6 +46,58 @@ An example piece of legalese, converted to Tree Notation
    of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
 
 
+# 20260524    my-folding
+
+vscode
+markdown .. non fold 
+txt ... fold 
+
+2sp
+.
+  all the files
+    in this repo
+  are shared
+    in the hope
+      that they will be useful to you
+    but WITHOUT ANY WARRANTY
+    without even the implied warranty
+      of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
+
+---
+
+experiment
+#my-folding ... show 1 line of words from the folded subtree
+
+examples
+
+all the files
+  in this repo
+
+folded
+all the files (in this repo)
+all the files [in this repo]
+all the files {in this repo}
+
+.
+  all the files (in this repo)
+  are shared
+    in the hope (that they will be useful to you)
+    but WITHOUT ANY WARRANTY
+    without even the implied warranty (of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE)
+
+
+alt-z not-wrapped lines
+.
+  all the files (in this repo)
+  are shared (in the hope (that they will be useful to you)) (but WITHOUT ANY WARRANTY) (without even the implied warranty (of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE))
+
+* (all the files (in this repo)) (are shared (in the hope (that they will be useful to you)) (but WITHOUT ANY WARRANTY) (without even the implied warranty (of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE)))
+
+
+
+
+
+vscode
 foldable
 
 - but WITHOUT ANY WARRANTY
@@ -221,6 +273,25 @@ indented structured English text
 [[2sp.md.2sp-format--260501-260314-tree-markdown.publ.2sp.md]]
 *.2sp.md
 *.md.2sp
+
+
+# edge workspace 20260524    Jevko
+
+f12
+[1, [2], [3]]
+[1, [2,[22],[23]], [3, [32],[33]]]
+
+
+	"notebook.showFoldingControls": "mouseover",
+
+	"yaml.format.proseWrap": "preserve",
+
+	"yaml.format.proseWrap": "preserve",
+
+	"workbench.commandPalette.experimental.enableNaturalLanguageSearch": true,
+
+
+
 
 
 

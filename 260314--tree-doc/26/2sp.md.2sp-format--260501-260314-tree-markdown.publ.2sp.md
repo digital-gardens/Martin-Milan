@@ -23,7 +23,8 @@ C:\Users\marti\OneDrive\Dokumenty\260314-text-formats-with-short-lines.7.tree\26
 260501-260314
 my personal extension of markdown, 
 i am going to develop 
-a trivial preprocessor 
+with help of ai,
+edit .. a non-trivial preprocessor 
 in js 
 to convert it to regular markdown, that would be more suitable for prose with short lines and tree structures in text
 

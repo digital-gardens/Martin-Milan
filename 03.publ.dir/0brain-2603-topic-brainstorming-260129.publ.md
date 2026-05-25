@@ -392,13 +392,30 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 
 
-
+# plotter test 
 
 
 # 260314  tree  
+[[260314-text-formats-with-short-lines--tree.publ.md]]
 
 
 
+# edge workspace 20260525 are there any people who compare themselves to LLMs (I like it)
+
+
+# edge workspace 20260525 YT alza.cz..zastrihovace-vlasu
+
+
+https://www.alza.cz/zastrihovace-vlasu-vousu-a-chloupku/18850388.htm
+
+# edge export every workspace
+
+# edge    03workspace
+today 
+
+
+
+file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
 
 # https://www.reddit.com/answers/
 

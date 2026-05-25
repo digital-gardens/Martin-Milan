@@ -1,5 +1,24 @@
 
 
+
+
+txt foldable
+fold level 3
+2sp
+.
+  all the files
+    in this repo
+  are shared
+    in the hope
+      that they will be useful to you
+    but WITHOUT ANY WARRANTY
+    without even the implied warranty
+      of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
+
+
+
+
+
 foldable
 
 - but WITHOUT ANY WARRANTY
@@ -14,7 +33,7 @@ foldable
 
 
 
-foldable 
+foldable
     - but WITHOUT ANY WARRANTY
 
       - without even the implied warranty
