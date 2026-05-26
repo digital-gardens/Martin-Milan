@@ -399,6 +399,16 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 [[260314-text-formats-with-short-lines--tree.publ.md]]
 
 
+# 20260525 tree homomorphisms  in computing practice
+
+
+
+# 20260525 examples of morphisms (category theory) outside of math and computing? ... in AI? linguistics? human cognition? physics? social systems?? economics?? ...... vague morphisms??
+
+[[20260525-morphisms--vague.md]]
+
+# "Across the Universe" by The Beatles
+"Come Together" by The Beatles
 
 
 # edge workspace 20260525 are there any people who compare themselves to LLMs (I like it)
@@ -420,22 +430,8 @@ lukebechtel-web: know thy context — a dev's personal blog (in a GitHub repo) m
 
 
 # edge workspace 20260525 YT alza.cz..zastrihovace-vlasu
-
-
 https://www.alza.cz/zastrihovace-vlasu-vousu-a-chloupku/18850388.htm
-
-
-
-Vlastnosti Nastavitelná délka střihu, Samoostřicí čepele
-
-Vlastnosti Nastavitelná délka střihu, Samoostřicí čepele
-
 Vlastnosti Samoostřicí čepele
-
-Vlastnosti Nastavitelná délka střihu, Protiskluzová rukojeť, Samoostřicí čepele
-
-https://www.alza.cz/zastrihovace-vlasu-vousu-a-chloupku/18850388.htm
-alza.cz/zastrihovace-vlasu
 
 todo edge workspace 20260525 YT alza.cz..zastrihovace-vlasu
 https://www.alz
@@ -447,7 +443,6 @@ https://www.alza.cz/wahl-9243-2616-home-pro-d6220318.htm#parameters
 parameters
 https://www.alza.cz/philips-hc3510-15-d5458873.htm#parameters
 https://www.alza.cz/philips-hc3510-15-d5458873.htm#parameters
-https://www.alza.cz/wahl-home-pro-300-series-d6997633.htm#parameters
 https://www.alza.cz/wahl-home-pro-300-series-d6997633.htm#parameters
 
 # file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
