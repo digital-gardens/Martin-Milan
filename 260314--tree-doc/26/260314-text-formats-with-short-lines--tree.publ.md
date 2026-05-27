@@ -46,6 +46,14 @@ An example piece of legalese, converted to Tree Notation
    of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
 
 
+
+
+# 202605
+…Enter/Return) are always respected whereas traditional Markdown would ignore single line breaks unless the line ended …
+
+
+
+
 # 20260524    my-folding
 
 vscode

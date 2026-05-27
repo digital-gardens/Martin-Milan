@@ -399,6 +399,8 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 [[260314-text-formats-with-short-lines--tree.publ.md]]
 
 
+…Enter/Return) are always respected whereas traditional Markdown would ignore single line breaks unless the line ended …
+
 # 20260525 tree homomorphisms  in computing practice
 
 
@@ -409,6 +411,40 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 # "Across the Universe" by The Beatles
 "Come Together" by The Beatles
+
+
+# 20260526
+https://github.com/digital-gardens/Martin-Milan/commits/main/
+
+
+"disability" troubleshooting obsidian vscode github.com markdown blog posts ycombinator
+
+
+disability
+troubleshooting
+obsidian
+vscode
+git 
+github
+markdown
+
+# 20260526.2333 vscode to chrome, edge multiline copy-paste bug
+obsidian ok
+notepad ok
+edge,chrome   omnibox  not ok
+
+google.com search box  ok
+
+ 260314 # clipboard copy paste
+
+https://gemini.google.com/app/d0a6c1c750574918
+
+clipboard copy paste ...
+- i would like to get diagnostics about it... clipboard formats, especially HTML
+- and i would like to get the html code from the clipboard
+
+
+
 
 
 # edge workspace 20260525 are there any people who compare themselves to LLMs (I like it)
@@ -470,6 +506,25 @@ For tenant-wide or large-impact issues (such as loss of critical research struct
 For tenant-wide or large-impact issues (such as loss of critical research structures), the documented path to influence or escalate product behavior is through Microsoft support (CSS) and feedback cha
 Saved Tab Group
 Edge Workspace
+
+
+
+
+
+
+
+# 202605  So basically we are now waiting for a wave of massive new exploits coming via GitHub itself. Lovely
+reply
+
+
+- disable auto-updates for extensions in VS Code/Cursor
+---
+title: "GitHub confirms breach of 3,800 repos via malicious VSCode extension (bleepingcomputer.com)"
+source: "https://news.ycombinator.com/item?id=48207660"
+author:
+  - "[[Timofeibu]]"
+publis
+
 
 
 

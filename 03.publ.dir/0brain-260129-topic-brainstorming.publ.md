@@ -1448,7 +1448,7 @@ edit obsidian vault, paste the html code, and see how it renders in obsidian
 
 i have windows 11, powertoys, powershell, ahk, python, deno, cscript, wscript .... is it possible to get diagnostics about clipboard formats, especially HTML, using these tools? without installing any third party software, if possible
 
-vscode
+#vscode
 HTML Format
 System.String
 UnicodeText
@@ -1458,7 +1458,7 @@ Chromium Web Custom MIME Data Format
 Chromium internal source URL
 
 
-edge
+#edge
 without the MIME 
 
 
@@ -1472,6 +1472,7 @@ EndFragment:0000000519
 
 html>
 body>
+
 <!--StartFragment--><div style="color: #cccccc;background-color: #1f1f1f;font-family: 'segoe ui',CcfSymbolFont_ASEMTOG_F700,calibri,'Lucida sans','Lucida sans unicode',Arial,'microsoft sans serif',Consolas, 'Courier New', monospace, Consolas, 'Courier New', monospace;font-weight: normal;font-size: 14px;line-height: 19px;
 
 white-space: pre;
@@ -1481,6 +1482,7 @@ white-space: pre;
 ps1</span></div></div><!--EndFragment-->
 /body>
 /html>
+
 
 --- System.String ---
 ps1
@@ -1504,6 +1506,8 @@ body
 
 
 
+a
+b
 
                      
 ```ps1
@@ -1550,6 +1554,14 @@ if ($null -ne $clipboardObj) {
 ```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 
 
 # JBPC DISK FULL 260319
