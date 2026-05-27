@@ -181,6 +181,22 @@ check if the file is updated
 
     // the most important settings are put first here
 
+// the most important settings are put first here
+
+// 20260527 SECURITY incident  // uncommented 2 lines
+//////////24Ad  comment-out 2 lines because # i need github copilot updates
+//// was: because f8 focus bug 1.75
+	"update.mode": "manual",
+	"update.enableWindowsBackgroundUpdates": false,
+
+	"extensions.autoUpdate": false,
+    "extensions.autoCheckUpdates": false,
+
+
+
+
+
+
 // related file:///C:\Users\marti\OneDrive\tar-exe\c\Users\marti\AppData\Roaming\Code\User\settings.json
 // related https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
 
@@ -251,3 +267,5 @@ line 167
 
 20260523
 code  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\hope-vscdb-no-secrets.md"
+
+// in that file  ....  DO, SOMETIMES, F8 AT THE LINE  ..... cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
