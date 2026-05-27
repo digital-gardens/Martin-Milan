@@ -510,22 +510,9 @@ Edge Workspace
 
 
 
+# 20260527 prompt .. please give me ID(s) of the recent complex computer security incident related to GitHub, involving malicious VSCode extension
 
-
-
-# 202605  So basically we are now waiting for a wave of massive new exploits coming via GitHub itself. Lovely
-reply
-
-
-- disable auto-updates for extensions in VS Code/Cursor
----
-title: "GitHub confirms breach of 3,800 repos via malicious VSCode extension (bleepingcomputer.com)"
-source: "https://news.ycombinator.com/item?id=48207660"
-author:
-  - "[[Timofeibu]]"
-publis
-
-
+[[CVE-2026-45321--npm,github,vscode,python.md]]
 
 
 # https://www.reddit.com/answers/
