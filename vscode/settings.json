@@ -3,6 +3,10 @@
 // DONT  EDIT setting.json  IN AN EXPERIMENTAL WORKSPACE
 
 // file:///C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\03-260207-editing-settings-json.publ.md
+// in that file ..... cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+
+
+
 //if settings.json has to be changed
   //write the planned edits   [[03-260207-editing-settings-json.publ.md]]
   //push this file to git
@@ -19,6 +23,9 @@
 
 
 // the most important settings are put first here
+
+
+// more notes are 20 lines from the end of the file
 
 
 //24Ad  comment-out  because # i need github copilot updates
@@ -486,9 +493,7 @@
     // omlouvám se za opožděné přání všeho nejlepšího k narozeninám ... (chtěl jsem to říct ten den, kdy jste u nás byli na návštěvě, ale večer už nějak nebyla příležitost)
     // The significance of withdrawal symptoms Withdrawal symptoms are not inconsequential – they indicate the nervous system is becoming destabilized,24,56,57 accounting for the variety and variability of symptoms.27 According to established pharmacological principles, chronic application of any psychotropic brings about neurophysiological processes: adaption, tolerance, and potential dependence with withdrawal upon reduction of the
 
-
     // unknown configuration setting: languages
-
 
 }
 
