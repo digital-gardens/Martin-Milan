@@ -12,6 +12,10 @@ Online Reader 20% every 30 days
 260314-text-formats-with-short-lines.publ.md 
 # 260314-text-formats-with-short-lines (for prose)
 
+lyrics
+poetry
+
+
 https://www.reddit.com/r/tree_notations/comments/1rv5aqo/textformatswithshortlines_for_prose/
 
 
@@ -47,9 +51,73 @@ An example piece of legalese, converted to Tree Notation
 
 
 
+# quotes 
 
-# 202605
+Gemtext format is line-oriented and the first three characters of a line determine its type. The syntax includes markup for...
+
+
+Setext (Structure Enhanced Text) is a lightweight markup language used to format plain text documents such as e-newsletters, Usenet postings, and e-mails...
+
+MultiMarkdown is a lightweight markup language created by Fletcher T. Penney as an
+
+
+
+
+ extension of the Markdown format. It supports additional features not...
+
+# 20260528 text formats
+
+Lightweight text indent format
+
+
+gsugg
+wsugg
+https://en.wikipedia.org/w/index.php?search=Lightweight+markup+language&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1
+vsc-suggestions
+
+
+a new
+
+lightweight
+minimalistic
+readable
+human-friendly
+AI-friendly
+
+
+?
+line 
+  -based 
+  -oriented  
+> Line-oriented data formats
+> ai/ newline-delimited data formats
+
+
+markdown
+  -based
+  -oriented
+  -related
+
+discussion thread
+  tree
+
+format
+
+### 202605
 …Enter/Return) are always respected whereas traditional Markdown would ignore single line breaks unless the line ended …
+
+# examples of discussion trees
+# wikitext 
+
+:::It seems I have some gaps in my knowledge. I believe CKD first appeared with S/360 and previous disks were sectorized. I don’t understand the reasoning that led to this decision, but I think record-oriented file system is a natural fit, but I don’t know much about filesystems on the 707x or other early IBM computers, to say nothing of non-IBM systems. I started my career together with S/360, so record-oriented systems felt natural and byte-oriented filesystems very unnatural. Trying to emulate IBM’s record-oriented system in Linux for Iron-Spring PL/I I frequently found myself wishing for CKD disks to simplify other-than-sequential access to variable length records. there’s a natural fit with blocks determined by hardware. [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 13:42, 26 September 2023 (UTC)
+::::Yes, CKD first appeared on the S/360, and most previous disks were sectorized. On the 1301 and 1302 each cylinder had a format track that controlled block sizes. You could have a mix of block sizes on a track, but each track in the cylinder had the same mix.
+::::And, no, the underlying hardware of contemporary DASD fo z is no longer CKD; the subsystem simulates CKD or FBA on SCSI drives with a different geometry.
+::::While CKD simplified some things, it had an overhead cost. -- [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 14:53, 26 September 2023 (UTC)
+:::
+:::IBM had record oriented file systems before CKD. GE never had CKD, yet GEFRC in GECOS was record oriented. AFAIK, DEC never had CKD, yet RMS is record oriented.
+:::Both byte oriented and record oriented are abstractions, and IBM has implemented byte oriented on top of record oriented. 
+:::Access methods and file systems are closely related, but not identical. In OS/360, there were multiple access methods for Physical Sequential (PS) files and in z/OS there were (HFS is
+
 
 
 
