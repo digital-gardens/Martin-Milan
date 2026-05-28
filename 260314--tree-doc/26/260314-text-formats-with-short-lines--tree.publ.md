@@ -11,9 +11,7 @@ Online Reader 20% every 30 days
 
 260314-text-formats-with-short-lines.publ.md 
 # 260314-text-formats-with-short-lines (for prose)
-
-lyrics
-poetry
+// lyrics? poetry?
 
 
 https://www.reddit.com/r/tree_notations/comments/1rv5aqo/textformatswithshortlines_for_prose/
@@ -39,6 +37,7 @@ Related Song: "We Can Work It Out" by The Beatles (A fitting anthem for negotiat
 An example piece of legalese, converted to Tree Notation
 (my experiment ... Semantic indents ... to make legalese more readable for humans)
 
+```
 .
  all the files
   in this repo
@@ -48,13 +47,42 @@ An example piece of legalese, converted to Tree Notation
   but WITHOUT ANY WARRANTY
   without even the implied warranty
    of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
+```
+
+
+# 20260528
+
+exists
+-  Markdown Preview Enhanced: Toggle Break On Single Newline
+
+possibly
+-  then save as markdown ... renders to gfm 
+
+but
+-  some wants to remove it
+  -  https://github.com/shd101wyy/vscode-markdown-preview-enhanced/issues/836
+
+> option should simply be removed
+
+please, don't remove the option // pleading_face :pleading_face: 
+
+
+
+# 20260528
+
+extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://github.com/search?q=new+markdown+format&type=repositories&p=10
+
+
+https://github.com/search?q=markdown+line-breaks&type=repositories&p=4
+https://github.com/search?q=markdown+newline&type=repositories&p=3
+
+https://github.com/search?q=markdown+indent++&type=repositories
 
 
 
 # quotes 
 
 Gemtext format is line-oriented and the first three characters of a line determine its type. The syntax includes markup for...
-
 
 Setext (Structure Enhanced Text) is a lightweight markup language used to format plain text documents such as e-newsletters, Usenet postings, and e-mails...
 
@@ -89,14 +117,13 @@ AI-friendly
 line 
   -based 
   -oriented  
-> Line-oriented data formats
-> ai/ newline-delimited data formats
 
 
 markdown
   -based
   -oriented
   -related
+
 
 discussion thread
   tree
@@ -106,8 +133,73 @@ format
 ### 202605
 …Enter/Return) are always respected whereas traditional Markdown would ignore single line breaks unless the line ended …
 
+
+# pandoc  
+glasp 
+
+Extension: line_blocks±
+A line block is a sequence of lines beginning with a vertical bar (|) followed by a space. The division into lines will be preserved in the output, as will any leading spaces; otherwise, the lines will be formatted as Markdown. This is useful for verse and addresses:
+
+| The limerick packs laughs anatomical
+| In space that is quite economical.
+|    But the good ones I've seen
+|    So seldom are clean
+| And the clean ones so seldom are comical
+
+| 200 Main St.
+| Berkeley, CA 94718
+The lines can be hard-wrapped if needed, but the continuation line must begin with a space.
+
+| The Right Honorable Most Venerable and Righteous Samuel L.
+  Constable, Jr.
+| 200 Main St.
+| Berkeley, CA 94718
+Inline formatting (such as emphasis) is allowed in the content (though it can’t cross line boundaries). Block-level formatting (such as block quotes or lists) is not recognized.
+
+This syntax is borrowed from reStructuredText.
+
+
+
+
+
+
 # examples of discussion trees
 # wikitext 
+
+Indent text
+Further information: WP:INDENT and Wikipedia:Manual of Style/Accessibility § Indentation
+
+
+https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility#Lists
+
+
+
+Indentation is most commonly used on talk pages.
+
+Markup	Renders as
+Indentation as used on talk pages:
+:Each colon at the start of a line
+::causes the line to be indented by three more character positions.
+:::(The indentation persists
+so long as no carriage return or line break is used.)
+:::Repeat the indentation at any line break.
+::::Use an extra colon for each response.
+:::::And so forth ...
+::::::And so on ...
+{{Outdent|::::::}}The outdent template can give a visual indicator that we're deliberately cancelling the indent (6 levels here)
+Indentation as used on talk pages:
+
+Each colon at the start of a line
+causes the line to be indented by three more character positions.
+(The indentation persists
+so long as no carriage return or line break is used.)
+
+Repeat the indentation at any line break.
+Use an extra colon for each response.
+And so forth ...
+And so on ...
+The outdent template can give a visual indicator that we're deliberately cancelling the indent (6 levels here)
+Templates: {{outdent}}, {{outdent2}}
 
 :::It seems I have some gaps in my knowledge. I believe CKD first appeared with S/360 and previous disks were sectorized. I don’t understand the reasoning that led to this decision, but I think record-oriented file system is a natural fit, but I don’t know much about filesystems on the 707x or other early IBM computers, to say nothing of non-IBM systems. I started my career together with S/360, so record-oriented systems felt natural and byte-oriented filesystems very unnatural. Trying to emulate IBM’s record-oriented system in Linux for Iron-Spring PL/I I frequently found myself wishing for CKD disks to simplify other-than-sequential access to variable length records. there’s a natural fit with blocks determined by hardware. [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 13:42, 26 September 2023 (UTC)
 ::::Yes, CKD first appeared on the S/360, and most previous disks were sectorized. On the 1301 and 1302 each cylinder had a format track that controlled block sizes. You could have a mix of block sizes on a track, but each track in the cylinder had the same mix.
@@ -120,6 +212,14 @@ format
 
 
 
+# rather text than data
+
+Markdown as  data format but not yaml preambles, front matter, metadata, 
+
+
+
+> Line-oriented data formats
+> ai/ newline-delimited data formats
 
 
 # 20260524    my-folding
