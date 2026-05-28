@@ -1,15 +1,10 @@
 
 
 
-ebooks.com 
-Online Reader 20% every 30 days
+//// ebooks.com export highlights ... Online Reader 20% every 30 days
 
 
 
-# .260314
-
-
-260314-text-formats-with-short-lines.publ.md 
 # 260314-text-formats-with-short-lines (for prose)
 // lyrics? poetry?
 
@@ -84,22 +79,13 @@ https://github.com/search?q=markdown+indent++&type=repositories
 
 Gemtext format is line-oriented and the first three characters of a line determine its type. The syntax includes markup for...
 
-Setext (Structure Enhanced Text) is a lightweight markup language used to format plain text documents such as e-newsletters, Usenet postings, and e-mails...
-
-MultiMarkdown is a lightweight markup language created by Fletcher T. Penney as an
-
-
-
-
- extension of the Markdown format. It supports additional features not...
 
 # 20260528 text formats
 
-Lightweight text indent format
 
 
-gsugg
-wsugg
+g suggest
+w suggest
 https://en.wikipedia.org/w/index.php?search=Lightweight+markup+language&title=Special%3ASearch&profile=advanced&fulltext=1&ns0=1
 vsc-suggestions
 
@@ -133,10 +119,15 @@ format
 ### 202605
 …Enter/Return) are always respected whereas traditional Markdown would ignore single line breaks unless the line ended …
 
+###
+```
+:::
+```
 
-# pandoc  
+# pandoc  , ported to javaScript?
 glasp 
 
+This syntax is borrowed from reStructuredText.
 Extension: line_blocks±
 A line block is a sequence of lines beginning with a vertical bar (|) followed by a space. The division into lines will be preserved in the output, as will any leading spaces; otherwise, the lines will be formatted as Markdown. This is useful for verse and addresses:
 
@@ -156,7 +147,6 @@ The lines can be hard-wrapped if needed, but the continuation line must begin wi
 | Berkeley, CA 94718
 Inline formatting (such as emphasis) is allowed in the content (though it can’t cross line boundaries). Block-level formatting (such as block quotes or lists) is not recognized.
 
-This syntax is borrowed from reStructuredText.
 
 
 
@@ -176,6 +166,7 @@ https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Accessibility#Lists
 
 Indentation is most commonly used on talk pages.
 
+```
 Markup	Renders as
 Indentation as used on talk pages:
 :Each colon at the start of a line
@@ -188,6 +179,7 @@ so long as no carriage return or line break is used.)
 ::::::And so on ...
 {{Outdent|::::::}}The outdent template can give a visual indicator that we're deliberately cancelling the indent (6 levels here)
 Indentation as used on talk pages:
+```
 
 Each colon at the start of a line
 causes the line to be indented by three more character positions.
@@ -201,23 +193,12 @@ And so on ...
 The outdent template can give a visual indicator that we're deliberately cancelling the indent (6 levels here)
 Templates: {{outdent}}, {{outdent2}}
 
-:::It seems I have some gaps in my knowledge. I believe CKD first appeared with S/360 and previous disks were sectorized. I don’t understand the reasoning that led to this decision, but I think record-oriented file system is a natural fit, but I don’t know much about filesystems on the 707x or other early IBM computers, to say nothing of non-IBM systems. I started my career together with S/360, so record-oriented systems felt natural and byte-oriented filesystems very unnatural. Trying to emulate IBM’s record-oriented system in Linux for Iron-Spring PL/I I frequently found myself wishing for CKD disks to simplify other-than-sequential access to variable length records. there’s a natural fit with blocks determined by hardware. [[User:Peter Flass|Peter Flass]] ([[User talk:Peter Flass|talk]]) 13:42, 26 September 2023 (UTC)
-::::Yes, CKD first appeared on the S/360, and most previous disks were sectorized. On the 1301 and 1302 each cylinder had a format track that controlled block sizes. You could have a mix of block sizes on a track, but each track in the cylinder had the same mix.
-::::And, no, the underlying hardware of contemporary DASD fo z is no longer CKD; the subsystem simulates CKD or FBA on SCSI drives with a different geometry.
-::::While CKD simplified some things, it had an overhead cost. -- [[User:Chatul|Shmuel (Seymour J.) Metz Username:Chatul]] ([[User talk:Chatul|talk]]) 14:53, 26 September 2023 (UTC)
-:::
-:::IBM had record oriented file systems before CKD. GE never had CKD, yet GEFRC in GECOS was record oriented. AFAIK, DEC never had CKD, yet RMS is record oriented.
-:::Both byte oriented and record oriented are abstractions, and IBM has implemented byte oriented on top of record oriented. 
-:::Access methods and file systems are closely related, but not identical. In OS/360, there were multiple access methods for Physical Sequential (PS) files and in z/OS there were (HFS is
 
 
 
-# rather text than data
 
-Markdown as  data format but not yaml preambles, front matter, metadata, 
-
-
-
+# 20260528 I am looking for rather text than data
+// Markdown as  data format but not yaml preambles, front matter, metadata, 
 > Line-oriented data formats
 > ai/ newline-delimited data formats
 
