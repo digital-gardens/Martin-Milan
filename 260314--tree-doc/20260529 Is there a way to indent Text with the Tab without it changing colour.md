@@ -20,8 +20,28 @@ live preview
 
 
 ^ p
-a
 togg view
+
+
+a
+obsidian indent Text with the Tab
+
+Indent using tabs ... Use tabs to indent by pressing the Tab key. Turn this off to indent using 4 spaces. Convert pasted HTML to Markdown.Read more
+
+
+The Simple Tab Indent plugin redefines how the Tab key behaves by inserting a zero-width space followed by a real tab character.Read more
+
+In Obsidian's editor, key Tab is used to indent a hole paragraph. It's not a comfortable way for some vscode users who are doing frequently such works below. 1.Read more
+
+11 Jun 2022 — I want to indent with the tab key ONLY ONLY! I don't want any stupid red writing, no other automatic formatting, I just want to have the same spacing between ...Read more
+
+Indent using tabs. Select some text and press tab to indent, like just about any IDE. The indent action is completely unaltered (native indentMore command) ...Read more
+
+Obsidian's Markdown parser turns any line that starts with 4+ spaces or a tab into an indented code block. Instead of modifying the parser, this plugin rewrites ...Read more
+
+
+
+
 
 
 tog rea view ... tabs disapppeared 
