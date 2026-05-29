@@ -1,5 +1,7 @@
 {
   "attachmentFolderPath": "./attachments",
   "livePreview": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "useTab": true
 }
