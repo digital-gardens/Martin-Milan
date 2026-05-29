@@ -15,7 +15,7 @@
               "state": {
                 "file": "new vault.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "new vault"
@@ -39,7 +39,7 @@
               "state": {
                 "file": "260314--tree-doc/20260529 Is there a way to indent Text with the Tab without it changing colour.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "20260529 Is there a way to indent Text with the Tab without it changing colour"

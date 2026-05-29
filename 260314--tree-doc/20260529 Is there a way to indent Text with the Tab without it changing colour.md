@@ -11,7 +11,23 @@ tags:
 ---
 
 
-"strictLineBreaks": true
+
+row -1
+col -4
+reading
+source mode
+live preview
+
+
+^ p
+a
+togg view
+
+
+tog rea view ... tabs disapppeared 
+
+"strictLineBreaks": true ....not for me 
+		"strictLineBreaks": false
 
 
 I've just started using Obsidian and I absolutely love it but I don't like the way tabs get displayed in viewing mode and was wondering if there is a way of just being able to indent text to make it more readable.
