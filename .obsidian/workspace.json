@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20260511-claude.ai/20260520 a person with anxiety-s  -my- guide to.publ.md",
+                "file": "260314--tree-doc/20260529 Is there a way to indent Text with the Tab without it changing colour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260520 a person with anxiety-s  -my- guide to.publ"
+              "title": "20260529 Is there a way to indent Text with the Tab without it changing colour"
             }
           }
         ],
@@ -194,8 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33edcf5fa2a23d5c",
+  "active": "b6283ee73d16cec1",
   "lastOpenFiles": [
+    "20260511-claude.ai/20260520 a person with anxiety-s  -my- guide to.publ.md",
+    "260314--tree-doc/20260529 Is there a way to indent Text with the Tab without it changing colour.md",
     "00clippi---onedr",
     "obsidian--appdata/obsidian.json",
     "obsidian--appdata",
@@ -208,7 +210,6 @@
     "markdown-snippets--20260526/markdown-basics/snippets/markdown.code-snippets",
     "markdown-snippets--20260526/markdown-basics/syntaxes",
     "markdown-snippets--20260526/markdown-basics/snippets",
-    "markdown-snippets--20260526/markdown-basics/package.nls.json",
     "markdown-snippets--20260526/20260526--Code-User-snippets-markdown.json.publ.md",
     "markdown-snippets--20260526/markdown-styles-supported.didact.md",
     "20260526--Code-User-snippets-markdown.json.publ.md",
@@ -229,7 +230,6 @@
     "WIN-s/WIN..WIN..sticky-keys.md",
     "WIN-s/controlled-folder-access.md",
     "03.publ.dir/03-260207-editing-settings.json.publ.md",
-    "20260511-claude.ai/20260520 a person with anxiety-s  -my- guide to.publ.md",
     "20260511-claude.ai/03-settings/20260517-experim--prtscr--paste-to-obsidian.publ.md",
     "Ask HN Best way to host a website for 500 years.md",
     "My External Brain  Living with Brain Injury.md",
