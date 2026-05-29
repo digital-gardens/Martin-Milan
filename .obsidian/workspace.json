@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "indent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,12 +99,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "066785b9f699c220",
@@ -194,8 +194,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6283ee73d16cec1",
+  "active": "33edcf5fa2a23d5c",
   "lastOpenFiles": [
+    "00clippi---onedr",
     "obsidian--appdata/obsidian.json",
     "obsidian--appdata",
     "obsidian",
@@ -208,7 +209,6 @@
     "markdown-snippets--20260526/markdown-basics/syntaxes",
     "markdown-snippets--20260526/markdown-basics/snippets",
     "markdown-snippets--20260526/markdown-basics/package.nls.json",
-    "markdown-snippets--20260526/markdown-basics/package.json",
     "markdown-snippets--20260526/20260526--Code-User-snippets-markdown.json.publ.md",
     "markdown-snippets--20260526/markdown-styles-supported.didact.md",
     "20260526--Code-User-snippets-markdown.json.publ.md",
