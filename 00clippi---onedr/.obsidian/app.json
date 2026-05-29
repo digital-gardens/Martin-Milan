@@ -1,4 +1,5 @@
 {
   "defaultViewMode": "source",
-  "livePreview": false
+  "livePreview": false,
+  "strictLineBreaks": true
 }
