@@ -4,6 +4,11 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\03.publ.dir\03-260207-editing-settings.j
 # //// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
 
 
+f1 backspace edit settings.json 
+		keyboard {right}
+
+
+
 # cp -i   ...   copy /-y  ... cmd /c  copy   /-y       
 y
 
