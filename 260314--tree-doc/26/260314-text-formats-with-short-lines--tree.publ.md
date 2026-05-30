@@ -45,6 +45,24 @@ An example piece of legalese, converted to Tree Notation
 ```
 
 
+
+
+
+# 20260530 
+
+new string storage format
+
+new data storage format
+
+new indent text tree data format site:github.com
+
+
+new indent text tree data representation model site:github.com
+
+new data model
+
+
+
 # 20260528
 
 exists

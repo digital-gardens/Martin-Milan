@@ -395,6 +395,17 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 # plotter test 
 
 
+# 20260530   Your profile picture has been updated. It may take a few minutes to update across the site.
+
+pozor originál onedrive 0root koren profil g ph wifi waves soukr.n8.dir mastodo
+
+
+Your profile picture has been updated. It may take a few minutes to update across the site.
+
+Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried about akathisia ] ## 250918 start fixing this tweet (add dr. Shipko) 
+
+
+
 # 260314  tree  
 [[260314-text-formats-with-short-lines--tree.publ.md]]
 
