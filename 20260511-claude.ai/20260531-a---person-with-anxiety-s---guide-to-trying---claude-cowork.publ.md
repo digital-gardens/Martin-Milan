@@ -28,5 +28,24 @@ d:\33authenticated-users\Martin-Milan
 
 
 
+
+
+detour 
+rsiguard
+double detour
+dont push to github 
+RSIGuard\EnteredRegCode|2.......3
+gitignore
+```
+# .gitignore
+MiscSettings.ini
+```
+
+
+
+temporary switch off the autoclick if you use rsiguard
+
+
+
 an older guide
 [[20260520-a---person-with-anxiety-s---guide-to-trying---claude-in-chrome.publ.md]]
