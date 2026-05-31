@@ -43,6 +43,12 @@ icacls  c:\users\milan_rxtipwr
 icacls  c:\users\milan_rxtipwr\OneDrive
 dir c:\users\milan_rxtipwr\OneDrive
 
+
+win q
+restore-point
+pre techl
+
+
 echo '-------- section --------'
 
 echo was in c:\marti
@@ -137,6 +143,7 @@ taskkill /F /IM SearchIndexer.exe /T
 
 echo '-------- section --------'
 
+
 # tags: 20260428 430.0101 disks icacls
 
 # my suggestion , version 3
@@ -176,10 +183,10 @@ icacls G:\ /remove "Everyone"
 
 echo '-------- section --------'
 
-
+mkdir d:\33authenticated-users
+mkdir d:\11techl
 mkdir d:\2222
 mkdir d:\000doc24
-
 
 explorer i:\
 owner admi
@@ -193,12 +200,10 @@ i:\ Everyone:(OI)(CI)(RX)
     MB-PC\milan_rxtipwr:(OI)(CI)(F)
     BUILTIN\Administrators:(OI)(CI)(F)
 
-Successfully processed 1 files; Failed processing 0 files
-
-PS C:\WINDOWS\system32>
 
 
-
+icacls.exe   d:\33authenticated-users   /grant 'Authenticated Users:(oi)(ci)(f)'
+icacls.exe   d:\11techl   /grant 'techl:(oi)(ci)(f)'
 icacls.exe   d:\2222   /grant 'marti:(oi)(ci)(f)'
 icacls.exe   d:\000doc24
   /grant 'marti:(oi)(ci)(f)'
