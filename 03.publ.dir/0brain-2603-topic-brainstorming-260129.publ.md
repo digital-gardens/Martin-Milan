@@ -394,13 +394,24 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 # plotter test 
 
+# //// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
+
+
+# my dream projects
+r/visual_conlangs
+r/tree_notations
+
 
 # 20260530   Your profile picture has been updated. It may take a few minutes to update across the site.
 
 pozor originál onedrive 0root koren profil g ph wifi waves soukr.n8.dir mastodo
-
+profile photo picture profilová fotka
 
 Your profile picture has been updated. It may take a few minutes to update across the site.
+(informal bio: 250918)
+
+my older digital garden, 2025
+MY newest, smallest DIGITAL GARDEN 20260504
 
 Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried about akathisia ] ## 250918 start fixing this tweet (add dr. Shipko) 
 
