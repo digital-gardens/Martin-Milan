@@ -3,6 +3,7 @@ exit
 
 
 
+# 20260531  soukr klic  EnteredRegCode
 
 double detour
 dont push to github
