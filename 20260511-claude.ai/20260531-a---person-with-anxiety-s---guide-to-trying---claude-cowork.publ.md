@@ -1,7 +1,13 @@
 
+to an AI assistant:
+#prompt
+please comment on the  "#TODO-AI"  item(s) at the end of the file 
+
+---
+
 # 20260531-a---person-with-anxiety-s---guide-to-trying---claude-cowork.publ.md
 
-I created a secondary windows user account..  techl
+# I created a secondary windows user account..  techl
 
 
 ```
@@ -30,25 +36,33 @@ d:\33authenticated-users\Martin-Milan
 
 
 
+detour
+windows user account techl
+setting
+accessibility
+-3 keyboard
+sticky keys
+only show the icon is: on
+
+
 detour 
 rsiguard
-
-
-# 20260531  soukr klic  EnteredRegCode
-double detour
-dont push to github 
-redRegCode|2.......3
-gitignore
-```
-# .gitignore
-MiscSettings.ini
-```
+[[rsiguard.f8.md]]
 
 
 
-temporary switch off the autoclick if you use rsiguard
+# claude desktop app
+
+
+#prompt 
+is it possible to install claude desktop app for the techl user and use it from there ?
+#TODO-AI 
 
 
 
-an older guide
-[[20260520-a---person-with-anxiety-s---guide-to-trying---claude-in-chrome.publ.md]]
+#TODO
+# runs at login 
+
+# if scary settings, then temporary switch off the autoclick if you use rsiguard
+
+# an older guide [[20260520-a---person-with-anxiety-s---guide-to-trying---claude-in-chrome.publ.md]]
