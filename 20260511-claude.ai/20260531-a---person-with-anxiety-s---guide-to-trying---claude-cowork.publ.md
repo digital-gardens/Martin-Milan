@@ -54,6 +54,10 @@ rsiguard
 # claude desktop app
 
 
+<div class="text-sm text-text-500 text-left truncate w-0 flex-grow">Failed to fetch <span class="text-text-400">https://support.claude.com</span></div>
+
+
+
 #prompt 
 is it possible to install claude desktop app for the techl user and use it from there ?
 #TODO-AI 
