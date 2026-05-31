@@ -72,8 +72,20 @@ On average, suggested breaks will last: 2m 37s
 (longer when you postpone brea
 
 
+page 2
+
+kept
+Until I have been inactive on the keyboard and mouse for at least 
+4
+ seconds
+
+
 
 Willpower setting: Very Low
+
+Hide screen during breaks(can make it feel easier to stop working when break starts)
+
+
 
 
 
