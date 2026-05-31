@@ -4,6 +4,7 @@
 # going to obsidian to paste screenshots  
 
 will it work with opening in vscode also  ????
+yes
 
 see 
 20260517-experim--prtscr--paste-to-obsidian.publ
@@ -20,7 +21,10 @@ edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extensi
 
 
 
-# 20260520 a person with anxiety-s  -my- guide to.publ.md
+# 20260520-a---person-with-anxiety-s---guide-to-trying---claude-in-chrome.publ.md
+
+  -my-
+
  a person with anxiety-s  -my- guide to 
  a person with anxiety 's guide to 
 
