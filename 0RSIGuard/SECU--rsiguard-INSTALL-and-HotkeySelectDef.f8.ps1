@@ -7,6 +7,7 @@ exit
 
 double detour
 dont push to github
+
 teredRegCode|2.......3
 gitignore
 ```

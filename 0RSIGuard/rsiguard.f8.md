@@ -4,6 +4,7 @@ exit
 # 20260531  soukr klic  EnteredRegCode
 double detour
 dont push to github
+
 teredRegCode|2.......3
 gitignore
 ```
