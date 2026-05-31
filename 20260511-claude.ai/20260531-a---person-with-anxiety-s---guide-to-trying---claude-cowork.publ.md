@@ -60,7 +60,24 @@ rsiguard
 
 #prompt 
 is it possible to install claude desktop app for the techl user and use it from there ?
+
+i have low ram memory .. 8 GB
+
+how many vms, containers, processes does claude desktop app run ?
+
+maybe completely exit the claude desktop app, and then win-L to switch to the techl user and then start the claude desktop app from there ?
+
+seems no little icon in the system tray
+
+
+#TODO
+restore point
+after installing claude desktop app for the techl user
+
+
+
 #TODO-AI 
+
 
 
 
