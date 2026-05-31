@@ -21,15 +21,14 @@ mkdir   "0004-marti-dont-push----soukr klic  ...RegCode"
 # jde ^a ^c  
 
 
-returned to 
 Force breaks to be at least 
+...
+ minutes
+
+aaa 4
+3
 2
- minutes
-
-
-Force breaks to be at least 
 1
- minutes
 
 
 
@@ -47,15 +46,12 @@ Restrict me to
 30
  minutes
 
+aaa
 Restrict me to 
-20
+21
  minutes of activity per 
 24
  minutes
-
-
-
-
 
 Restrict me to 
 10
@@ -67,12 +63,17 @@ Restrict me to
 
 
 
-
+39
  average, breaks will be suggested every: 27m
 (more often when you work intensely, less often when you take natural rests)
 
+4
 On average, suggested breaks will last: 2m 37s
 (longer when you postpone brea
+
+
+
+Willpower setting: Very Low
 
 
 
@@ -98,6 +99,7 @@ cat "C:\Users\marti\AppData\Roaming\RSIGuard\marti-HiRes.txt"
 https://rsiguard.com/documents/help/BreakTimerAnalysis.pdf
 
 ## https://rsiguard.com/support/faqs.htm#dl-backup
+
 
 If your DataLogger data is on a computer without a network, and you are simply switching from one computer to another, you will need to copy the data (and optionally copy/backup your RSIGuard settings as well) from the old computer to the new one. Follow these steps:
 
@@ -129,11 +131,6 @@ Windows username of the currently logged in user.
 
 
 
-Restrict me to 
-50
- minutes of activity per 
-60
- minutes
 
 
 
@@ -193,7 +190,7 @@ Filters
 
 
 
-
+4
 Average Break Length:
 3m 31s
 ShortMediumLong
@@ -203,6 +200,10 @@ More frequentLess frequent
 Break Frequency varies based on your typing/mousing activity levels:
 Be extra sensitive to my mousing activity
 Be extra sensitive to my typing activity
+
+
+switched off  
+
 Min/Max time between breaks:
 Require a minimum 
 45
@@ -281,10 +282,16 @@ Restrict me to
 
 
 
+on
+on
+on
 Hide status window until I'm close to exceeding my minute by minute restriction
 
 Start a stretch break when I exceed my restriction
 Keystroke & Mouseclick Restriction
+
+
+
 
 Restrict to:
 15000
@@ -312,6 +319,9 @@ Help | Cancel
 
 
 
+
+no
+While '!Windows Media Player' is active, disable BreakTimer.
 
 
 
