@@ -1,10 +1,4 @@
 
-to an AI assistant:
-#prompt
-please comment on the  "#TODO-FOR-AI"  item(s) at the end of the file 
-
----
-
 # 20260531-a---person-with-anxiety-s---guide-to-trying---claude-cowork.publ.md
 
 # I created a secondary windows user account..  techl
