@@ -70,6 +70,15 @@ maybe completely exit the claude desktop app, and then win-L to switch to the te
 seems no little icon in the system tray
 
 
+unsigned?---edit-later--no--false alarm--- i had seen the properties of the *folder* first
+https://downloads.claude.ai/releases/win32/x64/1.9659.2/ClaudeSetup-390d6ca38de808ca81aeccd2945d9c8be800f47d.exe
+https ok
+
+
+
+
+
+
 #TODO
 restore point
 after installing claude desktop app for the techl user
