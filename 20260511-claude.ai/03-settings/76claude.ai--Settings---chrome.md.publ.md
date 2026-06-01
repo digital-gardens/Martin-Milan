@@ -8,6 +8,19 @@ description: "Claude is Anthropic's AI, built for problem solvers. Tackle comple
 tags:
   - "clippings"
 ---
+
+
+
+
+
+
+
+# aaaaaa     Teach Claude a workflow by recording the steps yourself, and Claude learns to repeat them. This is useful for repetitive browser tasks that follow the same pattern each time. To record a workflow:
+
+
+
+
+
 ### Claude in Chrome settings
 
 ### Site permissions
