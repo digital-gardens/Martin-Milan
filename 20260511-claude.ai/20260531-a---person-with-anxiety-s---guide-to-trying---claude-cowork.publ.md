@@ -5,8 +5,33 @@
 
 
 
-EDIT.. NEWER IS 
+EDIT.. NEWER than 33 IS  03 
 icacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW\   /grant 'Authenticated Users:(oi)(ci)(f)'
+
+
+
+
+```
+cd ..
+icacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW\   /grant 'Authenticated Users:(oi)(ci)(f)'
+```
+
+ok
+conhost
+icacls ..
+icacls.exe   . 
+
+icacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW 
+icacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW\ 
+cacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW\  
+
+false alarm not BUG
+
+
+mkdir 0WARNING-grant-f-authenticated-users----use-git-vscode-instead-of-notepad-when-editing-files-on-disk
+
+
+
 
 ```
 mkdir d:\33authenticated-users

@@ -2,11 +2,11 @@
 # [[20260601-a---person-with-anxiety-s---guide-to-trying---claude-code.md]]
 
 
+# I cloned my text monorepo to 
+C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan
+// github desktop alias..     onedr03Martin-Milan
 
-# I cloned my text repo 
-
-# 03onedrAiAGENT-RW\Martin-Milan    onedr03Martin-Milan
-
+```
 cd ..
 cd 03* 
 ok
@@ -28,24 +28,8 @@ onedr..03..00-MM-claude.git
 C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan
 onedr03Martin-Milan
 exit
+```
 
-
-cd ..
-icacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW\   /grant 'Authenticated Users:(oi)(ci)(f)'
-
-ok
-conhost
-icacls ..
-icacls.exe   . 
-
-icacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW 
-icacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW\ 
-cacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW\  
-
-false alarm not BUG
-
-
-mkdir 0WARNING-grant-f-authenticated-users----use-git-vscode-instead-of-notepad-when-editing-files-on-disk
 
 
 
