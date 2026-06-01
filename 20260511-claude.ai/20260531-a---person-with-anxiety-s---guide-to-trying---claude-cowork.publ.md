@@ -4,6 +4,10 @@
 # I created a secondary windows user account..  techl
 
 
+
+EDIT.. NEWER IS 
+icacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW\   /grant 'Authenticated Users:(oi)(ci)(f)'
+
 ```
 mkdir d:\33authenticated-users
 icacls.exe   d:\33authenticated-users   /grant 'Authenticated Users:(oi)(ci)(f)'
@@ -20,7 +24,7 @@ restore-point
 pre techl user installations
 ```
 
-github desktop
+## github desktop
 clone this documentation repo to 
 d:\33authenticated-users\
 d:\33authenticated-users\Martin-Milan
