@@ -32,7 +32,7 @@ D:\0004-LINKS MB-PC\marti:(OI)(CI)(F)
 # f ... use git, vscode
 # mkdir ... see nonise  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\nonadmin-nonise--newest-mbpc--nonadmin,martin-saves.f8.ps1
 
-mkdir d:\33authenticated-users\0WARNING-grant-f----use-git-vscode-instead-of-notepad-when-editing-files-on-disk
+mkdir d:\33authenticated-users\0WARNING-grant-f-authenticated-users----use-git-vscode-instead-of-notepad-when-editing-files-on-disk
 mkdir d:\11techl\0WARNING-grant-f----use-git-vscode-instead-of-notepad-when-editing-files-on-disk
 
 

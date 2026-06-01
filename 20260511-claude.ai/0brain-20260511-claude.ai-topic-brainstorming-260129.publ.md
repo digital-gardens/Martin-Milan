@@ -23,6 +23,19 @@ git remote add origin
 https://digi
 git remote add origin https://github.com/digital-gardens/Martin-Milan
 github desktop
+ IT merely fetched
+git pull origin main
+
+onedr..03..00-MM-claude.git
+C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan
+onedr03Martin-Milan
+exit
+
+
+cd ..
+icacls.exe   C:\Users\marti\OneDrive\03onedrAiAGENT-RW\   /grant 'Authenticated Users:(oi)(ci)(f)'
+mkdir 0WARNING-grant-f-authenticated-users----use-git-vscode-instead-of-notepad-when-editing-files-on-disk
+
 
 
 # 20260601-claude.. one-handed

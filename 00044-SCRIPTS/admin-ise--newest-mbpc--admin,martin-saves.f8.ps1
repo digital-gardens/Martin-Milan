@@ -196,23 +196,19 @@ D:\0004-LINKS MB-PC\marti:(OI)(CI)(F)
               MB-PC\techl:(OI)(CI)(RX)
               MB-PC\milan_rxtipwr:(OI)(CI)(RX)
               MB-PC\Milan:(OI)(CI)(RX)
-# rx not overwrite  in 2 old editors 
+# rx not overwrite  in 2 old editors
 # f ... use git, vscode
 # mkdir ... see nonise  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\nonadmin-nonise--newest-mbpc--nonadmin,martin-saves.f8.ps1
 
 
 explorer i:\
 owner admi
-
 icacls i:\
-
-PS C:\WINDOWS\system32> icacls i:\
 i:\ Everyone:(OI)(CI)(RX)
     CREATOR OWNER:(OI)(CI)(IO)(F)
     NT AUTHORITY\SYSTEM:(OI)(CI)(F)
     MB-PC\milan_rxtipwr:(OI)(CI)(F)
     BUILTIN\Administrators:(OI)(CI)(F)
-
 
 
 icacls.exe   d:\33authenticated-users   /grant 'Authenticated Users:(oi)(ci)(f)'
