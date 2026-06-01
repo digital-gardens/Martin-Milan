@@ -62,13 +62,6 @@ aaaa  nn -for-now  Claude in Chrome lets Claude handle work in the browser via C
 
 
 
-not online
-nnn 
--Let Claude work on tasks from your phone using this computer. When off, your phone won't be able to dispatch work here.
-
-
-aaaaa  Instructions here apply to all Cowork sessions. Use this for preferences, conventions, or context that Claude should always know.
-
 
 
 
@@ -158,11 +151,3 @@ Tool permissions
 
 Site-level permissions are inherited from the Chrome extension. [Manage permissions](http://clau.de/chrome/chrome-permissions) in the Chrome extension settings to control which sites Claude can browse, click, and type on.
 
-
-connectors???
-Claude in Chrome settings
-Site permissions
-Default for all sites
-aaaaa   Choose whether Claude in Chrome works on all sites by default
-
-Select default policy

@@ -26,36 +26,12 @@ tags:
 ### Site permissions
 
 Default for all sites
-
-?? Choose whether Claude in Chrome works on all sites by default
-
-
-
-General
-Account
-Privacy
-Billing
-Usage
-Capabilities
-Connectors
-Claude Code
-Cowork
-Claude in Chrome
-Beta
-Desktop app
-General
-Extensions
-Developer
-aaaa     Claude in Chrome settings
-Site permissions
-Default for all sites
-Choose whether Claude in Chrome works on all sites by default
-
+aaaaa   Choose whether Claude in Chrome works on all sites by default
+Select default policy
 
 
 aaaaa     Block extension
 block
-
 
 
 Claude in Chrome only works on sites you allow below

@@ -8,23 +8,7 @@ description: "Claude is Anthropic's AI, built for problem solvers. Tackle comple
 tags:
   - "clippings"
 ---
-- [  
-    General](https://claude.ai/settings/general)
-- [Account](https://claude.ai/settings/account)
-- [Privacy](https://claude.ai/settings/data-privacy-controls)
-- [Billing](https://claude.ai/settings/billing)
-- [Usage](https://claude.ai/settings/usage)
-- [Capabilities](https://claude.ai/settings/capabilities)
-- [Connectors](https://claude.ai/settings/connectors)
-- [Claude Code](https://claude.ai/settings/claude-code)
-- [Cowork](https://claude.ai/settings/cowork)
-- [Claude in ChromeBeta](https://claude.ai/settings/browser-extension)
 
-## Desktop app
-
-- [General](https://claude.ai/settings/desktop)
-- [Extensions](https://claude.ai/settings/desktop/extensions)
-- [Developer](https://claude.ai/settings/desktop/developer)
 
 ### Code appearance
 

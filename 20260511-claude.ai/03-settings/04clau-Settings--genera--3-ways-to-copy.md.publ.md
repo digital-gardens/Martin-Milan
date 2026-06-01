@@ -10,6 +10,23 @@ tags:
 ---
 
 
+code "C:\Users\marti\OneDrive\Dokumenty\00-MM\20260511-claude.ai\03-settings"
+
+aaa iii rrr 
+([atdiryn])\1\1+
+aa
+aat
+aaat
+ataa
+\b([atdiryn])\1+\b
+old \b([atdiryn])\1+ /   ...old  
+eol end-of-line test aaaa
+ok
+
+
+
+
+
 
 switch off autoclick
 

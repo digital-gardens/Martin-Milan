@@ -9,40 +9,25 @@ description:
 tags:
   - clippings
 ---
-- [  
-    General](https://claude.ai/settings/general)
-- [Account](https://claude.ai/settings/account)
-- [Privacy](https://claude.ai/settings/data-privacy-controls)
-- [Billing](https://claude.ai/settings/billing)
-- [Usage](https://claude.ai/settings/usage)
-- [Capabilities](https://claude.ai/settings/capabilities)
-- [Connectors](https://claude.ai/settings/connectors)
-- [Claude Code](https://claude.ai/settings/claude-code)
-- [Cowork](https://claude.ai/settings/cowork)
-- [Claude in ChromeBeta](https://claude.ai/settings/browser-extension)
-
-## Desktop app
-
-- [General](https://claude.ai/settings/desktop)
-- [Extensions](https://claude.ai/settings/desktop/extensions)
-- [Developer](https://claude.ai/settings/desktop/developer)
-
 
 
 
 ### General desktop settings
 
-Run on startup
-
+aaaa Run on startup
 Automatically start Claude when you log in to your computer
+
+
 
 Quick Entry keyboard shortcut
 
 Quickly open Claude from anywhere
 
+
 System tray
 
 Keep Claude running in the system tray
+
 
 Keep computer awake
 
@@ -53,12 +38,8 @@ Prevent your computer from idle-sleeping while Claude is open so scheduled tasks
 
 Computer useBeta
 
-yy aa    Let Claude take screenshots and control your keyboard and mouse in apps you allow. [Learn more](https://support.claude.com/en/articles/14128542)
-
-
+yy aaaa    Let Claude take screenshots and control your keyboard and mouse in apps you allow. [Learn more](https://support.claude.com/en/articles/14128542)
 ---
-
-
 aaaaa edit..enabled   ///////Disabled
 Turn on computer use?
 Claude will take screenshots of your screen and control your mouse and keyboard. You'll approve each app, but not confirm each step Claude performs.
@@ -84,6 +65,7 @@ Any request Claude makes to access these apps is automatically rejected. Claude 
 
 No apps denied. Add an app to automatically reject Claude's requests for it.
 
+
 Accessibility
 
 Not supported
@@ -97,5 +79,5 @@ Not supported
 
 
 
-C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\03-settings\Claude--setti--cust-connec.publ.md
+file:///C:\Users\marti\OneDrive\Dokumenty\03AiAGENT-RW\03-settings\70Claude--setti--cust-connec.publ.md
 
