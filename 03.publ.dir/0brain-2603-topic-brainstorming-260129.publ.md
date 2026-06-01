@@ -394,6 +394,35 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 # plotter test 
 
+
+# Milanovy poznámky na Github.com/digital-gardens/Martin-Milan/
+
+# slovplast wc 251224 
+- JB https://gemini.google.com/app/710f35c088a709b1
+  -  2025
+    - ℹ️ ℹ Obchod s instalatérskými potřebami v Praze
+    - ℹ️ Slovplast t 2454 Toilet Cistern: Installation & Repair
+
+  - photos.google.com   wc
+    - https://photos.google.com/share/AF1QipPuQ0xAWTEm9xrLS7RZyG-p6IMh0CeGfDc-XRz4NBfvug52VlKZdbjKOADic9FPXw?key=dHVpOThwNnVfeHdpdmRWSDNld3p5SzVMUDlNNUxR
+      - název alba ... 
+        - 20260601 wc slovplast  záchod nádržka. gemini . 2018na podlaze bylo10 litrů vody.2018 natrh nádržka... plovák nezavírá vodu? 
+        - už roky je ventil nastavený na velmi pomalé napouštění nádržky, aby se předešlo úniku vody v případě poruchy plováku, ale teď ...
+
+## 20260601 týdny nový problém,  nové fotky, nádržka někdy prázdná a voda teče do záchodu
+- pomáhá trochu potáhnout za splachovácí páku, pak se nádržka začne napouštět
+- // jindy nádržka velmi plná
+- po kolika letech vyměnit těsnění? 
+
+Gemini
+Voda teče do záchodu a nádržka je prázdná: Pokud pomůže lehké zatažení za páku, znamená to, že vypouštěcí ventil (takzvaný zvon) se zasekává a správně nedosedá na dno nádržky. Lehké zatažení mechanismus "setřese" a těsnění si konečně sedne. Na vině bývá usazený vodní kámen v mechanismu, drhnoucí plastové díly, nebo deformované těsnění.
+
+
+Skvěle, Jirko. Vzhledem k tomu, jaké problémy se tam sešly a že má plastové ústrojí už téměř 9 let odslouženo, dává největší smysl vyměnit s Milanem celý "vnitřek" najednou. Ušetříte si tak další rozebírání za pár měsíců.
+
+
+🎵 Když už je řeč o té vodě, co si dělá, co chce, a snaze zabránit potopě, připomíná mi to písničku "Fixing a Hole" od The Beatles – ta je přesně o tom, jak je potřeba včas opravit místo, kudy zatéká (nebo v tomto případě protéká), aby nám nepršelo do nálady.
+
 # //// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
 
 

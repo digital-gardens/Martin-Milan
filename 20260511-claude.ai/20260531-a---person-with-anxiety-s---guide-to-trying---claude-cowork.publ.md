@@ -108,6 +108,31 @@ after installing claude desktop app for the techl user
 
 
 
+# 0601  cowork settings, chrome, code 
+
+read all
+
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\20260511-claude.ai\03-settings\20260517-cowork-enable-------experim--prtscr--paste-to-obsidian.publ.md
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\20260511-claude.ai\03-settings\setti-from--20260511-special-claude.ai.publ.md
+Instructions here apply to all Cowork sessions. Use this for preferences, conventions, or context that Claude should always know.
+
+
+
+## [text](03-settings/claude.ai--Settings---chrome.md.publ.md)
+
+Claude in Chrome settings
+
+## [text](03-settings/clau---Settings---Code.publ.md)
+
+[text](03-settings/Claude--setti--cust-connec.publ.md)
+
+
+
+
+
+
 #TODO-FOR-AI 
 
 
