@@ -36,13 +36,18 @@ Prevent your computer from idle-sleeping while Claude is open so scheduled tasks
 
 
 
+Browser Use
+Allow all browser actions
+aaa nnn  Claude will browse and interact with any website in Chrome without asking. Applies to new sessions. This setting can put your data at risk. Learn more
+
+
+
+
 Computer useBeta
 
 yy aaaa    Let Claude take screenshots and control your keyboard and mouse in apps you allow. [Learn more](https://support.claude.com/en/articles/14128542)
 ---
-aaaaa edit..enabled   ///////Disabled
-Turn on computer use?
-Claude will take screenshots of your screen and control your mouse and keyboard. You'll approve each app, but not confirm each step Claude performs.
+aaaaa edit..  disabled  //  enabled   ///////Disabled  //  Turn on computer use?  // Claude will take screenshots of your screen and control your mouse and keyboard. You'll approve each app, but not confirm each step Claude performs.
 
 Keep in mind:
 Some actions can't be undone.

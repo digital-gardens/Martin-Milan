@@ -12,7 +12,7 @@ git status
 or drag to select in manage extensuion
 
 
-
+obsidian
 shift ^ p new  
 
  ^  prtscr 
@@ -46,12 +46,16 @@ shift ^ p new
 
 edge://edge-urls/
 edge://extensions/?q=clau
-edge://extensions/?id=fcoeoabgfenejglbffodgkkbkcdhcgfn
-extension://fcoeoabgfenejglbffodgkkbkcdhcgfn/options.html
+
+
+# edge://extensions/?id=fcoeoabgfenejglbffodgkkbkcdhcgfn
+# extension://fcoeoabgfenejglbffodgkkbkcdhcgfn/options.html
 
 maybe restrict sites to 
 
 iana.org
+
+
 
 
 old 
@@ -72,7 +76,7 @@ doesnt matter for chrome ext?
 
 
 
-cowork 
+# cowork 
 again enabled 
 no teach no record nothing appeared
 again disabled
@@ -87,6 +91,8 @@ still works skill recoeding
 ![[Pasted image 20260518013659.png]]
 
 
+
+
 REDDIT IS BLOCKED
 
 ![[Pasted image 20260518020458.png]]
@@ -97,6 +103,7 @@ chrome works
 setting this back in edge
 
 ---
+
 
 # #aaaa  ?    edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
 payment handlers
@@ -147,7 +154,7 @@ Chrome instances signed in to your account that Claude can automate.
 
 No browsers connected
 
-No Chrome instances are connected. Open Chrome with the Claude extension and sign in.
+aaaa   No Chrome instances are connected. Open Chrome with the Claude extension and sign in.
 
 
 ---
@@ -488,7 +495,7 @@ Claude in Chrome (Beta)
 
 Permissions
 
-- Access the page debugger back end
+aaa - Access the page debugger back end
 - Read and change all your data on all websites
 - Display notifications
 - Manage your downloads
@@ -497,7 +504,7 @@ Permissions
 
 Site access
 
-Allow this extension to read and change all your data on websites you visit. Learn more
+aaa    Allow this extension to read and change all your data on websites you visit. Learn more
 
 On all sites
 
@@ -512,7 +519,7 @@ If you select this option, your browser history may still be recorded. Edge can'
 
 
 
-aaaa Allow access to file URLs
+aaa Allow access to file URLs
 
 Collect errors
 
@@ -747,7 +754,8 @@ Note: The file may contain multiple entries, file paths, command text, and other
   
 out because it's something you're trying to troubleshoot?
  default blocked categories (
-A post-mortem analysis of how a Claude-generated `cmd` command, due to escape character collapse across zsh, tmux, and PowerShell, led to the deletion of an entire Windows installation. It outlines cr
+
+aaaA post-mortem analysis of how a Claude-generated `cmd` command, due to escape character collapse across zsh, tmux, and PowerShell, led to the deletion of an entire Windows installation. It outlines cr
 ---
 title: "[Workflow] Preventing AI-Induced Data Loss: Lessons from a Windows Installation Deletion"
 source: "https://www.reddit.com/r/ClaudeWorkflows/comments/1t95kdl/workflow_preventing_aiinduced
@@ -784,7 +792,7 @@ Open and navigate to the specified text file. Locate a URL that appears in the f
 
 
 
-extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://gemini.google.com/saved-info
+aaa   extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://gemini.google.com/saved-info
 
 
 
