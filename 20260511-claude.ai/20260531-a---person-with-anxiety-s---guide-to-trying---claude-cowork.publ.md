@@ -1,7 +1,7 @@
 
 to an AI assistant:
 #prompt
-please comment on the  "#TODO-AI"  item(s) at the end of the file 
+please comment on the  "#TODO-FOR-AI"  item(s) at the end of the file 
 
 ---
 
@@ -69,30 +69,28 @@ maybe completely exit the claude desktop app, and then win-L to switch to the te
 
 seems no little icon in the system tray
 
+but at the other user account techl, there is a little icon in the system tray for the claude desktop app
 
 unsigned?---edit-later--no--false alarm--- i had seen the properties of the *folder* first
 https://downloads.claude.ai/releases/win32/x64/1.9659.2/ClaudeSetup-390d6ca38de808ca81aeccd2945d9c8be800f47d.exe
 https ok
 
+runs at login ..NO
 
 
-
-
-
-#TODO
 restore point
 after installing claude desktop app for the techl user
 
 
 
-#TODO-AI 
+
+
+#TODO-FOR-AI 
 
 
 
 
-#TODO
-# runs at login 
 
-# if scary settings, then temporary switch off the autoclick if you use rsiguard
+# repeat.. if scary settings, then temporary switch off the autoclick if you use rsiguard
 
 # an older guide [[20260520-a---person-with-anxiety-s---guide-to-trying---claude-in-chrome.publ.md]]
