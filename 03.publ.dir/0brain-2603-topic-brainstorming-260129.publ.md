@@ -401,6 +401,11 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 r/visual_conlangs
 r/tree_notations
 
+# 0brain-20260511-claude.ai-topic-brainstorming-260129.publ.md
+[[0brain-20260511-claude.ai-topic-brainstorming-260129.publ.md]]
+
+claude one-handed
+
 
 # 20260520-a---person-with-anxiety-s---guide-to-trying---claude-in-chrome.publ.md
 

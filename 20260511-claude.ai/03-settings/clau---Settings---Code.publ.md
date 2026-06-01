@@ -69,6 +69,10 @@ Worktree location
 Where to store git worktrees for isolated coding sessions
 
 aaaa Inside project (.claude/worktrees) ... changed
+C:\Users\marti\OneDrive\03onedrAiAGENT-RW\my.claude
+
+
+
 
 Branch prefix
 
