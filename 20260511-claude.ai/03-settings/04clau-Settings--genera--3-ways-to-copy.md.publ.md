@@ -12,6 +12,11 @@ tags:
 
 code "C:\Users\marti\OneDrive\Dokumenty\00-MM\20260511-claude.ai\03-settings"
 
+
+\b isa word boundary 
+not know if works at ^  $ 
+test ok
+
 aaa iii rrr 
 ([atdiryn])\1\1+
 aa

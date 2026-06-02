@@ -17,6 +17,21 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\20260511-claude.ai\03-settings\claude.ai
 
 # 20260601-claude.. one-handed
 
+One Armed Hacker - Accessibility Hacking > Learn and enable your accessibility options before you need them for depending upon. Get familiar with dictation, voice commands, automation, and whatever tools your platform offers. You don’t notice how much autonomy lives in tiny, mundane actions until you suddenly can’t perform them. And once you do need help, having those tools already set up and ready makes the shift from two-handed life to one-handed improvisation far less miserable.
+
+
+
+the author of the page
+at the end of the page
+
+suggests learning
+a bit of accessibility features
+even if you are not disabled, because they can be useful in some situations, and also to be prepared for the future, when you might need them
+
+
+
+
+
 a marker for future AI review of the file, to check if there are any TODO items that the AI can help with.
 #TODO-FOR-AI 
 
