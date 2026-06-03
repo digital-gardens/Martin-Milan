@@ -10,10 +10,10 @@ before test, schedule robocopy
 ## Decision: robocopy /MON:3 /MOT:5 (reduce OneDrive churn)
 
 ```
-robocopy "C:\Users\marti\AppData\Roaming\Code\User" "C:\Users\marti\OneDrive\1111ROBOCOPY\AppData\Roaming\Code\User" /MIR /MON:3 /MOT:5 /R:0 /W:0 /XJ
+robocopy "C:\Users\marti\AppData\Roaming\Code\User" "C:\Users\marti\OneDrive\1111ROBOCOPY\AppData\Roaming\Code\User" /S /MON:3 /MOT:5 /R:0 /W:0 /XJ
 ```
 
-- `/MIR`     — mirror source to destination (copies new/changed, deletes removed)
+- `/S`       — copy subdirectories (NOT empty ones); never deletes from destination (safe for future PC migration)
 - `/MON:3`   — re-sync when ≥3 changes detected
 - `/MOT:5`   — AND at least 5 minutes have passed (both conditions must be met)
 - `/R:0 /W:0`— no retries or waits on locked files (VS Code holds some files)
@@ -83,6 +83,26 @@ with /mon:3  /mot:5
 
   Monitor : Waiting for 5 minutes and 3 changes...
    4 mins : 64 changes.
+
+
+
+rem 24c3 start  "000doc24"  /min  /low  Robocopy.exe    d:\000doc24   C:\Users\marti\OneDrive   /e    /XJ     /XD Obr*    /XD .git    /XD node_modules   /XD OLD*    /xd .vscode     /xf .gitignore       /xf .git  /XO  /LOG+:C:\Users\marti\log\doc24.log  /mot:1      /ndl    /nfl
+
+
+
+explorer.exe  /?
+explorer.exe  "C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan\0000\20260603-robocopy-code..user.cmd.shortcut.lnk"
+
+
+cmd /c Robocopy.exe /?
+fail
+cmd /c start  "0000"  /min  /low  Robocopy.exe /?
+start.exe  /?
+
+
+   d:\000doc24   C:\Users\marti\OneDrive   /e    /XJ     /XD Obr*    /XD .git    /XD node_modules   /XD OLD*    /xd .vscode     /xf .gitignore       /xf .git  /XO  /LOG+:C:\Users\marti\log\doc24.log  /mot:1      /ndl    /nfl
+
+
 
 ---
 
