@@ -4,9 +4,9 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\03.publ.dir\03-260207-editing-settings.j
 # //// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
 
 
+REPEAT⏰
 f1 backspace edit settings.json 
 		keyboard {right}
-
 
 
 # cp -i   ...   copy /-y  ... cmd /c  copy   /-y       
@@ -14,25 +14,31 @@ y
 
 
 # ---   redo..  copy settings.json to onedrive to the repo 
-
-redo
+REPEAT⏰
 ```pwsh
-code          "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  
 
+REPEAT⏰
 cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
 
+win-tab TOTalcmd viewer "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  
 
+code          "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  
+
+
+
+REPEAT⏰
 Copy-Item -Path "$env:APPDATA\Obsidian\obsidian.json" -Destination  "$env:USERPROFILE\OneDrive\Dokumenty\00-MM\obsidian--appdata\"
 
 code "$env:USERPROFILE\OneDrive\Dokumenty\00-MM\obsidian--appdata\obsidian.json"
 
 ```
 
-# obsidian.json
-```
+
+
 ---
 
 # the following is not very useful  probably
+```
 
 explorer "C:\Users\marti\AppData\Roaming\Code\"
 dir "C:\Users\marti\AppData\Roaming\Code\Preferences"
