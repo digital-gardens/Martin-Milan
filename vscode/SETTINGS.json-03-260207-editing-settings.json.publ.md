@@ -1,3 +1,5 @@
+#TODO #test #highlight #regexes #settings  aaa  #aaa 
+
 this
 C:\Users\marti\OneDrive\Dokumenty\00-MM\03.publ.dir\03-260207-editing-settings.json.publ.md
 
@@ -14,9 +16,9 @@ y
 
 
 # ---   redo..  copy settings.json to onedrive to the repo 
-REPEAT⏰
 ```pwsh
 
+REPEAT⏰
 REPEAT⏰
 cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
 
@@ -313,3 +315,4 @@ line 167
 code  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\hope-vscdb-no-secrets.md"
 
 // in that file  ....  DO, SOMETIMES, F8 AT THE LINE  ..... cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+#TODO #test #highlight #regexes #settings  aaa  #aaa 

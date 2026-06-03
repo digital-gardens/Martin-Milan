@@ -1,3 +1,49 @@
+#TODO #test #highlight #regexes #settings  aaa  #aaa 
+
+#aa consta  C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\highlight.regexes.20260603\constants.ts
+
+#aaa  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\highlight.regexes.20260603\readme.md
+
+COLORS
+
+BEWARE.. OLD [] {} ?
+```
+  "(// ?TODO:?)(.*)": [
+    {
+      "overviewRulerColor": "#FFF484",
+      "backgroundColor": "#FFF484",
+      "color": "#1F1F1F",
+      "fontWeight": "bold"
+    },
+    {
+      "backgroundColor": "#FFF484",
+      "color": "#1F1F1F"
+    }
+  ],
+
+  "// (@\\w+)": [
+    {
+      "color": "#4DE0FF"
+    }
+  ]
+
+  "(// ?FIXME:?)(.*)": [
+    {
+      "overviewRulerColor": "#FF8C92",
+      "backgroundColor": "#FF8C92",
+      "color": "#1F1F1F",
+      "fontWeight": "bold"
+    },
+    {
+      "backgroundColor": "#FF8C92",
+      "color": "#1F1F1F"
+    }
+  ],
+```
+
+
+
+
 
 https://github.com/fabiospampinato/vscode-highlight
 highlight.regexes
@@ -25,7 +71,6 @@ file:///C:\Users\marti\AppData\Roaming\Code\User\settings.json
 
 		//ODO..aaaaa--
 		// TODO..aaaaa
-		"((?:<!-- *
 
 
 // testaaaaaaaa
@@ -89,3 +134,7 @@ file:///C:\Users\marti\AppData\Roaming\Code\User\settings.json
 	},
 ````
 
+
+
+#TODO test 
+#TODO #test #highlight #regexes #settings  aaa  #aaa 
