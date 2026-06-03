@@ -395,6 +395,15 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 # plotter test 
 
 
+
+
+# 20260603---robocopy-or-junction---code..user---into-onedrive
+[[20260603--robocopy-or-junction---code..user---into-onedrive.md]]
+mkdir 20260603---robocopy-or-junction---code..user---into-onedrive
+, but i want to keep it working in vscode, so i need to use robocopy or junction or something like that
+
+
+
 # Milanovy poznámky na Github.com/digital-gardens/Martin-Milan/
 
 # slovplast wc 251224 

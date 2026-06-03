@@ -1,4 +1,4 @@
-#TODO #test #highlight #regexes #settings  aaa  #aaa 
+// #TODO #test #highlight #regexes #settings  aaa  #aaa 
 
 #aa consta  C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\highlight.regexes.20260603\constants.ts
 
@@ -6,6 +6,7 @@
 
 COLORS
 
+#WARNING 
 BEWARE.. OLD [] {} ?
 ```
   "(// ?TODO:?)(.*)": [
