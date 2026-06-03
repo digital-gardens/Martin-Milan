@@ -36,7 +36,7 @@ rem Pause OneDrive sync before running Robocopy (right-click OneDrive tray icon 
 
 rem zarchiu     extensions
 
-Robocopy.exe   C:\Users\marti\OneDrive  D:\0004-LINKS\OneDrive      /s   /XJ        /XD Pictures           /XD Obr*                /xf *.vhd    /xf *.vhdx   /xf BIG*.*  /XD BIG*                /XD Vide*     /XD .git    /XD node_modules   /XD OLD*      /xf  .gitignore2222222222222222         /xf .git    /xf .849C9593-D756-4E56-8D6E-42412*     /log+:C:\Users\marti\log\OneDrive--deldest-6.log     /tee    /ndl       /nfl      /MIR            /w:0   /r:0
+Robocopy.exe   C:\Users\marti\OneDrive  D:\0004-LINKS\OneDrive      /s   /XJ        /XD Pictures           /XD Obr*                /xf *.vhd    /xf *.vhdx   /xf BIG*.*  /XD BIG*               /XD 1111*                 /XD Vide*     /XD .git    /XD node_modules   /XD OLD*      /xf  .gitignore2222222222222222         /xf .git    /xf .849C9593-D756-4E56-8D6E-42412*     /log+:C:\Users\marti\log\OneDrive--deldest-6.log     /tee    /ndl       /nfl      /MIR            /w:0   /r:0
 
 mkdir D:\0004-LINKS\OneDrive\Dokumenty\00000000--D--OneDrive-IN-DEE-IS-ROBOCOPY-MIR
 rem mkdir D:\0004-LINKS\OneDrive\00000000--D--OneDrive-IN-DEE-IS-ROBOCOPY-MIR
