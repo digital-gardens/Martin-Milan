@@ -284,6 +284,30 @@ line 167
 
 
 
+"highlight.regexFlags": "gi",
+
+		// my aaaaaaa test
+		"(a{3})(.{3})": {
+			//"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+				{
+					"overviewRulerColor": "#ffcc00",
+					"backgroundColor": "#ffcc00",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "#ffcc00",
+					"color": "#1f1f1f"
+				}
+			]
+		},
+
+
+
+
+
+
 
 20260523
 code  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\hope-vscdb-no-secrets.md"

@@ -470,7 +470,32 @@
 	"workbench.secondarySideBar.defaultVisibility": "hidden",
 	"jupyter.logKernelOutputSeparately": true,
 	"editor.renderWhitespace": "all",
+
+
+	"highlight.regexFlags": "gi",
+
 	"highlight.regexes": {
+
+		// my aaaaaaa test
+		"(a{3,})(.{0,3})": {
+			//"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+				{
+					"overviewRulerColor": "#ffcc00",
+					"backgroundColor": "#ffcc00",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "#ffcc00",
+					"color": "#1f1f1f"
+				}
+			]
+		},
+
+		// TODO a. test  ..aaaaa
+		//false alarm ODO. false alarm  .aaa--
+		// standard "TODO"..aaa
 		"((?:<!-- *)?(?:#|// @|//|./\\*+|<!--|--|\\* @|{!|{{!--|{{!) *TODO(?:[\\t\\f\\v ]*\\([^\\r\\n)]+\\))?:?)((?!\\w)(?: *-->| *\\*/| *!}| *--}}| *}}|(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--|{!|{{!--|{{!))|(?: +[^\\r\\n@]*?)(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--(?!>)|{!|{{!--|{{!))|(?: +[^\\r\\n@]+)?))": {
 			"filterFileRegex": ".*(?<!CHANGELOG.md)$",
 			"decorations": [
@@ -486,6 +511,7 @@
 				}
 			]
 		},
+
 		"((?:<!-- *)?(?:#|// @|//|./\\*+|<!--|--|\\* @|{!|{{!--|{{!) *(?:FIXME|FIX|BUG|UGLY|DEBUG|HACK)(?:[\\t\\f\\v ]*\\([^\\r\\n)]+\\))?:?)((?!\\w)(?: *-->| *\\*/| *!}| *--}}| *}}|(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--|{!|{{!--|{{!))|(?: +[^\\r\\n@]*?)(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--(?!>)|{!|{{!--|{{!))|(?: +[^\\r\\n@]+)?))": {
 			"filterFileRegex": ".*(?<!CHANGELOG.md)$",
 			"decorations": [
@@ -501,6 +527,8 @@
 				}
 			]
 		}
+
+
 	},
 
 	// 20260523 probably vscdb ...
