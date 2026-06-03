@@ -21,6 +21,7 @@ code          "C:\Users\marti\AppData\Roaming\Code\User\settings.json"
 
 cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
 
+
 Copy-Item -Path "$env:APPDATA\Obsidian\obsidian.json" -Destination  "$env:USERPROFILE\OneDrive\Dokumenty\00-MM\obsidian--appdata\"
 
 code "$env:USERPROFILE\OneDrive\Dokumenty\00-MM\obsidian--appdata\obsidian.json"

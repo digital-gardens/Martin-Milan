@@ -36,3 +36,10 @@ mkdir d:\33authenticated-users\0WARNING-grant-f-authenticated-users----use-git-v
 mkdir d:\11techl\0WARNING-grant-f----use-git-vscode-instead-of-notepad-when-editing-files-on-disk
 
 
+
+
+Get-ChildItem "$env:APPDATA\Claude"  -
+  -ErrorAction SilentlyContinue
+
+Get-ChildItem: Cannot find path 'C:\Users\marti\AppData\Roaming\Claude' because it does not exist.
+
