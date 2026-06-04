@@ -3,24 +3,12 @@
 
 code C:\Users\marti\AppData\Roaming\Code\User\snippets\markdown.json  
 
+// looks like vscode understands symlink aliases in the snippets path, so I can edit the same markdown.json snippet file from multiple places, and it will be the same file.
+
+
 
 ```json
-{
-  "TODO": {
-    "prefix": "todo",
-    "body": [
-      "#TODO $1"
-    ],
-    "description": "Insert a TODO comment with a hashtag"
-  },
-  "AAA": {
-    "prefix": "aaa",
-    "body": [
-      "#aaa $1"
-    ],
-    "description": "Insert an AAA comment with a hashtag"
-  }
-}
+
 ```
 
 
