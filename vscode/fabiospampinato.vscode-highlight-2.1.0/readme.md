@@ -94,7 +94,9 @@ All the supported decoration options are defined [here](https://code.visualstudi
 ## Warnings
 
 1. Regexes need to be double-escaped, once for JSON and the second time for the regex itself. For example if you want to match a literal asterisk you should write `\\*`, not just `\*`.
+
 2. For each capturing group a decorations options object must be provided (empty decorations are allowed: `{}`), otherwise the actual decorations will be misaligned.
+
 3. If you want to match the start/end of a line make sure the regex has the "m" (multiline) flag.
 
 ## Demo
@@ -144,11 +146,11 @@ The following configuration:
 
 Transforms this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/basic_before.png" alt="Before" width="570px" />
+<img src="./resources/demo/basic_before.png" alt="Before" width="570px" />
 
 Into this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/basic_after.png" alt="After" width="570px" />
+<img src="./resources/demo/basic_after.png" alt="After" width="570px" />
 
 ### Advanced Todos
 
@@ -197,11 +199,11 @@ The following is the configuration I'm currently using for highlighting todos, i
 
 Transforms this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/adv_before.png" alt="Before" width="570px" />
+<img src="./resources/demo/adv_before.png" alt="Before" width="570px" />
 
 Into this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/adv_after.png" alt="After" width="570px" />
+<img src="./resources/demo/adv_after.png" alt="After" width="570px" />
 
 ### Colors
 
@@ -232,11 +234,11 @@ The following is the configuration I'm currently using for highlighting colors, 
 
 Transforms this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/colors_before.png" alt="Before" width="570px" />
+<img src="./resources/demo/colors_before.png" alt="Before" width="570px" />
 
 Into this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/colors_after.png" alt="After" width="570px" />
+<img src="./resources/demo/colors_after.png" alt="After" width="570px" />
 
 ### Rainbow Indentation
 
@@ -267,11 +269,11 @@ Some creative uses of this extension are also possible, for example you can make
 
 Transforms this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/rainbow_before.png" alt="Before" width="570px" />
+<img src="./resources/demo/rainbow_before.png" alt="Before" width="570px" />
 
 Into this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/rainbow_after.png" alt="After" width="570px" />
+<img src="./resources/demo/rainbow_after.png" alt="After" width="570px" />
 
 ### Mixed Indentation
 
@@ -299,11 +301,11 @@ It can also be used to highlight inconsistent indentation, where perhaps spaces 
 
 Transforms this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/indentation_before.png" alt="Before" width="570px" />
+<img src="./resources/demo/indentation_before.png" alt="Before" width="570px" />
 
 Into this:
 
-<img src="https://github.com/fabiospampinato/vscode-highlight/raw/HEAD/resources/demo/indentation_after.png" alt="After" width="570px" />
+<img src="./resources/demo/indentation_after.png" alt="After" width="570px" />
 
 ## Hints
 
