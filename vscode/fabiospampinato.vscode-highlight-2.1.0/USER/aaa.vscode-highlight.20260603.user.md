@@ -1,13 +1,13 @@
 // #TODO #test #highlight #regexes #settings  aaa  #aaa 
 
-#aa consta  C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\highlight.regexes.20260603\constants.ts
 
-#aaa  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\highlight.regexes.20260603\readme.md
+
+
+#aaa  #seealso  readme.md
 
 COLORS
 
-#WARNING 
-BEWARE.. OLD [] {} ?
+#WARNING  maybe older version  [] {} ?
 ```
   "(// ?TODO:?)(.*)": [
     {
@@ -137,5 +137,10 @@ file:///C:\Users\marti\AppData\Roaming\Code\User\settings.json
 
 
 
-#TODO test 
+
+#aa  constants.ts
+...springgreen|tan|teal|thistle|turquoise|violet|wheat|white|whitesmoke|yellow|yellowgreen)(?!\\w)":    // #aaa
+
+
+
 #TODO #test #highlight #regexes #settings  aaa  #aaa 
