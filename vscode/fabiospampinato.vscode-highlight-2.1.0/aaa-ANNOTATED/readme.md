@@ -8,7 +8,7 @@ Advanced text highlighter based on regexes. Useful for todos, annotations, color
 
 There are alternative extensions that you may be considering, like [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight), but this is more generic, this can apply different styles to different capturing groups within the same regex, and this is focused on doing only one thing and doing it _well_.
 
-This extension has been optimized for "intraline" regexes, i.e. regexes that can never possibly match a newline character at any point inside them, which when editing a file enables the extension to redecorate only the parts of the file that changed, caching everything else, for a massive speedup.
+#aaaa This extension has been optimized for "intraline" regexes, i.e. regexes that can never possibly match a newline character at any point inside them, which when editing a file enables the extension to redecorate only the parts of the file that changed, caching everything else, for a massive speedup.
 
 ## Install
 
@@ -97,7 +97,7 @@ All the supported decoration options are defined [here](https://code.visualstudi
 
 2. For each capturing group a decorations options object must be provided (empty decorations are allowed: `{}`), otherwise the actual decorations will be misaligned.
 
-3. If you want to match the start/end of a line make sure the regex has the "m" (multiline) flag.
+3. #aaa If you want to match the start/end of a line make sure the regex has the "m" (multiline) flag.
 
 ## Demo
 

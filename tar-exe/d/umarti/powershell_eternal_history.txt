@@ -13574,3 +13574,15 @@ cmd /c Robocopy.exe /?
 explorer.exe  /?
 explorer.exe  "C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan\0000\20260603-robocopy-code..user.cmd.shortcut.lnk"
 icacls.exe .
+bash
+cd c:\Users\marti\.vscode\extensions\
+cmd /c dir /s
+du
+du -v
+du .
+du -l 2
+du -l 1
+du -l 1|clip
+cd vscode
+mkdir markdown-snippets-20260526-604
+code markdown-snippets-20260526-604/markdown-snippets-20260526-604.md

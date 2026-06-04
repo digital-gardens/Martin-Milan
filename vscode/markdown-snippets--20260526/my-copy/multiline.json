@@ -1,0 +1,7 @@
+{
+    "function": {
+        "prefix": "func",
+        "body": "function ${1:functionName}(${2:args})\n\t${0}\nend",
+        "description": "A group of statements that perform a task together."
+    }
+}

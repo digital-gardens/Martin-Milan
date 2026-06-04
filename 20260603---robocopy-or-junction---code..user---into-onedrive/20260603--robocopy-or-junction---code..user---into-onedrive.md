@@ -219,6 +219,105 @@ can  i check the history of scheduled tasks ? to see if it ran successfully ?
 
 
 
+# 604
+
+cd c:\Users\marti\.vscode\extensions\
+cmd /c dir /s
+
+   Total Files Listed:
+           49007 File(s)  1,423,184,546 bytes
+           21407 Dir(s)  56,895,680,512 bytes free
+PS C:\Users\marti\.vscode\extensions>
+
+du -v
+du .
+du -l 1
+
+DU v1.62 - Directory disk usage reporter
+Copyright (C) 2005-2018 Mark Russinovich
+Sysinternals - www.sysinternals.com
+
+      17,605  C:\Users\marti\.vscode\extensions\alhassy.easy-extensibility-1.2.11
+          16  C:\Users\marti\.vscode\extensions\amodio.tsl-problem-matcher-0.6.2
+       8,482  C:\Users\marti\.vscode\extensions\arturodent.find-and-transform-5.3.7
+      26,135  C:\Users\marti\.vscode\extensions\ban.spellright-3.0.148
+       9,728  C:\Users\marti\.vscode\extensions\benrogerswpg.websearchengine-6.14.6
+         100  C:\Users\marti\.vscode\extensions\bhughes339.replacerules-0.4.2
+         494  C:\Users\marti\.vscode\extensions\bierner.emojisense-0.10.0
+         814  C:\Users\marti\.vscode\extensions\clptn.code-paredit-0.1.1
+          32  C:\Users\marti\.vscode\extensions\cstrap.python-snippets-0.1.2
+         112  C:\Users\marti\.vscode\extensions\ctf0.command-autolink-0.0.5
+       2,111  C:\Users\marti\.vscode\extensions\cubicle6.scriptbox-8.5.0
+         288  C:\Users\marti\.vscode\extensions\d3v.pastespecial-0.9.1
+       7,172  C:\Users\marti\.vscode\extensions\datasert.vscode-texty-1.1.2
+         876  C:\Users\marti\.vscode\extensions\dbaeumer.vscode-eslint-3.0.24
+       5,101  C:\Users\marti\.vscode\extensions\docsmsft.docs-markdown-1.0.10
+       5,149  C:\Users\marti\.vscode\extensions\docsmsft.docs-markdown-1.0.17
+      14,345  C:\Users\marti\.vscode\extensions\esbenp.prettier-vscode-12.4.0
+         335  C:\Users\marti\.vscode\extensions\fabiospampinato.vscode-highlight-2.1.0
+       1,615  C:\Users\marti\.vscode\extensions\foam.foam-vscode-0.28.3
+       1,441  C:\Users\marti\.vscode\extensions\formulahendry.code-runner-0.12.2
+       9,234  C:\Users\marti\.vscode\extensions\github.vscode-pull-request-github-0.146.0
+           7  C:\Users\marti\.vscode\extensions\jacobdufault.fuzzy-search-0.0.3
+          66  C:\Users\marti\.vscode\extensions\jeff-hykin.macro-commander-1.6.0
+       5,100  C:\Users\marti\.vscode\extensions\jroesch.lean-0.16.60
+         793  C:\Users\marti\.vscode\extensions\kortina.vscode-markdown-notes-0.0.27
+      18,609  C:\Users\marti\.vscode\extensions\m1self.facil-extensibility-1.2.14
+       8,478  C:\Users\marti\.vscode\extensions\mads-hartmann.bash-ide-vscode-1.43.0
+          45  C:\Users\marti\.vscode\extensions\mattn.lisp-0.1.12
+       2,586  C:\Users\marti\.vscode\extensions\mechatroner.rainbow-csv-3.12.0
+       3,637  C:\Users\marti\.vscode\extensions\ms-azure-devops.azure-pipelines-1.261.1
+       5,801  C:\Users\marti\.vscode\extensions\ms-azuretools.vscode-containers-2.4.4
+         141  C:\Users\marti\.vscode\extensions\ms-azuretools.vscode-docker-2.0.0
+     313,535  C:\Users\marti\.vscode\extensions\ms-dotnettools.csharp-2.140.8-win32-x64
+       5,579  C:\Users\marti\.vscode\extensions\ms-dotnettools.dotnet-interactive-vscode-1.0.5229040
+       5,575  C:\Users\marti\.vscode\extensions\ms-dotnettools.dotnet-interactive-vscode-1.0.6323010
+       5,592  C:\Users\marti\.vscode\extensions\ms-dotnettools.vscode-dotnet-runtime-3.0.2
+       3,538  C:\Users\marti\.vscode\extensions\ms-edgedevtools.vscode-edge-devtools-2.1.10
+      30,021  C:\Users\marti\.vscode\extensions\ms-python.debugpy-2024.10.0-win32-x64
+      36,559  C:\Users\marti\.vscode\extensions\ms-python.python-2024.12.2-win32-x64
+      90,465  C:\Users\marti\.vscode\extensions\ms-python.vscode-pylance-2026.2.1
+      18,383  C:\Users\marti\.vscode\extensions\ms-toolsai.jupyter-2024.7.0-win32-x64
+          88  C:\Users\marti\.vscode\extensions\ms-toolsai.jupyter-keymap-1.1.2
+      25,523  C:\Users\marti\.vscode\extensions\ms-toolsai.jupyter-renderers-1.0.19
+         456  C:\Users\marti\.vscode\extensions\ms-toolsai.vscode-jupyter-cell-tags-0.1.9
+         428  C:\Users\marti\.vscode\extensions\ms-toolsai.vscode-jupyter-slideshow-0.1.6
+       2,546  C:\Users\marti\.vscode\extensions\ms-vscode-remote.remote-wsl-0.104.3
+       4,669  C:\Users\marti\.vscode\extensions\ms-vscode.azure-account-0.11.0
+      26,714  C:\Users\marti\.vscode\extensions\ms-vscode.cmake-tools-1.23.52
+       1,752  C:\Users\marti\.vscode\extensions\ms-vscode.cpp-devtools-0.5.13
+          10  C:\Users\marti\.vscode\extensions\ms-vscode.cpptools-extension-pack-1.5.1
+         293  C:\Users\marti\.vscode\extensions\ms-vscode.cpptools-themes-2.0.0
+       1,767  C:\Users\marti\.vscode\extensions\ms-vscode.hexeditor-1.11.1
+       2,106  C:\Users\marti\.vscode\extensions\ms-vscode.makefile-tools-0.12.17
+     308,156  C:\Users\marti\.vscode\extensions\ms-vscode.powershell-2025.4.0
+      25,970  C:\Users\marti\.vscode\extensions\ms-vsliveshare.vsliveshare-1.1.122
+       4,965  C:\Users\marti\.vscode\extensions\msrvida.vscode-sanddance-4.2.0
+         261  C:\Users\marti\.vscode\extensions\redhat.vscode-commons-0.0.6
+      24,945  C:\Users\marti\.vscode\extensions\redhat.vscode-didact-0.4.1
+       3,691  C:\Users\marti\.vscode\extensions\redhat.vscode-yaml-1.23.0
+         627  C:\Users\marti\.vscode\extensions\remisa.shellman-5.7.0
+      15,447  C:\Users\marti\.vscode\extensions\ritwickdey.liveserver-5.7.10
+       5,715  C:\Users\marti\.vscode\extensions\rowewilsonfrederiskholme.wikitext-4.0.4
+         809  C:\Users\marti\.vscode\extensions\rucne--justusadam.language-haskell-3.6.0
+       4,078  C:\Users\marti\.vscode\extensions\shaunlebron.vscode-parinfer-0.6.2
+         254  C:\Users\marti\.vscode\extensions\sjhuangx.vscode-scheme-0.4.0
+      12,982  C:\Users\marti\.vscode\extensions\slevesque.shader-1.1.5
+       7,705  C:\Users\marti\.vscode\extensions\streetsidesoftware.code-spell-checker-4.5.6
+       7,921  C:\Users\marti\.vscode\extensions\tabnine.tabnine-vscode-3.335.0
+       8,327  C:\Users\marti\.vscode\extensions\twxs.cmake-0.0.17
+          72  C:\Users\marti\.vscode\extensions\undermywheel.roblox-lua-1.0.5
+       3,271  C:\Users\marti\.vscode\extensions\vanadium23.markdown-hashtags-2.0.1
+      39,568  C:\Users\marti\.vscode\extensions\visualstudioexptteam.vscodeintellicode-1.2.22
+      24,067  C:\Users\marti\.vscode\extensions\vsls-contrib.codetour-0.0.61
+      68,713  C:\Users\marti\.vscode\extensions\wallabyjs.quokka-vscode-1.0.762
+       2,429  C:\Users\marti\.vscode\extensions\yzhang.markdown-all-in-one-3.6.3
+Files:        46521
+Directories:  6688
+Size:         1,333,356,518 bytes
+Size on disk: 1,652,563,352 bytes
+
+
 
 
 ---

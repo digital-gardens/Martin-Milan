@@ -382,8 +382,18 @@ https://github.com/microsoft/vscode/issues?q=label%3A%22file-explorer%22%20sort%
 alt help 
 @vscode ask questions about VS Code 
 
+# vscode markdown snippet for entering #TODO  or #aaa without the hashtag   20260526-604
 
-pdp-11 keyboard layout
+cd vscode 
+mkdir markdown-snippets-20260526-604
+#code markdown-snippets-20260526-604/markdown-snippets-20260526-604.code-snippets
+code markdown-snippets-20260526-604/markdown-snippets-20260526-604.md
+
+alt help 
+@vscode ask questions about VS Code 
+
+
+# pdp-11 keyboard layout
 commodore pet keyboard layout
 what were the computers ,that Emacs started on ... PDP-11???
 
@@ -395,7 +405,7 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 # plotter test 
 
 
-
+# "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\fabiospampinato.vscode-highlight-2.1.0\USER\aaa.vscode-highlight.20260603.user.md"
 
 # 20260603---robocopy-or-junction---code..user---into-onedrive
 [[20260603--robocopy-or-junction---code..user---into-onedrive.md]]
@@ -403,6 +413,9 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 #bug Then it confirms — the problem is the task name 20260603-robocopy-code..user, specifically the .. double dots. Task Scheduler rejects it regardless of the action.
 
+
+
+# 
 
 
 
