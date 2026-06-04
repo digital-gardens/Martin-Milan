@@ -399,102 +399,10 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 # 20260603---robocopy-or-junction---code..user---into-onedrive
 [[20260603--robocopy-or-junction---code..user---into-onedrive.md]]
-mkdir 20260603---robocopy-or-junction---code..user---into-onedrive
-, but i want to keep it working in vscode, so i need to use robocopy or junction or something like that
-
-claude
-cd "C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan\20260603---robocopy-or-junction---code..user---into-onedrive"
 #BUG    AAAAaa Also: OneDrive can behave badly with certain files in Code\User (SQLite DBs, lock files)
 
+#bug Then it confirms — the problem is the task name 20260603-robocopy-code..user, specifically the .. double dots. Task Scheduler rejects it regardless of the action.
 
-
-Run robocopy /MIR /R:0 /W:0 every minute via Task Scheduler
-
-
-EDIT
-I want to use robocopy
-with some  / monitoring option, so it will automatically sync changes as they happen, without needing to run every minute,
-if i understand correctly
-
-destination
-C:\Users\marti\OneDrive\1111ROBOCOPY\AppData\Roaming\Code\User
-
-
-```
-robocopy "C:\Users\marti\AppData\Roaming\Code\User" "C:\Users\marti\OneDrive\1111ROBOCOPY\AppData\Roaming\Code\User" /MIR /MON:1 /MOT:1 /R:0 /W:0 /XJ
-```
-
-Robocopy.exe   C:\Users\marti\OneDrive  D:\0004-LINKS\OneDrive      /s   /XJ        /XD Pictures           /XD Obr*                /xf *.vhd    /xf *.vhdx   /xf BIG*.*  /XD BIG*                /XD Vide*     /XD .git    /XD node_modules   /XD OLD*      /xf  .gitignore2222222222222222         /xf .git    /xf .849C9593-D756-4E56-8D6E-42412*     /log+:C:\Users\marti\log\OneDrive--deldest-6.log     /tee    /ndl       /nfl      /MIR            /w:0   /r:0
-
-
-Robocopy.exe   C:\Users\marti\OneDrive\Dokumenty  D:\0004-LINKS\Dokumenty      /s   /XJ     /XD Obr*    /XD Vide*     /XD .git    /XD node_modules   /XD OLD*      /xf  .gitignore2222222222222222         /xf .git    /xf .849C9593-D756-4E56-8D6E-42412*     /log+:C:\Users\marti\log\OneDrive--deldest-6.log     /tee    /ndl       /nfl      /MIR
-
-
----
-
-
-process explorer .. robocopy ...
-looks like
-every minute
-for nearly a minute
-it does i/o other
-
-without /mot seems the same 
-
-trying
-with /mon:3  /mot:5
-
-  Monitor : Waiting for 5 minutes and 3 changes...
-   4 mins : 64 changes.
-
----
-
-restore point
-
-
-edit
-in many months
-in the future
-i will slowly move to a new pc, with onedrive ...
-i decided to drop 
-the /mir option
-so please add /s instead of /mir
-
-
-now please
-make 
-C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan\0000\20260603-robocopy-code..user.cmd
-//then we will schedule it
-
-
-
-please schedule it
-to start 2 minutes after login
-....
-how can i check the scheduled tasks in windows ?
-win-q  task scheduler ?
-
-can  i check the list and all the options of  scheduled tasks
-using not the gui 
-but powershell  ?
-```
-Get-ScheduledTask
-Get-ScheduledTaskInfo -TaskName "name of task"
-```
-?
-
-command: $action = New-ScheduledTaskAction -Execute "C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan\0000\20260603-robocopy-code..user.cmd"
-$trigger = New-ScheduledTaskTrigger -AtLogOn -User "MB-PC\marti"
-$trigger.Delay = "PT2M"
-$settings = New-ScheduledTaskSettingsSet -ExecutionTimeLimit 0 -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries
-Register-ScheduledTask -TaskName "20260603-robocopy-code..user" -Action $action -Trigger $trigger -Settings $settings -RunLevel Limited -Description "Robocopy Code\User to OneDrive, starts 2 min after logon"
-description: Register scheduled task to run robocopy 2 minutes after logon
-
-20260603-robocopy-code..user
-
-C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan\0000\20260603-robocopy-code..user.cmd
-
-can  i check the history of scheduled tasks ? to see if it ran successfully ?
 
 
 
