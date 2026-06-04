@@ -102,6 +102,16 @@ start.exe  /?
 
    d:\000doc24   C:\Users\marti\OneDrive   /e    /XJ     /XD Obr*    /XD .git    /XD node_modules   /XD OLD*    /xd .vscode     /xf .gitignore       /xf .git  /XO  /LOG+:C:\Users\marti\log\doc24.log  /mot:1      /ndl    /nfl
 
+---------------------------
+Task Scheduler
+---------------------------
+An error has occurred for task 20260603-robocopy-code..user. Error message: One or more of the specified arguments are not valid.
+---------------------------
+OK   
+---------------------------
+
+
+
 
 
 ---
