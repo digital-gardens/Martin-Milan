@@ -13573,3 +13573,4 @@ start.exe  /?
 cmd /c Robocopy.exe /?
 explorer.exe  /?
 explorer.exe  "C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan\0000\20260603-robocopy-code..user.cmd.shortcut.lnk"
+icacls.exe .
