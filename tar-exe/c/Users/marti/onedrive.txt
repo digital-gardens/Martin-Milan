@@ -1,0 +1,7 @@
+
+exit
+
+
+
+
+cd ~; cmd /c mklink /j acloudSUBDIR  C:\Users\marti\OneDrive\ps-mylen-mar

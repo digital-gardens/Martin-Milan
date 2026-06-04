@@ -1,0 +1,2 @@
+c:\Users\marti\AppData\Roaming\Code\User\settings.json
+c:\Users\marti\AppData\Roaming\Code\User\keybindings.json

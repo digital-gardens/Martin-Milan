@@ -1,0 +1,896 @@
+: 1665255876:0;ll .git*
+: 1665255894:0;cd
+: 1665255896:0;ll .git*
+: 1665255910:0;ll *.git*
+: 1665255952:0;cat .gitconfig
+: 1665256405:0;echo $ZSH
+: 1665256419:0;echo $PATH
+: 1665256431:0;echo $path
+: 1665259614:0;man grep
+: 1665260217:0;cd -
+: 1665260256:0;grep -E -l $'\015' **/*.sh
+: 1665260279:0;echo grep -E -l $'\015' **/*.sh
+: 1665260324:0;grep -E -l $'\015' **/*.sh
+: 1665260346:0;grep -E -l $'\015' **/*.ps1
+: 1665260389:0;cd
+: 1665260416:0;grep -E -l $'\015' .oh-my*
+: 1665260421:0;grep -ER -l $'\015' .oh-my*
+: 1665260447:0;cd -
+: 1665260470:0;grep -E -l $'\015' **/*.ps1
+: 1665260514:0;grep -E -l $'\015' **/*.sh
+: 1665260975:0;history
+: 1665261055:0;cd
+: 1665261058:0;grep -RE -l $'\015'
+: 1665268107:0;setopt|grep -i hist
+: 1665268298:0;set|grep -i hist
+: 1665432133:0;man zshopt
+: 1665432153:0;man zshoptions
+: 1665432419:0;setopt --help
+: 1665432461:0;man zshbuiltins
+: 1665432719:0;set -o
+: 1665432728:0;set -o|grep -i his
+: 1665432738:0;set -o|grep -i hist
+: 1665432753:0;set +o|grep -i hist
+: 1665432776:0;set -o|grep -i hist
+: 1665436708:0;set|grep -i hist
+: 1665439445:0;history
+: 1666903775:0;dpkg -l |grep run
+: 1666903777:0;dpkg -l |grep runc
+: 1666903787:0;dpkg -l |grep conta
+: 1666912135:0;uname -a
+: 1666912343:0;lsmod
+: 1666912368:0;env|grep -i lib
+: 1666912461:0;df -m
+: 1666976240:0;sudo apt update
+: 1666976718:0;sudo apt install podman
+: 1666977657:0;apt show podman-docker
+: 1666977760:0;apt show podman-toolbox
+: 1666979120:0;dpkg -l | grep -i podm
+: 1666979305:0;docker
+: 1666979310:0;podman
+: 1666979332:0;sudo apt install podman-docker
+: 1666979437:0;docker
+: 1666980331:0;echo $XDG_RUNTIME_DIR
+: 1666980456:0;apt list
+: 1666980469:0;apt list podman
+: 1666980577:0;podman search ubuntu
+: 1666980608:0;docker search ubuntu
+: 1666980759:0;podman -v
+: 1666981513:0;podman info --log-level debug
+: 1666981842:0;podman search ubuntu
+: 1666983188:0;apt show containers-storage
+: 1666983250:0;mc 
+: 1666983323:0;podman search ubuntu
+: 1666983426:0;podman image pull ubuntu:19.04
+: 1666983486:0;podman image list --all
+: 1666983678:0;cd
+: 1666983681:0;mkdir ~/sharing
+: 1666983811:0;podman run --interactive --tty --name mycontainer  ubuntu:19.04
+: 1666983936:0;cat  /etc/localtime
+: 1666984011:0;podman container list --all
+: 1666984253:0;docker pull ubuntu:jammy-20221020
+: 1666984299:0;podman image list --all
+: 1666984341:0;podman run --interactive --tty --name myconta22  ubuntu:jammy-20221020
+: 1666984399:0;podman container list --all
+: 1666984776:0;podman ps --all
+: 1666984874:0;podman exec --interactive --tty myconta22 /bin/bash
+: 1666984896:0;podman start myconta22
+: 1666984901:0;podman exec --interactive --tty myconta22 /bin/bash
+: 1666984987:0;podman stop myconta22
+: 1666985013:0;podman rm mycontainer
+: 1666993687:0;cat /etc/subuid
+: 1667055306:0;echo '---- section ----'
+: 1667055413:0;cd
+: 1667055455:0;cp -iv .zshrc 22at.zshrc
+: 1667055808:0;set|grep -i hist
+: 1667055850:0;#cp -iv /home/martin/.zsh_history   /home/martin/zsh_eternal_history
+: 1667055856:0;cp -iv /home/martin/.zsh_history   /home/martin/zsh_eternal_history
+: 1667055895:0;set|grep -i hist
+: 1667056083:0;cd
+: 1667056094:0;cp -iv .zshrc 22at22.zshrc
+: 1667056328:0;set|grep -i hist
+: 1667056335:0;cd
+: 1667056377:0;#cp -iv /home/martin/.zsh_eternal_history   /home/martin/eternal.zsh_history
+: 1667056489:0;####cp -iv /home/martin/.zsh_history   /home/martin/zsh_eternal_history
+: 1667056492:0;cp -iv /home/martin/.zsh_eternal_history   /home/martin/eternal.zsh_history
+: 1667056516:0;cp -iv /home/martin/zsh_eternal_history   /home/martin/eternal.zsh_history
+: 1667056572:0;cd
+: 1667056600:0;echo '-------- section --------'
+: 1667056870:0;set|grep -i hist
+: 1667057147:0;mv -iv zsh_eternal_history OLDzsh_eternal_history
+: 1667057193:0;mv -iv .zsh_history 22at.zsh_history
+: 1667057315:0;mv -iv  22at.zsh_history 22at.zsh_history~
+: 1667057587:0;exit
+: 1667227679:0;podman -v
+: 1667227688:0;podman info
+: 1667228472:0;echo '-------- section --------'
+: 1667234338:0;docker pull mcr.microsoft.com/devcontainers/javascript-node:0.204.7-18-bullseye
+: 1667235252:0;podman image list --all
+: 1667235613:0;docker image tag --verbose 72cf8516d9 myjs
+: 1667235630:0;docker image tag  72cf8516d9 myjs
+: 1667235636:0;podman image list --all
+: 1667235676:0;docker system df
+: 1667235743:0;du -sm ~/.podman
+: 1667235839:0;du -sm ~/.local/share/containers
+: 1667235851:0;sudo du -sm ~/.local/share/containers
+: 1667235893:0;sudo du -m ~/.local/share/containers
+: 1667235903:0;sudo du -m ~/.local/share/containers|sort -n
+: 1667236028:0;sudo du -m ~/.local/share/containers|sort -ndu -m ~/.local/share/containers|sort -n
+: 1667236040:0;du -m ~/.local/share/containers|sort -n
+: 1667236074:0;du -m ~/.local/share/containers 1>1
+: 1667236187:0;du -m ~/.local/
+: 1667236205:0;df -m
+: 1667236283:0;docker image tag  72cf8516d9 myjs22b
+: 1667236287:0;podman image list --all
+: 1667236294:0;podman image list
+: 1667236600:0;podman image rm localhost/myjs:latest
+: 1667236632:0;podman image list --all
+: 1667236650:0;docker system df
+: 1667236663:0;âƒ¾ƒ¼  OneDrive podman image rm localhost/myjs:latest
+: 1667236680:0;podman image rm localhost/myjs:latest
+: 1667236695:0;podman image rm mcr.microsoft.com/devcontainers/javascript-node:0.204.7-18-bullseye
+: 1667236712:0;docker system df
+: 1667236736:0;podman image list --all
+: 1667236883:0;echo '-------- section --------'
+: 1667237120:0;docker container
+: 1667237534:0;#docker container 
+: 1667237540:0;docker image tag  72cf8516d9 imyjs22b
+: 1667237544:0;podman image list --all
+: 1667237556:0;podman image rm localhost/myjs:latest
+: 1667237576:0;podman image rm localhost/myjs22b:latest 
+: 1667237580:0;podman image list --all
+: 1667240932:0;./docker7777
+: 1667240972:0;./docker-214/docker-create-cmyjs22b.sh
+: 1667243729:0;cd /home
+: 1667243790:0;sudo mkdir dockw
+: 1667243797:0;ll
+: 1667243973:0;sudo chmod --verbose a+rwx dockw
+: 1667244029:0;zsh
+: 1667244047:0;history|tail
+: 1667244136:0;exit
+: 1667244143:0;echo '-------- section --------'
+: 1667244162:0;./docker-214/docker-create-cmyjs22b.sh
+: 1667244177:0;docker container
+: 1667244183:0;docker container ls
+: 1667244195:0;docker container ls --all
+: 1667244454:0;podman exec --interactive --tty cmyjs22b /bin/bash
+: 1667244488:0;podman start
+: 1667244536:0;#podman start --
+: 1667244563:0;docker crea
+: 1667244693:0;podman create
+: 1667244712:0;podman container rm cmyjs22b
+: 1667244726:0;zsh
+: 1667244750:0;podman container rm cmyjs22b
+: 1667244755:0;./docker-214/docker-create-cmyjs22b.sh
+: 1667244764:0;docker container ls --all
+: 1667244790:0;podman start
+: 1667244799:0;podman start cmyjs22b 
+: 1667244809:0;docker container ls --all
+: 1667244837:0;podman container attach cmyjs22b
+: 1667244965:0;podman container list --all
+: 1667245012:0;podman start cmyjs22b
+: 1667245017:0;podman ps --all
+: 1667245047:0;podman exec --interactive --tty cmyjs22b
+: 1667245067:0;podman exec --interactive --tty cmyjs22b /usr/bin/zsh
+: 1667245856:0;history|grep mc
+: 1667245865:0;history|grep apt
+: 1667245931:0;history; cat ~/.bash_history|grep apt
+: 1667246078:0;sudo apt install containers-storage
+: 1667246127:0;apt show containers-storage
+: 1667249067:0;apt show user
+: 1667249085:0;history|tail -n 100
+: 1667249693:0;D:/conda/Scripts/activate
+: 1667249693:0;conda activate base
+: 1667249716:0;podman container list --all
+: 1667249949:0;podman inspect -l | grep IPAddress
+: 1667249953:0;podman logs -l
+: 1667249959:0;podman top -l
+: 1667250026:0;man podman
+: 1667251606:0;man su
+: 1667252227:0;sudo --user=node -i
+: 1667252261:0;podman exec --interactive --tty cmyjs22b /usr/bin/zsh
+: 1667252672:0;man podman-create
+: 1667253654:0;podman inspect -l | grep -i entr
+: 1667253695:0;podman logs -l
+: 1667253777:0;podman exec --interactive --tty --user node  --workdir /home/node cmyjs22b  /usr/bin/zsh  # /bin/bash
+: 1667253875:0;podman exec --interactive --tty --user node  --workdir /home/node cmyjs22b  /bin/bash #/usr/bin/zsh  # /bin/bash
+: 1667254298:0;podman exec --interactive --tty cmyjs22b /usr/bin/zsh
+: 1667254348:0;podman exec --interactive --tty --user node  --workdir /home/node cmyjs22b  /usr/bin/zsh
+: 1667254504:0;podman start
+: 1667254612:0;#podman start --
+: 1667254622:0;zsh
+: 1667254650:0;podman exec --interactive --tty --user node  --workdir /home/node cmyjs22b  /usr/bin/zsh
+: 1667254903:0;#podman start --
+: 1667254905:0;podman exec --interactive --tty --user node  --workdir /home/node cmyjs22b  /usr/bin/zsh
+: 1667255002:0;podman exec --interactive --tty cmyjs22b /usr/bin/zsh
+: 1667255400:0;mc -b
+: 1667255414:0;ll
+: 1667255471:0;podman exec --interactive --tty --user node  --workdir /home/node cmyjs22b  /usr/bin/zsh
+: 1667256414:0;ll
+: 1667256501:0;find . -type f -size -2000k -size +100c -mmin -360   |cpio --verbose  --create --format=crc >/mnt/c/u/cpio/22av-2000k-mmin--360.cpio
+: 1667257473:0;cat /etc/os-release
+: 1667257485:0;cat /etc/lsb-release
+: 1667257550:0;podman start cmyjs22b
+: 1667257578:0;podman container list --all
+: 1667257600:0;podman ps --all
+: 1667257636:0;mc -b
+: 1667257695:0;podman container list --all
+: 1667257718:0;podman info
+: 1667257764:0;podman info|grep tmp
+: 1667257857:0;podman system info
+: 1667257874:0;podman info|grep tmp
+: 1667257968:0;podman network ls
+: 1667258009:0;podman machine list
+: 1667258020:0;podman container list --all
+: 1667258246:0;ll
+: 1667258304:0;podman -v
+: 1667258307:0;podman info --log-level debug
+: 1667258315:0;podman info
+: 1667258340:0;podman image list --all
+: 1667258390:0;podman start cmyjs22b
+: 1667258398:0;podman exec --interactive --tty cmyjs22b /usr/bin/zsh
+: 1667258452:0;#podman exec     --interactive --tty cmyjs22b /usr/bin/zsh
+: 1667258490:0;#podman start --   cmyjs22b
+: 1667258525:0;#podman create --userns=keep-id
+: 1667320400:0;podman start cmyjs22b
+: 1667320479:0;mv -v --backup=numbered /tmp/podman-run-1000/ /tmp/OLDpodman-run-1000/
+: 1667320521:0;podman container list --all
+: 1667320560:0;podman start cmyjs22b
+: 1667320652:0;podman exec --interactive --tty --user node  --workdir /home/node cmyjs22b  /usr/bin/zsh
+: 1667320998:0;ls -la /home/dockw
+: 1667321010:0;ls -la /home/dockw/node
+: 1667321050:0;ls -la /home/dockw/node/.npm
+: 1667328625:0;podman container rm cmyjs22b
+: 1667328649:0;podman stop cmyjs22b
+: 1667328666:0;podman container rm cmyjs22b
+: 1667328677:0;./docker-214/docker-create-cmyjs22b.sh
+: 1667328810:0;podman start   -ai    cmyjs22b
+: 1667328847:0;echo '-------- section --------'
+: 1667331755:0;ls -l /home/dockw/node
+: 1667333206:0;docker images
+: 1667333222:0;docker stop cmyjs22b
+: 1667333288:0;: 1646574401:0;x=`docker commit cmyjs22b   `
+: 1667333341:0;: 1646574429:0;echo $x
+: 1667333354:0;docker images
+: 1667333440:0;: 1646574526:0;docker tag $x imyjs22b11
+: 1667333447:0;docker images
+: 1667337613:0;echo .irssi \ # mounts irssi
+: 1667339479:0;echo .irssi \# mounts irssi
+: 1667339515:0;echo .irssi \# mounts irssi  \\
+echo .irssi \# mounts irssi  \\
+
+: 1667339545:0;echo .irssi \ # mounts irssi  \\
+echo .irssi \ # mounts irssi  \\
+
+: 1667339548:0;echo .irssi \  # mounts irssi  \
+: 1667339686:0;podman start   -ai    cmyjs22b
+: 1667339767:0;setopt|grep -i hist
+: 1667339806:0;set|grep -i hist
+: 1667340153:0;history|grep chm
+: 1667341013:0;alias
+: 1667341638:0;man git-whatchanged
+: 1667343043:0;find . -type f -size -2000k -size +100c -mmin -360   |cpio --verbose  --create --format=crc >/mnt/c/u/cpio/22b1-2000k-mmin--360.cpio
+: 1667413068:0;mount
+: 1667413075:0;mount|grep noe
+: 1667413106:0;mount|grep sdc
+: 1667413120:0;df -m
+: 1667413152:0;mount|grep /mnt
+: 1667413171:0;mount|grep sdc
+: 1667413185:0;mount|grep sdc |grep no
+: 1667413194:0;mount|grep /mnt |grep no
+: 1667413274:0;podman stats
+: 1667416236:0;podman -v
+: 1667416239:0;podman info --log-level debug
+: 1667416243:0;podman info
+: 1667416278:0;./docker-214/docker-create-c
+: 1667416343:0;vmstat
+: 1667416346:0;vmstat 1
+: 1667416402:0;top
+: 1667416423:1;docker container ls --all
+: 1667416448:0;podman image list --all
+: 1667416472:0;docker container ls --all
+: 1667416483:0;du -m ~/.local/
+: 1667416491:0;sudo du -m ~/.local/share/containers|sort -n
+: 1667416565:0;./docker-214/docker-create-c22b-keep-id.sh
+: 1667416659:0;df -m
+: 1667416676:0;du -m ~/.local/share/containers|sort -n
+: 1667416691:0;sudo du -m ~/.local/share/containers|sort -n
+: 1667416704:0;docker system df
+: 1667416726:0;du -sm ~/.podman
+: 1667416747:0;du -sm ~/.local
+: 1667416757:0;podman image list --all
+: 1667416773:0;docker container ls --all
+: 1667416866:0;podman start   -ai    cjs22b-keep-id-homedockw
+: 1667417258:0;ls -la /home/dockw
+: 1667417262:0;ls -la /home/dockw/node
+: 1667417264:0;ls -la /home/dockw/node/.npm
+: 1667417268:0;ls -la /aclou*
+: 1667417610:0;ls -latr /home/dockw
+: 1667418178:0;sudo -i
+: 1667418246:0;ls -latr /home/dockw
+: 1667418713:0;sudo -i
+: 1667420111:0;podman stop c22b-keep
+: 1667420147:0;podman stop 
+: 1667420150:0;docker container ls --all
+: 1667420192:0;podman start   -ai    cmyjs22b
+: 1667421814:0;man podman-pull
+: 1667422975:0;sudo -i
+: 1667423360:0;cd /home/martin/.local/share/containers/storage
+: 1667423366:0;du
+: 1667423404:0;du -sm ~/.local
+: 1667423432:0;du -m ~/.local/
+: 1667423439:0;du -m ~/.local/share/containers|sort -n
+: 1667423463:0;cd ~/.local
+: 1667423469:0;mc -b
+: 1667423631:0;cd ~/.local
+: 1667423635:0;mc -b
+: 1667423672:0;cd -
+: 1667423676:0;mc -b
+: 1667423787:0;ll
+: 1667423855:0;cd
+: 1667423859:0;cd storage
+: 1667423867:0;sudo -i mc -b
+: 1667424027:0;mc -b
+: 1667424086:0;ll
+: 1667489290:0;podman ps --all
+: 1667489349:0;podman start   -ai    cmyjs22b
+: 1667493849:0;mc -b
+: 1667496929:0;LL
+: 1667496934:0;ll
+: 1667497804:0;ls -ld ..
+: 1667497825:0;ls -ld .
+: 1667497995:0;ll
+: 1667498513:0;cd /mnt/d/cd /mnt/d/umarti/Downloads*
+: 1667498514:0;cd /mnt/d/umarti/Downloads*
+: 1667498530:0;cd /mnt/d/umarti/dowNLOADS--SYMLINKED
+: 1667498533:0;ll
+: 1667498540:0;mc
+: 1667498584:0;dmesg|grep sdc
+: 1667498665:0;cd /mnt/d/umarti/dow*
+: 1667498675:0;cd /mnt/d/umarti/
+: 1667498968:0;ll
+: 1667521477:0;ls -la /home/dockw
+: 1667573478:0;echo '-----------------------------begin possible  .sh-session ---------------------------------'
+: 1667573505:0;cd
+: 1667573565:0;podman start   -ai    cmyjs22b
+: 1667573997:0;cd /home/dockw/node/ohayo/node_modules/.bin
+: 1667573999:0;ll
+: 1667583190:0;cat /etc/lsb-release
+: 1667583209:0;echo '-------- section --------'
+: 1667583212:0;echo  btw,IN THE FUTURE, I AM GOING TO INSTALL podman IN A DIFFERENT WAY, NOT BY apt
+: 1667583214:0;echo '-------- section --------'
+: 1667588688:0;podman start   -ai    cmyjs22b
+: 1667588720:0;man ls
+: 1667610744:0;echo  btw,IN THE FUTURE, I will INSTALL podman IN A DIFFERENT WAY'?', NOT BY apt '?'
+: 1667610798:0;echo '-------- section --------'
+: 1667610810:0;echo  btw,IN
+: 1667610824:0;echo  btw,   IN
+: 1667610896:0;echo '-------- section --------'
+: 1667610914:0;podman -v
+: 1667610981:0;#ls -na /home
+: 1667610985:0;ls -na /home
+: 1667611002:0;ls -na /home/dockw
+: 1667673592:0;docker history
+: 1667673606:0;docker image history
+: 1667673677:0;docker image history localhost/imyjs22b11
+: 1667696291:0;docker image history --no-trunc localhost/imyjs22b11
+: 1667853827:0;podman start   -ai    cmyjs22b
+: 1667853835:0;mv -v --backup=numbered /tmp/podman-run-1000/ /tmp/OLDpodman-run-1000/
+: 1667853841:0;podman start   -ai    cmyjs22b
+: 1667854180:0;podman start   -ai   myconta22
+: 1667854537:0;podman start   -ai    cmyjs22b
+: 1667931440:0;echo '-------- section --------'
+: 1667931499:0;echo $path|tr ' ' '\n'
+: 1667931537:0;echo $PATH|tr ':' '\n'
+: 1667931578:0;echo $PATH|tr ':' '\n'|grep -i podm
+: 1667931585:0;echo $PATH|tr ':' '\n'|grep -i podman
+: 1667931594:0;echo '-------- section --------'
+: 1667931891:0;podman machine
+: 1667932029:0;podman machine --help
+: 1667932046:0;podman machine list
+: 1667932435:0;pseudo
+: 1667932508:0;pseudosh
+: 1668202364:0;man tar
+: 1668202418:0;info tar
+: 1668202596:0;man tar
+: 1668202647:0;man bsdtar
+: 1668203219:0;tar --help
+: 1668203292:0;bsdtar --help
+: 1668203311:0;man bsdtar
+: 1668204025:0;which -a bsdtar
+: 1668206816:0;find . -type f -size -2000k -size +100c -mmin -360   |cpio --verbose  --create --format=crc >/mnt/c/u/cpio/22bb-2000k-mmin--360.cpio
+: 1668383807:0;alias
+: 1668534143:0;alias    |grep clean
+: 1668800596:0;dpkg -l | grep -i man
+: 1668800604:0;dpkg -l | grep -i man[-]
+: 1668800614:0;dpkg -l | grep -i 'man[-]'
+: 1668808184:0;echo $ZSH
+: 1668809619:0;man cp
+: 1668958583:0;cd
+: 1668958619:0;mv -v --backup=numbered .ohmyzsh/.git OLD
+: 1668958668:0;mv -v --backup=numbered .oh-my-zsh/.git OLD
+: 1668958690:0;du .oh-my-zsh
+: 1668958702:0;du .oh-my-zsh|sort -n
+: 1668958793:0;tar zcf ohmyzsh.tarz .oh-my-zsh
+: 1668961038:0;setopt|grep -i hist
+: 1668978458:0;env|grep martin
+: 1668980679:0;mc -b
+: 1668982177:0;omz version
+: 1668982723:0;zsh --version
+: 1669147359:0;docker system df -v
+: 1669147444:0;docker history
+: 1669147447:0;docker image history imyjs22b11
+: 1669147472:0;docker image history imyjs22b11 >1
+: 1669147491:0;less 1
+: 1669147527:0;docker image history imyjs22b11 
+: 1669147568:0;docker image history --no-trunc imyjs22b11 
+: 1669149576:0;docker image history --no-trunc imyjs22b11 >1
+: 1669149609:0;docker image history imy22b >1
+: 1669149640:0;docker image history --no-trunc imyjs22b11 >1
+: 1669150081:0;man dirmngr
+: 1669153311:0;pwd
+: 1669154074:0;grep '[[][@][]]'   **/*opt*
+: 1669154126:0;ls   **/*opt*
+: 1669154163:0;grep '[[][@][]]'   **/*sh*
+: 1669154275:0;grep '[[][@][]]'   **/*sh* | grep arg
+: 1669154437:0;echo $args
+: 1669154510:0;bash ./podman-container/12-docker-create-cmy22b.sh
+: 1669154606:0;code ./dotfiles
+: 1669326652:0;mc -b
+: 1669328214:0;man zsh
+: 1669328247:0;man zshall
+: 1669328683:0;mc -b
+: 1669328747:0;cd
+: 1669328749:0;mc -b
+: 1669329168:0;ll 8*
+: 1669329217:0;ll *
+: 1669329229:0;ll 
+: 1669406064:0;id
+: 1669411728:0;cat /etc/os-release
+: 1669504702:0;history|grep nvm
+: 1669592880:0;pwd
+: 1669592888:0;cat /etc/os-release
+: 1669593016:0;mc -b
+: 1669599968:0;which -a code
+: 1669600134:0;command -v code
+: 1669600139:0;exit
+: 1669600550:0;code --help
+: 1669666264:0;apt download busybox-static
+: 1669672716:0;ll busybox-static
+: 1669672729:0;ll busybox-static*
+: 1669672779:0;mc -b
+: 1669672807:0;pushd
+: 1669672832:0;pushd .
+: 1669672866:0;popd
+: 1669673548:0;./busybox
+: 1669673566:0;cd
+: 1669673572:0;bin/busybox sh
+: 1669675929:0;history
+: 1669681450:0;./busybox
+: 1669681460:0;cd bin
+: 1669681461:0;./busybox
+: 1669681504:0;./busybox|tr -cd ,
+: 1669681508:0;./busybox|tr -cd ,|wc
+: 1669682997:0;ls -l `echo $PATH|tr : ' '`|wc
+: 1669683183:0;apt search static
+: 1669683232:0;apt search static| grep '^\w+[-]stat'
+: 1669683253:0;apt search static| grep -E '^\w+[-]stat'
+: 1669683431:0;apt show python3-static3
+: 1669683451:0;apt show node-static
+: 1669683479:0;apt show gpgv-static
+: 1669683883:0;apt show dar-static
+: 1669997507:0;podman-import.html
+: 1669997538:0;head podman-import.html
+: 1669997572:0;cat Files/RedHat/Podman//podman-import.html
+: 1669997576:0;cat Files/RedHat/Podman/podman-import.html
+: 1669997610:0;cat '/mnt/c/Program Files/RedHat/Podman//podman-import.html'
+: 1669997619:0;head '/mnt/c/Program Files/RedHat/Podman//podman-import.html'
+: 1670020231:0;cd
+: 1670020234:0;cd bin
+: 1670020235:0;ll
+: 1670020383:0;cd
+: 1670020387:0;chmod +x bin/busybox
+: 1670020433:0;cd bin
+: 1670020447:0;ln -siv busybox  sh
+: 1670020452:0;ll
+: 1670020511:0;cd
+: 1670020512:0;tar c bin >bin.tar
+: 1670020518:0;ls -latr
+: 1670020568:0;tar tf bin.tar
+: 1670020590:0;tar tvf bin.tar
+: 1670020671:0;cp -iv bin.tar /mnt/d/umarti/dowNLOADS--SYMLINKED
+: 1670020705:0;cp -iv bin.tar /mnt/c/Users/marti
+: 1670372747:0;dash --help
+: 1670372752:0;man dash
+: 1670619303:0;strace
+: 1670619315:0;strace echo
+: 1670619351:0;strace true
+: 1672556617:0;cd /mnt/d/umarti/dowNLOADS--SYMLINKED
+: 1672556620:0;{for x in *.zip\
+do\
+zipinfo $x\
+done}| grep -i '[.]wasm'
+: 1672556756:0;{for x in *.zip\
+do\
+zipinfo $x\
+done}| grep -i '[.]wasm$'
+: 1672556790:0;clear
+: 1672556796:0;{for x in *.zip\
+do\
+zipinfo $x\
+done}| grep -i '[.]wasm$'
+: 1672561738:0;cd
+: 1672561742:0;git clone https://github.com/ilyaigpetrov/ncurses-for-emscripten.git
+: 1672566148:0;bash
+: 1672566541:0;python3
+: 1672834418:0;which cmake
+: 1672915858:0;cd /mnt/d/umarti/dowNLOADS--SYMLINKED
+: 1672915867:0;{for x in *.zip\
+do\
+zipinfo $x\
+done}| grep -i '[.]wasm$'
+: 1672915909:0;{for x in *.zip ; do ; zipinfo $x  ; done}| grep -i '[.]wasm$' | grep fork
+: 1672915999:0;{for x in *.zip ; do ; zipinfo $x  ; done}| grep -i '[.]wasm$' >a.csv
+: 1672916824:0;cd /mnt/d/umarti/dowNLOADS--SYMLINKED
+: 1672916834:0;{for x in *.zip ; do ; zipinfo $x  ; done}| grep -i '[.]wasm$' >base.csv
+: 1673623316:0;D:/conda/Scripts/activate
+: 1673623316:0;conda activate base
+: 1673623334:0;man ctty
+: 1673623337:0;man stty
+: 1673626593:0;bash
+: 1673626670:0;man stty
+: 1673793211:0;python
+: 1673793213:0;#python3
+: 1673793217:0;python3
+: 1673793285:0;ls '/usr/lib/python3.10/curses'
+: 1673793318:0;cat '/usr/lib/python3.10/curses/ascii.py'
+: 1673794065:0;mc
+: 1673794196:0;file *
+: 1673794646:0;python3
+: 1674056609:0;D:/conda/Scripts/activate
+: 1674056609:0;conda activate base
+: 1674056617:0;man node
+: 1674300978:0;ip address
+: 1674300983:0;ifconfig
+: 1674300985:0;netstat
+: 1674319802:0;node inspect  127.0.0.1:9229
+: 1674471239:0;hostname -a
+: 1674471645:0;ipconfig --all
+: 1674471651:0;bash
+: 1675278855:0;man zshexpn
+: 1675382162:0;man tracepath
+: 1675382460:0;man iputils
+: 1675382465:0;man -k iputils
+: 1675382471:0;man man
+: 1675382657:0;man -K iputils
+: 1675382681:0;man -a  -K iputils
+: 1675382689:0;man man
+: 1675382840:0;man -w  -K iputils
+: 1675383022:0;history
+: 1675464564:0;apt search '\bNAT\b'
+: 1675522809:0;cat /proc/sys/net/ipv4/ip_local_port_range
+: 1675526763:0;sudo apt install   iputils-tracepath   iputils-ping  dublin-traceroute  mtr-tiny  traceroute
+: 1675527076:0;tracepath         10.0.0.138
+: 1675527084:0;tracepath         192.168.1.1
+: 1675527218:0;tracepath  --help
+: 1675527223:0;tracepath         10.0.0.138
+: 1675527227:0;tracepath         192.168.1.1
+: 1675527234:0;tracepath    -n     192.168.1.1
+: 1675528761:0;man traceroute.db
+: 1675528877:0;tracepath         10.0.0.138
+: 1675528880:0;tracepath    -n     192.168.1.1
+: 1675528889:0;traceroute -n    10.0.0.138
+: 1675528891:0;traceroute -n    192.168.1.1
+: 1675528905:0;dublin-traceroute --help
+: 1675528928:0;ls -l `which -a traceroute.db`
+: 1675528942:0;dublin-traceroute    8.8.8.8
+: 1675615190:0;apt search '\bNAT\b'
+: 1675615232:0;sudo apt install  stun
+: 1675615332:0;apt show stun-server
+: 1675615416:0;apt show python3-aioice
+: 1675806077:0;man -k netcat
+: 1675806093:0;apt search netcat
+: 1675806145:0;nc
+: 1675806157:0;sudo apt install netcat-openbsd
+: 1675806199:0;netcat
+: 1675806214:0;nc.openbsd
+: 1675806231:0;nc
+: 1675806768:0;openssl
+: 1675806807:0;man openssl
+: 1675810220:0;apt search busybox
+: 1675810266:0;apt show busybox-static
+: 1675810321:0;apt show busybox
+: 1675810371:0;busybox 
+: 1675810390:0;busybox
+: 1675810440:0;busybox | tr , '\n'
+: 1675810460:0;busybox | tr , '\n'  | grep 'd$'
+: 1675810569:0;busybox | tr , '\n'  | grep ftp
+: 1675810584:0;busybox | tr , '\n'  | grep ping
+: 1675811407:0;ncat
+: 1675811415:0;pnetcat
+: 1675811431:0;socat
+: 1675811437:0;sock
+: 1675811439:0;socket
+: 1675811449:0;sbd
+: 1675811501:0;nc
+: 1675811508:0;nc --help
+: 1675811520:0;man nc
+: 1675813711:0;ping --help
+: 1675813735:0;ping --help|grep -i tcp
+: 1675813749:0;ping --help 2>&1|grep -i tcp
+: 1675813754:0;ping --help 2>&1|grep -i ud
+: 1675813760:0;ping --help 2>&1|grep -i htt
+: 1675813932:0;history
+: 1675984361:0;ping localhost
+: 1675984407:0;nc -l -p 1234 >a  &
+: 1675984433:0;echo skjfs | nc -q 0 localhost 1234
+: 1675984441:0;cat a
+: 1675984454:0;echo >a
+: 1675984458:0;cat a
+: 1675984461:0;nc -l -p 1234 >a  &
+: 1675984468:0;echo skjfs | nc -w 2 localhost 1234
+: 1675984482:0;cat a
+: 1676243241:0;apropos network
+: 1676243354:0;busybox
+: 1676243363:0;busybox|grep pin
+: 1676243378:0;apt show httping
+: 1676243446:0;apt search ping
+: 1676243453:0;apt search ping|grep ping
+: 1676243471:0;apt search ping|grep tping
+: 1676243490:0;apt search ping|grep cping
+: 1676243500:0;apt search ping|grep pping
+: 1676243507:0;apt search ping|grep cpping
+: 1676243525:0;apt search ping|grep dping
+: 1676321767:0;apt show alpine
+: 1676321787:0;echo $USER
+: 1676321900:0;sudo apt install alpine
+: 1676322042:0;alpine
+: 1676610831:0;systemctl
+: 1677150690:0;man -k netcat
+: 1677150697:0;apt search netcat
+: 1677150794:0;apt search game in bash
+: 1678038538:0;vim
+: 1678398540:0;man git-restore
+: 1678398607:0;man git-checkout
+: 1678398748:0;man git-switch
+: 1679287677:0;D:/conda/Scripts/activate
+: 1679287677:0;conda activate base
+: 1679287679:0;echo "alt1âƒ¸ºâƒ¸»âƒ¹¥âƒ¹¦"
+: 1679314614:0;"ðƒ¿ƒ¬ƒ¾".length
+: 1679314626:0;bash
+: 1679315438:0;python
+: 1679315443:0;python3
+: 1679379351:0;D:/conda/Scripts/activate
+: 1679379351:0;conda activate base
+: 1679379356:0;"  âƒ·ƒ¹   25D9  âƒ¹‚   2642  âƒ¹€   2640  âƒ¹ª   266A  âƒ¹«[b]   266B  âƒ¸¼   263C   1x   16  âƒ¶º   25BA  âƒ·ƒ¤   25C4  âƒ¦ƒµ   2195  â€¼   203C  Â¶      00B6  Â§   00A7  âƒ¶¬   25AC  âƒ¦¨   21A8  âƒ¦ƒ±   2191  âƒ¦ƒ³   2193  âƒ¦ƒ²   2192  âƒ¦ƒ°   2190  âƒ¨ƒ¿   221F  âƒ¦ƒ´   2194  âƒ¶²   25B2  âƒ¶¼   25BC      âƒ¬‚      [d]   2302         00BF  âƒ¬ƒ°   2310  Â¬      00AC  Â½   00BD  Â¼   00BC  Âƒ   00A1  Â«   00AB  Â»   00BB   Bx   176  âƒ¶ƒ±   2591  âƒ¶ƒ²   2592  âƒ¶ƒ³              âƒµƒ±   2551        âƒ´´   2534  âƒ´¬   252C      âƒ´ƒ¼   251C     âƒ´€   2500  âƒ´¼   253C      âƒµƒ¾   255E  âƒµƒ¿   255F  âƒµƒº   255A  âƒµƒ´   2554      âƒµ©   2569  âƒµ¦   2566   âƒµƒ€   2560     âƒµƒ°   2550  âƒµ¬   256C  âƒµ§   2567      Dx   208  âƒµ¨   2568     âƒµ¤   2564  âƒµ¥   2565         âƒµ«   256B  âƒµª   256A        âƒ¶ƒ¨   2588  âƒ¶ƒ¤   2584  âƒ¶ƒ¬   258C  âƒ¶ƒ°   2590  âƒ¶€   2580         âƒ¨©   2229   Fx   240  âƒ©ƒ   2261  Â±   00B1      âƒ©¥   2265  âƒ©¤   2264      Ã·   00F7  âƒ©ƒ¨   2248  Â°   00B0  âƒ¨ƒ¹[o]   2219  Â·   00B7         âƒ¶ƒ€   25A0  nbsp[q]   00A0      "
+: 1679407616:0;D:/conda/Scripts/activate
+: 1679407616:0;conda activate base
+: 1679407636:0;echo $PATH
+: 1679409597:0;"ðƒ¿ƒ¬ƒ¾"\
+
+: 1679470637:0;xxd
+: 1679471001:0;python3
+: 1679471463:0;xxd
+: 1679586836:0;sudo apt update
+: 1679586867:0;sudo apt install kbd
+: 1679586882:0;showkey -a
+: 1680293097:0;bash
+: 1680539197:0;sudo apt update
+: 1680539238:0;sudo apt install wine
+: 1680539781:0;sudo apt install wine64
+: 1680539793:0;sudo apt install wine-stable
+: 1680539940:0;sudo apt install   x11-common
+: 1680540044:0;sudo apt install libxkbcommon0 libxpm4 libxrandr2
+: 1680540075:0;sudo apt install ocl-icd-libopencl1
+: 1680540127:0;sudo apt install  alsa-topology-conf
+: 1680540152:0;sudo apt install   gstreamer1.0-plugins-base
+: 1680540183:0;sudo apt install wine
+: 1680540234:0;sudo apt install   libwayland-client0
+: 1680540255:0;sudo apt install  libwayland-server0
+: 1680540278:0;sudo apt install libwebp7 libwine libx11-xcb1
+: 1680540297:0;sudo apt install libwebp7
+: 1680540317:0;sudo apt install libx11-xcb1
+: 1680540340:0;sudo apt install  libwine
+: 1680540455:0;sudo apt install wine
+: 1680540494:0;sudo apt install wine64
+: 1680540517:0;sudo apt install wine-stable
+: 1680540615:0;sudo apt install wine apt show  wine64-tools
+: 1680540619:0;apt show  wine64-tools
+: 1680540655:0;apt show  wine64-stable
+: 1680540662:0;apt show  wine-stable
+: 1680540724:0;apt show  winetricks
+: 1680540833:0;apt download winetricks
+: 1680553905:0;wine --version
+: 1680553918:0;wine64 --version
+: 1680554566:0;mc
+: 1680555064:0;dpkg -L libwine:amd64
+: 1680555072:0;dpkg -L libwine:amd64|less
+: 1680555095:0;mc
+: 1680555165:0;ls *.exe
+: 1680557580:0;xdpyinfo.exe
+: 1680557670:0;sudo apt install xxx
+: 1680558191:0;sudo apt show apt show xless
+: 1680558222:0;apt show xinput
+: 1680558236:0;apt show xininfo
+: 1680558252:0;apt show xfireworks
+: 1680558270:0;apt show xdu
+: 1680558287:0;apt show xdiskusage
+: 1680558310:0;apt show xcolors
+: 1680558327:0;apt show xcowsay
+: 1680558359:0;sudo apt install xfireworks
+: 1680558378:0;zsh
+: 1680558383:0;xfireworks
+: 1680558396:0;set
+: 1680558399:0;env
+: 1680558506:0;xfireworks
+: 1680558511:0;env
+: 1680558594:0;xfireworks
+: 1680558596:0;env
+: 1680558639:0;xfireworks
+: 1680558661:0;sudo apt install xininfo
+: 1680558687:0;xininfo
+: 1680559006:0;sudo apt install x11-apps
+: 1680559076:0;xclipboard
+: 1680559092:0;xclock
+: 1680559146:0;env
+: 1680559176:0;history
+: 1680559187:0;xfireworks
+: 1680559272:0;xininfo
+: 1680559275:0;xininfo -?
+: 1680559277:0;xininfo -h
+: 1680559288:0;xclock
+: 1680559333:0;xcalc
+: 1680559364:0;winecfg
+: 1680559731:0;env
+: 1680559742:0;env|grep -i way
+: 1680559752:0;env|grep -i disp
+: 1680559812:0;xinput
+: 1680559834:0;sudo apt install xinput
+: 1680559852:0;xinput
+: 1680559924:0;zsh
+: 1680559984:0;apt apt show  x11-apps
+: 1680559987:0;apt show  x11-apps
+: 1680560047:0;xgc
+: 1680560522:0;mc
+: 1680560975:0;wine cmd
+: 1680561012:0;wine64 --version
+: 1680561336:0;ll 
+: 1680561484:0;du -sm ~/.wine/dri*
+: 1680561527:0;du -sm /usr/lib/x86*/wine
+: 1680561577:0;ls -l /home/martin/.wine/dos*
+: 1680561591:0;ls -l /home/martin/.wine/dos*/z:
+: 1680564940:0;symlinks
+: 1680564966:0;bash
+: 1680565035:0;sudo apt install symlinks
+: 1680565092:0;symlinks
+: 1680565123:0;sudo apt install symlinks
+: 1680565147:0;cd
+: 1680565202:0;find -L . > /dev/null
+: 1680565259:0;find -L . > /dev/null 2>&1 | grep loop
+: 1680565508:0;find -L . > /dev/null 2>&1 | grep levels
+: 1680565730:0;unlink
+: 1680565736:0;unlink  ---help
+: 1680565747:0;man unlink
+: 1680566788:0;find .wine -type l
+: 1680566794:0;find .wine -type l -ls
+: 1680569146:0;mv -iv /home/martin/.wine/dosdevices/c:/users/martin/My\ Documents    /tmp
+: 1680569166:0;mkdir   /home/martin/.wine/dosdevices/c:/users/martin/My\ Documents
+: 1680569320:0;unlink  /home/martin/.wine/dosdevices/z:
+: 1680569422:0;mkdir -p /tmp/mywine/tmp--abcde
+: 1680569460:0;ln -s   /tmp/mywine                 ~/.wine/dosdevices/z:
+: 1680569486:0;ls -l             ~/.wine/dosdevices/z:
+: 1680569496:0;ls -l             ~/.wine/dosdevices/z:/*
+: 1680569517:0;ls -ld             ~/.wine/dosdevices/z:/*
+: 1680569663:0;ls -l /home/martin/.wine/dos*/z:
+: 1680569672:0;ls -l /home/martin/.wine/dos*
+: 1680569699:0;find .wine -type l -ls
+: 1680569772:0;find -L . > /dev/null 2>&1 | grep loop
+: 1680569863:0;wine cmd
+: 1680570003:0;set
+: 1680570007:0;env
+: 1680570104:0;wine cmd
+: 1680570491:0;cd ~/.wine/drive_c
+: 1680570495:0;wine cmd
+: 1680570701:0;ls /usr/lib/x86_64-linux-gnu/wine/*.exe
+: 1680570783:0;ll /usr/lib/x86_64-linux-gnu/wine/*.exe
+: 1680570807:0;wine cmd
+: 1680570917:0;ll /usr/lib/x86_64-linux-gnu/wine/*.exe
+: 1680638718:0;cd ~/asmaz
+: 1680638750:0;for x in **/*.gz\
+do\
+zgrep  'dev[/]tty'   $x\
+done
+: 1680638788:0;for x in **/*.gz\
+do\
+zgrep  eshell   $x\
+done
+: 1680638863:0;zgrep  eshell   **/*.gz
+: 1680638881:0;zgrep  shell   **/*.gz
+: 1680638910:0;file   **/*.gz
+: 1680743324:0;cd ~/asmaz
+: 1680743332:0;zgrep  shell   **/*.gz
+: 1680743345:0;zgrep -a  shell   **/*.gz
+: 1680743593:0;for x in **/*.gz  ;  do ;  zgrep  -a shell   $x  ; done
+: 1680743613:0;for x in **/*.gz  ;  do ;  zgrep  -a eshell   $x  ; done
+: 1680743627:0;for x in **/*.gz  ;  do   zgrep  -a eshell   $x  ; done
+: 1680743718:0;for x in **/*.gz  ;  do ;  zgrep  -a eshell-   $x  ; done
+: 1680743726:0;for x in **/*.gz  ;  do ;  zgrep  -a eshell-i   $x  ; done
+: 1680743820:0;for x in **/*.gz  ;  do ;\
+tar xzf $x --to-command="grep --label=$TAR_FILENAME -Hi 'eshell-i'   ;true"\
+done
+: 1680743881:0;for x in **/*.gz  ;  do ;\
+tar xzf $x --to-command="grep --label=$TAR_FILENAME -i 'eshell-i'   ;true"\
+done
+: 1680743923:0;for x in **/*.gz  ;  do ;\
+tar xzf $x --to-command="grep --label=""$TAR_FILENAME"" -i 'eshell-i'   ;true"\
+done
+: 1680743969:0;for x in **/*.gz  ;  do ;  tar xzf $x --to-command="grep --label=""$TAR_FILENAME"" -Hi 'eshell-i'   ;true"  ;   done
+: 1680744083:0;for x in **/*.gz  ;  do ;  tar xzf $x --to-command="grep --label=""\$TAR_FILENAME"" -Hi 'eshell-i'   ;true"  ;   done
+: 1680744132:0;y=emacs_pipe
+: 1680744134:0;for x in **/*.gz  ;  do ;  tar xzf $x --to-command="grep --label=""\$TAR_FILENAME"" -Hi '$y'   ;true"  ;   done
+: 1680744397:0;y='define pipe'
+: 1680744398:0;for x in **/*.gz  ;  do ;  tar xzf $x --to-command="grep --label=""\$TAR_FILENAME"" -Hi '$y'   ;true"  ;   done
+: 1680744631:0;y=rpl_pipe2
+: 1680744632:0;for x in **/*.gz  ;  do ;  tar xzf $x --to-command="grep --label=""\$TAR_FILENAME"" -Hi '$y'   ;true"  ;   done
+: 1680745588:0;y='e pipe2'
+: 1680745591:0;for x in **/*.gz  ;  do ;  tar xzf $x --to-command="grep --label=""\$TAR_FILENAME"" -Hi '$y'   ;true"  ;   done
+: 1681042698:0;man curl
+: 1681043240:0;man wget
+: 1681043583:0;man curl
+: 1681297634:0;set
+: 1681297681:0;bash
+: 1681298288:0;set
+: 1691413704:0;ghci
+: 1696975958:0;# wget --verbose https://omfbrfhmu.foto-show.pl
+: 1696975961:0;cd
+: 1696975963:0;pwd
+: 1696975974:0;wget --verbose https://omfbrfhmu.foto-show.pl
+: 1723228359:0;dmesg
+: 1736358799:0;cat bcloudREADONLY/alma.txt
+: 1736358816:0;echo   $(cat bcloudREADONLY/alma.txt)
+: 1736358824:0;which ssh
+: 1736358894:0;/usr/bin/ssh   $(cat bcloudREADONLY/alma.txt)
+: 1740766806:0;dpkg -l
+: 1740766819:0;dpkg -l | grep -i '[.]bsd'
+: 1740766835:0;dpkg -l | grep -i '[.].{0,5}bsd'
+: 1740766848:0;dpkg -l | grep -i '[.].{0,5}bs'
+: 1740766851:0;dpkg -l | grep -i '[.].{0,5}b'
+: 1740766880:0;dpkg -l | grep -i '.{0,5}b'
+: 1740766908:0;dpkg -l | grep -i '[-]{0,5}b'
+: 1740766917:0;dpkg -l | cat
+: 1740766959:0;dpkg -l | grep zsh
+: 1740766972:0;dpkg -l | grep 'zsh'
+: 1740766977:0;dpkg -l | grep 'zsh-'
+: 1740766995:0;dpkg -l | grep '[.]'
+: 1740767009:0;dpkg -l | grep '[:]'
+: 1740767039:0;dpkg -l | grep '^ii' | awk '{print $2}'
+: 1740767051:0;dpkg -l | grep '^ii' | awk '{print $2}'|grep '[.]'
+: 1740767060:0;dpkg -l | grep '^ii' | awk '{print $2}'|grep '[.]'  | wc
+: 1740767131:0;dpkg -l | grep '^ii' | awk '{print $2}'|grep -i '[.][a-z]'  | wc
+: 1740767136:0;dpkg -l | grep '^ii' | awk '{print $2}'|grep -i '[.][a-z]'
+: 1740767215:0;apt-cache search  pci
+: 1740767230:0;apt-cache search
+: 1740767252:0;apt-cache search  '.*' | awk '{print $1}' | grep -i '[.][a-z]'
+: 1740767267:0;apt-cache search  '.*' | awk '{print $1}' | grep -i '[.][a-z]'  |wc
+: 1740767278:0;apt-cache search  '.*' | awk '{print $1}' | grep -i '[.][a-z]'  | grep bsd
+: 1740767312:0;apt-cache search  '.*' | awk '{print $1}' | grep -i '[.][a-z]'  | cut -f 2  -d '.'
+: 1740767325:0;apt-cache search  '.*' | awk '{print $1}' | grep -i '[.][a-z]'  | cut -f 2  -d '.' | sort| uniq -c | sort -n
+: 1740767432:0;apt-cache search  '.*' | awk '{print $1}' | grep -i '[.][a-z]'  | c
+: 1740767438:0;apt-cache search  '.*' | awk '{print $1}' | grep -i '[.][a-z]'
+: 1740767476:0;apt-cache search  '.*' | awk '{print $1}' | grep -i '[.][a-z]'  |  clip.exe
+: 1740767696:0;dpkg -l | grep '^ii' | awk '{print $2}'|grep -i '[.][a-z]'
+: 1740767988:0;apt-cache search  '.*' | awk '{print $1}' | grep -i 'bsd'
+: 1740768171:0;echo $PATH | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]'
+: 1740768232:0;echo $PATH | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]' | cut -f 2 -d '.' | sort | uniq | wc
+: 1740768239:0;echo $PATH | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]' | cut -f 2 -d '.' | sort | uniq
+: 1740768252:0;echo $PATH | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]' | cut -f 2 -d '.' | sort | uniq -c
+: 1740768260:0;echo $PATH | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]' | cut -f 2 -d '.' | sort | uniq -c|sort -n
+: 1740768313:0;echo $PATH
+: 1740768324:0;echo $PATH  | clip.exe
+: 1740768399:0;echo '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games'  | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]' | cut -f 2 -d '.' | sort | uniq -c|sort -n |\
+echo '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games'  | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]' | cut -f 2 -d '.' | sort | uniq -c|sort -n |\
+echo '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games'  | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]' | cut -f 2 -d '.' | sort | uniq -c|sort -n
+: 1740768501:0;echo '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games'  | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]' | cut -f 2 -d '.' | sort | uniq -c|sort -n| clip.exe
+: 1740768519:0;echo '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games'  | tr ':' '\n' | xargs -I {} ls -1 {} | grep -i '[.]' | clip.exe
+: 1740768671:0;echo '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games'  | tr ':' '\n' | xargs -I {} ls -1 {} | wc
+: 1740768684:0;echo '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games'  | tr ':' '\n' | xargs -I {} ls -1 {} |grep -i '[.]' |wc
