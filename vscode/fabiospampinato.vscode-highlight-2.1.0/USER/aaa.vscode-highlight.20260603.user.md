@@ -4,9 +4,64 @@ code C:\Users\marti\AppData\Roaming\Code\User\settings.json
 
 
 
-Refine VSCode highlight extension settings and related notes. Introduces a combined regex to match repeated a/b/c/d sequences and adds the corresponding decorations block in settings.json, with several commented pattern variants for experimentation. Normalizes tag strings in a couple of markdown notes (#aaaaAAA -> #aaaaaaa) and appends a marker to a Google Keep link. Adds commands to the PowerShell history to open settings and markdown.json, and updates extension/user markdown with experimental regex examples and a small snippet note.
 
 
+		// MY red
+		// my nnnn  // test      rrrr         eeeeeecccccacca          ffffffffdddddadd
+
+		"(n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+				{
+					"overviewRulerColor": "red",
+					"backgroundColor": "red",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "red",
+					"color": "#1f1f1f"
+				}
+			]
+		},
+
+
+
+
+		// MY green
+		// my yyyyy  // test      iiii         eeeeeecccccacca          ffffffffdddddadd
+
+		"(y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+				{
+					"overviewRulerColor": "#4DE0FF",
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f"
+				}
+			]
+		},
+
+
+
+
+Refine VSCode highlight extension settings and related notes. Introduces a combined regex to match repeated a/b/c/d sequences and adds the corresponding decorations block in settings.json, with several commented pattern variants for experimentation.
+
+ok, nanecisto #bug appends a marker to a Google Keep link.
+
+
+(?:FIXME|FIX|BUG|UGLY|DEBUG|HACK)
+what is "(?: ... )" in regexes?
+In regular expressions, "(?: ... )" is a non-capturing group. It groups the enclosed pattern together without creating a backreference. This means that while the group can be used for applying quantifiers or alternation, it won't be stored for later reference in the regex. For example, in the regex "(?:abc|def)", the group matches either "abc" or "def", but it won't create a backreference that can be accessed later in the regex. This is useful when you want to group patterns without needing to capture them for later use.
 
 experimenting with vscode-highlight extension regexes settings, 
 yaml js json

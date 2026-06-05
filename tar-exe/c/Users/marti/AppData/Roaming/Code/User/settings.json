@@ -481,10 +481,59 @@
 	"highlight.regexes": {
 
 
-		// MY yellow
-		// my aaaaaaa  // test  bbbbbabba     cccccacca      dddddadd
 
-		"(a{3,}|b{3,}|c{3,}|d{3,})(.{0,3})"
+
+		// MY red
+		// my nnnn  // test      rrrr         gggggggeeeeeecccccacca          hhhffffffffdddddadd
+
+		"(n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+				{
+					"overviewRulerColor": "red",
+					"backgroundColor": "red",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "red",
+					"color": "#1f1f1f"
+				}
+			]
+		},
+
+
+
+		// MY green
+		// my yyyyy  // test      iiii         eeeeeecccccacca          ffffffffdddddadd
+
+		"(y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+				{
+					"overviewRulerColor": "#4DE0FF",
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f"
+				}
+			]
+		},
+
+
+
+
+		// MY yellow
+		// my aaaaaaa  // test      bbbbbabba         cccccacca          dddddadd
+
+		"(a{3,}|b{3,}|c{3,}|d{3,}|warn)(.{0,6})"
 		//"(cccc)|((a{3,}|dddd)(.{0,3}))|(bbbb)(.{0,4})"
 		//"(cccc)|(a{3,})(.{0,3})|(bbbb)(.{0,3})"
 		//"(cccc)|(a{3,})(.{0,3})|bbbb(.{0,3})"
@@ -508,10 +557,10 @@
 		},
 
 
-		// yellow ..TODO..
+		// yellow .."#TODO"..
+		// standard "TODO"..aaa
 		// TODO a. test  ..aaaaa
 		//false alarm ODO. false alarm  .aaa--
-		// standard "TODO"..aaa
 		"((?:<!-- *)?(?:#|// @|//|./\\*+|<!--|--|\\* @|{!|{{!--|{{!) *TODO(?:[\\t\\f\\v ]*\\([^\\r\\n)]+\\))?:?)((?!\\w)(?: *-->| *\\*/| *!}| *--}}| *}}|(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--|{!|{{!--|{{!))|(?: +[^\\r\\n@]*?)(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--(?!>)|{!|{{!--|{{!))|(?: +[^\\r\\n@]+)?))": {
 			"filterFileRegex": ".*(?<!CHANGELOG.md)$",
 			"decorations": [
@@ -553,11 +602,11 @@
 
 
 
-	// 20260523 probably vscdb ...
+	// 20260523 warning ..probably vscdb ...
 		// 	  sideBar <- moved Explorer view, had to maximize to undo the change
 		// markdown outline follow cursor
 
-	// DONT FORGET THE COMMA AFTER EACH SETTING
+	// warning DONT FORGET THE COMMA AFTER EACH SETTING
 
 	// related file:///C:\Users\marti\OneDrive\tar-exe\c\Users\marti\AppData\Roaming\Code\User\settings.json
 
@@ -571,7 +620,7 @@
     // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
     // Capital-i Illustr ss01
     // omlouvám se za opožděné přání všeho nejlepšího k narozeninám ... (chtěl jsem to říct ten den, kdy jste u nás byli na návštěvě, ale večer už nějak nebyla příležitost)
-    // The significance of withdrawal symptoms Withdrawal symptoms are not inconsequential – they indicate the nervous system is becoming destabilized,24,56,57 accounting for the variety and variability of symptoms.27 According to established pharmacological principles, chronic application of any psychotropic brings about neurophysiological processes: adaption, tolerance, and potential dependence with withdrawal upon reduction of the
+    // #BUG The significance of withdrawal symptoms Withdrawal symptoms are not inconsequential – they indicate the nervous system is becoming destabilized,24,56,57 accounting for the variety and variability of symptoms.27 According to established pharmacological principles, chronic application of any psychotropic brings about neurophysiological processes: adaption, tolerance, and potential dependence with withdrawal upon reduction of the
 
     // unknown configuration setting: languages
 
@@ -579,6 +628,6 @@
 
 // https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
 
-    // exists f1 default settings
+    // iii exists f1 default settings
 
 // #TODO #test #highlight #regexes #settings  aaa  #aaa
