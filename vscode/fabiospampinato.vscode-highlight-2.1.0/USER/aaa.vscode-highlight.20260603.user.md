@@ -1,5 +1,35 @@
 // #TODO #test #highlight #regexes #settings  aaa  #aaa 
 
+code C:\Users\marti\AppData\Roaming\Code\User\settings.json
+
+
+
+Refine VSCode highlight extension settings and related notes. Introduces a combined regex to match repeated a/b/c/d sequences and adds the corresponding decorations block in settings.json, with several commented pattern variants for experimentation. Normalizes tag strings in a couple of markdown notes (#aaaaAAA -> #aaaaaaa) and appends a marker to a Google Keep link. Adds commands to the PowerShell history to open settings and markdown.json, and updates extension/user markdown with experimental regex examples and a small snippet note.
+
+
+
+experimenting with vscode-highlight extension regexes settings, 
+yaml js json
+```yaml
+
+{
+
+		#(a{3,}|b{3,}|c{3,}|d{3,})(.{0,3})
+		// "(a{3,}|b{3,}|c{3,}|d{3,})
+		(.{0,3})"
+
+// "cccc(.{0,3})|(a{3,})(.{0,3})|bbbb(.{0,3})": 
+		// "(cccc)(.{0,3})|(a{3,})(.{0,3})|bbbb(.{0,3})": 
+		//"(a{3,})(.{0,3})"
+
+		"(a{3,})(.{0,3})"
+		"(a{3,}|b{3,}|c{3,}|d{3,})(.{0,3})"
+		:
+		 {}
+
+
+
+```
 
 
 
@@ -8,7 +38,7 @@
 COLORS
 
 #WARNING  maybe older version  [] {} ?
-```
+```json
   "(// ?TODO:?)(.*)": [
     {
       "overviewRulerColor": "#FFF484",

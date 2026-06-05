@@ -480,9 +480,19 @@
 
 	"highlight.regexes": {
 
-		// my aaaaaaa test
-		"(a{3,})(.{0,3})": {
-			//"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+
+		// MY yellow
+		// my aaaaaaa  // test  bbbbbabba     cccccacca      dddddadd
+
+		"(a{3,}|b{3,}|c{3,}|d{3,})(.{0,3})"
+		//"(cccc)|((a{3,}|dddd)(.{0,3}))|(bbbb)(.{0,4})"
+		//"(cccc)|(a{3,})(.{0,3})|(bbbb)(.{0,3})"
+		//"(cccc)|(a{3,})(.{0,3})|bbbb(.{0,3})"
+		//"(cccc)(.{0,3})|(a{3,})(.{0,3})|bbbb(.{0,3})"
+		//"cccc(.{0,3})|(a{3,})(.{0,3})|bbbb(.{0,3})":
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
 			"decorations": [
 				{
 					"overviewRulerColor": "#ffcc00",
@@ -497,6 +507,8 @@
 			]
 		},
 
+
+		// yellow ..TODO..
 		// TODO a. test  ..aaaaa
 		//false alarm ODO. false alarm  .aaa--
 		// standard "TODO"..aaa
@@ -516,6 +528,8 @@
 			]
 		},
 
+
+		// red ..
 		"((?:<!-- *)?(?:#|// @|//|./\\*+|<!--|--|\\* @|{!|{{!--|{{!) *(?:FIXME|FIX|BUG|UGLY|DEBUG|HACK)(?:[\\t\\f\\v ]*\\([^\\r\\n)]+\\))?:?)((?!\\w)(?: *-->| *\\*/| *!}| *--}}| *}}|(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--|{!|{{!--|{{!))|(?: +[^\\r\\n@]*?)(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--(?!>)|{!|{{!--|{{!))|(?: +[^\\r\\n@]+)?))": {
 			"filterFileRegex": ".*(?<!CHANGELOG.md)$",
 			"decorations": [
@@ -533,7 +547,11 @@
 		}
 
 
+
+
 	},
+
+
 
 	// 20260523 probably vscdb ...
 		// 	  sideBar <- moved Explorer view, had to maximize to undo the change

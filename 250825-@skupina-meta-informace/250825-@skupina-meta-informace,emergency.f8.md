@@ -85,7 +85,7 @@ https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
 
 
 # ℹ️  odkaz na ten lístek s kontakty emaily https://keep.google.com/u/0/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw
-#AAAAa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, telefony, rodná čísla, NONSHADOW, NEKOPIE #emergency 
+#aaaaa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, telefony, rodná čísla, NONSHADOW, NEKOPIE #emergency 
 
 
 
@@ -414,7 +414,7 @@ nefunguje nevím proč.. na mobilu vypadá stejně až na ten lom... jako výše
 
 případně také...
 
-vlastní webové stránky, hlavně facebook, google, reddit, whatsapp ℹ️  #250831 #aaaaAAA #00000 #CORE1000 251122
+vlastní webové stránky, hlavně facebook, google, reddit, whatsapp ℹ️  #250831 #aaaaaaa #00000 #CORE1000 251122
 
 
 

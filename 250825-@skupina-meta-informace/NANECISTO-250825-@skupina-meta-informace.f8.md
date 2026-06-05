@@ -2,7 +2,7 @@
 
 toto je pracovni verze of 
 
-# Milan B., Martin Milan, vlastní webové stránky, hlavně facebook, google, reddit, whatsapp #250831 #aaaaAAA #00000 #CORE1000
+# Milan B., Martin Milan, vlastní webové stránky, hlavně facebook, google, reddit, whatsapp #250831 #aaaaaaa #00000 #CORE1000
 https://keep.google.com/#NOTE/1f20fE1eA8TYuKbrFtZXx8F0-TjAzM7k6048qXh2HKE4P3v-YS8mzR-uCObftdA
 
 
@@ -141,7 +141,7 @@ TODO: tento task predelat na prispevek
 
 
 odkaz na ten lístek s kontakty emaily
-https://keep.google.com/u/0/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw
+https://keep.google.com/u/0/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw#aaaaa#aaaaa
 #AAAAa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, telefony, rodná čísla, NONSHADOW, NEKOPIE #emergency 
 
 
@@ -179,7 +179,7 @@ also a distantly related topic: digital emergency plans
 
 případně také...
 
-vlastní webové stránky, hlavně facebook, google, reddit, whatsapp ℹ️  #250831 #aaaaAAA #00000 #CORE1000 251122
+vlastní webové stránky, hlavně facebook, google, reddit, whatsapp ℹ️  #250831 #aaaaaaa #00000 #CORE1000 251122
 
 
 
