@@ -1,4 +1,8 @@
+
 {
+
+	// todo  copy to  C:\\Users\\marti\\AppData\\Roaming\\Code\\User\\snippets\\markdown.json
+
 	// Place your snippets for markdown here. Each snippet is defined under a snippet name and has a prefix, body and
 	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
 	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the
@@ -13,25 +17,22 @@
 	// 	"description": "Log output to console"
 	// }
 
-// todo  copy to  C:\\Users\\marti\\AppData\\Roaming\\Code\\User\\snippets\\markdown.json
-
-
-{
-  "TODO": {
-    "prefix": "todo",
-    "body": [
-      "#TODO $1"
-    ],
-    "description": "Insert a TODO comment with a hashtag"
-  },
-  "AAA": {
-    "prefix": "aaa",
-    "body": [
-      "#aaa $1"
-    ],
-    "description": "Insert an AAA comment with a hashtag"
-  }
-}
+	{
+	"TODO": {
+		"prefix": "todo",
+		"body": [
+		"#TODO $1"
+		],
+		"description": "Insert a TODO comment with a hashtag"
+	},
+	"AAA": {
+		"prefix": "aaa",
+		"body": [
+		"#aaa $1"
+		],
+		"description": "Insert an AAA comment with a hashtag"
+	}
+	}
 
 
 
