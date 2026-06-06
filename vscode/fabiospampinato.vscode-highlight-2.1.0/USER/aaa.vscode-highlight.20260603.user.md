@@ -227,5 +227,12 @@ file:///C:\Users\marti\AppData\Roaming\Code\User\settings.json
 ...springgreen|tan|teal|thistle|turquoise|violet|wheat|white|whitesmoke|yellow|yellowgreen)(?!\\w)":    // #aaa
 
 
+turquoise path:settings.json  highlight
+
+
+
+
+
+
 
 #TODO #test #highlight #regexes #settings  aaa  #aaa 

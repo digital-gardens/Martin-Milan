@@ -405,6 +405,18 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 # plotter test 
 
 
+
+# https://nakup.itesco.cz/shop/cs-CZ/products/100126617
+Tontarelli #yyyy.Skládací přepravka 32 L - Tesco Groceries
+Tesco nabízí různé možnosti pro doručení a vyzvednutí nákupů. Můžete si vybrat způsob doručení, který vám nejlépe vyhovuje, a nákup můžete převzít v #yyy papírových taškách nebo bez tašek. Pokud chcete nákup převzít #nnnn.bez tašek, Tesco vám objedná v přepravkách a poskytne vám dostatek času na její převzetí. Pro více informací navštivte oficiální stránky Tesco. 
+
+https://nakup.itesco.cz/shop/cs-CZ/orders/2521-8155-66
+Objednávka čeká na zpracování
+
+https://www.itesco.cz/account/dashboard/cs-CZ?_gl=1*jlhg9y*_gcl_au*NjExOTgzNjQwLjE3ODA3MzQ5MzYuMTkyNTAzODkxOS4xNzgwNzQwMjIwLjE3ODA3NDA3MDE.*FPAU*NjExOTgzNjQwLjE3ODA3MzQ5MzY.*_ga*MTI0MTkwMzYxOS4xNzY3MjAyMDA3*_ga_H66GZMZXKX*czE3ODA3NTg1MjgkbzgkZzEkdDE3ODA3NTg2MzQkajYwJGwwJGgxNjY1NzYwODU5*_fplc*czIwYk1jZDAlMkJzU29DNEdsTmMyaDRPU2dUeFNvVnpFRnFGdGJvTEJzbzBMb0hZSkt3STJaVkdoZ3hnQXoyNVFSV2c1MUFjZXFWTUFxU2k3OG0yUSUyQlNzOWpLbnZLSnUwNlZhUFhQcVlLNzI1Sk5ETHJEVlA3TDNXQnclMkJISWVBJTNEJTNE
+sledovat objednávku
+
+
 # "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\fabiospampinato.vscode-highlight-2.1.0\USER\aaa.vscode-highlight.20260603.user.md"
 
 # 20260603---robocopy-or-junction---code..user---into-onedrive
