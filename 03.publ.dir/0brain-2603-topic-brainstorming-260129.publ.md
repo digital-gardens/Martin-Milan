@@ -491,19 +491,24 @@ Martin Milan: [ an uncle, a transhumanist, a victim of antidepressants, worried 
 
 
 
+
+
+
 # 260314  tree  
 [[260314-text-formats-with-short-lines--tree.publ.md]]
 
-
 …Enter/Return) are always respected whereas traditional Markdown would ignore single line breaks unless the line ended …
 
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\category-theory-20260525\category-theory-20260525-607-brainst.md
+[[category-theory-20260525-607-brainst.md]]
 # 20260525 tree homomorphisms  in computing practice
-
-
 
 # 20260525 examples of morphisms (category theory) outside of math and computing? ... in AI? linguistics? human cognition? physics? social systems?? economics?? ...... vague morphisms??
 
 [[20260525-morphisms--vague.md]]
+
+
 
 # "Across the Universe" by The Beatles
 "Come Together" by The Beatles

@@ -46,6 +46,27 @@ An example piece of legalese, converted to Tree Notation
 
 
 
+
+
+
+
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\category-theory-20260525\category-theory-20260525-607-brainst.md
+[[category-theory-20260525-607-brainst.md]]
+# 20260525 tree homomorphisms  in computing practice
+# 20260525 examples of morphisms (category theory) outside of math and computing? ... in AI? linguistics? human cognition? physics? social systems?? economics?? ...... vague morphisms??
+
+
+
+
+
+
+
+
+
+
+
+
 # 20260607
 
 what could be official names of the following data format, data model

@@ -1,3 +1,4 @@
+exit
 
 cd "C:\Users\marti\OneDrive\Dokumenty\00-MM\powershell-category-theory-20260525"
 
