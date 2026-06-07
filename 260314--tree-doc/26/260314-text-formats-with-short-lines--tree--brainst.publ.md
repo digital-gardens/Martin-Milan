@@ -48,8 +48,9 @@ An example piece of legalese, converted to Tree Notation
 
 # 20260607
 
-what could be official names of the following format, data model
-... nested lists with heads ...
+what could be official names of the following data format, data model
+
+... nested lists **with heads** ...
 
 like in 
 
@@ -58,9 +59,48 @@ like in
   - head 1.1
     - head 1.1.1
   - head 1.2
+  - ...
+
+```
+
+// but without the bullet points,
+// just indents, 
+
+```
+head 1
+  head 1.1
+    head 1.1.1
+  head 1.2
   ...
 
 ```
+
+##### // YAML lists are different
+in my format,
+lists have heads,
+the heads are not necessarily unique,
+// and list items are ordered //// of course
+
+
+Because your “heads” are not unique, they are labels, not keys.
+
+Your format is closest to what outliners (WorkFlowy, OmniOutliner, Bike) use internally, often called just outline format
+
+
+
+hsadasd
+a
+######- d
+######-a
+
+###### Indented outline / plain text outline — the common document/software tradition name
+
+
+###### Nested List: This is the literal technical term used in both HTML and Markdown documentation.
+
+
+
+🎶 unRelated song: "Norwegian Wood" by The Beatles.
 
 
 

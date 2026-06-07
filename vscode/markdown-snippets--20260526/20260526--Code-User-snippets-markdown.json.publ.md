@@ -1,6 +1,11 @@
 Code-User-snippets-markdown.json.publ.md  
 
 
+code   C:\Users\marti\AppData\Roaming\Code\User\snippets\markdown.json  
+
+
+
+
 C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1
 
 
@@ -12,13 +17,10 @@ C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-
 
 
 
-nnnnn
 zzzzz
 
-nnnnn
 zz  C:sersartippDataoamingodesernippetsarkdown.json  zzz
 
-nnnnn
 zz  C:\Users\marti\AppData\Roaming\Code\User\snippets\markdown.json  zzz
 zz  C:\Users\marti\AppData\Roaming\
 
