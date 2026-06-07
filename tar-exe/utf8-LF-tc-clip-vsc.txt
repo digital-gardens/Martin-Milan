@@ -7,6 +7,7 @@ radeji-pripsal-dva-minusy-do-mymyrsy-dot-sh
 secu----------------------
 C:\Users\Public\Documents\RSIGuard\MiscSettings.ini
 C:\Users\marti\.wslconfig
+C:\Users\marti\AppData\Roaming\Code\User\snippets\markdown.json
 c:\Users\marti\AppData\Roaming\Code\User\settings.json
 c:\Users\marti\AppData\Roaming\Code\User\keybindings.json
 C:\Users\marti\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json
