@@ -13588,3 +13588,4 @@ mkdir markdown-snippets-20260526-604
 code markdown-snippets-20260526-604/markdown-snippets-20260526-604.md
 code C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\markdown-snippets-20260526-604\markdown.json
 code C:\Users\marti\AppData\Roaming\Code\User\settings.json
+code   C:\Users\marti\AppData\Roaming\Code\User\snippets\markdown.json
