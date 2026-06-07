@@ -46,6 +46,22 @@ An example piece of legalese, converted to Tree Notation
 
 
 
+# 20260607
+
+what could be official names of the following format, data model
+... nested lists with heads ...
+
+like in 
+
+```markdown
+- head 1
+  - head 1.1
+    - head 1.1.1
+  - head 1.2
+  ...
+
+```
+
 
 
 # 20260530 
