@@ -1082,6 +1082,69 @@ AutoHotkey-clipboard-falsealarm-250421.f8.md
 
 
 
+# 20260609 hotstrings
+https://www.autohotkey.com/docs/v2/Hotstrings.htm
+In the above example, the abbreviation btw will be automatically replaced with "by the way" whenever you type it (however, by default you must type an ending character after typing btw, such as Space, ., or Enter).
+
+O: Omit the ending character of auto-replace hotstrings when the replacement is produced. This is useful when you want a hotstring to be kept unambiguous by still requiring an ending character, but don't actually want the ending character to be shown on the screen. For example, if :o:ar::aristocrat is a hotstring, typing "ar" followed by the spacebar will produce "aristocrat" with no trailing space, which allows you to make the word plural or possessive without having to press Backspace. Use O0 (the letter O followed by a zero) to turn this option back off.
+
+
+
+
+
+Known limitation: On some systems in Java applications, hotstrings might interfere with the user's ability to type diacritical letters (via dead keys). To work around this, Suspend can be turned on temporarily (which disables all hotstrings).
+
+
+#HotIf WinActive("ahk_class Notepad")
+::btw::This replacement text will appear only in Notepad.
+#HotIf
+::btw::This replacement text appears in windows other than Notepad.
+
+
+
+
+to gemini
+
+in autohotkey.ahk v2
+
+i would like to have a hotstring
+hhh
+that expands to
+###### 
+
+
+:X*:hhh::Send("#")
+
+:X*:hhh::Send("###### ")
+
+::hhh::######
+
+
+and i would like to have a hotstring
+zzz
+that expands to
+{home}{space}{home}
+{
+   sadjsfk
+
+
+:X*:zzz::Send("{Home}{Space}{Home}")
+
+
+and i would like to have a hotstring
+qqq
+that expands to
+"
+
+:X*:qqq::Send('"')
+
+
+and i would like to have a hotstring
+ccc
+that expands to
+:
+
+:X*:ccc::Send(":")
 
 
 
