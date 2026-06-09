@@ -13595,3 +13595,4 @@ kill -Name explorer
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
 code C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
 code C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"

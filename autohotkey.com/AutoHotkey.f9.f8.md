@@ -9,6 +9,7 @@ píseň Tumša nakte 🎵 Nu, Dieviņ(i): Nyní, Bože / Božíčku tava vaļa: 
 
 f9
 
+Test
 f8
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
 
@@ -1082,7 +1083,7 @@ AutoHotkey-clipboard-falsealarm-250421.f8.md
 
 
 
-# 20260609 hotstrings
+# 20260609.1221 hotstrings
 https://www.autohotkey.com/docs/v2/Hotstrings.htm
 In the above example, the abbreviation btw will be automatically replaced with "by the way" whenever you type it (however, by default you must type an ending character after typing btw, such as Space, ., or Enter).
 
@@ -1092,16 +1093,16 @@ O: Omit the ending character of auto-replace hotstrings when the replacement is 
 
 
 
-Known limitation: On some systems in Java applications, hotstrings might interfere with the user's ability to type diacritical letters (via dead keys). To work around this, Suspend can be turned on temporarily (which disables all hotstrings).
+#nnnn Known limitation: On some systems in Java applications, hotstrings might interfere with the user's ability to type diacritical letters (via dead keys). To work around this, Suspend can be turned on temporarily (which disables all hotstrings).
+#yyyy HOPE THEY ARE not interfering with my czech keyboard layout ...
+       DEAD KEYS ďť ok ,  ňžzzzz ...then space helps ... subsequent zz zz zz are ok 
 
+#yyyy AND MY STICKY KEYS .... OK
 
 #HotIf WinActive("ahk_class Notepad")
 ::btw::This replacement text will appear only in Notepad.
 #HotIf
 ::btw::This replacement text appears in windows other than Notepad.
-
-
-
 
 to gemini
 
@@ -1113,7 +1114,20 @@ that expands to
 ###### 
 
 
+```
 :X*:hhh::Send("#")
+```
+#bug this sends the win key instead of the # key .... 
+
+:X*:hhh::Send("`#aaa")
+
+not better
+
+
+:X*:hhh::Send("{#}") 
+; #yyy 
+
+#testhhhh # # # aazzzzz
 
 :X*:hhh::Send("###### ")
 
@@ -1128,6 +1142,41 @@ that expands to
    sadjsfk
 
 
+
+dfdfsdg
+
+---------------------------
+AutoHotkey.f5.v1.ahk
+---------------------------
+An older instance of this script is already running.  Replace it with this instance?
+Note: To avoid this message, see #SingleInstance in the help file.
+---------------------------
+Yes   No   
+---------------------------
+
+---------------------------
+AutoHotkey.ahk
+---------------------------
+ An older instance of this script is already running.  Replace it with this instance?
+ Note: To avoid this message, see #SingleInstance in the help file.
+---------------------------
+Yes   No   
+---------------------------
+
+    aahhhh 
+
+TEST  
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+Test
+f8
+; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
+
+;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
+;test :   ^win+space
+; f8 works ....
+
+
+             ; sdfisdfskjfdsfkj zz zz zz 
 :X*:zzz::Send("{Home}{Space}{Home}")
 
 
