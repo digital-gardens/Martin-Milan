@@ -1,32 +1,40 @@
+píseň Tumša nakte 🎵 Nu, Dieviņ(i): Nyní, Bože / Božíčku tava vaļa: tvoje vůle / tvá moc nu tavāi rociņā(i): nyní ve tvých rukou ...Celkově to znamená: "Nyní je to, Božíčku, tvoje vůle, nyní je to ve tvých rukou..
+
+# links  
+
+f9
+
+f8
+; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
 
 
+; code C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
 
-;;;# 260313 testing ^x ^c ^v ins  C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
+
+code C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+code C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
+file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
+
+; C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
+
+code C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\autohotkey--install.f8.md
+
+file:///c:\users\marti\OneDrive\autohotkey-ahk-219\experim-250505.f5.ahk
+moved
+
+# ;;;# 260313 testing ^x ^c ^v ins  C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
 260313
 260210
 
-téma 00111-music pro lepsi dychani 🎵 🎵
-zpěvník Já písnička, music, singing
 
-píseň Tumša nakte 🎵 Nu, Dieviņ(i): Nyní, Bože / Božíčku tava vaļa: tvoje vůle / tvá moc nu tavāi rociņā(i): nyní ve tvých rukou ...Celkově to znamená: "Nyní je to, Božíčku, tvoje vůle, nyní je to ve tvých rukou..
+# téma 00111-music pro lepsi dychani 🎵 🎵
+zpěvník Já písnička, music, singing
 
 00 písnička málo související ... Tvůj tajný sen, tu touhu já znám
 00 písnička málo související ... žít svůj sen
 
 260306-co-person coMM iMM
-
-
-
 260210
-
-
-
-
-
-todo split to 
-C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\autohotkey--install.f8.md
-
-
 
 
 - [Send, ^c](#send-c)
@@ -61,31 +69,8 @@ which ones of the following are correct ?
 
 	Send, ^c
 
-# links  
-
-C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\autohotkey--install.f8.md
-
-
-file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
-C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
-
-file:///c:\users\marti\OneDrive\autohotkey-ahk-219\experim-250505.f5.ahk
-moved
-
-
 
 #  notes about debugging !!!
-
-
-
-; C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
-
-; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
-
-; code C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
-
-
-
 
 systray icon
 right click
@@ -95,19 +80,13 @@ open
 
 https://www.autohotkey.com/docs/v1/Scripts.htm#debug
 
-
 fail 
 google:  autohotkey debugging tips for a beginner
-
-
 
 gh copilot
 https://www.autohotkey.com/docs/v1/Program.htm#run
 https://www.autohotkey.com/docs/v1/Scripts.htm#cmd
 https://www.autohotkey.com/docs/v1/Commands.htm#Run
-
-
-
 
 
 # version
@@ -154,7 +133,7 @@ A:
 
 
 
-
+# todo split to C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\autohotkey--install.f8.md
 
 # trying zip user inst  version1 without update
 respnt
@@ -368,11 +347,11 @@ A4  038	 	u	0.00	LAlt
 
 ; Exit the script with Escape
 Esc::exitapp
-; Press Ctrl+Alt+R to reload the script
+; aaa Press Ctrl+Alt+R to reload the script
 ^!r::Reload
 
 
-; Press Ctrl+Alt+A to toggle the script on and off
+; aaa Press Ctrl+Alt+A to toggle the script on and off
 ^!a::Suspend
 
 
@@ -551,6 +530,19 @@ exampleString1=
   MsgBox % ">" exampleString1 "<" 
 and also look at the various options join, ltrim etc.
 
+
+
+
+
+
+
+
+
+
+
+
+
+todo mk file f9
 
 # backup
 C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh

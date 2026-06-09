@@ -13592,3 +13592,4 @@ code   C:\Users\marti\AppData\Roaming\Code\User\snippets\markdown.json
 kill -Name Obsidian
 kill -Name Obsidian
 kill -Name explorer
+; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
