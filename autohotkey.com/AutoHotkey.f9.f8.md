@@ -3,6 +3,7 @@ code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
 code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\f9.files.f8.AutoHotkey.f9.md
 
 
+
 píseň Tumša nakte 🎵 Nu, Dieviņ(i): Nyní, Bože / Božíčku tava vaļa: tvoje vůle / tvá moc nu tavāi rociņā(i): nyní ve tvých rukou ...Celkově to znamená: "Nyní je to, Božíčku, tvoje vůle, nyní je to ve tvých rukou..
 
 # links  
