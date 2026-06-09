@@ -35,7 +35,7 @@ In Karpathy’s vision, every time you add a new source — an article, a paper,
 
 Karpathy described using Obsidian — a free, local-first note-taking application — as the interface for browsing this wiki in real time, while an LLM agent wrote and maintained the files. “Obsidian is the IDE,” he wrote. “The LLM is the programmer. The wiki is the codebase.”
 
-When I read that, something clicked. The architecture was beautiful. The philosophy was correct. But the implementation — using an LLM agent in a terminal, managing files manually — required a level of technical comfort that most people simply do not have. And even for someone technical, the friction of doing this at scale, across dozens of domains and hundreds of documents, was enormous.
+- #aaa When I read that, something clicked. The architecture was beautiful. The philosophy was correct. But the implementation — using an LLM agent in a terminal, managing files manually — required a level of technical comfort that most people simply do not have. And even for someone technical, the friction of doing this at scale, across dozens of domains and hundreds of documents, was enormous.
 
 That gap is where The Curator was born. The core idea belongs to Andrej Karpathy, and I am genuinely grateful for it. What I built was a way to make that idea accessible, automated, and scalable — for anyone.
 

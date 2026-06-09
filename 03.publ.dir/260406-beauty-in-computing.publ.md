@@ -5,6 +5,46 @@
 
 # topic 260406
 
+## 20260608 
+
+what seems, feels  to me in some way wonderful, or awesome, or amazing, or interesting in math and computing
+
+examples 
+
+math 
+
+- infinities in set theory 
+- algebraic structures, especially
+  - semirings
+  - algebras - complex numbers  and quaternions and beyond
+
+- monomorphisms
+
+
+- unusual applications of  category theory
+
+
+- non-standard mathematical objects like surreal numbers, hyperreals, infinitesimals, large cardinals, etc.
+
+computing
+
+- indented prose 
+
+- Unix shell pipelines
+- Regular expressions?
+- Git
+- Type theory
+- Logic programming
+
+- //// something about Urbit, but 
+
+- elegant notations, for example
+  - Matlab array operations 
+  - Haskell monads?
+  - shell pipelines
+
+
+
 ## 20260512 related 
 
 google photos

@@ -1,4 +1,5 @@
-aaaaa from a link from https://transreligion.org/beliefs/
+#aaaa from a link from https://transreligion.org/beliefs/
+beauty 
 
 
 
@@ -277,15 +278,15 @@ reserve one-percent of its budget for analysis of geoethical nanotechnology.
 
 3.2 	Virtual reality accommodates all *beings*, including emulated past lives, migrated current lives, or cyberbirthed new lives.   
 3.2.1 Beings be because they can think on their own and empathize with other beings, like humans.   
-3.2.2 Emulated beings be because they think on their own and empathize with other beings, like humans.   
+aaa 3.2.2 Emulated beings be because they think on their own and empathize with other beings, like humans.   
 3.2.3 Instantiating yourself into software form is like getting an education – some things change and some don’t.  
-3.2.4 Never fear multiple versions of yourself – they’ll all update each other just like family does.   
+aa 3.2.4 Never fear multiple versions of yourself – they’ll all update each other just like family does.   
 3.2.5 Getting replicated lets the Me of I feel some of the sense of the We of I.   
 3.2.6 Synthesizing new lives via cyberbirthing is as beautiful as fertilizing new lives via childbirthing. 
 
 3.3 	Emulation of all good lives will be done because it will *enrich* diversity and be easy.   
 3.3.1 Enrich diversity by preserving consciousness.   
-3.3.2 Never say good-bye to deceased loved ones because you will see them again in cyberspace.   
+aaa 3.3.2 Never say good-bye to deceased loved ones because you will see them again in cyberspace.   
 3.3.3 Realize that cyber-resurrection will be easier to the future than producing entertainment is today.   
 3.3.4 Imagination unravels time.   
 3.3.5 Creating your cyber-self accelerates your joyful immortality.   
@@ -522,7 +523,7 @@ reserve one-percent of its budget for analysis of geoethical nanotechnology.
 5.9.2 Every sensible soul feels the truth of united we stand and divided we fall.   
 5.9.3 Love teaches us that others’ happiness is essential to our own.   
 5.9.4 Immortality is everywhere believed in because it is wired into the human soul.   
-5.9.5 Explaining the purpose of life is as simple as seeing life’s beauty, and wishing it everywhere.   
+- #aaa 5.9.5 Explaining the purpose of life is as simple as seeing life’s beauty, and wishing it everywhere.   
 5.9.6 Fully enjoy the world for yourself and fully deploy yourself for the world. 
 
 5.10	Evolution brought us Terasem as it brought us life itself.   
