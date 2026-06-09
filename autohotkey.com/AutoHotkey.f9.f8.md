@@ -1,3 +1,8 @@
+exit
+code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
+code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\f9.files.f8.AutoHotkey.f9.md
+
+
 píseň Tumša nakte 🎵 Nu, Dieviņ(i): Nyní, Bože / Božíčku tava vaļa: tvoje vůle / tvá moc nu tavāi rociņā(i): nyní ve tvých rukou ...Celkově to znamená: "Nyní je to, Božíčku, tvoje vůle, nyní je to ve tvých rukou..
 
 # links  
@@ -542,49 +547,16 @@ and also look at the various options join, ltrim etc.
 
 
 
-todo mk file f9
 
 # backup
 C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
 
-# f9
-//  old.was.f12.old
-
-#{q}    AutoHotkey
-;;;;#{q}    AutoHotkey{Enter}
-;;;;;;;#{q}    AutoHotkey{Enter}{Enter}
-#{q}    RSIguard
-{Enter}
-;;;#{q}    RSIguard{Enter}
-#q    edge
 
 
-# bug 250513
-
-#{q}    AutoHotkey
-
-;;;;{lwin}q         AutoHotkey
-;;;;;;;;;;;;;;;{win}q     AutoHotkey
-q     AutoHotkey
-;;;;;;;;;;;;;{winl}q     AutoHotkey
-q     AutoHotkey
-
-;;;;;;{alt}{tab}aaaaaaaaaaaaa{enter}
-;;;;;;{lalt}{tab}aaaaaaaaaaaaa{enter}
-;;;;;;{Alt}{Tab}aaaaaaaaaaaaa{enter}
-	aaaaaaaaaaaaa
-!{tab}aaaaaaaaaaaaa{enter}
-
-Control Panel\Hardware and Sound\Power Options\Edit Plan Settings
-
-zamackly shift ... press shift once more
-aaaaaaaaaaaaa
 
 
-;;;;;;;;;;;;^{shift}p
-p
-+^p
-+^p{
+
+
 
 
 # 515
@@ -612,15 +584,12 @@ suspend hotkeys
 
 
 
-#q         Settings
-set 
-night light
 
 
 
-#q              Edit power plan
 
-Add-Type -AssemblyName System.Windows.Forms
+
+# Add-Type -AssemblyName System.Windows.Forms
 [System.Windows.Forms.SendKeys]::SendWait('%{TAB}')
 ###[System.Windows.Forms.SendKeys]::SendWait('{ALT}{TAB}')
 
@@ -842,7 +811,12 @@ C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
 file:///C:\Users\marti\OneDrive\00\Clippings\The Command Line API for Fun and Profit.md
  file:///C:\Users\marti\OneDrive\00\Clippings\The Command Line API for Fun and Profit - Obsidian Publish.md
 
- file:///C:\Users\marti\OneDrive\powershell-f8\stackoverflow-676714165--powershell-stripping-double-quotes-from-command-line-arguments.f8.ps1
+
+
+
+
+- #aaaa file:///C:\Users\marti\OneDrive\powershell-f8\stackoverflow-676714165--powershell-stripping-double-quotes-from-command-line-arguments.f8.ps1
+
 
 
  file:///C:\Users\marti\OneDrive\snippets-227\f1-command-palette.mmon1
@@ -871,30 +845,12 @@ javascript.js.f8.md.md1
 
 
 
-#  f9 ; secu?  after the macro,  i have to additionally press f1 and enter to get it working
-
-+^p    open keyboard
-+^p    open url
-+^p    toggle terminal
-^{`}
-
-+^p    toggle terminal{
-+^p    toggle terminal#
-+^p    toggle terminal{aaaa
-
-; old failed attempts
-
-+^p    toggle terminal`
-+^p    toggle terminal%
-
-+^p    toggle terminal{Enter}
 
 
 
 
 
-aaaaA   f8
-C:\Users\marti\OneDrive\autohotkey-ahk-219\experim-250505.f5.ahk
+aaaaA   f8   C:\Users\marti\OneDrive\autohotkey-ahk-219\experim-250505.f5.ahk
 
 file:///C:\Users\marti\OneDrive\edge-f12-devtools-override\snippet%3A\myScript-snippet1.f5.f8.js
 
@@ -910,7 +866,7 @@ AutoHotkey.exe [Switches] [Script Filename] [Script Parameters]
 # https://www.autohotkey.com/docs/v1/Scripts.htm#debug
 Commands such as ListVars and Pause can help you debug a script. For example, the following two lines, when temporarily inserted at carefully chosen positions, create "break points" in the script:
 
-The following commands are also useful for debugging: ListLines, KeyHistory, and OutputDebug.
+aaaa The following commands are also useful for debugging: ListLines, KeyHistory, and OutputDebug.
 
 Some common errors, such as typos and missing "global" declarations, can be detected by enabling warnings.
 
@@ -964,7 +920,7 @@ echo MsgBox test successful |  D:\instu\AutoHotkey_1.1.37.02\AutoHotkeyU64.exe /
 echo MsgBox test successful |  D:\instu\AutoHotkey_1.1.37.02\AutoHotkeyU64.exe  *
 echo MsgBox test successful |  D:\instu\AutoHotkey_1.1.37.02\AutoHotkeyA32.exe  *
 
-# BOM???
+# aaaaa #bug  BOM???
 {echo MsgBox a ; echo MsgBox b} | C:\pf\AutoHotkey\AutoHotkey.exe  *
 
 cmd
@@ -1142,3 +1098,4 @@ AutoHotkey-clipboard-falsealarm-250421.f8.md
 ; i have a keyboard with a failing key "Esc"
 
 $F1::Send {Esc}
+
