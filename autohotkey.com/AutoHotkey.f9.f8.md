@@ -1135,6 +1135,7 @@ not better
 ::hhh::######
 
 
+
 and i would like to have a hotstring
 zzz
 that expands to
@@ -1145,6 +1146,19 @@ that expands to
 
 
 dfdfsdg
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---------------------------
 AutoHotkey.f5.v1.ahk
@@ -1168,6 +1182,8 @@ Yes   No
 
 TEST  
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 Test
 f8
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
@@ -1181,6 +1197,7 @@ f8
 :X*:zzz::Send("{Home}{Space}{Home}")
 
 
+#TODO
 and i would like to have a hotstring
 qqq
 that expands to
@@ -1188,6 +1205,7 @@ that expands to
 
 :X*:qqq::Send('"')
 
+what about {"}
 
 and i would like to have a hotstring
 ccc
@@ -1195,7 +1213,7 @@ that expands to
 :
 
 :X*:ccc::Send(":")
-
+what about {:}
 
 
 
