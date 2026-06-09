@@ -1,0 +1,72 @@
+
+replace
+:
+:
+
+replace
+\n
+,
+
+https://onlineyamltools.com/convert-yaml-to-json
+
+[a: b , a: d]
+
+[
+  {
+    "a": "b"
+  },
+  {
+    "a": "d"
+  }
+]
+
+
+
+a: SendIntent,     Action: android.intent.action.VIEW,     Cat: None,     Data: obsidian://new?vault=My\%20Vault&file=aFolder\%2FNote.md&append=true&silent=true&content=%url,     Target: Activity,
+[
+a: SendIntent,     Action: android.intent.action.VIEW,     Cat: None,     Data: obsidian://new?vault=My\%20Vault&file=aFolder\%2FNote.md&append=true&silent=true&content=%url,     Target: Activity,
+]
+
+{a: SendIntent,     Action: android.intent.action.VIEW,     Cat: None,     Data: obsidian://new?vault=My\%20Vault&file=aFolder\%2FNote.md&append=true&silent=true&content=%url,     Target: Activity,   }
+
+
+-
+    ##q: a: w:
+    a: SendIntent
+    Action: android.intent.action.VIEW
+    Cat: None
+    Data: obsidian://new?vault=My\%20Vault&file=aFolder\%2FNote.md&append=true&silent=true&content=%url
+    Target: Activity
+
+
+
+
+---
+
+
+https: //forum.obsidian.md/t/how-to-use-obsidian-uri-s-without-opening-the-app/70245
+
+Here’s my tasker test task:
+
+
+
+A1:  Variable Set [
+         Name:  %new_val
+         To:
+         - [ ] My test text to append
+         Structure Output (JSON, etc):  On ]
+
+    A2:  Variable Convert [
+         Name:  %new_val
+         Function:  URL Encode
+         Store Result In:  %url
+         Mode:  Default ]
+
+    A4:  Variable Search Replace [
+         Variable:  %url
+         Search:  \+
+         Multi-Line:  On
+         Replace Matches:  On
+         Replace With:  %20 ]
+
+#A5: SendIntent

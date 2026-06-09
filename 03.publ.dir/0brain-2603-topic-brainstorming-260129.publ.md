@@ -406,6 +406,8 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 
 
+
+
 # https://nakup.itesco.cz/shop/cs-CZ/products/100126617
 Tontarelli #yyyy.Skládací přepravka 32 L - Tesco Groceries
 Tesco nabízí různé možnosti pro doručení a vyzvednutí nákupů. Můžete si vybrat způsob doručení, který vám nejlépe vyhovuje, a nákup můžete převzít v #yyy papírových taškách nebo bez tašek. Pokud chcete nákup převzít #nnnn.bez tašek, Tesco vám objedná v přepravkách a poskytne vám dostatek času na její převzetí. Pro více informací navštivte oficiální stránky Tesco. 
