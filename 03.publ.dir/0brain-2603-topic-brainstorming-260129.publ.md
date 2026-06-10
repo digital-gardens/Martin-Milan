@@ -266,6 +266,15 @@ file:500
 
 
 
+
+Partial clone is a git feature allowing a local repository to contain only a subset of a remote repository's trees and blobs, fetching missing objects lazily. Sparse checkout is a separate git feature allowing a working tree to contain only a subset of the files tracked by the repository.
+
+
+
+
+
+
+
 # topic 260406 beauty in computing, in math, in math philosophy
 ## 20260512 related 
 google photos
