@@ -151,10 +151,12 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 ; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
 ; #TODO
 
-:X*:zzz::Send("{Home}{Space}{Home}")
+;;:X*:zzz::Send("{Home}{Space}{Home}")
+:X*:zz::Send("{Home}{Space}{Home}")
 
 ;;;;;:X*:hhh::Send("`#aaa")
-:X*:hhh::Send("{#}")
+;;:X*:hhh::Send("{#}")
+:X*:hh::Send("{#}")
 
 
 

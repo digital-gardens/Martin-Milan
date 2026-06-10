@@ -1,3 +1,6 @@
+// - #aaa #aaaa ... hashtags mean ... attention, importance, ... 
+[[aaa-aaaa-hashtags.md]]
+
 
 eev-like--ideas--everywhere--brainstorming--20260610.md
 
