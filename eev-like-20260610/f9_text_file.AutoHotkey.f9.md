@@ -8,10 +8,12 @@ the  send-keys function sends the keystrokes to windows, as if the user had type
 
 // for safety, only the current line, not selected lines 
 
-// for safety, only the first 255 characters of the line are copied to the clipboard, to avoid accidentally sending a huge amount of keystrokes to  windows, if the line is very long
+// for safety, only the first 255 characters of the line are copied to the clipboard, ////to avoid accidentally sending a huge amount of keystrokes to  windows, if the line is very long
 
 // my macro calls the Send function of AutoHotkey
+// therefore, the notation that i use, is of the AutoHotkey's Send function, which means that special characters like {Enter}, {Tab}, etc. can be used in the line to send those keystrokes
 
+btw
 as of 20260610, my f9 macro  is
 
 ```
@@ -50,7 +52,7 @@ $F9::
 
 
 # links
-code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
+// not very important now ... code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
 
 
 # i made my f9 meta macro
@@ -67,30 +69,32 @@ is a macro that is used to run other macros.
 #TEST
 
 try press f9
-// the ";" lines mean commented-out code
+// the ";" lines mean commented-out code ... they don't work, but they are there as reminders of what i have tried, or what i want to debug in the future
 
 #{q}    AutoHotkey
-;^#{space}
-;^#{ }
+#{q}    RSIguard
+
+;;^#{space}
+;;^#{ }
 
 
 
 #TEST
 
+// the ";;;..." lines mean *very* commented-out code ... they *totally* don't work
+
 
 ;;;;#{q}    AutoHotkey{Enter}
 ;;;;;;;#{q}    AutoHotkey{Enter}{Enter}
+;;;;#{q}    RSIguard{Enter}
 
-#{q}    RSIguard
-;;;;;{Enter}
-;;;#{q}    RSIguard{Enter}
 
 #q    edge
 #q              Edit power plan
 
 #q         Settings
-set 
-night light
+;set 
+;night light
 
 
 !{tab}        aaaaaaaaaaaaa{enter}
@@ -98,27 +102,31 @@ night light
 
 
 
-  #BUG multiline f9 fails
+;  #BUG multiline f9 fails
 
 
-#bug   f1 ^a  overwrites ... {f1}insteda of f1 is needed ....  STORM COMING ...TODO
-find in files ^a  ^{a}  ok
-;;;#BUG f1, danger ^a  ... f1    ^{a}utf8{
+;;;;;;#bug   f1 ^a  overwrites ... btw, {f1} instead of f1 is needed .... a STORM COMING ...TODO write
+;find in files ^a  ^{a}  ok
+;;;;;;#BUG f1, danger ^a  ... f1    ^{a}utf8{
 
-BUG f1 
+
+;BUG f1 
 ;;;;   {backspace}{backspace}
- bug f1    
 {f1}{
 {f1}{backspace}{backspace}{backspace}{backspace}{
-}
+
 
 ;;;;;;;;;;;;^{shift}p
-p
 ;;;+^p
 +^p{
 
-#  f9 ; secu?  after the macro,  i have to additionally press f1 and enter to get it working
 
+// old? ... vscode security? safety?  workaround..  after the macro,  i had to additionally press f1 and enter to get it working 
+
+; now works
++^p    open keyboard{
+
+;?
 +^p    open keyboard
 +^p    open url
 +^p    toggle terminal
