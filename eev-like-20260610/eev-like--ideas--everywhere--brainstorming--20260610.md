@@ -48,3 +48,14 @@ not just in Emacs
   - file explorers
   - OS launchers, start menu, taskbar, command palette, ...??
   - ...?
+
+
+todo mk a file
+in the same dir as this file
+help link folders 20260610.md
+chrome bookmarks
+💗 011-POMOC
+💚 011 napoveda muze bytℹ️
+ordered collections 
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\11LAN00\Jirka\JBdocu00\011 POMOC napoveda aaaa.publ.dir\011 napoveda bude\desktop.ini"
+
