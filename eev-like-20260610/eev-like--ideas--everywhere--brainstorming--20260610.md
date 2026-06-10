@@ -12,10 +12,12 @@
 - "buttons" ... lines of code that can be run by pressing a key, e.g. F9, F8, ... (or by clicking on them in a GUI, but for now let's focus on the keyboard)
   - only the **current line** is meant to be run, not the whole file
     - compare ... Jupyter notebooks, where you can run individual cells,  not necessarily the whole notebook at once 
-  - elisp ... the internal language of the Emacs editor
-  - shell and any repl
+  - for shell and any repl
+  - for elisp ... the internal language of the Emacs editor
+
   - for me ... can be used as. reminders how to program 
   - for me .. also reminders what keys to press  #aaa
+
 
 - one, central, my own help file, editable, #aaa 
   - with links to other files
@@ -33,7 +35,7 @@ f9_text_file(s)
 
 not just in Emacs
 
-- other editors
+- in other editors
   - VSCode
   - vscode.dev // in the browser
   - Jupyter notebooks

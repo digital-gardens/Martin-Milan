@@ -5,13 +5,13 @@
 
 # topic 260406
 
-## 20260608 
+# 20260608 
 
 what seems, feels  to me in some way wonderful, or awesome, or amazing, or interesting in math and computing
 
 examples 
 
-math 
+## math 
 
 - infinities in set theory 
 - algebraic structures, especially
@@ -26,7 +26,15 @@ math
 
 - non-standard mathematical objects like surreal numbers, hyperreals, infinitesimals, large cardinals, etc.
 
-computing
+## computing
+
+- eev - buttons, lines of code that can be run by pressing a key, e.g. F9, F8, ... (or by clicking on them in a GUI, but for now let's focus on the keyboard) - only the **current line** is meant to be run, not the whole file
+  - shell and any repl
+  - for me ... can be used as. reminders how to program 
+  - for me .. also reminders what keys to press  #aaa
+
+- editable own help files
+
 
 - indented prose 
 

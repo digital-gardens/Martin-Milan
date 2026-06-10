@@ -55,21 +55,11 @@ $F9::
 // not very important now ... code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
 
 
-# i made my f9 meta macro
+# f9 examples and tests #TEST
 
-my meta macro 
-on the f9 key 
-by autohotkey
-
-is a macro that is used to run other macros.
-
-
-# f9
-
-#TEST
-
-try press f9
 // the ";" lines mean commented-out code ... they don't work, but they are there as reminders of what i have tried, or what i want to debug in the future
+
+// the "//" lines mean comments, explanations, notes, etc. that are not code, but are there to explain the code or the ideas behind it
 
 #{q}    AutoHotkey
 #{q}    RSIguard
@@ -79,14 +69,13 @@ try press f9
 
 
 
-#TEST
 
 // the ";;;..." lines mean *very* commented-out code ... they *totally* don't work
-
 
 ;;;;#{q}    AutoHotkey{Enter}
 ;;;;;;;#{q}    AutoHotkey{Enter}{Enter}
 ;;;;#{q}    RSIguard{Enter}
+
 
 
 #q    edge
@@ -97,21 +86,21 @@ try press f9
 ;night light
 
 
-!{tab}        aaaaaaaaaaaaa{enter}
+!{tab}        qqq{
+;	enter}
 
 
 
 
-;  #BUG multiline f9 fails
+//  #BUG multiline f9 fails
 
 
-;;;;;;#bug   f1 ^a  overwrites ... btw, {f1} instead of f1 is needed .... a STORM COMING ...TODO write
-;find in files ^a  ^{a}  ok
-;;;;;;#BUG f1, danger ^a  ... f1    ^{a}utf8{
+// ;;;;;;#bug   f1 ^a  overwrites ... btw, {f1} instead of f1 is needed .... a STORM COMING ...TODO write
+//;find in files ^a  ^{a}  ok
+//;;;;;;#BUG f1, danger ^a  ... f1    ^{a}utf8{
 
 
-;BUG f1 
-;;;;   {backspace}{backspace}
+//;#BUG f1 {f1}
 {f1}{
 {f1}{backspace}{backspace}{backspace}{backspace}{
 
@@ -126,28 +115,25 @@ try press f9
 ; now works
 +^p    open keyboard{
 
++^p    toggle terminal{
+
 ;?
 +^p    open keyboard
 +^p    open url
 +^p    toggle terminal
-^{`}
+;^{`}
 
-+^p    toggle terminal{
-+^p    toggle terminal#
-+^p    toggle terminal{aaaa
 
-; old failed attempts
-
+//; old failed attempts
 +^p    toggle terminal`
 +^p    toggle terminal%
-
 +^p    toggle terminal{Enter}
 
 
 
 
-
-!{c}p
+// totalcmd
+;!{c}p
 
 
 
@@ -158,19 +144,17 @@ try press f9
 
 # bug 250513
 
-
 ;;;;{lwin}q         AutoHotkey
 ;;;;;;;;;;;;;;;{win}q     AutoHotkey
 q     AutoHotkey
 ;;;;;;;;;;;;;{winl}q     AutoHotkey
 q     AutoHotkey
+;;;;;;{alt}{tab}qqq{enter}
+;;;;;;{lalt}{tab}qqq{enter}
+;;;;;;{Alt}{Tab}qqq{enter}
 
-;;;;;;{alt}{tab}aaaaaaaaaaaaa{enter}
-;;;;;;{lalt}{tab}aaaaaaaaaaaaa{enter}
-;;;;;;{Alt}{Tab}aaaaaaaaaaaaa{enter}
 
+// - #aa Control Panel\Hardware and Sound\Power Options\Edit Plan Settings
 
-- #aaa Control Panel\Hardware and Sound\Power Options\Edit Plan Settings
-
-//  old.... F9 previously was.f12....old
-zamackly shift ... press shift once more aaaaaaaaaaaaa
+///////  old.... F9 previously was f12....old
+//zamackly shift ... press shift once more #aa
