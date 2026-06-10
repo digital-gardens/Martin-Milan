@@ -40,30 +40,16 @@ $F9::
 ```
 
 
- of the f9_text_file, and sends the keystrokes to the active window, as if the user had typed them on the keyboard
-
-
-the keystrokes are sent to the active window, as if the user had typed them on the keyboard
-(selected lines from this file can be run in a terminal ... e.g. by the F8 key, customly bound to runSelectedText  )
-
-# (an f8_text_file is-not meant to be run as a whole)
-)
-exit
-#### the 'exit' is to mitigate, that F5 in *mc* in VSCode runs this file
 
 
 
-echo '-------- section --------'
 
-f8_text_file
 
-# f8_text_file format was formerly called f8_document, mm_f8_doc, f8-notebook ... distantly related are  jupyter notebooks
+
 
 
 
 # links
-code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\f9.files.f8.AutoHotkey.f9.md
-zamackly shift ... press shift once more aaaaaaaaaaaaa
 code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
 
 
@@ -179,3 +165,4 @@ q     AutoHotkey
 - #aaa Control Panel\Hardware and Sound\Power Options\Edit Plan Settings
 
 //  old.... F9 previously was.f12....old
+zamackly shift ... press shift once more aaaaaaaaaaaaa

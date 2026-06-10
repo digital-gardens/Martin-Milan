@@ -6,7 +6,11 @@
 # (an f8_text_file is-not meant to be run as a whole)
 )
 exit
-#### the 'exit' is to mitigate, that F5 in *mc* in VSCode runs this file
+#### the 'exit' is to mitigate, that F5 //e.g. in mc// *in VSCode* runs the whole file
+
+
+
+
 
 
 
