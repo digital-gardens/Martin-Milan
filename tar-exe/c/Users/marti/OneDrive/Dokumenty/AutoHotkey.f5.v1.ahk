@@ -792,9 +792,12 @@ $F9::
 	;Send, {End}
 	Send, {Down}
 	Sleep, 200
-contents := SubStr( Clipboard, 1, 255)  ;   100
-;Send %contents%
-Send %contents%{Enter}
+
+	contents := SubStr( Clipboard, 1, 255)  ;   100
+
+	;Send %contents%
+	Send %contents%{Enter}
+
 	return
 }
 

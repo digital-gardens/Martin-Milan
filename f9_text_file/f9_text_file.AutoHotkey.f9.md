@@ -4,17 +4,18 @@
 
 - when a user presses the F9 key, a meta macro is triggered, that copies only the **current line** to the clipboard, and then calls some send-keys function
 
+the  send-keys function sends the keystrokes to windows, as if the user had typed them on the keyboard
+
 // for safety, only the current line, not selected lines 
 
-// for safety, only the first 255 characters of the line are copied to the clipboard, to avoid accidentally sending a huge amount of text to  windows, if the line is very long
+// for safety, only the first 255 characters of the line are copied to the clipboard, to avoid accidentally sending a huge amount of keystrokes to  windows, if the line is very long
 
 // my macro calls the Send function of AutoHotkey
-, that reads the text from the clipboard, and sends the keystrokes to the active window, as if the user had typed them on the keyboard
 
 as of 20260610, my f9 macro  is
+
 ```
 
-;$F12::
 $F9::
 {
 	Send {Home}+{End}
@@ -27,14 +28,14 @@ $F9::
 	;Send, {End}
 	Send, {Down}
 	Sleep, 200
-contents := SubStr( Clipboard, 1, 255)  ;   100
-;Send %contents%
-Send %contents%{Enter}
+
+  contents := SubStr( Clipboard, 1, 255)  ;   100
+
+  ;Send %contents%
+  Send %contents%{Enter}
+
 	return
 }
-
-
-
 
 ```
 
