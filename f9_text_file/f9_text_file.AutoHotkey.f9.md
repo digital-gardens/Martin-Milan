@@ -1,4 +1,65 @@
+# f9_text_file(s)
+
+- lines with sequences of keystrokes 
+
+- when a user presses the F9 key, a meta macro is triggered, that copies only the **current line** to the clipboard, and then calls some send-keys function
+
+// for safety, only the current line, not selected lines 
+
+// for safety, only the first 255 characters of the line are copied to the clipboard, to avoid accidentally sending a huge amount of text to  windows, if the line is very long
+
+// my macro calls the Send function of AutoHotkey
+, that reads the text from the clipboard, and sends the keystrokes to the active window, as if the user had typed them on the keyboard
+
+as of 20260610, my f9 macro  is
+```
+
+;$F12::
+$F9::
+{
+	Send {Home}+{End}
+	Sleep, 200
+
+	Send, ^c
+	Sleep, 200
+
+	;;Send, {Left}
+	;Send, {End}
+	Send, {Down}
+	Sleep, 200
+contents := SubStr( Clipboard, 1, 255)  ;   100
+;Send %contents%
+Send %contents%{Enter}
+	return
+}
+
+
+
+
+```
+
+
+ of the f9_text_file, and sends the keystrokes to the active window, as if the user had typed them on the keyboard
+
+
+the keystrokes are sent to the active window, as if the user had typed them on the keyboard
+(selected lines from this file can be run in a terminal ... e.g. by the F8 key, customly bound to runSelectedText  )
+
+# (an f8_text_file is-not meant to be run as a whole)
+)
 exit
+#### the 'exit' is to mitigate, that F5 in *mc* in VSCode runs this file
+
+
+
+echo '-------- section --------'
+
+f8_text_file
+
+# f8_text_file format was formerly called f8_document, mm_f8_doc, f8-notebook ... distantly related are  jupyter notebooks
+
+
+
 # links
 code C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\f9.files.f8.AutoHotkey.f9.md
 zamackly shift ... press shift once more aaaaaaaaaaaaa

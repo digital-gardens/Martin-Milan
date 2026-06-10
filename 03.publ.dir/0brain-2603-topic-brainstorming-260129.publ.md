@@ -1025,6 +1025,13 @@ https://freevoiceaac.app/app/
 
 
 
+
+autohotkey.com/f9.files.f8.AutoHotkey.f9.md
+eev-like--ideas--everywhere--20260610
+
+
+
+
 # 260421 
 
 

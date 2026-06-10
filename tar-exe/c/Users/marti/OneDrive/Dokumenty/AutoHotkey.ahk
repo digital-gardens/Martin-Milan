@@ -149,6 +149,7 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 
 ;==============================  20260609.1221  hotstri   ==============================
 ; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
+; #TODO
 
 :X*:zzz::Send("{Home}{Space}{Home}")
 
