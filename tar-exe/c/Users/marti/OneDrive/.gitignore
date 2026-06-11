@@ -1,0 +1,102 @@
+
+# edit..probably a false alarm..  WARNING: this OneDrive/.gitignore is probably an exception in robocopy ... see the end of this file ...
+
+
+
+# problem id 260504.1819 ... WARNING .. a HIGHLY UNUSUAL .gitignore ... makes many files, that are significant, ignored by git
+
+
+
+
+# file:///C:\Users\marti\OneDrive\gitignore-test.f8.sh.ps1
+
+# i have ROUGHLY fixed bug 251127.13  nested .gitignore files in OneDrive Dokumenty folder ... more comments in other files
+
+# counterexamples
+# gitign--visual_conlangs.f8.md - OneDrive - Visual Studio Code 2024-03-14 20-18-29.mp4
+
+
+
+
+# Ignore all files
+*
+# but not directories
+!*/
+
+## But not my publ  files
+#!*.md
+!*.f[0-9].*
+!*.f1[0-9].*
+!*.publ.*
+
+!README.*
+!.gitignore
+
+
+
+# ----------------------------------------
+
+# but but
+# ignore and dont publish
+
+
+# 20260518
+/Pictures/
+#Obr*/
+/Obr*/
+/Vide*/
+/Dokumenty/PowerShell/Help
+/alma-233c/var
+
+
+*.git/
+##*.git/
+#.git/
+
+*.png
+*.mp4
+
+*.zip
+
+#*.xml
+#*.xsd
+
+
+
+
+
+history*.json
+
+
+#OLD*/
+OLD*
+
+# 20260519
+BIG
+BIG*
+
+
+.ipynb_checkpoints/
+overwrite/
+node_modules
+
+#1111/
+1111*
+
+
+*#
+*~
+.#*
+
+
+
+
+# last line wins?
+
+*.r8.*
+*.n8.*
+
+# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
+
+MiscSettings.ini
+

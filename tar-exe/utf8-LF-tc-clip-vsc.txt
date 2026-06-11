@@ -43,6 +43,9 @@ C:\Users\marti\pokus-bkup.txttttttttttttttttttttttttttttt
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 P:\home\user\.local\share\containers\storage\volumes\nslash_home\_data\vscode\sbase.wasm\Makefile
 P:\home\user\.local\share\containers\storage\volumes\nslash_home\_data\vscode\sbase.wasm\config.mk
+D:\0004-LINKS\OneDrive--Pictu\.gitignore
+D:\0004-LINKS\OneDrive\.gitignore
+C:\Users\marti\OneDrive\.gitignore
 C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
 C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
 C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh
