@@ -1,4 +1,6 @@
 
+
+# edit 20260611 is it really a *false* alarm?
 # edit..probably a false alarm..  WARNING: this OneDrive/.gitignore is probably an exception in robocopy ... see the end of this file ...
 
 
@@ -32,11 +34,22 @@
 !README.*
 !.gitignore
 
+
+
+# ----------------------------------------
+
+# but but
+# ignore and dont publish
+
+
+# 20260518
+/Pictures/
 #Obr*/
 /Obr*/
 /Vide*/
 /Dokumenty/PowerShell/Help
 /alma-233c/var
+
 
 *.git/
 ##*.git/
@@ -51,23 +64,33 @@
 #*.xsd
 
 
-*#
-*~
-.#*
+
+
 
 history*.json
 
 
 #OLD*/
 OLD*
+
+# 20260519
 BIG
+BIG*
 
 
 .ipynb_checkpoints/
 overwrite/
 node_modules
 
-1111/
+# 20260
+#1111/
+1111*
+
+
+*#
+*~
+.#*
+
 
 
 
@@ -76,5 +99,9 @@ node_modules
 *.r8.*
 *.n8.*
 
+
+# edit 20260611 is it really a *false* alarm? maybe have to copy this file manually after editing to d:\0004\OneDrive?
 # # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
+
+MiscSettings.ini
 

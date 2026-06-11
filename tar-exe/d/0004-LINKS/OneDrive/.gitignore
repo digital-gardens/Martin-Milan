@@ -1,4 +1,6 @@
 
+
+# edit 20260611 is it really a *false* alarm?
 # edit..probably a false alarm..  WARNING: this OneDrive/.gitignore is probably an exception in robocopy ... see the end of this file ...
 
 
@@ -80,7 +82,9 @@ BIG*
 overwrite/
 node_modules
 
-1111/
+# 20260
+#1111/
+1111*
 
 
 *#
@@ -95,6 +99,8 @@ node_modules
 *.r8.*
 *.n8.*
 
+
+# edit 20260611 is it really a *false* alarm? maybe have to copy this file manually after editing to d:\0004\OneDrive?
 # # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
 
 MiscSettings.ini
