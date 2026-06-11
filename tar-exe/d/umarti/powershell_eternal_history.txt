@@ -13599,3 +13599,4 @@ code C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
 explorer  \\mb-pc
 dir */.git*
 bash
+.\Robocopy---c-onedrive---d-mir.f5.cmd
