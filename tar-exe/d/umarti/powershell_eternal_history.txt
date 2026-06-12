@@ -13600,3 +13600,20 @@ explorer  \\mb-pc
 dir */.git*
 bash
 .\Robocopy---c-onedrive---d-mir.f5.cmd
+cmd /c dir
+cd ..
+cmd /c dir
+cmd /c dir /n
+cmd /c dir C:\Users\
+cmd /c dir C:\Users\marti\
+ dir C:\Users\marti\
+ dir C:\Users\marti\ | findstr '[-][>]'
+ dir  | findstr '[-][>]'
+cd "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+cd ..
+ dir  | findstr '[-][>]'
+ dir  s*
+ dir  *st*
+cmd /c  dir  *st*
+cmd /c  dir  *st* /n
+mkdir 20260612-Dokumenty-search-failures

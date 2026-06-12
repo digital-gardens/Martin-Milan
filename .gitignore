@@ -1,3 +1,11 @@
+
+#20260612-Dokumenty-search-failures  vscode-search--nested-git-repo--20260612.md
+
+!*.md
+
+
+# ----------------------------------------
+
 .htaccess
 css.php
 rpc/
@@ -59,6 +67,10 @@ Thumbs.db
 # ✔ ready-made
 # .gitignore
 #  for markdown files
+
+
+
+# ----------------------------------------
 
 
 

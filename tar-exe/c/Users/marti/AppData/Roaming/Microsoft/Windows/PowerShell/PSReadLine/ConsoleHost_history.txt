@@ -3754,3 +3754,4 @@ kill -name explorer
 kill -Name RSIGuard
 pwsh
 kill -Name RSIGuard
+pwsh
