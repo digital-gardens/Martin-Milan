@@ -250,6 +250,21 @@ file:500
 
 
 
+https://chromewebstore.google.com/detail/voyager/iifacdnjakkhjjiengaffnegbndgingi
+"C:\Users\marti\OneDrive\Dokumenty\voyager.nagi.fun\backup-20260613-164636\settings.json"
+C:\Users\marti\OneDrive\Dokumenty\voyager.nagi.fun
+
+![
+  
+](image.png)
+
+
+Voyager Edge support is changing
+x
+This is the final version published for Microsoft Edge Add-ons. Edge store reviews have become too slow for Voyager to keep shipping a dedicated Edge build.
+
+To keep receiving the latest fixes and features, back up your Voyager data first, then install Voyager from the Chrome Web Store.
+
 
 
 # voyager This means our previous listing — with 160,000+ users and 700–800 reviews — is gone, at least for now. It's a real loss, and we're genuinely sad about it. A huge thank-you to everyone who supported us there. We hope you'll follow us to the new home and continue the journey together.

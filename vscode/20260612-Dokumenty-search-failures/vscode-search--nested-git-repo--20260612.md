@@ -43,7 +43,7 @@ now ok
 
 
 # or ... f1, backspace, name of file ??
-still fails
+old..still fails
 .gitignore ?
 helped
 #20260612-Dokumenty-search-failures  vscode-search--nested-git-repo--20260612.md

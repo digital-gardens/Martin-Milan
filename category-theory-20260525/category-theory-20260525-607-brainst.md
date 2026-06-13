@@ -1,7 +1,142 @@
 
+code "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+
+
 category-theory-20260525-607-brainstorming.md
 
-# Category Theory for a Hobbyist
+# Category Theory for a Hobbyist (me)
+
+
+
+// lots of  ai completion in this file... should be verified #- #TODO 
+// my guesses also should be verified #TODO
+
+# simple examples of categories
+
+
+## from searching for examples on the web
+obsidian 
+20260612.md
+In this sense, you can view a category as a kind of combinatorial model for a directed space. Studying the geometry of this space can then help you deduce properties of your original objects and morphisms. It’s as if each area of math has an associated (very complicated) “shape”, given by the shape of its category!
+
+
+
+
+
+Groups, semi-groups, rings, fields, monoids - distribution, identity, zeros, associstivity, communitavity are pretty trivia to learn - most people already know the underlying concepts and they pop up 
+Also, you probably should study axiomatic set theory and abstract algebra before taking on category theory and even in materials like this where they try to bring you up to speed on them, you'll not h
+I've gone down this rabbit hole a few times, and I always return pissed off and a dozen hours poorer. Maybe someday I'll get it.
+
+source: "https://news.ycombinator.com/item?id=42291141"
+
+ANew Approach to Understanding Quantum Mechanics:
+
+
+
+
+# C:\Users\marti\OneDrive\Dokumenty\00-MM\category-theory-20260525\abuseofnotation.github.io..md
+
+# ellerman.org-20260612.md
+
+
+
+# 20260613
+
+bicategories in computing??
+
+
+0011 1.pomoc breathing  🌬️  
+0012 (L) traveni leku .. yoga mudra.. join fingers 🧘‍♂️    
+
+# math in high school, special classes for gifted students, 
+
+the category of 
+
+- sets and functions between them
+
+- propositions and implications between them
+- propositions and proofs?
+
+- sets and relations between them
+- sets and partial functions between them?
+
+- sets-with-a-relation and functions that preserve the relation
+
+- ordered sets and monotone functions between them
+
+- groups and group homomorphisms between them
+- algebras over a field and linear transformations between them?
+
+- planar geometry: points, lines, planes and transformations between them
+
+- probability spaces and measurable functions between them?
+
+- vector spaces and linear transformations between them
+- affine spaces and affine transformations between them?
+- metric spaces and continuous functions between them?
+- topological spaces and continuous functions between them?
+
+
+
+// - any categories in calculus? 
+  - 
+
+
+
+EDIT WHAT I IMAGINED AS A 2-CATEGORY ... MAYBE THEY ARE MERELY CATEGORIES of small categories of small objects (structures) ?
+
+EDIT A BICATEGORY is not the same notion as a 2-CATEGORY. A 2-category is a category enriched over Cat, while a bicategory is a category weakly enriched over Cat. In a 2-category, the associativity and unity laws hold strictly, while in a bicategory they hold only up to coherent isomorphism. This means that in a bicategory, the composition of morphisms is not strictly associative, but there are natural isomorphisms that relate different ways of composing morphisms. Similarly, the identity morphisms in a bicategory do not necessarily satisfy the unit laws strictly, but there are natural isomorphisms that relate them to the identity morphisms in the hom-categories.
+A bicategory is a particular algebraic notion of weak 2-category (in fact, the earliest to be formulated, and still the one in most common use). The idea is that a bicategory is a category weakly enriched over Cat: the hom-objects of a bicategory are hom-categories, but the associativity and unity laws of enriched categories hold only up to coherent isomorphism.
+
+
+? a category of small ...
+?? a 2-category of
+?? a bicategory of 
+
+- categories of small algebraic structures, and functors between them
+- categories of small sets-with-structure (and structure-preserving functions between the sets  )
+- categories of small spaces
+
+
+# logic ... undergrad logic courses
+
+a category of
+
+- models of a theory and homomorphisms between them?
+- theories and interpretations between them?
+
+
+# computing 
+
+a category of
+- types and functions between them (in a statically typed programming language)
+- types and functions between them (in a dynamically typed programming language)?
+
+- file formats and converters between them?
+
+- 
+
+
+
+- **entity types and relationships between them**?
+
+
+
+?? a 2-category of
+?? a bicategory of 
+
+- categories of types, and functors between them ...  programming languages and compilers between them?
+
+- E-R diagrams and mappings between them?
+
+- data-flow diagrams and mappings between them??
+
+- state machines and mappings between them??
+
+
+
+
+- data models and mappings between them??
 
 
 
@@ -9,6 +144,7 @@ category-theory-20260525-607-brainstorming.md
 
 # 20260525 examples of morphisms (category theory) outside of math and computing? ... in AI? linguistics? human cognition? physics? social systems?? economics?? ...... vague morphisms??
 
+//in tree dir?
 [[20260525-morphisms--vague.md]]
 [[20260525-morphisms.md]]
 
