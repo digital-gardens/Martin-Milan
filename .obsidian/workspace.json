@@ -44,9 +44,23 @@
               "icon": "lucide-file",
               "title": "Approximate number system"
             }
+          },
+          {
+            "id": "6cf23c180565b39b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,8 +207,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6283ee73d16cec1",
+  "active": "6cf23c180565b39b",
   "lastOpenFiles": [
+    "05-subrepo/ - Copy.git",
+    "05-subrepo/set-o...git.old",
+    "00clippi---onedr.obsi.dir/Approximate number system.md",
+    "Untitled.md",
+    "git-f8-00/OLD1git-init--separate-git-dir.f8.md",
     "git-f8-00/1export-GIT_DIR.f8.md",
     "git-f8-00/git-init--separate-git-dir.f8.md",
     "git-f8-00/1git-init--separate-git-dir.f8.md",
@@ -215,10 +234,8 @@
     "git-f8-00/git--undo-revert-1-file-mistake.f8.ps1",
     "git-f8-00/probl2467-git-commit--elsewhere.f8.ps1",
     "git-f8-00/git-clone----wiki.f8.md",
-    "git-f8-00",
     "03.publ.dir/03-04-13MP-NEUROZA-csob-a-JB-20260614/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md",
     "03.publ.dir/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md",
-    "00clippi---onedr.obsi.dir/Approximate number system.md",
     "0RSIGuard/OLD----dont-push-regcode/ORIG JE V PUB--DOC/0004---exists-00-mm--..scSettings.ini-dont-copy-lic-key-/hope-not-my-lic-key.f8.md",
     "0004-marti-dont-push----soukr klic  ...RegCode/hope-not-my-lic-key.f8.md",
     "0RSIGuard/OLD----dont-push-regcode/ORIG JE V PUB--DOC/0004---exists-00-mm--MiscSettings.ini-dont-copy-lic-key-/hope-not-my-lic-key.f8.md",
@@ -228,9 +245,6 @@
     "0RSIGuard/0todo backup  APPDATA  ROAMing/202605/hope-not-my-lic-key.f8.md",
     "0RSIGuard/rsiguard.f8.md",
     "RSIGuard/rsiguard.f8.md",
-    "20260511-claude.ai/20260531-a---person-with-anxiety-s---guide-to-trying---claude-cowork.publ.md",
-    "20260511-claude.ai/20260520-a---person-with-anxiety-s---guide-to-trying---claude-in-chrome.publ.md",
-    "20260511-claude.ai/20260520-a---person-with-anxiety-s---guide-to-trying-claude-in-chrome.publ.md.md",
     "03.publ.dir/image.png",
     "20260511-claude.ai/attachments/Pasted image 20260526233240.png",
     "260314--tree-doc/26/screenshot-1774061654670.png",

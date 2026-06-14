@@ -13621,3 +13621,8 @@ code "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
 $x="05-subrepo"
 mkdir $x
 cd $x
+git init -vvv   --separate-git-dir=/d/GIT-bk04/${x}.git
+git init    --separate-git-dir=/d/GIT-bk04/${x}.git
+dir d:
+git init    --separate-git-dir="/d/GIT-bk04/${x}.git"
+bash

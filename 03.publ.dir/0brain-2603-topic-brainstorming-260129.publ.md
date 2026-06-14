@@ -213,10 +213,32 @@ zbývají 2 _? problémy
 
 
 ```pwsh
+
 $x="05-subrepo"
 mkdir $x
 cd $x
+
 # completion git init -vv --separate-git-dir=../.git/modules/$x
+#dir d:
+## git init    --separate-git-dir=/d/GIT-bk04/${x}.git
+ ##git init    --separate-git-dir="/d/GIT-bk04/${x}.git"
+
+exit
+bash
+
+#set -e # exit on error
+#set -x # print commands
+#set -o pipefail # fail if any command in a pipeline fails
+set -o nounset # fail on unset variables
+
+x=""
+mv -iv  /d/GIT-bk04/${x}.git   /d/GIT-bk04/set-o..nounset${x}.git
+mv -iv .git   set-o...git.old
+
+###$x="05-subrepo"
+x="05-subrepo"
+git init    --separate-git-dir="/d/GIT-bk04/${x}.git"
+
 
 ```
 
