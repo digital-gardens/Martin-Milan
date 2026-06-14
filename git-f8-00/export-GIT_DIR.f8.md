@@ -1,7 +1,6 @@
 
 
 
-moving to C:\Users\marti\OneDrive\Dokumenty\				
 
 # todo a cell in a dib ?? or an .f5 file ?
 
