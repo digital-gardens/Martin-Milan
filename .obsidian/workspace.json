@@ -44,23 +44,9 @@
               "icon": "lucide-file",
               "title": "Approximate number system"
             }
-          },
-          {
-            "id": "60aad48d380dd331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.publ.dir/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,10 +193,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60aad48d380dd331",
+  "active": "b6283ee73d16cec1",
   "lastOpenFiles": [
-    "00clippi---onedr.obsi.dir/Approximate number system.md",
+    "03.publ.dir/03-04-13MP-NEUROZA-csob-a-JB-20260614-doky/csob....cz--stavebni/Výpis za rok 2024 účet 359XXXX302.pdf",
+    "03.publ.dir/03-04-13MP-NEUROZA-csob-a-JB-20260614-doky/csob....cz--stavebni/Výpis za rok 2023 účet 3597165302.pdf",
+    "03.publ.dir/03-04-13MP-NEUROZA-csob-a-JB-20260614-doky/csob....cz--stavebni",
+    "03.publ.dir/03-04-13MP-NEUROZA-csob-a-JB-20260614-doky",
+    "03.publ.dir/03-04-13MP-NEUROZA-csob-a-JB-20260614/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md",
+    "03.publ.dir/03-04-13MP-NEUROZA-csob-a-JB-20260614",
     "03.publ.dir/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md",
+    "00clippi---onedr.obsi.dir/Approximate number system.md",
     "0RSIGuard/OLD----dont-push-regcode/ORIG JE V PUB--DOC/0004---exists-00-mm--..scSettings.ini-dont-copy-lic-key-/hope-not-my-lic-key.f8.md",
     "0RSIGuard/OLD----dont-push-regcode/ORIG JE V PUB--DOC/0004---exists-00-mm--..scSettings.ini-dont-copy-lic-key-",
     "0004-marti-dont-push----soukr klic  ...RegCode/hope-not-my-lic-key.f8.md",
@@ -221,13 +213,9 @@
     "0RSIGuard/OLD----dont-push-regcode/ORIG JE V PUB--DOC",
     "0RSIGuard/OLD----dont-push-regcode",
     "0RSIGuard/ORIG JE V PUB--DOC/0004---exists-00-mm--MiscSettings.ini-dont-copy-lic-key-/hope-not-my-lic-key.f8.md",
-    "0RSIGuard/ORIG JE V PUB--DOC/0004---exists-00-mm--MiscSettings.ini-dont-copy-lic-key-",
     "0RSIGuard/ORIG JE V PUB--DOC/0004---exists-00-mm---dont-copy-lic-key/hope-not-my-lic-key.f8.md",
-    "0RSIGuard/ORIG JE V PUB--DOC/0004---exists-00-mm---dont-copy-lic-key",
     "0RSIGuard/0004---exists-00-mm---dont-copy-lic-key/hope-not-my-lic-key.f8.md",
-    "0RSIGuard/0004---exists-00-mm---dont-copy-lic-key",
     "0RSIGuard/0todo backup  APPDATA  ROAMing/202605/hope-not-my-lic-key.f8.md",
-    "0RSIGuard/0todo backup  APPDATA  ROAMing/202605/HotkeySelectDef.txt",
     "0RSIGuard/rsiguard.f8.md",
     "RSIGuard/rsiguard.f8.md",
     "20260511-claude.ai/20260531-a---person-with-anxiety-s---guide-to-trying---claude-cowork.publ.md",
@@ -244,9 +232,7 @@
     "markdown-snippets--20260526/20260526--Code-User-snippets-markdown.json.publ.md",
     "markdown-snippets--20260526/markdown-styles-supported.didact.md",
     "20260526--Code-User-snippets-markdown.json.publ.md",
-    "markdown-snippets--20260526/Fun With VSCode Snippets for Markdown and PowerShell.md",
     "20260511-claude.ai/attachments/Pasted image 20260526233240.png",
-    "260314--tree-doc/20260525-morphisms.md",
     "260314--tree-doc/26/screenshot-1774061654670.png",
     "1804/pictures..screenshots..sel/Screenshot (1112).png",
     "1804/pictures..screenshots..sel/Screenshot (1157).png",
