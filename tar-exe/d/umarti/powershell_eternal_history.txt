@@ -13626,3 +13626,5 @@ git init    --separate-git-dir=/d/GIT-bk04/${x}.git
 dir d:
 git init    --separate-git-dir="/d/GIT-bk04/${x}.git"
 bash
+code .
+code .\README.md
