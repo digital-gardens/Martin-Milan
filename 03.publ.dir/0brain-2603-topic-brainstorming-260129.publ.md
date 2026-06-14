@@ -211,7 +211,7 @@ zbývají 2 _? problémy
 
 
 
-
+# 20260614
 ```pwsh
 
 $x="05-subrepo"
@@ -238,7 +238,9 @@ mv -iv .git   set-o...git.old
 ###$x="05-subrepo"
 x="05-subrepo"
 git init    --separate-git-dir="/d/GIT-bk04/${x}.git"
+exit 
 
+code .\README.md
 
 ```
 
