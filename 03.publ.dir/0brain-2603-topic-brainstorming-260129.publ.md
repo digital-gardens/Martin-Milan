@@ -212,6 +212,15 @@ zbývají 2 _? problémy
 
 
 
+```pwsh
+$x="05-subrepo"
+mkdir $x
+cd $x
+# completion git init -vv --separate-git-dir=../.git/modules/$x
+
+```
+
+
 
 
 
@@ -245,6 +254,10 @@ file:500
 
 
 [[aaa youtube transcript Beseda na téma demence seniorů a jak ji rozpoznat.publ.md]]
+
+
+
+
 
 
 
