@@ -44,9 +44,23 @@
               "icon": "lucide-file",
               "title": "Approximate number system"
             }
+          },
+          {
+            "id": "60aad48d380dd331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.publ.dir/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,8 +113,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6283ee73d16cec1",
+  "active": "60aad48d380dd331",
   "lastOpenFiles": [
+    "00clippi---onedr.obsi.dir/Approximate number system.md",
+    "03.publ.dir/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md",
     "0RSIGuard/OLD----dont-push-regcode/ORIG JE V PUB--DOC/0004---exists-00-mm--..scSettings.ini-dont-copy-lic-key-/hope-not-my-lic-key.f8.md",
     "0RSIGuard/OLD----dont-push-regcode/ORIG JE V PUB--DOC/0004---exists-00-mm--..scSettings.ini-dont-copy-lic-key-",
     "0004-marti-dont-push----soukr klic  ...RegCode/hope-not-my-lic-key.f8.md",
@@ -220,7 +235,6 @@
     "20260511-claude.ai/20260520-a---person-with-anxiety-s---guide-to-trying-claude-in-chrome.publ.md.md",
     "03.publ.dir/image.png",
     "260314--tree-doc/20260529 Is there a way to indent Text with the Tab without it changing colour.md",
-    "00clippi---onedr.obsi.dir/Approximate number system.md",
     "260314--tree-doc/Proposal  Native Indent for Markdown · Issue 825 · commonmarkcommonmark-spec.md",
     "260314--tree-doc/New Blocks Extensions in 9.10! · facelessuserpymdown-extensions.md",
     "260314--tree-doc/Callouts.md",
@@ -233,7 +247,6 @@
     "markdown-snippets--20260526/Fun With VSCode Snippets for Markdown and PowerShell.md",
     "20260511-claude.ai/attachments/Pasted image 20260526233240.png",
     "260314--tree-doc/20260525-morphisms.md",
-    "260314--tree-doc/20260525-morphisms--vague.md",
     "260314--tree-doc/26/screenshot-1774061654670.png",
     "1804/pictures..screenshots..sel/Screenshot (1112).png",
     "1804/pictures..screenshots..sel/Screenshot (1157).png",
