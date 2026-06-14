@@ -13618,3 +13618,6 @@ cmd /c  dir  *st*
 cmd /c  dir  *st* /n
 mkdir 20260612-Dokumenty-search-failures
 code "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+$x="05-subrepo"
+mkdir $x
+cd $x
