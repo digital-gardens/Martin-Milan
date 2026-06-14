@@ -1,9 +1,6 @@
 
 
 
-moving to C:\Users\marti\OneDrive\Dokumenty\git-f8---git-init--separate-git-dir.f8.md
-
-
 # git clone wiki
 
 [[git-clone----wiki.f8]]
