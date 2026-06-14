@@ -38,6 +38,11 @@ srv. rok 2010-02 ... Lenka ... když jsem se dozvěděl ... 2 dny jsem měl něc
 
 
 # projdeme Tvůj kalendář a zjistíme, co se dá udělat
+... jaké strachy, neurózy musejí překovávat oni ... 
+
+
+# zda by mohl pomoct někdo z ai 
+
 
 
 # totalcmd search: csob|čsob 
@@ -45,4 +50,8 @@ srv. rok 2010-02 ... Lenka ... když jsem se dozvěděl ... 2 dny jsem měl něc
 # vscode ... Dokumenty folder search: csob|čsob
 nepublikovat zavinace emaily adresy
 vscode ... Dokumenty folder search csob čsob nepublikovat zavinace emaily adresy.md 
+
+
+asi obnovit bankovní identitu a mobilní aplikaci či aplikace banky ... ztratil ... zda lze nastavit limit bankovnictví
+srv csas 40 000 kč den
 
