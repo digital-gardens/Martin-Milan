@@ -13628,3 +13628,5 @@ git init    --separate-git-dir="/d/GIT-bk04/${x}.git"
 bash
 code .
 code .\README.md
+git  subtree
+git  subtree --help -v
