@@ -1,5 +1,12 @@
 
 
+git  subtree 
+
+
+edit i didnt know about https://github.com/ingydotnet/git-subrepo
+
+
+
 
 # 20260614 a lightweight subrepo test
 
