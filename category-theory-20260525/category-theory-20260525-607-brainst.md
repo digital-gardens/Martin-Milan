@@ -1,4 +1,8 @@
 
+// lots of  ai completion in this file... should be verified #- #TODO 
+// my guesses also should be verified #TODO
+
+
 code "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
 
 
@@ -7,9 +11,38 @@ category-theory-20260525-607-brainstorming.md
 # Category Theory for a Hobbyist (me)
 
 
+# are there some ascii notations for 
 
-// lots of  ai completion in this file... should be verified #- #TODO 
-// my guesses also should be verified #TODO
+in category C,
+there is a morphism f: A -> B
+
+in category D,
+there is a morphism g: C -> D
+
+...
+
+mermaid syntax for categories?
+
+
+
+      f
+  A ---> B
+   |      |
+g |      | h
+   v      v
+  C ---> D
+       k
+
+flowchart TD
+  subgraph CatC [Category C]
+    A -- f --> B
+  end
+  
+  subgraph CatD [Category D]
+    ObjC[C] -- g --> ObjD[D]
+  end
+
+Note: In the Mermaid code above, the nodes inside category $\mathcal{D}$ are assigned the internal IDs ObjC and ObjD. This prevents the rendering engine from confusing the object $C$ with the node $C$ from the previous category, while still displaying the correct bracketed text [C] in the final visual output.
 
 # simple examples of categories
 

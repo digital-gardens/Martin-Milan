@@ -402,6 +402,7 @@ $NumpadDot::Send {;}
 ; 260313
 ;;;# 260313 testing ^x ^c ^v ins  file:///C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
 
+; 20260616 WARNING dont be too wild in choosing hotstrings for cut copy, because if you press it not inte4ntionally, AND THEN PASTE IN TERMINAL , MULTILINE COMMANDS MAY BE PASTED, AND THEN YOU MAY ACCIDENTALLY RUN THEM,
 
 Browser_Favorites::Send ^x
 ; ins isnt yet at C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
@@ -509,11 +510,17 @@ Launch_App1::Send ^a
 ; is it possible in v1 or v2 to write something like
 ;;;simplified version
 
+
+; You can stack multiple hotkeys to trigger the exact same action.
+
+$Insert::
 Launch_App2::
 {
 
 	if(WinActive("ahk_exe code.exe") or WinActive("ahk_exe notepad.exe") ) {
-		Click_and_Copy(2)
+		;Click_and_Copy(2)
+		; 20260616
+		Click_and_Copy(3)
 	}else {
 		Click_and_Copy(3)
 	}
@@ -536,8 +543,6 @@ Click_and_Copy(clicks) {
 	Send, ^c
 	return
 }
-
-
 ;v2
 ;Click_and_Copy(clicks) {
 ;    Send "{Click " clicks "}"
