@@ -13630,3 +13630,9 @@ code .
 code .\README.md
 git  subtree
 git  subtree --help -v
+dir
+cmd /c dir
+cmd /c dir /a
+cmd /c dir /al
+cmd /c dir .. /al
+cmd /c dir /al

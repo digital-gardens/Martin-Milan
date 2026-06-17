@@ -256,7 +256,11 @@ file:500
 
 
 
-
+00J-011J
+00J-documents
+00J-aaaa
+IconResource=C:\Program Files\Microsoft OneDrive\OneDrive.exe,6
+011J-POMOC napoveda aaaa.publ.dir
 
 
 
