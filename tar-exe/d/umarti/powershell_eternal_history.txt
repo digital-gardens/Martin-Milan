@@ -13636,3 +13636,11 @@ cmd /c dir /a
 cmd /c dir /al
 cmd /c dir .. /al
 cmd /c dir /al
+Get-ChildItem -Path "C:\Users\marti\OneDrive\Dokumenty\00-MM\" -Recurse -Directory | Select-Object -ExpandProperty Name
+Get-ChildItem -Path "C:\Users\marti\OneDrive\Dokumenty\00-MM\" -Recurse -Directory | Select-Object -ExpandProperty Name >a1.txt
+code a1.txt
+findstr -i '\d\d' a1.txt
+findstr --help
+findstr -i '[0-9][0-9]' a1.txt
+findstr -i '[0-9][0-9]' a1.txt  | measure-object
+bash

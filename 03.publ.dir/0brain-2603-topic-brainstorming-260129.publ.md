@@ -255,6 +255,39 @@ file:500
 [[aaa youtube transcript Beseda na téma demence seniorů a jak ji rozpoznat.publ.md]]
 
 
+fail
+Shrnutí daně z nemovitých věcí - Google Gemini
+
+success
+live
+sms 
+
+
+?? můžeš nakreslit obrazovku androidího telefonu s vysvětlivkami pro seniory
+
+skoro dobře, jen v dolní řádce telefonu máme tlačítka
+
+|||  []  <
+
+výborně, a teď prosím ještě nakresli obrazovku androidího telefonu s vysvětlivkami tlačítek aplikace Gemini
+
+v horním řádku máme
+= Gemini [moje fotka]
+
+a v dolním řádku máme
++ o-  Pro [microphone]  [live]  
+
++ je přidat přílohu
+o- je nastavení
+
+planý poplach,
+žádné "vymazat vše"
+tam naštěstí není
+
+
+
+ otevřenou aplikací pro zasílání zpráv, kde je vidět konverzace s mým jménem a textem "live" a "sms" v bublinách zpráv?
+
 
 00J-011J
 00J-documents
@@ -262,6 +295,45 @@ file:500
 IconResource=C:\Program Files\Microsoft OneDrive\OneDrive.exe,6
 011J-POMOC napoveda aaaa.publ.dir
 
+get only file names and dir names recursively from C:\Users\marti\OneDrive\Dokumenty\00-MM\
+```pwsh
+Get-ChildItem -Path "C:\Users\marti\OneDrive\Dokumenty\00-MM\" -Recurse -File | Select-Object -ExpandProperty Name
+Get-ChildItem -Path "C:\Users\marti\OneDrive\Dokumenty\00-MM\" -Recurse -Directory | Select-Object -ExpandProperty Name >a1.txt
+code a1.txt
+findstr -i '\d\d' a1.txt
+findstr -i '[0-9][0-9]' a1.txt  | measure-object
+findstr --help
+ >a2.txt
+
+```
+
+
+250825
+011J
+
+03.publ.dir
+02-startu
+
+bash
+```sh
+
+cp -iv a1.txt dirnames.txt
+cp -iv a3.txt dirnames3.txt
+cp -iv a4.txt dirnames4.txt
+
+grep  -i -w  '[0][0-9]' a1.txt
+grep  -i -w  '[0][0]' a1.txt
+grep  -i  '[0][0]j' a1.txt
+ |sort | code -
+
+grep  -i '\w*[0-9][0-9]\w*' a1.txt |sort  >a4.txt
+grep -o  -i '\w*[0-9][0-9]\w*' a1.txt |sort  >a3.txt
+ | code -
+ >b.txt
+code b.txt
+|wc
+
+```
 
 
 

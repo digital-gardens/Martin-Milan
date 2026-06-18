@@ -44,6 +44,15 @@ flowchart TD
 
 Note: In the Mermaid code above, the nodes inside category $\mathcal{D}$ are assigned the internal IDs ObjC and ObjD. This prevents the rendering engine from confusing the object $C$ with the node $C$ from the previous category, while still displaying the correct bracketed text [C] in the final visual output.
 
+
+# ? were there any attemps at showing arrows of category theory at the level of elementary school 
+those are scientific articles ... and in any web forums?
+
+# which books by Eugenia Chen contain arrow diagrams
+
+https://reader.ebooks.com/?uid=258814128&bid=96457709&reqid=163290646&t=639173219415152753&hash=a9a3d345cf9345434421dac934aba97b
+
+
 # simple examples of categories
 
 
