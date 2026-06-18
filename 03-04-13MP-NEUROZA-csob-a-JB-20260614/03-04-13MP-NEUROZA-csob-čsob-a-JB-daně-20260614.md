@@ -73,7 +73,32 @@ vscode ... Dokumenty folder search csob čsob nepublikovat zavinace emaily adres
 
 
 
+# tema 20260614
+# asi obnovit bankovní identitu a mobilní aplikaci/aplikace banky CSOB ... ztratil ... zda lze nastavit limit bankovnictví ... srv. csas.cz nastavil limit 40 000 kč / den
 
-# asi obnovit bankovní identitu a mobilní aplikaci či aplikace banky ... ztratil ... zda lze nastavit limit bankovnictví
-srv csas 40 000 kč den
+gemini v gmail-u
+asi 2 aplikace
+csob smart
+csob smart klic
 
+
+# matně si vzpomínám, že jsem četl o ... bankovní identitě CSOB
+
+
+ČSOB Smart Klíč slouží pro potvrzování transakcí.
+Zajišťuje také fungování tvé Bankovní identity (BankID).
+Nejdříve musíš zprovoznit Smart Klíč.
+Limit 40 000 Kč na den si můžeš nastavit jak pro platby kartou, tak pro elektronické převody.
+
+
+https://gemini.google.com/share/d98a7535570f
+Ahoj Milane, zkus mrknout na tohle: ČSOB Identitu a běžný účet si teď můžeš sjednat úplně jednoduše přímo v mobilu. Stačí, když k tomu použiješ bankovní identitu ze svojí současné banky, vůbec nemusíš
+chodit do pobočky. Více informací o tom, jak na to, najdeš tady:   https://www.csob.cz/csob/csob-identita
+
+
+
+
+
+„With a Little Help from My Friends“ (S malou pomocí mých přátel – nebo v tomto případě spíše s pomocí táty).
+
+🎶 K rychlému vyřešení nečekaných potíží se skvěle hodí: Help! od The Beatles.
