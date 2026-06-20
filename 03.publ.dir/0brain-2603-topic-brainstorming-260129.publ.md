@@ -252,11 +252,29 @@ file:music
 file:500 
 
 
-[[aaa youtube transcript Beseda na téma demence seniorů a jak ji rozpoznat.publ.md]]
+# [[aaa youtube transcript Beseda na téma demence seniorů a jak ji rozpoznat.publ.md]]
+
+# [[a]]
+
+#[[]]
+
+# [[]]
+
+
+# 
+synonyms for a phrase like
+" ... spreading of good memes ... "
+(i mean .. meme .. in the scientific sense, not in the popular sense)
+
+
+synonyms for a phrase like
+" ... to help to spread good ideas ... "
+
+please suggest many related emojis
 
 
 fail
-Shrnutí daně z nemovitých věcí - Google Gemini
+# Shrnutí daně z nemovitých věcí - Google Gemini
 
 success
 live
@@ -286,8 +304,7 @@ tam naštěstí není
 
 
 
- otevřenou aplikací pro zasílání zpráv, kde je vidět konverzace s mým jménem a textem "live" a "sms" v bublinách zpráv?
-
+#
 
 00J-011J
 00J-documents

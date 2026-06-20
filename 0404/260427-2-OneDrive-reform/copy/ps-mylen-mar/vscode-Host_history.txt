@@ -1,0 +1,37 @@
+conda activate base
+cmd /c dir
+cmd /c set
+conda info
+conda list
+conda
+conda install pytorch cpuonly -c pytorch
+c:\Users\marti\OneDrive\docker-214\docker-run-jup.sh.ps1
+ls
+d:/conda/anaconda3/Scripts/activate
+conda activate base
+d:/conda/anaconda3/Scripts/activate
+conda activate base
+guile --version
+4*5
+& 'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe' --remote-debugging-port=9222 --user-data-dir=C:\Users\marti\remote-debug-profile1
+conda activate base
+set
+$psEditor
+$psEditor|select *
+($psEditor).GetEditorContext()
+($psEditor).GetEditorContext().CurrentFile
+$PSCommandPath
+$PSEdition
+$PSHOME
+$PSScriptRoot
+$PSSessionApplicationName
+cat  C:\Users\marti\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt | tee   C:\Users\marti\OneDrive\ps-mylen-mar\vscode-Host_history.txt
+$PSSessionConfigurationName
+$PSSessionOption
+$psEditor
+cat  'C:\Users\marti\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\Visual Studio Code Host_history.txt' | tee   C:\Users\marti\OneDrive\ps-mylen-mar\vscode-Host_history.txt
+($psEditor).GetEditorContext().CurrentFile
+$psEditor.GetEditorContext()
+$psEditor.GetEditorContext
+87+65
+$PSVersionTable

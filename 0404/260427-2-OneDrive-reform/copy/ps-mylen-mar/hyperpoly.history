@@ -1,0 +1,123 @@
+## in git-bash in Windows
+
+
+		git clone https://github.com/Martin-Milan-org/hyperpolyglot.git
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		cd git-pr-experim-mmorg-hyperpolyglot/
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		ll
+		git branch --list  --all -vv
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep remote
+		git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep fetc
+		#git fetch upstream pull/<pull-request-id>/head:<local-branch-name>
+		git fetch upstream pull/34/head:master-pr-34
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep fetc
+		git fetch upstream pull/27/head:master-pr-27
+		git fetch upstream pull/66/head:master-pr-66
+		git push
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep f
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		cd
+		git clone https://github.com/code-rosettas/hyperpolyglot.git
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep fghfg
+		cd hyperpolyglot/
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
+		git fetch upstream pull/27/head:upstream-pull-request-27
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		git push -u origin master
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		git fetch upstream pull/66/head:upstream-pull-request-66
+		git push -u origin master
+		git fetch upstream pull/34/head:upstream-pull-request-34
+		history -a
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		cd hyperpolyglot/
+		git mergetool --help
+		git gui
+		git merge --help
+		git merge --dry-run
+		gitq
+		gitk
+		code .
+		git mergetool --gui
+		git merge --abort
+		git merge --help
+		git merge -vvv upstream-pull-request-34
+		history -a
+		#git merge --strategy=resolve -vvv
+		git merge --abort
+		git merge --strategy=resolve -vvv upstream-pull-request-34
+		git diff
+		git diff
+		git diff
+		git merge --abort
+		history -a
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		git gui
+		git merge --abort
+		history -a
+		git rebase --help
+		history -a
+		git gui
+		git gui
+		history -a
+		mv -iv hyperpolyglot fujhyperpolyglot
+cd
+
+git clone https://github.com/code-rosettas/hyperpolyglot.git
+
+cd hyperpolyglot/
+
+		du -m hyperpolyglot/
+		git fetch upstream pull/34/head:upstream-pull-request-34
+git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
+		git fetch upstream pull/34/head:upstream-pull-request-34
+		git branch --list  --all -vv
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep git
+		git gui
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		pwd
+		git branch --list  --all -vv
+		git commit -vvv -a -m bkup
+		git push -u origin mylen-mar
+		cd hyperpolyglot/
+		cd
+		git branch --list  --all -vv
+		git gui
+		git commit -vvv -a -m bkup
+
+cd
+cd hyperpolyglot/
+git remote add upstream https://github.com/clarkgrubb/hyperpolyglot.git
+
+		git branch --list  --all -vv
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+git fetch upstream pull/34/head:upstream-pull-request-34
+		git gui
+		wsl
+		which wsl
+		cd
+		cd OneDrive/
+		git commit -vvv -a -m hyperpoly-make
+		git push
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .
+		git commit -vvv -a -m bk
+		git commit -vvv -a -m bk
+		git push
+
+
+		cat ~/.bash_history   | sed -n '/hyper/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history
+		cp -iv ~/hyperpoly.zsh_history ~/acloudSUBDIR
+		cat ~/.bash_history   | sed -n '/hyper/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history
+		cat ~/.bash_history   | sed -n '/hyper/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|wc
+		cat ~/.bash_history   | sed -n '/hyperp/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|wc
+		cat ~/.bash_history   | sed -n '/hyperp/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|less
+		cat ~/.bash_history |nl  | sed -n '/hyperp/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|less
+		cat ~/.bash_history |nl  | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^[^;]*[;]/\t\t/'    | tee ~/hyperpoly.history|less
+		cat ~/.bash_history |nl  | sed -n '/hyperpolyglot[.]/,$p'  | tee ~/hyperpoly.history|less
+		cat ~/.bash_history |nl  | sed -n '/hyperpolyglot[.]/,$p'  | tee ~/hyperpoly.history|less
+cat ~/.bash_history   | sed -n '/hyperpolyglot[.]/,$p'  |sed   --regexp-extended                    's/^/\t\t/'   | tee ~/hyperpoly.history|less
+		cp -iv ~/hyperpoly.history ~/acloudSUBDIR
+		history -a;  cp -v ~/.bash_history /c/Users/marti/OneDrive/git-bash-dotfiles/.bash_history; history |grep .

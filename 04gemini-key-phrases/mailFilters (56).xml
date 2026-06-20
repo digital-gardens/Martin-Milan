@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1404481046339,1404831638207,1411328555850,1442861751785,1478807261841,1479762284657,z0000001650296282847*0894158722010242744,z0000001652974200195*1300037186984691028,z0000001652974365271*5828806622333130145,z0000001652977609994*3454745846182098375,z0000001652977699676*5604370808561417559,z0000001677142006987*1137926370396913908,z0000001704862753781*3287412129759773284,z0000001728432641006*2558125583614461220</id>
+	<updated>2026-03-29T08:48:38Z</updated>
+	<author>
+		<name>Martin Milan</name>
+		<email>martin.novy.80@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1404481046339</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='notification+zj4o6j62ftay@facebookmail.com'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1404831638207</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='stackexchange.com'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldNeverMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_social'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1411328555850</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='ockovani-zahranici.cz'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1442861751785</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='MDDr.Koudelny@gmail.com'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1478807261841</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='ceskasporitelna@csas.cz'/>
+		<apps:property name='label' value='Receipts'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1479762284657</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='milan.bok@seznam.cz'/>
+		<apps:property name='subject' value='Přišel nový mail from'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_social'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001650296282847*0894158722010242744</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='milan.ed.nastav OR milan.ed.nastav22 OR eduardlaifr OR Laifrova OR Laifr OR laifrovi OR ivalaifrova OR vaclav.laifr77  OR vaclavlaifr77'/>
+		<apps:property name='label' value='amobnotify2'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652974200195*1300037186984691028</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='drive-shares-dm-noreply@google.com'/>
+		<apps:property name='label' value='TODO'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652974365271*5828806622333130145</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='subject' value='hyperpolyglot'/>
+		<apps:property name='label' value='TODO'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652977609994*3454745846182098375</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='Arne'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001652977699676*5604370808561417559</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='&quot;arne.babenhauserheide@gmail.com&quot;'/>
+		<apps:property name='label' value='amobnotify2'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001677142006987*1137926370396913908</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='přerušení'/>
+		<apps:property name='label' value='přerušení'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001704862753781*3287412129759773284</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='Boris.Kovalerchuk@cwu.edu'/>
+		<apps:property name='label' value='Personal'/>
+		<apps:property name='shouldStar' value='true'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='shouldAlwaysMarkAsImportant' value='true'/>
+		<apps:property name='smartLabelToApply' value='^smartlabel_personal'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001728432641006*2558125583614461220</id>
+		<updated>2026-03-29T08:48:38Z</updated>
+		<content></content>
+		<apps:property name='from' value='pilulka'/>
+		<apps:property name='shouldNeverSpam' value='true'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
