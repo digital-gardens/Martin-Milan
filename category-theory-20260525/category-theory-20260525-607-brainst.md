@@ -8,7 +8,29 @@ code "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
 
 category-theory-20260525-607-brainstorming.md
 
+
+
+
+
+
 # Category Theory for a Hobbyist (me)
+
+
+# 20260620
+https://gemini.google.com/app/0234a18f4c8ea414
+
+compare diagrams that use arrows
+- diagrams in category theory
+- semi-formal diagrams
+- informal diagrams 
+- mind maps
+- concept maps
+- UML diagrams
+
+- data flow diagrams
+- entity-relationship diagrams
+
+
 
 
 # are there some ascii notations for 
@@ -53,6 +75,14 @@ those are scientific articles ... and in any web forums?
 https://reader.ebooks.com/?uid=258814128&bid=96457709&reqid=163290646&t=639173219415152753&hash=a9a3d345cf9345434421dac934aba97b
 
 ![alt text](image.png)
+
+
+
+
+"Math is a way of thinking and it definitely is creative... what we do more than trying to answer questions is create worlds in which different answers are possible." –Dr. Eugenia Cheng
+This video isn't available anymore
+
+
 
 
 # simple examples of categories
