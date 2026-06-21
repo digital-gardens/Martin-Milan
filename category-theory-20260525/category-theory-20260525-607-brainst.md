@@ -12,14 +12,132 @@ category-theory-20260525-607-brainstorming.md
 
 
 
+# Could you tell me a bit about your current math background (e.g., if you've studied linear algebra, abstract algebra, or calculus) and what you hope to get out of category theory? This will help me recommend the perfect starting point for your goals.
+
+
+////- my math background is approximately at the level of mid college math, including linear algebra, abstract algebra, // and calculus. 
+am amazed by nonstandard mathematical objects
+
+
+ have a strong interest in exploring the foundations of mathematics and understanding the connections between different areas of math. I am particularly interested in category theory because it provides a unifying framework for understanding mathematical structures and their relationships. I hope to gain a deeper understanding of the underlying structures in mathematics and to see how category theory can be applied in various fields, such as computer science and physics. I also hope to develop an intuition for the concepts and be able to use category theory as a tool for thinking about problems in a more abstract way.
+
+I have some familiarity with set theory and basic mathematical logic as well. I'm interested in learning category theory to gain a deeper understanding of the underlying structures in mathematics and to see how it can be applied in various fields, such as computer science and physics. I hope to develop an intuition for the concepts and be able to use category theory as a tool for thinking about problems in a more abstract way.
+
+ // is it possible ...
+ categorical probability theory, and categorical statistics, and categorical machine learning, and categorical data analysis, ??
+
+// I have a little collection of toposes
+
+
 
 # Category Theory for a Hobbyist (me)
+
+does it exist on the web? or in a book?
+
+//
+I have got a master's degree in computer science
+
+- in set theory and formal logic, we studied up to nonstandard models and Gödel's incompleteness theorems, 
+  /// btw, I like to collect examples of nonstandard mathematical objects
+
+- in abstract algebra, we studied up to finite fields
+  /// btw, I like to collect exotic examples of mathematical structures, especially
+  - monoids
+  - semirings
+  - algebras
+  - fields
+
+  // btw, I like to collect examples of morphisms, especially monomorphisms  ...   representations?
+
+
+- in linear algebra, we studied complex numbers, vector spaces, linear transformations, eigenvalues and eigenvectors, and some applications to differential equations and computer graphics.
+/// I like complex numbers and the Mandelbrot set
+
+- we studied neural networks and machine learning, including backpropagation and optimization algorithms, as well as some applications to natural language processing and computer vision.
+
+
+
+###### as a hobbyist, I added to my "collections"
+
+- quaternions, biquaternions, geometric algebras, tensors
+// up to  quotient algebras modulo a polynomial ... is this a correct phrase?
+
+- some bits of type theory, lambda calculus, combinatory logic, and functional programming .. up to monads
+
+- category theory
+// I like to collect examples of categories
+// maybe I could sort them ... cartesian closed categories, monoidal categories?
+// maybe I could collect examples of functors, and natural transformations, and monads,
+ 
+ 
+###### btw, I am now also trying to collect something from neuro-fuzzy mathematics ... 
+? is it possible .. a "neurobit" as an analogy to "qubit" in quantum computing?
+
+
+
+###### returning to "my" "neurobit" as an attempted analogy to "qubit" in quantum computing...
+- a qubit value can be represented as a pair of complex numbers (α, β)  ??
+// a non-entangled qubit??
+
+- my "neurobit" value ??? could be  represented as a pair of real numbers (x0, x1), that are activation levels of two neurons ..
+  - x0 is the activation level of a neuron that represents the "0" state
+  - x1 is the activation level of a neuron that represents the "1" state
+??
+
+
+
+
+## EDIT I WILL try to SWITCH TO YOUR STRUCTURE
+x0 output of an expert (block of neurons) that represents the "0" state
+x1 output of an expert (block of neurons) that represents the "1" state
+they can contradict each other ... they can both be active at the same time
+Beatles Song: "We Can Work It Out" (a highly appropriate track for two independent experts contradicting each other and trying to find a resolution).
+ EDIT
+NOT misunderst
+In your collection of mathematical structures, this specific topology maps perfectly to something called Belnap's four-valued logic.
+NOT ###### but, I imagine a different structure .. different meaning for the values 00 and 11
+NOT - 11 ... unknown state... both states **possible** 
+NOT - 00 ...... both states **impossible** ... like in "did he stop beating his donkey?"
+
+
+
+
+
+does my four-valued logic have a name in the literature ... any links to wikis? e.g. wikipedia, stanford encyclopedia of philosophy, etc.?
+
+How do you plan to visually distinguish these four epistemic states within your notes or code?
+maybe 
+01 #t
+10 #f
+00 #maybe
+11 #fail
+#contradiction
+??
+
+
+
+
+  such that |α|^2 + |β|^2 = 1, which can be visualized as a point on the surface of a sphere (the Bloch sphere), where the north and south poles represent the classical states 0 and 1, and any point on the surface represents a superposition of these states.
+ 
+ point on the surface of a sphere, where the north and south poles represent the classical states 0 and 1, and any point on the surface represents a superposition of these states.
+ 
+
+
+  A "neurobit" could be thought of as a point in a high-dimensional space that represents the state of a neural network or a fuzzy logic system. The coordinates of this point could represent the activation levels of different neurons or the degrees of membership in different fuzzy sets. Just as qubits can be manipulated using quantum gates, neurobits could be manipulated using operations that correspond to changes in the neural network or fuzzy logic system, such as adjusting weights or changing membership functions. This is just a speculative analogy, but it could provide a useful way to think about complex systems in terms of geometric representations.
+
+
+
 
 
 # 20260620
 https://gemini.google.com/app/0234a18f4c8ea414
 
 compare diagrams that use arrows
+
+links 
+edges
+// labeled
+
 - diagrams in category theory
 - semi-formal diagrams
 - informal diagrams 
