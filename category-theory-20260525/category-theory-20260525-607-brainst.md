@@ -9,6 +9,8 @@ code "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
 category-theory-20260525-607-brainstorming.md
 
 
+# my collection of mathematical structures 20260622
+[[   20260622 .md]]
 
 
 
