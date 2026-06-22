@@ -1,6 +1,6 @@
 
-// lots of  ai completion in this file... should be verified #- #TODO 
-// my guesses also should be verified #TODO
+// lots of - #TODO  ai completion in this file... should be verified #- #TODO 
+// my - #TODO  guesses also should be verified #TODO
 
 
 code "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
@@ -9,21 +9,23 @@ code "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
 category-theory-20260525-607-brainstorming.md
 
 
-# my collection of mathematical structures 20260622
+# - #TODO  my collection of mathematical structures 20260622
 [[   20260622 .md]]
-
+#- #TODO 
+- #TODO 
 
 
 # Could you tell me a bit about your current math background (e.g., if you've studied linear algebra, abstract algebra, or calculus) and what you hope to get out of category theory? This will help me recommend the perfect starting point for your goals.
+- #TODO refactor? ... into a separate? md file?s? ...  there are notes in the heading
+  - ## my math background
+  - ## autocompletion of a list of categories
+
 
 
 ////- my math background is approximately at the level of mid college math, including linear algebra, abstract algebra, // and calculus. 
-am amazed by nonstandard mathematical objects
 
 
- have a strong interest in exploring the foundations of mathematics and understanding the connections between different areas of math. I am particularly interested in category theory because it provides a unifying framework for understanding mathematical structures and their relationships. I hope to gain a deeper understanding of the underlying structures in mathematics and to see how category theory can be applied in various fields, such as computer science and physics. I also hope to develop an intuition for the concepts and be able to use category theory as a tool for thinking about problems in a more abstract way.
 
-I have some familiarity with set theory and basic mathematical logic as well. I'm interested in learning category theory to gain a deeper understanding of the underlying structures in mathematics and to see how it can be applied in various fields, such as computer science and physics. I hope to develop an intuition for the concepts and be able to use category theory as a tool for thinking about problems in a more abstract way.
 
  // is it possible ...
  categorical probability theory, and categorical statistics, and categorical machine learning, and categorical data analysis, ??
@@ -32,10 +34,81 @@ I have some familiarity with set theory and basic mathematical logic as well. I'
 
 
 
+
+
+
+
+
+
+
+# when will the summer holidays start in the US ... high school? college?
+
+# https://www.reddit.com/r/math/comments/1ucmyv9/what_are_you_working_on_june_22_2026/
+#todo
+
+
+# https://www.reddit.com/user/EmmyNoetherRing/comments/1mcqbf7/is_anyone_here/
+#todo I’ve got a few followers. Are you all bots or is anyone seeing this a real person?
+
+
+Listening to: The Beatles - "Strawberry Fields Forever"
+(Because letting your mind drift into a place where nothing is real, and trying to construct an entirely new way of looking at the world around you, is the ultimate creative hobby.)
+
+
+
+
+# A retired mathematics teacher asks how to resume serious mathematical study, saying they are particularly interested in finite algebra and combinatorics and would like to find other people with whom to correspond. This is closer to an intellectual retirement project than casual recreation, but it clearly represents algebra pursued outside employment.
+- #TODO 
+
+
+# https://www.reddit.com/r/math/comments/1dcbd86/favorite_algebraic_structure/?sort=top
+#todo
+
+
+# #prompt Search for forum discussions, blogs, or Reddit comments where people mention algebraic structures as a hobby
+
+edit
+not groups 
+semigroups // monoids
+semirings
+spaces
+
+The pull is almost always the same: the aesthetic pleasure of the axiom-and-consequence game, and the sense that these structures are secretly everywhere.
+
+
+
+# today, I googled for ... hobby abstract-algebra .. collecting examples of structures
+
+it's the kind of hard searches where I get 100 false positives before I may find something relevant. or nothing
+
+today I found 1 comment on reddit that is very relevant to my interests, and I will quote it in the next section.
+
+
+# Teaching Highschoolers Abstract Algebra
+
+https://www.reddit.com/r/math/comments/tdd69m/comment/i0kf83m/
+
+> Honestly, I just thought the basics of algebra were cool in and of themselves when I first saw it as an undergrad— it wasn’t motivated as a step to any deeper math and I didn’t read it as such. I thought of it  simply as  “woah 💚, you can do **arithmetic on something besides numbers**”. And my friend and I would try to hallucinate **examples** — define operators to make a finite group out of dessert pies, for instance. It was a **hobby** for a while to just try to define groups or rings from anything interesting 💚 in the world around us. Operators on strings, sequences, people, movies. Both successes and failures gave concrete intuition for the mechanics of the thing.
+
+// bold markdown and emojis ...   are added by me, as #aaa #attention markers to the text, to help me find the most interesting parts of the text later.
+// 
+I #love that comment ...
+I have similar #interests
+- finding examples of mathematical structures in other areas
+- 
+
+ how can I find more comments like this? 
+
+can *you* find such comments on reddit
+or maybe Perplexity.ai ??
+
+
+
 # Category Theory for a Hobbyist (me)
 
 does it exist on the web? or in a book?
 
+## my math background
 //
 I have got a master's degree in computer science
 
@@ -72,10 +145,8 @@ I have got a master's degree in computer science
 // maybe I could collect examples of functors, and natural transformations, and monads,
  
  
-###### btw, I am now also trying to collect something from neuro-fuzzy mathematics ... 
+# btw, I am now also trying to collect something from neuro-fuzzy mathematics ... 
 ? is it possible .. a "neurobit" as an analogy to "qubit" in quantum computing?
-
-
 
 ###### returning to "my" "neurobit" as an attempted analogy to "qubit" in quantum computing...
 - a qubit value can be represented as a pair of complex numbers (α, β)  ??
@@ -89,7 +160,7 @@ I have got a master's degree in computer science
 
 
 
-## EDIT I WILL try to SWITCH TO YOUR STRUCTURE
+## - #TODO   EDIT I WILL try to SWITCH TO YOUR STRUCTURE
 x0 output of an expert (block of neurons) that represents the "0" state
 x1 output of an expert (block of neurons) that represents the "1" state
 they can contradict each other ... they can both be active at the same time
@@ -144,7 +215,7 @@ edges
 - semi-formal diagrams
 - informal diagrams 
 - mind maps
-- concept maps
+-  - #TODO  concept maps
 - UML diagrams
 
 - data flow diagrams
@@ -163,7 +234,7 @@ there is a morphism g: C -> D
 
 ...
 
-mermaid syntax for categories?
+- #TODO  mermaid syntax for categories?
 
 
 
@@ -199,7 +270,7 @@ https://reader.ebooks.com/?uid=258814128&bid=96457709&reqid=163290646&t=63917321
 
 
 
-"Math is a way of thinking and it definitely is creative... what we do more than trying to answer questions is create worlds in which different answers are possible." –Dr. Eugenia Cheng
+"Math is a way of thinking and it definitely is creative... what we do more than trying to answer questions i   s   - #TODO  create worlds in which different answers are possible." –Dr. Eugenia Cheng
 This video isn't available anymore
 
 
@@ -236,13 +307,17 @@ ANew Approach to Understanding Quantum Mechanics:
 
 # 20260613
 
-bicategories in computing??
+- #TODO  bicategories in computing??
 
 
-0011 1.pomoc breathing  🌬️  
+- #TODO  0011 1.pomoc breathing  🌬️  
 0012 (L) traveni leku .. yoga mudra.. join fingers 🧘‍♂️    
 
-# math in high school, special classes for gifted students, 
+
+
+
+# autocompletion of a list of categories
+related to # my math background
 
 the category of 
 
