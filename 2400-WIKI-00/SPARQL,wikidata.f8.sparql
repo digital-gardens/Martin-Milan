@@ -1,0 +1,430 @@
+
+
+https://gemini.google.com/app/fb352c2f23558315
+
+
+
+
+PREFIX nee: <http://www.ics.forth.gr/isl/oae/core#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX sioc: <http://rdfs.org/sioc/types#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?hastagLabel WHERE {
+  ?tweet dc:created ?date FILTER(year(?date) = 2016) .
+  ?tweet schema:mentions ?hashtag.
+  ?hashtag a sioc:Tag ; rdfs:label ?hastagLabel
+}
+LIMIT 10
+
+
+
+
+PREFIX nee: <http://www.ics.forth.gr/isl/oae/core#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX sioc: <http://rdfs.org/sioc/types#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?hastagLabel WHERE {
+  ?tweet dc:created ?date FILTER(year(?date) = 2016) .
+  ?tweet schema:mentions ?hashtag.
+  ?hashtag a sioc:Tag ; rdfs:label ?hastagLabel
+
+  FILTER(STRSTARTS(?hastagLabel, "antid"))
+
+}
+LIMIT 10
+
+
+hastagLabel
+"antidote"
+"antidepressant"
+"antidustmask"
+"antidiabetic"
+"antidepressant"
+"antidepressants"
+"antidepressant"
+"antidemocratic"
+"antidiary"
+"antidote"
+The debug log has no messages. The most probable reason is that the query has no sponging or similar activity.
+
+
+
+PREFIX nee: <http://www.ics.forth.gr/isl/oae/core#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX sioc: <http://rdfs.org/sioc/types#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?hastagLabel WHERE {
+  ?tweet dc:created ?date FILTER(year(?date) = 2016) .
+  ?tweet schema:mentions ?hashtag.
+  ?hashtag a sioc:Tag ; rdfs:label ?hastagLabel
+
+  FILTER(STRSTARTS(?hastagLabel, "antidepressant"))
+
+}
+LIMIT 100
+
+
+hastagLabel
+"antidepressant"
+"antidepressant"
+"antidepressants"
+"antidepressant"
+"antidepressants"
+"antidepressant"
+"antidepressants"
+"antidepressants"
+"antidepressants"
+"antidepressants"
+The debug log has no messages. The most probable reason is that the query has no sponging or similar activity.
+
+
+
+
+
+
+
+
+PREFIX nee: <http://www.ics.forth.gr/isl/oae/core#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX sioc: <http://rdfs.org/sioc/types#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+
+
+SELECT ?hastagLabel (count(distinct ?tweet) as ?num) WHERE {
+  ?tweet dc:created ?date FILTER(year(?date) = 2016) .
+  ?tweet schema:mentions ?hashtag.
+  ?hashtag a sioc:Tag ; rdfs:label ?hastagLabel
+
+  FILTER(STRSTARTS(?hastagLabel, "antidepressant"))
+
+} GROUP BY ?hastagLabel ORDER BY DESC(?num) LIMIT 10
+
+hastagLabel	num
+"antidepressants"
+6
+"antidepressant"
+4
+The debug log has no messages. The most probable reason is that the query has no sponging or similar activity.
+
+
+
+
+
+
+
+
+
+
+PREFIX nee: <http://www.ics.forth.gr/isl/oae/core#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX sioc: <http://rdfs.org/sioc/types#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+
+
+SELECT ?hastagLabel (count(distinct ?tweet) as ?num) WHERE {
+  ?tweet schema:mentions ?hashtag.
+  ?hashtag a sioc:Tag ; rdfs:label ?hastagLabel
+
+  FILTER(STRSTARTS(?hastagLabel, "antidepressant"))
+
+} GROUP BY ?hastagLabel ORDER BY DESC(?num) LIMIT 10
+
+
+
+
+hastagLabel	num
+"antidepressants"
+28
+"antidepressant"
+15
+The debug log has no messages. The most probable reason is that the query has no sponging or similar activity.
+
+
+
+
+
+
+
+PREFIX nee: <http://www.ics.forth.gr/isl/oae/core#>
+PREFIX schema: <http://schema.org/>
+PREFIX dc: <http://purl.org/dc/terms/>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX sioc: <http://rdfs.org/sioc/types#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT ?hastagLabel (count(distinct ?tweet) as ?num) WHERE {
+  ?tweet dc:created ?date FILTER(year(?date) = 2016) .
+  ?tweet schema:mentions ?entity .
+  ?entity a nee:Entity ; nee:hasMatchedURI  dbr:Barack_Obama  .
+  ?tweet schema:mentions ?hashtag.
+  ?hashtag a sioc:Tag ; rdfs:label ?hastagLabel
+} GROUP BY ?hastagLabel ORDER BY DESC(?num) LIMIT 10
+
+
+hastagLabel	num
+"Obama"
+59
+"news"
+26
+"p2"
+23
+
+
+
+SPARQL query after parsing, optimization, and converting back into SPARQL
+SELECT  ?hastagLabel
+  ( COUNT( DISTINCT ?tweet) AS ?num)
+ WHERE {  ?tweet <http://purl.org/dc/terms/created> ?date ;
+         <http://schema.org/mentions> ?entity . ?entity <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.ics.forth.gr/isl/oae/core#Entity> ;
+         <http://www.ics.forth.gr/isl/oae/core#hasMatchedURI> <http://dbpedia.org/resource/Barack_Obama> . ?tweet <http://schema.org/mentions> ?hashtag . ?hashtag <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/types#Tag> ;
+         <http://www.w3.org/2000/01/rdf-schema#label> ?hastagLabel .
+    FILTER (  2016 =  year( ?date) ) }
+GROUP BY  ?hastagLabel
+ORDER BY  DESC ( ?num)
+LIMIT  10
+
+SPARQL query translated to SQL
+For security reasons, code responsible for graph-level security is not generated and some account-specific data are intentionally made wrong.
+ SELECT  __ro2sq ("s_17_14_rbc"."hastagLabel") AS "hastagLabel", __ro2sq ("s_17_14_rbc"."num") AS "num" FROM (SELECT TOP 10 __ro2sq ( "s_17_14_t6"."O") AS "hastagLabel",
+     COUNT ( DISTINCT
+       "s_17_14_t0"."S") AS "num"
+  FROM DB.DBA.RDF_QUAD AS "s_17_14_t0"
+    INNER JOIN DB.DBA.RDF_QUAD AS "s_17_14_t1"
+    ON (
+      "s_17_14_t0"."S" = "s_17_14_t1"."S")
+    INNER JOIN DB.DBA.RDF_QUAD AS "s_17_14_t2"
+    ON (
+      "s_17_14_t1"."O" = "s_17_14_t2"."S")
+    INNER JOIN DB.DBA.RDF_QUAD AS "s_17_14_t3"
+    ON (
+      "s_17_14_t1"."O" = "s_17_14_t3"."S"
+      AND
+      "s_17_14_t2"."S" = "s_17_14_t3"."S")
+    INNER JOIN DB.DBA.RDF_QUAD AS "s_17_14_t4"
+    ON (
+      "s_17_14_t0"."S" = "s_17_14_t4"."S"
+      AND
+      "s_17_14_t1"."S" = "s_17_14_t4"."S")
+    INNER JOIN DB.DBA.RDF_QUAD AS "s_17_14_t5"
+    ON (
+      "s_17_14_t4"."O" = "s_17_14_t5"."S")
+    INNER JOIN DB.DBA.RDF_QUAD AS "s_17_14_t6"
+    ON (
+      "s_17_14_t4"."O" = "s_17_14_t6"."S"
+      AND
+      "s_17_14_t5"."S" = "s_17_14_t6"."S")
+  WHERE
+    "s_17_14_t0"."P" = __i2idn ( __bft( 'http://purl.org/dc/terms/created' , 1))
+    AND
+    "s_17_14_t1"."P" = __i2idn ( __bft( 'http://schema.org/mentions' , 1))
+    AND
+    "s_17_14_t2"."P" = __i2idn ( __bft( 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type' , 1))
+    AND
+    "s_17_14_t2"."O" = __i2idn ( __bft( 'http://www.ics.forth.gr/isl/oae/core#Entity' , 1))
+    AND
+    "s_17_14_t3"."P" = __i2idn ( __bft( 'http://www.ics.forth.gr/isl/oae/core#hasMatchedURI' , 1))
+    AND
+    "s_17_14_t3"."O" = __i2idn ( __bft( 'http://dbpedia.org/resource/Barack_Obama' , 1))
+    AND
+    "s_17_14_t4"."P" = __i2idn ( __bft( 'http://schema.org/mentions' , 1))
+    AND
+    "s_17_14_t5"."P" = __i2idn ( __bft( 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type' , 1))
+    AND
+    "s_17_14_t5"."O" = __i2idn ( __bft( 'http://rdfs.org/sioc/types#Tag' , 1))
+    AND
+    "s_17_14_t6"."P" = __i2idn ( __bft( 'http://www.w3.org/2000/01/rdf-schema#label' , 1))
+    AND
+   ( 2016 =  rdf_year_impl ( "s_17_14_t0"."O"))
+  GROUP BY "s_17_14_t6"."O"
+  ORDER BY 2 DESC
+OPTION (QUIETCAST)) AS "s_17_14_rbc"
+SQL execution plan
+  {
+    Subquery 27
+      {
+        fork {
+            fork {
+                RDF_QUAD_POGS   1.6e+04 rows(s_17_14_t3.S$32)
+                 P =  IRI_ID"...hasMatchedURI"  ,  O =  IRI_ID"...Barack_Obama"
+                RDF_QUAD_POGS       2.4 rows(s_17_14_t1.S$36, s_17_14_t1.O$35)
+                 P =  IRI_ID"...mentions"  ,  O = cast$142
+                RDF_QUAD      0.46 rows(s_17_14_t0.O$40, s_17_14_t0.S$39)
+                 inlined  P =  IRI_ID"...created"  ,  S = s_17_14_t1.S$36
+                END Node
+                After test:
+                0: rdf_year_impl$42 := Call rdf_year_impl (s_17_14_t0.O$40)
+                5: if ( 2016  = rdf_year_impl$42) then 9 else 10 unkn 10
+                9: BReturn 1
+                10: BReturn 0
+                RDF_QUAD       2.4 rows(s_17_14_t4.O$45)
+                 inlined  P =  IRI_ID"...mentions"  ,  S = k_s_17_14_t0.S$165
+                RDF_QUAD       0.8 rows(s_17_14_t5.S$48)
+                 inlined  P =  IRI_ID"...type"  ,  S = cast$175 ,  O =  IRI_ID"...Tag"
+                RDF_QUAD       0.8 rows()
+                 inlined  P =  IRI_ID"...type"  ,  S = k_s_17_14_t1.O$185 ,  O =  IRI_ID"...Entity"
+                RDF_QUAD         1 rows(s_17_14_t6.O$53)
+                 inlined  P =  IRI_ID"...label"  ,  S = k_s_17_14_t4.O$194
+                Sort (s_17_14_t6.O$53) -> (inc$63)
+
+              }
+            group by read node
+            (s_17_14_t6.O$53, aggregate$57)
+            Sort (aggregate$57) -> (s_17_14_t6.O$53)
+
+          }
+        top order by read (s_17_14_t6.O$53, aggregate$57)
+
+        After code:
+        0: __ro2sq$99 := Call __ro2sq (s_17_14_t6.O$53)
+        5: hastagLabel$28 :=  := artm __ro2sq$99
+        9: num$29 :=  := artm aggregate$57
+        13: BReturn 0
+        Subquery Select(hastagLabel$28, num$29)
+      }
+
+    After code:
+    0: hastagLabel$108 := Call __ro2sq (hastagLabel$28)
+    5: num$110 := Call __ro2sq (num$29)
+    10: BReturn 0
+    Select (hastagLabel$108, num$110)
+  }
+Internal optimizer data
+These data are primarily for OpenLink support, to get additional details about the query processing.
+	QUERY: (line 17) REQUEST TOP NODE (SELECT result-mode):
+  RETVALS: ARRAY OF NODES with 2 children: {
+    (line 10) VARIABLE: notNULL exported
+      NAME: UNAME `hastagLabel'	SELECT ID: STRING `s_17_14'	TABLE ID: LONG 0	EQUIV: LONG 11
+    (line 10) ALIAS:
+      ALIAS NAME: UNAME `num'
+      VALUE: (line 10) FUNCALL:
+        FUNCTION NAME: UNAME `SPECIAL::bif:COUNT'
+        AGGREGATE MODE: LONG 324
+        ARGUMENT: (line 10) VARIABLE: notNULL reference exported
+          NAME: UNAME `tweet'	SELECT ID: STRING `s_17_14'	TABLE ID: LONG 0	EQUIV: LONG 1
+   }
+  RETVALS SELECT ID: STRING `s_17_14'
+  SOURCES: EMPTY ARRAY
+  PATTERN: (line 17) GRAPH PATTERN:WHERE gp
+    MEMBERS: ARRAY OF NODES with 7 children: {
+      (line 11) TRIPLE:
+        GRAPH: (line 11) BLANK NODE:	NAME: STRING `_::default_11_0'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t0'
+        SUBJECT: (line 11) VARIABLE: notNULL+ reference+ exported (subject)
+          NAME: UNAME `tweet'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t0'	EQUIV: LONG 1
+        PREDICATE: (line 11) QNAME:
+          IRI: UNAME `http://purl.org/dc/terms/created'
+        OBJECT: (line 11) VARIABLE: notNULL+ (object)
+          NAME: UNAME `date'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t0'	EQUIV: LONG 2
+        SELECT ID: STRING `s_17_14'
+        TABLE ID: STRING `s_17_14_t0'
+      (line 12) TRIPLE:
+        GRAPH: (line 12) BLANK NODE:	NAME: STRING `_::default_12_2'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t1'
+        SUBJECT: (line 12) VARIABLE: notNULL+ reference+ exported (subject)
+          NAME: UNAME `tweet'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t1'	EQUIV: LONG 1
+        PREDICATE: (line 12) QNAME:
+          IRI: UNAME `http://schema.org/mentions'
+        OBJECT: (line 12) VARIABLE: notNULL+ reference (object)
+          NAME: UNAME `entity'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t1'	EQUIV: LONG 4
+        SELECT ID: STRING `s_17_14'
+        TABLE ID: STRING `s_17_14_t1'
+      (line 13) TRIPLE:
+        GRAPH: (line 13) BLANK NODE:	NAME: STRING `_::default_13_4'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t2'
+        SUBJECT: (line 13) VARIABLE: notNULL+ reference+ (subject)
+          NAME: UNAME `entity'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t2'	EQUIV: LONG 4
+        PREDICATE: (line 13) QNAME:
+          IRI: UNAME `http://www.w3.org/1999/02/22-rdf-syntax-ns#type'
+        OBJECT: (line 13) QNAME:
+          IRI: UNAME `http://www.ics.forth.gr/isl/oae/core#Entity'
+        SELECT ID: STRING `s_17_14'
+        TABLE ID: STRING `s_17_14_t2'
+      (line 13) TRIPLE:
+        GRAPH: (line 13) BLANK NODE:	NAME: STRING `_::default_13_6'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t3'
+        SUBJECT: (line 13) VARIABLE: notNULL+ reference+ (subject)
+          NAME: UNAME `entity'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t3'	EQUIV: LONG 4
+        PREDICATE: (line 13) QNAME:
+          IRI: UNAME `http://www.ics.forth.gr/isl/oae/core#hasMatchedURI'
+        OBJECT: (line 13) QNAME:
+          IRI: UNAME `http://dbpedia.org/resource/Barack_Obama'
+        SELECT ID: STRING `s_17_14'
+        TABLE ID: STRING `s_17_14_t3'
+      (line 14) TRIPLE:
+        GRAPH: (line 14) BLANK NODE:	NAME: STRING `_::default_14_8'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t4'
+        SUBJECT: (line 14) VARIABLE: notNULL+ reference+ exported (subject)
+          NAME: UNAME `tweet'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t4'	EQUIV: LONG 1
+        PREDICATE: (line 14) QNAME:
+          IRI: UNAME `http://schema.org/mentions'
+        OBJECT: (line 14) VARIABLE: notNULL+ reference (object)
+          NAME: UNAME `hashtag'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t4'	EQUIV: LONG 8
+        SELECT ID: STRING `s_17_14'
+        TABLE ID: STRING `s_17_14_t4'
+      (line 15) TRIPLE:
+        GRAPH: (line 15) BLANK NODE:	NAME: STRING `_::default_15_10'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t5'
+        SUBJECT: (line 15) VARIABLE: notNULL+ reference+ (subject)
+          NAME: UNAME `hashtag'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t5'	EQUIV: LONG 8
+        PREDICATE: (line 15) QNAME:
+          IRI: UNAME `http://www.w3.org/1999/02/22-rdf-syntax-ns#type'
+        OBJECT: (line 15) QNAME:
+          IRI: UNAME `http://rdfs.org/sioc/types#Tag'
+        SELECT ID: STRING `s_17_14'
+        TABLE ID: STRING `s_17_14_t5'
+      (line 16) TRIPLE:
+        GRAPH: (line 16) BLANK NODE:	NAME: STRING `_::default_16_12'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t6'
+        SUBJECT: (line 15) VARIABLE: notNULL+ reference+ (subject)
+          NAME: UNAME `hashtag'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t6'	EQUIV: LONG 8
+        PREDICATE: (line 15) QNAME:
+          IRI: UNAME `http://www.w3.org/2000/01/rdf-schema#label'
+        OBJECT: (line 15) VARIABLE: notNULL+ exported (object)
+          NAME: UNAME `hastagLabel'	SELECT ID: STRING `s_17_14'	TABLE ID: STRING `s_17_14_t6'	EQUIV: LONG 11
+        SELECT ID: STRING `s_17_14'
+        TABLE ID: STRING `s_17_14_t6'
+     }
+    FILTERS: ARRAY OF NODES with 1 children: {
+      (line 11) OPERATOR EXPRESSION (boolean operation '='):
+        LEFT: (line 11) LITERAL:
+          VALUE: LONG 2016
+          DATATYPE: UNAME `http://www.w3.org/2001/XMLSchema#integer'
+        RIGHT: (line 11) BUILT-IN CALL:year
+          ARGUMENT: ARRAY OF NODES with 1 children: {
+            (line 11) VARIABLE: notNULL
+              NAME: UNAME `date'	SELECT ID: STRING `s_17_14'	TABLE ID: LONG 0	EQUIV: LONG 2
+           }
+     }
+    SELECT ID: STRING `s_17_14'
+    EQUIVS: 0 1 2 3 4 5 6 7 8 9 10 11
+  GROUPINGS: ARRAY OF NODES with 1 children: {
+    (line 16) VARIABLE: notNULL exported
+      NAME: UNAME `hastagLabel'	SELECT ID: STRING `s_17_14'	TABLE ID: LONG 0	EQUIV: LONG 11
+   }
+  ORDER: ARRAY OF NODES with 1 children: {
+    (line 16) ORDERING (descending):
+      CRITERION: LONG 2
+   }
+  LIMIT: LONG 10
+
+EQUIVS:
+#0: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 1 gspo, 0 const, 0 opt, 0 subq: _::default_11_0 in s_17_14_t0; notNULL IRI reference)
+#1: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 3 gspo, 1 const, 0 opt, 0 subq: tweet in s_17_14_t0 s_17_14_t1 s_17_14_t4 s_17_14; notNULL reference exported)
+#2: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 1 gspo, 1 const, 0 opt, 0 subq: date in s_17_14_t0 s_17_14; notNULL)
+#3: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 1 gspo, 0 const, 0 opt, 0 subq: _::default_12_2 in s_17_14_t1; notNULL IRI reference)
+#4: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 3 gspo, 0 const, 0 opt, 0 subq: entity in s_17_14_t1 s_17_14_t2 s_17_14_t3; notNULL reference)
+#5: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 1 gspo, 0 const, 0 opt, 0 subq: _::default_13_4 in s_17_14_t2; notNULL IRI reference)
+#6: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 1 gspo, 0 const, 0 opt, 0 subq: _::default_13_6 in s_17_14_t3; notNULL IRI reference)
+#7: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 1 gspo, 0 const, 0 opt, 0 subq: _::default_14_8 in s_17_14_t4; notNULL IRI reference)
+#8: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 3 gspo, 0 const, 0 opt, 0 subq: hashtag in s_17_14_t4 s_17_14_t5 s_17_14_t6; notNULL reference)
+#9: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 1 gspo, 0 const, 0 opt, 0 subq: _::default_15_10 in s_17_14_t5; notNULL IRI reference)
+#10: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 1 gspo, 0 const, 0 opt, 0 subq: _::default_16_12 in s_17_14_t6; notNULL IRI reference)
+#11: ( 0 subv (0 bindings, 0 nest.opt.), 0 recv, 1 gspo, 2 const, 0 opt, 0 subq: hastagLabel in s_17_14_t6 s_17_14 s_17_14; notNULL exported)
