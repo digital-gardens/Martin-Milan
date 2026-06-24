@@ -9,15 +9,18 @@ title: 0112-belly-peristaltika-obnovit-trávení
 
 ---
 
+// [pokus]... [ENTITNÍ TYPY], #ENTITNÍ_TYPY   ... [notace]
+// existují relace mezi entitními typy
 
 
 # links 
 [[0b-vyhýbat-se-nemocnici.publ.md]]
 [[011-POMOC-pro-Martina-Milana.publ.md]]
-## téma music pro lepsi dychani 🎵 🎵 
+## téma #music pro lepsi #dychání 🎵 🎵 
 
 
-## 0112 meditace, mindfulness 
+## 0112 meditace, mindfulness, [pauza]
+
 https://anagora.org/meditation%20for%20programmers
   - meditation for programmers 
     - thanks for returning
@@ -34,14 +37,14 @@ pomodoro
 ## Any coders/programmers who are able to meditate or practice mindfulness while in the process of coding?
 
 
-
+[pauza]  #pauza  
 # potřeboval bych pomoct  
 i uprostřed prací    
 učit se  
 často dělat pauzy,  
 každých pár minut,
 a částečně se uvolňovat,  
-aby se obnovilo trávení
+aby se obnovilo #trávení
 
 důvody, proč obnovovat trávení:
 
@@ -53,16 +56,25 @@ moje trávení je často zpomalené,
 
 při strachu se mi často zastaví trávení,
 
+// [epizoda strachu] #strach 
+// ~~ apnoe? ze soustředění, stresu, počítačová a.?
+
+
+
 často mám několik strachů najednou,
 
 mám velmi těžkou poruchu  
 s rysy autismu a úzkostí,
 
+// [duševní porucha]
+
 jsem na plném invalidním důchodu,
+
+// [invalidní důchod]
 
 mám chronickou nemoc, která způsobuje vážné trávicí potíže a úbytek hmotnosti,
 
-
+// [tělesná hmotnost]
 
 
 
@@ -88,6 +100,8 @@ additional tags:  puls akupresura shiatsu
 
 pozn.:
 
+
+[instance peristaltiky]
 slyšitelná peristaltika jako příznak uvolnění
 
 puls v břišní tepně jako příznak uvolnění
