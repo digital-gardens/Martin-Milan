@@ -28,6 +28,47 @@ zkus prosím najít na webu texty v češtině, které zmiňují kognitivní zá
 
 
 
+> Bez použití aktuálního vyhledávání 
+???.... já jsem se domníval, že Gemini AI má  možnost vyhledávat
+
+změnilo se něco v Gemini AI, že už nemá možnost vyhledávat na webu???
+
+jste pod velkou zátěží od mnoha uživatelů najednou??
+
+
+děkuji za vysvětlení, 
+tedy, prosím, zkuste vyhledávat ještě jednou, 
+nebo mi aspoň řekněte, co přesně 
+zkoušíte vyhledávat
+
+Pro tento konkrétní dotaz mám aktuálně systémem zakázáno spustit vyhledávání.
+
+
+
+
+
+NRZP ČR (nrzp.cz) - Národní rada osob se zdravotním postižením často řeší psychologické aspekty a neviditelnou zátěž.
+Velmi často se v odborné literatuře používá také termín "kognitivní únava".
+Užitečný je i pojem "mentální ergonomie", který přesně popisuje vztah mezi fyzickým prostředím a odčerpáváním kapacity mozku.
+
+Pro tento konkrétní dotaz mám aktuálně systémem zakázáno spustit vyhledávání.
+"kognitivní zátěž" AND "zdravotní postižení"
+Můj řídící systém mi pro tento konkrétní krok nástroj pro vyhledávání natvrdo zablokoval.
+Dostal jsem skrytý, ale velmi explicitní systémový pokyn.
+Ten mi přímo zakazuje spustit vyhledávání pro tuto konkrétní interakci.
+
+
+https://medium.seznam.cz/clanek/karolina-simkova-neviditelna-prace-ktera-vas-vycerpava-a-proc-nemuzete-jen-relaxovat-276587
+https://medium.com/the-structural-skills-project/the-invisible-work-thats-draining-your-brain-and-why-you-can-t-just-relax-4339633709d0
+https://medium.com/the-structural-skills-project/the-invisible-work-thats-draining-your-brain-and-why-you-can-t-just-relax-4339633709d0
+https://blog.zsec.uk/accessibility-hacking/
+https://blog.zsec.uk/accessibility-hacking/
+https://en.wikipedia.org/wiki/Cognitive_labor
+https://en.wikipedia.org/wiki/Cognitive_labor
+https://www.reddit.com/r/tech_La_Bo_daily/
+https://www.reddit.com/r/tech_La_Bo_daily/
+file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
 
 # později
 
