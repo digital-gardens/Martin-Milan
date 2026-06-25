@@ -1,4 +1,5 @@
-0119pozdeji
+0119-brainstorm-a-pozdeji.publ.md
+
 
 # téma 0119-potreboval-bych-pomoc
 
@@ -8,6 +9,22 @@
 
 
 
+
+# one hand  20260625  cognitive drain  kognitivní zátěž
+---
+title: "One Armed Hacker"
+source: "https://blog.zsec.uk/accessibility-hacking/"
+author:
+  - "[[Andy Gill]]"
+published: 2025-12-06
+created: 2026-06-25
+description: "Learning to work one-hand
+
+#aaaaa Something I hadn’t considered is the sheer mental exhaustion of only being able to use one arm. It’s not just physically exhausting it’s a constant **cognitive drain**  trying to solve basic problems you’v
+
+
+please translate to czech, **emphasize** the **cognitive drain**
+zkus prosím najít na webu texty v češtině, které zmiňují kognitivní zátěž** , když je člověk zdravotně postižený
 
 
 
