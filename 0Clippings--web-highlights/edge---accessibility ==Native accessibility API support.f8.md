@@ -1,0 +1,196 @@
+
+====edge://accessibility/
+
+edge://accessibility/
+
+#html #obsidian-trick trick #aa ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAEJJREFUOI1j/O4n958BB+Dc9IixfhcDTvlGNwZGJlySxIJRA6hgAMWAkWHJe5zxzBAjyPh/J+50wOg+mg4GhwEUAwCoEQ0bC4h1OgAAAABJRU5ErkJggg==)
+
+Use this page to inspect the internal representation of accessibility in Microsoft Edge. You can see and modify the various accessibility modes Microsoft Edge has. You can also view the accessibility tree for a specific page, or for the Microsoft Edge app natively.
+
+## Accessibility modes:
+
+Check/uncheck accessibility modes to see how they change a page's accessibility.
+
+#aaa ==Native accessibility API support
+
+Allows Microsoft Edge to be controlled via native accessibility APIs specific to this platform.
+
+ Web accessibility
+
+Accessibility support is enabled for web content.
+
+ Text metrics
+
+Enables support for querying line breaks and the bounding box of arbitrary character ranges.
+
+ Screen reader support
+
+Exposes accessibility APIs typically needed only by screen readers.
+
+ HTML
+
+Exposes HTML tag names and attributes via accessibility APIs.
+
+## Accessibility tree viewing options:
+
+API type shown in the tree: blinkia2uia
+
+### Filters:
+
+Use filters to match the attributes and attribute values you want included in the output. Filters can contain simple wildcards (*) only, they're not regular expressions. Attributes are separated by spaces.
+
+Allow: 
+
+Include these attributes. Empty attributes are skipped.
+
+Allow empty: 
+
+Include these attributes, even if they are empty.
+
+Deny: 
+
+Exclude these attributes.
+
+## Locking the accessibility mode from being changed by other applications:
+
+Accessibility features in Microsoft Edge are off by default and enabled automatically on-demand. Changes to these modes only take effect until the next time Microsoft Edge is restarted.
+
+ Lock the current accessibility mode from being changed except by this page.
+
+To force accessibility to be enabled at launch, run Microsoft Edge with this flag:
+
+--force-renderer-accessibility
+
+To force the accessibility AXMode to one of the three predefined bundles (basic, form-controls, or complete), run Microsoft Edge with the --force-renderer-accessibility flag and optional argument:
+
+--force-renderer-accessibility=[basic|form-controls|complete]
+
+==If the optional parameter is absent, the AXMode bundle will default to complete.
+
+To disable accessibility, run Microsoft Edge with this flag:
+
+--disable-renderer-accessibility
+
+## Microsoft Edge Native UI:
+
+Set a delay, in milliseconds, before getting the native accessibility tree:
+
+ ms
+
+### Accessibility Internals | Show accessibility treeCopy accessibility tree
+
+### DevTools - developer.chrome.com/docs/devtools/recorder | Show accessibility treeCopy accessibility tree
+
+### DevTools - edge://accessibility/ | Show accessibility treeCopy accessibility tree
+
+
+
+
+## #obsidian-trick trick Pages:
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAATtJREFUOI2Nk91Nw0AQhL+18k6oAFMBoYIkHaQEqIASSAcOFTglQAWGCuJUYFOBTQXDy4RcTo7ESifvnWfudvYHMpO0klRJ6nS2g6RaUpnjU+LcxMGETlLp1SVnVcorEr8BboF7YA6sI6KPiB54BkpgDYQvm6evV5J29jeSPicibCSt7O9PkYR1dcAbMAJLc76yO5aO7MPfF2BdAK/A3mSABdBPpOloGRj7DmywnkUS6nCh7zLJQ7IvJXVIUgZUTr72T5KKa+D/WgH0WYOM1yQkecKy25mzWkk6JvitpDG7487EbbJvZ85mA3z7hR54mChjCbT2b4AnNx1I2kmqOc9CMyGhkbQha7w/fS5n5fIMp64jKZlxtaRDmkQiYoyIRyAspwfq0zD5bHTH/ngmps2kvaQ2GefeMlc5/hemVzcjH3i3rQAAAABJRU5ErkJggg==)### learn.microsoft.com https://learn.microsoft.com/en-us/windows/win32/winauto/uiauto-glossary
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAATtJREFUOI2Nk91Nw0AQhL+18k6oAFMBoYIkHaQEqIASSAcOFTglQAWGCuJUYFOBTQXDy4RcTo7ESifvnWfudvYHMpO0klRJ6nS2g6RaUpnjU+LcxMGETlLp1SVnVcorEr8BboF7YA6sI6KPiB54BkpgDYQvm6evV5J29jeSPicibCSt7O9PkYR1dcAbMAJLc76yO5aO7MPfF2BdAK/A3mSABdBPpOloGRj7DmywnkUS6nCh7zLJQ7IvJXVIUgZUTr72T5KKa+D/WgH0WYOM1yQkecKy25mzWkk6JvitpDG7487EbbJvZ85mA3z7hR54mChjCbT2b4AnNx1I2kmqOc9CMyGhkbQha7w/fS5n5fIMp64jKZlxtaRDmkQiYoyIRyAspwfq0zD5bHTH/ngmps2kvaQ2GefeMlc5/hemVzcjH3i3rQAAAABJRU5ErkJggg==)### g.co https://g.co/devtools/recorder#selector
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAATtJREFUOI2Nk91Nw0AQhL+18k6oAFMBoYIkHaQEqIASSAcOFTglQAWGCuJUYFOBTQXDy4RcTo7ESifvnWfudvYHMpO0klRJ6nS2g6RaUpnjU+LcxMGETlLp1SVnVcorEr8BboF7YA6sI6KPiB54BkpgDYQvm6evV5J29jeSPicibCSt7O9PkYR1dcAbMAJLc76yO5aO7MPfF2BdAK/A3mSABdBPpOloGRj7DmywnkUS6nCh7zLJQ7IvJXVIUgZUTr72T5KKa+D/WgH0WYOM1yQkecKy25mzWkk6JvitpDG7487EbbJvZ85mA3z7hR54mChjCbT2b4AnNx1I2kmqOc9CMyGhkbQha7w/fS5n5fIMp64jKZlxtaRDmkQiYoyIRyAspwfq0zD5bHTH/ngmps2kvaQ2GefeMlc5/hemVzcjH3i3rQAAAABJRU5ErkJggg==)### DevTools devtools://devtools/bundled/device_mode_emulation_frame.html?remoteBase=https://devtools.azureedge.n…
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAATtJREFUOI2Nk91Nw0AQhL+18k6oAFMBoYIkHaQEqIASSAcOFTglQAWGCuJUYFOBTQXDy4RcTo7ESifvnWfudvYHMpO0klRJ6nS2g6RaUpnjU+LcxMGETlLp1SVnVcorEr8BboF7YA6sI6KPiB54BkpgDYQvm6evV5J29jeSPicibCSt7O9PkYR1dcAbMAJLc76yO5aO7MPfF2BdAK/A3mSABdBPpOloGRj7DmywnkUS6nCh7zLJQ7IvJXVIUgZUTr72T5KKa+D/WgH0WYOM1yQkecKy25mzWkk6JvitpDG7487EbbJvZ85mA3z7hR54mChjCbT2b4AnNx1I2kmqOc9CMyGhkbQha7w/fS5n5fIMp64jKZlxtaRDmkQiYoyIRyAspwfq0zD5bHTH/ngmps2kvaQ2GefeMlc5/hemVzcjH3i3rQAAAABJRU5ErkJggg==)
+### DevTools - developer.chrome.com/docs/devtools/recorder devtools://devtools/bundled/devtools_app.html?remoteBase=https://devtools.azureedge.net/serve_file/@…
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAATtJREFUOI2Nk91Nw0AQhL+18k6oAFMBoYIkHaQEqIASSAcOFTglQAWGCuJUYFOBTQXDy4RcTo7ESifvnWfudvYHMpO0klRJ6nS2g6RaUpnjU+LcxMGETlLp1SVnVcorEr8BboF7YA6sI6KPiB54BkpgDYQvm6evV5J29jeSPicibCSt7O9PkYR1dcAbMAJLc76yO5aO7MPfF2BdAK/A3mSABdBPpOloGRj7DmywnkUS6nCh7zLJQ7IvJXVIUgZUTr72T5KKa+D/WgH0WYOM1yQkecKy25mzWkk6JvitpDG7487EbbJvZ85mA3z7hR54mChjCbT2b4AnNx1I2kmqOc9CMyGhkbQha7w/fS5n5fIMp64jKZlxtaRDmkQiYoyIRyAspwfq0zD5bHTH/ngmps2kvaQ2GefeMlc5/hemVzcjH3i3rQAAAABJRU5ErkJggg==)### learn.microsoft.com https://learn.microsoft.com/en-us/windows/win32/winauto/accessibility
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAK9JREFUOI2tkkENwzAMRa1qAAIhEAJhDFYGG4QxSBlsjAqhEAqhEN4Os6okTRpPmi+R8p+/7cQiJwEEYOEbrzO2ZbACd8ADM3DrJUSKSLSpkGLNAMAZOnOpeWbww3iIiFxSV2OiE5FQXkZgA+ZO8s5lrL62N1Q/cIOepvabHPBU994IO3dgdVm6v6Dc9W/fOFQE0yK1hHJdp7RiS2uZjfpYHngAq3G6zOSt1RYg1JgPhJ0KPB0f7hYAAAAASUVORK5CYII=)### Extensions edge://extensions/
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAATtJREFUOI2Nk91Nw0AQhL+18k6oAFMBoYIkHaQEqIASSAcOFTglQAWGCuJUYFOBTQXDy4RcTo7ESifvnWfudvYHMpO0klRJ6nS2g6RaUpnjU+LcxMGETlLp1SVnVcorEr8BboF7YA6sI6KPiB54BkpgDYQvm6evV5J29jeSPicibCSt7O9PkYR1dcAbMAJLc76yO5aO7MPfF2BdAK/A3mSABdBPpOloGRj7DmywnkUS6nCh7zLJQ7IvJXVIUgZUTr72T5KKa+D/WgH0WYOM1yQkecKy25mzWkk6JvitpDG7487EbbJvZ85mA3z7hR54mChjCbT2b4AnNx1I2kmqOc9CMyGhkbQha7w/fS5n5fIMp64jKZlxtaRDmkQiYoyIRyAspwfq0zD5bHTH/ngmps2kvaQ2GefeMlc5/hemVzcjH3i3rQAAAABJRU5ErkJggg==)### DevTools - edge://accessibility/ devtools://devtools/bundled/devtools_app.html?remoteBase=https://devtools.azureedge.net/serve_file/@…
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAiJJREFUOI2FkktIlFEUx3/33vEbx6KBNlZU9hTalBlpjRGFEfZYRBFSYVCLKFzkLmqdUauihzULdy2jwCDsYZTUwoVMCzFNzUdQpJVM4Osbz3da6NioUx443AP3vP7n/4c5pqrFIhIXkS4R8af9k4g8UNWiufmZhXkiUq8LmIjEVTWSrjMZxc+dc7vU9xl/+ojxpkakvxeVgFDBGsLlFUSOVGI8DxFpds5VGGPGDICI1FtrzwZD30lermGyryfrlt62UqI37gAQBEHcOXfeqGox0Kq+z/CFKqS/F+N5RI6dxCuJgbX4Le+ZePuKaO1N3MrVmT23Mo1JU4nb+uNoqQ7u36F+24ds4LPdow4R6VJVnWzZrhMNeTr6sHqhO2Y26AgBBQA60o7NS5ETOzQLd/m1kXm32LnRcfV4LsBam8Hj7Pc/5k/+jS3QBzAaXsdvFtPwtWNWctOVRTO+Z1MIgGVRk/7+bIHXAN1Lqzj1K8b1zhYSQ+3zpnZ+C3jXOTW6ZH1opr+ZlmfClxSnX16iJzmAZ3OoLDxI2fJirLG0DrbxJDHM2JdKCvM97p+JYKaW2JIWUtxae25w9CcXm2vpTg5kxb4hXMatvTXkRw1BENQ556rTUo6ISKNzbrcfpHjc/YJn/c30JAdAoWDJCvatinGi8DCRUBhVfWOMOWCMGc8gQSNpUS3A/T1Vzf0nRapaJCJ1ItIhIhPT/lFE7qrq5rn5fwCk87BRpr1DVAAAAABJRU5ErkJggg==)### Type the following statement in the javascript console: debugger Now you can inspect the global scop… https://www.google.com/search?q=+Type+the+following+statement+in+the+javascript+console%3A+debugger+…
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAATtJREFUOI2Nk91Nw0AQhL+18k6oAFMBoYIkHaQEqIASSAcOFTglQAWGCuJUYFOBTQXDy4RcTo7ESifvnWfudvYHMpO0klRJ6nS2g6RaUpnjU+LcxMGETlLp1SVnVcorEr8BboF7YA6sI6KPiB54BkpgDYQvm6evV5J29jeSPicibCSt7O9PkYR1dcAbMAJLc76yO5aO7MPfF2BdAK/A3mSABdBPpOloGRj7DmywnkUS6nCh7zLJQ7IvJXVIUgZUTr72T5KKa+D/WgH0WYOM1yQkecKy25mzWkk6JvitpDG7487EbbJvZ85mA3z7hR54mChjCbT2b4AnNx1I2kmqOc9CMyGhkbQha7w/fS5n5fIMp64jKZlxtaRDmkQiYoyIRyAspwfq0zD5bHTH/ngmps2kvaQ2GefeMlc5/hemVzcjH3i3rQAAAABJRU5ErkJggg==)### Accessibility Internals edge://accessibility/
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAytJREFUOI11U99rm2UYPc/zfl++xJikafpLW1uWwqbNNo0rbijqKCgWJmyCongz/FEExSuH+A+IoGPg9Gqr6I0gTmHsoitzRSaKk9nKcD+l0tpOm6Zps8Qk3/e93/s+XnR1RfC5ei4O5xw45xD+e+7onsw280rXoB7J9JgeAVBbUkvlWXeqek0dh574cTOcbr/PqlSh9u7QXv/NnU/78bvua8GNCQSACQl/Xkngl1Px4OpU4sP6ldPvADAbBAwMOV3DfV88caixv7ivKsoT41dZidxSIcBLWWM0qZlTbfTN4eTJ5QuLzwGXIwVAktuK742+3Xxp9wurYb2suHTNVfGM/OtNLOFmyWEikcHdTR1LuoW5Sx3psDI7oeDuu3/4+caxkTfWKKiTOv1+G/8x7cnWvS2CgOiWx8kP2rAw49FAMeDe7YFdmXOHb8wUJjg3FLxWPOB7xFaaNxWVZ2Py6Ks1YgVYS7CGQAx6+GAdNy55aNYUkbLy4DO+216Ixpxsv3m8Ix+I0eBYwkL7hFSnkVjCkuOSAAA7Iu13R4AIYp6F0cSd+UBy/dEjTrLD5B3Xko0IZ49mqL/oY/FiDMYQlBISIYAgBKG+HaGcOdqG0UNr5LiWkh2mnwHIRqBhiwWAiEAIgIAEJCIWBIbokKBbm5IXkNOsqPlI81YvaeWpt9bo05e7MPJ6DYmsgUTrYHZEWlXGmcNZHBwvgR1IFDIaFV7gyrzz/crvHilPrA4YYFD1L0W6xfD/ZvIbTGGLqb6iyI0LRSFDxcSuzHlUmXfP8ep1jE9/HTcSMSXSVgZ2BXL+8ztFDKAcEaVErAHOHUtL56BGImNFIqbpr+J69TIfV4hmF6rVeztT3WpP/qGG7t0eqr6dIVxvU9GFkBvQVHiyZdPdJvrpy3b3u/E7PtLlyU8UAAorQ9+WFvkxL+Xk+3b4NpkVazV4o8bMQG5LZJQLvnAi65w9kjxZ/XVxDCiLWpe4rptBz4n5n1P3LP/mPaA84njGEAhkLZH2mWbPJ3nq43T4w2fJI2sXJ8eAcrTu7fYq1+PMje5v78WLuS3+rnS36QGAekktLf/PnP8BUWh8dsonPOMAAAAASUVORK5CYII=)
+### coddingtonbear.github.io https://coddingtonbear.github.io/obsidian-local-rest-api/#/Status/get_
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAvlJREFUOI1N019o1XUYx/H38/3+fqfzZ45tbaSYNhoGgiNKZhIsbdC5MqSuugo0wjTsJtAskOrKCV61oEWz7KaLBAnJYGjOhKaDxS4alOhpOjUn68zTzs623+/3fZ4uNsnPzfNcfD6XLwEwEAEDsD5ewvEWQi/GkxiCl2mwy/jopPyUXXp0I6zGtlKkjX5gH0KMAoYp4BRBgECKZ5ASh+UsDQAxELZSoI0zRJRJUUABZ4iImiy1rtf40En19arjs/2O+oNhHK8zTMMJGG30E1Emk2UEcM6r8yKxk+9rRTtCt8z0lKPFvjdcuvH5ZQJlxB8TMLE+XiRihICQ4CxGLAGXwcVF5Ey9wKdPYfNvn8CnddYOHTLnUWIxMtsREbGPjNiiXEbXJuHv61jXs9iOXdKa32AHI6SlVpGmc1+an5pAnt4s3LsBaRIT8Q72MhXb3aE6ORpClqhO/6lmZsH+T7Z69c41DVmiOvlrsN0dqn38hW0jSY/v0dTMVIMuB7OZsSuaLCxYmiaWpokl9brdH7uqy7rSSc0sO7432DZSRw6XVP7g/lzNEGH29Deme7ZLMvojKg4Tx9KF04S9L8g/Z79b6czVbPnGpJBDHE3uVnFilMLXH9s8Ivm17bT39lips5Oc98Tes6a7m47eHss3l1hAJH/qEytOXIUmd0tC2Z1ymb6ZPb4hu/P5b35Nc6u5bMkd6z9hU9evCcDGrk324QfvC7mizv9bk3UHngvR7M1II/etc0G/sFiy6O60f2zoqFWqDamm3kqlglwYuWTnL45YU7EgD0JklbmG5L46atHdm0Isqct0UADsFQbw8i7zprPbX5V7u96juLmHWpKJmtGSz1ljcox15was/coPgWaJSWxAznNQVmF4ykyCPEPdhKK3pfVbkCc6MQGbmbLC7d+VxRDRIpDYMFVeY5xFsZ1EeI7g+QglMu+ETEUShIABQgTkAXEpqoNUOSzjDzHtZAs5xlFyq4hWhDr38M0Qu03QyyhD8jO/PMr5P3BsllJjR+PUAAAAAElFTkSuQmCC)### Where is the user's global configuration stored on Windows, assuming it exists at all? : r/Obsid… https://www.reddit.com/r/ObsidianMD/comments/1fddz2v/where_is_the_users_global_configuration_stored_…
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAATtJREFUOI2Nk91Nw0AQhL+18k6oAFMBoYIkHaQEqIASSAcOFTglQAWGCuJUYFOBTQXDy4RcTo7ESifvnWfudvYHMpO0klRJ6nS2g6RaUpnjU+LcxMGETlLp1SVnVcorEr8BboF7YA6sI6KPiB54BkpgDYQvm6evV5J29jeSPicibCSt7O9PkYR1dcAbMAJLc76yO5aO7MPfF2BdAK/A3mSABdBPpOloGRj7DmywnkUS6nCh7zLJQ7IvJXVIUgZUTr72T5KKa+D/WgH0WYOM1yQkecKy25mzWkk6JvitpDG7487EbbJvZ85mA3z7hR54mChjCbT2b4AnNx1I2kmqOc9CMyGhkbQha7w/fS5n5fIMp64jKZlxtaRDmkQiYoyIRyAspwfq0zD5bHTH/ngmps2kvaQ2GefeMlc5/hemVzcjH3i3rQAAAABJRU5ErkJggg==)### DevTools devtools://devtools/bundled/device_mode_emulation_frame.html?remoteBase=https://devtools.azureedge.n…
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAptJREFUOI1lkk2IVnUYxc/z/D/ue+84TlKaLYRWE30gtBuJcDVBgaDIQFOEQVAUBLVwFq7uhCiNtIoWLXJhWs0MIu3ETRsXRYEraaEYuXHRl6Lzvvf+v06LmVfG17P7w/McznP+P2BCbUsFgAunuWv1TLj6w0q4OjmzXfLokwIIz54c7puq3OrOHfbA3fvxF5Pk0xTsjbda+XvSwE4unz/Vv+Ard8kamQ0RAMy3xZYldakC8MZ4bryl28LwXMs9xuKyNTKbc87DLt8q4B8ieK0Z2NdXV+ISICQojxiM73ZVeMU5v6+Poa8rY4i8Zljmm9o2oz4VAie++fyvaZlMcP36ZhdqzK6BB0CRLpIK8zsF8zGCpVAptA2emt7egQLA+rrktQWayHDlwUb8qR44H2IqpeQOkJlMQARUSGVMfAagkJtnPOxg40VMW3XfUfSL0Mcb040zVHkCKP9aAwHRDSprU+I8IFxe3kq9sEADAFUdjzz9pH0VJb+binw9VSOoYCDUNW8RvXd1iKWo0Y/PnuLutpUCUGRc4mwdrg0q91LKzClzURjvbv6yTImgUMphZ917VoFRiOcXj/t3AIoFgOebfMR5u78PKexonN8YpZdJs7ep7bFRn9Q7vT3q9JOo6c+ZKftZF7B3zIMCQEGZqZxCRLIICciMqHpVWIIZ0GerCheZ8et/98KVkmUZELagypYTvl9JX9WV+VAVeDAMJwSYaxp/aDiKBSC99zb28SZH7uCbLe6MWdAtLLm4ZD/q+nihDwUW/jdVnYuRgKCIiORUSMHu0N/vHwNprHtD934oPJw1zFXO1jEl1pVzImq8UxHhz8dO7/znMZDG+qCV4dvH7Y+d9V9m4jmSR0ddOFlyuVZKASHr29EHgP8BiWxCmGF003cAAAAASUVORK5CYII=)### Plugins - Obsidian https://obsidian.md/plugins?search=update
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAvlJREFUOI1N019o1XUYx/H38/3+fqfzZ45tbaSYNhoGgiNKZhIsbdC5MqSuugo0wjTsJtAskOrKCV61oEWz7KaLBAnJYGjOhKaDxS4alOhpOjUn68zTzs623+/3fZ4uNsnPzfNcfD6XLwEwEAEDsD5ewvEWQi/GkxiCl2mwy/jopPyUXXp0I6zGtlKkjX5gH0KMAoYp4BRBgECKZ5ASh+UsDQAxELZSoI0zRJRJUUABZ4iImiy1rtf40En19arjs/2O+oNhHK8zTMMJGG30E1Emk2UEcM6r8yKxk+9rRTtCt8z0lKPFvjdcuvH5ZQJlxB8TMLE+XiRihICQ4CxGLAGXwcVF5Ey9wKdPYfNvn8CnddYOHTLnUWIxMtsREbGPjNiiXEbXJuHv61jXs9iOXdKa32AHI6SlVpGmc1+an5pAnt4s3LsBaRIT8Q72MhXb3aE6ORpClqhO/6lmZsH+T7Z69c41DVmiOvlrsN0dqn38hW0jSY/v0dTMVIMuB7OZsSuaLCxYmiaWpokl9brdH7uqy7rSSc0sO7432DZSRw6XVP7g/lzNEGH29Deme7ZLMvojKg4Tx9KF04S9L8g/Z79b6czVbPnGpJBDHE3uVnFilMLXH9s8Ivm17bT39lips5Oc98Tes6a7m47eHss3l1hAJH/qEytOXIUmd0tC2Z1ymb6ZPb4hu/P5b35Nc6u5bMkd6z9hU9evCcDGrk324QfvC7mizv9bk3UHngvR7M1II/etc0G/sFiy6O60f2zoqFWqDamm3kqlglwYuWTnL45YU7EgD0JklbmG5L46atHdm0Isqct0UADsFQbw8i7zprPbX5V7u96juLmHWpKJmtGSz1ljcox15was/coPgWaJSWxAznNQVmF4ykyCPEPdhKK3pfVbkCc6MQGbmbLC7d+VxRDRIpDYMFVeY5xFsZ1EeI7g+QglMu+ETEUShIABQgTkAXEpqoNUOSzjDzHtZAs5xlFyq4hWhDr38M0Qu03QyyhD8jO/PMr5P3BsllJjR+PUAAAAAElFTkSuQmCC)### Are you concerned about Community Plugins and security/privacy? : r/ObsidianMD 
+https://www.reddit.com/r/ObsidianMD/comments/1gwm3ga/are_you_concerned_about_community_plugins_and/
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAxJJREFUOI1tk01sVFUUx3/n3vfe0Jm2r7ZQgThU0xI/UolhMOLCQgwGIyZIyCgu0JViJMYYF8YFZhBZCJtu0ISVMYZgB2tKKi7EKsGQgHwkbWlUIhFoaEszw5ROp9N5797rYkAk4b/+n3N+5wvulQDkcjkFcOZAd3pyaOsv7kSndSdXjswdSa8BcLd9/wXcV+/0tw+t3rO/ODX7xp+XStHG9Y1+ptOfohw9JZv+mbxjU/cGfd0OwN5Dq3hg6ah6fP3rm9fOmI09oR44Xq59/2v1wYWEtxWgrw9dT3Abl12D75JO/80nP/SyEH7RlPSWhMVTyvNSOvNIQn26s91bvhg3MFSAbJ8eG6vTe1x8ot6GSIj2GpXE79vacnof3WdXuRE1PRWypL0M85HqWNZ666eJl4+Rf9Xk8nVoj/yYA4SYH6nc2o1SGqm4U8VuvcH87PaMbnCVlodoDQruyOym5KRe2k9u236uj+c5uCMSyCnIWXYNPofvH8fEHlgwzRK6IjNlESIFXgDJyJHyBD8J87P9SOq1Ov4Hfa2ETadRuos4Mkor5UwkThJgq+j5sjO1GCILDUmLH3xIQ+I7OHPd471jCUJ3mGTYRbkQY/FsLYKED3YBtI8JmuThFnFrV7TGh4enfGoV+HzLOGS1oi3eDtLGXGkYFehljQn7dEebk9ggSoG1ALhUI2890yWIOFA99RHmraLiviX3UgZxXyJaGhsCs/eFx3A1gygh8BRYR1Ij01UjRA7BPUnmbR9win2bZ+slzKhI5C5du+ldKVXY2dOJnZ6jNlN1RMZ9vG6lG/xjUvA9pKmpg5516foa72jGjLpQFySZWPzR0RF7aFuG1dubuVGq0L2i1Z29dtN+c/6qI+Urm0gFaP0scPnuKfduKQHDblHCFY2LX/zqtB346wYFJ/LZb1fU7pPjnoShjxWFMSWM9e4SZLOafN5g7SgqeJ4gCkilODoyAfH4LL5cVqlFF+x8dA7rhpkYv8iBNwv/ayEL5EF7vxNVi5j4AiY+GzQH51qC4PwrYXj14I410f2e9l8gF0lVmyImHQAAAABJRU5ErkJggg==)### Pavel Trojan, zájemce o poptávku Výměna okapů a svodů • NejŘemeslníci.cz https://www.nejremeslnici.cz/poptavka/
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAATtJREFUOI2Nk91Nw0AQhL+18k6oAFMBoYIkHaQEqIASSAcOFTglQAWGCuJUYFOBTQXDy4RcTo7ESifvnWfudvYHMpO0klRJ6nS2g6RaUpnjU+LcxMGETlLp1SVnVcorEr8BboF7YA6sI6KPiB54BkpgDYQvm6evV5J29jeSPicibCSt7O9PkYR1dcAbMAJLc76yO5aO7MPfF2BdAK/A3mSABdBPpOloGRj7DmywnkUS6nCh7zLJQ7IvJXVIUgZUTr72T5KKa+D/WgH0WYOM1yQkecKy25mzWkk6JvitpDG7487EbbJvZ85mA3z7hR54mChjCbT2b4AnNx1I2kmqOc9CMyGhkbQha7w/fS5n5fIMp64jKZlxtaRDmkQiYoyIRyAspwfq0zD5bHTH/ngmps2kvaQ2GefeMlc5/hemVzcjH3i3rQAAAABJRU5ErkJggg==)### learn.microsoft.com https://learn.microsoft.com/en-us/windows/win32/winauto/uiauto-securityoverview
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAzZJREFUOI1Nk01oXGUYhc95v3vvzCSZSSapSRNqVAipGE2wU7HaWtuFWqRIwAoW3RgUWggouNCVRHQnUgxqMSgiLlRQLILdtEhRa1tIITYLqTGmapxWbTr5mczPvfd7XxepP2dzNoezOechNkQABgAL2wZ2QMJnKLKHwn6SJsKFUOQM1d7tPv39t9gIk4DxegGmS30tXci/TspYNnBRDACkgUAgwpwTxEBCwdH1hcoLt1y61AAATgBSKvVlhzT/WUcU7FtOvSIMlGYC70ESzmVAJ15gblM2kkqiX/if9GBv+XzDnQLs1a7uyUI2eLyS+pjOidbr4kxZ6Cki25KhcgXGpnO5CDUm8Q1tbqjZ4zva5q58yc6TB+858v781w/OLGGtNRLWGuzcNmLBU+OcLQyDgaLUfhaZxVcYL8+YuJwJU1M1NTZ3Bj3L8eGPHugNts9Xk2hlnfk7h/HXxAccP5HDhR8rFIoN9e/H24/ttsE/9iG+Ok0EWQ0yaejXw0PSWvc759tDO1YqunziLRobx/jJFnxz7jJCMxP1PD27iMOfFNDY/BIChoB3gjg0RbBXPKw/V0vw6XCev49s4XxhGBfmVrCpGMEIgmJdhQxmf6lgplKCtHbTTOHVgSI3ijeFJIprOcHHd3dCPeBVr89L23Cj/PMWOBgdQQeKMzG137wAbSntWDFGvfNn7Lq5YJdXYwBKQPlnNdU7bupgqTgNbVZUgqy5wIHifhVTPWUC0kyT1OzNix/i5dEYoyObAXNm6mz/7d187dG6+fIRUxUanCJyNHXfcet7D293ZmcUII2sNmu8q3fQxoafoMS3IYChEswB5Tcw6r4ykVbQEiPNNPW7CQBbpx466lqjQ8lasylgWI1rFABbCu2IlWjWluzzwTIH8mJJqknYwUx6LZkM7198VgBwrXz1+XStcdy1BhmvipYgm0YSWXll1S4ureK5vtgG8iGbXhgWo0y6aseDcPFFM1AAWHnifK1Wqx5IqsmkQb0GFhIqDXPcW/R4srfhkI0QBUHiV+2dgOkB3os6+R+N/+Lc/9aeXU7xtHm7r+7RP3XrOh7pbFypKU60OD/FHT+c/T/OfwMouIlMF1Wv6QAAAABJRU5ErkJggg==)### developer.chrome.com/docs/devtools/recorder https://developer.chrome.com/docs/devtools/recorder
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAXFJREFUOI2N0ztrVVEQBeC1783jqhAEwUKrIAhi4QMlsdFfYWEr+GOiBLVIQNBCa1FEsLEJ/gE7IYKPWyiWgjEiSfxs5uDhYMSBDbP3mjXvnSRBSwku4QHeYxs/Sr+PpewnmMVqETr5VaeTbaxg1CeOMI/n/l8eV8BR5+ROAS9xDRvYwkd8KP1VYS/KdqUjL+MndrFWbzM4jkmdY5gr7HbZfse5mSQ3ksxVRbsYJ9lrrX3qtegzWmG7ScZJDia5HrytRm3jZK8v/cm07o5FfCvO61R9MMXsvmP642yMzXLwdZSkJZHkUJID/ch/IbckkyQLxRuPkkwLP5JkqbWmmjgsYaa1JslykqMVdBrcq3S2qoxT/8jgNN5gr8peD87X5S6elP4UZwbEh71+7dToz3YG6wVcwK1aqMWegxODdYbV4Spv4B2u4uIg9Qm+9Jw8K85oaPSoZ3S4hy1Un3aw1m3lcDydfhk3Mem9zdcvvDLk/AbOy0fZXHvpaQAAAABJRU5ErkJggg==)### Appearance https://github.com/settings/appearance
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAnBJREFUOI2Vk89r1GcQh59539kf2ewaLDFUaKEiSDAljQi99CQePRRpKQXxFGKh0Ev/AbdCwYt4qhcp9CC1KFjqRTzoQfAsFlwIpRSKqW2XalM3u/vd7/vO9LBmN5YqODAww/sy83neeQde0RxkZ66T6OTNWYaHpL3U5vShC9ItcIA9AHP44y7x1gm2RMgOIozPFWBh9d571bp+1dWBerPhNNHWTDVFMcpxedv9Zq4e+/L19Z+aK2vSu9HdLjJWEHVZtPGOo8SKQhPqhUzFGtBwGkVtcffik6bP7Tsht375AyAASPAklnIUK8uSIX16w6H3ym0vvOcjNh9nH3grHv21/trlu8eXFyYIB/a+RVCN+7Qe7hdrX/Pw7JmN1rzuld8ywCOfifs3BuWpA4unt97edaqS8pFBmd7n+x8vKoBqlBAVrYj8PXpjU07yCDYCiI0ZBgAsXZ3drM1GyUMxRmNABbBsSMiYR1cZRHdk6eoXugQZ4AEH40KnY1vZNGQnmgnu0ymE2CBIIDhi3hARHNqjzmTGndwBDl9mFBBxB0SmCp7YDx6k4pEaZe4XOHHl2w8/lkoKlswlxmg59ZywbCm7BCGnHQoelmcIoiZlwMXm3r320Xmf5TMrIiEEBIFYxczNhrmMMzE89xMDddVaJaZhojXXWvNsVSstSwwxaJyAiHvApRpqigxNp49o6XYa8E0ukul8XBaVFUmilu2OlfYz4hV4ho6IjVJRpnQb/rMYAIe/++Dz6nzjXNHtX9rql5+ur15/+rLl2mYR2iggbvnP8q/+pd//GX2yvnr9KW3Cs0ZT90n8P3aFuCN7waWp/QsrzxxU7m0DmAAAAABJRU5ErkJggg==)### Chat https://mail.google.com/chat/u/0/#search/space/AAAA2NU9Pu0/0004/cmembership=1
+
+Label images: falseAnnotate main node: false | Show accessibility treeCopy accessibility treeStart recording
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAEJJREFUOI1j/O4n958BB+Dc9IixfhcDTvlGNwZGJlySxIJRA6hgAMWAkWHJe5zxzBAjyPh/J+50wOg+mg4GhwEUAwCoEQ0bC4h1OgAAAABJRU5ErkJggg==)### Accessibility tools - AccEvent (Accessible Event Watcher) - Win32 apps | Microsoft Learn https://learn.microsoft.com/en-us/windows/win32/winauto/accessible-event-watcher
+
+Label images: falseAnnotate main node: false |
+
+
+
+[
+
+![Microsoft Logo](https://r.bing.com/rp/-cxlfEUImtRXZH94G33doggE41k.svg)
+
+Help from Microsoft
+
+https://support.microsoft.com/en-us/article/99c201e7-fa7a-9b0b-f947-dee965c1375b
+
+## Start or stop Narrator
+
+
+
+
+
+](https://www.bing.com/ck/a?!&&p=8ba818a8f9ccb8a2ca3e7fac35ea4b12721942929743b540d92a5f15cc7dd468JmltdHM9MTc0NTg4NDgwMA&ptn=3&ver=2&hsh=4&fclid=3ce4edf1-3263-6115-2ce7-e24d3321603e&psq=Turn+on+or+off+Narrator+easily+windows&u=a1aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tdXMvYXJ0aWNsZS85OWMyMDFlNy1mYTdhLTliMGItZjk0Ny1kZWU5NjVjMTM3NWI&ntb=1)
+
+There are three ways to turn Narrator on or off:
+
+- In Windows 10, press **Windows logo key** + **Ctrl** + **Enter** on your keyboard. In earlier versions of Windows, you may need to press **Windows logo key** + **Enter**.
+    
+- On the sign-in screen, select the **Ease of access** button in the lower-right corner, and turn on the toggle under **Narrator**.
