@@ -940,6 +940,8 @@ echo MsgBox test successful |  'D:\instu\AutoHotkey_1.1.37.02\AutoHotkeyU64.exe'
 ( echo MsgBox a ;   echo MsgBox b ; echo aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;  read x;   )  |  'D:\instu\AutoHotkey_1.1.37.02\AutoHotkeyU64.exe' '*'
 
 
+ 
+
 
 
 
@@ -1084,26 +1086,29 @@ AutoHotkey-clipboard-falsealarm-250421.f8.md
 
 
 
-# 20260609.1221 hotstrings
+
+
+# 20260609.1221 hotstrings aaaa         yyyy
+
+![alt text](image-17.png)
+
 https://www.autohotkey.com/docs/v2/Hotstrings.htm
 In the above example, the abbreviation btw will be automatically replaced with "by the way" whenever you type it (however, by default you must type an ending character after typing btw, such as Space, ., or Enter).
 
 O: Omit the ending character of auto-replace hotstrings when the replacement is produced. This is useful when you want a hotstring to be kept unambiguous by still requiring an ending character, but don't actually want the ending character to be shown on the screen. For example, if :o:ar::aristocrat is a hotstring, typing "ar" followed by the spacebar will produce "aristocrat" with no trailing space, which allows you to make the word plural or possessive without having to press Backspace. Use O0 (the letter O followed by a zero) to turn this option back off.
 
 
-
-
-
-#nnnn Known limitation: On some systems in Java applications, hotstrings might interfere with the user's ability to type diacritical letters (via dead keys). To work around this, Suspend can be turned on temporarily (which disables all hotstrings).
 #yyyy HOPE THEY ARE not interfering with my czech keyboard layout ...
        DEAD KEYS ďť ok ,  ňžzzzz ...then space helps ... subsequent zz zz zz are ok 
-
 #yyyy AND MY STICKY KEYS .... OK
+#nn bug Known limitation: On some systems in Java applications, hotstrings might interfere with the user's ability to type diacritical letters (via dead keys). To work around this, Suspend can be turned on temporarily (which disables all hotstrings).
+
 
 #HotIf WinActive("ahk_class Notepad")
 ::btw::This replacement text will appear only in Notepad.
 #HotIf
 ::btw::This replacement text appears in windows other than Notepad.
+
 
 to gemini
 
@@ -1114,21 +1119,26 @@ hhh
 that expands to
 ###### 
 
-
 ```
 :X*:hhh::Send("#")
 ```
 #bug this sends the win key instead of the # key .... 
 
-:X*:hhh::Send("`#aaa")
-
-not better
-
+;;;;;:X*:hhh::Send("`#aaa")          not better
 
 :X*:hhh::Send("{#}") 
 ; #yyy 
 
-#testhhhh # # # aazzzzz
+
+###### test zz zza zzh  zzz
+  yyy indented #testhhhh # # # aazzzzz 
+  - #aaaa zza tab   some bug zzzzzzzzzzznothing, pomohlo  press space , then z z 
+
+###### test ww wwa 
+  - ℹ️ #aaa - ℹ️ #aaaa indent ###### test ww 
+  - ℹ️ #aa - ℹ️ #aaa - ℹ️ #aaaa indent ###### test ww 
+
+
 
 :X*:hhh::Send("###### ")
 

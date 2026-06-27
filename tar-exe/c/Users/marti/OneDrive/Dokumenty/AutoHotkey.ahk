@@ -1,11 +1,12 @@
 ; use semicolon for comments in ahk
 ; this is not a .f8 file, but a .f5 file
 
+; aaa please.. ctrl end ... aaa goto THE END OF THIS FILE ..aaa; notes about debugging !!!
+
 ; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
-; #bug 20260609 hard to maintain the structure of this file, because there are many sections,  .........
+; bug 20260609 hard to maintain the structure of this file, because there are many sections,  .........
 
-
-;test v2 :   win+q AutoHotkey run the Dokumenty script
+; aa test v2 :   win+q AutoHotkey run the Dokumenty script
 ;test v1:   ^win+space
 
 ; SECTIONS START WITH ;=  or   ;#if =
@@ -13,15 +14,11 @@
 
 ;============================== DO the  TEST, BECAUSE IT IS AUTORUN  ==============================
 
-;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
-; notes about debugging !!!
-
-
-
-; f8 works ;
-
-; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
+; aa   f8 works ;
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\"
+
+; old explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
+
 
 ; # git push
 ; ## C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
@@ -47,6 +44,7 @@
 
 
 ;============================== Start Auto-Execution Section ==============================
+
 
 #Requires AutoHotkey v2.0
 #Warn
@@ -147,27 +145,27 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 
 
 
-;==============================  20260609.1221  hotstri   ==============================
-; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
-; #TODO
+;==============================  20260609.1221  hotstrings yyyy   ============================== yyyy do the test at the end of this file yyyy
+; #TODO qq eee?
+; #TODO capslock?  sss?
+; #TODO ccc vv?
+; #bug hand ache \ z x
+; #bug hand ache ctrl win alt
 
-;;:X*:zzz::Send("{Home}{Space}{Home}")
-:X*:zz::Send("{Home}{Space}{Home}")
+;;;:X*:zzz::Send("{Home}{Space}{Home}")
+;:X*:zz::Send("{Home}{Space}{Home}")
+:X*:zz::Send("{Home}{Space}{Left}")
+
+; 202606
+:X*:ww::Send("{Home}{Space}{Left}- ℹ️ {#}aa")
 
 ;;;;;:X*:hhh::Send("`#aaa")
 ;;:X*:hhh::Send("{#}")
 :X*:hh::Send("{#}")
 
-
-
-
 ;==============================  ==============================
-;==============================  ==============================
-
-
-; PREVIOUS file WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
-
-;test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
-;test :   ^win+space
-; f8 works ....
-;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+; aaa  do  f8 .. it  works ....yyyy
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"   # yyyy  run the app ... it asks to reload this ahk file
+; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md   # yyyy there are  test chapters
+;
+;; older aa  v2 test :   win+q AutoHotkey run the app ... it asks to reload this ahk file
