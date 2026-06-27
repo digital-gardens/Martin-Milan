@@ -13644,3 +13644,6 @@ findstr --help
 findstr -i '[0-9][0-9]' a1.txt
 findstr -i '[0-9][0-9]' a1.txt  | measure-object
 bash
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md
+; aaa  do  f8 .. it  works ....yyyy
