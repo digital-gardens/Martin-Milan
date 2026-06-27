@@ -41,7 +41,7 @@ EDIT: only then I realized, I should have probably simply do a reset of UEFI set
 
 
 
-aaaaA
+aaaaa
 ****.*
 
 HORROR

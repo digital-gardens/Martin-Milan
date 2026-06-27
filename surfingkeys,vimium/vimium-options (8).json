@@ -1,0 +1,27 @@
+{
+  "regexFindMode": true,
+  "grabBackFocus": true,
+  "settingsVersion": "2.1.2",
+  "exclusionRules": [
+    {
+      "passKeys": "",
+      "pattern": "https?://fuj.mail.google.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://observablehq.com/*"
+    },
+    {
+      "passKeys": "hG",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "help()",
+      "pattern": "https://fujjjdat-ecosystem.org/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https://dat-ecosystem.org/*"
+    }
+  ]
+}

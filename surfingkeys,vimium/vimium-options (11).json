@@ -1,0 +1,28 @@
+{
+  "exclusionRules": [
+    {
+      "passKeys": "",
+      "pattern": "https?://fuj.mail.google.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://observablehq.com/*"
+    },
+    {
+      "passKeys": "hG",
+      "pattern": "*"
+    },
+    {
+      "passKeys": "help()",
+      "pattern": "https://fujjjdat-ecosystem.org/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https://dat-ecosystem.org/*"
+    }
+  ],
+  "grabBackFocus": true,
+  "newTabDestination": "browserNewTabPage",
+  "regexFindMode": true,
+  "settingsVersion": "2.4.2"
+}
