@@ -1387,6 +1387,11 @@ id:ID                  ("id" type)
 FUZZY                  ("fuzzy" type)
 ```
 
+
+- #aaa FUZZY                  ("fuzzy" type)
+
+
+
 Any sequence of spaces, tabs, and newlines inside PATHREG is treated as a single space.
 
 FILENAME
