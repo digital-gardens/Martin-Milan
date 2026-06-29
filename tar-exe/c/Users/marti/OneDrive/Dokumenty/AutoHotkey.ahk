@@ -157,7 +157,9 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 :X*:zz::Send("{Home}{Space}{Left}")
 
 ; 202606
-:X*:ww::Send("{Home}{Space}{Left}- ℹ️ {#}aa")
+;:X*:ww::Send("{Home}{Space}{Left}- ℹ️ {#}aa")
+:X*:saa::Send("{Home}{Space}{Left}- ℹ️ {#}aaa")
+:X*:ww::Send("{Home}{# 6} {#}aaa{Space}{Left 6}")
 
 ;;;;;:X*:hhh::Send("`#aaa")
 ;;:X*:hhh::Send("{#}")
