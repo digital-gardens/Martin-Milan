@@ -13653,3 +13653,4 @@ cmd /c dir d:\git-bk04\00*
 cmd /c dir d:\git-bk04\00-MM.git
 cmd /c dir d:\git-bk04\00-MM.git /s
 cmd /c dir d:\GIT-bk04\00-MM.git /s
+explorer C:\Users\marti\AppData\Roaming\Code\User\workspaceStorage\e507e154ec8b912bcebf913a1f12bf51\GitHub.copilot-chat\chat-session-resources\

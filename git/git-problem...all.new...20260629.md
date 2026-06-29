@@ -1,7 +1,12 @@
 git-problem...all.new...20260629
 
 
-C:\Users\marti\AppData\Roaming\Code\User\workspaceStorage\e507e154ec8b912bcebf913a1f12bf51\GitHub.copilot-chat\chat-session-resources\f9870175-d5be-44c9-a9f0-eeea8cbebc9f\call_aTVej13uZTkpT2QZiGXL5RdG__vscode-1782698744160\content.txt
+https://github.com/digital-gardens/Martin-Milan/blob/main/git/git-problem...all.new...20260629.md
+https://github.com/
+
+explorer C:\Users\marti\AppData\Roaming\Code\User\workspaceStorage\e507e154ec8b912bcebf913a1f12bf51\GitHub.copilot-chat\chat-session-resources\
+
+f9870175-d5be-44c9-a9f0-eeea8cbebc9f\call_aTVej13uZTkpT2QZiGXL5RdG__vscode-1782698744160\content.txt
 
 
 
