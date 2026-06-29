@@ -1,20 +1,25 @@
 
+
+
 # yyydone . odstranit zavinace emaily adresy
+
+
 https://mail.google.com/mail/u/0/#drafts
 
 Opakovaná výzva k aktualizaci údajů
 
+
 To: milan.bok 
-#bug pozor s.c 
-dat reply v gui  s.c 
+
 
 st 20. 5. 2026 v 10:17 odesílatel ČSOB <servis.csob.cz> napsal:
+
 
 na zacatku mozna nejake id
 
 
-Dobrý den,
-
+>
+> Česká verze (English below)
 >
 > Dobrý den, pane Boku,
 >
@@ -22,36 +27,13 @@ Dobrý den,
 >
 > Aktualizaci osobních a identifikačních údajů vyžadují právní předpisy (zejména zákon č. 253/2008 Sb.) jako prevenci v boji proti legalizaci výnosů z trestné činnosti, financování terorismu a dalším.
 >
-> Vzhledem k výše uvedenému jsme byli nuceni zablokovat Vaše aktivní transakce, jako například zadávání nových platebních transakcí a trvalých příkazů nebo dobíjení kreditu.
+> Vzhledem k výše uvedenému jsme byli nuceni zablokovat Vaše aktivní transakce, jako například zadávání nových platebních transakcí a trvalých příkazů nebo dobíjení kreditu. Přestože nám je to líto, 
 
-> Přestože nám je to líto, 
-> pokud kontrolu a opravu svých údajů neprovedete nejpozději do 12.7.2026, budeme muset naši spolupráci bohužel ukončit.
-
-Jsem v plném invalidním důchodu.
-Mohu se dostavit na pobočku, ale s obtížemi.
-Objednal jsem se na 
-Termín: 4.7.2026 10:00
-Místo: Praha - Řevnická (OC Zličín)
-
-Pak mne napadlo objednat se na videoschůzku
-... 2.7.2026 v 11:00.
-
-
-Pro úplnost se zeptám
-
-1. kdybych do 12.7. selhal, kolik času potom mám na záchranu peněz ... 2 roky?
-
-
+#nnn pokud kontrolu a opravu svých údajů neprovedete nejpozději do 12.7.2026, budeme muset naši spolupráci bohužel ukončit.
 >
 > Jak údaje aktualizovat
 >
 > V aplikaci ČSOB Smart nebo ve Vašem Internetovém bankovnictví, kde se Vám po přihlášení automaticky otevře okno s výzvou ke kontrole údajů.
-
-Před několika lety jsem měl 
-
-
-
-
 - #TODO  > Také se můžete zastavit s platným dokladem totožnosti osobně v kterékoli pobočce ČSOB – schůzku si můžete sjednat na přesné datum a čas.
 > TIP: Pokud svůj účet obsluhujete na pobočce #aaa České pošty, můžete aktualizaci provést i tam.
 
