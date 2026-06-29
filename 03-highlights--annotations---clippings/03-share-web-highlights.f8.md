@@ -43,7 +43,4 @@ You generate a view-only public link.
 
 
 
- I want to make sure that the highlights are easily accessible and can be shared with others.To share your web highlights effectively, you can use a few different methods:
-
-- **Use a Highlighting Tool**: There are several browser extensions and tools that allow you 
 

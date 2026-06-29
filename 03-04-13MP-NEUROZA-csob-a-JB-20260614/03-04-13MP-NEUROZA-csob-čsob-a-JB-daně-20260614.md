@@ -1,11 +1,13 @@
 
 
-# #todo připravím obrany
+# milan.bok   #todo  .. připravuji texty
 s pomocí ai ... JB gemini
 
-viz diář A4
+viz také diář A4
 
 jsem 20 let v plném invalidním důchodu
+pro velmi těžkou neurózu
+
 
 ###### todo pomodoro 1 minutu
 
@@ -34,6 +36,10 @@ jejich neurózou z neobvyklé práce
 
 //// píseň ... oni .. v podstatě jsou na tom stejně jako já
 //// píseň .. takový, jó takový, jsi někdy Ty 
+//////// song.. beatles.. #aaa something inside, that was always denied, for so many years
+
+
+
 
 //// píseň ... něbudě to také ľahké drahá
 
@@ -46,6 +52,7 @@ srv. rok 2010-02 ... Lenka ... když jsem se dozvěděl ... 2 dny jsem měl něc
 //// píseň ... já si musím lehnout, ou ou,  // melodie..já se loučím s tebou
 
 
+
 # jde o tisíc nebo milion?
 
 
@@ -55,7 +62,7 @@ srv. rok 2010-02 ... Lenka ... když jsem se dozvěděl ... 2 dny jsem měl něc
 
 # zda by mohl pomoct někdo z ai ... JB gemini
 
-# daně 14.5.2026 
+# EDIT..IS DONE #yyy daně 14.5.2026 
  je potřeba se přihlásit pomocí bankovní Identity a stáhnout PDF dokument a Milan pošle Kredit pro pohodlnější datové schránky.
 
 // Datové schránky
@@ -84,7 +91,9 @@ vscode ... Dokumenty folder search csob čsob nepublikovat zavinace emaily adres
 
 
 # tema 20260614
-# EDIT .. #fail ... obnovit bankovní identitu a mobilní aplikaci/aplikace banky CSOB ... ztratil ... zda lze nastavit limit bankovnictví ... srv. csas.cz nastavil limit 40 000 kč / den
+# EDIT .. #fail ... obnovit bankovní identitu a mobilní aplikaci/aplikace banky CSOB ...
+## deaktivoval jsem před několika lety
+### ... zda lze nastavit limit bankovnictví ... srv. csas.cz nastavil limit 40 000 kč / den
 
 - ℹ️ #aaa gemini v gmail-u
 
@@ -117,9 +126,10 @@ chodit do pobočky. Více informací o tom, jak na to, najdeš tady:   https://w
 .. asi nejde když už jeden účet mám
 .. asi nepomůže založit nový účet
 
+.. asi nezbyde než tam jet osobně a zprovoznit bankovní identitu a mobilní aplikaci/aplikace banky CSOB ...
 
 
-# #todo ten mail
+# ten mail ... kopie v souboru
 jakoby dat reply, plain text
 copy do souboru
 odmazat zavinace emaily adresy
@@ -127,13 +137,8 @@ odmazat zavinace emaily adresy
 
 
 
-# #todo 
-jvb 
-gemini 
-herec M Hanuš
-kdo nezažil
-
-herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří
+# herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří
+## mám fotku rozhovoru v google photos
 https://gemini.google.com/app/8f63cf3ae5ecf6dc
 
 
