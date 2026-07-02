@@ -12,7 +12,12 @@
 	- [[slides]] https://drive.google.com/file/d/1EqIyenQPzfm_NMcJ63w6_TCeAXg5EG3f/view
 
 "but what do I do with a reading?"
-	
+Social Annotation as
+Creative Practice for Online
+Reading Experiences
+
+
+
 [[digital reading]]: 5 ways of engagement
 
 ![[Pasted image 20210621190857.png]]

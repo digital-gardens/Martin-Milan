@@ -63,6 +63,175 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\category-theory-20260525\category-theory
 
 
 
+# 20260701
+
+
+
+does Llama use
+
+what text representations
+what
+semi-structured text representations
+ are used in LlamaIndex and GraphRAG
+
+
+more
+examples of semi-structured text representations used in  GraphRAG
+
+GraphRAG
+internal formats 
+
+
+
+give me
+google queries
+to find webpages
+about these formats
+
+
+in some of their forms of memory?  
+or do they use only weighted flat sequences of tokens?  
+
+
+do LLMs use
+semi-structured text representations
+in some of their forms of memory?  
+or do they use only weighted flat sequences of tokens?  
+
+edit
+vectors, not tokens ... 
+
+The Extended Layer: Semi-Structured MemoryRelying solely on flat sequences scales poorly for long-term retention.As a context window grows, a model struggles to connect dispersed facts.It trades precision for noise and loses track of distant relationships.  To solve this, modern LLM applications and cognitive architectures use external, semi-structured memory systems.Instead of dumping raw text into a database, these agentic systems organize information explicitly.They build representations using formats like:
+
+example of Entity-centric knowledge graphs
+oriented graphs that track entities and their relationships 
+
+Entity-centric knowledge graphs to track relationships across time.
+
+example of Hierarchical semantic networks
+Hierarchical semantic networks to group related chunks of information.
+
+examples of Tagged memory nodes, that combine raw text with structured, queryable metadata
+Tagged memory nodes that combine raw text with structured, queryable metadata.
+
+When an AI agent needs to remember something, it does not re-read a massive, flat transcript.Instead, it queries this semi-structured external database.It retrieves only the relevant, structured nodes to place back into its flat context window.So, the LLM itself computes using only weighted flat tokens.But the systems built around it increasingly rely on semi-structured text to maintain coherent, long-term memory.  
+
+have a tree data structure in their internal representation of text?  ...  or is it just a
+weighted flat sequence of tokens?  ...  or something else?
+
+
+
+//// song
+
+
+
+# 20260701.17 tree brainstorming 
+... semi-structured text representations in LLMs
+
+// I am just a dev dreamer,  
+// not a real developer anymore  
+
+after seeing claude transcripts/*.jsonl, which seems to be mostly markdown, with lots of backslashes in the encoded markdown
+
+I wonder,
+imagine,
+
+would it be possible..
+a far future computing world
+using 
+something like markdown
+mdx?
+instead of json, jsonl
+
+serializing RAM objects, streaming them
+- file
+- socket
+?
+
+> There are even early experiments with this today.
+
+I look forward to look at the 3 of them ..
+
+anything else, similar, exists?
+
+
+"Revolution" by The Beatles.
+
+
+
+or a stranger imagination ...
+
+
+
+and my wilder idea ...
+
+maybe like the EverOS ?
+
+not only RAM objects, but also LLM objects?
+  LLMs using a tree-like data structure in addition to their internal representation of text?  
+
+... now they use only arrays of vectors?
+EverOS is an exception?
+
+
+
+ LLM objects??? ...
+
+
+how popular is MDX
+
+# 20260701.23
+
+a-tree-formats-popularity
+structured text formats popularity
+
+https://github.com/search?q=a+language%3AHTML&type=repositories&l=HTML
+number of files in millions, 2026
+
+
+https://github.com/github-linguist/linguist/blob/main/lib/linguist/languages.yml
+
+* 1800
+
+json 505
+html 310
+xml 249
+
+markdown  239
+yaml 113 
+
+toml 14
+jupyter  13
+
+a language:restructuredtext  13
+
+mdx 7
+jsonc 6
+turtle 2
+
+jsonld 1
+org 1
+
+
+
+https://www.reddit.com/r/treenotation/comments/xyu2go/a_hierarchical_clustering_of_various_tree_formats/
+
+
+# 20260702 markdown tree wild experiments
+[[20260702]]
+- ℹ️ #aaa yyy Každé ráno probouzí mně sluncem hořícím  
+
+  # a listy jív se rosou zachvějí.  yyy
+    ...
+
+    - # h h h yyy
+
+      # q q nnn
+
+          ###### w w  #aa #  nnn
+    
+    ---
+     yyy
 
 
 
@@ -1382,6 +1551,5 @@ which of these could be called "semi-structured" ?
 - CSV with hierarchical keys ?
 - Notation3
 - EDN ?
-
 
 
