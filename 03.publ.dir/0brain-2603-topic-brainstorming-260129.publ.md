@@ -209,6 +209,21 @@ zbývají 2 _? problémy
 
 
 
+# 20260703 regex-macros ,vscode
+in vscode
+I would like to define
+~~macros
+for regex substitutions
+
+I would like to invoke the macros
+via f1 command palette
+
+how many possibilities are there
+preferably without installing of extensions
+
+
+in selected text
+f1 insert snippet
 
 
 # 20260614 05-subrepo/readme.md
