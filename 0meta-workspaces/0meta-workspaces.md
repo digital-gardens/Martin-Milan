@@ -2,6 +2,9 @@
 
 @gmail.com
 
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\01 --- --- --- love33 aaaa bel edge leky meta rr sing tre vsc yy"
+
+
 vscode change color theme for workspace site:www.reddit.com
 >workspace settings json
 
