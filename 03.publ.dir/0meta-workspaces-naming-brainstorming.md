@@ -1,4 +1,4 @@
-0meta-workspaces
+0meta-workspaces-naming-brainstorming.md
 
 @gmail.com
 
@@ -6,7 +6,9 @@
 
 
 vscode change color theme for workspace site:www.reddit.com
->workspace settings json
+> workspace settings json
+
+
 
 rrrr
 - #TODO 
