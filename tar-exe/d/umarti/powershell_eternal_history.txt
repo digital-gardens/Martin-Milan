@@ -13659,3 +13659,4 @@ explorer C:\Users\marti\AppData\Roaming\Code\User\workspaceStorage\e507e154ec8b9
 dir *.f8.*
 runas  /user:techl   /savecred  "powershell"
 runas  /user:techl   /savecred  "pwsh"
+bash
