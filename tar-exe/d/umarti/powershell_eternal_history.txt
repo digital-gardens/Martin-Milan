@@ -13658,3 +13658,4 @@ explorer C:\Users\marti\AppData\Roaming\Code\User\workspaceStorage\e507e154ec8b9
 ; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md   # yyyy there are  test chapters
 dir *.f8.*
 runas  /user:techl   /savecred  "powershell"
+runas  /user:techl   /savecred  "pwsh"
