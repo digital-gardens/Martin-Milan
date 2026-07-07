@@ -42,7 +42,26 @@ do i have to install a plugin ?
 i see only the command
 "/fewer-permission-prompts "
 
+/permissions isn't a recognized command here. Some commands only work in the Claude Code terminal.
 
+#
+
+Scope — session vs. everywhere: clicking "Always Allow" is not just for the current conversation — it writes a permanent rule to a config file, so it persists into future sessions too. Whether it applies to just this folder or your whole machine depends on which settings file the rule lands in:
+
+A rule in this project's .claude\settings.local.json → applies only when working in this folder (CVE-2026-45321...)
+A rule in C:\Users\marti\.claude\settings.json (your user-level file) → applies across every project on your machine
+Where to see the list of what you've allowed: open these files directly (plain text/JSON, readable even if you're not a programmer):
+
+C:\Users\marti\.claude\settings.json — your global rules
+<project folder>\.claude\settings.local.json — rules specific to a given project folder
+They look like:
+
+{
+  "permissions": {
+    "allow": ["WebSearch"]
+  }
+}
+Anything listed under "allow" is something you've already g
 
 
 
