@@ -1,0 +1,47 @@
+fhfghfhfdgfdfhgfhfhhfhgf
+
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ExecutionPolicy Bypass -File     C:\Users\marti\OneDrive\ps-mylen-mar\mystartup.ps1
+
+
+m,.
+gfdgfdg
+
+
+@<&nbsp;>@||
+(makunbound 'foo)||
+(namespace-undefine-variable! 'foo)||
+(ns-unmap *ns* 'foo)||
+(makunbound 'foo)||
+
+
+
+
+||
+//variables: _ (makunbound 'foo) _ //functions: _ (fmakunbound 'bar)||
+(namespace-undefine-variable! 'foo)||
+(ns-unmap *ns* 'foo)||
+//variables: _ (makunbound 'foo) _ //functions: _ (fmakunbound 'bar)||
+
+
+
+
+
+
+/w/home/martin/.bash_history
+/w/home/martin/.guile_history
+/w/home/martin/.lsc_history
+/w/home/martin/.node_repl_history
+/w/home/martin/.python_history
+/w/home/martin/.sbcl_history
+/w/home/martin/.sqlite_history
+/w/home/martin/.zsh_history
+
+
+'//wsl$/Ubuntu-20.04/home/martin/.bash_history'
+'//wsl$/Ubuntu-20.04/home/martin/.guile_history'
+'//wsl$/Ubuntu-20.04/home/martin/.lsc_history'
+'//wsl$/Ubuntu-20.04/home/martin/.node_repl_history'
+'//wsl$/Ubuntu-20.04/home/martin/.python_history'
+'//wsl$/Ubuntu-20.04/home/martin/.sbcl_history'
+'//wsl$/Ubuntu-20.04/home/martin/.sqlite_history'
+'//wsl$/Ubuntu-20.04/home/martin/.zsh_history'
