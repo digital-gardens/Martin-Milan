@@ -13660,3 +13660,35 @@ dir *.f8.*
 runas  /user:techl   /savecred  "powershell"
 runas  /user:techl   /savecred  "pwsh"
 bash
+$sandboxUser = 'techl'  ;  runas  /user:${sandboxUser}   /savecred      "pwsh"
+where.exe /?
+where.exe runas
+where.exe runas|clip
+where.exe code |clip
+where.exe code /t
+cat "C:\Program Files\Microsoft VS Code\bin\code.cmd"
+cat "C:\Program Files\Microsoft VS Code\bin\code"
+code "C:\Program Files\Microsoft VS Code\bin\code"
+$Env:Path | code -
+runas /? | code -
+runas.exe /? | clip
+cmd /? | code -
+echo cmd   "C:\Program Files\Microsoft VS Code\bin\code.cmd"
+$sandboxUser = 'techl'  ;   C:\Windows\System32\runas.exe  /user:${sandboxUser}   /savecred      "pwsh"
+dir
+cd sandboxUser
+icacls   /grant  "Authenticated Users":(OI)(CI)F
+icacls   /grant  "Authenticated Users:(OI)(CI)F"
+icacls   /grant  "Authenticated Users:(OI)(CI)F"   .
+icacls .
+icacls  .   /grant  "Authenticated Users:(OI)(CI)F"
+icacls .
+icacls  .   /remove  "Authenticated Users"
+icacls .
+icacls  .   /remove  "Authenticated Users"
+icacls .
+icacls  .   /remove  "Authenticated Users"
+icacls .
+icacls  .   /grant:r  "Authenticated Users:(OI)(CI)F"
+icacls .
+icacls .  | clip
