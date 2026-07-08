@@ -13695,3 +13695,7 @@ icacls .  | clip
 get-process
 get-process -u$sandboxUser = 'techl'  ;   C:\Windows\System32\runas.exe  /user:$sandboxUser   /savecred     "code"
 $sandboxUser = 'techl'  ;   C:\Windows\System32\runas.exe  /user:$sandboxUser   /savecred    "powershell"
+cmd /c dir /s /al /b
+cd
+cmd /c dir /s /al /b
+cmd /c dir /s /al /b      >~/dir-al-s-b.txt
