@@ -13692,3 +13692,6 @@ icacls .
 icacls  .   /grant:r  "Authenticated Users:(OI)(CI)F"
 icacls .
 icacls .  | clip
+get-process
+get-process -u$sandboxUser = 'techl'  ;   C:\Windows\System32\runas.exe  /user:$sandboxUser   /savecred     "code"
+$sandboxUser = 'techl'  ;   C:\Windows\System32\runas.exe  /user:$sandboxUser   /savecred    "powershell"
