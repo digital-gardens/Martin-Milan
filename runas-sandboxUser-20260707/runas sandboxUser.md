@@ -2,6 +2,10 @@
 
 ```pwsh
 
+
+#warning  runas /trustlevel #bug-gy, 
+#todo reboot, then restorepoint   #bug, maybe #false_alarm
+#todo migrate to powershell 
 $sandboxUser = 'techl'  ;   C:\Windows\System32\runas.exe  /user:$sandboxUser   /savecred    "powershell"
 ### "code"
  "pwsh"
