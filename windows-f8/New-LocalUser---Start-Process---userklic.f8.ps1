@@ -7,22 +7,23 @@ exit
 (selected lines from this file can be run in a terminal ... e.g. by the F8 key, customly bound to runSelectedText  )
 
 
-## probably vsc find in files ... filenames seem case sensitive
+## warn probably vsc find in files ... filenames seem case sensitive
 # *User*.ps1
 # vsc U not u ... not  *user*.ps1
+
 
 echo '-------- section --------'
 
 246 dont go to
 ##see also
 f1 <
-#userklic
-#start pr f8 ps1
+#userklic start proce f8 ps1
 
 246 done
 code powershell-f8\Start-Process.f8.ps1
 
-246 go to
+
+aaa 246 go to
 code windows-f8\Start-Process---userklic.f8.ps1
 
 
@@ -34,7 +35,7 @@ code windows-f8\Start-Process---userklic.f8.ps1
 
 
 
-echo '-------- section --------'  ONCE,  DONE
+echo '-------- section --------'  ONCE,  DONE yyy
 
 
 WIN-Q ise admin open
@@ -403,7 +404,7 @@ net localgroup users
 
 
 
-BUG BUUUUUUUUUUUUUUUUG  DIIGO
+#BUG BUUUUUUUUUUUUUUUUG  DIIGO  trustlevels
 
 runas  /showtrustlevels
 The following trust levels are available on your system:
@@ -421,8 +422,7 @@ BUG BUUUUUUUUUUUUUUUUG  DIIGO
 This causes the application to load more quickly, but
 can cause some applications to malfunction.
 
-/profile          specifies that the user's profile should be loaded.
-This is the default.
+/profile          specifies that the user's profile should be loaded.  This is the default. yyy
 
 HKCU?
 

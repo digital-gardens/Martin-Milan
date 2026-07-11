@@ -1,4 +1,11 @@
 
+https://theinvisiblethings.blogspot.com/2007/02/running-vista-every-day.html
+
+
+
+
+
+
 // I am just a hobbyist
 
 // but I am afraid of losing all my files
@@ -8,6 +15,7 @@
 sandboxed, so that if I accidentally install a malicious npm package, 
  it can't *corrupt* *all* my files
 
+
 today
  I am looking for discussions and webpages, that advocate using a secondary Windows user account for security
 
@@ -16,6 +24,7 @@ a note from previous searches...
 ... please don't give me any pages with
 > /user:administrator
 > /user:admin
+
 
 
 and about

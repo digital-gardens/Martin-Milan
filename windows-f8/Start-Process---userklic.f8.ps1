@@ -92,7 +92,10 @@ Start-Process "cmd.exe" -Credential $credential   -WorkingDirectory C:\Users\$us
 APPDATA=C:\Users\userklic\AppData\Roaming
 
 HOMEDRIVE=C:
-HOMEPATH=\Users\userklic
+
+yyy HOMEPATH=\Users\userklic
+
+
 LOCALAPPDATA=C:\Users\userklic\AppData\Local
 NUMBER_OF_PROCESSORS=6
 OneDrive=C:\Users\userklic\OneDrive
@@ -132,12 +135,12 @@ $env:Path -split ';'
 C:\Users\userklic\AppData\Local\Microsoft\WindowsApps
 
 
-
+aaaa
 whoami.exe
 whoami.exe /all
 
 
-
+yyyy
 ahk works !!!
 ahk works in internal terminal !!!
 
@@ -154,7 +157,7 @@ ahk works in internal terminal !!!
 
 echo '-------- section --------'
 
-246 continue??
+246 continue?? aaa
 https://www.diigo.com/user/martin12333?query=Start-Process+.exe+Credential+
 
 
@@ -197,6 +200,8 @@ cd .\marti\
 mkdir a
 mkdir a46456464654646
 explorer.exe
+
+
 C:\pf\totalcmd\TOTALCMD64.EXE
 cd ..\userklic\
 dir
@@ -205,6 +210,7 @@ cmd /c dir /s
 cmd /c dir /s /a
 
 
+?
 fail  0  semi   numdot
 fail ahk
 
@@ -225,7 +231,7 @@ exit
 
 ###
 if without conhost
-nejde psat, paste
+nnn nejde psat, paste
 Start-Process pwsh.exe -Credential $Credential -WorkingDirectory d:\    -Verbose -UseNewEnvironment -LoadUserProfile
 
 
@@ -237,7 +243,7 @@ Start-Process pwsh.exe -Credential $Credential -WorkingDirectory d:\    -Verbose
 
 
 
-Start-Process "cmd.exe" -Credential $credential  -WorkingDirectory C:\Users\userklic   -UseNewEnvironment -ArgumentList "/C",dir,/a,/s,'&',pause   #works
+Start-Process "cmd.exe" -Credential $credential  -WorkingDirectory C:\Users\userklic   -UseNewEnvironment -ArgumentList "/C",dir,/a,/s,'&',pause   #works yyy
 
 
 Total Files Listed:
@@ -261,8 +267,7 @@ Total Files Listed:
 
 ###Start-Process "notepad.exe" -Credential $credential   -WorkingDirectory D:\
 
-
-Start-Process "notepad.exe" -Credential $credential   -WorkingDirectory D:\ -UseNewEnvironment   -LoadUserProfile      # works
+Start-Process "notepad.exe" -Credential $credential   -WorkingDirectory D:\ -UseNewEnvironment   -LoadUserProfile      # works yyy
 
 #Start-Process "wt.exe" -Credential $credential   -WorkingDirectory D:\ -UseNewEnvironment  -LoadUserProfile
 
@@ -288,7 +293,7 @@ cmd /c dir d: /p '&' pause
 
 #################################
 
-
+yyy
 Start-Process "cmd.exe" -Credential $credential   -WorkingDirectory d:\   -UseNewEnvironment -ArgumentList "/C",pause   #works
 Start-Process "cmd.exe" -Credential $credential   -WorkingDirectory d:\   -UseNewEnvironment -ArgumentList "/C",dir,/p   #works
 Start-Process "cmd.exe" -Credential $credential   -WorkingDirectory C:\Windows\System32   -UseNewEnvironment -ArgumentList "/C",dir,/p   #works
@@ -343,7 +348,7 @@ Start-Process powershell.exe -Credential $Credential  -ArgumentList "-Command","
 
 
 
-win=q process explorer
+win-q process explorer
 
 file:///c:\Users\marti\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt
 
@@ -383,8 +388,8 @@ Get-Alias  cat
 
 
 
-
-
+todo?
+conhost
 
 # why comment-out
 # maybe i forgot, that in windows, to do ~~runas, i have to make a new window /// or perhaps  use the windows sudo, but that is very new now
@@ -400,3 +405,5 @@ HOMEPATH=\Users
 Start-Process "cmd.exe" -Credential $credential   -WorkingDirectory d:\   -UseNewEnvironment -ArgumentList "/C",pause   #works
 
 https://www.itdroplets.com/run-a-command-as-a-different-user-in-powershell/
+
+
