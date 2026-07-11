@@ -81,3 +81,9 @@ runas code.exe /user:sandboxuser
 
 and to my good surprise, the gui app seemed to work fine
 
+----
+
+
+// inspiration .. Android app isolation .. uid
+i am afraid .. my searches for uid returned nothing useful, because windows world doesnt use that term, but the concept is similar: each user account has its own identity, and a process running under that identity cannot access files of another user account without explicit permission.
+
