@@ -1,10 +1,12 @@
 
 // I am just a hobbyist
 
-my dream project is to find a way to run VS Code and node.exe as a secondary Windows user account, so that if I accidentally install a malicious npm package, it can't access my main account's files 
-nnnn access
-i wanted to ask about 
-yyy it can't *corrupt* *all* my files
+// my many-year-project is to find  ways to run e.g. VS Code and node.exe
+sandboxed, so that if I accidentally install a malicious npm package, 
+ it can't *corrupt* *all* my files
+
+
+now I am looking for webpages, that advocate using a secondary Windows user account for security
 
 
 
@@ -13,22 +15,28 @@ I hope that AI assistants will be able to do many web searches  for me
 
 # desired output format from an AI assistant
 
-10 quotes from webpages,
-**containing the words "runas" and "/user:"**
+10 quotes from various webpages,
 
 
 # topic
 
-I hope for quotes which contain the words "runas" and "/user:" and preferably "/savecred" 
 
-// and ideally "code" or "node" or "npm"
-
-... and where the secondary user is nonadmin!
 // my secondary user is **less** privileged than the main user
 
 ... please don't give me any quotes with
 > /user:administrator
 > /user:admin
+
+
+having 2 user accounts ... I dimly remember reading about this
+
+##  an author explained  "rich" environment vs. "safe" environment
+
+- rich ... all tools installed
+- safe ... only a minimum of  tools installed, 
+
+## another  explanation ... like the "red" VM vs. "green" VM in Qubes OS
+but VM is too heavyweight for my needs, so I want to use a second Windows user account instead
 
 
 ---
@@ -49,13 +57,13 @@ I edited ...
 
    - `poor man's sandbox windows account` — a phrase people genuinely use when they mean "I can't afford/don't want a VM, so I use a second Windows account instead"
    
-   - `Sandboxie alternative separate user account` — Sandboxie is the best-known third-party tool for this exact goal; searches comparing it to "just use a second account" tend to surface real discussion threads with tradeoffs spelled out
+
+
 
 4. **Site-specific tips:**
    - **Reddit**: search `site:reddit.com compartmentalization windows account` 
    - **Hacker News**: use `hn.algolia.com` directly and search `compartmentalization` or `qubes windows` — HN threads about Qubes OS (a Linux distro built entirely around this idea) often have comments discussing cheaper Windows-only approximations
 
-   - **GitHub/Gist**: search code, not prose — try `runas savecred` 
 
 ---
 
@@ -66,13 +74,8 @@ a note.. I admire Qubes OS, but it seems too heavyweight for my needs.
 - containers
 but they seem too heavyweight for my needs. 
 
+// I had to destroy my pet container every time, when I needed to change 1 mount or port
 
-I want to run a single Windows host, and then a second Windows account for untrusted apps. 
 
-I want to be able to run VS Code, node.exe, and other dev tools in that second account, without giving them access to my main account's files or credentials.
-
-many months ago, i experimented with  something like this:
-runas code.exe /user:otheraccount 
-
-and to my good surprise, the gui app seemed to work fine
-
+I want to run a single Windows host,
+with a  second Windows account for less trusted apps. 

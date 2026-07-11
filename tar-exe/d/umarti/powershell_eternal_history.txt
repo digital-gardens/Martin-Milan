@@ -13705,3 +13705,5 @@ code 00-MM
 code C:\Users\marti\OneDrive\Dokumenty\00-MM
 git init --separate-git-dir=/g/GIT-bk04/00-MM.git
 bash
+ls g:\GIT-bk04\00-MM.git
+cmd /c dir  g:\GIT-bk04\00-MM.git

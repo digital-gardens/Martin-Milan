@@ -101,8 +101,9 @@ git push --set-upstream origin main
 github desktop
 
 
-
-
+exit
+cmd /c dir  g:\GIT-bk04\00-MM.git
+ /s /b | clip
 
 
 
