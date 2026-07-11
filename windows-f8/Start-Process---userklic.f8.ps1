@@ -42,17 +42,15 @@ echo '-------- section --------'
 $Password=ConvertTo-SecureString $pass -AsPlainText -Force -Verbose
 $credential = [PSCredential]::New($username,$password)
 
-echo '-------- section --------'
-
-echo '-------- section --------'
-
+echo '-------- section --------' #false-alarm, experim
 MARKDOWN
 246
 # -UseNewEnvironment
 ####   This has the side effect that the $env:USERNAME is set to SYSTEM.
-noooo, false-alarm ,  experim
-USERNAME=userklic
-:love:
+fortunately not, #false-alarm ,  experim
+yyy USERNAME=userklic
+
+# maybe -eq system is true only for administrator accounts, not for standard accounts like userklic or techl
 
 echo '-------- section --------'
 
@@ -66,13 +64,17 @@ conhost.exe /help
 yyy ok after closing the pwsh window, the keyboard input to other windows is ok again?
 nnnn Start-Process "pwsh.exe"   -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile
 
-
+yyy
 yyy
 Start-Process "conhost.exe"   -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile -ArgumentList "pwsh.exe"
 #,set
 
 #  -ArgumentList "/C",set   -RedirectStandardOutput "c:\Users\public\$username.env.OVERWRITE.txt"
 
+whoami /all|clip
+aaaa MicrosoftAccount\tech.la.bo.....zavinac User
+
+20260712 techl ok yyy
 
 echo '-------- section --------'
 
@@ -412,4 +414,47 @@ Start-Process "cmd.exe" -Credential $credential   -WorkingDirectory d:\   -UseNe
 
 https://www.itdroplets.com/run-a-command-as-a-different-user-in-powershell/
 
+
+-----------------
+whoami /all|clip
+
+USER INFORMATION
+----------------
+
+User Name   SID
+=========== ==============================================
+mb-pc\techl S-1-5-21-2941743733-2172176398-4109959614-1027
+
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                 Type             SID                                                                                                          Attributes
+========================================== ================ ============================================================================================================ ==================================================
+Mandatory Label\Medium Mandatory Level     Label            S-1-16-8192
+Everyone                                   Well-known group S-1-1-0                                                                                                      Mandatory group, Enabled by default, Enabled group
+BUILTIN\Users                              Alias            S-1-5-32-545                                                                                                 Mandatory group, Enabled by default, Enabled group
+BUILTIN\Performance Log Users              Alias            S-1-5-32-559                                                                                                 Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\INTERACTIVE                   Well-known group S-1-5-4                                                                                                      Mandatory group, Enabled by default, Enabled group
+CONSOLE LOGON                              Well-known group S-1-2-1                                                                                                      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Authenticated Users           Well-known group S-1-5-11                                                                                                     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\This Organization             Well-known group S-1-5-15                                                                                                     Mandatory group, Enabled by default, Enabled group
+
+aaaa MicrosoftAccount\tech.la.bo.....zavinac User             S-1-11-96-3623454863-58364-18864-2661722203-1597581903-1753684215-3200144120-4090544702-551512987-3024319040 Mandatory group, Enabled by default, Enabled group
+
+NT AUTHORITY\Local account                 Well-known group S-1-5-113                                                                                                    Mandatory group, Enabled by default, Enabled group
+LOCAL                                      Well-known group S-1-2-0                                                                                                      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Cloud Account Authentication  Well-known group S-1-5-64-36                                                                                                  Mandatory group, Enabled by default, Enabled group
+
+
+PRIVILEGES INFORMATION
+----------------------
+
+Privilege Name                Description                          State
+============================= ==================================== ========
+SeShutdownPrivilege           Shut down the system                 Disabled
+SeChangeNotifyPrivilege       Bypass traverse checking             Enabled
+SeUndockPrivilege             Remove computer from docking station Disabled
+SeIncreaseWorkingSetPrivilege Increase a process working set       Disabled
+SeTimeZonePrivilege           Change the time zone                 Disabled
 
