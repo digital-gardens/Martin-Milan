@@ -1,6 +1,4 @@
 
-
-
 # f8_text_file
 # (an f8_text_file is-not meant to be run as a whole)
 )
@@ -12,36 +10,37 @@ echo '-------- section --------'
 
 246
 parent:
-
 code windows-f8\New-LocalUser---Start-Process---userklic.f8.ps1
 
 
 246 done
 code powershell-f8\Start-Process.f8.ps1
+done '-------- section ------once--'
+code "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\20260712" ##-trim
+
 
 echo '-------- section --------'
 
-
-echo '-------- section --------'
-
-
-246  do this  F8
-
+# older
+#ok yyy 246  done this  F8
 $username = 'userklic'
 $pass= cat "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\232i"
-$Password=ConvertTo-SecureString $pass -AsPlainText -Force -Verbose
-$credential = [PSCredential]::New($username,$password)
-
-
-
-todo?
-$username = 'techl'
-
-
-
 
 echo '-------- section --------'
 
+# y do this f8
+# 20260712 techl
+$username = 'techl'
+$pass= (cat "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\20260712") +"ka"+(2*4)
+
+#"q" ##-trim
+# powerShell trim string
+#$pass
+
+echo '-------- section --------'
+
+$Password=ConvertTo-SecureString $pass -AsPlainText -Force -Verbose
+$credential = [PSCredential]::New($username,$password)
 
 echo '-------- section --------'
 
@@ -55,17 +54,20 @@ noooo, false-alarm ,  experim
 USERNAME=userklic
 :love:
 
-
 echo '-------- section --------'
-
-
 
 #Start-Process "conhost.exe" -Credential $credential   -WorkingDirectory D:\ -UseNewEnvironment  -LoadUserProfile
 
+web search
 conhost.exe /help
 
-Start-Process "pwsh.exe"   -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile
 
+#bug influences keyboard input to other windows???? ...
+yyy ok after closing the pwsh window, the keyboard input to other windows is ok again?
+nnnn Start-Process "pwsh.exe"   -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile
+
+
+yyy
 Start-Process "conhost.exe"   -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile -ArgumentList "pwsh.exe"
 #,set
 
@@ -81,11 +83,13 @@ saveas noload
 saveas load
 
 
+
 Start-Process "cmd.exe" -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile   -ArgumentList "/C",set   -RedirectStandardOutput "c:\Users\public\$username.env.OVERWRITE.txt"
 
-
-
-
+yyy HOMEPATH=\Users\userklic
+cmd /c dir "c:\Users\public\$username.env.OVERWRITE.txt"
+code "c:\Users\public\$username.env.OVERWRITE.txt"
+ok
 
 
 
@@ -109,13 +113,15 @@ USERPROFILE=C:\Users\userklic
 Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile\;C:\Program Files (x86)\Common Files\Acronis\VirtualFile64\;C:\Program Files (x86)\Common Files\Acronis\FileProtector\;C:\Program Files (x86)\Common Files\Acronis\FileProtector64\;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Program Files\dotnet\;C:\Program Files\PowerShell\7\;C:\Program Files\RedHat\Podman\;C:\Program Files\Tailscale\;C:\Program Files\nodejs\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\Users\userklic\AppData\Local\Microsoft\WindowsApps
 
 
-
+yyy
 where.exe  dotnet  node  npm  code
 
-dir C:\Users\marti\AppData\Roaming\npm
+cmd /c dir C:\Users\marti\AppData\Roaming\npm
 
 
 $PSVersionTable
+
+20260712 userklic ok yyyy
 
 echo '-------- section --------'
 

@@ -13707,3 +13707,24 @@ git init --separate-git-dir=/g/GIT-bk04/00-MM.git
 bash
 ls g:\GIT-bk04\00-MM.git
 cmd /c dir  g:\GIT-bk04\00-MM.git
+$username = 'userklic'
+$pass= cat "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\232i"
+"a"+(2*4)
+Start-Process "pwsh.exe"   -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile
+aqqqsssconhost.exe /help
+conhost.exe /help
+Start-Process "conhost.exe"   -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile -ArgumentList "pwsh.exe"
+Start-Process "cmd.exe" -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile   -ArgumentList "/C",set   -RedirectStandardOutput "c:\Users\public\$username.env.OVERWRITE.txt"
+code "c:\Users\public\$username.env.OVERWRITE.txt"
+cmd /c dir "c:\Users\public\$username.env.OVERWRITE.txt"
+where.exe  dotnet  node  npm  code
+dir C:\Users\marti\AppData\Roaming\npm
+cmd /c dir C:\Users\marti\AppData\Roaming\npm
+$PSVersionTable
+cat "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\20260712"
+$pass= (cat "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\20260712") -trim
+code "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\20260712" ##-trim
+$pass= (cat "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\20260712") + "q" ##-trim
+$pass
+$username = 'techl'
+$pass= (cat "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\20260712") +"ka"+(2*4)
