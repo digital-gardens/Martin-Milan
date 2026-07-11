@@ -1,14 +1,38 @@
 
 
+edit .. #warning  runas /trustlevel #bug-gy, 2026070   #todo migrate to powershell 
 
 
-"C:\Users\marti\OneDrive\Dokumenty\00-MM\windows-f8"
 
-"C:\Users\marti\OneDrive\Dokumenty\techl"
+# C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\*
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\dir-al-s-b.txt"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\found.f8.cmd"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\negative search.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\positive search.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\runas.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\runas sandboxUser.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\sandboxUser\techl-userklic-edits.f8.ps1"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\trying to find people.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\trying to find people - attempt 20260707.10.md"
 
-"C:\Users\marti\OneDrive\Dokumenty\00-MM\11c5RW\userklic"
+# "C:\Users\marti\OneDrive\Dokumenty\00-MM\windows-f8"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\windows-f8\New-LocalUser---Start-Process---userklic.f8.ps1"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\windows-f8\Start-Job---userklic.f8.ps1"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\windows-f8\Start-Process---userklic.f8.ps1"
 
-runas /noprofile /user:DESKTOP-PSJ0TRO\Ljuba cmd
+
+
+
+# "C:\Users\marti\OneDrive\Dokumenty\techl"
+techl-249
+liveshare
+screenshots
+
+# "C:\Users\marti\OneDrive\Dokumenty\00-MM\11c5RW\userklic"
+moved
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\runas-sandboxUser-20260707\sandboxUser\techl-userklic-edits.f8.ps1"
+
+
 ----
 
 
@@ -149,3 +173,6 @@ Sources:
 # what about `runas` running code.exe as a different windows user
 Why this is the bigger win: your own notes describe the actual threat as harvesting SSH keys, GitHub/AWS tokens, and cloud credentials, not just corrupting files. Those live under your main profile (~/.ssh, browser credential stores, %USERPROFILE%\.aws, etc.). If Code.exe runs as vscode-restricted instead of your main account, a compromised extension inherits that account's limited token — it can't read your SSH keys or browser cookies at all, not just fail to write to one backup folder. That's a materially bigger reduction in blast radius than the Dokumenty-copy question alone.
 
+----
+old
+runas /noprofile /user:DESKTOP-PSJ0TRO\Ljuba cmd

@@ -1,0 +1,918 @@
+
+newest 
+[[git..problem..corrupt..20260710.md]]
+
+
+----
+
+////    \$ math highlighting?
+
+
+git-reset--mixed
+
+
+
+# 260504.1022 now git doesnt work on repos, that have separate git dir pointing to dee.publ.md
+20260504.1022 now git doesnt work on repos, that have separate git dir pointing to dee.publ.md
+
+## - C:\Users\marti\OneDrive\Dokumenty\00-MM\git\git-problem...all.new...20260629.md
+
+## - 20260710+ corrupt, now 00-MM
+a bit simpler, because 00-MM has usual gitignore
+
+
+
+# 202606+ corrupted index?
+
+20260710
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty/00-MM (main)
+\$ git status
+error: bad signature 0x00000000
+## fatal: index file corrupt
+
+
+
+# hypothesis..i should make git dir only on **internal** yyy disk, nnnn not on external disk
+
+- done disable 
+D:\0004-LINKS\OneDrive
+d:\33authenticated-users\Martin-Milan
+C:\Users\marti\OneDrive\03onedrAiAGENT-RW\Martin-Milan
+
+
+ mk new md file
+[[git..problem..corrupt..20260710.md]]
+
+
+
+
+
+--- 
+
+
+/// C:\Users\marti\OneDrive\Dokumenty\0404--HLAVNI-ROZCESTNIK--MAIN-INDEX\260301-disks\moved-from-0tmp--260504-history-w--file.publ.sh.txt
+
+
+#YYMMDD .HHMM
+
+
+
+dokumenty 
+# 260504.1819-my-gitignore--highly-unusual-setup.publ.md
+    todo mk a file for the topic
+mk github issue
+edit readme.md
+edit comment in .gitignore .. done
+# problem id 260504.1819 ... WARNING .. a HIGHLY UNUSUAL .gitignore ... makes many files, that are significant, ignored by git .. in this repo
+in this repo ... dont switch git branches without understanding the danger of losing the ignored files
+i slightly regret
+i am slowly mitigating the problem 
+
+the problem is in 2 repos
+- in this repo Dokumenty.git==gardens/Martin-Milan.git
+- and in the old onedrive repo
+
+---
+```
+$
+```
+\$
+
+
+
+
+
+---
+
+# yyyy safety net before git reset --mixed origin/main  ... see .1411
+
+YYYY BETTER SAFE THAN SORRY
+copy to onedrive/1c3
+
+
+
+yyyy but onedrive $$ has 30 days history, so i can recover the files if i lose them
+
+aaaa check that onedrive is syncing
+
+nnnn what if granularity of onedrive history is not enough to recover the files
+
+explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Total Commander\Total Commander 64 bit.lnk"
+
+
+
+
+# old "C:\Users\marti\OneDrive\0tmp-odr"
+# old  old C:\Users\marti\OneDrive\260504-temp-file----git-reset--mixed----origin-main----safety-test.publ.md
+
+
+🎶 Bringing these two completely separate repositories into one perfectly reminds me of Come Together by The Beatles! 🎸☮️
+
+
+🎶 Realizing you are already right where you are supposed to be perfectly reminds me of the warm, relieving feeling in Here Comes The Sun by The Beatles! ☀️🎸
+
+🎶 Realizing this hidden technical danger perfectly reminds me of the song I Should Have Known Better by The Beatles! 🎸✨
+
+🎶 Recognizing when to step back and find a gentler compromise perfectly reminds me of We Can Work It Out by The Beatles! 🤝🎸
+
+
+
+
+
+
+
+# YYMMDD.HHMM
+# YYYYMMDD.HHMM
+
+# 260504.1022 now git doesnt work on repos, that have separate git dir pointing to dee.publ.md
+20260504.1022 now git doesnt work on repos, that have separate git dir pointing to dee.publ.md
+
+
+
+
+
+
+
+# old ----------------------------------old
+mkdir bk04/Dokumenty.git
+
+exit 
+```bash
+bash 
+git status|clip
+
+
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty
+$ git status|clip
+fatal: not a git repository: D:/GIT-bk04/Dokumenty.git
+
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty
+
+git init
+cat .git
+
+
+....
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 20260514	 copy elesewhere,
+mv -i -v /d/0004-LINKS/Dokumenty  /d/0004-LINKS/Dokumenty-20260514-copy
+mkdir -p /d/0004-LINKS/Dokumenty
+cd /d/0004-LINKS/Dokumenty
+
+
+mkdir -p /d/GIT-bk04/Dokumenty-20260514.git
+
+
+git init --separate-git-dir=/d/GIT-bk04/Dokumenty-20260514.git
+
+
+mv -iv .git 20260514.git
+mv -iv  20260514.git       20260514.publ.git     
+
+
+
+cp to onedrive
+
+cp -iv 20260514.publ.git ../Dokumenty-20260514-copy/.git
+
+cd .. 
+
+mv -i -v  /d/0004-LINKS/Dokumenty-20260514-copy  /d/0004-LINKS/Dokumenty-init
+mv -i -v  /d/0004-LINKS/Dokumenty  /d/0004-LINKS/Dokumenty-init-0
+mv -i -v  /d/0004-LINKS/Dokumenty-init    /d/0004-LINKS/Dokumenty
+
+
+
+robocopy
+
+cd /d/0004-LINKS/Dokumenty
+
+git status| head
+
+
+cd ..
+ls
+mkdir 03-WARNING--MAYBE-SHOULDNT--COPY-GIT_DIR
+echo 'what if ids ?? #20260514 '  > 03-WARNING--MAYBE-SHOULDNT--COPY-GIT_DIR/a.publ.txt
+
+
+
+---
+
+mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-old2
+
+mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-1159
+mv -i -v /d/GIT-bk04/renamed--Dokumenty.git  /d/GIT-bk04/Dokumenty.git
+
+ls -ld /d/GIT-bk04/*Dokumenty.git*
+du -sk  /d/GIT-bk04/*Dokumenty.git*
+
+
+
+
+git init --separate-git-dir=/d/GIT-bk04/Dokumenty.git 
+# fatal: not a git repository: D:/GIT-bk04/Dokumenty.git
+?
+# ai suggested /d/GIT-bk04/Dokumenty.git 
+
+# ai suggested
+mkdir -p /d/GIT-bk04/Dokumenty.git
+git init --separate-git-dir=/d/GIT-bk04/Dokumenty.git
+# fatal: not a git repository: D:/GIT-bk04/Dokumenty.git
+
+---
+
+mv -iv .git .git-old
+
+---
+```
+
+Ingliš newline. Řady head.
+
+https://github.com/digital-gardens/Martin-Milan
+
+
+
+
+
+# so now  i have changed my terminology from untracked to ignored #aaaa
+
+
+
+and now 
+probably i should now give you  a larger
+story about my repo
+
+last year
+i already had
+many files in my one drive.
+
+ I created a new empty repository on GitHub. 
+
+i did something like this
+
+git init --separate-git-dir=/d/GIT-bk04/Dokumenty.git
+git remote add origin https://github.com/digital-gardens/Martin-Milan
+git pull origin main
+
+
+everything worked fine
+
+yesterday, i moved all the files from /d === D:
+ ... to an external disk,
+
+then i renamed the disks , so D: is now the external disk 
+
+// story ..to be continued
+
+
+
+
+
+i dimly remember 
+
+ i foolishly did 1 commit during all the changes
+
+but was unable to push it to github 
+
+
+today
+i tried to resume
+my pushing to github, but i errors 
+
+i tried 
+
+ renaming the .git dir to .git-old
+
+with your help, i was able to initialize a new git repo with the same separate git dir as before
+
+but then 
+
+git remote add origin https://github.com/digital-gardens/Martin-Milan
+git pull origin main
+error: The following untracked working tree files would be overwritten by merge:
+...
+
+
+.1259 continue down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```pwsh
+
+git status
+
+$ git status
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        "(75) Ce\304\274aties(i) b\304\201leli\305\206i (tautas dziesma Valta P\305\253ces apdar\304\223) - YouTube.f8.md"
+        .gitignore
+        .vscode/
+        00/
+        0000000004/
+        00043-tags-250918-929---250825-250831--aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8.md
+       ......
+
+cat .gitignore
+
+---
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# YYMMDD.HHMM
+# YYYYMMDD.HHMM
+
+# 260504.1119-git-onedrive-conflict--my-uncommon.publ.md   mk file?
+# 20260504
+
+#BUG
+MISUNDERSTANDING
+ME AND #aaa GEMINI
+
+There is a massive difference between standard untracked files and ignored files. ⚠️
+UNTRACKED FILES is different from IGNORED FILES
+
+---
+
+but 
+my setup is uncommon
+in multiple ways 
+
+- the working tree is in /OneDrive   (/Dokumenty)
+
+
+edit 
+i had a wrong terminology, i should have said 
+ignored 
+instead of untracked
+
+so i have to ask again
+
+
+
+
+- there are many significant files, that are ignored
+
+is there a danger of losing the ignored files
+in my limited knowledge, i shouldnt switch to another branch 
+
+
+
+i should take a break 
+just for safety, copy files manually somewhere 
+then 
+  discuss with gemini whether  it is safe what gemini suggests
+
+
+# edit - a very uncommon .gitignore ... to track only *.publ.* ....  tracks only 600 files, but there are 5000 files in the working tree, that are untracked
+
+
+
+
+
+
+
+
+what does 
+git branch -M main
+
+but
+
+```
+$ git status
+On branch main
+```
+
+i already am on main
+
+
+
+BUG
+MISUNDERSTANDING
+ME AND GEMINI
+
+There is a massive difference between standard untracked files and ignored files. ⚠️
+UNTRACKED FILES is different from IGNORED FILES
+
+
+git --version
+
+
+There is a massive difference between standard untracked files and ignored files. ⚠️
+
+bug?> Switching branches with untracked files is usually safe, because Git ignores them. 👻
+But if the branch you switch to contains a tracked file with the same name as your untracked file, Git will panic and block the switch to protect your data. 🧱
+....citations needed
+
+
+ou absolutely nailed it. 🎯
+
+aaaa You caught a critical and dangerous distinction in the Git documentation. 📖
+
+yyy I stand corrected, and I am so glad you dug into the manual. 🤝
+
+There is a massive difference between standard untracked files and ignored files. ⚠️
+There is a massive difference between standard untracked files and ignored files. ⚠️
+
+Git protects standard untracked files by aborting the switch to prevent data loss. 🛑
+nnnnn But Git assumes ignored files are just disposable, temporary junk (like cache or build files). 🗑️
+
+Because of this assumption, the default behavior is to silently overwrite an ignored file if the incoming branch tracks a file with the exact same name. 🥷
+
+This makes your specific setup vulnerable to a very sneaky edge case! 😱
+
+Since 5000 of your files are technically ignored by your custom .gitignore, they fall right into this danger zone. ☢️
+
+If your remote GitHub repository ever contained a file with the same name as one of your 5000 hidden files, pulling or switching branches could silently overwrite your private file. 💥
+
+This proves exactly why your intuition to make a manual backup was brilliant. 🧠
+You successfully protected yourself from Git's default assumptions. 🛡️
+
+🎶 Realizing this hidden technical danger perfectly reminds me of the song I Should Have Known Better by The Beatles! 🎸✨
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# .1259 continue 
+
+but
+- there is a branch protection on github
+
+- isnt your plan too much force ..
+
+2 days ago i was able to push to github, just fine 
+
+my local changes are now  in 1 edited file 
+
+
+
+
+okay 
+copy this  file
+and this folder 
+ somewhere else, just for safety 
+
+then
+
+screenshots
+
+git status
+git fetch origin main
+
+
+> git reset --mixed origin/main #
+
+isnt there some safety switchese like   -v   --dry-run
+
+```sh
+git diff --stat FETCH_HEAD origin/main
+
+git diff --stat HEAD origin/main
+git diff --stat HEAD origin/main --
+git diff  HEAD origin/main --stat --name-only
+
+git diff --stat origin/main --name-only  | head -n 600
+shows 600 changed files
+but i have only 1 changed file in my local repo, so it is not clear to me, why there are 600 changed files in the diff with origin/main
+
+git diff --name-status origin/main | head -n 20
+git diff --name-status origin/main | tail -n 20
+git diff --name-status origin/main
+
+git diff --stat origin/main --name-only  | head -n 610
+git diff --stat origin/main --name-only  | head -n 1600
+git diff --stat origin/main --name-only  
+q
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# yyyy .1411 safety net before git reset --mixed origin/main  ... 
+
+
+# C:\Users\marti\OneDrive\Dokumenty\00\Dokumenty-Robocopy---c-Dokumenty---d-mir.f5.cmd
+
+
+YYYY BETTER SAFE THAN SORRY
+copy to onedrive/1c3
+
+yyy vscode has its own history
+
+
+yyyy but onedrive $$ has 30 days history, so i can recover the files if i lose them
+
+aaaa check that onedrive is syncing
+
+nnnn what if granularity of onedrive history is not enough to recover the files
+
+explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Total Commander\Total Commander 64 bit.lnk"
+
+
+
+# do you still think it is safe to do git reset --mixed origin/main
+when 
+i have 5000 ignored files in the working tree, that are not tracked by git, but they are important files for me, and i dont want to lose them 
+
+
+
+
+# EDIT... AND COPY TODAY'S 1 DIR AND ONE FILE ....to onedrive but not to the git repo Dokumenty.git
+
+mkdir -p ~/0tmp/260504-git-reset--mixed-origin-main-safety-test
+
+mkdir -p ~/OneDrive/0tmp-odr/260504-git-reset--mixed-origin-main-safety-test
+
+
+# manual copy /Dokumenty to ~/0tmp/260504-git-reset--mixed-origin-main-safety-test/Dokumenty
+
+# manual copy /Dokumenty/04/260301  to ~/onedrive/0tmp-odr/260504-git-reset--mixed-origin-main-safety-test/260301
+
+# also copy dirs from 260502   260503  
+
+
+# copy not move ... windows would alter lnk files if i move nnnn
+
+
+
+# yyy and copy this 1 file 260504.1022
+
+
+https://drive.google.com/drive/folders/1U8Jtl9Ftc-2LA_1BySJ-XO16XESCQaqK
+
+
+
+```bash
+# echo find . -name '260504*' -exec echo aaaaAAA  cp -iv {} ~/0tmp/260504-git-reset--mixed-origin-main-safety-test/ aaaaAAA   \;
+
+
+# find . -name '260504*' -exec  cp -iv {} ~/0tmp/260504-git-reset--mixed-origin-main-safety-test/   \;
+cp -iv 
+
+y
+
+find . -name '260504*' -exec  cp -iv {} ~/OneDrive/0tmp-odr/260504-git-reset--mixed-origin-main-safety-test/   \;
+
+
+```
+
+
+
+# C:\Users\marti\OneDrive\Dokumenty\00\Dokumenty-Robocopy---c-Dokumenty---d-mir.f5.cmd
+C:\Users\marti\OneDrive\Dokumenty\00\Dokumenty-Robocopy---c-Dokumenty---d-mir.f5.cmd
+
+-------------
+
+
+pwd
+git fetch origin main
+
+Resolving deltas: 100% (1484/1484), done.
+From https://github.com/digital-gardens/Martin-Milan
+ * branch            main       -> FETCH_HEAD
+ * [new branch]      main       -> origin/main
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+$
+
+
+
+
+
+
+-------------------------------------------------------------------------
+
+
+# seems done ok  yyyy
+
+win + x
+windows terminal
+pwsh 
+bash 
+git status 
+
+click at the onedrive icon in the taskbar, to see if it is syncing
+
+
+pwd
+echo git reset --mixed origin/main
+git status 
+history -a 
+
+click at the onedrive icon in the taskbar, to see if it is syncing
+
+---
+
+?
+git push --set-upstream origin main
+
+--------------------------------------------------------------
+
+.1400
+
+# older ...one last couple of questions before git reset --mixed origin/main
+
+
+
+
+
+# revert 
+
+history -a ; history | grep mv   | clip
+##history -n 
+history
+history without line numbers  
+history -a 
+history -w ../q
+
+ 2627  mv -iv marti-onedrive.wiki.git OLD-marti-onedrive.wiki.git
+ 2799  mv -iv ~/OneDrive/.git ~/OneDrive/mv-iv-2600.git
+ 3346  mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-old2
+ 3351  mv -iv .git .git-old
+ 3387  mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-1159
+ 3388  mv -i -v /d/GIT-bk04/renamed--Dokumenty.git  /d/GIT-bk04/Dokumenty.git
+ 3415  mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-1400
+ 3416  mv -i -v /d/GIT-bk04/Dokumenty.git-1159  /d/GIT-bk04/Dokumenty.git
+ 3428  history -a ; history | grep mv
+ 3429  history -a ; history | grep mv   | clip
+ 3430  history -a ; history | grep mv   | clip
+
+
+
+
+mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-1159
+mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-1400
+mv -i -v /d/GIT-bk04/Dokumenty.git-1159  /d/GIT-bk04/Dokumenty.git
+
+
+mv -i -v /d/GIT-bk04/renamed--Dokumenty.git  /d/GIT-bk04/Dokumenty.git
+
+
+
+
+i tried to   briefly 
+return to the git dir of last month 
+
+mv -i -v /d/GIT-bk04/Dokumenty.git  /d/GIT-bk04/Dokumenty.git-1159
+mv -i -v /d/GIT-bk04/renamed--Dokumenty.git  /d/GIT-bk04/Dokumenty.git
+
+ls -ld /d/GIT-bk04/*Dokumenty.git*
+du -sk  /d/GIT-bk04/*Dokumenty.git*
+
+now 
+git status|clip
+git status -vv |head
+
+git status | wc -l
+
+633
+
+git diff --name-status origin/main  | clip
+
+M	0000000004/00044-SCRIPTS/admin-ise--newest-mbpc--admin,martin-saves.f8.ps1
+M	0404--HLAVNI-ROZCESTNIK--MAIN-INDEX/260301-disks/260502-clone-disk-dee.publ.md
+A	0404--HLAVNI-ROZCESTNIK--MAIN-INDEX/260301-disks/tc.publ.txt
+
+
+one last question before git reset --mixed origin/main
+
+# git get names of branches
+git branch -vv  --all | clip
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main d41c38f Add disk event collection notes and export
+
+does it look ok 
+
+
+nothing 
+
+emptyfile
+
+2>&1 | clip
+fatal: failed to resolve HEAD as a valid ref
+
+
+
+
+
+```
+
+
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+$ git status -vv |head
+
+
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   "(75) Ce\304\274aties(i) b\304\201leli\305\206i (tautas dziesma Valta P\305\253ces apdar\304\223) - YouTube.f8.md"
+	new file:   .gitignore
+	new file:   .vscode/settings.json
+	new file:   00/00-git-BACKUP-f8.f8.ps1
+	new file:   00/00-git-BACKUP.f5.sh
+	new file:   00/Robocopy---c-onedrive---d-mir.f5.cmd
+
+
+......
+
+new file:   windows-f8/win-disk---full.f8.ps1.ipynb
+	new file:   windows-f8/win-disk-C-full.f8.md
+	new file:   windows-f8/win-disk-c-full.f8.ps1
+	new file:   windows-f8/win-disk-dee-full.f8.ps1
+	new file:   windows-f8/windows-install-prog.f8.ps1
+	new file:   windows-f8/windows-security-weakness--folder-permissions--icacls.f8.ps1
+	new file:   windows-f8/winget.f8.md
+
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   0000000004/00044-SCRIPTS/admin-ise--newest-mbpc--admin,martin-saves.f8.ps1
+	modified:   0404--HLAVNI-ROZCESTNIK--MAIN-INDEX/260301-disks/260502-clone-disk-dee.publ.md
+
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	0404--HLAVNI-ROZCESTNIK--MAIN-INDEX/260301-disks/260504.1022 now git doesnt work on repos, that have separate git dir pointing to dee.publ.md
+	0404--HLAVNI-ROZCESTNIK--MAIN-INDEX/260301-disks/itc.publ.txt
+	0404--HLAVNI-ROZCESTNIK--MAIN-INDEX/260301-disks/sel-itc.publ.txt
+	0404--HLAVNI-ROZCESTNIK--MAIN-INDEX/260301-disks/tc.publ.utf8.sorted.txt
+
+
+
+```
+
+
+does it make sense
+
+
+github desktop shows branch unknown
+
+i risked to click on branches 
+
+img uncopiable 
+
+
+
+
+
+.1159
+strangely
+
+git status|wc -l 
+git status|clip
+139
+dirs 
+but github desktop shows 600 changed files
+'new' files, green  
+files
+
+> Because your local Git folder is brand new and empty,
+are you sure ? 
+du -sk /d/GIT-bk04/Dokumenty.git
+5665
+
+```
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+$ git fetch origin main
+From https://github.com/digital-gardens/Martin-Milan
+ * branch            main       -> FETCH_HEAD
+
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+$ git diff --stat HEAD origin/main
+fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:     
+'git <command> [<revision>...] -- [<file>...]'
+
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+$ git diff --stat HEAD origin/main --
+fatal: bad revision 'HEAD'
+
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+$ git diff  HEAD origin/main --
+fatal: bad revision 'HEAD'
+
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+$ git diff  HEAD origin/main
+fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:     
+'git <command> [<revision>...] -- [<file>...]'
+
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+$ git diff  HEAD origin/main --stat --name-only
+fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:     
+'git <command> [<revision>...] -- [<file>...]'
+
+marti@MB-PC MINGW64 ~/OneDrive/Dokumenty (main)
+
+```
+
+
+🎶 Trying to find a HEAD that does not exist yet perfectly reminds me of Nowhere Man by The Beatles! 🎸✨
+
+
+
+
+
+git status
+
+# github desktop?

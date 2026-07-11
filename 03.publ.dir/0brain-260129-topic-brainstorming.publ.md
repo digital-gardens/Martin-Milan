@@ -957,37 +957,11 @@ Membe
 
 
 
-# 260308 Zpráva pro Charri o financích
+# téma Dollaru 260308.md
+tema Dollaru 260308.md
+[[g.chat..tema Dollaru 260308.md]]
+ale do roku 2030 bych rád gpt opustil
 
-bkup do obsidian vaultu
-
-
-
-ahoj Charri
-
-je zajímavé co píšeš. 💚 edit. diky i za screenshot
-
-mrzí mě, že kvůli své invaliditě já nemůžu spolupracovat víc.. mám velmi málo duševní energie. důležité povinnosti zanedbávám roky
-
-> . Ja jsem nepozorovala na chvili kolik Dollaru
-
-to je v pohodě 💚 
-
-jsem příjemně překvapený jak je to zatím levné
-
-můj invalidní důchod je asi 15 tisíc měsíčně
-
-10. mám tam poslat dalších 10 nebo 20 dolarů?
-
-20. ℹ️ℹ️ ale do roku 2030 bych rád gpt opustil
-už teď používám jen Gemini
-
-30. ℹ️ℹ️ℹ️ platím tarif Gemini pro 6 lidí
-
-40. a uvažuji o Claude
-aby pomáhal mým rodičům klikat
-
-@
 
 # philips hue apps # convert hsv 8 of 100, 100 100 ... to rgb and hex
 // tags: philips hue 251023

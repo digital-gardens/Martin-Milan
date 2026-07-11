@@ -2,6 +2,7 @@
 
 ```pwsh
 
+#edit .. #warning  runas /trustlevel #bug-gy, 2026070   #todo migrate to powershell 
 
 #warning  runas /trustlevel #bug-gy, 
 #todo reboot, then restorepoint   #bug, maybe #false_alarm

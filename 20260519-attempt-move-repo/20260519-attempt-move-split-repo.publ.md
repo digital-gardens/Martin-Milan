@@ -131,7 +131,6 @@ mkdir?
 is it possible
 seems ok
    git clone     --separate-git-dir=/d/GIT-bk04/00-MM.git      https://github.com/digital-gardens/00-MM
-   https://github.com/digital-gardens/00-MM
 
 
 ghd 

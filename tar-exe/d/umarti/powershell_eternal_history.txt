@@ -13699,3 +13699,9 @@ cmd /c dir /s /al /b
 cd
 cmd /c dir /s /al /b
 cmd /c dir /s /al /b      >~/dir-al-s-b.txt
+bash
+explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Total Commander\Total Commander 64 bit.lnk"
+code 00-MM
+code C:\Users\marti\OneDrive\Dokumenty\00-MM
+git init --separate-git-dir=/g/GIT-bk04/00-MM.git
+bash

@@ -36,6 +36,7 @@ cd AAAA_GITHUB_WIKI
 
 git init --separate-git-dir=/d/GIT-bk04/marti-onedrive.wiki.git
 git remote -vvv add   origin https://github.com/martin12333/marti-onedrive.wiki.git
+
 git pull -vv origin
 git pull -vv origin master
 
