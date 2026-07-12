@@ -3,11 +3,28 @@
 code C:\Users\marti\AppData\Roaming\Code\User\settings.json
 
 
+# can you guess the meanings and equivalences of the following hashtags?
 
-          #y        #yy        #yyy
-#a          aa            #aaa        
-#n            #nn           #nnn
+- #yes       #yyes      #yyeess    #yyyes   #yyyeeesss            #y        #yy        #yyy
+- #no       #nnoo      #nnnooo        #n            #nn           #nnn
+- #attention #aattention  #aaattention   #a          aa            #aaa
 
+...
+
+- #y, #yes ... 
+- #yy, #yyes, #yyeess ... a stronger `yes`
+- #yyy, #yyyes, #yyyeeesss ... an even stronger `yes` ... a level 3 `yes`
+
+- #n, #no ...
+- #nn, #nnoo ... a stronger `no`
+- #nnn, #nnnooo ... an even stronger `no` ... a level 3 `no`
+
+- #a, #attention ...	a	level 1 attention
+- #aa, #aattention ...	level 2 attention	
+- #aaa, #aaattention ...	a		level 3 attention
+
+
+# test regexes for vscode-highlight extension settings.json
 
 yy           #A         #Y
 aa           #n                    
