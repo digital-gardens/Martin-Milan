@@ -1,7 +1,8 @@
 youtube transcript Beseda na téma demence seniorů a jak ji rozpoznat.publ.md
 
 
-#aaa
+#aaa #n  #y
+#aaa #nn  #yy
 
 moved
 C:\Users\marti\OneDrive\Dokumenty\03.publ.dir\youtube transcript Beseda na téma demence seniorů a jak ji rozpoznat.publ.md

@@ -3,10 +3,20 @@
 code C:\Users\marti\AppData\Roaming\Code\User\settings.json
 
 
+
+          #y        #yy        #yyy
+#a          aa            #aaa        
+#n            #nn           #nnn
+
+
+yy           #A         #Y
+aa           #n                    
+nn  nn  
 \b isa word boundary 
 not know if works at ^  $ 
 test ok
-
+yyy
+nnn
 aaa iii rrr 
 ([atdiryn])\1\1+
 aa

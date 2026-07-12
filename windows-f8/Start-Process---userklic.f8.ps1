@@ -74,9 +74,9 @@ Start-Process "conhost.exe"   -Credential $credential   -WorkingDirectory C:\Use
 whoami /all|clip
 aaaa MicrosoftAccount\tech.la.bo.....zavinac User
 
-20260712 techl ok yyy
+#y 20260712 techl ok yyy
 
-echo '-------- section --------'
+yyecho '-------- section --------'
 
 
 file:///C:\Users\Public\userklic.env.OVERWRITE.txt

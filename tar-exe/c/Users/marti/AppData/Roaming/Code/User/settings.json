@@ -474,19 +474,26 @@
 	"editor.renderWhitespace": "all",
 
 
+
+
+
+
+	/// https://github.com/fabiospampinato/vscode-highlight
+
+///Regexes need to be double-escaped, once for JSON and the second time for the regex itself. For example if you want to match a literal asterisk you should write \\*, not just \*.
+
 	"highlight.regexFlags": "gi",
 
 // #TODO #test #highlight #regexes #settings  aaa  #aaa
 
 	"highlight.regexes": {
 
-
-
-
-		// MY red    inner
+		// MY red ... test   inner   nn             #n             nnnn            #nnn
 		// my nnnn  // test      rrrr         gggggggeeeeeecccccacca          hhhffffffffdddddadd
 
-		"(n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		// 		"(n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		//"(\\bn{2,}|[#]n{1,}|n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		"(\\bn{2,}|[#]n{1,}|n{2,}|r{3,}|g{3,}|h{3,})(.{0,6})"
 		:
 		{
 			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
@@ -506,10 +513,13 @@
 
 
 
-		// MY green
+		// MY green ... test   inner   yy             #y             yyy            #yyy        Vysotskyy
 		// my yyyyy  // test      iiii         eeeeeecccccacca          ffffffffdddddadd
 
-		"(y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+			//"(\\bn{2,}|[#]n{1,}|n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		//"(y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+		//"(\\by{2,}|[#]y{1,}|y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+		"(\\by{2,}|[#]y{1,}|y{2,}|i{3,}|e{3,}|f{3,})(.{0,6})"
 		:
 		{
 			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
@@ -530,10 +540,15 @@
 
 
 
-		// MY yellow
+		//"(y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+		//"(\\by{2,}|[#]y{1,}|y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+
+		// MY yellow ... test   inner   aa             #a             aaa            #aaa        Klaas
 		// my aaaaaaa  // test      bbbbbabba         cccccacca          dddddadd
 
-		"(a{3,}|b{3,}|c{3,}|d{3,}|warn)(.{0,6})"
+		"(\\ba{2,}|[#]a{1,}|a{2,}|b{3,}|c{3,}|d{3,}|warn)(.{0,6})"
+		//"(\\ba{2,}|[#]a{1,}|a{3,}|b{3,}|c{3,}|d{3,}|warn)(.{0,6})"
+		//"(a{3,}|b{3,}|c{3,}|d{3,}|warn)(.{0,6})"
 		//"(cccc)|((a{3,}|dddd)(.{0,3}))|(bbbb)(.{0,4})"
 		//"(cccc)|(a{3,})(.{0,3})|(bbbb)(.{0,3})"
 		//"(cccc)|(a{3,})(.{0,3})|bbbb(.{0,3})"
