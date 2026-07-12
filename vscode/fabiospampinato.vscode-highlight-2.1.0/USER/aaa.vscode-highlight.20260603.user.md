@@ -3,7 +3,7 @@
 code C:\Users\marti\AppData\Roaming\Code\User\settings.json
 
 
-# can you guess the meanings and equivalences of the following hashtags?
+# 20260712... can you guess the meanings and equivalences my following hashtags?
 
 - #yes       #yyes      #yyeess    #yyyes   #yyyeeesss            #y        #yy        #yyy
 - #no       #nnoo      #nnnooo        #n            #nn           #nnn

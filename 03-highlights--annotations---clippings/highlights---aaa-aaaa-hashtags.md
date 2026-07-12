@@ -1,11 +1,13 @@
 aaa-aaaa-hashtags.md
 
-// - #aaa #aaaa ... hashtags mean ... attention, importance, ... more a's means more important
+// - #a #aa #aaa #aaaa ... hashtags mean ... #attention, importance, ... more a's means more important
 
 ... to me, the author of the file.
 
   I use them to mark things that I want to remember, or that I want to find easily later.  
   
+
+20260712  #y
 
 # more a's means more important
 
@@ -16,6 +18,10 @@ aaa-aaaa-hashtags.md
 - #aaaaaaa is more important than #aaaaaa
 
 
-//// #bug #warning .. an AI initially guessed the opposite order of importance
+// #n #bug #warning .. an AI initially guessed the opposite order of importance
+// why???
+// because my //// is less important than my ///, and my /// is less important than my // ???
+// because AAA batteries????
+
 
 
