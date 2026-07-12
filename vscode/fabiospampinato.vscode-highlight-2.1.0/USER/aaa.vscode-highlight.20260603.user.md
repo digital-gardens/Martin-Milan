@@ -3,6 +3,20 @@
 code C:\Users\marti\AppData\Roaming\Code\User\settings.json
 
 
+\b isa word boundary 
+not know if works at ^  $ 
+test ok
+
+aaa iii rrr 
+([atdiryn])\1\1+
+aa
+aat
+aaat
+ataa
+\b([atdiryn])\1+\b
+old \b([atdiryn])\1+ /   ...old  
+eol end-of-line test aaaa
+ok
 
 
 
@@ -231,6 +245,32 @@ turquoise path:settings.json  highlight
 
 
 
+
+  "surroundingPairs": [
+    ["(", ")"],
+    ["[", "]"],
+    ["`", "`"],
+    ["_", "_"],
+    ["*", "*"],
+    ["{", "}"],
+    ["'", "'"],
+    ["\"", "\""],
+    ["<", ">"],
+    ["~", "~"],
+    ["$", "$"]
+  ],
+  "folding": {
+    "offSide": true,
+    "markers": {
+      "start": "^\\s*<!--\\s*#?region\\b.*-->",
+      "end": "^\\s*<!--\\s*#?endregion\\b.*-->"
+    }
+  },
+  "wordPattern": {
+    "pattern": "(\\p{Alphabetic}|\\p{Number}|\\p{Nonspacing_Mark})(((\\p{Alphabetic}|\\p{Number}|\\p{Nonspacing_Mark})|[_])?(\\p{Alphabetic}|\\p{Number}|\\p{Nonspacing_Mark}))*",
+    "flags": "ug"
+  }
+}
 
 
 

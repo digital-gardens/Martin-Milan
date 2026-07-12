@@ -483,7 +483,7 @@
 
 
 
-		// MY red
+		// MY red    inner
 		// my nnnn  // test      rrrr         gggggggeeeeeecccccacca          hhhffffffffdddddadd
 
 		"(n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
