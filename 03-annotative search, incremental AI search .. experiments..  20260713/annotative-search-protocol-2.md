@@ -11,13 +11,20 @@ next search pass.
 
 ## Tag vocabulary
 
+- #TODO 
+- ALWAYS: Repeated letters scale relative importance to the user, 
+  e.g. 
+  (`#a` < `#aa` < `#aaa` < ...). This is the user's own personal-notes
+  convention, reused here.
+// btw, **repeated letters** in the hashtags are a way to indicate relative **importance**, ... e.g., **in importance**, attention, ... #a < (is less than) #aa < #aaa < #aaaa < #aaaaa ... etc.  (I use this in my own notes, and I hope it is a useful convention for the AI to learn as well?.)
+
+
+
+
 ### `#a`, `#aa`, `#aaa`, ... — accept / keeper
 - Marks a line as a good result.
 - **Does not** feed the next search pass — no new query terms are derived
   from it.
-- Repeated letters scale relative importance to the user
-  (`#a` < `#aa` < `#aaa` < ...). This is the user's own personal-notes
-  convention, reused here.
 - Purpose: record-keeping for the user, not a signal to the AI.
 
 ### `#yes`, `#yyes`, `#yyyes`, ... — accept and pursue
