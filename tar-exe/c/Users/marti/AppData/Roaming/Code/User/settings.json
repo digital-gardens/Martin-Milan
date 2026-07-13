@@ -488,12 +488,12 @@
 
 	"highlight.regexes": {
 
-		// MY red ... test   inner   nn             #n             nnnn            #nnn
+		// MY red ... test annot  inner   nn             #n             nnnn            #nnn
 		// my nnnn  // test      rrrr         gggggggeeeeeecccccacca          hhhffffffffdddddadd
 
 		// 		"(n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
 		//"(\\bn{2,}|[#]n{1,}|n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
-		"(\\bn{2,}|[#]n{1,}|n{2,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		"(\\bn{2,}|[#]n{1,}|n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
 		:
 		{
 			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
@@ -516,7 +516,6 @@
 		// MY green ... test   inner   yy             #y             yyy            #yyy        Vysotskyy
 		// my yyyyy  // test      iiii         eeeeeecccccacca          ffffffffdddddadd
 
-			//"(\\bn{2,}|[#]n{1,}|n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
 		//"(y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
 		//"(\\by{2,}|[#]y{1,}|y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
 		"(\\by{2,}|[#]y{1,}|y{2,}|i{3,}|e{3,}|f{3,})(.{0,6})"
@@ -540,8 +539,6 @@
 
 
 
-		//"(y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
-		//"(\\by{2,}|[#]y{1,}|y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
 
 		// MY yellow ... test   inner   aa             #a             aaa            #aaa        Klaas
 		// my aaaaaaa  // test      bbbbbabba         cccccacca          dddddadd
