@@ -11,15 +11,13 @@ next search pass.
 
 ## Tag vocabulary
 
-- #TODO 
-- ALWAYS: Repeated letters scale relative importance to the user, 
-  e.g. 
-  (`#a` < `#aa` < `#aaa` < ...). This is the user's own personal-notes
-  convention, reused here.
-// btw, **repeated letters** in the hashtags are a way to indicate relative **importance**, ... e.g., **in importance**, attention, ... #a < (is less than) #aa < #aaa < #aaaa < #aaaaa ... etc.  (I use this in my own notes, and I hope it is a useful convention for the AI to learn as well?.)
+### in general, repeated letters at the start of a hashtag
 
+- e.g., `#a`, `#aa`, `#aaa`, ... or `#yes`, `#yyes`, `#yyyes`, ... or
+  `#no`, `#nno`, `#nnno`, ... etc.
 
-
+- indicate importance or intensity of the tag
+- more repetitions = more importance / intensity
 
 ### `#a`, `#aa`, `#aaa`, ... — accept / keeper
 - Marks a line as a good result.
@@ -31,12 +29,21 @@ next search pass.
 - Marks a line as a good result **and** as fuel for the next search pass.
 - Repeated letters scale priority/intensity — higher-repetition lines
   should be dug into first or more deeply.
-- The AI extracts terms/leads from `#yes`-family lines to drive
-  the next round of searching.
+
 
 ### `#no`, `#nno`, `#nnno`, ... — reject 
 - the exclude-side mirror of
   `#yes`, scaled the same way. 
+
+
+### `#include`, `#iinclude`, `#iiinclude`, ... — include
+- Marks a line as a good result **and** as fuel for the next search pass.
+- The AI extracts terms from `#include`-family lines to drive
+  the next round of searching.
+
+### `#exclude`, `#eexclude`, `#eeexclude`, ... — exclude
+- Marks a line as a bad result 
+- The AI extracts terms from `#exclude`-family lines to explicitly avoid in the next round of searching.
 
 
 ### Untagged lines
@@ -54,22 +61,21 @@ next search pass.
 
 ## Key behavioral rule 
 
+// the user is a person with disabilities
+
 **Zero number of `#yes`-tagged lines in a pass does not mean "stop searching."**
-It only means that particular pass contributed zero *new search terms*.
 The AI should continue searching (e.g., verifying open questions,
 extending prior `#yes` leads not yet exhausted) rather than halting.
 
 ## Open questions for the protocol itself
 
-- Is there a tag for "please verify this specific unconfirmed claim,"
-  distinct from `#yes` (broad "search more") and `#a` (no query action)?
-  Pilot 1 improvised this as an untagged line + `//` comment; unclear if
-  that should get its own tag.
-- What ends a sub-topic search? (User discretion so far — no formal
-  termination signal defined yet.)
 - Should the AI ever propose its own confidence/quality markers on
-  candidate lines before the user tags them, or should first-pass output
-  always be neutral/untagged?
+  candidate lines before the user tags them
+  - #yyyes , Let's try it
+  - tags added by the AI should be clearly distinguishable from user-added tags 
+    - a color emoji near the tag, please
+      // emojis are easy to export
+
 
 ## Pilot 1: "filk songs with Beatles melodies, computing lyrics"
 
