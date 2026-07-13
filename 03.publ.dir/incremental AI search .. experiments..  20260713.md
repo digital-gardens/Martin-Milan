@@ -63,3 +63,116 @@ Now, to actually test your protocol: copy the block above, and try marking lines
 -----
 
 // a small misunderstanding... 0 of #yes means 0 new search terms.... so please continue with searching 
+
+----
+
+a small intermezzo
+
+
+in extended(?) markdown
+
+how can I nest the code blocks, //////so that I can show the user what to do, and also show the AI what to do, in the same document?
+
+I will need something like a "code block within a code block" ... but I don't know how to do that in markdown.  
+
+maybe ??
+
+```md
+...
+
+``````md
+...
+``````
+``` 
+
+or maybe inverted???
+
+---
+
+
+Your first example is backwards and will break: opening with 3 backticks, then hitting a line with 6 backticks inside, will close the outer fence early (a closing fence just needs >= the opening count), leaving the rest dangling as loose text.
+
+
+One practical note: if you're pasting this into a chat interface or a Markdown renderer, most renderers (GitHub, VS Code preview, etc.) do respect this backtick-count nesting rule correctly. But some naive renderers only look for the first triple-backtick to close, regardless of count — worth testing in whatever tool actually renders your document.
+
+
+The rule: the outer fence needs more backticks than anything nested inside it, because a closing fence only needs to be at least as long as the opening one. So your "inverted" version is the one that actually works:
+---
+
+
+````md
+...
+```md
+...
+```
+````
+
+which one will you understand as a code block within a code block?
+
+
+
+
+
+## Instructions for the user
+
+````bash
+npm install --save-dev something
+````
+
+## Instructions for the AI
+
+````md
+When editing this file, always run:
+```bash
+npm test
+```
+before committing.
+````
+
+
+
+
+
+
+
+
+
+
+
+
+1604
+
+// meta meta
+# but now I have to discuss with you.. the hardest(?) remaining part today
+...
+on the next time,
+in the next chat ... with this type of searching...
+
+what meta-prompt should I give you, so that you will understand the user's feedback, and update your search terms accordingly?
+
+now I will copy selected lines from our chat of today
+
+as the second version of a  meta-prompt for you, the AI, to be used in the next search thread
+
+
+`````meta-prompt
+You are an AI web search assistant.
+
+You will be given a markdown \`\`\`  block/fence
+// is it a correct term to call it a "code block" or a "code fence"?
+
+the block will contain lines of text,
+
+some of the lines of text are search results,
+ and some are user feedback lines.
+
+some lines will contain hashtags ...
+- the user's feedback on the search results.
+- user notes to themselves
+
+Your task is to update your search terms based on the user's feedback.
+And continue searching for webpages related to the user's sub-topic, using the updated search terms.
+
+
+`````
+
