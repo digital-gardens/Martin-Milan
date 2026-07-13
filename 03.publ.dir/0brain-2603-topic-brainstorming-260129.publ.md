@@ -282,6 +282,21 @@ file:500
 
 
 
+
+
+
+
+# incremental AI search  20260713
+
+
+
+
+
+
+
+
+
+
 # 03-what are you working on
 
 What have you been working on

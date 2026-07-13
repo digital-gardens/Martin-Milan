@@ -31,6 +31,61 @@ title:
     // nebo hodiny rozdělané práce,
     když někdo mluví.
 
+---------------------------------------------------------------------
+
+email 2026-07-13, předáno i pro Gemini
+
+
+# v souvislosti s ... antidepresivum BRINTELLIX 
+
+// Milan napsal o antidepresivech, 20260712, 0119
+
+###### Milan B. 1975
+
+- plný invalidní důchod od 2003
+- 4 psychiatři
+- postupně 8 antidepresiv
+- snižování dávky o 10 % za měsíc
+- v současnosti
+  - venlafaxin 75 mg
+  - mirtazapin 15 mg 0-0-0-1/4
+    - ℹ️ pomáhá proti nespavosti
+
+
+###### Iva L. roz. B. 1981
+
+- částečný invalidní důchod 
+- 2 psychiatrie
+- postupně 3 antidepresiva
+- Brintellix??
+
+(bohužel,
+mají nějaké důvody se domnívat, 
+že jim antidepresiva přinášejí víc škody než užitku,
+historie je složitá)
+
+###### Jiří B. 1947
+
+- v nemocnici Citalopram ... před 10 lety??
+- pak pomalu vysazoval
+
+
+###### #aaattention  - Gemini přeloží článek z wikipedia.org, Study 329 
+
+###### #aaattention  - co vlastně MUDr. Adam Tesař napsal na tom papíře z počítačové tiskárny, 2026-07 ?
+
+
+---
+https://www.youtube.com/watch?v=n3as1BXNjWQ
+
+
+ #aaa 
+ #aaa 
+
+- ℹ️ #aaa 
+
+-----
+----
 # jak obnovovat trávení   ...  téma [[0112-belly-peristaltika-obnovit-trávení.publ.md]]
 Přibližně každou hodinu,
 (a spíš mnohem častěji,)
