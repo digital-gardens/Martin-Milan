@@ -1,0 +1,10 @@
+#a - "Yellow Subroutine" — parody of the Beatles' "Yellow Submarine"; chorus: "We all live in a yellow sub-routine..."
+
+#a - "When I'm Sixty Four" — parody of the Beatles' song of the same name, about a terminal-bound programmer pulling all-nighters
+
+#a - "Yesterday" — parody of the Beatles' "Yesterday," Windows-95-themed ("Suddenly, nothing works at all efficiently")
+
+- "Unix Man" — confirmed again directly on poppyfields.net (separate page from the Filk Discography Wiki mention), same Beatles "Nowhere Man" parody: "He's a real UNIX Man / Sitting in his UNIX LAN..."
+
+// two more titles turned up but I couldn't confirm their tune source from the snippet — "Coding In C" and "C++ Writer" — so I'm not claiming them as Beatles-melody hits, just flagging as unconfirmed
+

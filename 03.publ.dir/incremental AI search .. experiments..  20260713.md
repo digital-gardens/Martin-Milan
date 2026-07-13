@@ -58,3 +58,8 @@ I will have to  try many pilot examples of these sub-topic searches, and I will 
 Now, to actually test your protocol: copy the block above, and try marking lines with `#yes` / `#no` inline (e.g. append `#no` to the Fortran/Bonnie line since it's not really Beatles-tune) and send it back to me. I'll treat that edited text as the feedback signal, update include/exclude term sets, and run the next search pass — that'll tell us fast whether the hashtag mechanic is actually pleasant to use or gets fiddly in practice.
 
 
+// btw, repeated letters in the hashtags are a way to indicate relative importance, e.g. #a < #aa < #aaa < #aaaa < #aaaaa ... etc.  (I use this in my own notes, and I think it is a useful convention for the AI to learn as well.)
+
+-----
+
+// a small misunderstanding... 0 of #yes means 0 new search terms.... so please continue with searching 
