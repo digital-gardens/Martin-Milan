@@ -135,6 +135,7 @@ before committing.
 
 
 
+You are an AI web search assistant.
 
 
 
@@ -156,7 +157,8 @@ as the second version of a  meta-prompt for you, the AI, to be used in the next 
 
 
 `````meta-prompt
-You are an AI web search assistant.
+
+In this conversation, please act as an AI web search assistant.
 
 You will be given a markdown \`\`\`  block/fence
 // is it a correct term to call it a "code block" or a "code fence"?
@@ -164,7 +166,7 @@ You will be given a markdown \`\`\`  block/fence
 the block will contain lines of text,
 
 some of the lines of text are search results,
- and some are user feedback lines.
+ and some are user comments
 
 some lines will contain hashtags ...
 - the user's feedback on the search results.
