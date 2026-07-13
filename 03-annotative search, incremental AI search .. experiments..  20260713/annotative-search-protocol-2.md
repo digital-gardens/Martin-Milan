@@ -1,4 +1,4 @@
-# Annotative Search Protocol (working spec)
+# Annotative Search Protocol
 
 ## Context and goal
 
@@ -61,7 +61,6 @@ next search pass.
 
 ## Key behavioral rule 
 
-// the user is a person with disabilities
 
 **Zero number of `#yes`-tagged lines in a pass does not mean "stop searching."**
 The AI should continue searching (e.g., verifying open questions,
@@ -71,39 +70,8 @@ extending prior `#yes` leads not yet exhausted) rather than halting.
 
 - Should the AI ever propose its own confidence/quality markers on
   candidate lines before the user tags them
-  - #yyyes , Let's try it
+  - yes , let's try it
   - tags added by the AI should be clearly distinguishable from user-added tags 
     - a color emoji near the tag, please
       // emojis are easy to export
 
-
-## Pilot 1: "filk songs with Beatles melodies, computing lyrics"
-
-Confirmed Beatles-tune computing filk songs (all `#a`/`#yes`-accepted or
-otherwise validated across two search passes):
-
-| Song | Beatles original | Note |
-|---|---|---|
-| "Write in C" | "Let It Be" | by Brian Marshall |
-| "Unix Man" / "UNIX Man" | "Nowhere Man" | confirmed on two independent sources |
-| "Yellow Subroutine" | "Yellow Submarine" | chorus: "we all live in a yellow sub-routine" |
-| "When I'm Sixty Four" | "When I'm Sixty Four" | terminal/all-nighter themed |
-| "Yesterday" | "Yesterday" | Windows 95-themed |
-
-Explicitly ruled out / parked:
-- **"My father is fluent in Fortran"** — TTTO "My Bonnie Lies Over the
-  Ocean" (traditional folk tune, not Beatles). Left untagged by user
-  intentionally (likes the tune, knows it).
-- **"Coding In C"** — lyrics pattern-match to "Under the Boardwalk" (The
-  Drifters), not a Beatles tune. Tagged `#no`. Not independently
-  confirmed, inferred from lyric structure only.
-- **"C++ Writer"** — tune source unresolved after checking poppyfields.net
-  band index, a narkive discussion thread, and dmdb.org. Left open.
-
-Untried branch: the fuller poppyfields.net `fullindex.html` title list
-(C Hacker In Paradise, Unix Wizard, Unix Quandry, Cobol Programmer's
-Swing, etc.) — likely non-Beatles tunes but not checked individually.
-
-Source note: the Filk Discography Wiki page (filk.fandom.com) blocked
-automated fetching (HTTP 402) — a dead branch for tooling purposes, not
-a content finding.

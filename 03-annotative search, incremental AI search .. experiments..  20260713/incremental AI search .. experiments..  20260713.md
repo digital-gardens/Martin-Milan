@@ -51,6 +51,11 @@ I will have to  try many pilot examples of these sub-topic searches, and I will 
 
 //// 1. a semi-difficult example
 
+# filk songs, with Beatles melodies, but with different lyrics ... related to Harry Potter
+
+# český filk ... (vlastní slova na známé melodie) ... na téma Harry Potter
+
+# filk songs, with Beatles melodies, but with different lyrics, related to Harry Potter
 # filk songs, with Beatles melodies, but with different lyrics, related to computing 
 
 ------------------------------
