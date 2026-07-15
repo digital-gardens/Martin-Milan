@@ -1,0 +1,21 @@
+#!meta
+
+{"kernelInfo":{"defaultKernelName":"pwsh","items":[{"aliases":[],"languageName":"pwsh","name":"pwsh"}]}}
+
+#!pwsh
+
+# zatim jeste neumim Github-Desktop
+# udelam pomoci git.exe
+
+#!pwsh
+
+cd D:\2222
+git clone https://github.com/Tech-La-Bo-Radotin/EL-programming-repo
+
+#!pwsh
+
+dir -Recurse
+
+#!pwsh
+
+code D:\2222\EL-programming-repo
