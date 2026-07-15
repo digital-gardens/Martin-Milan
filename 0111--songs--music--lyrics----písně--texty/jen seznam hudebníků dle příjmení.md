@@ -1,7 +1,8 @@
 jen seznam hudebníků dle příjmení
 
 hrubá ukázka seznamu hudebníků, setříděno dle příjmení
-(u kapel/skupin a jednoslovných uměleckých jmen řazeno dle názvu)
+(u kapel/skupin a jednoslovných uměleckých jmen řazeno dle názvu;
+u azbukou psaných jmen řazeno dle anglické/latinské transkripce příjmení)
 
 zdroje: [[250309 dad songs colab. 1 🧓 - YouTube]], [[250309 Мама mama colab 👵 - YouTube]],
 [[0111 250309 abecední seznam hudebníků a písní, které máme společné]], ruční poznámky (foto 20260715_18*)
@@ -17,23 +18,30 @@ zdroje: [[250309 dad songs colab. 1 🧓 - YouTube]], [[250309 Мама mama col
 - Joe Dassin
 - Bratři Ebenové
 - Enya
+- Filipová
 - Karel Gott
-- Dmitrij Hvorostovský
 - Jaroslav Hutka
+- Dmitrij Hvorostovský
 - Iļģi
 - Michael Jackson
+- Jahelka
 - Karl Jenkins
 - Carole King
 - Jana Kratochvílová
 - Karel Kryl
 - Marta Kubišová
 - Aneta Langerová
+- Lauschmann
 - lidové písně (lotyšské)
 - Lucie
+- Андрей Макаревич (Makarevič)
+- Новелла Матвеева (Matvejeva)
 - Ainars Mielavs
 - Wolfgang Amadeus Mozart
+- Muk
 - Jaromír Nohavica
 - Pepa Nos
+- Булат Окуджава (Okudžava)
 - Olympic
 - Pentatonix
 - Pink Floyd
@@ -41,26 +49,10 @@ zdroje: [[250309 dad songs colab. 1 🧓 - YouTube]], [[250309 Мама mama col
 - Ricchi e Poveri
 - Simon & Garfunkel
 - Spirituál kvintet
-- Zdeněk Svěrák
 - Ivars Štubis
-- Antonio Vivaldi
-- Jiří Voskovec & Jan Werich
-
-
-## Ruští/slovanští interpreti (azbukou)
-
-- Юрий Визбор (Vizbor)
-- Андрей Макаревич (Makarevič)
-- Новелла Матвеева (Matvejeva)
-- Булат Окуджава (Okudžava)
-
-
-## ⚠️ nejisté / k ověření (z ručních poznámek na fotkách)
-
-- Filipová
-- Lauschmann
-- Jabelkal
-- MUK (jizera... Alpinisti?)
-- Žížala / Atlantida
+- Zdeněk Svěrák
 - Vangelis
-- Anet / Berlin (Take My Breath Away — cover vs. originál)
+- Antonio Vivaldi
+- Юрий Визбор (Vizbor)
+- Jiří Voskovec & Jan Werich
+- Žbirka
