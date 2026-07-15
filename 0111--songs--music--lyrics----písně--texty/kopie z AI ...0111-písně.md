@@ -1,5 +1,21 @@
 
 
+
+
+jen seznam hudebníků dle příjmení
+
+hrubá ukázka seznamu hudebníků, setříděno dle příjmení
+(u kapel/skupin a jednoslovných uměleckých jmen řazeno dle názvu;
+u azbukou psaných jmen řazeno dle anglické/latinské transkripce příjmení)
+
+zdroje: [[250309 dad songs colab. 1 🧓 - YouTube]], [[250309 Мама mama colab 👵 - YouTube]],
+[[0111 250309 abecední seznam hudebníků a písní, které máme společné]], ruční poznámky (foto 20260715_18*)
+
+
+## Seznam
+
+=========
+
 prosím pokusit se naplnit
 soubor
 C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\jen seznam hudebníků dle příjmení.md
