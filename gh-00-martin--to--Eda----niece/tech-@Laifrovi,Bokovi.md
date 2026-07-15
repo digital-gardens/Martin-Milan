@@ -125,3 +125,53 @@ Hi niece
 
 // Sharlis looks like a new shorthand system  //  https://en.wikipedia.org/wiki/Shorthand
 
+
+
+
+
+@
+btw,
+
+one of my dream projects
+
+https://www.reddit.com/r/tree_notations/
+
+# an example of ... tree prose? tree text? - how to call it? - in reddit markdown - emsp characters
+
+```md
+
+I have started
+a subreddit
+  r/survival_of_our_info
+and a GitHub organization
+  named "digital-gardens"
+    … it is linked
+    in the subreddit
+
+the reason
+why the GitHub org
+was created...
+  to protect
+  texts of members
+  from deletion
+    by GitHub
+    when the members
+    become inactive
+
+By the way,
+the GitHub Desktop app
+is quite accessible
+
+And, by the way,
+is there anyone
+who likes
+prose styles with short lines 
+  e.g. the Buckminster Fuller's
+    Ventilated Prose?
+
+```
+
+
+# an example of ... tree prose? tree text? - how to call it? - in reddit markdown - & emsp; characters
+
+
