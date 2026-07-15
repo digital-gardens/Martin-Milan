@@ -1,5 +1,29 @@
 
 
+prosím pokusit se naplnit
+soubor
+C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\jen seznam hudebníků dle příjmení.md
+
+....
+
+hrubá ukázka seznamu hudebníků
+..setříděno dle příjmení:
+
+- ABBA
+- Brontosauři
+- Joe Dassin
+- Bratři Ebenové
+- Enya
+- Karel Gott
+- Iļģi
+- ...
+
+
+---------------------
+
+
+
+
 Tenhle snímek je mnohem čitelnější — vypadá to na společný "brainstorming" list nadepsaný **"PROSÍM PIŠTE PÍSNĚ"** (víc lidí/barev pište přispívalo). Přepis, seřazeno jak jde odshora:
 
 **Jasně čitelné (nové i známé):**
