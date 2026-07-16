@@ -2,6 +2,14 @@
 
 
 
+//// reddit markdown ... tree representation ... experiments
+List items cannot exceed 2 levels of nesting
+
+
+
+
+
+
 intermezzo...
 now
 let's brainstorm the name for another mini project ... 03-20260716
