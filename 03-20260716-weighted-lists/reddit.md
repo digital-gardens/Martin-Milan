@@ -111,27 +111,6 @@ List items cannot exceed 2 levels of nesting
 / / / /  Bratři Ebenové
 # Enya
 
----------
-
-# ABBA
-
-
-
-
-
-
-/ / / /  Johann Sebastian Bach
-# Beatles
-
-/ / /  Boney M.
-# Brontosauři
-
-/ / /  Joe Dassin
-
-/ / / /  Bratři Ebenové
-# Enya
------
-
 ---
 
 
@@ -142,12 +121,28 @@ List items cannot exceed 2 levels of nesting
  Beatles
 
 / / /  Boney M.
+
  Brontosauři
 
-/ / /  Joe Dassin
+/ /  Joe Dassin
 
 / / / /  Bratři Ebenové
+
  Enya
+
+
+
+------------
+
+
+- ABBA
+- / / / /  Johann Sebastian Bach
+- Beatles
+- / / /  Boney M.
+- Brontosauři
+- / /  Joe Dassin
+- / / / /  Bratři Ebenové
+- Enya
 
 
 
