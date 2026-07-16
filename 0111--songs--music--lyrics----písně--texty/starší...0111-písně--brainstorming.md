@@ -1,74 +1,7 @@
 
+# [[03-20260716-weighted-lists.md]]
 
-let's brainstorm the name for another mini project ... 03-20260716
-a general ~~visualization experiment in markdown ...
-
-what are good English names
-
-the input is a list, where each line 
-// e.g.  a name of a musician or a band
-has a "weight" (
-  importance,
-  rank,
-  priority,
-  relevance,
-  significance,
-  influence,
-  grade,
-  level,
-  
-  
-  )
-// could be marked as  a "heading level" (1-6) 
-
-
-, and the output is a markdown file
-// could be transformed by several regex substitutions
-
-such that
-it is well presented in markdown environments
-- vscode
-- obsidian
-
-- google chat
-- google keep
-- google docs
-
-- reddit
-- facebook
-- github
-
-requirements
-- discern levels 1 2 3
-
-importance ... heading1..6 ...     0111--songs--music--lyrics----písně--texty\0111 seznam hudebníků.md
-
-
-example input data
-
-----
-
-# ABBA
-# Beatles
-### Boney M.
-# Brontosauři
-### Joe Dassin
-#### Bratři Ebenové
-# Enya
-### Lenka Filipová
-### Karel Gott
-#### Jaroslav Hutka
-### Iļģi
-#### Michael Jackson
-## Jahelka
-#### Karl Jenkins
-#### Carole King
-## Jana Kratochvílová
-# Karel Kryl
-
------ 
-
-//  v rodině
+# //  v rodině
 
 old https://notebooklm.google.com/
 

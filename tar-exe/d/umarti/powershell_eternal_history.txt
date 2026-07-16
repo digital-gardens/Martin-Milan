@@ -13730,3 +13730,4 @@ $username = 'techl'
 $pass= (cat "C:\Users\marti\OneDrive\tar-TAR-MA-SOUKR-KLIC\20260712") +"ka"+(2*4)
 Start-Process "conhost.exe"   -Credential $credential   -WorkingDirectory C:\Users\$username   -UseNewEnvironment   -LoadUserProfile -ArgumentList "pwsh.exe"
 code C:\Users\marti\AppData\Roaming\Code\User\settings.json
+findstr -i 'tool.*thought' .\BIGfavorites_11_7_25.html

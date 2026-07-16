@@ -6,10 +6,9 @@
 ### Joe Dassin
 #### Bratři Ebenové
 # Enya
-### Filipová
+### Lenka Filipová
 ### Karel Gott
 #### Jaroslav Hutka
-#### Dmitrij Hvorostovský
 ### Iļģi
 #### Michael Jackson
 ## Jahelka
@@ -18,8 +17,8 @@
 ## Jana Kratochvílová
 # Karel Kryl
 ### Marta Kubišová
+# Kungpao
 ## Aneta Langerová
-#### Lauschmann
 ### lidové písně (lotyšské)
 ## Lucie
 ## Андрей Макаревич (Makarevič)
