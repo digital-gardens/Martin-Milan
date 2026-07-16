@@ -1,9 +1,15 @@
 
 
 
+https://chat.google.com/u/0/app/chat/AAAAkg0JJJc
+
+https://www.reddit.com/r/tech_La_Bo_daily/comments/1uy1f7g/reddit_markdown_weighted_list_representation/
+
 
 //// reddit markdown ... tree representation ... experiments
-List items cannot exceed 2 levels of nesting
+
+//// reddit markdown ... weighted list representation ... experiments
+// reddit ... List items cannot exceed 2 levels of nesting
 
 
 

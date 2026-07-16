@@ -15,12 +15,14 @@
 #### Karl Jenkins
 #### Carole King
 ## Jana Kratochvílová
+# KI
 # Karel Kryl
 ### Marta Kubišová
 # Kungpao
 ## Aneta Langerová
 ### lidové písně (lotyšské)
 ## Lucie
+# MEDS
 ## Андрей Макаревич (Makarevič)
 ## Новелла Матвеева (Matveeva)
 #### Ainars Mielavs

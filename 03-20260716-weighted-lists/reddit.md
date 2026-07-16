@@ -5,8 +5,11 @@ reddit markdown ... tree representation ... experiments
 reddit markdown ... 
 List items cannot exceed 2 levels of nesting
 
+---
 
+EDIT.. the music example is not a tree, it is merely a weighted list
 
+---
 
 # Heading 1
 ## Heading 2
@@ -143,6 +146,18 @@ List items cannot exceed 2 levels of nesting
 - / /  Joe Dassin
 - / / / /  Bratři Ebenové
 - Enya
+
+
+
+------------
+
+- **** ABBA
+-  Johann Sebastian Bach
+- **** Beatles
+- **  Boney M.
+- Brontosauři
+- ***  Joe Dassin
+-   Bratři Ebenové
 
 
 
