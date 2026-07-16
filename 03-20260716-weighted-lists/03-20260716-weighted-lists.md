@@ -7,13 +7,17 @@ now
 let's brainstorm the name for another mini project ... 03-20260716
 a general ~~visualization technique in markdown ...
 
+~~presentation
+~~representation
+
+
 what are good English names
 
 the input is a list, where each line 
 // e.g.  a name of a musician or a band
 has a "weight" (
   importance,
-  rank,
+#nnn  rank,
   priority,
   relevance,
   significance,
@@ -33,11 +37,19 @@ it is well presented in markdown environments
 - vscode
 - obsidian
 
-- google chat
-- google keep
+// how many levels of headings are there in markdown? 6
+// how many levels of headings are there in these sites
+
+- google chat markdown
+- google keep markdown
+
+
+- reddit  paste as markdown
+
+
 - google docs
 
-- reddit
+
 - facebook
 - github
 
@@ -79,7 +91,8 @@ how to translate to Czech
 03-20260716-graded-text-presentation-in-markdown
 "graded-text" --presentation--in-markdown
 
-Font attributes enrich knowledge maps and information retrieval
+
+## Font attributes enrich knowledge maps and information retrieval
 
 
 
@@ -110,7 +123,7 @@ importance ... heading1..6 ...
 
 
 
-
+# failed search for "weighted lists" 
 
 clip
 
