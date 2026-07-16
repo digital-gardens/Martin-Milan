@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "fad8dcc24a7fff5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0111--songs--music--lyrics----písně--texty/0111 seznam hudebníků.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0111 seznam hudebníků"
-            }
-          },
-          {
             "id": "b6283ee73d16cec1",
             "type": "leaf",
             "state": {
@@ -63,8 +49,7 @@
               "title": "08-20260517-cowork-enable-------experim--prtscr--paste-to-obsidian.publ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,8 +196,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fad8dcc24a7fff5a",
+  "active": "11da241d15b12872",
   "lastOpenFiles": [
+    "0111--songs--music--lyrics----písně--texty/0111 seznam hudebníků.md",
+    "03-20260716-weighted-lists/hvězdičky 0111 seznam hudebníků.md",
+    "03-20260716-weighted-lists/lomítka 0111 seznam hudebníků.md",
+    "03-20260716-weighted-lists/starší 0111 seznam hudebníků.md",
+    "0111--songs--music--lyrics----písně--texty/starší 0111 seznam hudebníků.md",
     "03-20260716-weighted-lists/reddit.md",
     "03-20260716-weighted-lists/regex.md",
     "0111--songs--music--lyrics----písně--texty/regex.md",
@@ -228,7 +218,6 @@
     "03-20260716-weighted-lists/03-20260716-weighted-lists.md",
     "03-20260716-weighted-lists",
     "20260511-claude.ai/03-settings/08-20260517-cowork-enable-------experim--prtscr--paste-to-obsidian.publ.md",
-    "0111--songs--music--lyrics----písně--texty/0111 seznam hudebníků.md",
     "new vault.md",
     "20260511-claude.ai/03-settings/04clau-Settings--genera--3-ways-to-copy.md.publ.md",
     "Untitled.md",
@@ -245,10 +234,6 @@
     "03.publ.dir/key-20260616.md",
     "03-04-13MP-NEUROZA-csob-a-JB-20260614/kormoran-story---something-inside.md",
     "03-04-13MP-NEUROZA-csob-a-JB-20260614/kormoran-story.md",
-    "03-04-13MP-NEUROZA-csob-a-JB-20260614/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md",
-    "git/github.com/20260521 github rename 2 repo.publ.md",
-    "git/github.com/oldMILANEDITS-github.com-sudo-mode,protected-branches.f8.md",
-    "git/github.com/oldMILANEDITS-github.com-sudo-mode,protected-branches.f8 - Copy.md",
     "03.publ.dir/image.png",
     "20260511-claude.ai/attachments/Pasted image 20260526233240.png",
     "260314--tree-doc/26/screenshot-1774061654670.png",
