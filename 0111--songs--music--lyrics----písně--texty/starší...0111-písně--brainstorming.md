@@ -1,10 +1,9 @@
 
 
-let's brainstorm the name for another mini project ... 20260716
+let's brainstorm the name for another mini project ... 03-20260716
 a general ~~visualization experiment in markdown ...
 
 what are good English names
-
 
 the input is a list, where each line 
 // e.g.  a name of a musician or a band
@@ -15,7 +14,8 @@ has a "weight" (
   relevance,
   significance,
   influence,
-  
+  grade,
+  level,
   
   
   )
@@ -38,9 +38,33 @@ it is well presented in markdown environments
 - facebook
 - github
 
-
+requirements
+- discern levels 1 2 3
 
 importance ... heading1..6 ...     0111--songs--music--lyrics----písně--texty\0111 seznam hudebníků.md
+
+
+example input data
+
+----
+
+# ABBA
+# Beatles
+### Boney M.
+# Brontosauři
+### Joe Dassin
+#### Bratři Ebenové
+# Enya
+### Lenka Filipová
+### Karel Gott
+#### Jaroslav Hutka
+### Iļģi
+#### Michael Jackson
+## Jahelka
+#### Karl Jenkins
+#### Carole King
+## Jana Kratochvílová
+# Karel Kryl
 
 ----- 
 
