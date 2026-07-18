@@ -5,9 +5,12 @@
 - #aaaa Brontosauři
 - #aaa  Joe Dassin
 -  Bratři Ebenové
+- expediční filk
 - #aaaa Enya
 - #aa  Lenka Filipová
 - #aa  Karel Gott
+- #aaa Harry Potter filk
+- #aaa Harry Potter a Metody Racionality - filk?
 -  Jaroslav Hutka
 - #aa  Iļģi
 -  Michael Jackson
@@ -22,7 +25,7 @@
 - #aaa  Aneta Langerová
 - #aa  lidové písně (lotyšské)
 - #aaa  Lucie
-- #aaaa MEDS
+- #aaaa MEDS filk?
 - #aaa  Андрей Макаревич (Makarevič)
 - #aaa  Новелла Матвеева (Matveeva)
 -  Ainars Mielavs
@@ -32,6 +35,7 @@
 -  Pepa Nos
 - #aaa  Булат Окуджава (Okudžava)
 - #aaa  Olympic
+- #aaa Pán Prstenů filk ... muzikál
 - #aaa  Pentatonix
 - #aaa  Pink Floyd
 -  Karel Plíhal

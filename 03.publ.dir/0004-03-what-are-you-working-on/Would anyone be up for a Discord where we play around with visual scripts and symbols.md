@@ -23,6 +23,78 @@ https://discord.com/channels/@me
 
 
 
+I removed your posts from Blissymemes because they weren't memes involving blissymbolics. If you want we could make a separate subreddit for non-meme blissymbolics whatnot though.
+
+
+
+
+I apologize. I will return to r/visual_conlangs and post there.
+
+By the way, do you like *nonlinear* Blissymbolics or not?
+
+https://www.the-symbols.net/suttonglyphs/linear_nonlinear/
+
+---
+reddit
+
+
+facebook 
+discord
+
+# is there anyone here who likes *nonlinear* Blissymbolics?
+https://www.the-symbols.net/suttonglyphs/linear_nonlinear/
+
+picture first 
+picture _~ compound
+
+another example from the author 
+
+---
+my examples 
+
+universe 
+
+house 
+
+
+I think I like more structure 😂
+
+
+an example with more structure
+... a house of [ music, AI, ... ]
+
+// I use nonlinear Blissymbolics as memory aid(s)
+
+, and as a way to express my thoughts in a more visual way. I also use them to create my own personal symbols for things that are important to
+
+
+you 
+
+
+EDIT ... I should have asked ... **who** likes *nonlinear* Blissymbolics ...
+
+
+
+
+// and who plans to try to draw some nonlinear Blissymbols in this year
+
+
+
+# (I doubly apologize for re-posting here ... my yesterday reshare from r/blissymemes was removed, because it wasn't a meme)
+
+another example 
+
+
+... my new attempt at a profile picture
+// another example of *nonlinear* Blissymbolics   ... my profile picture // btw, at reddit, I cannot  add pictures after posting , nor in comments
+
+
+
+
+
+
+
+
 
 
 
