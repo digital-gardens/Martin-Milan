@@ -1,0 +1,132 @@
+
+
+should be immutable
+file:///C:\Users\marti\OneDrive\Blissymbolics,conlangs\ASemtogF700-English-CcfBliss-dictionary.txt.tsv
+copies
+https://www.facebook.com/groups/381043692614545/files/files
+https://drive.google.com/drive/folders/1d26WrNzdqhywa2xEeh-XLPK4U5sI6v6w
+
+
+
+
+
+C:\Users\marti\OneDrive\vscode-f8\vscode-quickSuggestions-completi.f8.md
+	//  - matchingDocuments: Suggest words from all open documents of the same language.
+
+
+form
+
+
+
+24Ae state
+*.tsv completion works in another file
+*.txt not yet ... should i copy the dictionary .tsv to .txt?
+or todo rename?
+martin12333/marti-onedrive · daily-life---mitigate/antifragile.f8.zbl.txt
+martin12333/marti-onedrive · daily-life---mitigate/agile,scrum.f8.zbl.txt
+
+
+
+-----------------------------------
+done_
+24Af smaller bug_
+done copy the dict to nonf8n.tsv
+obsol rename the dict to .f8.renamedextension
+done_ cut the dict from this file
+to not contaminate github *.tsv *.txt
+push to github
+
+
+-----------------------------------
+24Ae bug _
+data  contaminated  by old-version-bliss-encoding
+
+done_
+deve reload
+ok_
+
+done_
+google
+Bliss_fanatic_
+ok
+
+done_
+aaa prb local *.txt
+cmd /c dir /b *zbl* /s
+cmd /c dir /b *zbl0* /s |  clip
+cd "C:\Users\marti\OneDrive\Blissymbolics,conlangs\CcfSymbolFont_ASEMTOG_F700-workspace-dir"
+cd OLD-e*
+rename
+
+done_
+explorer "C:\Users\marti\OneDrive\Blissymbolics,conlangs\CcfSymbolFont_ASEMTOG_F700-workspace-dir"
+emojis.zbl051i.txt
+C:\Users\marti\OneDrive\Blissymbolics,conlangs\CcfSymbolFont_ASEMTOG_F700-workspace-dir\harry potter zbl051i.txt
+"C:\Users\marti\OneDrive\Blissymbolics,conlangs\CcfSymbolFont_ASEMTOG_F700-workspace-dir\OLD-encoding-dont-push-dont-train-gh-copilot\Dict_NSM_Novylang.csv"
+done_
+ rename to *.oldencoding
+
+done_
+github? ok_  OK_
+  owner:martin12333 path:**/*zbl*
+owner:martin12333 "Bliss_fanatic_"
+owner:martin12333 "Christmas_"  0
+
+done_
+mkdir OLD-encoding-dont-push-dont-train-gh-copilot
+move
+rename
+
+done_
+github
+path:**/*ccfbliss*
+
+done_
+*zbl051i*
+dir bli*/ccf*/*.tsv
+dir bli*/ccf*/*.txt
+zbl
+
+-----------------------------------
+
+
+
+
+
+
+dir asem*/*.tsv
+####dir bli*/ccf*/**/*.tsv
+dir bli*/ccf*/*.tsv
+dir bli*/ccf*/*.tsv
+dir bli*/ccf*/*.txt
+dir bli*/ccf*/*f8*.txt
+
+24A
+	there_		are several ways to mitigate_ the impact of climate change_
+
+completion in VSCode works even in another file *.tsv   !!!
+
+blissymbolics_resource_centre_
+Bliss_fanatic_
+
+Blissymbolics_
+dictionary_📖
+vocabulary
+
+# completion slightly depends on file format  ... the filename extension
+
+edit: or rather the #language of the file in vscode
+
+# vscode *.md ... completion of words with emojis fails
+# vscode OK: *.coffee    *.edn *.tsv
+
+file:///C:\Users\marti\OneDrive\Blissymbolics,conlangs\CcfSymbolFont_ASEMTOG_F700-workspace-dir\completion---another-file--test.f8.txt.tsv
+
+
+
+
+
+# old
+
+https://github.com/search?q=ccfsymbolfont&type=code
+
