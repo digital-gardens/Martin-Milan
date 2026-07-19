@@ -14,12 +14,33 @@ tags:
 music, AI, Shipko
 
 
+
+
 https://discord.com/channels/786550541182435338/786550541182435341
 https://photos.google.com/share/AF1QipN-GpNP1O1cgND699Iyx4W-Q5obCBmAZEBhdppDewwQ4F2LXEm5siqVmcU08_Vz_Q?key=LXpUTTE4aHNRb3NtWFBzQ0ZYUFU3LTZDS1N1d2FB
 https://photos.google.com/photo/AF1QipOBl4QqWq2LbbIDexwK7Ug5LsmypxdMUrqoxpdC
 https://discord.com/channels/@me
 
 
+
+
+# d2  if hospitalization is needed
+
+MB isa admin
+extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.google.com/search?q=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&oq=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQKgCALACAA&sourceid=chrome&ie=UTF-8
+
+
+
+# a pinned link to the Discord | Blissary https://discord.com/invite/YnXk8beXM4 
+// by the way , they made a picture for me ... I am 💚⬆️    ...  #suttonglyphs
+
+
+
+ #blissymbols #blissymbolics
+
+
+---
+---
 
 
 
