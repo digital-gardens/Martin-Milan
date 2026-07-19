@@ -244,9 +244,14 @@ mkdir $x
 
 
 
+---
 
 # 20260706 
 00 RELAX BY WORKING WITH ONE HAND _ 💚 _
+
+---
+
+
 
 # 20260515.jóga..mudry..vědecké.vysvětlení.publ.md
 [[20260515.jóga..mudry..vědecké.vysvětlení.publ.md]]  
@@ -274,11 +279,10 @@ file:500
 
 # [[aaa youtube transcript Beseda na téma demence seniorů a jak ji rozpoznat.publ.md]]
 
-# [[a]]
 
-#[[]]
 
-# [[]]
+# [[MYNOTES-SMS-WHATSAPP.publ.md]]
+
 
 
 
