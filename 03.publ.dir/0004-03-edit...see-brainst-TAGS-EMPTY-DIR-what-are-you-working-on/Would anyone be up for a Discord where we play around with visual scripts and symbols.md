@@ -63,6 +63,30 @@ I think I like more structure 😂
 an example with more structure
 ... a house of [ music, AI, ... ]
 
+reply
+
+```
+<house>
+  <music />
+  <AI />
+</house>
+```
+
+reply
+// or, by abusing of AST objects
+
+```
+house(
+  music(),
+  AI()
+)
+```
+
+// I apologize for generating too much
+
+
+
+
 // I use nonlinear Blissymbolics as memory aid(s)
 
 , and as a way to express my thoughts in a more visual way. I also use them to create my own personal symbols for things that are important to
@@ -73,7 +97,7 @@ you
 
 EDIT ... I should have asked ... **who** likes *nonlinear* Blissymbolics ...
 
-
+// I am in no hurry ////even amateur philosophers should salute each other: 'Take your time.'
 
 
 // and who plans to try to draw some nonlinear Blissymbols in this year
