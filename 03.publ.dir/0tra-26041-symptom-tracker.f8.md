@@ -14,7 +14,7 @@ title: 0tra-26041-symptom-tracker.f8.md
 [[0brain-topic-brainstorming-260129.publ.md]]
 
 previous 
-[[251105-symptom-tracker.f8.md]]
+[[0tra-251105-symptom-tracker.f8.md]]
 
 scanned
 	C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\

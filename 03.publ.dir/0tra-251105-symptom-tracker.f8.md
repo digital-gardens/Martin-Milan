@@ -71,7 +71,7 @@ a file was forked from this ..
 
 a file was forked from this .. [[03-topic-brainstorming-260129.publ]]
 
-
+newer [[0tra-26041-symptom-tracker.f8.md]]
 
 
 
@@ -146,6 +146,13 @@ fail  #️⃣#️⃣#️⃣
 
 
 # todo ...  existing recommended vscode extenstions to insert timestamp ... to track symptoms in markdown files
+
+/day 
+[[2026-07-21]]
+/today 
+[[2026-07-21]]
+
+
 
 - **Insert Date String**: This extension allows you to quickly insert the current date and time in various formats. You can customize the format to suit your needs.
 - **Date Time Stamper**: This extension provides a simple way to insert timestamps into your files. It supports multiple formats and can be triggered with a keyboard shortcut.
