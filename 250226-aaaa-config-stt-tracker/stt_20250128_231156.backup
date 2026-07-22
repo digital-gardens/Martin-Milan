@@ -1,0 +1,112 @@
+app simple time tracker
+recordType	1	up	ic_headset_24px	14	0						0	
+recordType	2	miniup	ic_desktop_windows_24px	15	0						0	
+recordType	3	wc	ic_wc_24px	0	0						0	
+recordType	4	pspain	ic_sentiment_very_dissatisfied_24px	2	0						0	
+recordType	5	vypad	ic_snooze_24px	3	0						0	sleepy? nemůžu teď ani 1z těch prací, přestože spal až příliš, nebo mírnější... groggy, prokrastinace. podezírán food allergy. podezírán spánkový dluh 36h
+recordType	6	piškoty	ic_import_contacts_24px	15	0						0	
+recordType	7	Chores	ic_assignment_24px	5	1						0	
+recordType	8	yell	ic_delete_24px	2	0						0	
+recordType	9	větrat	ic_directions_walk_24px	9	0						0	
+recordType	10	old	ic_extension_24px	0	0						0	
+recordType	11	48kg	ic_shopping_cart_24px	10	0						0	
+recordType	12	fat	ic_restaurant_menu_24px	15	0						0	
+recordType	13	konV	ic_free_breakfast_24px	3	0						0	
+recordType	14	vita	ic_restaurant_24px	14	0						0	
+recordType	15	mir	ic_local_bar_24px	5	0						0	
+recordType	16	bed 	ic_airline_seat_individual_suite_24px	10	0						0	
+recordType	17	dotřes 	ic_airport_shuttle_24px	16	0						0	
+recordType	18	Work	ic_business_center_24px	2	0						0	
+recordType	19	reflux 	ic_celebration_24px	7	0						0	
+recordType	20	maraton	ic_360_24px	3	0						0	
+recordType	21	2		3	1						0	
+recordType	22	protein	🍖	16	0						0	
+recordType	23	mana 	🍕	2	0						0	
+recordType	24	Vodamint	ic_360_24px	11	0						0	
+recordType	25	začzměn		15	0						0	
+recordType	26	extra		15	0						0	
+recordType	27	1/6mir!		2	0						0	␤
+recordType	28	kortizol		16	0						0	
+recordType	29	yymmdd 		13	0						0	
+recordType	30	zacV		8	0						0	
+recordType	31	neníono		4	0						0	
+recordType	32	malé 		6	0						0	
+recordType	33	wm3		11	0						0	
+recordType	34	mitiga	ic_expand_less_24px	3	0						0	
+recordType	35	mbed		12	0						0	
+recordType	36	1min		11	0						0	
+recordType	37	i	ic_check_box_outline_blank_24px	3	0						0	
+recordType	38	KPZ 		14	0						0	
+recordType	39	antifrag		13	0						0	
+recordType	40	meta		16	0						0	
+recordType	41	OCD15		14	0						0	
+recordType	42	 invalid	ic_favorite_border_24px	3	0						0	
+recordType	43	had	ic_expand_less_24px	3	0						0	
+recordType	44	suffer		3	0						0	
+recordType	45	spirit	ic_favorite_border_24px	9	0						0	
+recordType	46	amino		15	0						0	
+recordType	47	10min		11	0						0	
+recordType	48	odměň	ic_favorite_border_24px	9	0						0	
+recordType	49	hypo		18	0						0	
+recordType	50	šetřit	ic_favorite_border_24px	15	0						0	
+recordType	51	lavina 		2	0						0	
+recordType	52	fear		4	0						0	
+recordType	53	change		13	0						0	
+recordType	54	přetrpěl		9	0						0	
+recordType	55	užmoc 		16	0						0	
+recordType	56	music	ic_favorite_border_24px	13	0						0	
+recordType	57	peri		9	0						0	
+recordType	58	2030	ic_favorite_border_24px	8	0						0	
+category	1	V	8		
+category	2	mir	5		
+typeCategory	30	1
+typeCategory	13	1
+typeCategory	15	2
+typeCategory	27	2
+recordTag	1		b2	0	12		ic_airline_seat_individual_suite_24px	0	
+typeToRecordTag	16	1
+activityFilter	1	16	0	sleep	11		0
+activityFilter	2	16,1,2,4,5,8,9,13,12,15,14,17,18,19,22,23,24,6,20,25,26,27,11,28	0	frequent	12		0
+favouriteIcon	2	ic_attach_file_24px
+favouriteIcon	3	ic_cancel_24px
+favouriteIcon	4	ic_check_24px
+favouriteIcon	5	ic_chevron_left_24px
+favouriteIcon	6	ic_close_24px
+favouriteIcon	8	ic_expand_more_24px
+favouriteIcon	9	ic_chevron_right_24px
+favouriteIcon	10	ic_first_page_24px
+favouriteIcon	11	ic_last_page_24px
+favouriteIcon	12	ic_check_box_24px
+favouriteIcon	13	ic_check_box_outline_blank_24px
+favouriteIcon	14	ic_indeterminate_check_box_24px
+favouriteIcon	15	ic_radio_button_checked_24px
+favouriteIcon	16	ic_radio_button_unchecked_24px
+favouriteIcon	17	ic_star_24px
+favouriteIcon	18	ic_star_half_24px
+favouriteIcon	19	ic_star_border_24px
+favouriteIcon	21	ic_expand_less_24px
+favouriteIcon	22	ic_favorite_border_24px
+prefs	recordTypesFilteredOnList	
+prefs	chartFilterType	1
+prefs	cardOrder	2
+prefs	cardOrderManual	33_6,35_7,56_15,51_45,29_37,16_5,58_1,43_18,36_12,50_2,34_33,19_32,27_22,49_34,24_35,47_13,14_28,30_19,8_25,9_8,37_54,39_39,42_0,48_16,13_21,26_49,54_10,53_40,55_9,11_3,52_38,23_31,44_55,45_17,46_29,2_52,40_42,18_43,31_47,25_24,22_30,57_14,12_27,41_4,28_53,15_23,10_50,5_11,6_26,20_46,17_44,4_48,3_36,32_20,1_51,38_41
+prefs	statisticsRange	1
+prefs	statisticsDetailRange	1
+prefs	fileExportRange	4
+prefs	csvExportCustomFilename	init, duplicity,stt_records_{date}.csv
+prefs	icsExportCustomFilename	
+prefs	firstDayOfWeek	2
+prefs	showUntrackedInRecords	0
+prefs	showUntrackedInStatistics	1
+prefs	showRecordsCalendar	0
+prefs	showCalendarButtonOnRecordsTab	1
+prefs	reverseOrderInCalendar	1
+prefs	daysInCalendar	7
+prefs	showActivityFilters	1
+prefs	allowMultipleActivityFilters	0
+prefs	allowMultitasking	1
+prefs	showNotifications	1
+prefs	showNotificationEvenWithNoTimers	1
+prefs	ignoreShortRecordsDuration	71
+prefs	numberOfCards	6
+prefs	isNavBarAtTheBottom	1
