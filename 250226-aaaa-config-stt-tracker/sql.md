@@ -1,5 +1,17 @@
 
 
+SELECT *
+FROM "demo1_metaschema_stt_backup"
+LEFT JOIN "demo1_cardOrderManual" ON "demo1_cardOrderManual"."num_id" = "demo1_metaschema_stt_backup"."num_id"
+LIMIT 250;
+
+
+
+
+
+
+
+
 // I am a hobbyist
 
 I have 2 tsv files that I want to

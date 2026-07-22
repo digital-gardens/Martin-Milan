@@ -1,0 +1,130 @@
+meta-tags2	name2	comment2	b	c	table-name	num-id	name	icon	color	s	t	u	v	w	x	y	note
+#		a	b	c	recordType	-999	up	ic_local_hotel_24px	2	0						0	# rule--hashtag-3-znaky  ať hashtag začíná aspoň 3 latinské znaky
+	#up	a	b	c	recordType	1	up	ic_local_hotel_24px	2	0						0
+	#miniup	a	b	c	recordType	2	miniup	ic_local_hotel_24px	16	0						0
+	#diarrhoea	a	b	c	recordType	3	diarrhoea	ic_wc_24px	3	0						0	wc  diarrhoea
+	#proklŽ	a	b	c	recordType	4	PŽ	ic_sentiment_very_dissatisfied_24px	3	0						0	ne tvorba. anti tvorba  zasr.ž,pspain jinde,  do trpět, mantra, sm.t
+	#vypadek	a	b	c	recordType	5	vypad🚫	ic_snooze_24px	4	0						0	vypad🚫 nepříjemný . sleepy? nemůžu teď ani 1z těch prací, deprese z nevyspání , nebo přestože spal až příliš, že by pocit trapasu před ženami online, groggy, nemá cenu nic dalšího
+	#	a	b	c	recordType	6	piškoty	ic_import_contacts_24px	15	0						0
+	#	a	b	c	recordType	7	Chores	ic_assignment_24px	5	1						0
+	#	a	b	c	recordType	8	yellL	ic_delete_24px	2	0						0
+	#	a	b	c	recordType	9	větrat	ic_directions_walk_24px	12	0						0
+	#	a	b	c	recordType	10	multi	ic_extension_24px	0	0						0
+	#	a	b	c	recordType	11	48kg	ic_shopping_cart_24px	16	0						0	 484848
+	#	a	b	c	recordType	12	fat	ic_restaurant_menu_24px	16	0						0
+	#	a	b	c	recordType	13	venlafaxine // after food	ic_free_breakfast_24px	3	0						0	lék V / Felix..lék. kon.V.lék-V / venlafaxine // after food
+	#	a	b	c	recordType	14	vita	ic_restaurant_24px	16	0						0
+	#	a	b	c	recordType	15	lék-m 1/4	ic_local_bar_24px	15	0						0
+	#	a	b	c	recordType	16	postel	ic_airline_seat_individual_suite_24px	9	0						0
+	#	a	b	c	recordType	17	dotřes 	ic_airport_shuttle_24px	16	0						0
+	#	a	b	c	recordType	18	Work	ic_business_center_24px	15	0						0
+	#	a	b	c	recordType	19	reflux	ic_celebration_24px	14	0						0
+	#	a	b	c	recordType	20	marat	ic_360_24px	15	0						0
+	#	a	b	c	recordType	21	2		3	1						0
+	#	a	b	c	recordType	22	protein	🍖	2	0						0
+	#	a	b	c	recordType	23	1.mana	🍕	2	0						0
+	#	a	b	c	recordType	24	Voda	ic_360_24px	11	0						0	Vodamint
+	#	a	b	c	recordType	25	začzměn		2	0						0
+	#	a	b	c	recordType	26	extra		15	0						0
+	#	a	b	c	recordType	27	lék-m 1/6		2	0						0	␤
+	#	a	b	c	recordType	28	psych-bolest		3	0						0	pspain nemohu pž,burnout
+	#	a	b	c	recordType	29	yymmdd 		13	0						0
+	#	a	b	c	recordType	30	venlafaxine // felix-felicis		2	0						0	zacV lék V / Felix venlafaxine
+	#	a	b	c	recordType	31	neníono		5	0						0
+	#	a	b	c	recordType	32	zpoždění		3	0						0	malé
+	#	a	b	c	recordType	33	wm3		3	0						0
+	#	a	b	c	recordType	34	newfood	ic_expand_less_24px	3	0						0	zmírnit
+	#	a	b	c	recordType	35	mbed	ic_local_hotel_24px	12	0						0
+	#	a	b	c	recordType	36	sto		11	0						0
+	#	a	b	c	recordType	37	pain	ic_check_box_outline_blank_24px	3	0						0
+	#	a	b	c	recordType	38	KPZ 		14	0						0
+	#	a	b	c	recordType	39	adapt ability		13	0						0	antifrag
+	#	a	b	c	recordType	40	meta		14	0						0	meta learn, micro wisdom
+	#	a	b	c	recordType	41	trávení	T	14	0						0	pau  02peri na břiše🫄
+	#	a	b	c	recordType	42	promysli	ic_favorite_border_24px	3	0						0	stěž
+	#	a	b	c	recordType	43	divná chuť	ic_expand_less_24px	3	0						0
+	#	a	b	c	recordType	44	verbaJB		3	0						0
+	#	a	b	c	recordType	45	soul touha	ic_favorite_border_24px	9	0						0	spiri
+	#	a	b	c	recordType	46	amino		15	0						0
+	#	a	b	c	recordType	47	vypad+		11	0						0
+	#	a	b	c	recordType	48	Po mnoha trápeních	ic_favorite_border_24px	9	0						0	MorálPrávo
+	#	a	b	c	recordType	49	hypo		18	0						0
+	#	a	b	c	recordType	50	krů	ic_favorite_border_24px	13	0						0
+	#	a	b	c	recordType	51	lavin		2	0						0
+	#	a	b	c	recordType	52	strach		2	0						0	Malý dusivý záchvat strachu z profesionální informatiky poplach
+	#	a	b	c	recordType	53	chang		13	0						0
+	#	a	b	c	recordType	54	touha odměn		11	0						0
+	#	a	b	c	recordType	55	proprokra	ic_do_not_disturb_on_24px	15	0						0	přetrp
+	#	a	b	c	recordType	56	Oooo	🫶	11	0						0	hummm omm
+	#	a	b	c	recordType	57	prst-na-nos peri	👌	9	0						0	n nbubl peri stretch fňo
+	#	a	b	c	recordType	58	touha 2037	ic_favorite_border_24px	8	0						0
+	#	a	b	c	recordType	59	vibr nehty	💅	13	0						0	fňo , n ndych
+	#	a	b	c	recordType	60	obočí touha	👀	8	0						0	stretches, weird, reddit
+	#	a	b	c	recordType	61	touha copy		11	0						0	množit
+	#	a	b	c	recordType	62	phys		3	0						0
+	#	a	b	c	recordType	63	území		15	0						0
+	#	a	b	c	recordType	64	já jako ty		2	0						0
+	#	a	b	c	recordType	65	sryv		1	0						0
+	#	a	b	c	recordType	66	obnovit	🙏	12	0						0	1/2 volnější.nadechnout přestávku␤
+	#	a	b	c	recordType	67	Praško		12	0						0
+	#	a	b	c	recordType	68	clogwc		3	0						0
+	#	a	b	c	recordType	69	přehnaný		12	0						0
+	#	a	b	c	recordType	70	bolbř		3	0						0
+	#	a	b	c	recordType	71	50yo		10	0						0
+	#	a	b	c	recordType	72	ultra		3	0						0
+	#	a	b	c	recordType	73	1/den		8	0						0
+	#	a	b	c	recordType	74	t.krize		18	0						0	že by pocit trapasu před ženami online?
+	#	a	b	c	recordType	75	idea		12	0						0	tvorba
+	#	a	b	c	recordType	76	painkill		3	0						0
+	#	a	b	c	recordType	77	invalidní		18	0						0	důchod
+	#	a	b	c	recordType	78	záda		3	0						0	groggy
+	#	a	b	c	recordType	79	of LB		0	0						0
+	#	a	b	c	recordType	80	vymáhá		3	0						0
+	#	a	b	c	recordType	81	nestrávil		1	0						0	stěž
+	#	a	b	c	recordType	82	zuby		14	0						0
+	#	a	b	c	recordType	83	píseň🎵		15	0						0	divně
+	#	a	b	c	recordType	84	poPŽ		5	0						0	pspainfear, bojím že se mi jen zdá že to bolest skončilo//////kdysi že by pocit trapasu před ženami online? a možná sem zařadit i polo výpadek. např po jídle.250826.22 zatím polo příjemý mírnější... groggy, prokrastinace. podezírán food allergy. podezírán spánkový dluh 36h. podezírán adaptace.
+	#	a	b	c	recordType	85	sing1		11	0						0
+	#	a	b	c	recordType	86	ntílko		16	0						0
+	#	a	b	c	recordType	87	vyčerpal tak		3	0						0	bránit
+	#	a	b	c	recordType	88	cítím moc		17	0						0	nepamat
+	#	a	b	c	recordType	89	léků	L	1	0						0	24oC . vyčerpal tak hrozí agrese
+	#	a	b	c	recordType	90	multi day		3	0						0
+	#	a	b	c	recordType	91	počkej dny		12	0						0	Dlouhé vedení. přinesu slova důkazy. už tolikrát. ano písemná komunikace doporučována pro neurotické poruše
+	#	a	b	c	recordType	92	nejedl		3	0						0
+	#	a	b	c	recordType	93	sledovat		12	0						0	zasadit zalít připravit aspoň␤
+	#	a	b	c	recordType	94	utéct		15	0						0	lekci
+	#	a	b	c	recordType	95	klení		3	0						0
+	#	a	b	c	recordType	96	pau.during		9	0						0	pauzy
+	#	a	b	c	recordType	97	opřít se		11	0						0
+	#	a	b	c	recordType	98	víc důl		11	0						0
+	#	a	b	c	recordType	99	dám sto tisíc		17	0						0	vyhodil 820
+	#	a	b	c	recordType	100	aaaaiii		10	0						0
+	#	a	b	c	recordType	101	@Vℹ️ℹ️		17	0						0
+	#	a	b	c	recordType	102	ai. 🎤	ic_mic_none_24px	14	0						0
+	#	a	b	c	recordType	103	shipko		3	0						0
+	#	a	b	c	recordType	104	800 888 155		3	0						0
+	#	a	b	c	recordType	105	bookiJB		16	0						0
+	#	a	b	c	recordType	106	zisk čas		11	0						0
+	#	a	b	c	recordType	107	chybí)		3	0						0
+	#	a	b	c	recordType	108	mantra3		14	0						0	mantra mantra mantra místo mindrak
+	#	a	b	c	recordType	109	550714		3	0						0
+	#	a	b	c	recordType	110	alzh		1	0						0
+	#	a	b	c	recordType	111	nevyvr		1	0						0
+	#	a	b	c	recordType	112	dooka		4	0						0
+	#	a	b	c	recordType	113	01 držení těla		11	0						0
+	#	a	b	c	recordType	114	iplikator		9	0						0
+	#	a	b	c	recordType	115	escapist		15	0						0	dream projects
+	#	a	b	c	recordType	116	lékořicí		1	0						0
+	#	a	b	c	recordType	117	13V výpadek		1	0						0
+	#	a	b	c	recordType	118	13MP příležitost		13	0						0
+	#	a	b	c	recordType	119	mimo chodem		12	0						0	pracuju
+	#	a	b	c	recordType	120	hemoroidy		1	0						0
+	#	a	b	c	recordType	121	menší cíle		11	0						0	menší akce
+	#	a	b	c	recordType	122	Gemini vibe		9	0						0
+	#	a	b	c	recordType	123	neležel		2	0						0
+	#	a	b	c	recordType	124	g photos		0	0						0
+	#	a	b	c	recordType	125	008 bk		3	0						0
+	#	a	b	c	recordType	126	obj mail		3	0						0
+	#	a	b	c	recordType	127	horko obli		3	0						0
+	#	a	b	c	recordType	128	pomohlo dospat		11	0						0

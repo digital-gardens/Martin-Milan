@@ -11,8 +11,14 @@
 #
 #	id ... symbol---dashes
 
-meta-tags	id	new-comment	b	c	recordType	num-id	label	icon	maybe-color	s	t	u	v	w	x	y	comment
 
+#	Row 101, column 8 begins with a spreadsheet formula trigger.
+#	#	a	b	c	recordType	101	@Vℹ️ℹ️		17	0						0
+
+
+#	Activity name
+
+meta-tags2	name2	comment2	b	c	table-name	num-id	name	icon	color	s	t	u	v	w	x	y	note
 	#up	a	b	c	recordType	1	up	ic_local_hotel_24px	2	0						0
 	#miniup	a	b	c	recordType	2	miniup	ic_local_hotel_24px	16	0						0
 	#diarrhoea	a	b	c	recordType	3	diarrhoea	ic_wc_24px	3	0						0	wc  diarrhoea
