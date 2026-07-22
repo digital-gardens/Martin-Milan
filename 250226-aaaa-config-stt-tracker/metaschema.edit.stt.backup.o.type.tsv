@@ -1,0 +1,242 @@
+		a	b	c	prefs	cardOrderManual	56_6,24_62,98_95,107_104,80_47,67_71,26_83,86_23,117_114,119_116,65_51,89_14,62_52,38_75,9_25,79_63,90_87,78_12,53_73,95_92,25_44,28_31,115_112,48_20,18_78,120_117,110_107,31_30,105_102,96_93,111_108,55_26,87_16,49_61,68_67,20_81,113_110,59_2,44_50,4_35,2_11,63_46,47_38,42_24,17_79,6_53,74_74,29_68,27_42,58_27,93_90,50_28,66_3,11_19,30_39,13_41,36_22,73_18,100_97,40_76,51_80,109_106,94_91,118_115,46_56,43_64,108_105,16_5,33_21,71_85,99_96,52_69,81_49,84_34,104_101,1_9,106_103,5_36,3_13,15_43,102_99,12_54,23_58,116_113,32_40,91_88,39_72,34_60,69_70,77_17,85_37,57_0,82_45,45_65,121_118,114_111,103_100,10_84,101_98,19_59,112_109,22_57,75_82,92_89,76_33,97_94,54_29,41_4,83_8,64_7,8_48,88_15,37_32,35_10,61_77,60_1,14_55,70_66,72_86
+
+
+kopie
+C:\Users\marti\OneDrive\Dokumenty\00-MM\03.publ.dir\0tra-26041-symptom-tracker.f8.md
+# rule--hashtag-3-znaky  ať hashtag začíná aspoň 3 latinské znaky
+buď obětuji hacky a carky
+a nebo, když ai nebude rozumet, zvolim jine slovo
+mir-lék
+#vic-důležité
+#vic-dulezite
+
+
+
+metatags	symbol---dashes	a	b	c	recordType	id	label	icon	maybe-color	s	t	u	v	w	x	y	comment
+
+	up	a	b	c	recordType	1	up	ic_local_hotel_24px	2	0						0
+	miniup	a	b	c	recordType	2	miniup	ic_local_hotel_24px	16	0						0
+	diarrhoea	a	b	c	recordType	3	diarrhoea	ic_wc_24px	3	0						0	wc  diarrhoea
+	proklŽ	a	b	c	recordType	4	PŽ	ic_sentiment_very_dissatisfied_24px	3	0						0	ne tvorba. anti tvorba  zasr.ž,pspain jinde,  do trpět, mantra, sm.t
+	vypadek	a	b	c	recordType	5	vypad🚫	ic_snooze_24px	4	0						0	vypad🚫 nepříjemný . sleepy? nemůžu teď ani 1z těch prací, deprese z nevyspání , nebo přestože spal až příliš, že by pocit trapasu před ženami online, groggy, nemá cenu nic dalšího
+		a	b	c	recordType	6	piškoty	ic_import_contacts_24px	15	0						0
+		a	b	c	recordType	7	Chores	ic_assignment_24px	5	1						0
+		a	b	c	recordType	8	yellL	ic_delete_24px	2	0						0
+		a	b	c	recordType	9	větrat	ic_directions_walk_24px	12	0						0
+		a	b	c	recordType	10	multi	ic_extension_24px	0	0						0
+		a	b	c	recordType	11	48kg	ic_shopping_cart_24px	16	0						0	 484848
+		a	b	c	recordType	12	fat	ic_restaurant_menu_24px	16	0						0
+		a	b	c	recordType	13	venlafaxine // after food	ic_free_breakfast_24px	3	0						0	lék V / Felix..lék. kon.V.lék-V / venlafaxine // after food
+		a	b	c	recordType	14	vita	ic_restaurant_24px	16	0						0
+		a	b	c	recordType	15	lék-m 1/4	ic_local_bar_24px	15	0						0
+		a	b	c	recordType	16	postel	ic_airline_seat_individual_suite_24px	9	0						0
+		a	b	c	recordType	17	dotřes 	ic_airport_shuttle_24px	16	0						0
+		a	b	c	recordType	18	Work	ic_business_center_24px	15	0						0
+		a	b	c	recordType	19	reflux	ic_celebration_24px	14	0						0
+		a	b	c	recordType	20	marat	ic_360_24px	15	0						0
+		a	b	c	recordType	21	2		3	1						0
+		a	b	c	recordType	22	protein	🍖	2	0						0
+		a	b	c	recordType	23	1.mana	🍕	2	0						0
+		a	b	c	recordType	24	Voda	ic_360_24px	11	0						0	Vodamint
+		a	b	c	recordType	25	začzměn		2	0						0
+		a	b	c	recordType	26	extra		15	0						0
+		a	b	c	recordType	27	lék-m 1/6		2	0						0	␤
+		a	b	c	recordType	28	psych-bolest		3	0						0	pspain nemohu pž,burnout
+		a	b	c	recordType	29	yymmdd 		13	0						0
+		a	b	c	recordType	30	venlafaxine // felix-felicis		2	0						0	zacV lék V / Felix venlafaxine
+		a	b	c	recordType	31	neníono		5	0						0
+		a	b	c	recordType	32	zpoždění		3	0						0	malé
+		a	b	c	recordType	33	wm3		3	0						0
+		a	b	c	recordType	34	newfood	ic_expand_less_24px	3	0						0	zmírnit
+		a	b	c	recordType	35	mbed	ic_local_hotel_24px	12	0						0
+		a	b	c	recordType	36	sto		11	0						0
+		a	b	c	recordType	37	pain	ic_check_box_outline_blank_24px	3	0						0
+		a	b	c	recordType	38	KPZ 		14	0						0
+		a	b	c	recordType	39	adapt ability		13	0						0	antifrag
+		a	b	c	recordType	40	meta		14	0						0	meta learn, micro wisdom
+		a	b	c	recordType	41	trávení	T	14	0						0	pau  02peri na břiše🫄
+		a	b	c	recordType	42	promysli	ic_favorite_border_24px	3	0						0	stěž
+		a	b	c	recordType	43	divná chuť	ic_expand_less_24px	3	0						0
+		a	b	c	recordType	44	verbaJB		3	0						0
+		a	b	c	recordType	45	soul touha	ic_favorite_border_24px	9	0						0	spiri
+		a	b	c	recordType	46	amino		15	0						0
+		a	b	c	recordType	47	vypad+		11	0						0
+		a	b	c	recordType	48	Po mnoha trápeních	ic_favorite_border_24px	9	0						0	MorálPrávo
+		a	b	c	recordType	49	hypo		18	0						0
+		a	b	c	recordType	50	krů	ic_favorite_border_24px	13	0						0
+		a	b	c	recordType	51	lavin		2	0						0
+		a	b	c	recordType	52	strach		2	0						0	Malý dusivý záchvat strachu z profesionální informatiky poplach
+		a	b	c	recordType	53	chang		13	0						0
+		a	b	c	recordType	54	touha odměn		11	0						0
+		a	b	c	recordType	55	proprokra	ic_do_not_disturb_on_24px	15	0						0	přetrp
+		a	b	c	recordType	56	Oooo	🫶	11	0						0	hummm omm
+		a	b	c	recordType	57	prst-na-nos peri	👌	9	0						0	n nbubl peri stretch fňo
+		a	b	c	recordType	58	touha 2037	ic_favorite_border_24px	8	0						0
+		a	b	c	recordType	59	vibr nehty	💅	13	0						0	fňo , n ndych
+		a	b	c	recordType	60	obočí touha	👀	8	0						0	stretches, weird, reddit
+		a	b	c	recordType	61	touha copy		11	0						0	množit
+		a	b	c	recordType	62	phys		3	0						0
+		a	b	c	recordType	63	území		15	0						0
+		a	b	c	recordType	64	já jako ty		2	0						0
+		a	b	c	recordType	65	sryv		1	0						0
+		a	b	c	recordType	66	obnovit	🙏	12	0						0	1/2 volnější.nadechnout přestávku␤
+		a	b	c	recordType	67	Praško		12	0						0
+		a	b	c	recordType	68	clogwc		3	0						0
+		a	b	c	recordType	69	přehnaný		12	0						0
+		a	b	c	recordType	70	bolbř		3	0						0
+		a	b	c	recordType	71	50yo		10	0						0
+		a	b	c	recordType	72	ultra		3	0						0
+		a	b	c	recordType	73	1/den		8	0						0
+		a	b	c	recordType	74	t.krize		18	0						0	že by pocit trapasu před ženami online?
+		a	b	c	recordType	75	idea		12	0						0	tvorba
+		a	b	c	recordType	76	painkill		3	0						0
+		a	b	c	recordType	77	invalidní		18	0						0	důchod
+		a	b	c	recordType	78	záda		3	0						0	groggy
+		a	b	c	recordType	79	of LB		0	0						0
+		a	b	c	recordType	80	vymáhá		3	0						0
+		a	b	c	recordType	81	nestrávil		1	0						0	stěž
+		a	b	c	recordType	82	zuby		14	0						0
+		a	b	c	recordType	83	píseň🎵		15	0						0	divně
+		a	b	c	recordType	84	poPŽ		5	0						0	pspainfear, bojím že se mi jen zdá že to bolest skončilo//////kdysi že by pocit trapasu před ženami online? a možná sem zařadit i polo výpadek. např po jídle.250826.22 zatím polo příjemý mírnější... groggy, prokrastinace. podezírán food allergy. podezírán spánkový dluh 36h. podezírán adaptace.
+		a	b	c	recordType	85	sing1		11	0						0
+		a	b	c	recordType	86	ntílko		16	0						0
+		a	b	c	recordType	87	vyčerpal tak		3	0						0	bránit
+		a	b	c	recordType	88	cítím moc		17	0						0	nepamat
+		a	b	c	recordType	89	léků	L	1	0						0	24oC . vyčerpal tak hrozí agrese
+		a	b	c	recordType	90	multi day		3	0						0
+		a	b	c	recordType	91	počkej dny		12	0						0	Dlouhé vedení. přinesu slova důkazy. už tolikrát. ano písemná komunikace doporučována pro neurotické poruše
+		a	b	c	recordType	92	nejedl		3	0						0
+		a	b	c	recordType	93	sledovat		12	0						0	zasadit zalít připravit aspoň␤
+		a	b	c	recordType	94	utéct		15	0						0	lekci
+		a	b	c	recordType	95	klení		3	0						0
+		a	b	c	recordType	96	pau.during		9	0						0	pauzy
+		a	b	c	recordType	97	opřít se		11	0						0
+		a	b	c	recordType	98	víc důl		11	0						0
+		a	b	c	recordType	99	dám sto tisíc		17	0						0	vyhodil 820
+		a	b	c	recordType	100	aaaaiii		10	0						0
+		a	b	c	recordType	101	@Vℹ️ℹ️		17	0						0
+		a	b	c	recordType	102	ai. 🎤	ic_mic_none_24px	14	0						0
+		a	b	c	recordType	103	shipko		3	0						0
+		a	b	c	recordType	104	800 888 155		3	0						0
+		a	b	c	recordType	105	bookiJB		16	0						0
+		a	b	c	recordType	106	zisk čas		11	0						0
+		a	b	c	recordType	107	chybí)		3	0						0
+		a	b	c	recordType	108	mantra3		14	0						0	mantra mantra mantra místo mindrak
+		a	b	c	recordType	109	550714		3	0						0
+		a	b	c	recordType	110	alzh		1	0						0
+		a	b	c	recordType	111	nevyvr		1	0						0
+		a	b	c	recordType	112	dooka		4	0						0
+		a	b	c	recordType	113	01 držení těla		11	0						0
+		a	b	c	recordType	114	iplikator		9	0						0
+		a	b	c	recordType	115	escapist		15	0						0	dream projects
+		a	b	c	recordType	116	lékořicí		1	0						0
+		a	b	c	recordType	117	13V výpadek		1	0						0
+		a	b	c	recordType	118	13MP příležitost		13	0						0
+		a	b	c	recordType	119	mimo chodem		12	0						0	pracuju
+		a	b	c	recordType	120	hemoroidy		1	0						0
+		a	b	c	recordType	121	menší cíle		11	0						0	menší akce
+		a	b	c	recordType	122	Gemini vibe		9	0						0
+		a	b	c	recordType	123	neležel		2	0						0
+		a	b	c	recordType	124	g photos		0	0						0
+		a	b	c	recordType	125	008 bk		3	0						0
+		a	b	c	recordType	126	obj mail		3	0						0
+		a	b	c	recordType	127	horko obli		3	0						0
+		a	b	c	recordType	128	pomohlo dospat		11	0						0
+		a	b	c	record	1	18	1733019459000	1733019467000
+		a	b	c	record	2	16	1733019443000	1733019486000
+		a	b	c	record	3	16	1733020096000	1733020121000
+		a	b	c	record	4	16	1733020137000	1733020158000
+		a	b	c	record	5	16	1733023312000	1733023321000
+		a	b	c	record	6	16	1733024037000	1733024069000
+		a	b	c	record	7	16	1733024074000	1733024082000
+		a	b	c	record	8	16	1733024087000	1733024098000
+		a	b	c
+		a	b	c
+		a	b	c
+		a	b	c
+		a	b	c
+		a	b	c
+		a	b	c	record	5716	128	1784111980000	1784659226000
+		a	b	c	record	5717	60	1784658190000	1784659519000
+		a	b	c	record	5718	16	1784663826000	1784665117000
+		a	b	c	record	5719	3	1784598119000	1784667315000
+		a	b	c	category	1	V	8
+		a	b	c	category	2	mir	5
+		a	b	c	category	3	bed	11
+		a	b	c	typeCategory	30	1
+		a	b	c	typeCategory	13	1
+		a	b	c	typeCategory	15	2
+		a	b	c	typeCategory	27	2
+		a	b	c	typeCategory	16	3
+		a	b	c	recordTag	1		b2	0	12		ic_airline_seat_individual_suite_24px	0		0
+		a	b	c	recordToRecordTag	816	1
+		a	b	c	typeToRecordTag	16	1
+		a	b	c	activityFilter	1	16	0	sleep	11		0
+		a	b	c	activityFilter	2	16,1,2,4,5,8,9,13,12,15,14,17,18,19,22,23,24,6,20,25,26,27,11,28	0	frequent	12		0
+		a	b	c	favouriteIcon	2	ic_attach_file_24px
+		a	b	c	favouriteIcon	3	ic_cancel_24px
+		a	b	c	favouriteIcon	4	ic_check_24px
+		a	b	c	favouriteIcon	5	ic_chevron_left_24px
+		a	b	c	favouriteIcon	6	ic_close_24px
+		a	b	c	favouriteIcon	8	ic_expand_more_24px
+		a	b	c	favouriteIcon	9	ic_chevron_right_24px
+		a	b	c	favouriteIcon	10	ic_first_page_24px
+		a	b	c	favouriteIcon	11	ic_last_page_24px
+		a	b	c	favouriteIcon	12	ic_check_box_24px
+		a	b	c	favouriteIcon	13	ic_check_box_outline_blank_24px
+		a	b	c	favouriteIcon	14	ic_indeterminate_check_box_24px
+		a	b	c	favouriteIcon	15	ic_radio_button_checked_24px
+		a	b	c	favouriteIcon	16	ic_radio_button_unchecked_24px
+		a	b	c	favouriteIcon	17	ic_star_24px
+		a	b	c	favouriteIcon	18	ic_star_half_24px
+		a	b	c	favouriteIcon	19	ic_star_border_24px
+		a	b	c	favouriteIcon	21	ic_expand_less_24px
+		a	b	c	favouriteIcon	22	ic_favorite_border_24px
+		a	b	c	favouriteIcon	23	ic_add_alert_24px
+		a	b	c	favouriteIcon	24	ic_error_24px
+		a	b	c	favouriteIcon	25	ic_error_outline_24px
+		a	b	c	favouriteIcon	26	ic_warning_24px
+		a	b	c	favouriteIcon	27	ic_do_not_disturb_on_24px
+		a	b	c	favouriteIcon	28	ic_desktop_windows_24px
+		a	b	c	favouriteIcon	29	ic_local_hotel_24px
+		a	b	c	favouriteIcon	30	ic_headset_24px
+		a	b	c	prefs	recordTypesFilteredOnList	88,89,110,111,112,113,114,115,116,90,117,91,118,92,119,93,94,95,96,97,10,98,11,99,12,13,14,15,17,18,19,120,121,1,122,2,123,3,124,4,125,5,126,6,127,7,128,8,9,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,-1,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,100,101,102,103,104,105,106,80,107,81,108,82,109,83,84,85,86,87
+		a	b	c	prefs	categoriesFilteredOnList	-1,-2
+		a	b	c	prefs	tagsFilteredOnList
+		a	b	c	prefs	listFilterType	1
+		a	b	c	prefs	recordTypesFilteredOnChart	88,89,110,111,112,113,114,115,116,90,117,91,118,92,119,93,94,95,96,97,10,98,11,99,12,14,17,18,19,120,1,2,3,4,5,6,7,8,9,20,21,22,23,24,25,26,27,28,29,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,-1,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,100,101,102,103,104,105,106,80,107,81,108,82,109,83,84,85,86,87
+		a	b	c	prefs	categoriesFilteredOnChart	-1,-2
+		a	b	c	prefs	tagsFilteredOnChart
+		a	b	c	prefs	chartFilterType	0
+		a	b	c	prefs	cardOrder	2
+		a	b	c
+		a	b	c
+		a	b	c
+		a	b	c
+		a	b	c	prefs	statisticsRange	1
+		a	b	c	prefs	statisticsRangeLastDays	7
+		a	b	c	prefs	statisticsDetailRange	0
+		a	b	c	prefs	fileExportRange	1
+		a	b	c	prefs	csvExportCustomFilename	init, duplicity,stt_records_{date}.csv
+		a	b	c	prefs	icsExportCustomFilename
+		a	b	c	prefs	firstDayOfWeek	2
+		a	b	c	prefs	showUntrackedInRecords	0
+		a	b	c	prefs	showUntrackedInStatistics	1
+		a	b	c	prefs	showRecordsCalendar	1
+		a	b	c	prefs	reverseOrderInCalendar	1
+		a	b	c	prefs	daysInCalendar	3
+		a	b	c	prefs	showActivityFilters	1
+		a	b	c	prefs	allowMultipleActivityFilters	0
+		a	b	c	prefs	pomodoroFocusTime	300
+		a	b	c	prefs	pomodoroPeriodsUntilLongBreak	1
+		a	b	c	prefs	pomodoroShowMoreControls	1
+		a	b	c	prefs	allowMultitasking	1
+		a	b	c	prefs	showNotifications	1
+		a	b	c	prefs	showNotificationEvenWithNoTimers	1
+		a	b	c	prefs	ignoreShortRecordsDuration	71
+		a	b	c	prefs	numberOfCards	6
+		a	b	c	prefs	isNavBarAtTheBottom	1
+		a	b	c	prefs	durationSuggestionsWasPrepopulated	1
+		a	b	c	prefs	typeAdditionalFieldsShown	1
+		a	b	c	prefs	categoryAdditionalFieldsShown	1
+		a	b	c

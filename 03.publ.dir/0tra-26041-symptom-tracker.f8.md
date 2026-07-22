@@ -169,14 +169,18 @@ Feelings
 
 😞Disappointed
 
-# 02
- TODO předělat tento dokument.. aby 1. 100 řádek četl AI 
 
-# todo kdo snese v hashtagu
-české znaky
-pomlčky
 
-aŤ hashtag začíná aspoň 3 latinské znaky
+
+
+
+
+
+# 02  #TODO předělat tento dokument.. aby 1. 100 řádek četl AI 
+
+# todo kdo snese v hashtagu české znaky, pomlčky
+
+# rule--hashtag-3-znaky  ať hashtag začíná aspoň 3 latinské znaky
 buď obětuji hacky a carky 
 a nebo, když ai nebude rozumet, zvolim jine slovo 
 mir-lék
