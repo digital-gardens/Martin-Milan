@@ -151,7 +151,16 @@ fail  #️⃣#️⃣#️⃣
 [[2026-07-21]]
 /today 
 [[2026-07-21]]
+a
 
+
+date
+timestamp
+da
+ia
+a
+to
+aa
 
 
 - **Insert Date String**: This extension allows you to quickly insert the current date and time in various formats. You can customize the format to suit your needs.
