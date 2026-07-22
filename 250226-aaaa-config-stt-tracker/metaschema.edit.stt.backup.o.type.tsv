@@ -11,7 +11,7 @@ x	#vic-dulezite
 x
 x	id ... symbol---dashes
 
-metatags	id	a	b	c	recordType	numid	label	icon	maybe-color	s	t	u	v	w	x	y	comment
+meta-tags	id	new-comment	b	c	recordType	num-id	label	icon	maybe-color	s	t	u	v	w	x	y	comment
 
 	up	a	b	c	recordType	1	up	ic_local_hotel_24px	2	0						0
 	miniup	a	b	c	recordType	2	miniup	ic_local_hotel_24px	16	0						0
