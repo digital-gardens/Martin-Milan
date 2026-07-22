@@ -1,5 +1,18 @@
 
 
+
+https://drive.google.com/drive/folders/1ImBhVqhBSIjI5OhzaOa-p33R-6AHQUEb
+
+
+
+
+https://gemini.google.com/app/19dc2292d1e4e422
+
+//// https://table.studio/dashboard/qujv89vc/table/a9d853e5-01a1-4d1e-80c7-4fd143f46e16?new=true
+
+https://anaworkbench.com/apps/web/workbench
+https://anaworkbench.com/apps/web/labs/sql-lab2?handoff=sql-export&handoffId=database-1784745511655-z9md63mt82
+
 SELECT *
 FROM "demo1_metaschema_stt_backup"
 LEFT JOIN "demo1_cardOrderManual" ON "demo1_cardOrderManual"."num_id" = "demo1_metaschema_stt_backup"."num_id"
