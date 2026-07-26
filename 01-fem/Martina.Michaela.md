@@ -25,6 +25,9 @@ import
 Martina.Michaela. 
 8
 3
+zatim nepodarilo
+
+
 
 Toto číslo a možnosti jeho využití můžete kdykoli změnit v účtu Google (account.google.com/phone), kde ho můžete také odstranit
 
