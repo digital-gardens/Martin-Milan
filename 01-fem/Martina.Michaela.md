@@ -7,11 +7,14 @@ tel mb
 Toto telefonní číslo již bylo pro ověření použito příliš mnohokrát.
 
 tel lb?
+Swollen-Battery--li-ion-250110\Swollen-Battery--Li-ion.f8.md
+
 
 
 moralni pravo po hlidacky
 
 tummy
+
 
 edge profile
 
@@ -26,6 +29,7 @@ Martina.Michaela.
 8
 3
 zatim nepodarilo
+mail
 
 
 
@@ -56,9 +60,17 @@ Určete, zda chcete dostávat příležitostná připomenutí, že máte provés
 
 
 
+# https://myaccount.google.com/?utm_source=sign_in_no_continue&pli=1
+
+
+# fail
 Budete se moci přihlásit pomocí nové adresy Gmailu, ze které se stane primární e-mailová adresa přidružená k tomuto účtu. Na adresu Gmailu vám budeme posílat nové informace o účtu, pozvánky a další oznámení.
 
+Toto telefonní číslo již bylo pro ověření použito příliš mnohokrát.
 
+LB
+https://accounts.google.com/b/0/MailUpgradeIdvChallenge
+Swollen-Battery--li-ion-250110\Swollen-Battery--Li-ion.f8.md
 
 
 
