@@ -23,15 +23,70 @@ https://discord.com/channels/@me
 
 
 
-
+extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.google.com/search?q=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&oq=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQKgCALACAA&sourceid=chrome&ie=UTF-8
 # d2  if hospitalization is needed
 
 MB isa admin
-extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.google.com/search?q=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&oq=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQKgCALACAA&sourceid=chrome&ie=UTF-8
+
+## 20260726 
+
+"character superimposed" ckb
+
+https://github.com/search?q=BCI-AV_202&type=code
+
+https://www.dropbox.com/search/personal?path=%2F&query=fish-history&quickview=id%3AIG6XfSdDKkAAAAAAAABaaQ&search_order_by=LAST_MODIFIED_TIME&search_token=fjHe7BFgESSwcbVhEvOFhkrxzaj3nCvVWH8tGQ%2F1dn0%3D&typeahead_session_id=74411206227800263030662066162144
+
+https://drive.google.com/drive/search?q=%22Character%20(superimposed%22
+
+yyy
+https://onedrive.live.com/query?q=%22Character%20%28superimposed%22&searchScope=all
+success
+
+tc horror  nnn   obrazky   node_modules
+c:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt
+c:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\nonlinear Bliss 202607. Discord. visual scripts and symbols.md
+c:\Users\marti\OneDrive\00clippi\Clippings\character superimposed ckb.md
+c:\Users\marti\OneDrive\android-dumpstate-zram-meminfo-batterystats\carat-data\fish-history.txt
+c:\Users\marti\OneDrive\docker-214\22a\ma214e2.tar
+c:\Users\marti\OneDrive\docker-214\22a\dotfiles-20b.zip
+c:\Users\marti\OneDrive\dr4\dotfiles-20b.zip
+c:\Users\marti\OneDrive\javascript-js-224-11\dotfiles-20b.zip
+c:\Users\marti\OneDrive\csv-group-by-sqlite-216\dr-sqlitebrowser\fontmap-leftjoined-to-YACR-leftjoined-to-BCI-AV - shee1.csv
+c:\Users\marti\OneDrive\csv-group-by-sqlite-216\dr-sqlitebrowser\apt-get install sqlitebrowser
+c:\Users\marti\OneDrive\csv-group-by-sqlite-216\dr-sqlitebrowser\apt-get install sqlitebrowser~
 
 
 
-# a pinned link to the Discord | Blissary https://discord.com/invite/YnXk8beXM4 
+
+
+
+
+
+extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://blissary.com/assets/bliss-exports
+## 251225  
+ hlridge/bliss-svg-builder(press backspace or delete to remove)
+
+  {
+    "blissaryId": 100,
+    "bciAvId": 12321,
+    "blissSvgBuilderCode": "B100"
+  },
+
+
+
+(mouth + many: what one says to characterize many things: CKB describes this symbol as "a saying about a multitude".) - Character (superimposed). Afrikaans ...
+
+"Character (superimposed"
+
+BCI-AV_2016-03-
+
+
+
+
+
+
+
+## a pinned link to the Discord | Blissary https://discord.com/invite/YnXk8beXM4 
 // by the way , they made a picture for me ... I am 💚⬆️    ...  #suttonglyphs
 
 
