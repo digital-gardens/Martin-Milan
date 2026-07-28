@@ -1,0 +1,26 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2480-D21D
+
+ Directory of C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY
+
+07/28/2026  18:39    <DIR>          .
+07/26/2026  01:12    <DIR>          ..
+07/28/2026  18:12    <DIR>          0004--0-MARTI-READONLY---50000-nemel shortcut
+07/28/2026  18:30    <DIR>          0004--SEARCHABLES--0004--KEEP-DEVICE
+06/11/2026  16:27    <DIR>          03-WARNING--MAYBE-SHOULDNT--COPY-GIT_DIR
+07/28/2026  18:23    <DIR>          0koren
+05/23/2026  21:04    <DIR>          20260521Dokumenty--TODO-FREE
+06/11/2026  16:06    <DIR>          20260611OneDrive--TODO-FREE
+04/20/2026  23:18    <DIR>          260419-ONEDRIVE-SYNC-problem--workaround
+04/27/2026  23:28    <DIR>          260427OneDrive
+04/28/2026  00:56    <DIR>          260428OneDrive
+04/28/2026  01:02    <DIR>          2604OneDrive
+04/20/2026  09:48    <DIR>          8minut=VERBATIM SD-tc-pause-rename
+07/28/2026  18:26    <DIR>          BIGFILES-FREE
+04/21/2026  12:46    <DIR>          Git
+05/05/2026  19:39    <DIR>          node_modules--FREE-UP-SPACE
+07/28/2026  18:20    <DIR>          PREVIOUS-searchable--FREE
+04/23/2026  01:05    <DIR>          RECOVERY-drive-WIN-q
+04/20/2026  10:02    <DIR>          VERBATIM SD
+               0 File(s)              0 bytes
+              19 Dir(s)  45,307,023,360 bytes free
