@@ -30,6 +30,50 @@ MB isa admin
 
 ## 20260726 
 
+// my github could survive me till roughly 2050s
+// and if my niece helps, then even longer
+
+
+#suttonglyphs
+Bliss Visual Linguistics-2007--20260727T194429Z-1-001.zip"
+
+
+https://www.facebook.com/groups/381043692614545/permalink/1998111587574406
+
+
+
+"C:\Users\marti\OneDrive\Dokumenty\Blissymbolics,conlangs\FACEBO\Bliss Visual Linguistics-2007--20260727T194429Z-1-001.zip"
+
+
+btw,
+I am thinking of making a backup copy of some files ... to my public github repo ...
+https://github.com/digital-gardens/Martin-Milan
+
+George Sutton 
+btw,
+I am thinking of making a backup copy of the files ... to my public github repo ... do you agree?
+//  https://github.com/digital-gardens/Martin-Milan
+
+![
+  
+](image.png)
+
+
+ saved this in 2014. I love the nonlinear ones, you know.
+... from a blog by George Sutton ; now the blog is probably not available on the web ... an archive is at
+https://drive.google.com/.../1JTB4mImCs2OGJz1tlh66PwjYYFb...
+
+
+Feature the best of your group
+Pin posts, hashtags and rules at the top of your group in Featured, formerly known as Announcements.
+To get you started, we've displayed your most recent pins. Learn more
+Only admins and moderators can see this.
+
+
+a,Visual-Conlangs,Blissymbolics,public - Google Drive
+https://drive.google.com/drive/folders/1d26WrNzdqhywa2xEeh-XLPK4U5sI6v6w?usp=drive_link
+
+
 "character superimposed" ckb
 
 https://github.com/search?q=BCI-AV_202&type=code
