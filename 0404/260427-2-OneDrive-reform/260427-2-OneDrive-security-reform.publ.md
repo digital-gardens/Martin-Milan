@@ -80,9 +80,10 @@ set online only
 #cmd /c dir   /l /n /s   >  C:\Users\marti\OneDrive\Dokumenty\00\dir-milan-onedrive-l-n-s.publ.txt  "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\"
 cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-milan-onedrive-0.publ.txt  "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\"
 
-
-18s
+cmd /c dir   /s      >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-both.publ.txt     c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\
 ```
+
+c:\Users\marti\OneDrive\Dokumenty\antidepress-216\
 
 ---------
 

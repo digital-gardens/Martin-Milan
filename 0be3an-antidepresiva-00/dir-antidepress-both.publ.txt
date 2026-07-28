@@ -1,0 +1,108 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2480-D21D
+
+ Directory of c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva
+
+07/28/2026  20:26    <DIR>          .
+07/28/2026  20:25    <DIR>          ..
+07/28/2026  20:27    <DIR>          0004 see 03 tracker ---- RELAX BY WORKING WITH ONE HAND _ ?? _
+09/18/2025  01:02                 3 00043-tags-250825-250831-iiiii-aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8.md
+09/18/2025  01:02                 3 00043-tags-250825-250831-??????????-aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8 - Copy.md
+09/18/2025  01:02                 3 00043-tags-250918-929---250825-250831--aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8.md
+06/05/2026  02:44             1,698 250831-aaaaAAA-00000-CORE1000-antidepressant-akathisia.f8.md
+04/10/2026  14:42             2,996 250918-929-antidepressant-shocks--akathisia.f8.md
+07/28/2026  20:22    <DIR>          aaaa
+06/29/2026  02:43    <DIR>          aaaaa
+04/10/2026  14:55            75,292 amazon The Antidepressant Solution A Step-by-Step Guide to Safely Overcoming Antidepressant Withdrawal, Dependence, and Joseph Glenmullen.md
+04/07/2024  23:14    <DIR>          antidepress-216
+03/14/2025  00:34               908 BCAAs.f8.md
+10/07/2024  16:42             1,014 contacts (2).csv
+10/07/2024  16:49               942 contacts (3).csv
+10/06/2024  08:52             9,370 Conversation (52).txt
+04/17/2024  21:24            17,996 Dr Shipko s Informed Consent for SSRI An.md
+09/12/2025  19:28             5,009 gastroparesis-250310.f8.md
+03/10/2025  20:15             2,766 Medication-Induced Tardive Dyskinesia.. A Review and Update---selected---gastroparesis-250310.f8.md
+03/10/2025  20:13            71,874 Medication-Induced Tardive Dyskinesia.. A Review and Update.md
+10/07/2024  22:47    <DIR>          MUDr.P.S. a nejen 22.3. 2017
+06/05/2026  02:44            11,414 nefoam-antidepresiva-slovnik-2021.f8.md
+10/07/2024  13:43            88,197 OckovaciPrukazka.pdf
+10/06/2024  03:31           349,707 PI210176.pdf
+10/07/2024  17:40           446,920 priloha_dlp (12).pdf
+10/07/2024  17:41           349,707 priloha_dlp (13).pdf
+10/07/2024  17:41           200,260 priloha_dlp (14).pdf
+10/06/2024  06:49           448,846 priloha_dlp (8).pdf
+03/14/2025  01:12             9,051 protein-250313.xlsx
+10/06/2024  03:32           446,920 SPC210177.pdf
+04/10/2026  14:29            76,805 The Antidepressant Solution A Step-by-Step Guide to Safely Overcoming Antidepressant Withdrawal, Dependence, and Joseph Glenmullen.md
+04/17/2024  21:31            74,764 The Antidepressant Solution A Step-by-Step Guide to Safely Overcoming Antidepressant Withdrawal, Dependence,.md
+10/06/2024  08:27           620,464 Tips for tapering off Effexor and Effexor XR (venlafaxine) - Tapering - Surviving Antidepressants.html
+06/05/2026  02:42            20,529 velaxin-24A5--venlafaxine--immediate-release.f8.md
+              27 File(s)      3,333,458 bytes
+
+ Directory of c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\0004 see 03 tracker ---- RELAX BY WORKING WITH ONE HAND _ ?? _
+
+07/28/2026  20:27    <DIR>          .
+07/28/2026  20:26    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\aaaa
+
+07/28/2026  20:22    <DIR>          .
+07/28/2026  20:26    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\aaaaa
+
+06/29/2026  02:43    <DIR>          .
+07/28/2026  20:26    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\antidepress-216
+
+04/07/2024  23:14    <DIR>          .
+07/28/2026  20:26    <DIR>          ..
+07/08/2021  13:04           928,249 10.1177-2045125321991274-table1-2045125321991274.pdf
+07/08/2021  13:04           290,091 10.1177-2045125321991274-table2-2045125321991274.pdf
+07/08/2021  13:04           476,472 10.1177-2045125321991274-table3-2045125321991274.pdf
+07/08/2021  13:04           289,785 10.1177-2045125321991274-table4-2045125321991274.pdf
+06/12/2023  05:41           135,460 8563244-zdravotni-potize-dospelych-antidepresiva-a-neurol.jpg
+04/07/2024  23:08           655,732 About reinstating and stabilizing to reduce withdrawal symptoms - Symptoms and self-care - Surviving Antidepressants.html
+06/12/2023  05:08           541,066 Akathisia vs restlessness, anxiety, agitation - Symptoms and self-care - Surviving Antidepressants.html
+07/01/2021  20:34            73,137 Akathisia_ Symptoms, Causes, Diagnosis, Treatment _ RxISK.html
+06/12/2023  05:11           539,738 Blog_ My akathisia experience by akathisiainfo - Symptoms and self-care - Surviving Antidepressants.html
+04/07/2024  23:12        14,512,907 Effexor-All-FDA-Reports-2003-2014.pdf
+07/03/2021  16:21           911,251 Electronic patient records systems used by thousands of doctors were programmed to automatically suggest opioids at treatment, thanks to a secret deal between the software maker and a drug company _ technology.html
+04/07/2024  23:12        12,410,216 FDA FAERS 1993 to 2022.xlsx
+07/01/2021  20:24           251,816 Grey Hair, Rotting Teeth, Semi-Blind and Demented _ RxISK.html
+04/07/2024  23:11           367,215 Guide-to-Akathisia-for-Family-and-Friends (1).pdf
+07/03/2021  16:20           352,898 Health-Records Company Pushed Opioids to Doctors in Secret Deal - Bloomberg.html
+06/12/2023  05:13           531,914 How to cut up tablets or pills (using a pill cutter) - Tapering - Surviving Antidepressants.html
+07/01/2021  18:05           141,329 I can't breathe _ Dr. David Healy.html
+07/03/2021  15:11         1,171,202 Lékar_ Jsme jako otroci, porusujeme zákony a zijeme ve lzi. Pacient to neví - Nase zdravotnictví.html
+07/01/2021  18:06           103,501 MAiD in Canada_ Treatment Resistant Depression _ RxISK.html
+04/07/2024  23:12         5,180,278 My Process.mp4
+06/12/2023  05:23            62,571 Proc chybejí léky - Casopis Vesmír.html
+07/01/2021  18:25            72,226 Terminal dehydration - Wikipedia.html
+06/12/2023  05:12           201,558 The Carlat Psychiatry Blog_ Horizant_ The Second Coming of Gabapentin.html
+07/01/2021  20:10           111,699 Venus Rising_ Women and Antidepressants _ Dr. David Healy.html
+07/01/2021  20:18           522,425 Visual problems linked to antidepressants _ RxISK.html
+06/12/2023  05:11           522,950 Weighted blankets & bed tents for restlessness, akathisia, insomnia, and anxiety - Symptoms and self-care - Surviving Antidepressants.html
+06/30/2021  17:08           609,809 What I have learnt from helping thousands of people taper off antidepressants and other psychotropic medications - Adele Framer, 2021.html
+06/12/2023  05:21         1,671,964 zavislost-na-lecich0.pdf
+06/12/2023  05:19           397,660 Závislost na lécích_ co to je_ _ NZIP.html
+              29 File(s)     44,037,119 bytes
+
+ Directory of c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\MUDr.P.S. a nejen 22.3. 2017
+
+10/07/2024  22:47    <DIR>          .
+07/28/2026  20:26    <DIR>          ..
+10/07/2024  16:30           112,213 eRecept_PM84POMXP9TK.pdf
+10/07/2024  16:51           111,139 eRecept_PMMMU72FNM9X.pdf
+04/15/2023  18:33             8,746 MUDr. Sykorová 22.3. 2017 (1).docx
+04/15/2023  18:33             3,964 MUDr. Sykorová 22.3. 2017.txt
+10/08/2024  19:52             1,369 Pavla Sykorová.md
+               5 File(s)        237,431 bytes
+
+     Total Files Listed:
+              61 File(s)     47,608,008 bytes
+              17 Dir(s)  45,304,414,208 bytes free

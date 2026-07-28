@@ -13732,3 +13732,7 @@ Start-Process "conhost.exe"   -Credential $credential   -WorkingDirectory C:\Use
 code C:\Users\marti\AppData\Roaming\Code\User\settings.json
 findstr -i 'tool.*thought' .\BIGfavorites_11_7_25.html
 cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-milan-onedrive-0.publ.txt  "C:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\"
+cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-216.publ.txt
+cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-216.publ.txt  c:\Users\marti\OneDrive\Dokumenty\antidepress-216\
+cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-both.publ.txt
+cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-both.publ.txt     c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\
