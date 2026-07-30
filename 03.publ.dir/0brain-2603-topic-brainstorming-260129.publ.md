@@ -271,7 +271,9 @@ is there group-by in excel .. windows app 2026?
 
 
 
-
+0112-1811-JLMA Chatová pseudo skupina JLMA Jiří Ljuba Milan abecedně
+https://gemini.google.com/share/3b4a6ac40e1f  herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří
+JM-1804-respnt JM chatová skupina Jiří Milan 💚
 
 
 # 01 m1 ADHD 
