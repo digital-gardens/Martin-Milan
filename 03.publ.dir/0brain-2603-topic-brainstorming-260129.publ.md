@@ -251,10 +251,12 @@ mkdir $x
 
 ---
 
+# 20260726
+01-shiatsu-acupressure-massage-akupresura.md
 
 
 # 20260515.jóga..mudry..vědecké.vysvětlení.publ.md
-[[20260515.jóga..mudry..vědecké.vysvětlení.publ.md]]  
+01 / [[20260515.jóga..mudry..vědecké.vysvětlení.publ.md]]  
 
 
 # google sheets.. tracker 

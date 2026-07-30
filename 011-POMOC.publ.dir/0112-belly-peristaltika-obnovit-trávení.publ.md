@@ -96,7 +96,7 @@ win+.
 belly
 ~~hamster
 
-additional tags:  puls akupresura shiatsu  
+- additional tags:  puls akupresura shiatsu   acupressure
 
 pozn.:
 
