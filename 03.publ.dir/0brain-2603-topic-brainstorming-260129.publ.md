@@ -257,6 +257,23 @@ mkdir $x
 [[20260515.jóga..mudry..vědecké.vysvětlení.publ.md]]  
 
 
+# google sheets.. tracker 
+202607
+
+# select sum(x) group by week_number
+20260729
+
+
+is there group-by in google sheets?
+
+is there group-by in excel online?
+is there group-by in excel .. windows app 2026?
+
+
+
+
+
+
 # 01 m1 ADHD 
 [[ADHD]]
 
