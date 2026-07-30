@@ -2,8 +2,14 @@
 
 
 - self-shiatsu but using fingernails
-- self-massage using fingernails
 - self-acupressure using fingernails
+- self-massage using fingernails
+
+This intense micro-movement pairs exceptionally well with deep, structured breathing.
+
+Hold each point for a few seconds while practicing steady, deep breathing.
+
+
 
 01
 

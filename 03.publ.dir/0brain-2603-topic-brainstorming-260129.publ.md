@@ -255,6 +255,9 @@ mkdir $x
 01-shiatsu-acupressure-massage-akupresura.md
 
 
+nose shiatsu
+
+
 # 20260515.jóga..mudry..vědecké.vysvětlení.publ.md
 01 / [[20260515.jóga..mudry..vědecké.vysvětlení.publ.md]]  
 
@@ -280,6 +283,12 @@ JM-1804-respnt JM chatová skupina Jiří Milan 💚
 
 # 01 m1 ADHD 
 [[ADHD]]
+
+
+He has all year to do one thing and doesn’t start until the night it’s due but gets it done anyway 
+in
+ an 8-hour hyperfocus frenzy powered by god like amounts of sugar, carbs and adrenaline
+
 
 # 00 s0 zpivani r-SingingAsCoping
 [[00]]

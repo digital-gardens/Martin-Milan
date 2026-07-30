@@ -1,4 +1,12 @@
 
+
+
+
+He has all year to do one thing and doesn’t start until the night it’s due but gets it done anyway in an 8-hour hyperfocus frenzy powered by god like amounts of sugar, carbs and adrenaline
+
+
+
+
 self-massage 
 for coping 
 with neurotic indigestion,
