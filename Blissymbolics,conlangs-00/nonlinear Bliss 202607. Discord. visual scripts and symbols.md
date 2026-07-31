@@ -28,6 +28,9 @@ extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.google.c
 
 MB isa admin
 
+The goal of OatS-L is to provide a reading experience in line with spoken languages. This is why I want to reduce its verticality as much as possible, so that it can be read as a sequence, and provides a more familiar entry point into the language.
+
+
 gkeep error 🗨️ eye in speech...👁️‍🗨️ zwj
 ... in comments
 

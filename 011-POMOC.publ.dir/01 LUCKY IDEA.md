@@ -9,7 +9,7 @@
 
 
 
-what could add to my happy brain 
+what could add to my  brain 
 - chemistry
 - feelings
 - mood
@@ -24,17 +24,20 @@ Create a new markdown note with early brainstorming on naming “lucky ideas,”
 how to call them?
 
 #idea ...
+
 - insight
 - discovery
 - invention
 - breakthrough
 
+
 #lucky ...
 
 - fortunate
-
 - good
 
+- happy?
+- beautiful?
 
 - wonderful // sense of wonder
 - awesome
@@ -50,14 +53,9 @@ how to call them?
 
 - unexpected
 
-- happy?
-- beautiful?
-
 
 ----------------------------------------
 
-- Babylonian astronomy
-  - base 60?
 
 - Pythagoras
 - Plato
@@ -69,6 +67,18 @@ how to call them?
 - Archimedes
   - Eureka!
 
+...
+
+
+- NOTATION(s)
+
+- Descartes
+  - coordinate system
+
+- Leibniz
+  - binary numbers
+  - infinitesimal numbers  
+
 
 ...
 
@@ -76,6 +86,8 @@ how to call them?
   - quaternions
 
 
+- Cantor
+  - infinities
 
 
 

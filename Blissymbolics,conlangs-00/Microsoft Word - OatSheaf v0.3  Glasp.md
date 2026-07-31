@@ -1,3 +1,12 @@
+
+"oats-p"
+pictorial
+nonlinear
+
+
+The goal of OatS-L is to provide a reading experience in line with spoken languages. This is why I want to reduce its verticality as much as possible, so that it can be read as a sequence, and provides a more familiar entry point into the language.
+
+
 Microsoft Word - OatSheaf v0.3 | Glasp
 https://glasp.co/pdfs?id=a39e979a-7705-4bd8-83fb-aeb0366422ea
 
