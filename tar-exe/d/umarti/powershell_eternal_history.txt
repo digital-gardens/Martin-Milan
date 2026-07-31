@@ -13737,3 +13737,5 @@ cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-216.pub
 cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-both.publ.txt
 cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-both.publ.txt     c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\
 cmd /c dir   /s      >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-both.publ.txt     c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\
+notepad file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+notepad C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
