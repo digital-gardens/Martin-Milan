@@ -13760,3 +13760,14 @@ Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Ob
 Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~\get-childitem-j..program...txt
 Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~/get-childitem-j..program...txt
 Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~/get-childitem-j.program.txt
+code ~/get-childitem-j.program.txt
+dir ~/get-childitem-j.program.txt
+cmd /c dir ~/get-childitem-j.program.txt
+cmd /c dir c:\users\marti\get-childitem-j.program.txt
+code  c:\users\marti\get-childitem-j.program.txt
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~/onedrive/get-childitem-j.program.r8.txt
+code  c:\users\marti\onedrive\get-childitem-j.program.r8.txt
+findstr -i view c:\users\marti\onedrive\get-childitem-j.program.r8.txt
+findstr -i view c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -
+findstr -i photo c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -
+findstr -i "acd" c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -

@@ -56,6 +56,12 @@ PNG and JPG files have common properties
 - Tags
 - Comments
 
+explorer.exe
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\412b6fxky8ef1.png"
+title
+5 stars
+nonlinear; 
+comm
 
 
 

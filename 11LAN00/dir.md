@@ -11,7 +11,6 @@ of the form
 
 like // without quotes
 ```
-"J:\Program Files\Corel\Corel PaintShop Pro 2022 (64-bit)"
 "J:\Program Files (x86)\ACD Systems\ACDSee"
 ```
 
@@ -33,8 +32,17 @@ Get-ChildItem -Path "J:\Program *","J:\Program *"  -Directory |   Select-Object 
 
 Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName | code -
 
-Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~/get-childitem-j.program.txt
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~/onedrive/get-childitem-j.program.r8.txt
 # network failed
+cmd /c dir c:\users\marti\get-childitem-j.program.txt
+code  c:\users\marti\onedrive\get-childitem-j.program.r8.txt
+
+findstr -i view c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -
+findstr -i photo c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -
+findstr -i "acd" c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -
+
+code ~/onedrive/get-childitem-j.program.r8.txt
+
 
 
 J:\Program Files (x86)\Wolfram Research\WolframScript
