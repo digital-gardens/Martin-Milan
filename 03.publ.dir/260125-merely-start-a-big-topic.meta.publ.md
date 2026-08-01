@@ -81,13 +81,6 @@ Instead of just chatting, ask Gemini to create a document. This opens the Canvas
 260101-word-walls
 .publ.md
 
-10 meter paper brain
-10 foot 
-
-
-brainchild
-
-brainstorming
 
 
 
@@ -172,19 +165,6 @@ the initial 1 file name could be ... 260101-word-walls.publ.md
 
 additional terms ...
 
-memory wall for early dementia ... life hack
-noticing wall ... life hack
-
-10 meter paper brain
-
-brainchild
-
-brainstorming
-workshop
-
-650714
-
-
 
 
 
@@ -215,6 +195,13 @@ Expand: If you want to flesh out the "10 Meter Paper Brain" section, just ask!
 
 # button share/copy content i pasted to vscode and the result is 
 
+
+
+# please rename to  exacly: 260101-word-walls.publ.md
+260101-word-walls.publ.md
+
+
+260101
 ```
 
 id: 260101title: "Word Walls & Cognitive Scaffolding"related_id: 650714status: Initial Collection / Drafttags:cognitive-aidsdementia-carebrainstormingworkshop-methodslife-hacksTopic 260101: Word Walls & Cognitive Scaffolding1. Search Terms & KeywordsInitial collection of terms to guide research.Core Concepts (Life Hacks)Memory Wall (Early ......

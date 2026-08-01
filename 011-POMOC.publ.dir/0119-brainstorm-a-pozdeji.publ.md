@@ -103,6 +103,9 @@ Dám 30000,- ročně
 260101
 
 **Hlavní text:**
+
+* EDIT KRABICI 5 LITRU
+
 * malou tabuli ?
 * - jako paměť? 26031
 * - jako komunikační kanál?

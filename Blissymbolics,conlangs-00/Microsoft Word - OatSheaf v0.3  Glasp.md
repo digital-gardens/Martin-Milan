@@ -4,6 +4,9 @@
 EDIT, BTW, the subreddit r/Oatsymbols now has more than 500 members // 💚⬆️ 
 
 
+
+
+
 C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\nonlinear Bliss 202607. Discord. visual scripts and symbols.md
 
 "oats-p"
@@ -16,11 +19,13 @@ nonlinear
 https://www.reddit.com/r/Oatsymbols/comments/1m5mpi3/handful_of_oats/
 
 
+// a new visual language, a competitor to #blissymbols  // @  
 
-, is what happens when you rely on nonlinear spacing to communicate information.
 
 
 "C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\412b6fxky8ef1.png"
+
+, is what happens when you rely on nonlinear spacing to communicate information.
 
 Oats also carry the potential for non-linear or semi-linear pictographic description or storytelling. Like in the image above, a number of objects and concepts are displayed in order to create a full image. While the example above is simple, in the future, I will share more poetry and stories for a better illustration.
 

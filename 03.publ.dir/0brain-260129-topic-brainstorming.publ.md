@@ -472,7 +472,7 @@ https://voyager.nagi.fun/en/guide/cloud-sync.html
 edge://extensions/?id=gibmkggjijalcjinbdhcpklodjkhhlne
 bug select all in the google gemini web app and copy with ctrl c doesnt work for the titles of conversations, but it works for the content of the conversations.
 
-# 260101 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
+#   260101-0801 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
 
 meta tvorba ... tvorba prostředí pro tvorbu 
 
@@ -482,6 +482,45 @@ paměťová pomůcka na dveřích doma
 memory aid on a room door at home ... for seniors with mild cognitive impairment
 
 -tag what is the dynamic view
+
+
+260101-0801
+
+10 meter paper brain
+10 foot 
+
+
+brainchild
+
+brainstorming
+
+memory wall for early dementia ... life hack
+noticing wall ... life hack
+
+10 meter paper brain
+
+brainchild
+
+brainstorming
+workshop
+
+650714
+
+
+# please rename to  exacly: 260101-word-walls.publ.md
+260101-word-walls.publ.md
+
+
+260101
+```
+
+id: 260101 title: "Word Walls & Cognitive Scaffolding"
+related_id: 650714
+status: Initial Collection / Draft
+
+tags:cognitive-aidsdementia-carebrainstormingworkshop-methodslife-hacksTopic 260101: Word Walls & Cognitive Scaffolding1. Search Terms & KeywordsInitial collection of terms to guide research.Core Concepts (Life Hacks)Memory Wall (Early ......
+```
+
 
 https://www.nia.nih.gov/health/alzheimers-and-dementia/tips-living-alone-early-stage-dementia
 https://lovers-communication-system.com/
