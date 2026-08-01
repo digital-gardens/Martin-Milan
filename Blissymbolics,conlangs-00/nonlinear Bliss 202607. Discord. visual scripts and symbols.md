@@ -30,6 +30,17 @@ MB isa admin
 
 The goal of OatS-L is to provide a reading experience in line with spoken languages. This is why I want to reduce its verticality as much as possible, so that it can be read as a sequence, and provides a more familiar entry point into the language.
 
+https://blissary.com/dictionary/?q=B195
+// personal nano-shorthand
+(just a few symbols ....
+- the/, a\,
+- and+, or<. , not-!,
+- of<, https://blissary.com/dictionary/?q=B195
+- from|>, to>|, for>>
+ )
+
+
+
 
 gkeep error 🗨️ eye in speech...👁️‍🗨️ zwj
 ... in comments

@@ -1,0 +1,117 @@
+﻿<ScreenpressoSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <audioTimeshift>100</audioTimeshift>
+  <Version>17</Version>
+  <SeqNum>1351</SeqNum>
+  <CheckForUpdate>false</CheckForUpdate>
+  <CheckForBetaReleases>false</CheckForBetaReleases>
+  <Fum>false</Fum>
+  <AndroidBitRate xsi:nil="true" />
+  <EffectsSettings />
+  <ResizeSettings />
+  <DefaultEffects />
+  <DefaultResize />
+  <CurrentWorkspaceSettings />
+  <VideoCaptureToolbar>true</VideoCaptureToolbar>
+  <LastScreenshotRegion>
+    <Location>
+      <X>458</X>
+      <Y>32</Y>
+    </Location>
+    <Size>
+      <Width>931</Width>
+      <Height>959</Height>
+    </Size>
+    <X>458</X>
+    <Y>32</Y>
+    <Width>931</Width>
+    <Height>959</Height>
+  </LastScreenshotRegion>
+  <LastVideoRegion xsi:nil="true" />
+  <HistoryCount>50</HistoryCount>
+  <HistoryHideFilesButNeverDeleteThem>true</HistoryHideFilesButNeverDeleteThem>
+  <WorkspaceOrderInverted>true</WorkspaceOrderInverted>
+  <WorkspaceWorkspacesExpanded>true</WorkspaceWorkspacesExpanded>
+  <WorkspaceFileSystemWatcher>false</WorkspaceFileSystemWatcher>
+  <ExportEffects />
+  <ExportResize />
+  <SharingAccounts>
+    <SharingAccount xsi:type="ScreenpressoCloudAnonymousAccount">
+      <Guid>adfd192851a7474dae3d3d401bcacf49</Guid>
+      <Identifier>ScreenpressoCloud</Identifier>
+      <AutoRun>false</AutoRun>
+      <SyncLicenseAgreed>false</SyncLicenseAgreed>
+      <NOU>nDRton68+OgnHwbe5XM3IQ==</NOU>
+    </SharingAccount>
+    <SharingAccount xsi:type="EMailAccount">
+      <Guid>0e07883ecb234432a1da0a248d1d7d72</Guid>
+      <Identifier>E-mail:</Identifier>
+      <AutoRun>false</AutoRun>
+      <AttachAsPdf>false</AttachAsPdf>
+    </SharingAccount>
+    <SharingAccount xsi:type="DriveAccount">
+      <AutoRun>false</AutoRun>
+      <GeneratePublicLink>false</GeneratePublicLink>
+    </SharingAccount>
+    <SharingAccount xsi:type="OneDriveAccount">
+      <AutoRun>false</AutoRun>
+    </SharingAccount>
+  </SharingAccounts>
+  <FirstTimeSettings>
+    <LicenseAgreed>true</LicenseAgreed>
+    <SystrayIconRunningCount>0</SystrayIconRunningCount>
+    <NoWorkspaceEditImage>true</NoWorkspaceEditImage>
+    <NoWorkspaceCaptureTip>true</NoWorkspaceCaptureTip>
+    <NoCheckFramework>true</NoCheckFramework>
+  </FirstTimeSettings>
+  <CanvasSettings />
+  <WorkspaceLocation>
+    <X>1010</X>
+    <Y>554</Y>
+  </WorkspaceLocation>
+  <WorkspaceScreenScaleFactor>1.25</WorkspaceScreenScaleFactor>
+  <WorkspaceSelectorLocation xsi:nil="true" />
+  <WorkspaceSelectorSize xsi:nil="true" />
+  <WorkspaceThumbnailSize xsi:nil="true" />
+  <WorkspaceSize>
+    <Width>921</Width>
+    <Height>477</Height>
+  </WorkspaceSize>
+  <WorkspaceAlwaysOnTop>false</WorkspaceAlwaysOnTop>
+  <SharingHistory />
+  <NumberOfCaptures>1269</NumberOfCaptures>
+  <CaptureShortcutKey>None</CaptureShortcutKey>
+  <CaptureShortcutKey2>None</CaptureShortcutKey2>
+  <HotKeyScreenshotActiveWindow>None</HotKeyScreenshotActiveWindow>
+  <HotKeyScreenshotLastRegion>None</HotKeyScreenshotLastRegion>
+  <HotKeyScreenshotFullScreen>MButton Back Clear Space Home Down Snapshot PrintScreen Control</HotKeyScreenshotFullScreen>
+  <HotKeyScreenshotAllScreens>None</HotKeyScreenshotAllScreens>
+  <HotKeyScreenshotScrollingWnd>None</HotKeyScreenshotScrollingWnd>
+  <HotKeyScreenshotScrollingWndWinModifier>false</HotKeyScreenshotScrollingWndWinModifier>
+  <HotKeyCaptureVideo>None</HotKeyCaptureVideo>
+  <HotKeyCaptureVideoRegion>None</HotKeyCaptureVideoRegion>
+  <HotKeyOpenWorkspace>None</HotKeyOpenWorkspace>
+  <HotKeyOpenWorkspaceWinModifier>false</HotKeyOpenWorkspaceWinModifier>
+  <CaptureVideoZoomShortcutKey>None</CaptureVideoZoomShortcutKey>
+  <CaptureVideoZoomAlsoUseWinKey>false</CaptureVideoZoomAlsoUseWinKey>
+  <CaptureVideoWebcamShortcutKey>None</CaptureVideoWebcamShortcutKey>
+  <CaptureVideoWebcamAlsoUseWinKey>false</CaptureVideoWebcamAlsoUseWinKey>
+  <VideoCaptureCursorHightlight>true</VideoCaptureCursorHightlight>
+  <VideoCaptureStopAfterDelay>true</VideoCaptureStopAfterDelay>
+  <EditorLastBounds xsi:nil="true" />
+  <WorkspaceSettings />
+  <WorkspaceSettings>
+    <Name>Blissymbolics,conlangs</Name>
+    <FolderPath>C:\Users\marti\OneDrive\Dokumenty\Blissymbolics,conlangs</FolderPath>
+  </WorkspaceSettings>
+  <WorkspaceSettings>
+    <Name>03-20260716-weighted-lists--PICTURES--------</Name>
+    <FolderPath>C:\Users\marti\OneDrive\Dokumenty\Blissymbolics,conlangs\03-20260716-weighted-lists--PICTURES--------</FolderPath>
+  </WorkspaceSettings>
+  <EditorDisplay>\\.\DISPLAY1</EditorDisplay>
+  <QuickCaptureWindowVisible>false</QuickCaptureWindowVisible>
+  <QuickCaptureWindowLocation>
+    <X>752</X>
+    <Y>0</Y>
+  </QuickCaptureWindowLocation>
+  <QuickViewSize xsi:nil="true" />
+</ScreenpressoSettings>
