@@ -4,6 +4,34 @@ pictorial
 nonlinear
 
 
+#nonlinear #oatsymbols ... OatS-P: Oat System Pictorial
+
+https://www.reddit.com/r/Oatsymbols/comments/1m5mpi3/handful_of_oats/
+
+
+
+, is what happens when you rely on nonlinear spacing to communicate information.
+
+
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\412b6fxky8ef1.png"
+
+Oats also carry the potential for non-linear or semi-linear pictographic description or storytelling. Like in the image above, a number of objects and concepts are displayed in order to create a full image. While the example above is simple, in the future, I will share more poetry and stories for a better illustration.
+
+
+12
+"linear"
+https://discord.com/channels/1401614663388762194/1530143249753444527/1530143249753444527
+
+
+no found
+non-linear
+"non-linear"
+
+
+
+
+Picto
+
 The goal of OatS-L is to provide a reading experience in line with spoken languages. This is why I want to reduce its verticality as much as possible, so that it can be read as a sequence, and provides a more familiar entry point into the language.
 
 
@@ -25,7 +53,9 @@ Highlights & Notes
 
 > Devices are tools, but their screens are described as openings / gateways, and most things relating to the digital world can be described using the information oat. device / informational tool screen / information gateway computer with screen / information gateway too
 
-> OatS-P Oats is divided across two ways of writing. Thus far we have been exploring OatSL: Oat System Linear. This system of writing relies on lines of symbols, with meaning partly expressed through their syntax, their order, across said line. OatS-P: Oat System Pictorial, is what happens when you rely on nonlinear spacing to communicate information.
+> OatS-P Oats is divided across two ways of writing. Thus far we have been exploring OatSL: Oat System Linear. This system of writing relies on lines of symbols, with meaning partly expressed through their syntax, their order, across said line. 
+
+OatS-P: Oat System Pictorial, is what happens when you rely on nonlinear spacing to communicate information.
 
 > the Sheaf will aim to guide readers on how to create posters and two dimensional storymurals such as the (outdated) example on the right.
 
