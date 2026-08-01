@@ -34,6 +34,8 @@ MB isa admin
 # #todo 260101-0801 memory wall   
 memory aid(s)
 [[260101-0801 idea-wall.publ.md]]
+20260732
+
 
 C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\Microsoft Word - OatSheaf v0.3  Glasp.md
 
