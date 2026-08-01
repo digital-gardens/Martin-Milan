@@ -26,9 +26,21 @@ https://discord.com/channels/@me
 extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.google.com/search?q=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&oq=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQKgCALACAA&sourceid=chrome&ie=UTF-8
 # d2  if hospitalization is needed
 
+facebook
+MN
 MB isa admin
 
-The goal of OatS-L is to provide a reading experience in line with spoken languages. This is why I want to reduce its verticality as much as possible, so that it can be read as a sequence, and provides a more familiar entry point into the language.
+
+# #todo 260101 memory wall 
+memory aid(s)
+
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\Microsoft Word - OatSheaf v0.3  Glasp.md
+
+
+
+
+
 
 https://blissary.com/dictionary/?q=B195
 // personal nano-shorthand
@@ -67,32 +79,13 @@ A speech bubble showing an eye inside. When using text-to-speech on Apple platfo
 🚯
 🔂
 
-// I wish I had found this subreddit earlier 💚 
-
-
-/remind me on weekend
-
-/todo how to schedule posts on reddit
-
-
-OatS-P
-Oats is divided across two ways of writing. Thus far we have been exploring OatS-
-L: Oat System Linear. This system of writing relies on lines of symbols, with
-meaning partly expressed through their syntax, their order, across said line. 
-
-
-OatS-P:
-
-Oat System Pictorial, is what happens when you rely on nonlinear spacing to
-communicate information.
-
 
 
 EDIT.. A. WHEN I want to wait for the weekend, B.visual conlang designer diaries, screenshots, demos, unfinished things -- in this subreddit could be posted things, that are not ready for the main subreddit r/visual_conlangs 
 
 cannot be posted yet even in the r/visual_conlangs , because they are too unfinished or too unexplained
 
-memory aid(s)
+
 
 
 personal nano-shorthand 

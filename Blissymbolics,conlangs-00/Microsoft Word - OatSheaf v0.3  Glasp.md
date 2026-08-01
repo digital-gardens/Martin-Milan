@@ -1,4 +1,6 @@
 
+C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\nonlinear Bliss 202607. Discord. visual scripts and symbols.md
+
 "oats-p"
 pictorial
 nonlinear
@@ -30,7 +32,35 @@ non-linear
 
 
 
+
+// I wish I had found this subreddit earlier 💚 
+
+
+/remind me on weekend
+
+/todo how to schedule posts on reddit
+
+
+OatS-P
+Oats is divided across two ways of writing. Thus far we have been exploring OatS-
+L: Oat System Linear. This system of writing relies on lines of symbols, with
+meaning partly expressed through their syntax, their order, across said line. 
+
+
+OatS-P:
+
+Oat System Pictorial, is what happens when you rely on nonlinear spacing to
+communicate information.
+
+
+
+
+
+
+
 Picto
+
+The goal of OatS-L is to provide a reading experience in line with spoken languages. This is why I want to reduce its verticality as much as possible, so that it can be read as a sequence, and provides a more familiar entry point into the language.
 
 The goal of OatS-L is to provide a reading experience in line with spoken languages. This is why I want to reduce its verticality as much as possible, so that it can be read as a sequence, and provides a more familiar entry point into the language.
 
