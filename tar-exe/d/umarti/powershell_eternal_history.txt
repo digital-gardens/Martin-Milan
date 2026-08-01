@@ -13739,3 +13739,24 @@ cmd /c dir    >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-both.pu
 cmd /c dir   /s      >  C:\Users\marti\OneDrive\Dokumenty\00-MM\dir-antidepress-both.publ.txt     c:\Users\marti\OneDrive\Dokumenty\0be3an-antidepresiva\
 notepad file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
 notepad C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+dir "J:\Program*\*"  /b /ad
+cmd /c dir "J:\Program*\*"  /b /ad
+Get-ChildItem -Path "J:\Program*\" -Directory
+Get-ChildItem -Path "J:\Program*\*" -Directory
+Get-ChildItem -Path "J:\Program *\*" -Directory
+Get-ChildItem -Path "J:\Program *\*" -Directory | code -
+Get-ChildItem -Path "J:\Program *\*" -Directory |   Select-Object -ExpandProperty FullName
+Get-ChildItem -Path "J:\Program *\*" -Directory |   Select-Object -ExpandProperty FullName | code -
+Get-ChildItem -Path "J:\Program *\*" -Directory |   Select-Object -ExpandProperty FullName
+Get-ChildItem -Path "J:\Program *" -Directory |   Select-Object -ExpandProperty FullName
+Get-ChildItem -Path "J:\Program *" -Path "J:\Program *"  -Directory |   Select-Object -ExpandProperty FullName
+Get-ChildItem -Path "J:\Program *","J:\Program *"  -Directory |   Select-Object -ExpandProperty FullName
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName | code -
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~\get-childitem j..program...txt
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >"~\get-childitem j..program...txt"
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~\"get-childitem j..program...txt"
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~\"get-childitem-j..program...txt"
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~\get-childitem-j..program...txt
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~/get-childitem-j..program...txt
+Get-ChildItem -Path "J:\Program *\*","J:\Program *\*\*" -Directory |   Select-Object -ExpandProperty FullName >~/get-childitem-j.program.txt

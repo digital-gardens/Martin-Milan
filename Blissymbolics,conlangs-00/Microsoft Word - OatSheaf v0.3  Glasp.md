@@ -1,4 +1,9 @@
 
+
+
+EDIT, BTW, the subreddit r/Oatsymbols now has more than 500 members // 💚⬆️ 
+
+
 C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\nonlinear Bliss 202607. Discord. visual scripts and symbols.md
 
 "oats-p"
