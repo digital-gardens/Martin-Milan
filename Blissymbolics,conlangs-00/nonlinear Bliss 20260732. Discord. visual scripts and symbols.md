@@ -30,6 +30,8 @@ facebook
 MN
 MB isa admin
 
+reddit font 
+Martin, I want to thank you for the stuff you put up online, the images that you posted 2 years ago told me that at least somebody is interested in this stuff.
 
 # #todo 260101-0801 memory wall   
 memory aid(s)
