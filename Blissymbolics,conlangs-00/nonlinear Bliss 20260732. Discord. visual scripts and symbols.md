@@ -30,7 +30,15 @@ facebook
 MN
 MB isa admin
 
-reddit font 
+# #todo holidays ...
+C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\Microsoft Word - OatSheaf v0.3  Glasp.md
+
+
+
+todo notifications all 
+r/Oatsymbols
+
+# #todo  plant early   reddit font 
 Martin, I want to thank you for the stuff you put up online, the images that you posted 2 years ago told me that at least somebody is interested in this stuff.
 
 # #todo 260101-0801 memory wall   
@@ -39,7 +47,6 @@ memory aid(s)
 20260732
 
 
-C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\Microsoft Word - OatSheaf v0.3  Glasp.md
 
 
 

@@ -14,6 +14,53 @@ pictorial
 nonlinear
 
 
+# 0802
+
+2(?) classes of **#nonlinear** drawing and writing
+
+
+
+I like and collect examples of **#nonlinear** drawing and writing
+
+- especially (how to call them?) the container-like ones ... OatS-P: Oat System **#pictorial** // 💚⬆️ 
+
+- but also (how to call them?) the #tree (like) and #network (like) ones ... e.g. "A Story, and the Oat of the Journey"
+
+let's put links into the comments
+
+// todo ... searching  in the Discord server
+
+// edit ... 
+
+
+
+https://www.reddit.com/r/Oatsymbols/comments/1m5mpi3/handful_of_oats/
+
+
+https://www.reddit.com/r/Oatsymbols/comments/1m8znws/sentences_and_images/
+
+https://www.reddit.com/r/Oatsymbols/comments/1mfxrj4/a_story_and_the_oat_of_the_journey/
+
+
+
+I have already tried searching for various keywords at the Discord server, the remaining keyword is "linear" like in "non-linear"
+
+Oat System, Oat System Linear, or Oat System Pictorial; referring to different ways oats can be arranged to communicate meaning, linearly or pictorially.
+
+
+// a related discussion, emphasis added
+> Long term I really want to use it for visual art, poetry, posters, and  murals and more, but until the basics of grammar and symbol inventory are worked out, everything made like that will be less readable in later versions. 
+https://discord.com/channels/1401614663388762194/1507325668327686224/1509507822403194940
+
+
+https://www.reddit.com/r/Oatsymbols/comments/1n7qer2/comment/ncdd2aa/
+I think OAT-L is too linear, it doesn't branch up and down enough. Also there is way too little vocabulary and what there is isn't described optimally.
+The goal of OatS-L is to provide a reading experience in line with spoken languages. This is why I want to reduce its verticality as much as possible, so that it can be read as a sequence, and provides a more familiar entry point into the language.
+
+
+
+
+
 #nonlinear #oatsymbols ... OatS-P: Oat System Pictorial
 
 https://www.reddit.com/r/Oatsymbols/comments/1m5mpi3/handful_of_oats/
