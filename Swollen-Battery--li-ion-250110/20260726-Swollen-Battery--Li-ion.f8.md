@@ -22,10 +22,13 @@
 
 
 #TODO notebookLM 1811
+https://notebook.google.com/notebook/2d5fb0e9-6551-41c0-8cdb-ea5ea4360a23
 - git push
 - link to this md github.com/digi
-- google photos rename 20260726
+https://github.com/digital-gardens/Martin-Milan/blob/main/Swollen-Battery--li-ion-250110/20260726-Swollen-Battery--Li-ion.f8.md
 
+- google photos 
+https://photos.google.com/share/AF1QipOh0HpBlcexrlqWpBhoHnxS5hgZxu0FJj-gfhsreY6dTcWeE9w4LJDzPveG2VNfaw
 
 JB gemini
 - #TODO // Milanovo téma  20260726, 250110
