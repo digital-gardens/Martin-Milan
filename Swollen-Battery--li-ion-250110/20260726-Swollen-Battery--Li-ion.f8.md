@@ -6,7 +6,33 @@
 
 # Links
 
-https://www.reddit.com/r/spicypillows/top/?t=all
+
+# What You'll Need
+- Philips Screwdriver (or a torx screwdriver if your laptop’s screws require one)
+- #yy Gloves
+- #yyy Safety Goggles
+- #yy Fire extinguisher (optional)
+- Fireproof container (to transport battery to recycling location)
+ https://www.tomshardware.com/how-to/remove-laptop-swollen-battery-recycle
+
+
+# 2 incidents 20260726
+
+
+
+
+#TODO notebookLM 1811
+- git push
+- link to this md github.com/digi
+- google photos rename 20260726
+
+
+JB gemini
+- #TODO // Milanovo téma  20260726, 250110
+- link to the nblm
+
+
+# https://www.reddit.com/r/spicypillows/top/?t=all
 SpicyPillows - Batteries Gone Bad
 Welcome to SpicyPillows! We're that spot on Reddit for spicy batteries of all kinds.
 spicy pictures
@@ -15,13 +41,12 @@ r/spicypillows
 190,975 members
 
 
-# https://www.tomshardware.com/how-to/remove-laptop-swollen-battery-recycle
-# What You'll Need
-- Philips Screwdriver (or a torx screwdriver if your laptop’s screws require one)
-- #yy Gloves
-- #yyy Safety Goggles
-- #yy Fire extinguisher (optional)
-- Fireproof container (to transport battery to recycling location)
+
+# timeline
+
+# https://cs.wikipedia.org/wiki/Samsung_Galaxy_Note_7
+youtube documentary
+While Samsung absorbed a direct $5.3 billion profit hit for the recall, analysts estimate the total damage reached nearly $17 billion in lost revenue. This massive financial blow was underscored by a $26 billion drop in market value, marking it as the most expensive failure in mobile history.
 
 
 
