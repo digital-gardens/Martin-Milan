@@ -34,15 +34,71 @@ MB isa admin
 C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\Microsoft Word - OatSheaf v0.3  Glasp.md
 
 
+# https://github.com/martin12333
+https://www.reddit.com/r/visual_conlangs/
+a keyboard for ... a subset of Blissymbolics ... a visual conlang; font: ASEMTOG_F700.ttf
 
-todo notifications all 
+
+# font // if the  characters.ts + the diacritics.ts were 1 unified font ... then a .txt file or a .md file could be used to collect a text corpus of Blissymbolics
+
+5y ago 
+comment 
+## Martin, I want to thank you for the stuff you put up online, the images that you posted 2 years ago told me that at least somebody is interested in this stuff.
+
+
+// btw, if people like me are curious, where is the layout defined ...
+
+//  the layout is defined at the end of  menus.ts (MenusUtils.ts in React)
+
+e.g.
+```
+ // Person
+  16161: [
+    16161, 15416, 18269, 23577, 23576, 23581, 20568, 12603, 12604, 12607, 13166, 
+    ...
+```
+
+
+"C:\Users\marti\OneDrive\Dokumenty\Blissymbolics,conlangs\AA nonlinear 20260732\menus.ts"
+"C:\Users\marti\OneDrive\Dokumenty\Blissymbolics,conlangs\AA nonlinear 20260732\MenusUtils.ts" 
+
+ // Person
+  16161: [
+    16161, 15416, 18269, 23577, 23576, 23581, 20568, 12603, 12604, 12607, 13166, 12888, 14439,
+    17516, 12341, 13097, 14431, 12609, 25531, 16162, 12391, 15157, 13944, 15994, 15189, 14379,
+    14713, 15188, 14700, 17745, 25578, 14924, 25636,
+  ],
+
+  [Words.i12323]: "57344",
+  "C:\Users\marti\OneDrive\Dokumenty\Blissymbolics,conlangs\AA nonlinear 20260732\words.ts"
+  
+  "C:\Users\marti\OneDrive\Dokumenty\Blissymbolics,conlangs\AA nonlinear 20260732\words.ts"
+  export const CHARACTERS_CODEPOINTS: { [key in Characters]: string } = {
+  [Characters.i12321]: "57344",
+  [Characters.i12322]: "57345",
+  [Characters.i12324]: "57346",
+
+export const DIACRITICS_CODEPOINTS: { [key in Diacritics]: string } = {
+  [Diacritics.i8483]: "57344",
+  [Diacritics.i8484]: "57345",
+  [Diacritics.i8485]: "57346",
+  [Diacritics.i8486]: "57347",
+
+
+
+
+ notifications all 
 r/Oatsymbols
 
-# #todo  plant early   reddit font 
-Martin, I want to thank you for the stuff you put up online, the images that you posted 2 years ago told me that at least somebody is interested in this stuff.
+
+
 
 # #todo 260101-0801 memory wall   
 memory aid(s)
+memory-aid  poster ?
+todo wikipedia?
+reddit?
+
 [[260101-0801 idea-wall.publ.md]]
 20260732
 
