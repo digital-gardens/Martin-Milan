@@ -24,6 +24,7 @@ https://discord.com/channels/@me
 
 
 extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.google.com/search?q=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&oq=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQKgCALACAA&sourceid=chrome&ie=UTF-8
+
 # d2  if hospitalization is needed
 
 facebook
@@ -104,21 +105,30 @@ reddit?
 
 
 
+---------------
 
 
+# #todo @ google chat 
 
+btw, 
 
-
-https://blissary.com/dictionary/?q=B195
-// personal nano-shorthand
+// my personal nano-shorthand
 (just a few symbols ....
 - the/, a\,
-- and+, or<. , not-!,
-- of<, https://blissary.com/dictionary/?q=B195
+- and+, or <. , not -! ,
+- by,of <  https://blissary.com/dictionary/?q=B195
 - from|>, to>|, for>>
+
+- (simplified) "to" >
+
  )
 
+@ 
 
+https://www.reddit.com/r/visual_conlangs/comments/1vc2v2f/what_could_you_use_symbols_for/
+
+
+------
 
 
 gkeep error 🗨️ eye in speech...👁️‍🗨️ zwj
