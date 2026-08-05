@@ -1,31 +1,12 @@
 
 
 #  martin  https://read.amazon.com/kindle-library
-
-
 "Skip to the library content"
 Search your Kindle
-
 Filter
-
 Sort by:
 Title
-
-View
-
-
-Library
-
-
-All Titles
-
-Books
-
-Comics
-
-Samples
-
-Notes & Highlights
+#a Notes & Highlights
 
 --- 
 
@@ -68,30 +49,13 @@ Harris, Shane
 Halsey, Mike
 
 
-# https://read.amazon.com/kindle-library
+# https://www.hlidacky.cz/dynamic_pricing/clenstvi?id=9188235243
 
+Vepřová šunka nejvyšší jakosti 57 % (vepřová kýta 95 %, pitná voda, přírodní aromata, dextróza, glukózový sirup, jedlá sůl, cukr), MÁSLO, SMETANA ke šlehání, smetanový termizovaný sýr (MLÉKO, SMETANA, jedlá sůl, MLÉČNÉ kultury), jedlá sůl, pepř bílý mletý
 
-"Skip to the library content"
-Search your Kindle
+itesco   Nákup vám připravíme v bedýnkách pro doručení domů i vyzvednutí.
 
-Filter
-
-Sort by:
-Title
-
-View
-
-
-Library
-
-
-All Titles
-
-Books
-
-Comics
-
-Samples
+# milan   https://read.amazon.com/kindle-library
 
 Notes & Highlights
 
@@ -175,4 +139,103 @@ Egan, Greg
 Gray, Jeremy
 
 
+
+# ebooks.com  
+https://www.ebooks.com/account/bookshelf/
+
+# mb  https://play.google.com/books
+
+devtools 
+selector to get all aria-label
+```js
+$("[aria-label]").map((i, el) => $(el).attr("aria-label")).get()
+what did ai give me?
+my knowledge of js is weak
+this worked:
+//$$("[aria-label]").map(( el) => (el).ariaLabel)
+$$("a[aria-label]").map(( el) => (el).ariaLabel)
+[
+```
+
+"Google Play Books",
+    "Google Play Books",
+    "Google apps",
+    "Google Account: Milan Bok  \n(milan.bok.75@gmail.com)",
+    "The Singularity Is Near",
+    "The Man Who Knew Infinity",
+    "Thinking, Fast and Slow",
+    "\"What Do You Care What Other People Think?\"",
+    "The Age of Em",
+    "A Taxonomy and Metaphysics of Mind-Uploading",
+    "In Search of Stupidity",
+    "How to Create a Mind",
+    "Prehistorie počítačových her (1958 - 1988)",
+    "Úsvit hackerů",
+    "Evropou a Asií na kole a s esperantem.pdf",
+    "ProgrammingVisualBasic2008Preface.pdf",
+    "How to get started with Drive"
+]
+```
+
+
+
+```bash
+bash
+grep -o -E -i  'aria-label=".{0,150}play' 1  |code   -
+```
+
+aria-label="&quot;What Do You Care What Other People Think?&quot;" href="https://play
+aria-label="├Üsvit hacker┼»" href="https://play
+aria-label="A Taxonomy and Metaphysics of Mind-Uploading" href="https://play
+aria-label="Evropou a Asi├¡ na kole a s esperantem.pdf" href="https://play
+aria-label="How to Create a Mind" href="https://play
+aria-label="How to get started with Drive" href="https://play
+aria-label="In Search of Stupidity" href="https://play
+aria-label="Prehistorie po─ì├¡ta─ìov├╜ch her (1958 - 1988)" href="https://play
+aria-label="ProgrammingVisualBasic2008Preface.pdf" href="https://play
+aria-label="The Age of Em" href="https://play
+aria-label="The Man Who Knew Infinity" href="https://play
+aria-label="Thinking, Fast and Slow" href="https://play
+The Singularity Is Near, When Humans Transcend Biology - Google Play Books
+
+# mn  https://play.google.com/books
+devtools 
+selector to get all aria-label
+```js
+$("[aria-label]").map((i, el) => $(el).attr("aria-label")).get()
+what did ai give me?
+my knowledge of js is weak
+this worked:
+//$$("[aria-label]").map(( el) => (el).ariaLabel)
+$$("a[aria-label]").map(( el) => (el).ariaLabel)
+[
+```
+
+
+# https://knihkupectvikarolinum.cz/cs/ucet/knihovna?tab=ebooks
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\aaa"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\New Infinitary Mathematics.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\book_331972_51.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\130636-DB72944.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\nahled-e-kniha-nova-infinitni-matematika-ii-nova-teorie-mnozin-a-polomnozin.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\nahled-EK27436.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\1-21New Infinitary Mathematics_978-80-246-4664-0.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\129-158_New Infinitary Mathematics_978-80-246-4664-0.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\book_361001_51.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\New Infinitary Mathematics_978-80-246-4664-0.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\New Infinitary Mathematics_978-80-246-4664-0 - Copy.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\book_361001_51 - Copy.pdf"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\htu_autobackup_20260403_incremental.tsv"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\Moje MND _ Požadavky.html"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\0119-potreboval-bych-pomoc.publ (6).docx"
+"C:\Users\marti\OneDrive\Dokumenty\Vopenka,Vopěnka\485-504-fc3_22-HANIKOVA.pdf"
+
+
+
+
+
+
+
+# https://www.kobo.com/cz/en/ebook/the-society-of-mind?srsltid=AfmBOoopwdyyICdJV3m515SLmY1mIgSPd83uIhryVKe5DSCRAPYxMiNk
 
