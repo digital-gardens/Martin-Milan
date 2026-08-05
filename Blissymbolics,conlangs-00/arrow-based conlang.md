@@ -59,7 +59,12 @@ what is a product of two objects?
 
 what is the exponential of two objects?
 This is how your conlang creates gerunds and abstract capabilities.
+--
+in the category Rel , where arrows are binary relations, the exponential of two objects A and B is ... 
+// Claude
+// bad surprise, the exponential of two objects A and B is NOT the set of all relations from A to B.
 
+can I somehow get  the set of all relations from A to B?
 
 
 # a conlang based on the type theory ?? ... a noun phrase is a type?

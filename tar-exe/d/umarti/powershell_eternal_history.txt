@@ -13771,3 +13771,6 @@ findstr -i view c:\users\marti\onedrive\get-childitem-j.program.r8.txt
 findstr -i view c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -
 findstr -i photo c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -
 findstr -i "acd" c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -
+ping google.com
+#
+bash
