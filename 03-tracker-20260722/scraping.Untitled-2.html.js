@@ -17,11 +17,13 @@ my knowledge of js is weak
 this worked:
 $$("[aria-label]").map(( el) => (el).ariaLabel)
 $$("a[aria-label]").map(( el) => (el).ariaLabel)
+
+delete @gmail.com
+
 [
     "Google Play Books",
     "Google Play Books",
     "Google apps",
-    "Google Account: Milan Bok  \n(milan.bok.75@gmail.com)",
     "The Singularity Is Near",
     "The Man Who Knew Infinity",
     "Thinking, Fast and Slow",

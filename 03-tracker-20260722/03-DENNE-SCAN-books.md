@@ -156,11 +156,11 @@ this worked:
 $$("a[aria-label]").map(( el) => (el).ariaLabel)
 [
 ```
+delete @gmail.com
 
 "Google Play Books",
     "Google Play Books",
     "Google apps",
-    "Google Account: Milan Bok  \n(milan.bok.75@gmail.com)",
     "The Singularity Is Near",
     "The Man Who Knew Infinity",
     "Thinking, Fast and Slow",
@@ -210,6 +210,18 @@ this worked:
 $$("a[aria-label]").map(( el) => (el).ariaLabel)
 [
 ```
+[
+
+delete @gmail.com
+
+    "Google Play Books",
+    "Google Play Books",
+    "Google apps",
+    "How JavaScript Works",
+    "AS-Appendix-1.pdf",
+    "Cellular Automata in Image Processing and Geometry"
+]
+
 
 
 # https://knihkupectvikarolinum.cz/cs/ucet/knihovna?tab=ebooks
