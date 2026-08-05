@@ -19,7 +19,82 @@ the semantic networks
 viewed as a conlang ... the boolean logic 
 
 
-a visual conlang based on category theory
+in a conlang based on predicate logic ?? ... a noun is a predicate
+
+in a conlang based on set theory ?? ... a noun  is a set
+
+in a conlang based on the lambda calculus ?? ... a noun is a function
+
+in a conlang based on the type theory ?? ... a noun  is a type
+
+# #yy in a conlang based on category theory ?? ... a noun  is an object
+
+
+a conlang based on abstract algebra ??
+- constant symbols for common nouns and proper nouns
+- operations + * ^
+- relations =
+
+
+
+
+
+
+a conlang based on the lambda calculus ?? ... a noun phrase is a function?
+
+???, a verb phrase is a function, a sentence is a proposition, and the meaning of a sentence is its truth value.??
+
+a conlang based on set theory ?? ... a noun phrase is a set?
+
+
+
+# a conlang based on category theory ... 
+on a category, where
+- some objects are common nouns
+- morphisms are *relations*
+
+// #yy WINNER FOR ME SO FAR
+
+what is a product of two objects? 
+
+what is the exponential of two objects?
+This is how your conlang creates gerunds and abstract capabilities.
+
+
+
+# a conlang based on the type theory ?? ... a noun phrase is a type?
+
+// #n COMPLICATED in comparison to category theory
+
+gemini
+a conlang based on type theory
+
+please output anything that you generated
+
+ in modern dependent type theory, you can treat common nouns as their own independent types.
+
+adverbs 
+However, there is a second approach called event semantics.
+so, in event semantics...
+
+run : person → ...
+
+---
+
+how can I translate
+Every man is a mortal
+
+how can I translate
+some man uses a car 
+
+
+
+
+
+
+
+
+#a visual conlang based on category theory
 - the objects
 - the arrows
 - the products
