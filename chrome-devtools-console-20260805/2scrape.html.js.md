@@ -1,12 +1,98 @@
+mkdir chrome-devtools-console-20260805
+cd chrome-devtools-console-20260805
+mkfile scrape.html.js.md
+mkfile chrome-devtools-console-20260805/README.md
 
-devtools
 
+
+chrome devtools
 settings
 preferences
 console
 accept autocomplete suggestions on enter
 
+---
+# 20260805
+in google play books
+I wanted to copy the titles
+of all books in my library
 
+but the web app did not allow me to select the text
+
+I opened the console in chrome devtools
+
+and managed to debug a command
+of the form
+$$("a[aria-label]").map(( el) => (el).ariaLabel)
+
+// for the first time in many many months
+
+my knowledge of js is relatively weak
+I am not a real developer
+I am merely a hobbyist
+
+what else I can do with the console
+
+---
+copy($$("a[aria-label]").map((el) => el.ariaLabel))
+
+Type document.designMode = "on" and press Enter.
+
+contenteditable = true
+?
+
+//////To turn caret browsing on or off, press F7. Or, select More Settings. ...
+
+
+
+You can then change its style, like typing $0.style.background = "red".
+
+
+
+----
+
+reverse engineer a web app
+- scrape
+
+
+ the web app
+- scrape
+
+reverse engineer the pdf in chrome
+
+is it possible to do anything with a pdf in chrome devtools console??
+
+not possible? for security? copyright reasons?
+---
+Inspect the Iframe: If the document is locked in a viewer, go to the Console tab. Change the JavaScript execution context dropdown (which defaults to "top") to the specific <iframe> hosting the PDF viewer.
+
+https://stackoverflow.com/questions/1554280/how-to-extract-text-from-a-pdf-in-javascript?rq=3
+
+
+
+
+
+
+
+
+
+is it possible to get
+- a list of chapters
+-  a list of some highlights
+from a web ebook reader
+
+Gemini web app
+
+Gemini takeout
+
+
+
+
+
+-  a list of all tables
+-  a list of all links
+-  a list of all footnotes
+-  a list of all references
 
 
 

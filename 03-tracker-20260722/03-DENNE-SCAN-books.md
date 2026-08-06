@@ -219,6 +219,9 @@ delete @gmail.com
     "Google apps",
     "How JavaScript Works",
     "AS-Appendix-1.pdf",
+glenmullen.com
+
+
     "Cellular Automata in Image Processing and Geometry"
 ]
 
@@ -250,4 +253,4 @@ delete @gmail.com
 
 
 # https://www.kobo.com/cz/en/ebook/the-society-of-mind?srsltid=AfmBOoopwdyyICdJV3m515SLmY1mIgSPd83uIhryVKe5DSCRAPYxMiNk
-
+The Society of Mind
