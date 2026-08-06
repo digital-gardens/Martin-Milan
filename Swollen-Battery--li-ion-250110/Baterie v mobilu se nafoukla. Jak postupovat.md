@@ -39,4 +39,4 @@ Aby se zabránilo budoucímu nafouknutí baterie, je důležité používat pův
 
 ## Závěr
 
-Pokud byste se setkali se zvláštním chováním baterie nebo jinou závadou, jsme Vám k dispozici denně na infolince **[733 399 899](https://www.mobileko.cz/tel.:733399899)** nebo emailu i [nfo@mobileko.cz](mailto:info@mobileko.cz). Opravy baterie provádíme expresně na všech našich pobočkách v Praze.
+Pokud byste se setkali se zvláštním chováním baterie nebo jinou závadou, jsme Vám k dispozici denně na infolince **[733 399 899](https://www.mobileko.cz/tel.:733399899)** nebo email cz). Opravy baterie provádíme expresně na všech našich pobočkách v Praze.

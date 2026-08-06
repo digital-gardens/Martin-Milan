@@ -1,5 +1,5 @@
 ---
-title: "Doplňte nám prosím chybějící údaje - martin.novy.80@gmail.com"
+title: "Doplňte nám prosím chybějící údaje - martin."
 source: "https://mail.google.com/mail/u/0/#inbox/FMfcgzQgKvDcRxZpqMlcNRQHKnCfFRQd"
 author:
   - "[[Gmail]]"

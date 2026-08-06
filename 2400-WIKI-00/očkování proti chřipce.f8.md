@@ -8,7 +8,7 @@ COVID    Objednání pouze na našii zákaznické lince 545 123 321.
 
 # pozn.: CTRL+Z je UNDO EDIT v google-Keep
 
-# V době očkování není vhodné užívat antibiotika. Pokud právě antibiotika užíváte a máte zájem o očkování, kontaktujte nás na e-mailu info@ockovacicentrum.cz. Konečné rozhodnutí o vhodnosti očkování je na lékaři. 
+# V době očkování není vhodné užívat antibiotika. Pokud právě antibiotika užíváte a máte zájem o očkování, kontaktujte nás na e-mailu inficentrum.cz. Konečné rozhodnutí o vhodnosti očkování je na lékaři. 
 
 
 # Vakcínu proti chřipce je možné aplikovat v jeden den, do odlišných míst, spolu s vakcínou proti onemocnění covid-19. 

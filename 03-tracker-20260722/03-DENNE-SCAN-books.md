@@ -140,8 +140,55 @@ Gray, Jeremy
 
 
 
-# ebooks.com  
-https://www.ebooks.com/account/bookshelf/
+# ebooks.com   https://www.ebooks.com/account/bookshelf/
+
+#y The Joy of Abstraction An Exploration of Math, Category Theory, and Life
+Author:Eugenia Cheng
+Publication Date: 13/10/2022
+Purchased on: 17/06/2026
+Invoice #257162345
+
+How to Bake Pi
+Easy recipes for understanding complex maths
+Author:Eugenia Cheng
+Publication Date: 04/06/2015
+Purchased on: 17/06/2026
+Invoice #257162345
+
+Several Short Sentences About Writing
+Author:Verlyn Klinkenborg
+Publication Date: 07/08/2012
+Purchased on: 11/04/2026
+Invoice #257117960
+
+«
+Previous
+1
+
+Next
+»
+Did you know that you can download and read your eBooks.com books without needing to visit the website? If you use an OPDS-compatible reading application you can load your bookshelf in the app directly. Click the button below to get started.
+
+
+Book formats
+Compare the different file formats we sell at eBooks.com
+
+FAQs
+Answers to common questions regarding purchasing ebooks.
+
+Reader software
+A list of software for your computer that can open ebooks purchased from eBooks.com
+
+
+
+
+
+
+
+
+
+
+
 
 # mb  https://play.google.com/books
 

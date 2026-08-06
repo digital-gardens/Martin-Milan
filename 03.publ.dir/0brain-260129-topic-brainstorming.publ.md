@@ -754,7 +754,7 @@ jiny
 
 Dokonce rozpozná i otevřené okno pro úsporu.
 
-Dobrý den, pokud se Vám nedaří aplikace stáhnout z App Store nebo Google Play, doporučíme kontaktovat podporu značky servis@ballu.store
+Dobrý den, pokud se Vám nedaří aplikace stáhnout z App Store nebo Google Play, doporučíme kontaktovat podporu značkllu.store
 
 zesílené patky pro stabilní a bezpečnou montáž na podlahu,
 

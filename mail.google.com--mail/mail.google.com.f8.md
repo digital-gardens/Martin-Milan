@@ -126,7 +126,7 @@ from:(*@*.tesco.com)
 https://support.google.com/mail/answer/7190?sjid=14103448138506875974-EU
 
 
-Tesco <info@nws.itesco.cz> Odhlásit odběr
+Tescsco.cz> Odhlásit odběr
 matched only by
 "from:*tesco*@*" 
 "from:*tesco*@*" 
