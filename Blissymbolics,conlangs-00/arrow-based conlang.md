@@ -33,7 +33,7 @@ in a conlang based on the type theory ?? ... a noun  is a type
 a conlang based on abstract algebra ??
 - constant symbols for common nouns and proper nouns
 - operations + * ^
-- relations =
+- relations = ~
 
 
 
@@ -52,8 +52,9 @@ a conlang based on set theory ?? ... a noun phrase is a set?
 on a category, where
 - some objects are common nouns
 - morphisms are *relations*
+  - but #n problems
 
-// #yy WINNER FOR ME SO FAR
+// #y WINNER FOR ME SO FAR??
 
 what is a product of two objects? 
 
@@ -62,7 +63,7 @@ This is how your conlang creates gerunds and abstract capabilities.
 --
 in the category Rel , where arrows are binary relations, the exponential of two objects A and B is ... 
 // Claude
-// bad surprise, the exponential of two objects A and B is NOT the set of all relations from A to B.
+// #n bad surprise, the exponential of two objects A and B is NOT the set of all relations from A to B.
 
 can I somehow get  the set of all relations from A to B?
 
@@ -88,6 +89,8 @@ run : person → ...
 
 how can I translate
 Every man is a mortal
+#n complicated
+#y simpler in category theory
 
 how can I translate
 some man uses a car 
