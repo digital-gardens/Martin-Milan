@@ -25,7 +25,33 @@ https://discord.com/channels/@me
 
 extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://www.google.com/search?q=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&oq=If+Esu+accepts+your+invite%2C+he+will+be+able+to+approve+or+deny+membership+requests%2C+remove+posts+and+comments%2C+remove+members+from+the+group+and+more.+Learn+more&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQ6wcYQKgCALACAA&sourceid=chrome&ie=UTF-8
 
-# d2  if hospitalization is needed
+
+# chat 
+
+an update on my reddit, facebook, and Discord activities
+
+I have found
+a living subreddit
+with more than 500 members
+with a new **#nonlinear** visual conlang
+
+@
+
+https://www.reddit.com/r/Oatsymbols/comments/1m5mpi3/handful_of_oats/
+
+img.png
+
+
+EDIT, BTW, the subreddit r/Oatsymbols now has more than 500 members // 💚⬆️
+EDIT, BTW, the subreddit r/Oatsymbols now has more than 500 members // 
+
+#nonlinear #oatsymbols ... OatS-P: Oat System Pictorial https://www.reddit.com/.../comments/1m5mpi3/handful_of_oats/
+
+
+
+# #nnn d2  if hospitalization is needed #nnn
+
+
 
 facebook
 MN
