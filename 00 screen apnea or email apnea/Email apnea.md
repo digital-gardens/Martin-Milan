@@ -10,6 +10,21 @@ tags:
   - "clippings"
 ---
 
+
+chat
+
+
+objevil jsem ve wikipedii odkazy na "spojence"
+...
+ pojem "email apnea" neboli "screen apnea" (zadržování dechu při práci s počítačem, tabletem nebo mobilem) 
+...
+vlastně se mi to stává dost často
+
+https://en.wikipedia.org/wiki/Email_apnea
+
+
+@
+
 (Redirected from [Screen apnea](https://en.wikipedia.org/w/index.php?title=Screen_apnea&redirect=no "Screen apnea"))
 
 
