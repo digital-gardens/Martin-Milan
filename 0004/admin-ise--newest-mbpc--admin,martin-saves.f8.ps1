@@ -214,7 +214,12 @@ i:\ Everyone:(OI)(CI)(RX)
 icacls.exe   d:\33authenticated-users   /grant 'Authenticated Users:(oi)(ci)(f)'
 icacls.exe   d:\11techl   /grant 'techl:(oi)(ci)(f)'
 icacls.exe   d:\11techl   /grant 'marti:(oi)(ci)(f)'
+
 icacls.exe   d:\11techl   /grant 'marti:(oi)(ci)(f)'
+mkdir d:\11win-q-ise---icacls-grant-marti-f
+icacls.exe    d:\11win-q-ise---icacls-grant-marti-f /grant 'marti:(oi)(ci)(f)'
+icacls.exe  d:\11win-q-ise---icacls-grant-marti-f
+
 
 icacls.exe   d:\2222   /grant 'marti:(oi)(ci)(f)'
 icacls.exe   d:\000doc24

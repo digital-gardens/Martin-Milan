@@ -13774,3 +13774,8 @@ findstr -i "acd" c:\users\marti\onedrive\get-childitem-j.program.r8.txt | code -
 ping google.com
 #
 bash
+icacls .
+icacls.exe   d:\msys64     /grant 'techl:(oi)(ci)(f)'
+icacls.exe   d:\msys64
+code  C:\Users\marti\OneDrive\Dokumenty\00-MM\0004\nonadmin-nonise--newest-mbpc--nonadmin,martin-saves.f8.ps1
+icacls.exe   d:\msys64  #yyyy

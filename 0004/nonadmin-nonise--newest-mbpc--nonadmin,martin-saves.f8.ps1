@@ -7,7 +7,15 @@
 exit
 
 
-C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\nonadmin-nonise--newest-mbpc--nonadmin,martin-saves.f8.ps1
+repo:digital-gardens/Martin-Milan icacls msys  grant marti f
+
+#y win-q-ise
+#y C:\Users\marti\OneDrive\Dokumenty\00-MM\0004\admin-ise--newest-mbpc--admin,martin-saves.f8.ps1
+
+code  C:\Users\marti\OneDrive\Dokumenty\00-MM\0004\nonadmin-nonise--newest-mbpc--nonadmin,martin-saves.f8.ps1   #yyyy
+icacls.exe   d:\msys64     /grant 'techl:(oi)(ci)(f)'
+icacls.exe   d:\msys64  #yyyy
+
 
 
 echo '-------- section mkdir d 33  --------'

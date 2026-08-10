@@ -2,6 +2,24 @@
 
 exit
 
+repo:digital-gardens/Martin-Milan icacls msys  grant marti f
+
+#y win-q-ise
+#y C:\Users\marti\OneDrive\Dokumenty\00-MM\0004\admin-ise--newest-mbpc--admin,martin-saves.f8.ps1
+
+icacls.exe    d:\11win-q-ise---icacls-grant-marti-f         /grant 'marti:(oi)(ci)(f)'       #y
+icacls.exe    d:\11win-q-ise---icacls-grant-marti-f
+icacls.exe D:\msys64   /grant 'marti:(oi)(ci)(f)'
+icacls.exe   d:\msys64
+
+###
+
+code  C:\Users\marti\OneDrive\Dokumenty\00-MM\0004\nonadmin-nonise--newest-mbpc--nonadmin,martin-saves.f8.ps1   #yyyy
+icacls.exe   d:\msys64     /grant 'techl:(oi)(ci)(f)'
+icacls.exe   d:\msys64  #yyyy
+
+###
+echo '-------- section mkdir d 33  --------'
 
 
 https://www.gnu.org/software/emacs/manual/html_node/efaq-w32/MinGW_002dw64.html
