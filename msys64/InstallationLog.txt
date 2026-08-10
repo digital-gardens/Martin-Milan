@@ -1,0 +1,81 @@
+************************************* Invoked: Tue Apr 11 09:12:38 2023
+[0] Arguments: D:\instu\msys2-x86_64-20230127.exe
+[24] Operations sanity check succeeded.
+[34] Using metadata cache from "C:/Users/marti/AppData/Local/cache\\qt-installer-framework\\d75f1c19-3379-3717-ae8d-1404b51494a9"
+[34] Found 0 cached items.
+[34] Language: en-US
+[375] Loaded control script ":/metadata/installer-config/control_js.js"
+[375] Using control script: ":/metadata/installer-config/control_js.js"
+[3452] Fetching latest update information...
+[3470] Loading component scripts...
+[9692] backup  operation: Mkdir
+[9692] 	- arguments: D:/msys64
+[9692] Done
+[9692] perform  operation: Mkdir
+[9692] 	- arguments: D:/msys64
+[9693] Done
+[9694] Starting elevated process "D:\\instu\\msys2-x86_64-20230127.exe" with arguments " --start-server PRODUCTION,{e425ea4d-4b25-4119-bb38-8a9abcd8b5f8},{bccef062-ccee-4b3a-8a2e-b83e2d876a0c}"
+[14002] Finished starting elevated process.
+[14230] perform  operation: Mkdir
+[14230] 	- arguments: D:/msys64
+[14239] Done
+[14247] Preparing the installation...
+[14248] Install size: 1 components
+[14276] Preparing to unpack components...
+[14282] backup com.msys2.root concurrent operation: Extract
+[14282] 	- arguments: installer://com.msys2.root/20230127msys64.7z, D:/msys64
+[14282] Started
+[103927] Unpacking components...
+[103930] perform com.msys2.root concurrent operation: Extract
+[103930] 	- arguments: installer://com.msys2.root/20230127msys64.7z, D:/msys64
+[103930] Started
+[206725] Installing component MSYS2
+[206728] backup com.msys2.root operation: CreateShortcut
+[206728] 	- arguments: D:/msys64/mingw32.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MINGW32.lnk, iconPath=D:/msys64/mingw32.exe
+[206751] Done
+[206754] perform com.msys2.root operation: CreateShortcut
+[206754] 	- arguments: D:/msys64/mingw32.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MINGW32.lnk
+[207037] Done
+[207041] backup com.msys2.root operation: CreateShortcut
+[207041] 	- arguments: D:/msys64/mingw64.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MINGW64.lnk, iconPath=D:/msys64/mingw64.exe
+[207064] Done
+[207065] perform com.msys2.root operation: CreateShortcut
+[207065] 	- arguments: D:/msys64/mingw64.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MINGW64.lnk
+[207223] Done
+[207223] backup com.msys2.root operation: CreateShortcut
+[207223] 	- arguments: D:/msys64/ucrt64.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 UCRT64.lnk, iconPath=D:/msys64/ucrt64.exe
+[207233] Done
+[207235] perform com.msys2.root operation: CreateShortcut
+[207235] 	- arguments: D:/msys64/ucrt64.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 UCRT64.lnk
+[207335] Done
+[207335] backup com.msys2.root operation: CreateShortcut
+[207336] 	- arguments: D:/msys64/clang64.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 CLANG64.lnk, iconPath=D:/msys64/clang64.exe
+[207351] Done
+[207352] perform com.msys2.root operation: CreateShortcut
+[207352] 	- arguments: D:/msys64/clang64.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 CLANG64.lnk
+[207460] Done
+[207461] backup com.msys2.root operation: CreateShortcut
+[207461] 	- arguments: D:/msys64/clangarm64.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 CLANGARM64.lnk, iconPath=D:/msys64/clangarm64.exe
+[207473] Done
+[207474] perform com.msys2.root operation: CreateShortcut
+[207474] 	- arguments: D:/msys64/clangarm64.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 CLANGARM64.lnk
+[207575] Done
+[207576] backup com.msys2.root operation: CreateShortcut
+[207576] 	- arguments: D:/msys64/msys2.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MSYS.lnk, iconPath=D:/msys64/msys2.exe
+[207590] Done
+[207592] perform com.msys2.root operation: CreateShortcut
+[207592] 	- arguments: D:/msys64/msys2.exe, C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2/MSYS2 MSYS.lnk
+[207701] Done
+[207706] backup com.msys2.root operation: Execute
+[207707] 	- arguments: D:/msys64\usr\bin\bash.exe, --login, -c, exit
+[207707] Done
+[207707] perform com.msys2.root operation: Execute
+[207708] 	- arguments: D:/msys64\usr\bin\bash.exe, --login, -c, exit
+[208515] D:/msys64\\usr\\bin\\bash.exe" started, arguments: "--login -c exit
+[255996] Done
+[256050] Writing maintenance tool: "D:/msys64/uninstall.exe.new"
+[256050] Writing maintenance tool.
+[257657] Wrote permissions for maintenance tool.
+[258005] Maintenance tool hard restart: false.
+[258027] Installation finished!
+[390640] starting "D:/msys64/ucrt64.exe" ()

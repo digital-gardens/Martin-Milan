@@ -1,0 +1,72 @@
+************************************* Invoked: Wed Jun 1 15:06:51 2022
+[0] Arguments: C:\Users\milan_rxtipwr\Downloads\msys2-x86_64-20220503.exe
+[10] Operations sanity check succeeded.
+[13] Language: en-US
+[16] Warning: QMimeDatabase: Error loading internal MIME data
+An error has been encountered at line 1 of <internal MIME data>: Premature end of document.:
+[7989] Loaded control script ":/metadata/installer-config/control_js.js"
+[7989] Using control script: ":/metadata/installer-config/control_js.js"
+[17323] Preparing meta information download...
+[142922] backup  operation: Mkdir
+[142923] 	- arguments: D:/msys64
+[142923] Done
+[142925] perform  operation: Mkdir
+[142925] 	- arguments: D:/msys64
+[142925] Done
+[142926] Starting elevated process "C:\\Users\\milan_rxtipwr\\Downloads\\msys2-x86_64-20220503.exe" with arguments " --start-server PRODUCTION,{423a1699-974b-4e12-a20d-f22e2fd6623c},{93837668-4f91-4434-a6f1-228e3715dcf6}"
+[161272] Finished starting elevated process.
+[161595] perform  operation: Mkdir
+[161595] 	- arguments: D:/msys64
+[161602] Done
+[161610] Preparing the installation...
+[161610] Install size: 2 components
+[161645] Installing component MSYS2 64bit base
+[161646] backup com.msys2.root.base operation: Extract
+[161646] 	- arguments: installer://com.msys2.root.base/20220503msys64.7z, D:/msys64
+[161646] Done
+[161646] perform com.msys2.root.base operation: Extract
+[161646] 	- arguments: installer://com.msys2.root.base/20220503msys64.7z, D:/msys64
+[345707] Done
+[345707] backup com.msys2.root.base operation: CreateShortcut
+[345707] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW x86.lnk, -mingw32, iconPath=D:/msys64/mingw32.exe
+[345717] Done
+[345718] perform com.msys2.root.base operation: CreateShortcut
+[345718] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW x86.lnk, -mingw32
+[345811] Done
+[345811] backup com.msys2.root.base operation: CreateShortcut
+[345811] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW x64.lnk, -mingw64, iconPath=D:/msys64/mingw64.exe
+[345816] Done
+[345816] perform com.msys2.root.base operation: CreateShortcut
+[345816] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW x64.lnk, -mingw64
+[345846] Done
+[345846] backup com.msys2.root.base operation: CreateShortcut
+[345846] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW UCRT x64.lnk, -ucrt64, iconPath=D:/msys64/ucrt64.exe
+[345850] Done
+[345852] perform com.msys2.root.base operation: CreateShortcut
+[345852] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW UCRT x64.lnk, -ucrt64
+[345880] Done
+[345881] backup com.msys2.root.base operation: CreateShortcut
+[345881] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW Clang x64.lnk, -clang64, iconPath=D:/msys64/clang64.exe
+[345884] Done
+[345885] perform com.msys2.root.base operation: CreateShortcut
+[345885] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MinGW Clang x64.lnk, -clang64
+[345912] Done
+[345912] backup com.msys2.root.base operation: CreateShortcut
+[345912] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MSYS.lnk, -msys, iconPath=D:/msys64/msys2.exe
+[345916] Done
+[345917] perform com.msys2.root.base operation: CreateShortcut
+[345917] 	- arguments: D:/msys64\msys2_shell.cmd, C:\Users\milan_rxtipwr\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSYS2 64bit/MSYS2 MSYS.lnk, -msys
+[345944] Done
+[345944] backup com.msys2.root.base operation: Execute
+[345944] 	- arguments: D:/msys64\usr\bin\bash.exe, --login, -c, exit
+[345944] Done
+[345944] perform com.msys2.root.base operation: Execute
+[345944] 	- arguments: D:/msys64\usr\bin\bash.exe, --login, -c, exit
+[345947] D:/msys64\\usr\\bin\\bash.exe" started, arguments: "--login -c exit
+[383071] Done
+[383219] Writing maintenance tool: "D:/msys64/uninstall.exe.new"
+[383219] Writing maintenance tool.
+[385639] Wrote permissions for maintenance tool.
+[386325] Maintenance tool hard restart: false.
+[386420] Installation finished!
+[806860] starting "D:/msys64/msys2_shell.cmd" ()
