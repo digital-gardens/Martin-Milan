@@ -148,13 +148,19 @@ tags:
 - I really wish I could recommend The Golden Orcumene, by John C Wright, to you. It's an epic trilogy, _very_ post human, very optimistic, and a wonderful read. It's also very libertarian, and probably mysogynistic (there's more blatant mysogyny in some of his other novels, so probably in here, and I'm not great at picking up on the more subtle stuff).
     
 
-[Optimistic post-singularity fiction? : printSF](https://www.reddit.com/r/printSF/comments/fh3mpq/optimistic_postsingularity_fiction/)
 
 [https://www.reddit.com/r/printSF/comments/fh3mpq/optimistic_postsingularity_fiction/](https://www.reddit.com/r/printSF/comments/fh3mpq/optimistic_postsingularity_fiction/)
 
+
+edit.. I sorted the comments
+https://www.reddit.com/r/printSF/comments/fh3mpq/deleted_by_user/?sort=top
+
+
+[Optimistic post-singularity fiction? : printSF](https://www.reddit.com/r/printSF/comments/fh3mpq/optimistic_postsingularity_fiction/)
+
 - I'm a trans woman with a fairly nasty genetic disorder. These two things give me a _very_ well-developed sense of mind-body dissonance. Everything about my biology is either causing pain, costing money, or creating dysphoria. Often all three. I used to feel completely hopeless about all this - as if there was no hope of becoming who and what I want to be.
     
-- But then I read _Diaspora_, by Greg Egan. Which is a beautiful and mind-bending view into a post-singularity society where things like appearance and identity are fluid, and no one is limited by flesh unless they choose to be. This book gave me a future worth hoping for. It fundamentally changed my worldview for the better.
+> - #aaa But then I read _Diaspora_, by Greg Egan. Which is a beautiful and mind-bending view into a post-singularity society where things like appearance and identity are fluid, and no one is limited by flesh unless they choose to be. This book gave me a future worth hoping for. It fundamentally changed my worldview for the better.
     
 - I recently bought _Axiomatic_, hoping that Egan wrote more about this kind of world. But all of his short stories so far are dark and unsettling, and not at all what I was hoping for. I've been looking at summaries of his other books, but the descriptions are a little too conceptual - it's hard to guess what their tones are like.
     

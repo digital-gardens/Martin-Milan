@@ -1,6 +1,20 @@
 topic 260404
 
 
+20260810
+https://old.reddit.com/r/computer_Engl_langs/comments/1vkz0rm/olog_catcolab/?
+
+extension://blillmbchncajnhkjfdnincfndboieik/src/pdf-viewer/index.html?file=https%3A%2F%2Farxiv.org%2Fpdf%2F1102.1889
+
+https://en.wikipedia.org/wiki/Bracket#Double_brackets_%E2%9F%A6_%E2%9F%A7
+Double brackets (or white square brackets or Scott brackets (named after Dana Scott)), ⟦ ⟧, are used to indicate the semantic valuation function in formal semantics for natural language
+
+
+
+Computer English langs ... To bridge the gap between natlangs (natural languages) and complangs (computer languages),,  between non-formal conlangs on one side, and programming languages + knowledge representation languages on the other side. 
+Controlled natural languages; Semi-formal; code poetry; fragments of English in computer languages; pseudocode.
+
+
 # meta .. [[260125-merely-start-a-big-topic.meta.publ.md]]
 
 
