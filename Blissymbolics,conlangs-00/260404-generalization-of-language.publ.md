@@ -9,6 +9,10 @@ extension://blillmbchncajnhkjfdnincfndboieik/src/pdf-viewer/index.html?file=http
 https://en.wikipedia.org/wiki/Bracket#Double_brackets_%E2%9F%A6_%E2%9F%A7
 Double brackets (or white square brackets or Scott brackets (named after Dana Scott)), ⟦ ⟧, are used to indicate the semantic valuation function in formal semantics for natural language
 
+-notation (semantic evaluation or denotation brackets) maps a linguistic expression to its semantic value. Though widely attributed to Richard Montague or computer scientist Christopher Strachey (as "Strachey brackets"), the notation actually emerged from mathematical logic and set theory via Dana Scott in the late 1960s before being adopted into natural language semantics.
+
+- https://en.wikipedia.org/wiki/Scott%27s_trick
+- Groethendieck universe ... to not let Russell's paradox happen in category theory
 
 
 Computer English langs ... To bridge the gap between natlangs (natural languages) and complangs (computer languages),,  between non-formal conlangs on one side, and programming languages + knowledge representation languages on the other side. 
