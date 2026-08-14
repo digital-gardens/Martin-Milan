@@ -13780,3 +13780,17 @@ icacls.exe   d:\msys64
 code  C:\Users\marti\OneDrive\Dokumenty\00-MM\0004\nonadmin-nonise--newest-mbpc--nonadmin,martin-saves.f8.ps1
 icacls.exe   d:\msys64  #yyyy
 notepad "C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\0004-LINKS---DONOT-PUT-LONG-FILES-HERE--AI-WILL-READ\0000-url-file.f4-edit.f5.url"
+findstr -i aaa "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"
+findstr -i aaa "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics\*"
+findstr.exe /?
+findstr -i aaa "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"  /S
+cmd /c findstr -i aaa "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"  /S
+cmd /c findstr -i aaa "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"  -S
+cmd /c findstr -S -i aaa "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"
+cmd /c findstr -S -i "aaa"    "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"
+cmd /c findstr -L -S -i "aaa"    "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"
+cmd /c findstr -L -S -i "aaa"    "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics\*"
+cmd
+find /?
+bash
+bash
