@@ -6,14 +6,15 @@
 ###### #aaa : Víno máš a markytánku, dlouhá noc se pro-hý-ří. Víno máš a chvilku spánku, díky, dí-ky, ver-bí-ři. 1. Dříve než ...
 ###### #aaa Když Sever válčí s Jihem a zem jde do války na polích místo bavlny teď rostou bodláky. Ve stínu u silnice vidím z ...
 ###### #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...
-##### #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední
-- ℹ️ #aaa yyy Každé ráno probouzí mně sluncem hořícím
-- ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí
-a jas tvých očí s barvou šalvějí.  #a
-- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,
-- ℹ️ #aaa yyyŘíkají, že paní má se má,
-
-
+##### #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední 
+- **Date:** 7/26/2024
+- **URL:** https://nesslabs.com/glasp-featured-tool
+- ℹ️ #aaa yyy Každé ráno probouzí mně sluncem hořícím  
+- ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí  
+- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
+- ℹ️ #aaa yyyŘíkají, že paní má se má,  
+### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
+### [Můj Čas - song and lyrics by Hana Zagorová, Stanislav...](https://open.spotify.com/track/5vvr1U2dzXJju34vRRURVD)
 - #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
 - ℹ️ #aaaa #zpívám  capo2 Na dlani jednu z tvých řas, do tmy se koukám, hraju si písničky tvý, co jsem ti psal, je skoro půlnoc a z ...
 - ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
@@ -27,7 +28,7 @@ a jas tvých očí s barvou šalvějí.  #a
 - ℹ️ #aaaaa Bmp 80 1. Z Těšína vyjíždí vlaky co čtvrthodinu, včera jsem nespal a ani dnes nespočinu, svatý Medard, můj ...
 - ℹ️ #aa Bmp 160 Darmo sa ty trápíš můj milý synečku nenosím ja tebe nenosím v srdéčku A já tvojá nebudu ani jednu hodinu ...
 - ℹ️ #aaa Bmp 130 Sólo: 2x Skončili jsme, jasná zpráva, proč o tebe zakopávám dál, projít bytem já abych se bál. Dík ...
- - ℹ️ #aaaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední
+ - ℹ️ #aaaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední 
 - ℹ️ #aaaaa Nohavica Jaromír
 - ℹ️ #aaaaa Nedvědi
 - ℹ️ #aaa Chinaski
