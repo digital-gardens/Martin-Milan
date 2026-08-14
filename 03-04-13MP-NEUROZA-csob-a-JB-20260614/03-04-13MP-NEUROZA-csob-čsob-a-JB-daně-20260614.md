@@ -9,7 +9,8 @@ jsem 20 let v plném invalidním důchodu
 pro velmi těžkou neurózu
 
 
-###### todo pomodoro 1 minutu
+
+###### #aaaa todo pomodoro 1 minute
 
 
 # pohnu se 4 problémy najednou
@@ -19,11 +20,11 @@ NEUROZA
 csob-čsob-a-JB-daně-20260614
 
 
-//// píseň ... dejte dopsat nano "román"
+//// píseň ... dejte dopsat nano "román" #aaa 
 
 
 # mám takovou neurózu, že
-// píseň ... trochu .. němožem dýchať a celé noci ..
+// píseň ... trochu .. němožem dýchať a celé noci .. #aaaa
 
 
 - ℹ️ #aaaa yyyy //// písně pomáhají dýchat
@@ -137,7 +138,7 @@ odmazat zavinace emaily adresy
 
 
 
-# herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří
+# #aaaaa  herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří
 ## mám fotku rozhovoru v google photos
 https://gemini.google.com/app/8f63cf3ae5ecf6dc
 
