@@ -1,7 +1,6 @@
 
 https://glasp.co/uhu6drb9cmm389j0
 
-
 Seven Sketches in Compositionality:
 An Invitation to Applied Category Theory
 ?
@@ -9,21 +8,9 @@ Brendan Fong David I. Spivak
 (Last updated: October 16, 2018)
 
 
-
-
-Generative effects: Orders and adjunctions 1
-1.1 More than the sum of their parts . . . . . . . . . . . . . . . . . . . . . . . 1
-1.1.1 A first look at generative effects . . . . . . . . . . . . . . . . . . . . 2
-1.1.2 Ordering systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
-1.2 What is order? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
-1.2.1 Review of sets, relations, and functions . . . . . . . . . . . . . . . 7
-1.2.2 Preorders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-1.2.3 Monotone maps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
-1.3 Meets and joins . . . . . . . . .
-
-
 More than the sum of their parts . . . . . . . . . . . . . . . . . . . . . . . 1
 1.1.1 A first look at generative effects . . . . . . . . . . . . . . . . . . . . 2
+
 1.1.2 Ordering systems . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 1.2 What is order? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
 1.2.1 Review of sets, relations, and functions . . . . . . . . . . . . . . . 7
@@ -33,17 +20,20 @@ More than the sum of their parts . . . . . . . . . . . . . . . . . . . . . . . 1
 1.3.1 Definition and basic examples . . . . . . . . . . . . . . . . . . . . 23
 1.3.2 Back to observations and generative effects . . . . . . . . . . . . . 26
 1.4 Galois connections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
 1.4.1 Definition and examples of Galois connections . . . . . . . . . . . 27
 1.4.2 Back to partitions . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
 1.4.3 Basic theory of Galois connections . . . . . . . . . . . . . . . . . . 30
 1.4.4 Closure operators . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+
 1.4.5 Level shifting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
 1.5 Summary and further reading . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+
 2 Resources: monoidal preorders and enrichment 39
 2.1 Getting from a to b . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
 2.2 Symmetric monoidal preorders . . . . . . . . . . . . . . . . . . . . . . . . 41
 2.2.1 Definition and first examples . . . . . . . . . . . . . . . . . . . . . 41
-
 
 
 #y 2.2.2 Introducing wiring diagrams . . . . . . . . . . . . . . . . . . . . . 43
@@ -59,6 +49,7 @@ More than the sum of their parts . . . . . . . . . . . . . . . . . . . . . . . 1
 
 
 . . . . . . . . . . . . . . . . . . . . . 75
+
 
 #y 3 Databases: Categories, functors, and (co)limits 77
 3.1 What is a database? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
@@ -85,25 +76,13 @@ More than the sum of their parts . . . . . . . . . . . . . . . . . . . . . . . 1
 3.5.3 Finite limits in Set . . . . . . . . . . . . . . . . . . . . . . . . . . . 111
 3.5.4 A brief note on colimits . . . . . . . . . . . . . . . . . . . . . . . . 113
 3.6 Summary and further reading . . . . . . . . . . . . . . . . . . . . . . . . . 114
+
+
+
 4 Co-design: profunctors and monoidal categories
 
 
-
 #y A reflection on wiring diagrams
-
-
-
-
-Signal flow graphs: Props, presentations, & proofs
-
-The iconography of signal flow graphs
-
-The prop of matrices over a rig
-
-Graphical linear algebra
-
-
-
 
 
 
@@ -114,6 +93,9 @@ Graphical linear algebra
 4.5.1 Compact closed categories . . . . . . . . . . . . . . . . . . . . . . . 141
 4.5.2 Feas as a compact closed category . . . . . . . . . . . . . . . . . . 143
 4.6 Summary and further reading . . . . . . . . . . . . . . . . . . . . . . . . . 145
+
+
+
 5 Signal flow graphs: Props, presentations, & proofs 147
 5.1 Comparing systems as interacting signal processors . . . . . . . . . . . . 147
 5.2 Props and presentations . . . . . . . . . . . . . . . . . . . . . . . . . . . . 149
@@ -125,14 +107,18 @@ Graphical linear algebra
 5.3 Simplified signal flow graphs . . . . . . . . . . . . . . . . . . . . . . . . . 159
 5.3.1 Rigs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
 #y 5.3.2 The iconography of signal flow graphs . . . . . . . . . . . . . . . 160
-5.3.3 The prop of matrices over a rig . . . . . . . . . . . . . . . . . . . . 164
+
+#y 5.3.3 The prop of matrices over a rig . . . . . . . . . . . . . . . . . . . . 164
 5.3.4 Turning signal flow graphs into matrices . . . . . . . . . . . . . . 165
 5.3.5 The idea of functorial semantics . . . . . . . . . . . . . . . . . . . 168
-5.4 Graphical linear algebra . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168
+#y 5.4 Graphical linear algebra . . . . . . . . . . . . . . . . . . . . . . . . . . . . 168
 5.4.1 A presentation of Mat¹Rº . . . . . . . . . . . . . . . . . . . . . . . 168
 5.4.2 Aside: monoid objects in a monoidal category . . . . . . . . . . . 172
 5.4.3 Signal flow graphs: feedback and more . . . . . . . . . . . . . . . 174
 5.5 Summary and further reading . . . . . . . . . . . . . . . . . . . . . . . . . 178
+
+
+
 6 Circuits: hypergraph categories and operads 181
 
 #y 6.1 The ubiquity of network languages . . . . . . . . . . . . . . . . . . . . . . 181

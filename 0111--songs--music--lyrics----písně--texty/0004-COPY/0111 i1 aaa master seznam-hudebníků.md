@@ -1,0 +1,51 @@
+- #aaaa ABBA
+-  Johann Sebastian Bach
+- #aaaa Beatles
+- #aa  Boney M.
+- #aaaa Brontosauři
+- #aaa  Joe Dassin
+-  Bratři Ebenové
+- #aaa expediční filk
+- #aaaa Enya
+- #aa  Lenka Filipová
+- #aa  Karel Gott
+- #aaa Harry Potter filk
+- #aaa Harry Potter a Metody Racionality - filk?
+-  Jaroslav Hutka
+- #aa  Iļģi
+-  Michael Jackson
+- #aaa  Jahelka
+-  Karl Jenkins
+-  Carole King
+- #aaa  Jana Kratochvílová
+- #aaaa KI
+- #aaaa Karel Kryl
+- #aa  Marta Kubišová
+- #aaaa Kungpao
+- #aaa  Aneta Langerová
+- #aa  lidové písně (lotyšské)
+- #aaa  Lucie
+- #aaaa MEDS filk?
+- #aaa  Андрей Макаревич (Makarevič)
+- #aaa  Новелла Матвеева (Matveeva)
+-  Ainars Mielavs
+- #aa  Wolfgang Amadeus Mozart
+- #aa  Muk
+- #aaaa Jaromír Nohavica
+-  Pepa Nos
+- #aaa  Булат Окуджава (Okudžava)
+- #aaa  Olympic
+- #aaa Pán Prstenů filk ... muzikál
+- #aaa  Pentatonix
+- #aaa  Pink Floyd
+-  Karel Plíhal
+-  Ricchi e Poveri
+- #aa  Simon & Garfunkel
+- #aaaa Spirituál kvintet
+-  Ivars Štubis
+- #aa  Zdeněk Svěrák
+- #aa  Vangelis
+- #aa  Antonio Vivaldi
+- #aaa  Юрий Визбор (Vizbor)
+- #aaa  Jiří Voskovec & Jan Werich
+- #aaa  Žbirka
