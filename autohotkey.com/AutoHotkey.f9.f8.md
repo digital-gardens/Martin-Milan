@@ -357,11 +357,11 @@ A4  038	 	u	0.00	LAlt
 
 ; Exit the script with Escape
 Esc::exitapp
-; aaa Press Ctrl+Alt+R to reload the script
+; #aaa Press Ctrl+Alt+R to reload the script
 ^!r::Reload
 
 
-; aaa Press Ctrl+Alt+A to toggle the script on and off
+; #aaa Press Ctrl+Alt+A to toggle the script on and off
 ^!a::Suspend
 
 

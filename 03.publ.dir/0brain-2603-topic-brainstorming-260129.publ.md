@@ -599,7 +599,7 @@ sledovat objednávku
 
 # 20260603---robocopy-or-junction---code..user---into-onedrive
 [[20260603--robocopy-or-junction---code..user---into-onedrive.md]]
-#BUG    AAAAaa Also: OneDrive can behave badly with certain files in Code\User (SQLite DBs, lock files)
+#BUG    #AAAAaa Also: OneDrive can behave badly with certain files in Code\User (SQLite DBs, lock files)
 
 #bug Then it confirms — the problem is the task name 20260603-robocopy-code..user, specifically the .. double dots. Task Scheduler rejects it regardless of the action.
 
