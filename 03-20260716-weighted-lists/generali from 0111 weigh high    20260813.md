@@ -61,11 +61,16 @@ sed -E 's///'
 C:\Users\marti\OneDrive\Dokumenty/03-1703-clippings--web-highlights.r8.dir/==Hlídání a péče o seniory Praha.md:15
 C:\Users\marti\OneDrive\Dokumenty/03-dok-Clippings--web-highlights/==author Hari___Seldon - Reddit Search!.md:1
 
+  suppress all normal output
+      --binary-files=TYPE   assume that binary files are TYPE;
+                            TYPE is 'binary', 'text', or 'without-match'
+  -a, --text                equivalent to --binary-files=text
+  -I                        equivalent to --binary-files=without-match
 
 
 
 -l
-grep -R -E   -i    --count   '[#]a{6}|^ *[-+*#]*[=]{3,4}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'      "C:\Users\marti\OneDrive\Dokumenty"   | grep -v '[:]0$' >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
+grep -R -E   -i  -I    --count   '[#]a{6}|^ *[-+*#]*[=]{3,4}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'      "C:\Users\marti\OneDrive\Dokumenty"   | grep -v '[:]0$' >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
 
 ls -l 
 dir "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
