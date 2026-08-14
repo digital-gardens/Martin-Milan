@@ -1,0 +1,211 @@
+
+
+
+generalize from 0111 weigh high 20260813.md
+
+
+
+# bash
+```sh
+bash
+# mv -iv    "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics\grep"         "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics\00-GREP"     
+
+0814
+[^#a]aaa
+^aaa
+
+maybe todo vsc snippets ... visible hint probably could contain the non-word characters, like the # sign, but the snippet trigger should be just the word characters, like "aaa" or "aa" or "a" ... so that it can be typed quickly and easily without having to type the non-word characters, which are harder to type quickly and easily.  The snippet could then insert the non-word characters as part of the snippet expansion.
+
+#todo ahk  ... try in vsc now
+s a a
+s s a
+w a a
+w w a
+
+###### #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...
+
+##### #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední 
+
+- #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
+
+- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,
+
+**Jiná verze - "Jižní eskadrona" - Wabi Daněk**
+| --- | --- |
+
+### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
+
+
+0814 zmena  devel
+"C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty"
+
+#grep -R -E   -i    "aaa"  
+  "[#]a"   
+
+'[-+*#]+ [-+*#]+'
+'[-+*#]+ .{0,10}[-+*#]+'
+ '[#][#]' 
+| grep -v -E   -i     '[#]a' 
+
+sed -E 's///'
+ '^ *[-+*#]+ .{0,10}[-+*#]+'  
+/^( *[-] +)[#]{6,}/ 
+/^( *[-] +)(.{0,10}[#]a{5})/
+
+  '^ *[-+*#]+ .{0,10}[-+*#]+'  
+
+
+^ *={4}[^=]
+yyyy
+grep -R -E   -i   --no-filename  '[#]a{7}|^ *={4}[^=]'     "C:\Users\marti\OneDrive\Dokumenty\00-MM"   >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"
+
+"11--songs--music--lyrics----písně--texty\00-GREP"   | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'  >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+
+ |
+head
+
+
+
+ghd 
+
+code "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+
+
+not important
+ghd devtools console
+install.ts:28 Executing getCommits: git log b2089b8ff559ede6a9f1d5e61dd469dc58ca6b38 --date=raw --max-count=1 -z --format=%H%x00%h%x00%s%x00%b%x00%an <%ae> %ad%x00%cn <%ce> %cd%x00%P%x00%(trailers:unfold,only)%x00%D --no-show-signature --no-color -- (took 1.281s)
+
+
+old
+"C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"  > "C:\Users\marti\OneDrive\Dokumenty\00-MM\011
+
+"C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics\00-GREP"     
+code "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt"
+
+
+#nn spaces in filename
+ls    "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"  
+echo $(  find    "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"   -name  "*.md"   )
+ls -l $(  find    "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics"   -name  "*.md"   )
+0111-music-oh-freedom-random-lyrics\grep"  >a.txt 
+   -name  "*.md"   )
+
+```
+
+
+
+
+
+
+
+
+
+
+-----------------
+# tc
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir
+
+notepad "C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\0004-LINKS---DONOT-PUT-LONG-FILES-HERE--AI-WILL-READ\0000-url-file.f4-edit.f5.url"
+
+0000-url-file.f4-edit.f5.url
+
+
+# 011 připomenout slovo
+https://www.youtube.com/playlist?list=PLf627eeRCAXE
+https://www.yousongs.cz/SongBooks.aspx?userOnly=1
+https://www.yousongs.cz/zpevnik/3432-mm-011-pripomenout-slovo.aspx?utm_source=&utm_medium=&utm_campaign=
+
+
+# C:\Users\marti\OneDrive\00clippi
+
+lyrics
+texty
+
+asi budu vse sejvit z karaoketexty,?
+ yousongs asi nejde save snadno?
+
+
+# "C:\Users\marti\OneDrive\11c3aaaa"
+
+
+# "C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\00-GREP"
+C:\Users\marti\OneDrive\Dokumenty\
+texty 
+
+
+# C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\
+
+
+
+
+
+# //////// #nn czech characters in filename
+findstr -i aaa "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics\*"
+cmd /c findstr -L -S -i "aaa"    "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics\*"  
+cmd
+cmd /c find "aaa"    "C:\Users\marti\OneDrive\Dokumenty\0111-music-oh-freedom-random-lyrics\*"  
+exit
+
+
+# posila do terminalu jinekho okna  kdyzs   move to new window,  a pak se to zobrazi v terminalu jineho okna
+
+
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty"
+# C:\Users\marti\OneDrive\Dokumenty\00-MM
+#aaaa
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\03-04-13MP-NEUROZA-csob-a-JB-20260614\03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md
+
+//// píseň ... dejte dopsat nano "román" #aaa 
+
+...
+
+
+
+# vsc hledat 
+píseň
+
+
+
+
+
+
+
+
+
+
+# incremental AI search .. experiments..  20260713.md
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\03-annotative search, incremental AI search .. experiments..  20260713\Pilot 1 — filk songs, Beatles melodies, computing lyrics.md
+
+// line-based text format 
+
+- #a "Write in C" — new lyrics over the Beatles' "Let It Be," written by filker Brian Marshall; a well-known entry in the filk programming-song canon the filk author of "Write In C" is Brian Marshall 
+
+// #a* tags are more for the user  than for the AI ... the lines are successes, but not new search terms for the AI to use in the next search pass
+
+
+- #aa "UNIX Man" — a parody set to the Beatles' "Nowhere Man," listed among the classic computer-themed filk songs "UNIX Man" - "Nowhere Man" by The Beatles
+
+
+- A tangential near-miss: #aaa "My father is fluent in Fortran" — but this one is TTTO ("to the tune of") *"My Bonnie Lies Over the Ocean,"* a traditional folk tune, not strictly a Beatles song (though the Beatles famously backed a recording of it early on — arguably filk-adjacent trivia, not a real hit) 
+// I will not downvote this one, because i happen to know the tune, and i happen to like it 
+
+// btw, **repeated letters** in the hashtags are a way to indicate relative **importance**, ... e.g., **in importance**, attention, ... #a < (is less than) #aa < #aaa < #aaaa < #aaaaa ... etc.  (I use this in my own notes, and I hope it is a useful convention for the AI to learn as well?.)
+
+- Repositories worth mining further: #yyyes the Filk Discography Wiki's "Funniest Computer Songs" page, and #yyes poppyfields.net's filk lyric archive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
