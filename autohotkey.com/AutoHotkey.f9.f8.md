@@ -1130,21 +1130,25 @@ that expands to
 ;;;;;:X*:hhh::Send("`#aaa")          not better
 
 :X*:hhh::Send("{#}") 
-; #yyy 
+; #yyy   #
 
 
 ###### test zz zza zzh  zzz
   yyy indented #testhhhh # # # aazzzzz 
   - #aaaa zza tab   some bug zzzzzzzzzzznothing, pomohlo  press space , then z z 
 
+
 ###### test ww wwa 
   - ℹ️ #aaa - ℹ️ #aaaa indent ###### test ww 
   - ℹ️ #aa - ℹ️ #aaa - ℹ️ #aaaa indent ###### test ww 
 
 ##### #aaa      yyyy   w w
+###### #aaa ###### #aaa ###### #aaa 123www 
 
+
+###### test saa         saaa                   #aaa 
 #### #aaa - ℹ️ #aaaa - ℹ️ #aaa      yyyy s a a  
-
+- ℹ️ #aaa 123saaa 
 
 :X*:hhh::Send("###### ")
 

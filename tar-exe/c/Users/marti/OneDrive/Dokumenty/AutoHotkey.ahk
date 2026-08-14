@@ -146,8 +146,8 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 
 
 ;==============================  20260609.1221  hotstrings yyyy   ============================== yyyy do the test at the end of this file yyyy
-; #TODO qq eee?
-; #TODO capslock?  sss?
+; #n qqache?      #todo eee?
+; #n capslock--hand ache?  #todo  sss?  ddd
 ; #TODO ccc vv?
 ; #bug hand ache \ z x
 ; #bug hand ache ctrl win alt
@@ -156,10 +156,18 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 ;:X*:zz::Send("{Home}{Space}{Home}")
 :X*:zz::Send("{Home}{Space}{Left}")
 
+;20260814
+;:X*:saa::Send("{Home}{Space}{Left}- {#}aa")
 ; 202606
-;:X*:ww::Send("{Home}{Space}{Left}- ℹ️ {#}aa")
 :X*:saa::Send("{Home}{Space}{Left}- ℹ️ {#}aaa")
+;very old   :X*:ww::Send("{Home}{Space}{Left}- ℹ️ {#}aa")
+
+;20260814
+;:X*:ww::Send("{Home}- {# 6} {Left 1}")
+;202606
 :X*:ww::Send("{Home}{# 6} {#}aaa{Space}{Left 6}")
+
+
 
 ;;;;;:X*:hhh::Send("`#aaa")
 ;;:X*:hhh::Send("{#}")

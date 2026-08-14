@@ -68,9 +68,11 @@ C:\Users\marti\OneDrive\Dokumenty/03-dok-Clippings--web-highlights/==author Hari
   -I                        equivalent to --binary-files=without-match
 
 
-
+6   3 4  2 2
+7  4 4 2 2 
+8 5 5 2 2
 -l
-grep -R -E   -i  -I    --count   '[#]a{6}|^ *[-+*#]*[=]{3,4}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'      "C:\Users\marti\OneDrive\Dokumenty"   | grep -v '[:]0$' >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
+grep -R -E   -i  -I    --count   '[#]a{8}|^ *[-+*#]*[=]{5,5}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'      "C:\Users\marti\OneDrive\Dokumenty"   | grep -v '[:]0$' >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
 
 ls -l 
 dir "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
