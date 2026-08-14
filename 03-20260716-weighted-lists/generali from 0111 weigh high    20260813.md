@@ -54,11 +54,33 @@ sed -E 's///'
 
   '^ *[-+*#]+ .{0,10}[-+*#]+'  
 
+[-+*#]*
+
+
+
+C:\Users\marti\OneDrive\Dokumenty/03-1703-clippings--web-highlights.r8.dir/==Hlídání a péče o seniory Praha.md:15
+C:\Users\marti\OneDrive\Dokumenty/03-dok-Clippings--web-highlights/==author Hari___Seldon - Reddit Search!.md:1
+
+
+
+
+-l
+grep -R -E   -i    --count   '[#]a{6}|^ *[-+*#]*[=]{3,4}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'      "C:\Users\marti\OneDrive\Dokumenty"   | grep -v '[:]0$' >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
+
+ls -l 
+dir "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
+cmd
+
+
+history -a 
+
+- # stál jsem a hleděl jsem, hleděl jsem nahoru,
+
 
  '[#]a{7}|^ *={4}[^=]' 
 ^ *={4}[^=]
 yyyy
-grep -R -E   -i   --no-filename  '[#]a{6}|^ *[=]{3,4}[^=]'     "C:\Users\marti\OneDrive\Dokumenty\00-MM"   >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"
+grep -R -E   -i   --no-filename  '[#]a{6}|^ *[-+*#]*[=]{3,4}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'      "C:\Users\marti\OneDrive\Dokumenty\00-MM"   >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"
 
 "11--songs--music--lyrics----písně--texty\00-GREP"   | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'  >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
 
