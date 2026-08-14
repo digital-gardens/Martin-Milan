@@ -1130,7 +1130,7 @@ that expands to
 ;;;;;:X*:hhh::Send("`#aaa")          not better
 
 :X*:hhh::Send("{#}") 
-; #yyy   #
+; #yyy   #  #
 
 
 ###### test zz zza zzh  zzz
@@ -1138,17 +1138,22 @@ that expands to
   - #aaaa zza tab   some bug zzzzzzzzzzznothing, pomohlo  press space , then z z 
 
 
-###### test ww wwa 
+- ###### test ww ... move the caret into some line and press w w
   - ℹ️ #aaa - ℹ️ #aaaa indent ###### test ww 
   - ℹ️ #aa - ℹ️ #aaa - ℹ️ #aaaa indent ###### test ww 
 
 ##### #aaa      yyyy   w w
 ###### #aaa ###### #aaa ###### #aaa 123www 
+- ##### 12ww
+- ###### - ###### qwww 
 
 
-###### test saa         saaa                   #aaa 
+- ###### test saa         saaa       #aaa  ... move the caret into some line and press s a a
 #### #aaa - ℹ️ #aaaa - ℹ️ #aaa      yyyy s a a  
 - ℹ️ #aaa 123saaa 
+- #aa - #aaaaa 
+
+
 
 :X*:hhh::Send("###### ")
 
