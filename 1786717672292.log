@@ -1,0 +1,36 @@
+install.ts:28 [AppStore] loading 9 repositories from store
+install.ts:28 [AppStore] found account: martin12333 (Martin Milan)
+install.ts:28 [BranchPruner] Last prune took place 13 hours ago - skipping
+install.ts:28 launching: 3.6.4 (Windows 10.0.26200)
+install.ts:28 execPath: 'C:\Users\marti\AppData\Local\GitHubDesktop\app-3.6.4\GitHubDesktop.exe'
+install.ts:28 Subscribed 'martin12333' to Alive channel
+install.ts:28 Executing getConfigValueInPath: git config -z --local user.name (took 1.044s)
+install.ts:28 Executing getRemotes: git remote -v (took 1.189s)
+install.ts:32 Skipping background fetch as 'digital-gardens/Martin-Milan' was fetched 113s ago
+install.ts:28 Executing getRemotes: git remote -v (took 1.087s)
+install.ts:28 Executing getRemotes: git remote -v (took 1.213s)
+install.ts:28 Executing getStatus: git --no-optional-locks status --untracked-files=all --branch --porcelain=2 -z (took 1.907s)
+install.ts:28 Executing getCommits: git log b2089b8ff559ede6a9f1d5e61dd469dc58ca6b38 --date=raw --max-count=1 -z --format=%H%x00%h%x00%s%x00%b%x00%an <%ae> %ad%x00%cn <%ce> %cd%x00%P%x00%(trailers:unfold,only)%x00%D --no-show-signature --no-color -- (took 1.281s)
+install.ts:28 Executing installGlobalLFSFilter: git lfs install --skip-repo (took 4.221s)
+install.ts:28 Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.770s)
+install.ts:28 Executing updateRemoteHEAD: git remote set-head -a origin (took 1.286s)
+install.ts:32 Skipping background fetch as 'digital-gardens/Martin-Milan' was fetched 290s ago
+install.ts:32 Skipping background fetch as 'digital-gardens/Martin-Milan' was fetched 593s ago
+renderer.js:2 [Violation] 'setTimeout' handler took 63ms
+renderer.js:2 [Violation] 'requestAnimationFrame' handler took 70ms
+renderer.js:2 [Violation] 'requestAnimationFrame' handler took 127ms
+[Violation] Forced reflow while executing JavaScript took 33ms
+install.ts:28 [Timing] Action 'create commit' for 'digital-gardens/Martin-Milan' took 2.647s
+install.ts:28 credential-helper: found GitHub credential for https://github.com/ in store
+install.ts:28 Executing push: git push origin main:main --progress (took 3.068s)
+install.ts:28 Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.449s)
+install.ts:28 Executing updateRemoteHEAD: git remote set-head -a origin (took 1.137s)
+install.ts:32 Skipping background fetch as 'digital-gardens/Martin-Milan' was fetched 38s ago
+da
+VM528:1 Uncaught ReferenceError: da is not defined
+    at <anonymous>:1:1
+(anonymous) @ VM528:1
+Date()
+'Fri Aug 14 2026 16:24:24 GMT+0200 (Central European Summer Time)'
+install.ts:28 Executing fetch: git fetch --progress --prune --recurse-submodules=on-demand origin (took 1.484s)
+install.ts:28 Executing updateRemoteHEAD: git remote set-head -a origin (took 1.151s)
