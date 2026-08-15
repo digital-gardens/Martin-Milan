@@ -14,9 +14,6 @@
 0111--~1/Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
 0111--~1/Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa yyyŘíkají, že paní má se má,  
 0111--~1/Nohavica Jaromír/0004 ---- Nohavica Jaromír - seznam skladeb s texty a akordy na YouSongs.cz.md:- ###### Ahoj,slunko,tobě to teda dneska sekne, včera mi bylo smutno, ale dneska už je zase mírně pěkně, jó, někdy se zdá, že ...
-0111--~1/Nohavica Jaromír/0004 ---- Nohavica Jaromír - seznam skladeb s texty a akordy na YouSongs.cz.md:- Dnes je**sobota, 15.srpna.2026**
-0111--~1/Nohavica Jaromír/650714-Nohavica-Kometa--information-immortality.f8.md:- **Date:** 7/26/2024
-0111--~1/Nohavica Jaromír/650714-Nohavica-Kometa--information-immortality.f8.md:- **URL:** https://nesslabs.com/glasp-featured-tool
 0111--~1/Nohavica Jaromír/650714-Nohavica-Kometa--information-immortality.f8.md:- # stál jsem a hleděl jsem, hleděl jsem nahoru,
 0111--~1/píseň můj čas texty.md:- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
 0111--~1/píseň můj čas texty.md:- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
