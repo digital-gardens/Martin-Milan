@@ -13800,3 +13800,7 @@ bash
 start  "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\GREP.f5.sh"
 exit
 c:\pf\totalcmd\TOTALCMD64.EXE  "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS"
+C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
+C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\GREP--called.f5.sh
+cmd
+bash

@@ -7,15 +7,20 @@
 -  #aaa Když Sever válčí s Jihem a zem jde do války na polích místo bavlny teď rostou bodláky. Ve stínu u silnice vidím z ...
 -  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...
 - # #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední 
-- **Date:** 7/26/2024
-- **URL:** https://nesslabs.com/glasp-featured-tool
-- # stál jsem a hleděl jsem, hleděl jsem nahoru,
+- #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851
 - ℹ️ #aaa yyy Každé ráno probouzí mně sluncem hořícím  
 - ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí  
 - ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
 - ℹ️ #aaa yyyŘíkají, že paní má se má,  
-### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
-### [Můj Čas - song and lyrics by Hana Zagorová, Stanislav...](https://open.spotify.com/track/5vvr1U2dzXJju34vRRURVD)
+- Dnes je**sobota, 15.srpna.2026**
+- **Date:** 7/26/2024
+- **URL:** https://nesslabs.com/glasp-featured-tool
+- # stál jsem a hleděl jsem, hleděl jsem nahoru,
+- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
+- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
+- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
+- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
+- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
 - #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
 - ℹ️ #aaaa #zpívám  capo2 Na dlani jednu z tvých řas, do tmy se koukám, hraju si písničky tvý, co jsem ti psal, je skoro půlnoc a z ...
 -  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
