@@ -7,7 +7,8 @@
 -  #aaa Když Sever válčí s Jihem a zem jde do války na polích místo bavlny teď rostou bodláky. Ve stínu u silnice vidím z ...
 -  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...
 - # #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední 
-- #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851
+-  - #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851
+-  [Do You Want to Know a Secret](https://www.karaoketexty.cz/texty-pisni/beatles-the/do-you-want-to-know-a-secret-3246) 8 458
 - ℹ️ #aaa yyy Každé ráno probouzí mně sluncem hořícím  
 - ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí  
 - ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
