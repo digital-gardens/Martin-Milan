@@ -32,7 +32,7 @@ error: bad signature 0x00000000
 
 
 
-# hypothesis..i should make git dir only on **internal** yyy disk, nnnn not on external disk
+- # hypothesis..i should make git dir only on **internal** yyy disk, nnnn not on external disk
 
 - done disable 
 D:\0004-LINKS\OneDrive

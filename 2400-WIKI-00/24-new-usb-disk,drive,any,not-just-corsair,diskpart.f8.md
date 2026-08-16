@@ -9,8 +9,7 @@ emojis:  💚 ⏰ 🎵 🎵
 blissymbols:   \_💚_ 
 tags:  ℹ️ℹ️ℹ️ℹ️ aaaa rrrrRR  resting  recovery  restore  music
 
-title: 
-
+title: external disk, external drive
 
 parent: 260301
 

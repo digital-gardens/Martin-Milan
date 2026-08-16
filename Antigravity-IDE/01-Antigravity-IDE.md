@@ -2,13 +2,6 @@
 ////// use my w w macro to make headings
 
 
-- # #nn 20260816 i will probably never put downloads on an *external* drive again, 
- sometimes it disconnects randomly, 
-programs freeze
-// chkdsk d: is ok
-
-
-
 # win q create restore point before
 - ###### #- #TODO 
 win q create restore point after
