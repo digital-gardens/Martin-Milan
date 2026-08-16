@@ -65,6 +65,37 @@ Reliable automation, in-depth debugging, and performance analysis in Chrome usin
 // elsewhere 011 pomoc pokus
 
 
+------
+
+C:\Program Files\PowerShell\7
+C:\WINDOWS\system32
+C:\WINDOWS
+C:\WINDOWS\System32\Wbem
+C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+C:\WINDOWS\System32\OpenSSH\
+C:\Program Files (x86)\Common Files\Acronis\VirtualFile\
+C:\Program Files (x86)\Common Files\Acronis\VirtualFile64\
+C:\Program Files (x86)\Common Files\Acronis\FileProtector\
+C:\Program Files (x86)\Common Files\Acronis\FileProtector64\
+C:\Program Files (x86)\Common Files\Acronis\SnapAPI\
+C:\Program Files\dotnet\
+C:\Program Files\PowerShell\7\
+C:\Program Files\RedHat\Podman\
+C:\Program Files\Tailscale\
+C:\Program Files\Microsoft VS Code\bin
+C:\Program Files\Git\cmd
+C:\Program Files\nodejs\
+C:\Users\marti\AppData\Local\Microsoft\WindowsApps
+C:\Users\marti\.dotnet\tools
+C:\Users\marti\.deno\bin
+C:\Users\marti\.dotnet\tools
+C:\Users\marti\AppData\Local\Microsoft\WindowsApps
+C:\Users\marti\AppData\Roaming\npm
+C:\ProgramData\marti\GitHubDesktop\bin
+C:\Users\marti\AppData\Local\GitHubDesktop\bin
+
+
+---
 
 
 
