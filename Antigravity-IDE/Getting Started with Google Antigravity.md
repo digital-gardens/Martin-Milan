@@ -9,6 +9,9 @@ tags:
   - "clippings"
 ---
 
+
+EDIT EDIT maybe i will use glasp instead of obsidian
+
   
 
 # [Getting Started with Google Antigravity](https://codelabs.developers.google.com/getting-started-google-antigravity)
