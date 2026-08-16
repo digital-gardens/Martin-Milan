@@ -81,12 +81,14 @@ If you are interested in a codelab on Antigravity CLI, which is a terminal-based
 
 ### **What you'll need**
 
-Antigravity needs to be locally installed on your system. The product is available on Mac, Windows and specific Linux distributions. In addition to your own machine, you will need the following:
+yy Antigravity needs to be locally installed on your system. The product is available on Mac, Windows and specific Linux distributions. In addition to your own machine, you will need the following:
 
 - Chrome web browser.
 - A Gmail account (Personal Gmail account).
 
-This codelab is designed for users and developers of all levels.
+yyyy This codelab is designed for users and developers of all levels.
+
+
 
 ### **Reporting issues**
 
@@ -103,3 +105,4 @@ For bugs or feature requests related to Antigravity, please report the issue wit
 [Next](https://codelabs.developers.google.com/getting-started-google-antigravity#)
 
 [_bug_report_ Report a mistake](https://github.com/googlecodelabs/feedback/issues/new?title=[getting-started-google-antigravity])
+
