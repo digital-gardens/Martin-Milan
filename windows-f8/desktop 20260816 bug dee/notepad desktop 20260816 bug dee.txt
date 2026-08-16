@@ -1,0 +1,22 @@
+^s
+
+windows-f8\dee problems - external disk, external drive 20260.md
+
+respnt 
+
+mid disable lan share dee
+
+win r
+\\mb-pc
+
+f5
+
+
+PO
+po unshare 3
+
+
+
+
+
+^S
