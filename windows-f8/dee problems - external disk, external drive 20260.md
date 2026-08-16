@@ -7,6 +7,8 @@ C:\\Users\\marti\\OneDrive\\Dokumenty\\00-MM\\git\\git-reset--mixed---260504.102
 
 
 
+notepad changes bullets '-' to '*' ?
+
 
 win-f8/desktop/notepad.txt
 
@@ -33,7 +35,14 @@ programs freeze
 // chkdsk d: is ok
 
 20260816 downloads!
-
+win e
+downloads
+//music
+//videos
+...
+  rclick
+    location
+edge://settings/downloads
 
 
 * # how to get all the list of LAN shared folders
