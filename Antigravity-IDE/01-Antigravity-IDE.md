@@ -13,6 +13,15 @@ only one option
 is running now
 C:\Users\marti\AppData\Local\Programs\antigravity
 
+C:\Users\marti\AppData\Local\Programs\Antigravity IDE
+
+- ###### by default, Antigravity IDE ... add to PATH..requires shell restart
+         Add to PATH (requires shell restart) 
+
+
+
+C:\WINDOWS\system32\cmd.exe /c npx -y chrome-devtools-mcp@latest --autoConnect --no-usage-statistics --no-performance-crux
+C:\WINDOWS\system32\cmd.exe /d /s /c chrome-devtools-mcp --autoConnect --no-usage-statistics --no-performance-crux
 
 
 
