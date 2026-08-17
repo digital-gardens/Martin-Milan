@@ -13815,3 +13815,6 @@ dir C:\Users\marti\AppData\Local\Programs\*\*
 bash
 explorer %OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir
 cmd
+(Get-Item "$env:OneDrive\Dokumenty\00-MM\011*.publ.dir").FullName
+explorer.exe (Convert-Path "$env:OneDrive\Dokumenty\00-MM\011*.publ.dir")
+Invoke-Item "$env:OneDrive\Dokumenty\00-MM\011*.publ.dir"

@@ -4,7 +4,14 @@ rem C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f
 
 rem rem mkdir %OneDrive%\Dokumenty\011-POMOC.publ.dir
 
+
+
+rem cmd equivalent for powershell invoke-item
+start "" "C:\Exact\Path\Here"
+for /d %I in ("%OneDrive%\Dokumenty\00-MM\011*.publ.dir") do start "" "%~fI"
+
 rem explorer %OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir
+
 rem failed remmmmmmm explorer %OneDrive%\Dokumenty\00-MM\011-POM*
 
 rem cmd
@@ -20,8 +27,6 @@ for  /d  %I in ("%OneDrive%\Dokumenty\00-MM\011*") do @echo ----%~fI
 echo
 
 for /d %I in ("%OneDrive%\Dokumenty\00-MM\011*.publ.dir") do @echo %~fI
-
-
 
 Directories only: If set contains wildcard characters (* or ?), the specified command executes for each directory (instead of a set of files in a specified directory) that matches set. The syntax is:
 
