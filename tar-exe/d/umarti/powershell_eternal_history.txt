@@ -13804,3 +13804,12 @@ C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
 C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\GREP--called.f5.sh
 cmd
 bash
+conhost
+$env:Path -split ';'
+$env:Path -split ';' | clip
+$env:Path -split ';'
+dir C:\Users\marti\AppData\Local\Programs\
+dir C:\Users\marti\AppData\Local\Programs\*
+dir C:\Users\marti\AppData\Local\Programs\*\
+dir C:\Users\marti\AppData\Local\Programs\*\*
+bash
