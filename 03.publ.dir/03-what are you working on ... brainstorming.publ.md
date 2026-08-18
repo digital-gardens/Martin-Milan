@@ -55,17 +55,18 @@ synonyms for a phrase like
 please suggest many related emojis
 
 
-2020+
+# 2020+
+
 miniconda
 
 autohotkey v1, v2
 
 sysinternals
 
+security incidents xz-utils, npmjs
+
 
 2022
-![alt text](image-2.png)
-![alt text](image-3.png)
 bootableGenerator
 
 2023
@@ -78,13 +79,12 @@ sqliteviz
 2024
 microsoft quick assist
 
-
-
 screenpresso
 
 twitch studio
 
-2025
+
+# 2025
 obsidian
 
 github desktop
@@ -102,19 +102,30 @@ tailscale
 
 
 
-2026
+# 2026
 
 202605
 claude 
+
+security incident at ...
 
 202606
 discord
 
 202607
+
+Li-ion
+
 ms office
 
 202608
 antigravity ide
 
 
-todo vscode extensions
+#todo vscode extensions
+in settings.json
+copy files?
+because of security 
+
+
+#todo post this somewhere quietly
