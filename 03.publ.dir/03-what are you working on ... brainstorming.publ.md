@@ -53,3 +53,68 @@ synonyms for a phrase like
 " ... to help to spread good ideas ... "
 
 please suggest many related emojis
+
+
+2020+
+miniconda
+
+autohotkey v1, v2
+
+sysinternals
+
+
+2022
+![alt text](image-2.png)
+![alt text](image-3.png)
+bootableGenerator
+
+2023
+rsiGuard
+
+stackblitz
+jupyterLite
+sqliteviz
+
+2024
+microsoft quick assist
+
+
+
+screenpresso
+
+twitch studio
+
+2025
+obsidian
+
+github desktop
+
+podman
+
+macro recorder
+
+command palette
+
+all 4 hue 
+hue essentials
+
+tailscale
+
+
+
+2026
+
+202605
+claude 
+
+202606
+discord
+
+202607
+ms office
+
+202608
+antigravity ide
+
+
+todo vscode extensions
