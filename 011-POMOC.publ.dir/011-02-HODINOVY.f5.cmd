@@ -4,7 +4,11 @@ rem  .f5    .cmd
 
 
 rem win q scheduled tasks
+rem f5 to refresh the listing
 rem C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f5.cmd
+
+rem ? run task as soon as possible after a scheduled start is missed
+
 
 rem rem mkdir %OneDrive%\Dokumenty\011-POMOC.publ.dir
 

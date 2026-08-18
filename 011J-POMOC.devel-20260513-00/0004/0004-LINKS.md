@@ -1,5 +1,7 @@
 
 
+"C:\Program Files\Microsoft VS Code\Code.exe" c:\Users\marti\OneDrive\Dokumenty\00-MM\
+
 
 20260817
 "C:\11c0\Dokumenty"
