@@ -1,5 +1,7 @@
 11LAN-backslash-backslash-computer-name-20260610.md
 
+C:\Users\marti\OneDrive\Dokumenty\00-MM\obsidian--appdata\11LAN-sharing--0004-418-reform.f8.md
+
 
 # tech-Laifrovi-Bokovi
 tech.la.bo
