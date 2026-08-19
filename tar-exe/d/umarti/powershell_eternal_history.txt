@@ -13823,3 +13823,4 @@ icacls q:*
 explorer \\jirka\
 icacls \\jirka\e--evwrite-everyone-pozor
 icacls \\jirka\e--evwrite-everyone-pozor\*
+explorer M:\11c0\00-MM\

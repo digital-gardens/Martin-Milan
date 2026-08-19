@@ -3,6 +3,9 @@
 C:\Users\marti\OneDrive\Dokumenty\00-MM\obsidian--appdata\11LAN-sharing--0004-418-reform.f8.md
 
 
+explorer M:\00-MM\ 
+
+
 # tech-Laifrovi-Bokovi
 tech.la.bo
 .1024
