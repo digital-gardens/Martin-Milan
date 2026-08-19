@@ -65,6 +65,8 @@ sysinternals
 
 security incidents xz-utils, npmjs
 
+Taleb Antifragile
+
 
 2022
 bootableGenerator
@@ -104,6 +106,8 @@ tailscale
 
 # 2026
 
+LeechBlock
+
 202605
 claude 
 
@@ -114,12 +118,17 @@ discord
 
 202607
 
+Eugenia Cheng
+
 Li-ion
 
 ms office
 
 202608
 antigravity ide
+
+Society of Mind
+
 
 
 #todo vscode extensions
@@ -129,3 +138,5 @@ because of security
 
 
 #todo post this somewhere quietly
+
+email apnea
