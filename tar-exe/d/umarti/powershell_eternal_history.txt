@@ -13818,3 +13818,8 @@ cmd
 (Get-Item "$env:OneDrive\Dokumenty\00-MM\011*.publ.dir").FullName
 explorer.exe (Convert-Path "$env:OneDrive\Dokumenty\00-MM\011*.publ.dir")
 Invoke-Item "$env:OneDrive\Dokumenty\00-MM\011*.publ.dir"
+icacls q:
+icacls q:*
+explorer \\jirka\
+icacls \\jirka\e--evwrite-everyone-pozor
+icacls \\jirka\e--evwrite-everyone-pozor\*

@@ -1,15 +1,39 @@
 11LAN-backslash-backslash-computer-name-20260610.md
 
-explorer  \\mb-pc
 
+# tech-Laifrovi-Bokovi
+tech.la.bo
+.1024
+* (pomocny) MS-ucet pro LAN file sharing
+techl 
+icacls q:*
+icacls \\jirka\e--evwrite-everyone-pozor\*
+explorer \\jirka\
+owner JIRKA\techl 
+MB-PC\techl
+* (pomocny) G-ucet pro chat ... nebo k cemu jsem to vlastne potreboval ... aha, aby se z pocitace \\Jirka dalo dostat do toho chatu ( https://mail.google.com/mail/u/0/#chat/space/AAAAKqmKeeY  )  z libovol. win-uctu
+
+
+JIRKA\Jirka
+
+
+explorer  \\mb-pc
 \\Jirka
 \\OK
+
+
+dir "\\Jirka\C\Program Files\Mozilla Thunderbird"
+
+code \\Jirka\D\onedrive\Documents\Jirka--milan--icacls.f8.ps1
+
+
 
 //fail
 [Window Title]
 //mb-pc
 [Content]
 Windows cannot find '//mb-pc'. Make sure you typed the name correctly, and then try again.
+
 
 k:\onedrive\Documents\011 POMOC napoveda aaaa.publ.dir\011 napoveda bude\desktop.ini
 \\Jirka\D\onedrive\Documents\011 POMOC napoveda aaaa.publ.dir\011 napoveda bude\desktop.ini
