@@ -15,8 +15,16 @@ Double brackets (or white square brackets or Scott brackets (named after Dana Sc
 - Groethendieck universe ... to not let Russell's paradox happen in category theory
 
 
-Computer English langs ... To bridge the gap between natlangs (natural languages) and complangs (computer languages),,  between non-formal conlangs on one side, and programming languages + knowledge representation languages on the other side. 
+Computer English langs ... To bridge the gap between: natlangs (natural languages), and complangs (computer languages),, 
+
+between non-formal conlangs on one side, and programming languages + knowledge representation languages on the other side. 
+
 Controlled natural languages; Semi-formal; code poetry; fragments of English in computer languages; pseudocode.
+
+creoles of English and math ?
+
+noun algebra?
+
 
 
 # meta .. [[260125-merely-start-a-big-topic.meta.publ.md]]

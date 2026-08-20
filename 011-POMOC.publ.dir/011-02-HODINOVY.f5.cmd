@@ -3,6 +3,9 @@
 rem  .f5    .cmd
 
 
+rem EDIT NOW THE WINDOWS TASK SCHEDULER CALLS DIRECTLY THE EXPLORER,  NNNOT THE .CMD FILES
+
+
 rem win q scheduled tasks
 rem f5 to refresh the listing
 rem C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f5.cmd
