@@ -1,0 +1,119 @@
+[
+  {
+    "FullPath": "\\",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "This PC",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "marti",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti\\OneDrive\\Desktop",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "Desktop",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti\\OneDrive\\Dokumenty",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "Documents",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti\\OneDrive\\Obrázky",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "Pictures",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti\\OneDrive\\Videos",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "Videos",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti\\OneDrive\\music",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "Music",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti\\Downloads",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "Downloads",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "Programs",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti\\OneDrive",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "OneDrive",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti\\AppData\\Roaming\\Microsoft\\Windows\\Recent",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "Recent Items",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "%RecycleBin%",
+    "Project": "marti",
+    "SortOrder": 0,
+    "Alias": "Recycle Bin",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  },
+  {
+    "FullPath": "C:\\Users\\marti\\OneDrive",
+    "Project": "Cloud",
+    "SortOrder": 0,
+    "Alias": "OneDrive",
+    "AccessedT": 0,
+    "ModifiedT": 0,
+    "IsFolder": true
+  }
+]

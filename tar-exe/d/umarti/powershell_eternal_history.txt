@@ -13825,3 +13825,6 @@ icacls \\jirka\e--evwrite-everyone-pozor
 icacls \\jirka\e--evwrite-everyone-pozor\*
 explorer M:\11c0\00-MM\
 explorer M:\00-MM\
+explorer ms-advancedsettings:
+xplorer ms-outlook:
+explorer ms-outlook:
