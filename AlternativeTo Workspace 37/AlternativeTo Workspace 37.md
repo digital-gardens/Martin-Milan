@@ -7,6 +7,8 @@ if copy license number then delete from clipboard 2 history logs
 
 https://onecommander.com/store-limitations
 
+C:\Users\marti\OneDrive\Dokumenty\00-MM\44576milosp.OneCommander\OneCommander.md
+
 
 restore point
 paused dow onecommander
@@ -40,11 +42,18 @@ https://groups.google.com/g/onecommander/search?q=security
       <setting name="InterceptPaste" serializeAs="String">
         <value>True</value>
 
-      <setting name="MetaTextExtensions" serializeAs="String">
-        <value>txt,text,md,ini,xml,json,html,htm,config,conf,cfg,srt,sub,ascii,asc,nfo,inf,readme,me,!!!,1st,url</value>
-      </setting>
 
 
+
+explorer ms-actioncenter:
+explorer ms-advancedsettings:
+
+explorer ms-outlook:
+yy
+
+explorer ms-quick-assist:
+explorer ms-screenclip:
+explorer ms-stickereditor:
 
 
 
@@ -94,8 +103,14 @@ extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://alternativet
 
 
 
+
+
+
 https://mdzip.org/
 https://mdzip.org/
+
+
+
 
 
 
