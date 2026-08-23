@@ -56,3 +56,9 @@ extension://hnncfhodpmpjchmmcnimoimkcojdmfhl/delayed.html?1&https://discord.com/
 
 
 
+cp   "C:\Users\marti\OneCommander\Settings\OneCommanderV3.json"  44576milosp.OneCommander\Settings\OneCommanderV3.json
+
+        "TipUnityShow": "False",
+i dont remember changing this setting
+
+
