@@ -1,0 +1,131 @@
+Software License Agreement
+ 
+IMPORTANT - READ CAREFULLY: This License Agreement is a binding legal document between Tangible Loop LLC, a New York limited liability company ("Author"), and the individual or entity installing or using this software product ("Software"), herein referred to as the "Licensee." The Licensee includes any purchasers, users, or evaluators of the Software. By installing, using, or evaluating the Software, the Licensee accepts and agrees to be bound by all terms and conditions of this Agreement. This Agreement stipulates that the Licensee, whether acting in an individual capacity or on behalf of an employer or other entity in a professional capacity, is duly authorized to accept these terms. If the Licensee does not agree to these terms, they must remove and cease use of the Software immediately.
+Effective as of 2026-02-11, Tangible Loop LLC is the successor-in-interest to all rights, title, and interest in and to the Software previously owned by Milos Paripovic. All references in prior versions of this Agreement to Milos Paripovic shall be deemed to refer to Tangible Loop LLC. 
+
+License
+ 
+Under this Software License Agreement, the Author grants the Licensee a non-exclusive and non-transferable license to use this Software, subject to the terms herein.
+ 
+All right, title, and interest in and to the Software, including without limitation all copyrights and other intellectual property rights, are and shall remain exclusively with the Author. This Agreement constitutes a license for use only and does not transfer any ownership rights in the Software to the Licensee.
+
+The Licensee may not transfer or assign any of the rights or obligations granted under this Agreement to any other person or legal entity. The Licensee may not rent, lease, lend, sell, redistribute or sub-license this Software.
+ 
+Failure to comply with any of the terms under the License section will be considered a material breach of this Agreement.
+ 
+OneCommander offers two licensing options: a free Home license for personal and educational use, and a paid Professional (Pro) license for commercial use.
+ 
+Home (non-commercial) License Terms
+ 
+License Nature: The Home license of OneCommander is freely available for personal, educational, and non-profit organization use, and does not require a license key.
+Usage Definition: Personal use is defined as employing the Software on a personal computer to manage personal documents, photos, movies, music, and other files without the intention of commercial gain.
+Feature Limitation: The Home license version provides a limited feature set. Certain settings and features are not modifiable or are locked and labeled with "Pro" within the software settings.
+ 
+Professional (Pro) License Terms
+ 
+Commercial Requirement: Commercial use of the Software necessitates the purchase of a Pro license. This applies whether or not the additional features locked in the Home version are needed.
+Commercial Use Definition: Commercial use is defined as utilizing the Software in or for a business, directly or indirectly for financial gain, or on a company-owned device.
+Evaluation Period: In a commercial setting, the Licensee may download and use the Home licensed version for evaluation purposes for up to fourteen (14) days before the purchase of the Pro license is required.
+License Key: The Pro license is activated and enforced through a unique License Key, which unlocks additional program features and settings labeled with "Pro" in the software.
+License Key Protection: Pro license holders are required to exercise reasonable efforts to safeguard their license key to prevent its unauthorized disclosure or distribution. This includes securing the license key against unauthorized access and not sharing it publicly or with individuals not covered under the terms of the Pro license.
+ 
+Pro License Flexibility for Companies
+ 
+Multi-user Licenses: Companies can acquire multi-user Pro licenses, allowing any employee to use the Software provided the correct number of licenses has been purchased.
+Device Usage Flexibility: A Pro license is granted on a per-user basis, allowing a single licensed individual to install and use the Software on multiple devices, up to 10, as long as these devices are exclusively used by the licensed user. This setup ensures that even with multiple devices (e.g., office workstation, work laptop, virtual machine), only one license is required per user.
+License Reassignment: If an employee leaves the company, their license key may be reassigned to another employee.
+Minimum Purchase Requirement: Companies must purchase a minimum of three (3) Pro licenses.
+ 
+Duration and Updates for Pro Licenses
+ 
+Lifetime Use: Pro licenses are granted as lifetime licenses, permitting use without any time restrictions.
+Version and Updates Commitment: Upon purchasing a Pro license, Licensees gain access to the feature set of the Software as it stands at the time of purchase. The Author pledges to provide Licensees with access to any and all future "Pro" features developed for the Software at no additional cost. This commitment ensures that existing Pro license holders will benefit from enhancements and expansions to the Software's capabilities, should they be developed. However, the development of new features remains at the discretion of the Author.
+ 
+Intellectual Property Restrictions
+ 
+The Licensee shall not, and shall not attempt to reverse engineer, disassemble, or decompile this Software or alter or remove any proprietary rights or copyright notices or identifications of this Software. The Licensee shall not create any derivative works or other works that are based upon or derived from this Software in whole or in part. The Author retains sole and exclusive ownership and intellectual property rights to this Software. This Software is protected without limitation by US copyright law and international copyright treaty provisions. All rights not expressly granted hereunder are reserved for the Author.
+ 
+Third Party Components
+ 
+This Software incorporates various third-party components and libraries, many of which are open-source and governed by their respective open-source licenses. To ensure transparency and compliance, the specific licenses dictating the terms and conditions for the use of these third-party components are readily available within the "Licenses" folder of the Software.
+ 
+Limitation of Liability
+
+The Software is provided by the Author and accepted by the Licensee "as is" and without warranty of any kind, express or implied, including without limitation any implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+In no event shall the Author, its affiliates, members, managers, employees, contractors, or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, without limitation, procurement of substitute goods or services; loss of profits, revenue, data, or business interruption) arising out of or relating to the use of, misuse of, inability to use, or malfunction of the Software, however caused and under any theory of liability, whether in contract, tort (including negligence), strict liability, or otherwise, even if advised of the possibility of such damages.
+
+In no event shall the Author’s total cumulative liability arising out of or relating to this Agreement or the Software exceed the amount actually paid by the Licensee for the Software.
+
+The Author makes no warranty expressed or implied regarding the fitness of the software for a particular purpose or that the software will be suitable or appropriate for the specific requirements of the Licensee.
+
+The Author does not warrant that use of the software will be uninterrupted or error-free.
+ 
+Warrants and Representations
+
+To the Author’s knowledge, it has the right to license the Software under the terms of this Agreement.
+
+Acceptance
+ 
+All terms, conditions and obligations of this Agreement will be deemed to be accepted by the Licensee on installation or first run of the Software.
+Term
+ 
+The term of this Agreement will begin on Acceptance and is perpetual.
+ 
+Support
+ 
+Licensee recognizes the Author is not obligated to provide support for the Software
+ 
+Termination
+ 
+This Agreement will be terminated where the Licensee has failed to comply with any of the terms of this Agreement or is in breach of this Agreement. On termination of this Agreement for any reason, the Licensee will promptly uninstall and remove all the copies of the Software. The Licensee may terminate the license at any time by uninstalling or deleting the copies of the Software.
+Unauthorized distribution and sharing of license key immediately voids the license and results in forfeiture of all Licensee's rights to continue to use the Software. 
+ 
+Governing Law
+ 
+This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law principles. The parties agree that any legal action or proceeding arising under or relating to this Agreement shall be brought exclusively in the state or federal courts located in the State of New York, and the parties hereby consent to personal jurisdiction and venue therein. 
+
+Privacy and Data Handling Practices
+
+Data Transmission and Storage: 
+The Software is designed to respect user privacy and is not intended to transmit users' personal data externally.
+For its core file-management functionality, the Software may locally cache data, such as folder sizes, thumbnails of files, file paths, and operation logs. This cached data is stored locally on the user's computer and is not transmitted to any external servers.
+User credentials are not collected, stored, or handled by the Software. User Account Control (UAC) prompts and other authentication processes are managed directly by Windows, maintaining the security of user credentials.
+ 
+Software Updates: 
+To keep the Software up-to-date, it automatically checks for new versions at each startup by downloading a 10-byte file from OneCommander.com that contains the latest version number. No data being transmitted.
+ 
+License Activation, Error Reporting and Application Insights: 
+The initial activation of the Software's license key involves logging the key via Microsoft's Application Insights to verify its validity.
+In the pursuit of continuous improvement, the Software may collect crash reports, including stack traces (error message and line numbers where the crash originated) and related diagnostics. This collection is done with the utmost care to exclude personally identifiable information (PII), ensuring that data is sanitized before submission. Application Insights aggregates information such as the most popular theme, layout, font, and similar, so the default options can be updated for new installations. For company licenses, Application Insights and crash logging is disabled by default.
+ 
+External Links and Analytics: 
+Users have the option to access help and other resources through links within the Software. These links open in the user's default web browser and may lead to webpages that utilize Google Analytics for standard visitor logging. However, this data collection is managed by the destination webpages and is not accessible by the Software or any third parties through it.
+ 
+Handling of Personal Information
+ 
+License Purchase Process:
+When purchasing a license, the user's name and email address are required to generate and deliver the license key. This key is auto-generated and sent directly to the provided email address for immediate use. None of this data is shared or sold with any third party.
+To ensure the possibility of license key recovery, a copy of the license key email is securely stored within the Author's email system (Google Workspace). This measure is purely for the purpose of facilitating key recovery by the Licensee upon request.
+Financial transactions for the license purchase are processed exclusively through established payment providers (Stripe or PayPal). The Author does not access, handle, or store any credit card information. The security and privacy of payment information are governed by the respective payment provider's privacy policy, ensuring financial data's protection.
+
+Severability
+
+If any provision of this Agreement is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+ 
+Miscellaneous
+ 
+This Agreement does not create or imply any relationship in agency or partnership between the Author and the Licensee.
+Headings are inserted for the convenience of the parties only and are not to be considered when interpreting this Agreement.
+Words in the singular can also include the plural forms and vice versa.
+ 
+It is the responsibility of the Licensee to ensure that the terms and conditions of this Agreement are in compliance with all local, state, national, and international laws and regulations applicable to the Licensee. By accepting this Agreement, the Licensee acknowledges this responsibility and, to the extent permitted by law, expressly waives any rights that may conflict with the terms of this Agreement.
+ 
+This Agreement contains the entire agreement between the parties. No oral or written statement or advice provided by the Author, distributors, agents or employees shall create a warranty or in any way increase the scope of this warranty.
+ 
+Changes
+ 
+The Author reserves the right to modify or replace these terms and conditions at any time. If a revision is material the notice will be communicated through the feature-update dialogs for at least two Software updates. What constitutes a material change will be determined at Author's sole discretion.
+By continuing to access or use this Software after those revisions become effective, Licensee agree to be bound by the revised terms.
+ 
+For any questions concerning this License Agreement, or if you desire to contact Author for any reason, please write to support@onecommander.com
