@@ -56,12 +56,12 @@ asi už prohlédl 011-POMOC-pro-Martina-Milana.publ.md,
 jak to spojit s [[0119-potreboval-bych-pomoc.publ.md]]
 
 
+# https://gemini.google.com/saved-info
 
 prosím zapamatuj si, že
 - moje jméno je Ljuba
 - můj syn se jmenuje Milan
 
-https://gemini.google.com/saved-info
 
 
 🎵 A protože jste zmínila svého syna Milana, hned se mi vybavila krásná a dojemná píseň od skupiny ABBA – „Slipping Through My Fingers“. Je to nádherná písnička, která emotivně popisuje pouto k dítěti a to, jak ten společný čas neskutečně rychle letí.

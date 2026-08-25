@@ -201,16 +201,21 @@ https://docs.google.com/document/d/1CPIi7EzG6Mp8K7pv17CKiP_oM6CFIGFYGfrW2OX--J0/
 
 Diktováno přes Martin a. 
 
-## yyyy?? v případě budoucích problémů  možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, 
+
+# a yyyy?? v případě budoucích problémů  možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, 
 
 
-# yyyy https://gemini.google.com/saved-info
+yyyy find in files saved-info
+# rrr aaa yyyy https://gemini.google.com/saved-info
 
 https://myaccount.google.com/language?continue=https%3A%2F%2Fmyaccount.google.com%2F%3Fhl%3Den%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzBd&hl=en&utm_source=OGB&utm_medium=act&gar=WzBd
 
 https://chatgpt.com/c/69c0903c-34a0-838b-9672-44b5e5974b7f#settings
 
 Chci komunikovat v češtině.
+
+aa rrr yyy
+Dlouhé odstavce naformátuj pomocí odrážek.
 
 Piš mi vždy v češtině.
 Moje jméno je Jirka. Můj syn se jmenuje Milan.
@@ -229,7 +234,7 @@ Mluvím vždy v češtině.
  zpěvník já písnička music singing
 píseň Tumša nakte 🎵 
 
-yyyy hippocampus breaks
+rrr aa yyyy hippocampus breaks
 I need reminders after each message to take small breaks, hum something, or review my topic 0112.
 
 after every response

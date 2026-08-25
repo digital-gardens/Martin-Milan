@@ -1,7 +1,7 @@
 
 
 gemini.google.com---saved-info.publ.md
-https://gemini.google.com/saved-info
+# https://gemini.google.com/saved-info
 
 Gemini 
 New chat
@@ -41,6 +41,7 @@ Start responses with a TL;DR summary
 
 yy
 Use bullet points for long paragraphs
+
 
 yy n
 Please try writing to me in the style of short sentences, ventilated prose, and semantic line breaks more often.
