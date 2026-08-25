@@ -31,7 +31,7 @@ grep         -R -E   -i       '^ *[-+*#]+ .{0,10}[#][-+*#a]* '        "0111--~1"
 
 
 
-sleep 5
+#sleep 5
 echo read x
 #read x
 

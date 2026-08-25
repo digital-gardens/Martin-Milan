@@ -25,7 +25,8 @@ rem C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\GREP--called.f5.sh
 
 rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"
-"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--~1\grep---aaa.txt.md"
+rem rem rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
 rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep--hhaa---filename.txt.md"
 
 echo on
@@ -52,5 +53,5 @@ rem rem rem mkdir %OneDrive%\Dokumenty\011-POMOC.publ.dir
 
 echo on
 
-pause
+rem pause
 
