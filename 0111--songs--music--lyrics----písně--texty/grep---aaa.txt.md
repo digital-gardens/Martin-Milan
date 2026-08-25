@@ -1,3 +1,13 @@
+- ℹ️ #aaa yyy Každé ráno probouzí mně sluncem hořícím  
+- ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí  
+- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
+- ℹ️ #aaa yyyŘíkají, že paní má se má,  
+- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
+- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
+- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
+- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
+- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
+### [Můj Čas - song and lyrics by Hana Zagorová, Stanislav...](https://open.spotify.com/track/5vvr1U2dzXJju34vRRURVD)
 - #### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...
 - # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
 - ##### #aaa Na kolejích stála, za uchem květ, vlasy trávou zavázaný, s kytarou na zádech, strun už jen pět, hezký oči uplakaný. ...
@@ -14,10 +24,6 @@
 - # And I try, oh my god do I try
 -  - #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851
 -  [Do You Want to Know a Secret](https://www.karaoketexty.cz/texty-pisni/beatles-the/do-you-want-to-know-a-secret-3246) 8 458
-- ℹ️ #aaa yyy Každé ráno probouzí mně sluncem hořícím  
-- ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí  
-- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
-- ℹ️ #aaa yyyŘíkají, že paní má se má,  
 -  \*C\*, 145 bpm 1. Mám ploché nohy po tetě A fantazii po svém strýci Už dlouho šlapu po světě A nevím, co mám o něm ...
 - Dnes je **neděle, 16.srpna.2026**
 -  [ABBA (48)](https://www.yousongs.cz/interpret/600-ABBA.aspx?utm_source=&utm_medium=&utm_campaign=) 
@@ -37,11 +43,6 @@
 - **Date:** 7/26/2024
 - **URL:** https://nesslabs.com/glasp-featured-tool
 - # stál jsem a hleděl jsem, hleděl jsem nahoru,
-- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
-- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
-- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
-- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
-- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
 -  Bmp 97 Capo D-0 C-2 G-7 1. Déšť ti, holka, smáčel vlasy, smáčel vlasy z tvých očí zbyl prázdnej kruh, kde je ...
 - Dnes je **neděle, 16.srpna.2026**
 - #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...

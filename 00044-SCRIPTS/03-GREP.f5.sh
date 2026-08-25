@@ -1,6 +1,10 @@
 #ls
 #sleep 5
 
+
+# will be scheduled to run in the foreground, so that the output can be seen in the terminal window
+
+
 echo -- grep --version
 
 #grep --help

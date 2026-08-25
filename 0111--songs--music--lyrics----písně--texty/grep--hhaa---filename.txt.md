@@ -1,3 +1,12 @@
+- 0111--~1/007 Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa yyy Každé ráno probouzí mně sluncem hořícím  
+- 0111--~1/007 Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí  
+- 0111--~1/007 Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
+- 0111--~1/007 Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa yyyŘíkají, že paní má se má,  
+- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
+- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
+- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
+- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
+- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
 - 0111--~1/2 YouSongs.cz.md:- #### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...
 - 0111--~1/2 YouSongs.cz.md:- # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
 - 0111--~1/2 YouSongs.cz.md:- ##### #aaa Na kolejích stála, za uchem květ, vlasy trávou zavázaný, s kytarou na zádech, strun už jen pět, hezký oči uplakaný. ...
@@ -14,10 +23,6 @@
 - 0111--~1/4-MISC/4 Non Blondes - What's Up text a akordy na YouSongs.cz.md:- # And I try, oh my god do I try
 - 0111--~1/Beatles,The/0004 ---- The Beatles texty.md:- ###### - #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851
 - 0111--~1/Beatles,The/0004 ---- The Beatles texty.md:- ###### [Do You Want to Know a Secret](https://www.karaoketexty.cz/texty-pisni/beatles-the/do-you-want-to-know-a-secret-3246) 8 458
-- 0111--~1/Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa yyy Každé ráno probouzí mně sluncem hořícím  
-- 0111--~1/Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí  
-- 0111--~1/Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
-- 0111--~1/Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa yyyŘíkají, že paní má se má,  
 - 0111--~1/Filmová hudba CZ/Filmová hudba CZ - seznam skladeb s texty a akordy na YouSongs.cz.md:- ###### \*C\*, 145 bpm 1. Mám ploché nohy po tetě A fantazii po svém strýci Už dlouho šlapu po světě A nevím, co mám o něm ...
 - 0111--~1/Interpreti začínající na A/Interpreti začínající na A - seznam interpretů na YouSongs.cz.md:- ###### [ABBA (48)](https://www.yousongs.cz/interpret/600-ABBA.aspx?utm_source=&utm_medium=&utm_campaign=) 
 - 0111--~1/Kirschner Jana/Kirschner Jana - seznam skladeb s texty a akordy na YouSongs.cz.md:- ###### /: :/ Mám pěknou sirku v zubech, krempu do čela a bota zpuchřelá mi vrásky nedělá. Jen tou svou sirkou ...
@@ -28,11 +33,6 @@
 - 0111--~1/Nohavica Jaromír/0004 ---- Nohavica Jaromír - seznam skladeb s texty a akordy na YouSongs.cz.md:- ###### Až obuju si rano černe papirove boty, až i moja stara pochopi že nejdu do roboty, až vyjde dluhy pruvod smutečnich ...
 - 0111--~1/Nohavica Jaromír/0004 ---- Nohavica Jaromír - seznam skladeb s texty a akordy na YouSongs.cz.md:- ######  První    Předchozí  **1** - [2](https://www.yousongs.cz/interpret/18-Nohavica-Jaromir.aspx?utm_source=&utm_medium=&utm_campaign=&Page=2) 
 - 0111--~1/Nohavica Jaromír/650714-Nohavica-Kometa--information-immortality.f8.md:- # stál jsem a hleděl jsem, hleděl jsem nahoru,
-- 0111--~1/píseň můj čas texty.md:- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
-- 0111--~1/píseň můj čas texty.md:- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
-- 0111--~1/píseň můj čas texty.md:- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
-- 0111--~1/píseň můj čas texty.md:- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
-- 0111--~1/píseň můj čas texty.md:- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
 - 0111--~1/Trampské písně/Trampské písně - seznam skladeb s texty a akordy na YouSongs.cz.md:- ###### Bmp 97 Capo D-0 C-2 G-7 1. Déšť ti, holka, smáčel vlasy, smáčel vlasy z tvých očí zbyl prázdnej kruh, kde je ...
 - 0111--~1/YouSongs.cz.md:- #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
 - 0111--~1/YouSongs.cz.md:- ℹ️ #aaaa #zpívám  capo2 Na dlani jednu z tvých řas, do tmy se koukám, hraju si písničky tvý, co jsem ti psal, je skoro půlnoc a z ...
