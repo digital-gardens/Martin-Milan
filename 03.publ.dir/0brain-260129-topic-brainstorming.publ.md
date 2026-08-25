@@ -72,16 +72,28 @@ code   "C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\02-topic-brainstorm
 
 
 
+
+
+
+
+
+
+
+
 #  markdown table of contents is at the end of the file
 - old [[251105-symptom-tracker.f8]]
 - 7 lines header - fail 
+
+
 
 *.publ.*,*.ps1,*.cmd,*.sh,*.py,*.js,*.ahk,*.au3,*.f[0-9].*,*.f1[0-9].*
 
 
 
 
-314 scan from the end backwards 
+
+
+aaaa 314 scan from the end backwards 
 # 13V etc. , zbyva 5 chatuu 
 # jvb https://myaccount.google.com/security-checkup/1
 
@@ -95,6 +107,7 @@ code   "C:\Users\marti\OneDrive\Dokumenty\011-POMOC.publ.dir\02-topic-brainstorm
 importance: ℹ️ℹ️ℹ️
 attention: aaaa
 urgency:  rrrr️
+
 
 
 # téma 011-POMOC 💚 💚 
@@ -116,10 +129,7 @@ proskenil, prelil radky tohoto 1..700
 
 
 
-
-
-
-# konečně se mi daří něco psát
+# konečně se mi daří něco psát yy
 po 3, 
 po 7 hodinách spánku,
 10 hodin po léku mirtazapin,
@@ -131,8 +141,10 @@ po 7 hodinách spánku,
 btw -- oni píšou souvislé texty , 
 
 
+
 # jenže,   objev?  26031-24  ?! ...   co když bojí týdny vrátit se k tématu xyz, jako já 
 # old jenže,   objev?  26031-23  ?! ...   co když prostě jen podvědomě chtějí, abych ocenil jejich práci, tvorbu, činnost   ?!
+
 
 
 # ZADÁVÁNÍ TEXTU HLASEM 
@@ -141,11 +153,7 @@ https://keep.google.com/#NOTE/1n5Ew-5bzvYuP3LWpnkzsg1ggEJjdGErEw8uBXAtQa9rjJHS7f
 kopie z keep do docs 
 https://docs.google.com/document/d/1gUUuJ9McRrdcZsqKvgDW4o6NnMP8qYNtwJqVbGtp3xg/edit?tab=t.0
 
-
 # fixed bug trochu neslušné? texty v # Musím si připravit obranu ...  dolovat. # 251022 
-
- 
-
 
 # https://myaccount.google.com/language
 objev 26031-22
@@ -154,13 +162,12 @@ mobile
 web 
 
 
-
-
 # word online a zadávání hlasem
 home..dictate
   transcribe
 260323 251217 251022 Diktování dokumentů ve Wordu  
 https://onedrive.live.com/personal/4b12298d932a2860/_layouts/15/Doc.aspx?resid=4B12298D932A2860!s38532af3f43e465e803d40a44beb3499&cid=4b12298d932a2860&migratedtospo=true&app=Word
+
 
 # word 251217 problem ..  diktování je  jen Engl ve wordu 
 nepomohlo nastavit celý dokument na Czech
@@ -168,11 +175,13 @@ nepomohlo nastavit celý dokument na Czech
 251022 Diktování dokumentů ve Wordu.docx
 	no permission to rename 
 
+
 ## ?? v případě budoucích problémů typu 251217 .. a co kdybych nastavil češtinu v microsoftu ?! v edge? zeptat ai?
+
 
 ## 260323 Pokus zadávání textu hlasem. To je zajímavý. Teď ta čeština funguje. 
 
-Drobná chybka místo slova žádná. On mi píše 0. 
+Drobná chybka.. místo slova žádná. On mi píše 0. 
 
 Vůbec 0 nastavení jsem ještě neměnil. 0. 0 není 0. Není 0. 0. Místo slova 0. On mi pořád píše 0. 0,7. Ani 1 nastavení jsem ještě neměnil a zadávání češtiny funguje. 
 
@@ -180,10 +189,8 @@ Vůbec 0 nastavení jsem ještě neměnil. 0. 0 není 0. Není 0. 0. Místo slov
 
 251022 Umí některé příkazy jako například. Nový Řádek.  
 
- 
 
-
-# google docs má ....V malém okénku Voice typing.. v menu se dá nastavit jazyk čeština. .......# google docs ..tools .. voice typing ctrl Shift s v google docs
+# yyyy google docs má ....V malém okénku Voice typing.. v menu se dá nastavit jazyk čeština. .......# google docs ..tools .. voice typing ctrl Shift s v google docs
 
 https://docs.google.com/document/d/1CPIi7EzG6Mp8K7pv17CKiP_oM6CFIGFYGfrW2OX--J0/edit?tab=t.0
    Pokus 251217 251022 zadávání českého textu do prohlížeče Google Chrome a do dokumentů Google - Google Docs
@@ -194,24 +201,24 @@ https://docs.google.com/document/d/1CPIi7EzG6Mp8K7pv17CKiP_oM6CFIGFYGfrW2OX--J0/
 
 Diktováno přes Martin a. 
 
-## ?? v případě budoucích problémů  možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, 
+## yyyy?? v případě budoucích problémů  možná zkusit zadávání přes JVB českého textu hlasem, protože on má nastavenou češtinu, a já mám nastavenou angličtinu, 
 
 
-
-# https://gemini.google.com/saved-info
+# yyyy https://gemini.google.com/saved-info
 
 https://myaccount.google.com/language?continue=https%3A%2F%2Fmyaccount.google.com%2F%3Fhl%3Den%26utm_source%3DOGB%26utm_medium%3Dact%26gar%3DWzBd&hl=en&utm_source=OGB&utm_medium=act&gar=WzBd
 
-
 https://chatgpt.com/c/69c0903c-34a0-838b-9672-44b5e5974b7f#settings
-
-
 
 Chci komunikovat v češtině.
 
 Piš mi vždy v češtině.
 Moje jméno je Jirka. Můj syn se jmenuje Milan.
 Moje telefonní číslo je 608935899.
+
+todo 155 
+608 86 90 45
+
 Vždy prosím mluvte na mne v češtině.
 
 Mluvím vždy v češtině.
@@ -222,7 +229,7 @@ Mluvím vždy v češtině.
  zpěvník já písnička music singing
 píseň Tumša nakte 🎵 
 
-
+yyyy hippocampus breaks
 I need reminders after each message to take small breaks, hum something, or review my topic 0112.
 
 after every response
@@ -262,9 +269,10 @@ C:\Users\marti\OneDrive\Dokumenty\04plan.publ.dir\0112-belly-peristaltika-obnovi
 
 
 # 260225 scanning this file from line 1 
-split right
-# key combo alt+left
+# yyy split right
+# yy key combo alt+left
  key combo alt+right
+# win+left
 
 
 
@@ -346,12 +354,15 @@ V aplikaci George nebo v internetovém bankovnictví (george.csas.cz) máte dvě
 > pak george chatbot pochopil
 
 
-# [[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
+
+# yy [[260207.publ.md.vscode-workspace---enable-all-markdown-extensions.publ.md]]
 //// file:///C:\Users\marti\OneDrive\Dokumenty\260207-vscode-markdown-toc-bug-hell.publ.md
 //// defensive-260207-Dokumenty.code-workspace
 260207-enable-all-markdown-extensions.code-workspace
 
 https://github.com/digital-gardens/Martin-Milan/commits/main/
+
+
 
 # https://github.com/digital-gardens/Martin-Milan/blob/main/251008-vscode-paste-bug.f8.md
 if settings.json has to be changed
@@ -424,7 +435,7 @@ onedrive
 
 
 
-# 260209 do 28 navstivit csob a pozmenit trvalých příkazů , a popr jednorazovy prikaz 
+# yyyy 260209 do 28 navstivit csob a pozmenit trvalých příkazů , a popr jednorazovy prikaz 
 # 260209 sledovat klesání zůstatku na účtu  csas  
 lze z mailu platba kartou 
 potvrzujeme platbu kartou  0012 ve výši  729,89 Kč ze dne 4. 7. 2025 u MCPENSHOP.CZ.
@@ -460,6 +471,14 @@ VS:5484500198 KS:1620
 Vytvořte si potvrzení o vedení účtu, zůstatku na účtu, majiteli nebo disponentovi. Můžete si vygenerovat i seznam všech trvalých pokynů, které máte na účtu nastavené – trvalých příkazů, SIPO a inkas.
 ```
 
+
+
+
+
+
+
+
+
 # userscript or chrome extension to autosave the webpage 
 e.g.  the content of the Google Gemini web app, to prevent data loss due to bugs or issues in the web app, and to allow users to have a backup of their titles and pins 
 
@@ -470,7 +489,7 @@ e.g.  the content of the Google Gemini web app, to prevent data loss due to bugs
 
 https://voyager.nagi.fun/en/guide/cloud-sync.html
 edge://extensions/?id=gibmkggjijalcjinbdhcpklodjkhhlne
-bug select all in the google gemini web app and copy with ctrl c doesnt work for the titles of conversations, but it works for the content of the conversations.
+#bug select all in the google gemini web app and copy with ctrl c doesnt work for the titles of conversations, but it works for the content of the conversations.
 
 [[260101-0801 idea-wall.publ.md]]
 #   260101-0801 photos  paměťová pomůcka na dveřích skříně ... memory aid on the cabinet door ... 24br ai Dr Tesař - Google Photos
@@ -1126,6 +1145,8 @@ do you know my name,
 please remember
 - my real first name is Milan
 - my internet pseudonym is Martin
+
+
 
 
 

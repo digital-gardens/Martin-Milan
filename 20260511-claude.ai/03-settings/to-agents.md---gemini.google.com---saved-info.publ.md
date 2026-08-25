@@ -38,10 +38,14 @@ Customize how Gemini responds to you by giving it instructions. Learn more
 
 Examples:
 Start responses with a TL;DR summary
+
+yy
 Use bullet points for long paragraphs
 
-
+yy n
 Please try writing to me in the style of short sentences, ventilated prose, and semantic line breaks more often.
+
+
 After each message, try to add a related emoji or two.
 After each message, try to mention a related Beatles song, or a related Czech song.
 My real first name is Milan and my internet pseudonym is Martin.
