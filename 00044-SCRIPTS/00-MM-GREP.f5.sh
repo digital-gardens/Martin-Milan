@@ -27,10 +27,11 @@ rb='^ *[-+*#]*[=]{3,4}[^=]' ;
 rb='^ *[-+*#]*[=]{3,4}[^ =]'
 rb='^ *[-+*#]*[=]{3,}[^ ]'
 rb='^ *[-+*#]*[=]{3,}\w'
+rb='^ *[-+*#]*[=]{5,}\w'
 
 re='[#]a{5}[^a]'
 
-grep -R -E   -i  -m 1     $opf        "$rb"    .   >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"
+grep -R -E   -i  -m 1     $opf        "$ra|$rb"    .   >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"
 
 head -n 600   "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY${opf}---grep---hhaaaaa.txt.md"
 
