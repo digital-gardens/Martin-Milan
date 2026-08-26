@@ -15,6 +15,9 @@ cd  "C:\Users\marti\OneDrive\Dokumenty"
 
 ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
 
+opf="--no-filename"
+opf="--with-filename"
+
 ra='^ *[-+*#]+ .{0,10}[#]{1,1}[^#]'
 ra='^ *[-+*#]+ [#]{1,1}[^#]'
 ra='^ *[-+*#] [#]{1,1}[^#]'
@@ -25,5 +28,5 @@ re='[#]a{5}[^a]'
 
 grep -R -E   -i  -m 1     --no-filename        "$ra"    "C:\Users\marti\OneDrive\Dokumenty\00-MM"  >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"
 
-head -n 600   "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"
+head -n 600   "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY${opf}---grep---hhaaaaa.txt.md"
 
