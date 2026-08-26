@@ -16,13 +16,13 @@ bash
 
 # grep how to stop after first match in file?  ...  use the -m option, for example:  grep -m 1 "pattern" file.txt
 
-re='[#]a{6}|^ *[-+*#]*[=]{3,4}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'  
 6   3 4  2 2
 7  4 4 2 2 
 8 5 5 2 2
  --no-filename 
 yy
-grep -R -E   -i  -m 1  "$re"    "C:\Users\marti\OneDrive\Dokumenty\00-MM"  >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"         ;   cp  "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"  
+
+re='[#]a{6}|^ *[-+*#]*[=]{3,4}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'  ; grep -R -E   -i  -m 1  "$re"    "C:\Users\marti\OneDrive\Dokumenty\00-MM"  >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"         ;   cp  "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"  
  |wc
 
 "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"
