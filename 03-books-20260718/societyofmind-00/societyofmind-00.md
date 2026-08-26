@@ -27,7 +27,7 @@ and I searched a bit around, and I found a copy at Github
 
 and I decided to read the entire book by Marvin Minsky
 
-and annotate paragraphs with #aa, #aaa, #aaaa ....
+and annotate paragraphs with #aa, #aaa, #aaaaa ....
 
 but then I got distracted by other things
 ---

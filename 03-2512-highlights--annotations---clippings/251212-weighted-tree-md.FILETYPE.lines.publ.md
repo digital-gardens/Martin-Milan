@@ -104,7 +104,7 @@ fail  #️⃣#️⃣#️⃣
 * * * 26041   aaaa ii m nn qq rr yy !! ?? *** 
 
 
-- .aa \aa aaa ℹ️ℹ️ℹ️   #️⃣aa  #aaaaii #aaaaℹ️ℹ️  [Jméno] ZACHRANKA Konzultační Centrum [Mobil] 800 888 155
+- .aa \aa aaa ℹ️ℹ️ℹ️   #️⃣aa  #aaaaii #aaaaaa  ℹ️ℹ️  [Jméno] ZACHRANKA Konzultační Centrum [Mobil] 800 888 155
   - Jen info ...Málokdo o něm ví. Číslo na konzultační centrum záchranky je těžké dohledat https://www.idnes.cz/praha/zpravy/tisnova-linka-pomoc-zdravotnik-pohotovost-zachranna-sluzba.A250115_091555_praha-zpravy_idh
 
 

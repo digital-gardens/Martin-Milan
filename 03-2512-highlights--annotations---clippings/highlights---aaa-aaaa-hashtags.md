@@ -20,6 +20,7 @@ aaa-aaaa-hashtags.md
 
 // #n #bug #warning .. an AI initially guessed the opposite order of importance
 // why???
+// because markdown headings? 
 // because my //// is less important than my ///, and my /// is less important than my // ???
 // because AAA batteries????
 

@@ -24,10 +24,10 @@ csob-čsob-a-JB-daně-20260614
 
 
 # mám takovou neurózu, že
-// píseň ... trochu .. němožem dýchať a celé noci .. #aaaa
+// píseň ... trochu .. němožem dýchať a celé noci .. #aaaaa
 
 
-- ℹ️ #aaaa yyyy //// písně pomáhají dýchat
+- # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat
 
 
 # #aaa objev
