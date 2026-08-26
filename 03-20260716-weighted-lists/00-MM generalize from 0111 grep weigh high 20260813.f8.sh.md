@@ -22,7 +22,7 @@ bash
 "$re$rb$ra" 
  --no-filename 
 yy
-re='[#]a{6}'  ; rb='|^ *[-+*#]*[=]{3,4}[^=]' ;  ra='|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'  ; grep -R -E   -i  -m 1  "$re$rb"    "C:\Users\marti\OneDrive\Dokumenty\00-MM"  >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"         ;   head -n 60   "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"  
+re='[#]a{6}'  ; rb='|^ *[-+*#]*[=]{3,4}[^=]' ;  ra='|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'  ; grep -R -E   -i  -m 1  "$re$rb$ra"    "C:\Users\marti\OneDrive\Dokumenty\00-MM"  >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"         ;   head -n 60   "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"  
 
 
  |wc
