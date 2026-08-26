@@ -98,7 +98,7 @@ aaa Completing these steps will add Claude in Chrome to the “Connectors” dro
 
 ### Record a workflow
 
-aaaaaa     Teach Claude a workflow by recording the steps yourself, and Claude learns to repeat them. This is useful for repetitive browser tasks that follow the same pattern each time. To record a workflow:
+#aaaaa     Teach Claude a workflow by recording the steps yourself, and Claude learns to repeat them. This is useful for repetitive browser tasks that follow the same pattern each time. To record a workflow:
 
 1. Click the record icon in the extension panel.
 2. Perform the steps you want Claude to learn.

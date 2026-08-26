@@ -138,7 +138,7 @@ odmazat zavinace emaily adresy
 
 
 
-# #aaaaa  herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří
+- # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
 ## mám fotku rozhovoru v google photos
 https://gemini.google.com/app/8f63cf3ae5ecf6dc
 

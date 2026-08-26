@@ -41,12 +41,11 @@ EDIT: only then I realized, I should have probably simply do a reset of UEFI set
 
 
 
-aaaaa
 ****.*
 
 HORROR
 
-code .\powershell-f8\stackoverflow-676714165--powershell-stripping-double-quotes-from-command-line-arguments.f8.ps1
+code .\powershell-f8\stackoverflow-676714165--powershell-stripping-double-quotes-from-command-line-arguments.f8.ps1   #aaaaa
 
 
 

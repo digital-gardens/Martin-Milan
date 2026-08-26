@@ -855,7 +855,7 @@ javascript.js.f8.md.md1
 
 
 
-aaaaA   f8   C:\Users\marti\OneDrive\autohotkey-ahk-219\experim-250505.f5.ahk
+#aaaa   f8   file:///C:\Users\marti\OneDrive\autohotkey-ahk-219\experim-250505.f5.ahk
 
 file:///C:\Users\marti\OneDrive\edge-f12-devtools-override\snippet%3A\myScript-snippet1.f5.f8.js
 
@@ -871,7 +871,7 @@ AutoHotkey.exe [Switches] [Script Filename] [Script Parameters]
 # https://www.autohotkey.com/docs/v1/Scripts.htm#debug
 Commands such as ListVars and Pause can help you debug a script. For example, the following two lines, when temporarily inserted at carefully chosen positions, create "break points" in the script:
 
-aaaa The following commands are also useful for debugging: ListLines, KeyHistory, and OutputDebug.
+#aaaa The following commands are also useful for debugging: ListLines, KeyHistory, and OutputDebug.
 
 Some common errors, such as typos and missing "global" declarations, can be detected by enabling warnings.
 

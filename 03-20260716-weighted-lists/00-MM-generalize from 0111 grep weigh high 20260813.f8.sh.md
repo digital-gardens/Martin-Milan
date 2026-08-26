@@ -17,6 +17,11 @@ bash
 
 # grep how to stop after first match in file?  ...  use the -m option, for example:  grep -m 1 "pattern" file.txt
 
+
+# #aaaaa yyyy an alternative ...  vscode .. find in files  ..   ^ *a{4}[^a]
+^ *a{4}[^a]
+[#]a{5}[^a]
+
 5 3 4 1 1
 6   3 4  2 2
 7  4 4 2 2 

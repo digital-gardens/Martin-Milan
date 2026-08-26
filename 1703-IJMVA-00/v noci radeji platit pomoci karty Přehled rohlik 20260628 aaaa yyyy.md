@@ -10,7 +10,7 @@ tags:
   - "clippings"
 ---
 
-aaaa yyyy  v noci radeji platit pomoci karty
+#aaaa yyyy  v noci radeji platit pomoci karty
 
 
 0043

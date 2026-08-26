@@ -833,11 +833,7 @@ if ($z -lt 1.00) {
 
 
 ???
-# windows problem .. output to console takes window focus or window activation?
-
-
-aaaaaaaaaaaaaaaaaaaaa
-no probably not
+# windows problem .. output to console takes window focus or window activation? #aaaaa no probably not
 
 cmd.exe echo to console takes window focus or window activation site:stackoverflow.com
 https://www.google.com/search?q=windows+problem+..+output+to+console+takes+window+focus+or+window+activation&oq=windows+problem+..+output+to+console+takes+window+focus+or+window+activation&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQ6wcYQNIBCTQyODg4ajBqNKgCALACAA&sourceid=chrome&ie=UTF-8

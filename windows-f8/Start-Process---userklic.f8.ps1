@@ -72,7 +72,7 @@ Start-Process "conhost.exe"   -Credential $credential   -WorkingDirectory C:\Use
 #  -ArgumentList "/C",set   -RedirectStandardOutput "c:\Users\public\$username.env.OVERWRITE.txt"
 
 whoami /all|clip
-aaaa MicrosoftAccount\tech.la.bo.....zavinac User
+#aaaa MicrosoftAccount\tech.la.bo.....zavinac User
 
 #y 20260712 techl ok yyy
 

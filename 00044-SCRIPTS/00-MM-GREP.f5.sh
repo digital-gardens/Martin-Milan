@@ -1,4 +1,6 @@
 
+
+
 # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh
 
 
@@ -11,6 +13,8 @@ cd  "C:\Users\marti\OneDrive\Dokumenty\00-MM"
 
 # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\
 # filename.. 00-MM-generalize from 0111 grep weigh high 20260813.f8.sh.md
+# an alternative ...  vscode .. find in files  ..   ^ *a{4}[^a]  ... #aaaaa
+
 
 #w w
 

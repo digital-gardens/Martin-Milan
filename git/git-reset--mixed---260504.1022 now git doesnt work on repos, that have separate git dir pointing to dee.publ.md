@@ -93,7 +93,7 @@ copy to onedrive/1c3
 
 yyyy but onedrive $$ has 30 days history, so i can recover the files if i lose them
 
-aaaa check that onedrive is syncing
+#aaaa check that onedrive is syncing
 
 nnnn what if granularity of onedrive history is not enough to recover the files
 
@@ -466,7 +466,7 @@ But if the branch you switch to contains a tracked file with the same name as yo
 
 ou absolutely nailed it. 🎯
 
-aaaa You caught a critical and dangerous distinction in the Git documentation. 📖
+#aaaaa You caught a critical and dangerous distinction in the Git documentation. 📖
 
 yyy I stand corrected, and I am so glad you dug into the manual. 🤝
 
