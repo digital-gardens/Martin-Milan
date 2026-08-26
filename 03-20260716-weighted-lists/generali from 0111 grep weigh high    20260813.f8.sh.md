@@ -1,7 +1,7 @@
 
 
 
-generalize from 0111 weigh high 20260813.md
+generalize from 0111 grep weigh high 20260813.f8.sh.md
 
 
 
@@ -72,6 +72,7 @@ C:\Users\marti\OneDrive\Dokumenty/03-dok-Clippings--web-highlights/==author Hari
 7  4 4 2 2 
 8 5 5 2 2
 -l
+# warning writes one of read-ed files  ..does it matter?  
 grep -R -E   -i  -I    --count   '[#]a{8}|^ *[-+*#]*[=]{5,5}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'      "C:\Users\marti\OneDrive\Dokumenty"   | grep -v '[:]0$' >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
 
 ls -l 
@@ -81,9 +82,15 @@ cmd
 
 history -a 
 
+# -----------------------------------------------------------------------------
+
+
+# -----------------------------------------------------------------------------
 - # stál jsem a hleděl jsem, hleděl jsem nahoru,
 
+MOVING TO NEW FILE 00-MM 
 
+# warning writes one of read-ed files  ..does it matter? should i write to doku for safety?  
  '[#]a{7}|^ *={4}[^=]' 
 ^ *={4}[^=]
 yyyy

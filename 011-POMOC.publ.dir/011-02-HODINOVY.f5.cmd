@@ -23,6 +23,7 @@ rem ? run task as soon as possible after a scheduled start is missed ??
 "C:\Program Files\Git\bin\bash.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"
 rem C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\GREP--called.f5.sh
 
+rem "C:\Progra~1\Microsoft\Edge\Application\msedge.exe"
 rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"
 "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--~1\grep---aaa.txt.md"
