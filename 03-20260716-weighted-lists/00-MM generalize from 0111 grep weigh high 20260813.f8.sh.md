@@ -20,17 +20,18 @@ bash
 7  4 4 2 2 
 8 5 5 2 2
 "$re|$rb|$ra" 
- 
+ |$rb
+
 ra='^ *[-+*#]+ .{0,10}[#]{1,1}[^#]'
 ra='^ *[-+*#]+ [#]{1,1}[^#]'
 # 00-MM.md .. #yy head fixed  bug 100MB
 yy
-re='[#]a{5}[^a]'  ; rb='^ *[-+*#]*[=]{3,4}[^=]' ;       ra='^ *[-+*#]+ [#]{1,1}[^#]'              ; grep -R -E   -i  -m 1     --no-filename        "$ra"    "C:\Users\marti\OneDrive\Dokumenty\00-MM"  >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"         ;   head -n 60   "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"  
+re='[#]a{5}[^a]'  ; rb='^ *[-+*#]*[=]{3,4}[^=]' ;       ra='^ *[-+*#] [#]{1,1}[^#]'              ; grep -R -E   -i  -m 1     --no-filename        "$ra"    "C:\Users\marti\OneDrive\Dokumenty\00-MM"  >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"         ;   head -n 600   "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"  
 
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"  
 
  |wc
 
-"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"  
 "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"
 
 
