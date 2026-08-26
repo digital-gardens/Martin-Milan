@@ -7,6 +7,12 @@
 - 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
 - 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
 - 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
+- 0111--~1/04-COPY/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:###### #aaaa todo pomodoro 1 minute
+- 0111--~1/04-COPY/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:- # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat
+- 0111--~1/04-COPY/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:# #aaa objev
+- 0111--~1/04-COPY/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:- ℹ️ #aaa gemini v gmail-u
+- 0111--~1/04-COPY/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:- ℹ️ #aa 🎶 K rychlému vyřešení nečekaných potíží se skvěle hodí: Help! od The Beatles.
+- 0111--~1/04-COPY/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:- # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
 - 0111--~1/2 YouSongs.cz.md:- #### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...
 - 0111--~1/2 YouSongs.cz.md:- # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
 - 0111--~1/2 YouSongs.cz.md:- ##### #aaa Na kolejích stála, za uchem květ, vlasy trávou zavázaný, s kytarou na zádech, strun už jen pět, hezký oči uplakaný. ...

@@ -8,6 +8,14 @@
 - ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
 - ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
 ### [Můj Čas - song and lyrics by Hana Zagorová, Stanislav...](https://open.spotify.com/track/5vvr1U2dzXJju34vRRURVD)
+###### #aaaa todo pomodoro 1 minute
+-  ### # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat
+# #aaa objev
+# EDIT .. #fail ... obnovit bankovní identitu a mobilní aplikaci/aplikace banky CSOB ...
+- ℹ️ #aaa gemini v gmail-u
+# EDIT .. #fail ... matně si vzpomínám, že jsem četl o ... bankovní identitě CSOB
+- ℹ️ #aa 🎶 K rychlému vyřešení nečekaných potíží se skvěle hodí: Help! od The Beatles.
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
 - #### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...
 - # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
 - ##### #aaa Na kolejích stála, za uchem květ, vlasy trávou zavázaný, s kytarou na zádech, strun už jen pět, hezký oči uplakaný. ...
