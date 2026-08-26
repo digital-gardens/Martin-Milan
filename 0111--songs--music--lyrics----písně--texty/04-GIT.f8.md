@@ -9,6 +9,14 @@ exit
 
 ```sh 
 
+# rather  ?   aaaaa  aaaaaa
+git log --help
+
+git grep --help
+
+
+
+
 # C:\Users\marti\OneDrive\Dokumenty\00-MM\git\git-init--separate-git-dir.f8.md
 git init    --separate-git-dir= aaaaaa
 
