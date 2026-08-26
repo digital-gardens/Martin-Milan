@@ -16,7 +16,7 @@ cd  "C:\Users\marti\OneDrive\Dokumenty"
 ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
 
 opf="--no-filename"
-#opf="--with-filename"
+opf="--with-filename"
 
 ra='^ *[-+*#]+ .{0,10}[#]{1,1}[^#]'
 ra='^ *[-+*#]+ [#]{1,1}[^#]'
