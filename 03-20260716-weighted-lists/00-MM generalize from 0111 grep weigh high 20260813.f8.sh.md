@@ -21,6 +21,7 @@ bash
 8 5 5 2 2
 "$re$rb$ra" 
  --no-filename 
+# 00-MM.md .. #yy head fixed  bug 100MB
 yy
 re='[#]a{6}'  ; rb='|^ *[-+*#]*[=]{3,4}[^=]' ;  ra='|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'  ; grep -R -E   -i  -m 1  "$re"    "C:\Users\marti\OneDrive\Dokumenty\00-MM"  >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"         ;   head -n 60   "C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\COPY---grep---hhaaaaa.txt.md"  
 

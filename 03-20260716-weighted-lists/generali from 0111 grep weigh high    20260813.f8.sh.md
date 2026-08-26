@@ -72,6 +72,7 @@ C:\Users\marti\OneDrive\Dokumenty/03-dok-Clippings--web-highlights/==author Hari
 7  4 4 2 2 
 8 5 5 2 2
 -l
+# 00-MM.md .. #yy head fixed  bug 100MB
 # warning writes one of read-ed files  ..does it matter?  
 grep -R -E   -i  -I    --count   '[#]a{8}|^ *[-+*#]*[=]{5,5}[^=]|^ *[-+*#]+ .{0,10}[#]{2,2}[^#]'      "C:\Users\marti\OneDrive\Dokumenty"   | grep -v '[:]0$' >"C:\Users\marti\OneDrive\Dokumenty\00-MM\03-20260716-weighted-lists\doku-count--grep---hhaaaaa.txt.md"
 
@@ -90,6 +91,7 @@ history -a
 
 MOVING TO NEW FILE 00-MM 
 
+# 00-MM.md .. #yy head fixed  bug 100MB
 # warning writes one of read-ed files  ..does it matter? should i write to doku for safety?  
  '[#]a{7}|^ *={4}[^=]' 
 ^ *={4}[^=]
