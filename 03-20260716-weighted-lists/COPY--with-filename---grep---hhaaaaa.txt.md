@@ -1,18 +1,6 @@
-./011-POMOC.publ.dir/0119-brainstorm-a-pozdeji.publ.md:#aaaaa Something I hadn’t considered is the sheer mental exhaustion of only being able to use one arm. It’s not just physically exhausting it’s a constant **cognitive drain**  trying to solve basic problems you’v
-./0111--songs--music--lyrics----písně--texty/0004  0111 grep weigh high    20260813.f8.sh.md:// btw, **repeated letters** in the hashtags are a way to indicate relative **importance**, ... e.g., **in importance**, attention, ... #a < (is less than) #aa < #aaa < #aaaa < #aaaaa ... etc.  (I use this in my own notes, and I hope it is a useful convention for the AI to learn as well?.)
-./0111--songs--music--lyrics----písně--texty/grep---aaa.txt:- ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
-./0111--songs--music--lyrics----písně--texty/grep---aaa.txt.md:-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
-./0111--songs--music--lyrics----písně--texty/grep--hhaa---filename.txt.md:- 0111--~1/YouSongs.cz.md:- ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
-./02 03-04-13MP-NEUROZA-csob-a-JB-20260614/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:# #aaaaa  herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří
-./03-20260716-weighted-lists/generali from 0111 grep weigh high    20260813.f8.sh.md:// btw, **repeated letters** in the hashtags are a way to indicate relative **importance**, ... e.g., **in importance**, attention, ... #a < (is less than) #aa < #aaa < #aaaa < #aaaaa ... etc.  (I use this in my own notes, and I hope it is a useful convention for the AI to learn as well?.)
-./03-20260716-weighted-lists/grep---hhaaaaa.txt.md:-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
-./03-2512-highlights--annotations---clippings/highlights---aaa-aaaa-hashtags.md:- #aaaaa is more important than #aaaa
-./03-annotative search, incremental AI search .. experiments..  20260713/incremental AI search .. experiments..  20260713.md:// btw, repeated letters in the hashtags are a way to indicate relative importance, e.g. #a < #aa < #aaa < #aaaa < #aaaaa ... etc. 
-./03-annotative search, incremental AI search .. experiments..  20260713/Pilot 1 — filk songs, Beatles melodies, computing lyrics.md:// btw, **repeated letters** in the hashtags are a way to indicate relative **importance**, ... e.g., **in importance**, attention, ... #a < (is less than) #aa < #aaa < #aaaa < #aaaaa ... etc.  (I use this in my own notes, and I hope it is a useful convention for the AI to learn as well?.)
-./03.publ.dir/0brain-2603-topic-brainstorming-260129.publ.md:# //// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
-./2400-WIKI-00/alza.cz.f8.md:	- [aaaaa](#aaaaa)
-./2400-WIKI-00/EMAILY.txt.f8.md:#aaaaa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, NONSHADOW, NEKOPIE 
-./250825-@skupina-meta-informace/250825-@skupina-meta-informace,emergency.f8.md:#aaaaa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, telefony, rodná čísla, NONSHADOW, NEKOPIE #emergency 
-./250825-@skupina-meta-informace/NANECISTO-250825-@skupina-meta-informace.f8.md:https://keep.google.com/u/0/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw#aaaaa#aaaaa
-./autohotkey.com/AutoHotkey.f9.f8.md:- #aa - #aaaaa 
-./vscode/SETTINGS.json-03-260207-editing-settings.json.publ.md:# //// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
+./03-20260716-weighted-lists/COPY--no-filename---grep---hhaaaaa.txt.md:- #aaaaaa is more important than #aaaaa
+./03-20260716-weighted-lists/grep---hhaaaaa.txt.md:- #aaaaaa is more important than #aaaaa
+./03-2512-highlights--annotations---clippings/highlights---aaa-aaaa-hashtags.md:- #aaaaaa is more important than #aaaaa
+./03.publ.dir/0brain-2603-topic-brainstorming-260129.publ.md:#BUG    #AAAAaa Also: OneDrive can behave badly with certain files in Code\User (SQLite DBs, lock files)
+./250825-@skupina-meta-informace/250825-@skupina-meta-informace,emergency.f8.md:vlastní webové stránky, hlavně facebook, google, reddit, whatsapp ℹ️  #250831 #aaaaaaa #00000 #CORE1000 251122
+./250825-@skupina-meta-informace/NANECISTO-250825-@skupina-meta-informace.f8.md:# Milan B., Martin Milan, vlastní webové stránky, hlavně facebook, google, reddit, whatsapp #250831 #aaaaaaa #00000 #CORE1000

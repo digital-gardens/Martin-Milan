@@ -31,6 +31,8 @@ rb='^ *[-+*#]*[=]{3,}\w'
 rb='^ *[-+*#]*[=]{5,}\w'
 
 re='[#]a{5}[^a]'
+re='[#]a{6}'
+re='[#]a{5}'
 
 grep -R -E   -i  -m 1     $opf        "$re|$rb"    .   >"C:\Users\marti\OneDrive\Dokumenty\03-20260716-weighted-lists\grep---hhaaaaa.txt.md"
 
