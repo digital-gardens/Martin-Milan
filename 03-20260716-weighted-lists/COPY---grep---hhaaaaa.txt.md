@@ -1,11 +1,57 @@
-C:\Users\marti\OneDrive\Dokumenty\00-MM/011-POMOC.publ.dir/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
-C:\Users\marti\OneDrive\Dokumenty\00-MM/0111--songs--music--lyrics----písně--texty/grep---aaa.txt.md:- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
-C:\Users\marti\OneDrive\Dokumenty\00-MM/03-20260716-weighted-lists/grep---hhaaaaa.txt.md:- #### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...
-C:\Users\marti\OneDrive\Dokumenty\00-MM/03-20260716-weighted-lists/reddit.md:- ###### Johann Sebastian Bach
-C:\Users\marti\OneDrive\Dokumenty\00-MM/250831-transhuman-00/03-transhuman-20260719.md:- ## ****// Greg Egan's "citizens" // in his book "Diaspora" **** ℹ️
-C:\Users\marti\OneDrive\Dokumenty\00-MM/250831-transhuman-00/Claude finished the response 20260719.md:- ## // Greg Egan's "citizens" // in his book "Diaspora" 
-C:\Users\marti\OneDrive\Dokumenty\00-MM/250831-transhuman-00/diaspora+greg+egan - Library - Diigo 1.md:- ## NOOK Book(eBook)
-C:\Users\marti\OneDrive\Dokumenty\00-MM/Antigravity-IDE/01-Antigravity-IDE.md:- ###### #- #TODO 
-C:\Users\marti\OneDrive\Dokumenty\00-MM/autohotkey.com/AutoHotkey.f9.f8.md:- ###### test ww ... move the caret into some line and press w w
-C:\Users\marti\OneDrive\Dokumenty\00-MM/category-theory-20260525/category-theory-20260525-607-brainst.md:  - ## my math background
-C:\Users\marti\OneDrive\Dokumenty\00-MM/windows-f8/win-disk-C-full.f8.md:##     ##  ### no, the file may be sparse Get-Item c:\pagefile.sys | Select-Object Name, @{Name="SizeOnDisk";Expression={($_.Length + 4095) -band -4096}
+# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
+# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
+###### #aaa   yyy   ww 
+###### #aaattention  - Gemini přeloží článek z wikipedia.org, Study 329 
+- #hashtags
+- #02 dělat malé přestávky na protažení během práce na počítači
+- #aa 
+- #aaaa ABBA
+#### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...
+- # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
+###### #aaaa todo pomodoro 1 minute
+- #TODO  > Také se můžete zastavit s platným dokladem totožnosti osobně v kterékoli pobočce ČSOB – schůzku si můžete sjednat na přesné datum a čas.
+- #aaaa ABBA
+# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
+###### #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...
+- #aaaaaa is more important than #aaaaa
+- #  Joe Dassin
+- #aaa is more important than #aa
+- #yes ... the user wants webpages related to this 
+- #a "Write in C" — new lyrics over the Beatles' "Let It Be," written by filker Brian Marshall; a well-known entry in the filk programming-song canon the filk author of "Write In C" is Brian Marshall 
+- #aaa FUZZY                  ("fuzzy" type)
+## #obsidian-trick trick Pages:
+- #00-s0-zpívání	úděl							
+  - #expozice,,,,,,,,
+# #Corsair flash disk .. melting #problem #mitigation 
+- #TODO 
+# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
+# #aaaa  ?    edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
+    + #FREE job search tracker on the latest jobs for you! Now search from thousands of jobs - ALL in ONE place. Compiled a list of the latest jobs across engineering, management, sales, marketing, IT, HR, etc. for YOU👇 (link in the 1st comment). Do fill out the form or share your ID for us to share the job tracker beta link with you.
+- #aaa When I read that, something clicked. The architecture was beautiful. The philosophy was correct. But the implementation — using an LLM agent in a terminal, managing files manually — required a level of technical comfort that most people simply do not have. And even for someone technical, the friction of doing this at scale, across dozens of domains and hundreds of documents, was enormous.
+- #aaa  OneDrive may conflict on SQLite/lock files — add `/XF *.lock *.db-wal *.db-shm` if needed
+## #229n
+#- #TODO 
+- # **Transhumanoide Identität**  
+- #aaa 5.9.5 Explaining the purpose of life is as simple as seeing life’s beauty, and wishing it everywhere.   
+# #aaa
+    - # h h h yyy
+    - # h h h yyy
+  - #aa Unlike its predecessor, the Agent Manager, Antigravity 2.0 is a standalone application that functions independently of an IDE.
+- #aaaa file:///C:\Users\marti\OneDrive\powershell-f8\stackoverflow-676714165--powershell-stripping-double-quotes-from-command-line-arguments.f8.ps1
+# #yy in a conlang based on category theory ?? ... a noun  is an object
+# #nnn d2  if hospitalization is needed #nnn
+#- #TODO 
+- #aaa
+  - #nnn mystery.. Code.exe not mentioned in the list of allowed apps, but it works anyway .. explanation #TODO-FOR-AI
+# #BUG 202605 after these attacks, i am afraid to install almost anything
+- # hypothesis..i should make git dir only on **internal** yyy disk, nnnn not on external disk
+#- #TODO 
+# # #ahk works in internal terminal !!!
+- #yy Gloves
+# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
+# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
+# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
+- #yes       #yyes      #yyeess    #yyyes   #yyyeeesss            #y        #yy        #yyy
+- #TODO 
+- #TODO 
+* # \#nn 20260816 i will probably never put downloads on an *external* drive again,
