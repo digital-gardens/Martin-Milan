@@ -1,52 +1,10 @@
-./00044-SCRIPTS/0004cmd/d..onedr--TEMPL/611/.gitignore:# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
-./00044-SCRIPTS/0004cmd/d..onedr--TEMPL/611Copy.gitignore:# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
-./011-POMOC.publ.dir/030 LUCKY IDEA.md:- #hashtags
-./011-POMOC.publ.dir/0350 02-251019-Zdraví.f8.md:- #02 dělat malé přestávky na protažení během práce na počítači
-./0111--songs--music--lyrics----písně--texty/0004  0111 grep weigh high    20260813.f8.sh.md:- #aa 
-./0111--songs--music--lyrics----písně--texty/0004-COPY/0111 i1 aaa master seznam-hudebníků.md:- #aaaa ABBA
-./0111--songs--music--lyrics----písně--texty/grep---aaa.txt:# #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
-./0111--songs--music--lyrics----písně--texty/grep---aaa.txt.md:- # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
-./02 03-04-13MP-NEUROZA-csob-a-JB-20260614/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:# #aaa objev
-./02 03-04-13MP-NEUROZA-csob-a-JB-20260614/kopie . st 20. 5. 2026 v 10.17 odesílatel ČSOB servis.csob.cz napsal - Copy.md:- #TODO  > Také se můžete zastavit s platným dokladem totožnosti osobně v kterékoli pobočce ČSOB – schůzku si můžete sjednat na přesné datum a čas.
-./03-20260716-weighted-lists/0111 i1 aaa master seznam-hudebníků.md:- #aaaa ABBA
-./03-20260716-weighted-lists/COPY--no-filename---grep---hhaaaaa.txt.md:# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
-./03-20260716-weighted-lists/generali from 0111 grep weigh high    20260813.f8.sh.md:- #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
-./03-20260716-weighted-lists/grep---hhaaaaa.txt.md:- #aaaaaa is more important than #aaaaa
-./03-20260716-weighted-lists/reddit.md:- #  Joe Dassin
-./03-2512-highlights--annotations---clippings/highlights---aaa-aaaa-hashtags.md:- #aaa is more important than #aa
-./03-annotative search, incremental AI search .. experiments..  20260713/incremental AI search .. experiments..  20260713.md:- #yes ... the user wants webpages related to this 
-./03-annotative search, incremental AI search .. experiments..  20260713/Pilot 1 — filk songs, Beatles melodies, computing lyrics.md:- #a "Write in C" — new lyrics over the Beatles' "Let It Be," written by filker Brian Marshall; a well-known entry in the filk programming-song canon the filk author of "Write In C" is Brian Marshall 
-./03-books-20260718/vop--fuzzy-math-260/Org Syntax.md:- #aaa FUZZY                  ("fuzzy" type)
-./03-tracker-20260722/03-tracker-20260722 - Sheet1.tsv:- #00-s0-zpívání	úděl							
-./03-tracker-20260722/BKUP/03-tracker-20260722 - Sheet1 (1).csv:  - #expozice,,,,,,,,
-./03.publ.dir/0brain-2603-topic-brainstorming-260129.publ.md:# #Corsair flash disk .. melting #problem #mitigation 
-./03.publ.dir/0meta-workspaces-naming-brainstorming.md:- #TODO 
-./11tar-exe--sandboxUser/c/Users/marti/OneDrive/.gitignore:# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
-./20260511-claude.ai/03-settings/08-20260517-cowork-enable-------experim--prtscr--paste-to-obsidian.publ.md:# #aaaa  ?    edge://settings/privacy/sitePermissions/allSites/siteDetails?site=chrome-extension%3A%2F%2Ffcoeoabgfenejglbffodgkkbkcdhcgfn
-./20260511-claude.ai/11Clippings/chatgpt, gemini, claude, grok.md:    + #FREE job search tracker on the latest jobs for you! Now search from thousands of jobs - ALL in ONE place. Compiled a list of the latest jobs across engineering, management, sales, marketing, IT, HR, etc. for YOU👇 (link in the 1st comment). Do fill out the form or share your ID for us to share the job tracker beta link with you.
-./20260511-claude.ai/11Clippings/The Second Brain That Grows Smarter and Lives on your Computer.md:- #aaa When I read that, something clicked. The architecture was beautiful. The philosophy was correct. But the implementation — using an LLM agent in a terminal, managing files manually — required a level of technical comfort that most people simply do not have. And even for someone technical, the friction of doing this at scale, across dozens of domains and hundreds of documents, was enormous.
-./20260603---robocopy-or-junction---code..user---into-onedrive/20260603--robocopy-or-junction---code..user---into-onedrive.md:- #aaa  OneDrive may conflict on SQLite/lock files — add `/XF *.lock *.db-wal *.db-shm` if needed
-./250831-transhuman-00/03-transhuman-20260719.md:- # **Transhumanoid Identity** //a
-./250831-transhuman-00/250831-i.f8.917-translation-of-Copy of iii Ich bin transhumanoid – und ich will, dass ihr mich hört.f8.md:- # **Transhumanoide Identität**  
-./250831-transhuman-00/251007-annot-2024_Truths_of_Terasem.f8.md:- #aaa 5.9.5 Explaining the purpose of life is as simple as seeing life’s beauty, and wishing it everywhere.   
-./250831-transhuman-00/diaspora+greg+egan - Library - Diigo 1.md:# #aaa
-./260314--tree-doc/26/20260702 markdown tree wild experiments.md:    - # h h h yyy
-./260314--tree-doc/26/260314-text-formats-with-short-lines--tree--brainst.publ.md:    - # h h h yyy
-./Antigravity-IDE/Getting Started with Google Antigravity.md:  - #aa Unlike its predecessor, the Agent Manager, Antigravity 2.0 is a standalone application that functions independently of an IDE.
-./autohotkey.com/AutoHotkey.f9.f8.md:- #aaaa file:///C:\Users\marti\OneDrive\powershell-f8\stackoverflow-676714165--powershell-stripping-double-quotes-from-command-line-arguments.f8.ps1
-./Blissymbolics,conlangs-00/260404 arrow-based conlang.md:# #yy in a conlang based on category theory ?? ... a noun  is an object
-./Blissymbolics,conlangs-00/nonlinear Bliss 20260732. Discord. visual scripts and symbols.md:# #nnn d2  if hospitalization is needed #nnn
-./category-theory-20260525/category-theory-20260525-607-brainst.md:- #TODO 
-./category-theory-20260525/Seven Sketches in Compositionality.md:- #aaa
-./CVE-2026-45321--npm,github,vscode,python--20260527/Controlled Folder Access (Windows Defender, free).md:  - #nnn mystery.. Code.exe not mentioned in the list of allowed apps, but it works anyway .. explanation #TODO-FOR-AI
-./CVE-2026-45321--npm,github,vscode,python--20260527/mid-and-long-term-mitigation-strategies-for-CVE-2026-45321-and-similar-supply-chain-attacks.md:# #BUG 202605 after these attacks, i am afraid to install almost anything
-./git/git-reset--mixed---260504.1022 now git doesnt work on repos, that have separate git dir pointing to dee.publ.md:- # hypothesis..i should make git dir only on **internal** yyy disk, nnnn not on external disk
-./runas-sandboxUser-20260707/sandboxUser/techl-userklic-edits.f8.ps1:# # #ahk works in internal terminal !!!
-./Swollen-Battery--li-ion-250110/20260726-Swollen-Battery--Li-ion.f8.md:- #yy Gloves
-./tar-exe/c/Users/marti/OneDrive/.gitignore:# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
-./tar-exe/d/0004-LINKS/OneDrive/.gitignore:# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
-./tar-exe/d/0004-LINKS/OneDrive--Pictu/.gitignore:# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
-./vscode/fabiospampinato.vscode-highlight-2.1.0/USER/aaa.vscode-highlight.20260603.user.md:- #yes       #yyes      #yyeess    #yyyes   #yyyeeesss            #y        #yy        #yyy
-./vscode/markdown-snippets-20260526-604/markdown-snippets-20260526-604.md:- #TODO 
-./vscode.dev-for-the-web/vscode.dev-for-the-web.md:- #TODO 
-./windows-f8/dee problems - external disk, external drive 20260.md:* # \#nn 20260816 i will probably never put downloads on an *external* drive again,
+./011-POMOC.publ.dir/031 01-251218-Headphone-Healing.publ.md:===251218
+./03-20260716-weighted-lists/grep---hhaaaaa.txt.md:===251218
+./03-2512-highlights--annotations---clippings/251212-weighted-tree-md.FILETYPE.lines.publ.md:===251218
+./03-Clippings--web-highlights/edge---accessibility ==Native accessibility API support.f8.md:====edge://accessibility/
+./03-tracker-20260722/0tra-251105-symptom-tracker.f8.md:===a
+./20260511-claude.ai/logs/system-info.txt:=== APP INFORMATION ===
+./260314--tree-doc/New Blocks Extensions in 9.10! · facelessuserpymdown-extensions.md:        === "A Tab"
+Binary file ./autohotkey.com/image-1.png matches
+Binary file ./autohotkey.com/image-2.png matches
+./vimium,c,surfingkeys/Vimium-Options.f8.md:===x
