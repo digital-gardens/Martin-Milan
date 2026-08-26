@@ -9,6 +9,7 @@
 # #aaa objev
 - #TODO  > Také se můžete zastavit s platným dokladem totožnosti osobně v kterékoli pobočce ČSOB – schůzku si můžete sjednat na přesné datum a čas.
 - #aaaa ABBA
+# # edit..probably a false alarm..WARNING: this c:OneDrive/.gitignore is probably an exception in robocopy ... i will have to copy it manually after edititing to d:\0004\OneDrive
 - #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
 - #aaaaaa is more important than #aaaaa
 - #  Joe Dassin
