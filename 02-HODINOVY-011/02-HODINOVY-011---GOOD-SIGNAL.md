@@ -119,7 +119,6 @@ git log --since="1 day ago" --oneline
 
 git log --since="2 days ago" --format="%h %ad %s" --date=short
 
-can you look inside the commits
 
 i mean .. can you look inside the commits
 
@@ -145,4 +144,33 @@ a small correction
 #a — the lowest priority above normal text
 ...
 #aaaaaaa — the highest priority so far
+
+- ######  can you summarize commits (work) of this tuesday (this repo) 
+
+git log --since="2026-08-25" --until="2026-08-26" --format="%h %ad %s" --date=short
+
+git log --since="2026-08-25" --until="2026-08-26" -p | head -300
+
+git log --since="2026-08-25" --until="2026-08-26" --reverse -p | head -1000
+
+- ###### now monday
+
+git log --since="2026-08-23" --until="2026-08-25" --format="%h %ad %s" --date=short
+
+git log --since="2026-08-24" --until="2026-08-25" -p | head -200
+
+git log --since="2026-08-23 23:59" --until="2026-08-25 00:00" -p --reverse | head -300
+
+git show 15ef6f3 --stat
+
+- ###### and sunday 
+git log --since="2026-08-22" --until="2026-08-24" -p --reverse | grep -A 20 "^commit\|^Date:\|^    " | head -400
+
+TipUnityShow
+
+- ###### saturday
+
+Classic philosophical logic examples (every man, every king's donkey, etc.)
+
+Saturday (2026-08-22): Only 2 commits — both on the same topic:
 
