@@ -68,3 +68,38 @@ git log --name-status | grep "^M"
 git log --name-status --oneline
 
 
+create
+
+git log --grep="^edit:" -p
+git log --grep="^create:" -p
+case insensitive grep?
+git log --grep="^edit:" -i -p
+git log --grep="^create" -i 
+nnn git log --grep="^create" 
+git log --grep="reate" 
+q
+
+ways to show git log in a web browser
+with colors
+
+i wish for something like this:
+git log --since="1 week ago" -p --color=always | git web--browse -
+
+git log --since="1 week ago"  --color=always > git-log.txt
+code git-log.txt
+
+| git web--browse -
+
+
+
+- ###### gitk --since="1 week ago"
+
+- ###### tig 
+
+
+- ### #aaaaa  site:anggtwu.net "git log"
+google   site:anggtwu.net "git log"
+
+git log --oneline --graph --all -20 
+git log --oneline --graph --all -20 
+
