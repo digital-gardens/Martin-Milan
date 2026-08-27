@@ -88,8 +88,15 @@ git log --since="1 week ago" -p --color=always | git web--browse -
 git log --since="1 week ago"  --color=always > git-log.txt
 code git-log.txt
 
-| git web--browse -
+git web--browse git-log.txt
 
+"C:\Progra~1\Microsoft\Edge\Application\msedge.exe"
+
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--~1\grep---aaa.txt.md"
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\git-log.txt"
+
+
+- ###### a chrome extension that can show ansi colors ??
 
 
 - ###### gitk --since="1 week ago"
@@ -101,5 +108,8 @@ code git-log.txt
 google   site:anggtwu.net "git log"
 
 git log --oneline --graph --all -20 
-git log --oneline --graph --all -20 
+git log --oneline --graph --all -20    --colo  > git-log.txt
 
+
+
+- ###### --color=always 
