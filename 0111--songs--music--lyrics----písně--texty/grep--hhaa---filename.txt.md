@@ -2,11 +2,11 @@
 - 0111--~1/007 Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí  
 - 0111--~1/007 Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
 - 0111--~1/007 Fešáci (Tomáš Linka) - Paní má se má (Fešáci v Lucerně 35 let).md:- ℹ️ #aaa yyyŘíkají, že paní má se má,  
-- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
-- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
-- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
-- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
-- 0111--~1/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
+- 0111--~1/010 KTERE SEM píseň můj čas.md:- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
+- 0111--~1/010 KTERE SEM píseň můj čas.md:- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
+- 0111--~1/010 KTERE SEM píseň můj čas.md:- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
+- 0111--~1/010 KTERE SEM píseň můj čas.md:- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
+- 0111--~1/010 KTERE SEM píseň můj čas.md:- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
 - 0111--~1/04-COPY/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:###### #aaaa todo pomodoro 1 minute
 - 0111--~1/04-COPY/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:- # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat
 - 0111--~1/04-COPY/03-04-13MP-NEUROZA-csob-čsob-a-JB-daně-20260614.md:# #aaa objev

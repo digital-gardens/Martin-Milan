@@ -22,7 +22,7 @@ git init    --separate-git-dir= aaaaaa
 
 
 git gui 
-
+gitk
 
 
 ```
