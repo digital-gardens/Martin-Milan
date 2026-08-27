@@ -108,8 +108,41 @@ git web--browse git-log.txt
 google   site:anggtwu.net "git log"
 
 git log --oneline --graph --all -20 
-git log --oneline --graph --all -20    --colo  > git-log.txt
-
-
+git log --oneline --graph --all -20    --color=always > git-log.txt
 
 - ###### --color=always 
+
+
+- ###### btw, can you summarize yesterday's commits (this repo) 
+gitk --since="1 week ago"
+git log --since="1 day ago" --oneline
+
+git log --since="2 days ago" --format="%h %ad %s" --date=short
+
+can you look inside the commits
+
+i mean .. can you look inside the commits
+
+git log --since="2026-08-26" --until="2026-08-27" -p --reverse | head -500
+
+Pattern: Looks like you were testing an annotation/tagging system using #aaaa style markers to highlight or categorize lines across your knowledge base, possibly with different weights (more a's = different priority level?).
+Is this a system you're developing for organizing/weighting content?
+
+yes!
+please remember: more a's = higher priority level #aaaa
+
+C:\Users\marti\.claude\projects\C--Users-marti-OneDrive-Dokumenty-00-MM\memory\annotation_system_priority.md
+
+C:\Users\marti\.claude\projects\C--Users-marti-OneDrive-Dokumenty-00-MM\memory\MEMORY.md
+
+
+todo
+please
+edit
+a small correction
+> the priority scale is:
+
+#a — the lowest priority above normal text
+...
+#aaaaaaa — the highest priority so far
+
