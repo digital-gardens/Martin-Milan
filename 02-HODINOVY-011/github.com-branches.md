@@ -20,3 +20,13 @@ C:\Users\marti\OneDrive\Dokumenty\02-HODINOVY-011---GOOD-SIGNAL\doku--github.com
 https://github.com/digital-gardens/Martin-Milan/network
 
 
+C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\00MM-Robocopy---c-Dokumenty---gee-mir.f5.cmd
+
+mkdir G:\0004-LINKS\test-Martin-Milan
+
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       552       532        20         0         0         0
+   Files :      1318      1317         1         0         0         0
+   Bytes :   75.91 m   75.91 m        30         0         0         0
+   Times :   0:00:12   0:00:07                       0:00:00   0:00:04
