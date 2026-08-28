@@ -1,3 +1,6 @@
+
+aaa doku
+
 github.com-branches
 
 https://github.com/digital-gardens/Martin-Milan/branches
@@ -14,9 +17,5 @@ https://github.com/digital-gardens/Martin-Milan.git
 G:\0004-LINKS\Martin-Milan
 gee-Martin-Milan
 
-maybe not needed
-C:\Users\marti\OneDrive\Dokumenty\02-HODINOVY-011---GOOD-SIGNAL\doku--github.com-branches.md
-
-https://github.com/digital-gardens/Martin-Milan/network
-
+aaa doku
 
