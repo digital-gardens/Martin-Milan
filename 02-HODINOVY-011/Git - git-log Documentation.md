@@ -20,13 +20,17 @@ git-log - Show commit logs
 git log [<options>] [<revision-range>] [[--] <path>…​]
 ```
 
+
+--
+
+
 ## DESCRIPTION
 
 Shows the commit logs.
 
-List commits that are reachable by following the `parent` links from the given commit(s), but exclude commits that are reachable from the one(s) given with a *^* in front of them. The output is given in reverse chronological order by default.
+- ###### List commits that are reachable by following the `parent` links from the given commit(s), but exclude commits that are reachable from the one(s) given with a *^* in front of them. The output is given in reverse chronological order by default.
 
-You can think of this as a set operation. Commits reachable from any of the commits given on the command line form a set, and then commits reachable from any of the ones given with *^* in front are subtracted from that set. The remaining commits are what comes out in the command’s output. Various other options and paths parameters can be used to further limit the result.
+- ###### You can think of this as a set operation. Commits reachable from any of the commits given on the command line form a set, and then commits reachable from any of the ones given with *^* in front are subtracted from that set. The remaining commits are what comes out in the command’s output. Various other options and paths parameters can be used to further limit the result.
 
 Thus, the following command:
 
@@ -36,21 +40,25 @@ $ git log foo bar ^baz
 
 means "list all the commits which are reachable from *foo* or *bar*, but not from *baz* ".
 
-A special notation " *\<commit1>*`..`*\<commit2>* " can be used as a short-hand for " `^` *\<commit1>* *\<commit2>* ". For example, either of the following may be used interchangeably:
+- ###### A special notation " *\<commit1>*`..`*\<commit2>* " can be used as a short-hand for " `^` *\<commit1>* *\<commit2>* ". For example, either of the following may be used interchangeably:
 
 ```js
 $ git log origin..HEAD
 $ git log HEAD ^origin
 ```
 
-Another special notation is " *\<commit1>*`...`*\<commit2>* " which is useful for merges. The resulting set of commits is the symmetric difference between the two operands. The following two commands are equivalent:
+- ###### Another special notation is " *\<commit1>*`...`*\<commit2>* " which is useful for merges. The resulting set of commits is the symmetric difference between the two operands. The following two commands are equivalent:
 
 ```js
 $ git log A B --not $(git merge-base --all A B)
 $ git log A...B
 ```
 
-The command takes options applicable to the [git-rev-list\[1\]](https://git-scm.com/docs/git-rev-list) command to control what is shown and how, and options applicable to the [git-diff\[1\]](https://git-scm.com/docs/git-diff) command to control how the changes each commit introduces are shown.
+
+
+- ###### The command takes options applicable to the [git-rev-list\[1\]](https://git-scm.com/docs/git-rev-list) command to control what is shown and how, and options applicable to the [git-diff\[1\]](https://git-scm.com/docs/git-diff) command to control how the changes each commit introduces are shown.
+
+
 
 ## OPTIONS
 
@@ -104,6 +112,10 @@ Print out the ref name given on the command line by which each commit was reache
 
 Use mailmap file to map author and committer names and email addresses to canonical real names and email addresses. See [git-shortlog\[1\]](https://git-scm.com/docs/git-shortlog).
 
+
+
+
+
 `--full-diff`
 
 Without this flag, `git` `log` `-p` *\<path>*... shows commits that touch the specified paths, and diffs about the same specified paths. With this, the full diff is shown for commits that touch the specified paths; this means that " *\<path>*..." limits only commits, and doesn’t limit diff for those commits.
@@ -151,27 +163,34 @@ Using more options generally further limits the output (e.g. `--since=` *\<date1
 
 Note that these are applied before commit ordering and formatting options, such as `--reverse`.
 
+
+
+
 `-` *\<number>*
 
 `-n` *\<number>*
 
 `--max-count=` *\<number>*
 
-Limit the output to the first *\<number>* commits that would be shown.
+- ###### Limit the output to the first *\<number>* commits that would be shown.
 
 `--max-count-oldest=` *\<number>*
 
-Limit the output to the last *\<number>* commits that would be shown.
+- ###### Limit the output to the last *\<number>* commits that would be shown.
 
 `--skip=` *\<number>*
 
-Skip *\<number>* commits before starting to show the commit output.
+- ###### Skip *\<number>* commits before starting to show the commit output.
+
+
 
 `--since=` *\<date>*
 
 `--after=` *\<date>*
 
 Show commits more recent than *\<date>*. As a special case, *today* means the last midnight.
+
+
 
 `--since-as-filter=` *\<date>*
 
@@ -199,6 +218,9 @@ Limit the commits output to ones with a log message that matches the *\<pattern>
 
 When `--notes` is in effect, the message from the notes is matched as if it were part of the log message.
 
+
+
+
 `--all-match`
 
 Limit the commits output to ones that match all given `--grep`, instead of ones that match at least one.
@@ -208,6 +230,9 @@ Limit the commits output to ones that match all given `--grep`, instead of ones 
 Limit the commits output to ones with a log message that do not match the *\<pattern>* specified with `--grep=` *\<pattern>*.
 
 `-i`
+
+
+
 
 `--regexp-ignore-case`
 
@@ -237,6 +262,9 @@ Consider the limiting patterns to be Perl-compatible regular expressions.
 
 Support for these types of regular expressions is an optional compile-time dependency. If Git wasn’t compiled with support for them providing this option will cause it to die.
 
+
+
+
 `--remove-empty`
 
 Stop when a given path disappears from the tree.
@@ -257,7 +285,7 @@ Do not print commits with more than one parent. This is exactly the same as `--m
 
 `--no-max-parents`
 
-Show only commits which have at least (or at most) that many parent commits. In particular, `--max-parents=1` is the same as `--no-merges`, `--min-parents=2` is the same as `--merges`. `--max-parents=0` gives all root commits and `--min-parents=3` all octopus merges.
+- ###### Show only commits which have at least (or at most) that many parent commits. In particular, `--max-parents=1` is the same as `--no-merges`, `--min-parents=2` is the same as `--merges`. `--max-parents=0` gives all root commits and `--min-parents=3` all octopus merges.
 
 `--no-min-parents` and `--no-max-parents` reset these limits (to no limit) again. Equivalent forms are `--min-parents=0` (any commit has 0 or more parents) and `--max-parents=-1` (negative numbers denote no upper limit).
 
@@ -279,9 +307,16 @@ Restrict the output commits to be those that are not reachable from any other co
 
 Reverses the meaning of the *^* prefix (or lack thereof) for all following revision specifiers, up to the next `--not`. When used on the command line before --stdin, the revisions passed through stdin will not be affected by it. Conversely, when passed via standard input, the revisions passed on the command line will not be affected by it.
 
+
+
+
+
+
+
+
 `--all`
 
-Pretend as if all the refs in `refs/`, along with `HEAD`, are listed on the command line as *\<commit>*.
+- ###### Pretend as if all the refs in `refs/`, along with `HEAD`, are listed on the command line as *\<commit>*.
 
 `--branches` \[`=` *\<pattern>*\]
 
@@ -379,6 +414,11 @@ Show commits touching conflicted paths in the range `HEAD...`*\<other>*, where *
 `--boundary`
 
 Output excluded boundary commits. Boundary commits are prefixed with `-`.
+
+
+
+
+
 
 ### History Simplification
 
@@ -658,6 +698,21 @@ Notice that since `M` is reachable from `R`, the edge from `N` to `M` was simpli
 
 The `--simplify-by-decoration` option allows you to view only the big picture of the topology of the history, by omitting commits that are not referenced by tags. Commits are marked as!TREESAME (in other words, kept after history simplification rules described above) if (1) they are referenced by tags, or (2) they change the contents of the paths given on the command line. All other commits are marked as TREESAME (subject to be simplified away).
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Commit Ordering
 
 By default, the commits are shown in reverse chronological order.
@@ -690,6 +745,11 @@ With `--topo-order`, they would show 8 6 5 3 7 4 2 1 (or 8 7 4 2 6 5 3 1); some 
 
 Output the commits chosen to be shown (see *Commit Limiting* section above) in reverse order. Cannot be combined with `--walk-reflogs`.
 
+
+
+
+
+
 ### Object Traversal
 
 These options are mostly targeted for packing of Git repositories.
@@ -701,6 +761,12 @@ Only show the given commits, but do not traverse their ancestors. This has no ef
 `--do-walk`
 
 Overrides a previous `--no-walk`.
+
+
+
+
+
+
 
 ### Commit Formatting
 
@@ -857,6 +923,17 @@ When `--graph` is not used, all history branches are flattened which can make it
 `--graph-lane-limit=` *\<n>*
 
 When `--graph` is used, limit the number of graph lanes to be shown. Lanes over the limit are replaced with a truncation mark *~*. By default it is set to 0 (no limit), zero and negative values are ignored and treated as no limit.
+
+
+
+
+
+
+
+
+
+
+
 
 ## PRETTY FORMATS
 
@@ -1185,9 +1262,18 @@ $ git log -2 --pretty=tformat:%h 4da45bef
 $ git log -2 --pretty=%h 4da45bef
 ```
 
+
+
+
+
+
+
+
+
+
 ## DIFF FORMATTING
 
-By default, `git` `log` does not generate any diff output. The options below can be used to show the changes made by each commit.
+- ###### By default, `git` `log` does not generate any diff output. The options below can be used to show the changes made by each commit.
 
 Note that unless one of `--diff-merges` variants (including short `-m`, `-c`, `--cc`, and `--dd` options) is explicitly given, merge commits will not show a diff, even if a diff format like `--patch` is selected, nor will they match search options like `-S`. The exception is when `--first-parent` is in use, in which case `first-parent` is the default format for merge commits.
 
@@ -1797,9 +1883,25 @@ Note that this option is only supported for diffs between tree objects, not agai
 
 For more detailed explanation on these common options, see also [gitdiffcore\[7\]](https://git-scm.com/docs/gitdiffcore).
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Generating patch text with -p
 
-Running [git-diff\[1\]](https://git-scm.com/docs/git-diff), [git-log\[1\]](https://git-scm.com/docs/git-log), [git-show\[1\]](https://git-scm.com/docs/git-show), [git-diff-index\[1\]](https://git-scm.com/docs/git-diff-index), [git-diff-tree\[1\]](https://git-scm.com/docs/git-diff-tree), or [git-diff-files\[1\]](https://git-scm.com/docs/git-diff-files) with the `-p` option produces patch text. You can customize the creation of patch text via the `GIT_EXTERNAL_DIFF` and the `GIT_DIFF_OPTS` environment variables (see [git\[1\]](https://git-scm.com/docs/git)), and the `diff` attribute (see [gitattributes\[5\]](https://git-scm.com/docs/gitattributes)).
+- ###### Running [git-diff\[1\]](https://git-scm.com/docs/git-diff), [git-log\[1\]](https://git-scm.com/docs/git-log), [git-show\[1\]](https://git-scm.com/docs/git-show), [git-diff-index\[1\]](https://git-scm.com/docs/git-diff-index), [git-diff-tree\[1\]](https://git-scm.com/docs/git-diff-tree), or [git-diff-files\[1\]](https://git-scm.com/docs/git-diff-files) with the `-p` option produces patch text. You can customize the creation of patch text via the `GIT_EXTERNAL_DIFF` and the `GIT_DIFF_OPTS` environment variables (see [git\[1\]](https://git-scm.com/docs/git)), and the `diff` attribute (see [gitattributes\[5\]](https://git-scm.com/docs/gitattributes)).
 
 What the `-p` option produces is slightly different from the traditional diff format:
 
@@ -1838,6 +1940,10 @@ What the `-p` option produces is slightly different from the traditional diff fo
 	rename to a
 	```
 5. Hunk headers mention the name of the function to which the hunk applies. See "Defining a custom hunk-header" in [gitattributes\[5\]](https://git-scm.com/docs/gitattributes) for details of how to tailor this to specific languages.
+
+
+
+
 
 ## Combined diff format
 
@@ -1918,6 +2024,10 @@ In the above example output, the function signature was changed from both files 
 
 When shown by `git` `diff-tree` `-c`, it compares the parents of a merge commit with the merge result (i.e. file1..fileN are the parents). When shown by `git` `diff-files` `-c`, it compares the two unresolved merge parents with the working tree file (i.e. file1 is stage 2 aka "our version", file2 is stage 3 aka "their version").
 
+
+
+
+
 ## EXAMPLES
 
 `git` `log` `--no-merges`
@@ -1960,6 +2070,13 @@ Shows how the function `main` () in the file `main.c` evolved over time.
 
 Limits the number of commits to show to 3.
 
+
+
+
+
+
+
+
 ## DISCUSSION
 
 Git is to some extent character encoding agnostic.
@@ -1985,6 +2102,14 @@ Although we encourage that the commit log messages are encoded in UTF-8, both th
 	If you do not have this configuration variable, the value of `i18n.commitEncoding` is used instead.
 
 Note that we deliberately chose not to re-code the commit log message when a commit is made to force UTF-8 at the commit object level, because re-coding to UTF-8 is not necessarily a reversible operation.
+
+
+
+
+
+
+
+
 
 ## CONFIGURATION
 
