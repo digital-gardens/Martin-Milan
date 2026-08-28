@@ -13847,3 +13847,9 @@ cmd /c dir g?00*
 cmd /c dir g0004*  /x
 cmd /c dir g*0004*  /x
 git branch -a
+dir /x
+cmd /c dir /x
+cmd /c dir /?
+cmd /c dir /x
+cmd /c dir /x .
+cmd /c dir /x c:
