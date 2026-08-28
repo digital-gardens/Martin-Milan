@@ -1,5 +1,11 @@
+očkování 250901 20260828 denne  ockovacicentrum.cz 1r0826 1r0818
+
+https://www.ockovacicentrum.cz/ see  master C:\Users\marti\OneDrive\Dokumenty\00-MM\2400-WIKI-00\očkování proti chřipce.f8.md 
+- # pro zdravotniky! ...     https://vakciny.avenier.cz/cz/aktualne ... já tam lezu jen kvůli vcasne informaci, zda už vubec je ta vakcína ... ℹ️ℹ️ℹ️ℹ️ (P.P.S. termíny už jsou z poloviny nebo i víc rozebrané!) ..250901
 
 // zalohy z google-Keep
+
+
 
 # https://www.ockovacicentrum.cz/cz/praha-ordinacni-hodiny
     https://www.ockovacicentrum.cz/cz/oc-praha6
@@ -22,7 +28,10 @@ COVID    Objednání pouze na našii zákaznické lince 545 123 321.
 
 
 
-# pro Milana ... existuje version history, existuji kopie ... D:\000doc24\Dokumenty\ockovacicentrum.cz.f8.md  je novejsi , ma vic info, ale mnoho otravnych info ...  https://onedrive.live.com/?cid=4B12298D932A2860&id=4B12298D932A2860%2142357&parId=4B12298D932A2860%2142264&o=OneUp
+
+
+### pro Milana ... existuje version history, existuji kopie ... D:\000doc24\Dokumenty\ockovacicentrum.cz.f8.md   ...  https://onedrive.live.com/?cid=4B12298D932A2860&id=4B12298D932A2860%2142357&parId=4B12298D932A2860%2142264&o=OneUp
+# pro Milana ... ... D:\000doc24\Dokumenty\ockovacicentrum.cz.f8.md  un neni  novejsi , uz nema vic info, ale ma mnoho otravnych info 
 
 
 
@@ -45,6 +54,13 @@ https://www.ockovacicentrum.cz/cz/ockovani-proti-chripce-sezona-2024-2025
 
 
 # pro zdravotniky! ...     https://vakciny.avenier.cz/cz/aktualne ... já tam lezu jen kvůli informaci, zda už je chřipková vakcína
+
+28. 8. 2026
+google chat
+https://vakciny.avenier.cz/cz/aktualne ... za par dni budou dalsi informace o distribuci vakcín // pro zdravotniky
+Varianta XFG ve formulacích pro děti (modré víčko) a pro dospělé (šedé víčko) je k dispozici pro objednání od 31. 8. 2026; distribuce k lékařům od 1. 9. 2026.
+
+
         Aktualizováno: 10. 9. 2024.
     Distribuce do ordinací
     pravděpodobně od 2. poloviny září

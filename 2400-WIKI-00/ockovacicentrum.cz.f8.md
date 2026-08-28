@@ -1,5 +1,13 @@
+očkování #afera 250901 20260828 #denne #ockovacicentrum.cz 1r0826 1r0818
 
- ℹ️ℹ️ℹ️ℹ️ (P.P.S. termíny už jsou z poloviny nebo i víc rozebrané!) 
+- # pozor .. 2026-08-28 https://www.ockovacicentrum.cz/ 
+OČKOVÁNÍ PROTI CHŘIPCE
+Na očkování se můžete objednat již nyní. K dispozici jsou termíny od 29. září 2026. @
+⚠️prave jsem se objednal ... nejdriv naklikal vakcinu proti chripce.. velmi malo terminu ... pak vakcinu proti covidu... 15 minut pred tim   // afera 20260828 priste kontrolovat web kazdy den //  @
+google calendar napsat do 31.12. // whapp
+- # pro zdravotniky! ...     https://vakciny.avenier.cz/cz/aktualne ... já tam lezu jen kvůli vcasne informaci, zda už vubec je ta vakcína ... ℹ️ℹ️ℹ️ℹ️ (P.P.S. termíny už jsou z poloviny nebo i víc rozebrané!) ..250901
+2026 netreba pro zdravotniky
+
 
 kazdopadne, velike diky za info 💛
 
@@ -39,13 +47,18 @@ kazdopadne, velike diky za info 💛
 
 # other files
 o.kov.n
-[[proti ch]]
+[[o.kov.n. proti ch.ipce]]
+C:\Users\marti\OneDrive\Dokumenty\00-MM\2400-WIKI-00\očkování proti chřipce.f8.md
+
 [[ockovani-zahranici.cz.f8]]
+
 
 
 # links
 
 
+očkování 250901 ockovacicentrum.cz 1r0826 1r0818
+https://vakciny.avenier.cz/cz/covid-19-aktualni-informace-k-distribuci-2026
 ## osobní udaje do keepu https://keep.google.com/#NOTE/1m7CUCVkRIo3rt6NCb9m_92M_usVU7yldSmNNKqbr21agSoiDl_J38Scq_frWVFs
 
 
@@ -58,8 +71,9 @@ očkování proti chřipce
     https://www.ockovacicentrum.cz/cz/oc-praha6
     Objednání pouze na našii zákaznické lince 545 123 321. 
     // (v pracovní dny od 6,30 do 17,00 hod)
-### pro Milana ... existuje version history, existuji kopie ... D:\000doc24\Dokumenty\ockovacicentrum.cz.f8.md  je novejsi , ma vic info, ale mnoho otravnych info ...  https://onedrive.live.com/?cid=4B12298D932A2860&id=4B12298D932A2860%2142357&parId=4B12298D932A2860%2142264&o=OneUp
 
+### pro Milana ... existuje version history, existuji kopie ... D:\000doc24\Dokumenty\ockovacicentrum.cz.f8.md   ...  https://onedrive.live.com/?cid=4B12298D932A2860&id=4B12298D932A2860%2142357&parId=4B12298D932A2860%2142264&o=OneUp
+# pro Milana ... ... D:\000doc24\Dokumenty\ockovacicentrum.cz.f8.md  un neni  novejsi , uz nema vic info, ale ma mnoho otravnych info 
 
 
 # afera 250901
@@ -79,7 +93,7 @@ Právě jsem se objednala na očkování proti chřipce do Avenieru PŘES WEB  /
 # ℹ️ℹ️ℹ️ℹ️ (P.P.S. termíny už jsou z poloviny nebo i víc rozebrané!) 
 
 
-.... diky ...tato veta ... to  by stalo za whatsapp ... // sms jsou ztratovy protokol// ... nebo aspon mela oddelena zprava do google chat zacinat temito slovy... je velmi stastna nahoda, ze jsem to precetl cele , i  tu cast, co neni videt v androidich oznamenich ... chtel jsem to zase odkladat tyden
+.... diky ...tato veta ... to  by stalo za ℹ️ℹ️ℹ️  whatsapp ... // sms jsou ztratovy protokol// ... nebo aspon mela oddelena zprava do google chat zacinat temito slovy... je velmi stastna nahoda, ze jsem to precetl cele , i  tu cast, co neni videt v androidich oznamenich ... chtel jsem to zase odkladat tyden
 
 objednal jsem se do **OCM Praha 6 - ordinace 1**, kdyby to , ciste fantazijne, slo pozdeji sloucit s ockovanim proti covidu
 
@@ -131,9 +145,39 @@ If you are experiencing symptoms of fatigue and/or burnout, it’s important to 
 
 ===============
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 2024
 
-# pro zdravotniky! ...     https://vakciny.avenier.cz/cz/aktualne ... já tam lezu jen kvůli informaci, zda už je chřipková vakcína
+- # pro zdravotniky! ...     https://vakciny.avenier.cz/cz/aktualne ... já tam lezu jen kvůli informaci, zda už je chřipková vakcína #yyyy #aaaaa
     https://vakciny.avenier.cz/cz/ockovani-proti-chripce-sezona-2024-2025
         Aktualizováno: 10. 9. 2024.
     Distribuce do ordinací

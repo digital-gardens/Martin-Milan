@@ -3756,3 +3756,12 @@ pwsh
 kill -Name RSIGuard
 pwsh
 dir d:
+powercfg.exe /?
+powercfg.exe /l
+powercfg.exe /q
+powercfg.exe /ali
+powercfg.exe /aliases
+powercfg.exe /h
+powercfg.exe /H
+powercfg.exe /hibernate
+powercfg.exe /hibernate on
