@@ -112,6 +112,15 @@ git log --oneline --graph --all -20    --color=always > git-log.txt
 
 - ###### --color=always 
 
+- ######  please summarize commits (work) of today (this repo) 
+
+git log --all --since="2026-08-27" --format="%h %ad %s" --date=short && echo "---" && git status --short
+
+> Today (2026-08-27): No commits yet 
+but github desktop shows approx. 10 commits today
+
+
+
 
 - ###### btw, can you summarize yesterday's commits (this repo) 
 gitk --since="1 week ago"
@@ -173,4 +182,45 @@ TipUnityShow
 Classic philosophical logic examples (every man, every king's donkey, etc.)
 
 Saturday (2026-08-22): Only 2 commits — both on the same topic:
+
+- ###### how can i get this conversation into a markdown file //, so that i can annotate it with #aaaa, #aaaaa, etc., and then ask you to summarize the important points, based on my annotations
+
+//  #bug again #aaaa for ~lower~ priority points
+
+- ###### thank you, but ... arent there  ways *for me* to get the conversation *verbatim*, into a markdown file, using classical software tools, without using AI?
+  something like  
+- going to claude.com, opening the conversation, and then using the browser's "save as" function to save the page as a markdown file, or using a browser extension that can save the page as markdown
+- going to claude.com, clicking some menu item that says "export conversation" or "download conversation" and then choosing the markdown format
+
+- ^a ^c ...  #no , fragment of a conversation, not a complete conversation, even with shift and drag and scrolling, the same failure, tiny fragm,ent 
+
+
+- ... menu item view/copy url #no 
+
+- mneu help troubleeshoo  show explorer 
+
+- /export ... zip jsonl 20 files  
+
+- ###### We've migrated to a new memory system. You have 14 days left if you'd like to export legacy memory.
+Allow Claude to save details about sensitive topics like health conditions or religious beliefs to memory. Learn more
+
+
+- # ghd view developers tools console f5
+
+- ###### Navigated to file:///C:/Users/marti/AppData/Local/GitHubDesktop/app-3.6.4/resources/app/index.html
+
+cp C:/Users/marti/AppData/Local/GitHubDesktop/app-3.6.4/resources/app/index.html C:/Users/marti/OneDrive/Dokumenty/00-MM/02-HODINOVY-011/02-HODINOVY-011---GOOD-SIGNAL.md.html
+
+
+
+
+
+
+
+
+
+
+
+
+
 
