@@ -154,7 +154,8 @@ ctrl+p
 P
 
 
-
+# what should I do next time // e.g. after moving to a new computer, 
+ 
 
 
 # Should show: origin/HEAD -> origin/backups
