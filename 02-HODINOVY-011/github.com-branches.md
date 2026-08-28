@@ -51,7 +51,8 @@ cd  G:\0004-LINKS\Martin-Milan
 bash
 
 # #bug ? ...  seems strange...
-git branch -a|clip
+git branch -a
+|clip
 
 * backups
   main
@@ -59,7 +60,110 @@ git branch -a|clip
   remotes/origin/backups
   remotes/origin/main
 
+
+git branch -a
+
 shouldn't HEAD point to backups?  
+
+
+# See what the remote thinks the default is
+git remote set-head origin -a
+
+# If you want to change it to backups
+
+
+
+
+- ###### explanation
+
+I have 1 github.com repo.. Martin-Milan
+
+till today, it had 1 branch, main 
+// the default branch on github.com is still main
+
+till today, it had 1 local clone, at c:\Users\marti\OneDrive\Dokumenty\00-MM
+//  and that is still the ~~ normal local clone
+
+
+today, I created a new branch, backups, at github 
+
+//and using github-desktop...
+today, I created a new local clone, at g:\0004-links\martin-milan
+and set the current branch there to backups
+
+then, I copied 
+by robocopy
+the files from c:\Users\marti\OneDrive\Dokumenty\00-MM
+to g:\0004-links\martin-milan
+
+robocopy copied 1 new file, and modified meta-data on many files
+
+
+
+
+  git remote set-head origin backups
+>  git remote set-head origin backups
+does it make changes to the local repo's git-dir/HEAD file?  
+does it make changes to github.com? 
+
+
+
+> Is this repo set up specifically with backups as the working branch 
+yes
+
+>and main as release/archive?
+i wish
+the g:
+will not edit
+main
+
+
+
+cat  .git/refs/remotes/origin/HEAD
+ls -l  .git/refs/remotes/origin/HEAD
+ (the local reference file)
+
+so, around 7:06, I did this:
+##git remote set-head  --verbose    origin backups
+git remote set-head      origin backups
+
+# it seems these commands are giving still the same output, even after the set-head origin backups command
+git remote set-head origin -a
+git branch -a
+
+# your 
+git remote set-head -v
+error: unknown switch `v'
+
+git remote set-head 
+usage: git remote set-head <name> (-a | --auto | -d | --delete | <branch>)
+
+# 7:06
+# there are some file mtime changes
+"G:\0004-LINKS\Martin-Milan\.git\refs\remotes\origin\HEAD"
+"G:\0004-LINKS\Martin-Milan\.git\logs\refs\remotes\origin\HEAD"
+
+# safety test
+echo a >"G:\0004-LINKS\Martin-Milan\a.txt"
+cat "G:\0004-LINKS\Martin-Milan\a.txt"
+
+github-desktop
+git commit ...
+175 changed files a.txt
+ctrl+p
+P
+
+
+
+
+
+# Should show: origin/HEAD -> origin/backups
+no
+
+# Verify
+git remote set-head 
+error:
+
 
 
 
