@@ -17,6 +17,8 @@ gee-Martin-Milan
 maybe not needed
 C:\Users\marti\OneDrive\Dokumenty\02-HODINOVY-011---GOOD-SIGNAL\doku--github.com-branches.md
 
+
+#bug 3 hours old data
 https://github.com/digital-gardens/Martin-Milan/network
 
 
@@ -127,11 +129,15 @@ so, around 7:06, I did this:
 ##git remote set-head  --verbose    origin backups
 git remote set-head      origin backups
 
+# now... it is hard to observe any changes
+
 # it seems these commands are giving still the same output, even after the set-head origin backups command
 git remote set-head origin -a
+origin/HEAD set to main
+
 git branch -a
 
-# your 
+# and your 
 git remote set-head -v
 error: unknown switch `v'
 
@@ -151,15 +157,31 @@ github-desktop
 git commit ...
 175 changed files a.txt
 ctrl+p
-P
+not P
 
 
 # what should I do next time // e.g. after moving to a new computer, 
- 
+
+... be #antifragile ?
+
+
+
+git probably won't push g: to main
+
+
+https://github.com/digital-gardens/Martin-Milan/tree/backups
+This branch is 3 commits ahead of and 10 commits behind main.
+ok
 
 
 # Should show: origin/HEAD -> origin/backups
-no
+no it still shows: origin/HEAD -> origin/main
+git remote set-head origin -a
+origin/HEAD set to main
+
+git branch -a
+  remotes/origin/HEAD -> origin/main
+
 
 # Verify
 git remote set-head 
