@@ -205,11 +205,16 @@ Saturday (2026-08-22): Only 2 commits — both on the same topic:
 Allow Claude to save details about sensitive topics like health conditions or religious beliefs to memory. Learn more
 
 
-- # ghd view developers tools console f5
+- # #yyyy ghd view developers tools console f5
 
-- ###### Navigated to file:///C:/Users/marti/AppData/Local/GitHubDesktop/app-3.6.4/resources/app/index.html
+- ###### #no "C:\Users\marti\AppData\Local\GitHubDesktop\GitHubDesktop.exe"  --help 
 
-cp C:/Users/marti/AppData/Local/GitHubDesktop/app-3.6.4/resources/app/index.html C:/Users/marti/OneDrive/Dokumenty/00-MM/02-HODINOVY-011/02-HODINOVY-011---GOOD-SIGNAL.md.html
+#nn - ###### Navigated to file:///C:/Users/marti/AppData/Local/GitHubDesktop/app-3.6.4/resources/app/index.html
+
+#nn explorer C:/Users/marti/AppData/Local/GitHubDesktop/app-3.6.4/resources/app/
+
+#n C:/Users/marti/OneDrive/Dokumenty/00-MM/02-HODINOVY-011/02-HODINOVY-011---GOOD-SIGNAL.md.html
+#n cp -iv C:/Users/marti/AppData/Local/GitHubDesktop/app-3.6.4/resources/app/index.html C:/Users/marti/OneDrive/Dokumenty/00-MM/02-HODINOVY-011/02-HODINOVY-011---GOOD-SIGNAL.md.html
 
 
 
