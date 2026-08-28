@@ -13831,3 +13831,6 @@ explorer ms-outlook:
 cp   "C:\Users\marti\OneCommander\Settings\OneCommanderV3.json"  44576milosp.OneCommander\Settings\OneCommanderV3.json
 "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 bash
+cd  G:\0004-LINKS\Martin-Milan
+git status
+bash
