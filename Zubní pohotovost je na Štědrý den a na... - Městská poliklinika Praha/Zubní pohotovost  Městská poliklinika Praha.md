@@ -75,3 +75,4 @@ LPS zubní poskytuje v nezbytném rozsahu ambulantní péči občanům v přípa
 - Protetické úkony s výjimkou provizorního nasazení krycí korunky u živých zubů (na Repin, nikoliv definitivní cementování).
 - Definitivní zubní výplně (u ojedinělých kazů či vypadlých výplní, přiložení provizorní výplně, nikoliv ošetřování vícečetně devastovaného chrupu, byť jen vložkami).
 - Plánované extrakce či mnohočetné extrakce poškozených zubů či radixů jen na přání pacienta, není-li medicínsky neodkladně indikováno zhotovování RTG snímků na přání pacienta pro jiného ošetřujícího či podobně.
+
