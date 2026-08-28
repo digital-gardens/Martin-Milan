@@ -8,11 +8,15 @@ exit
 
 ^s
 ^i when cannot save
+f3 find next
+
 
 pred velkymi zmenami
 pozor pri plnem disku
 win+q
+
 restore-point
+
 
 # JBPC DISK FULL 260319
 https://gemini.google.com/app/76b863f7a4cfec01
@@ -28,10 +32,17 @@ win+q ise
 {right-arrow} rclick admin
 File/recent
 
+
 resto.point
+
 
 #icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\onedr---admin-ise--adminsaves.f8.ps1"
 icacls "C:\Users\marti\OneDrive\Dokumenty\0000000004\00044-SCRIPTS\admin-ise--admin,martin-saves.f8.ps1"
+
+
+
+icacls 0004 grant see line 200
+
 
 
 icacls  c:\users\marti
@@ -189,6 +200,7 @@ mkdir d:\2222
 mkdir d:\000doc24
 
 icacls D:\0004-LINKS | clip
+icacls g:\0004-LINKS | clip
 
 D:\0004-LINKS MB-PC\marti:(OI)(CI)(F)
               BUILTIN\Administrators:(OI)(CI)(F)
@@ -199,6 +211,15 @@ D:\0004-LINKS MB-PC\marti:(OI)(CI)(F)
 # rx not overwrite  in 2 old editors
 # f ... use git, vscode
 # mkdir ... see nonise  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\nonadmin-nonise--newest-mbpc--nonadmin,martin-saves.f8.ps1
+g:\0004-LINKS NT AUTHORITY\Authenticated Users:(I)(OI)(CI)(RX)
+              BUILTIN\Administrators:(I)(F)
+              BUILTIN\Administrators:(I)(OI)(CI)(IO)(F)
+              NT AUTHORITY\SYSTEM:(I)(F)
+              NT AUTHORITY\SYSTEM:(I)(OI)(CI)(IO)(F)
+              BUILTIN\Users:(I)(RX)
+              BUILTIN\Users:(I)(OI)(CI)(IO)(GR,GE)
+
+Successfully processed 1 files; Failed processing 0 files
 
 
 explorer i:\
@@ -214,6 +235,11 @@ i:\ Everyone:(OI)(CI)(RX)
 icacls.exe   d:\33authenticated-users   /grant 'Authenticated Users:(oi)(ci)(f)'
 icacls.exe   d:\11techl   /grant 'techl:(oi)(ci)(f)'
 icacls.exe   d:\11techl   /grant 'marti:(oi)(ci)(f)'
+
+icacls 0004 grant see line 200
+icacls g:\0004-LINKS      /grant 'marti:(oi)(ci)(f)'
+icacls g:\0004-LINKS
+
 
 icacls.exe   d:\11techl   /grant 'marti:(oi)(ci)(f)'
 mkdir d:\11win-q-ise---icacls-grant-marti-f
