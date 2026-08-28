@@ -217,7 +217,7 @@ Allow Claude to save details about sensitive topics like health conditions or re
 #n cp -iv C:/Users/marti/AppData/Local/GitHubDesktop/app-3.6.4/resources/app/index.html C:/Users/marti/OneDrive/Dokumenty/00-MM/02-HODINOVY-011/02-HODINOVY-011---GOOD-SIGNAL.md.html
 
 
-
+- ###### 08-28 from today's git log, can you guess what I am working on, and what my goals are 
 
 
 

@@ -35,3 +35,10 @@ echo aaa > G:\0004-LINKS\test-Martin-Milan\.git\hope-not-delete-this-folder\aaa.
    Bytes :   75.91 m   75.91 m        30         0         0         0
    Times :   0:00:12   0:00:07                       0:00:00   0:00:04
 
+code C:\Users\marti\log\OneDrive--deldest-6.log     
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :       552       245       307         0         0         0
+   Files :      1318      1316         2         0         0         0
+   Bytes :   75.91 m   75.91 m       373         0         0         0
+   Times :   0:00:13   0:00:09                       0:00:00   0:00:04

@@ -6,8 +6,9 @@ rem *Robocopy---c-Dokumenty---d-mir.f5.cmd
 
 
 
-
-Robocopy.exe   C:\Users\marti\OneDrive\Dokumenty\00-MM   G:\0004-LINKS\test-Martin-Milan      /s   /XJ     /XD Obr*    /XD Vide*     /XD .git    /XD node_modules   /XD OLD*      /xf  .gitignore2222222222222222         /xf .git    /xf .849C9593-D756-4E56-*     /log+:C:\Users\marti\log\OneDrive--deldest-6.log     /tee    /ndl       /nfl      /MIR
+rem G:\0004-LINKS\test-Martin-Milan
+rem G:\0004-LINKS\Martin-Milan
+Robocopy.exe   C:\Users\marti\OneDrive\Dokumenty\00-MM   G:\0004-LINKS\Martin-Milan      /s   /XJ     /XD Obr*    /XD Vide*     /XD .git    /XD node_modules   /XD OLD*      /xf  .gitignore2222222222222222         /xf .git    /xf .849C9593-D756-4E56-*     /log+:C:\Users\marti\log\OneDrive--deldest-6.log     /tee    /ndl       /nfl      /MIR
 
 
 rem safety---
