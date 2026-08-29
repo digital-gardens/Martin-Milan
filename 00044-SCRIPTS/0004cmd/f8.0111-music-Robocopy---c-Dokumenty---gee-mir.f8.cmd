@@ -1,11 +1,23 @@
 
-rem this is not an f8 file, but an f5
+timeout 5
+
+
+exit
+
+timeout 5
+timeout 5
+
+
+rem vscode replace  
+rem 34   12
+rem ^([-] [#]+ .*)
+rem   $1
+
+
 rem single lines can be tested with f8
-rem to test the whole file, open a new terminal with a cmd
-rem *Robocopy---c-Dokumenty---d-mir.f5.cmd
 
 
-rem 
+rem
 
 rem G:\0004-LINKS\test-Martin-Milan
 rem G:\0004-LINKS\Martin-Milan
