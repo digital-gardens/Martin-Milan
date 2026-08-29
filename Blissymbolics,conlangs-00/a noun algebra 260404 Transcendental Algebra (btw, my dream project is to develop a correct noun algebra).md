@@ -1,0 +1,36 @@
+---
+title: "\"Transcendental Algebra\" (btw, my dream project is to develop a correct noun algebra)"
+source: "https://old.reddit.com/r/visual_conlangs/comments/1w1mahv/transcendental_algebra_btw_my_dream_project_is_to/?"
+author:
+  - "[[martin_m_n_novy]]"
+published: 2026-08-29
+created: 2026-08-29
+description: "visual conlangs, ideographic conlangs, pictographic conlangs, (logographic conlangs) ... emoji-based, Unicode-based, iConji, Zlango,..."
+tags:
+  - "clippings"
+---
+---
+
+## Comments
+
+> **martin\_m\_n\_novy** · [2026-08-29](https://reddit.com/r/visual_conlangs/comments/1w1mahv/transcendental_algebra_btw_my_dream_project_is_to/p6ls4yw/) · 0 points
+> 
+> a noun algebra could be influenced by set theory, category theory, relational algebra
+"a noun algebra" could be influenced by set theory, category theory ologs , relational algebra
+
+10 Oct 2024 — ... noun algebra description has inspired a great many. people as evidenced by the material on the now-defunct website adjectivenounmath.com. [4] ...Read more
+
+
+btw, now I recall ...
+a completely different,
+slightly infamous, noun algebra ...
+ a noun vector algebra ...
+like
+"king - man + woman "
+could be near
+"queen"
+
+
+
+
+
