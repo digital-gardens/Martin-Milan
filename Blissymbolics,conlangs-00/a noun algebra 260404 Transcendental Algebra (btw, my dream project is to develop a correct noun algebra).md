@@ -18,7 +18,17 @@ tags:
 > a noun algebra could be influenced by set theory, category theory, relational algebra
 "a noun algebra" could be influenced by set theory, category theory ologs , relational algebra
 
-10 Oct 2024 — ... noun algebra description has inspired a great many. people as evidenced by the material on the now-defunct website adjectivenounmath.com. [4] ...Read more
+a noun algebra could be influenced by  set theory, category theory ologs , relational algebra, EDIT: and also Wikidata
+
+e.g.
+Wikidata for 
+- song
+- artist
+e.g. Beatles
+https://www.wikidata.org/wiki/Q1299
+
+
+#n 10 Oct 2024 — ...adjective-noun algebra description has inspired a great many. people as evidenced by the material on the now-defunct website adjectivenounmath.com. [4] ...Read more
 
 
 btw, now I recall ...
