@@ -1,0 +1,142 @@
+[
+  {
+    "op": "core/column-addition",
+    "description": "Create column draw_str at index 1 based on column BCI-AV# using expression grel:cell.cross(\"BCI AV wbs\", \"Column 1\").cells[\"Column 5\"].value[0]",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "draw_str",
+    "columnInsertIndex": 1,
+    "baseColumnName": "BCI-AV#",
+    "expression": "grel:cell.cross(\"BCI AV wbs\", \"Column 1\").cells[\"Column 5\"].value[0]",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column draw_str using expression grel:value.replaceChars('&',' ')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "draw_str",
+    "expression": "grel:value.replaceChars('&',' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column img at index 3 based on column English using expression grel:'http://127.0.0.1:3333/images/blissymbolics.org/bliss_h_transp_png/'+value.escape('url')+'.png'",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "img",
+    "columnInsertIndex": 3,
+    "baseColumnName": "English",
+    "expression": "grel:'http://127.0.0.1:3333/images/blissymbolics.org/bliss_h_transp_png/'+value.escape('url')+'.png'",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column draw_str using expression grel:value.replaceChars('#',' ')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "draw_str",
+    "expression": "grel:value.replaceChars('#',' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column draw_str to position 2",
+    "columnName": "draw_str",
+    "index": 2
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column draw_str to position 3",
+    "columnName": "draw_str",
+    "index": 3
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column draw_str to position 4",
+    "columnName": "draw_str",
+    "index": 4
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column draw_str to position 5",
+    "columnName": "draw_str",
+    "index": 5
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column draw_str to position 6",
+    "columnName": "draw_str",
+    "index": 6
+  },
+  {
+    "op": "core/column-move",
+    "description": "Move column draw_str to position 7",
+    "columnName": "draw_str",
+    "index": 7
+  },
+  {
+    "op": "core/column-addition",
+    "description": "Create column engl+spaces at index 7 based on column Swedish using expression grel:cells.English.value.replace(/^/,',').replace(/$/,',')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "newColumnName": "engl+spaces",
+    "columnInsertIndex": 7,
+    "baseColumnName": "Swedish",
+    "expression": "grel:cells.English.value.replace(/^/,',').replace(/$/,',')",
+    "onError": "set-to-blank"
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column engl+spaces using expression grel:value.replace(/[,]/,' , ').replace(/[_]/,' ')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "engl+spaces",
+    "expression": "grel:value.replace(/[,]/,' , ').replace(/[_]/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column engl+spaces using expression grel:value.replace(/[^,\\w]+/,' ')",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "engl+spaces",
+    "expression": "grel:value.replace(/[^,\\w]+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "description": "Text transform on cells in column BCI-AV# using expression value.toString()",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "BCI-AV#",
+    "expression": "value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]
