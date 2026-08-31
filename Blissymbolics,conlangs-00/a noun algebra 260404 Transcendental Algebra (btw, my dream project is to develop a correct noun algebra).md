@@ -11,6 +11,49 @@ tags:
 ---
 ---
 
+
+modeling 
+of the meaning
+ of nouns
+in a mathematical way
+
+what is
+the type
+of mathematical object
+that can be used
+to model the meaning of a noun?
+
+what is a timeline
+of such models
+
+
+btw, now Gemini explains to me  ...
+a completely different
+noun algebra ... based on vectors,
+... adjectives as matrices, transitive verbs as 3-tensors
+
+EDIT
+
+slightly infamous example
+like
+"king - man + woman "
+could be near
+"queen"
+
+
+
+
+a history
+
+
+and dependent type theory
+for nouns ...
+a timeline please
+
+
+
+
+
 ## Comments
 
 > **martin\_m\_n\_novy** · [2026-08-29](https://reddit.com/r/visual_conlangs/comments/1w1mahv/transcendental_algebra_btw_my_dream_project_is_to/p6ls4yw/) · 0 points
