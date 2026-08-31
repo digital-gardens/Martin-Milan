@@ -71,7 +71,7 @@ Zubní pohotovost Praha | Bez registrace | DoctorDent.cz
 Můžete volat od 8:00 do 20:00 každý den!
 - [+420 608 123 928](tel:+420608123928)
 - [+420 777 056 788](tel:+420777056788) #yy  #whatsapp
-- [info@andel-dent.cz](mailto:info@andel-dent.cz)
+- andel-dent.cz
 
 Pohotovost během 3 hodin od kontaktování
 Рohotovost po telefonické domluvě na počkání
