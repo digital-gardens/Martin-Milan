@@ -9,55 +9,346 @@
 - ℹ️ #aaa Vítá mně tu šafrán, spolu s jemnou skořicí  
 - ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,  
 - ℹ️ #aaa yyyŘíkají, že paní má se má,  
-- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
-- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
-- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
-- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
-- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)
+- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)  
+- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)  
+- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)  
+- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)  
+- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)  
+# cmd rem # start "" "xyz"
 ###### #aaaa todo pomodoro 1 minute
--  ### # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat
+-  ### # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat  
 # #aaa objev
 # EDIT .. #fail ... obnovit bankovní identitu a mobilní aplikaci/aplikace banky CSOB ...
 - ℹ️ #aaa gemini v gmail-u
 # EDIT .. #fail ... matně si vzpomínám, že jsem četl o ... bankovní identitě CSOB
 - ℹ️ #aa 🎶 K rychlému vyřešení nečekaných potíží se skvěle hodí: Help! od The Beatles.
--  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
-- #### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...
-- # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
-- ##### #aaa Na kolejích stála, za uchem květ, vlasy trávou zavázaný, s kytarou na zádech, strun už jen pět, hezký oči uplakaný. ...
--  #aaa V zahradě za cihlovou zídkou, popsanou v slavných výročích, sedává na podzim na trávě před besídkou děvčátko s ...
--  #aaa Capo I., *G*, 80 bpm 1. Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
--  #aaa : Víno máš a markytánku, dlouhá noc se pro-hý-ří. Víno máš a chvilku spánku, díky, dí-ky, ver-bí-ři. 1. Dříve než ...
--  #aaa Když Sever válčí s Jihem a zem jde do války na polích místo bavlny teď rostou bodláky. Ve stínu u silnice vidím z ...
--  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...
-- # #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední 
--  Twenty Five years and my life is still
--  That the world was made of this brotherhood of man
--  And So I cry sometimes when I'm lying in bed
--  So I wake in the morning and I step outside
-- # And I try, oh my god do I try
--  - #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851
--  [Do You Want to Know a Secret](https://www.karaoketexty.cz/texty-pisni/beatles-the/do-you-want-to-know-a-secret-3246) 8 458
--  \*C\*, 145 bpm 1. Mám ploché nohy po tetě A fantazii po svém strýci Už dlouho šlapu po světě A nevím, co mám o něm ...
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap  
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog *
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
++ get-winevent -listlog * | foreach-object { echo $_.logname }
+-----------     ----                                               -------    ------
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
++ $x = get-winevent -listlog *
+-------   ------------------ ----------- -------
+-------   ------------------ ----------- -------
+-------   ------------------ ----------- -------
+-------   ------------------ ----------- -------
+-------   ------------------ ----------- -------
+-------   ------------------ ----------- -------
++ Get-Date.
++ | %{Get-EventLog -LogName $_.Log -After (Get-Date).AddMinutes(-10) -E ...
+----- ----         ---------   ------                                  ---------- -------
++ | %{Get-EventLog -LogName $_.Log -After (Get-Date).AddMinutes(-15) -E ...
+- # Spirituál Kvintet - Chci sluncem být (až se k nám právo vrátí) #aaaaa
+* google-chat (hovor, videohovor)
+* cl-launch 3.22-1
+* First-order logic viewed as a (meta) conlang
+---------------  ----------- ------                                                                  ---- ----
+  --------  -------------  -------  -------  ---  ---
+  -------------  ----------------  -------  -------
+# # YAML
+# #TreeNotation
+# # YAML
+- cmd: od --output-duplicates  --format=c --width=1  --address-radix=n opc |sort|uniq -c
+    # - pandoc is used to convert notebooks to html files
+    # - run-one - a wrapper script that runs no more
+    # - tini is installed as a helpful container entrypoint that reaps zombie
+  - Press CTRL-C to abort the installation
+    - ca-certificates==2021.7.5=h06a4308_1
+    - conda-package-handling==1.7.3=py39h27cfd23_1
+    - libgcc-ng==9.3.0=h5101ec6_17
+    - libstdcxx-ng==9.3.0=hd4cf53a_17
+## P = U * I
+* First-order logic viewed as a (meta) conlang
+---------------  ----------- ------                                                                  ---- ----
+  --------  -------------  -------  -------  ---  ---
+  -------------  ----------------  -------  -------
+# ls -C
+------------           -----------                    --------------    ---------         ----------------
+* e.g. for \*.gram\* files, highlight words like \\w\*Cell , "javascript", { }
+# 9-18 to python ranges
+###  make -f makefile-gtk
+        # #b = array(clip(transpose(xx),0,255),'B')
+        # #b = array(clip((yy),0,255),'B')
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+        # #b = array(clip(transpose(xx),0,255),'B')
+        # #b = array(clip((yy),0,255),'B')
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+        # #b = array(clip(transpose(xx),0,255),'B')
+        # #b = array(clip((yy),0,255),'B')
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+        # #b = array(clip(transpose(xx),0,255),'B')
+        # #b = array(clip((yy),0,255),'B')
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+        # #b = array(clip(transpose(xx),0,255),'B')
+        # #b = array(clip((yy),0,255),'B')
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+        # #b = array(clip(transpose(xx),0,255),'B')
+        # #b = array(clip((yy),0,255),'B')
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+        # #b = array(clip(transpose(xx),0,255),'B')
+        # #b = array(clip((yy),0,255),'B')
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+        # #b = array(clip(transpose(xx),0,255),'B')
+        # #b = array(clip((yy),0,255),'B')
+        # #b = array(clip(transpose(xx),0,255),'B')
+        # #b = array(clip((yy),0,255),'B')
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+# #x11 = floor(linspace(xlo, xhi + 0.999, w))
+# #y11 = floor(linspace(yhi + 0.999 , ylo, h))
+# #bhi=fliplr(xx)  #xx
+# ####shi=flipud(yy)   # yy
+    + '&key='+CustomSuggest.FREEBASE_API_KEY+'&callback=?',
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher gufw (missing desktop file)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher ubuntuone-installer (missing desktop file)
+# find . -size +10M -size -50
+### ##
+### ### ###
+# find . -size +10M -size -50
+### ##
+### ### ###
+* cl-launch 3.22-1
+* cl-launch 3.22-1
+# history-and-alias-expand-line (not bound)
+# history-search-backward (not bound)
+# history-search-forward (not bound)
+# history-substring-search-backward (not bound)
+# history-substring-search-forward (not bound)
+# non-incremental-forward-search-history-again (not bound)
+# non-incremental-reverse-search-history-again (not bound)
+# vi-fetch-history (not bound)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher gufw (missing desktop file)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher ubuntuone-installer (missing desktop file)
+# history-and-alias-expand-line (not bound)
+# history-search-backward (not bound)
+# history-search-forward (not bound)
+# history-substring-search-backward (not bound)
+# history-substring-search-forward (not bound)
+# non-incremental-forward-search-history-again (not bound)
+# non-incremental-reverse-search-history-again (not bound)
+# vi-fetch-history (not bound)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher gufw (missing desktop file)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher ubuntuone-installer (missing desktop file)
+- cmd: ls -l .config/fish/fish_history 
+- Anti-Desperation mode now works (everytime you reload same domain time decreases)
+# history-and-alias-expand-line (not bound)
+# history-search-backward (not bound)
+# history-search-forward (not bound)
+# history-substring-search-backward (not bound)
+# history-substring-search-forward (not bound)
+# non-incremental-forward-search-history-again (not bound)
+# non-incremental-reverse-search-history-again (not bound)
+# vi-fetch-history (not bound)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher gufw (missing desktop file)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher ubuntuone-installer (missing desktop file)
+- cmd: ls -l .config/fish/fish_history 
+- Anti-Desperation mode now works (everytime you reload same domain time decreases)
+# history-and-alias-expand-line (not bound)
+# history-search-backward (not bound)
+# history-search-forward (not bound)
+# history-substring-search-backward (not bound)
+# history-substring-search-forward (not bound)
+# non-incremental-forward-search-history-again (not bound)
+# non-incremental-reverse-search-history-again (not bound)
+# vi-fetch-history (not bound)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher gufw (missing desktop file)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher ubuntuone-installer (missing desktop file)
+* First-order logic viewed as a (meta) conlang
+# history-and-alias-expand-line (not bound)
+# history-search-backward (not bound)
+# history-search-forward (not bound)
+# history-substring-search-backward (not bound)
+# history-substring-search-forward (not bound)
+# non-incremental-forward-search-history-again (not bound)
+# non-incremental-reverse-search-history-again (not bound)
+# vi-fetch-history (not bound)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher gufw (missing desktop file)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher ubuntuone-installer (missing desktop file)
+* font-testing-page
+* cl-launch 3.22-1
+* First-order logic viewed as a (meta) conlang
+# history-and-alias-expand-line (not bound)
+# history-search-backward (not bound)
+# history-search-forward (not bound)
+# history-substring-search-backward (not bound)
+# history-substring-search-forward (not bound)
+# non-incremental-forward-search-history-again (not bound)
+# non-incremental-reverse-search-history-again (not bound)
+# vi-fetch-history (not bound)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher gufw (missing desktop file)
+** (gnome-control-center.real:3414): WARNING **: Ignoring launcher ubuntuone-installer (missing desktop file)
+- #### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...  
+- # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...  
+- ##### #aaa Na kolejích stála, za uchem květ, vlasy trávou zavázaný, s kytarou na zádech, strun už jen pět, hezký oči uplakaný. ...  
+-  #aaa V zahradě za cihlovou zídkou, popsanou v slavných výročích, sedává na podzim na trávě před besídkou děvčátko s ...  
+-  #aaa Capo I., *G*, 80 bpm 1. Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...  
+-  #aaa : Víno máš a markytánku, dlouhá noc se pro-hý-ří. Víno máš a chvilku spánku, díky, dí-ky, ver-bí-ři. 1. Dříve než ...  
+-  #aaa Když Sever válčí s Jihem a zem jde do války na polích místo bavlny teď rostou bodláky. Ve stínu u silnice vidím z ...  
+-  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...  
+- # #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední   
+-  Twenty Five years and my life is still  
+-  That the world was made of this brotherhood of man  
+-  And So I cry sometimes when I'm lying in bed  
+-  So I wake in the morning and I step outside  
+- # And I try, oh my god do I try  
+-  - #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851  
+-  [Do You Want to Know a Secret](https://www.karaoketexty.cz/texty-pisni/beatles-the/do-you-want-to-know-a-secret-3246) 8 458  
+-  \*C\*, 145 bpm 1. Mám ploché nohy po tetě A fantazii po svém strýci Už dlouho šlapu po světě A nevím, co mám o něm ...  
 - Dnes je **neděle, 16.srpna.2026**
--  [ABBA (48)](https://www.yousongs.cz/interpret/600-ABBA.aspx?utm_source=&utm_medium=&utm_campaign=) 
+-  [ABBA (48)](https://www.yousongs.cz/interpret/600-ABBA.aspx?utm_source=&utm_medium=&utm_campaign=)   
 - Dnes je **neděle, 16.srpna.2026**
--  /: :/ Mám pěknou sirku v zubech, krempu do čela a bota zpuchřelá mi vrásky nedělá. Jen tou svou sirkou ...
+-  /: :/ Mám pěknou sirku v zubech, krempu do čela a bota zpuchřelá mi vrásky nedělá. Jen tou svou sirkou ...  
 ##### Ža-So-Tu
 - Dnes je **neděle, 16.srpna.2026**
--  A ja taka dzivočka, cingilingi bom, rada vijem pirečka, cingilingi bom, Rada vijem, rada dam, cingilingi bom, bom, ...
+-  A ja taka dzivočka, cingilingi bom, rada vijem pirečka, cingilingi bom, Rada vijem, rada dam, cingilingi bom, bom, ...  
 ##### HIFIVE - Stars Sing, když hlasy září - Olomouc
 - Dnes je **neděle, 16.srpna.2026**
--  Ahoj,slunko,tobě to teda dneska sekne, včera mi bylo smutno, ale dneska už je zase mírně pěkně, jó, někdy se zdá, že ...
--  Dopisy bez podpisu, změněným rukopisem, slovíčka plná hnisu, vykřičník za dopisem. Výstřely těžkou zbraní ...
--  1. Až se nám poslední zub vykotlá, nebude nadávat z beznaděje přejdeme z tvrdých řízká na protlak a pak si řekneme ...
--  Až obuju si rano černe papirove boty, až i moja stara pochopi že nejdu do roboty, až vyjde dluhy pruvod smutečnich ...
--   První    Předchozí  **1** - [2](https://www.yousongs.cz/interpret/18-Nohavica-Jaromir.aspx?utm_source=&utm_medium=&utm_campaign=&Page=2) 
+-  Ahoj,slunko,tobě to teda dneska sekne, včera mi bylo smutno, ale dneska už je zase mírně pěkně, jó, někdy se zdá, že ...  
+-  Dopisy bez podpisu, změněným rukopisem, slovíčka plná hnisu, vykřičník za dopisem. Výstřely těžkou zbraní ...  
+-  1. Až se nám poslední zub vykotlá, nebude nadávat z beznaděje přejdeme z tvrdých řízká na protlak a pak si řekneme ...  
+-  Až obuju si rano černe papirove boty, až i moja stara pochopi že nejdu do roboty, až vyjde dluhy pruvod smutečnich ...  
+-   První    Předchozí  **1** - [2](https://www.yousongs.cz/interpret/18-Nohavica-Jaromir.aspx?utm_source=&utm_medium=&utm_campaign=&Page=2)   
 - Dnes je**sobota, 15.srpna.2026**
 - **Date:** 7/26/2024
 - **URL:** https://nesslabs.com/glasp-featured-tool
-- # stál jsem a hleděl jsem, hleděl jsem nahoru,
--  Bmp 97 Capo D-0 C-2 G-7 1. Déšť ti, holka, smáčel vlasy, smáčel vlasy z tvých očí zbyl prázdnej kruh, kde je ...
+- # stál jsem a hleděl jsem, hleděl jsem nahoru,  
+# 0111--songs--music--lyrics
+-  Bmp 97 Capo D-0 C-2 G-7 1. Déšť ti, holka, smáčel vlasy, smáčel vlasy z tvých očí zbyl prázdnej kruh, kde je ...  
 - Dnes je **neděle, 16.srpna.2026**
 - #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
 - ℹ️ #aaaa #zpívám  capo2 Na dlani jednu z tvých řas, do tmy se koukám, hraju si písničky tvý, co jsem ti psal, je skoro půlnoc a z ...

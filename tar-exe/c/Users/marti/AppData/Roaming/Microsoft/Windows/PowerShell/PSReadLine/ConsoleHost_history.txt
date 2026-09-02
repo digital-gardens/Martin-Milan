@@ -3765,3 +3765,5 @@ powercfg.exe /h
 powercfg.exe /H
 powercfg.exe /hibernate
 powercfg.exe /hibernate on
+shutdown.exe -h
+shutdown.exe /h
