@@ -21,7 +21,8 @@ mám bolest zubů
 
 - u zubaře jsem nebyl 3 roky
 
-- asi mi dá termín za 2 týdny
+- asi mi dá termín za 2 týdny?
+> Vážený pane doktore, > > nevím, zda jste dostal můj včerejší mail. > > Chtěl bych se zeptat, > zda je reálné, > abych přišel > příští nebo přespříští týden.
 
 
 ---
@@ -80,6 +81,9 @@ Pohotovost během 3 hodin od kontaktování
 Klinika Karlin Dent.
 
 ===
+
+Stomatologie Denexis , Praha, Nové Město
+
 
 
 
