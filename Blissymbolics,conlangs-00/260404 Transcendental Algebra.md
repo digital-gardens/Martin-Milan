@@ -11,7 +11,12 @@ tags:
 
 source: "https://tck.mn/transalg/"
 
-this is just the text ... the html contains the pictures
+bash
+nl --help | clip 
+
+
+this is just the text ... the html contains the pictures as 1000 of png
+
 
 
 
