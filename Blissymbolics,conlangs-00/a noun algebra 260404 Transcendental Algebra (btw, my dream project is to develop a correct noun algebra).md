@@ -11,6 +11,11 @@ tags:
 ---
 ---
 
+
+https://tck.mn/transalg/
+https://github.com/tckmn/tckmn.github.io/blob/master/transalg/index.html
+
+
 -n'ln'
 bash
 nl   --help 
