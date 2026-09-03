@@ -84,6 +84,26 @@ Klinika Karlin Dent.
 
 Stomatologie Denexis , Praha, Nové Město
 
+------------------
+
+20260901 byl jsem na pohotovosti 
+
+doktorka říkala spoustu věcí, nemohl jsem si zapisovat
+
+vyfotil jsem si formulář, který mi dala
+
+byla tam slova
+
+- trepanace
+- incize
+
+vzpomínám si mlhavě, že doktorka 
+možná říkala něco jako 
+že ten drén si mám
+následující den //?
+vyndat sám //?
+... je to možné?
+
 
 
 
