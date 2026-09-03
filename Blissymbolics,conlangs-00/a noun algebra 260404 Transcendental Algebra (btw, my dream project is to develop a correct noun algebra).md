@@ -11,10 +11,13 @@ tags:
 ---
 ---
 
-
+-n'ln'
 bash
 nl   --help 
+nl  -ba      -s') '  -w4    "C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\Transcendental Algebra_files\index.html"  |  sed 's/^ */(/' >"C:\Users\marti\OneDrive\Dokumenty\00-MM\Blissymbolics,conlangs-00\Transcendental Algebra_files\9index.html"
 
+
+    |head 
 
 
 
