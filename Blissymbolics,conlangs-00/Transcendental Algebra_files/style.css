@@ -1,0 +1,58 @@
+html, body {
+    background-color: #fff;
+    color: #000;
+    font: 13pt sans-serif;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0px auto;
+    padding: 1em;
+}
+
+#totop {
+    display: block;
+    width: 2em;
+    height: 2em;
+    background-color: #ddd;
+    position: fixed;
+    top: 0.5em;
+    left: 0.5em;
+}
+
+#totop > div {
+    border-left: 0.5em solid transparent;
+    border-right: 0.5em solid transparent;
+    border-bottom: 0.866em solid #222;
+    position: absolute;
+    top: 0.5em;
+    left: 0.5em;
+}
+
+div#book .fade {
+    font-style: italic;
+}
+
+div#book p {
+    margin: 0;
+}
+
+div#book p.fade {
+    font-size: 11pt;
+    color: #888;
+}
+
+div#book h2 span.fade {
+    display: block;
+    font-size: 14pt;
+}
+
+div#book img.inline {
+    vertical-align: middle;
+    margin: 0 0.5em;
+    max-width: 100%;
+}
+
+div#book img.inline.pad {
+    margin: 0.5em;
+}
