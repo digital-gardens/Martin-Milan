@@ -12,6 +12,15 @@ tags:
 ---
 
 
+bash
+nl   --help 
+
+
+
+
+
+
+
 modeling 
 of the meaning
  of nouns
