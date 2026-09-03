@@ -106,6 +106,19 @@ vyndat sám //?
 
 
 
+---
+# 20260901  20260902  
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\zubni-pohotovost 20260826\Antibiotics in dentistry - what do people do!.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\zubni-pohotovost 20260826\Antibiotic misuse.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\zubni-pohotovost 20260826\Warning Signs of Spreading ... sepsis.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\zubni-pohotovost 20260826\zubnÍ POHOTOVOSt, trepanace a incize.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\zubni-pohotovost 20260826\Kvitance – Wikipedie.md"
+
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\zubni-pohotovost 20260826\aaaa  overprescription of antibiotics by dentist.md"
+
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\zubni-pohotovost 20260826\aaa yyy Každé ráno probouzí mně sluncem hořícím.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\zubni-pohotovost 20260826\autistic burnout coping strategies.md"
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\zubni-pohotovost 20260826\aaaaaa         yyyyy rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří mmmmmap.md"
 
 
 
