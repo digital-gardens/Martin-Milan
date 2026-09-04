@@ -1,24 +1,44 @@
 
-# noun algebra, emoji algebra, word algebra 260404-904
-
-influenced by:
-- set algebra
-- relational algebra
 
 
+
+# Let's start to develop a noun and emoji algebra
+... influenced by:
+- set algebra // wikipedia ...
+- relational algebra // wikipedia ... 
+- category theory ologs // wikipedia ...
+- Wikidata // wikipedia ...
+
+# basic nouns
+
+
+👨 = Man
+... the set of all men 
+
+
+👩 = Woman
+ ... the set of all women
+
+is a subset of the set of all persons 👤
 Man ... the set of all men
 
-👨= Man
+Woman
 
-Woman ... the set of all women
-
-👩= Woman
 
 Alien ... the set of all aliens
 
-👽= Alien
+👽 = Alien
 
 
+Entity ... the set of all entities
+
+
+# more nouns
+
+Person ... the set of all persons
+
+👤 = Person
+👤 = 👨 ∪ 👩 ∪ ...  ∪ 👽 ∪ ...
 
 
 - a 👩 (woman) is a 👤 (person)
@@ -30,3 +50,5 @@ Alien ... the set of all aliens
 
 
 
+# noun algebra, emoji algebra, word algebra 260404-904
+a noun algebra could be influenced by set theory, category theory ologs , relational algebra, EDIT: and also Wikidata
