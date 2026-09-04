@@ -13860,3 +13860,5 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\0111-music-Robocop
 cmd /c "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\0111-music-Robocopy---c-Dokumenty---gee-mir.f5.cmd"
 bash
 python
+python@@@@@
+shutdown /h
