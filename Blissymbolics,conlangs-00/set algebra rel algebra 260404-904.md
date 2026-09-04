@@ -14,5 +14,21 @@ Cartesian Product (times): × (U+00D7)
 
 
 
+In Wikidata, lexicographical entries have a different identifier from regular item entries. These entries are prefixed with the letter L, such as in the example entries for book (L16168) and cow (L3726). Lexicographical entries in Wikidata can contain statements, senses, and forms.[16] The use of lexicographical entries in Wikidata allows for the documentation of word usage, the connection between words and items on Wikidata, word translations, and enables machine-readable lexicographical data.
+
+
+https://en.wikipedia.org/wiki/Wikidata
+https://www.wikidata.org/wiki/Q701766
+https://www.wikidata.org/wiki/Wikidata:Human
+https://www.wikidata.org/wiki/Q5
+https://www.wikidata.org/wiki/Q3244512
+
+//// https://en.wikipedia.org/wiki/Relation_algebra
+
+
+
+
+
+
 
 
