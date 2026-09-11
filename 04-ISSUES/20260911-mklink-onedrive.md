@@ -18,3 +18,17 @@ cmd /c dir /aL /s C:\Users\marti\OneDrive\ | findstr "<SYMLINKD> <JUNCTION>" | c
 
 When a junction targets an unavailable drive, the sync engine gets trapped.
 
+https://learn.microsoft.com/en-us/answers/questions/5394593/*solved*-onedrive-constantly-writing-to-disk-to-th
+*Solved* OneDrive Constantly Writing to Disk to the tune of 5MB/s. Writing to AppData\Local\Microsoft\OneDrive\settings\Personal\SyncEngineDatabase.db-wal
+
+https://techcommunity.microsoft.com/discussions/onedriveforbusiness/major-onedrive-business-client-continuous-sync-loop-bug/93880
+
+
+     Start-Transcript -Path "$(Get-ItemPropertyValue -path HKCU:\Software\Microsoft\OneDrive\Accounts\Business1 -Name 'UserFolder')\LockedFile.txt"
+
+
+
+
+
+
+
