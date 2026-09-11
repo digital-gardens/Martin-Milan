@@ -35,8 +35,11 @@ find in files ... 3 instances of  Doku....s*  in the codebase, all in the same f
 
 
 
-# 20260518.18   HOPE FOR Junction TO  Junction
+# #n 20260518.18   HOPE FOR Junction TO  Junction
 
+# 20260911 remove junctions in one drive
+
+#old
 moving
 not split
 1 dir
@@ -96,6 +99,23 @@ dont ... not finished after many tens of minutes
 rem Pause OneDrive sync before running Robocopy (right-click OneDrive tray icon → Pause syncing)
 
 
+# pre transaction
+tc copy by hand
+the dir
+roam-code
+to 00
+
+
+onedrive click synced
+
+
+task mgr  disk
+proc explorer
+C:\Program Files\Microsoft OneDrive\26.153.0809.0004\OneDrive.Sync.Service.exe
+read 327gb
+
+
+"C:\Program Files\Microsoft OneDrive\OneDrive.exe" /background
 
 
 
