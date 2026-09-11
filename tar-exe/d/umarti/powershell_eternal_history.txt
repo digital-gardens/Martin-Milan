@@ -13887,3 +13887,8 @@ cd C:\Users\marti\OneDrive\
 cmd /c dir /aL /s checklink
 cmd /c dir /aL /s /b checklink
 explorer  C:\Users\marti\OneDrive\11c3aaaa\20to29\dryads-wake-path\.hg\wcache
+cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\sn*"
+cmd /c dir "C:\Users\marti\OneDrive\roam-code-us-snipp\"
+cmd /c dir "C:\Users\marti\OneDrive\roam-code-us-snipp*"
+cmd /c dir "C:\Users\marti\OneDrive\roam-code-us-snipp*" | clip
+cmd /c dir  "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp*"

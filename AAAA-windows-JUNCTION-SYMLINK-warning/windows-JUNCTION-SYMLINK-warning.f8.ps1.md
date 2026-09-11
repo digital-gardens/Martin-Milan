@@ -2,8 +2,14 @@ AAAA-windows-JUNCTION-SYMLINK-warning
 
 # some tools have bugs when i MOVE-JUNCTION-SYMLINk----should-rather-use-LNK-files
 
-# junctions can be deleted using wexplorer gui
+# junctions     /j     can be deleted using wexplorer gui
+# what about /d ?  w10 ?   see below?
 
+- # fsutil ?
+
+
+
+- # #antifragility
 
 
 
@@ -24,6 +30,11 @@ find in files ... 3 instances of  Doku....s*  in the codebase, all in the same f
 
 
 
+
+
+
+
+
 # 20260518.18   HOPE FOR Junction TO  Junction
 
 moving
@@ -34,6 +45,8 @@ junctioned from elsewhere
 
 # state  before transaction
 
+cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\sn*"
+ | clip
 cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\" | clip
 
  Directory of C:\Users\marti\AppData\Roaming\Code\User
@@ -46,15 +59,32 @@ cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\" | clip
 05/02/2022  22:43    <JUNCTION>     snippets [C:\Users\marti\OneDrive\roam-code-us-snipp\]
 05/18/2026  11:48    <DIR>          workspaceStorage
                7 Dir(s)  68,395,401,216 bytes free
-
 snippets is a junction to a dir in OneDrive,
 05/02/2022  22:43    <JUNCTION>     snippets [C:\Users\marti\OneDrive\roam-code-us-snipp\]
 
+# cmd /c dir "C:\Users\marti\OneDrive\roam-code-us-snipp*" | clip
+ cmd /c dir "C:\Users\marti\OneDrive\roam-code-us-snipp*" | clip
+ Volume in drive C is Windows
+ Volume Serial Number is 2480-D21D
+
+ Directory of C:\Users\marti\OneDrive
+
+05/18/2026  19:29    <JUNCTION>     roam-code-us-snipp 
+
+# [C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp]
+cmd /c dir  "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp*"
+               
+
 
 # prepare backups 
+f9
+#q               total
 
 tc copy by hand 
-the dir to dee 0 
+the dir 
+roam-code
+to 11c0 gee dee 0 
+
 
 dont ... not finished after many tens of minutes
         wt.exe
@@ -75,6 +105,8 @@ git push
 
 notepad C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1.md
 
+
+or rather f1 reload
 close all vscode
 
 ^s
@@ -266,7 +298,7 @@ In my case (Windows 10), after creating the symbolic link using
 
 MKLINK /D "C:\Users\username\Dropbox\MyProject" "C:\SourceProject"
 and deleting via delete using the file explorer or keyboard delete key also deletes the original directory.
-????????????????????????
+???????????????????????? #bug
 
 
 
@@ -291,13 +323,38 @@ To add to the confusion, del is also an alias to Remove-Item in PowerShell. So, 
 fsutil reparsepoint delete <<PATH>>
 junction -d c:\Program-Files
 
-
-
+fsutil reparsepoint delete <symlink_path>
+ more universal (works for both symlinks and junctions).
 
 XXXXX
 # erroneously deletes symlinks to full directories in the path of a file being deleted
 #9419
 akuktin opened this issue on Apr 22, 2020 · 4 comments · Fixed by #9457
 
+
+# 20260911
+
+to Claude Code
+
+
+I need to safely undo 
+mklink /j
+in windows 10
+
+which of commands is dangerous ??
+- cmd /c del
+- cmd /c rmdir
+- junction
+- fsutil
+-
+- explorer
+??
+
+counterexamples
+
+
+and what about mklink /d
+
+counterexamples
 
 
