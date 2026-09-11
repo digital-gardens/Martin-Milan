@@ -279,17 +279,22 @@ test
 snippets
 - #aaa
 - #TODO 
-
+- #aaa
+- #TODO 
+- #aaa
 
 
 
 # aftermath  
 
-mkdir    "C:\Users\marti\AppData\Roaming\Code\User\snippets\0004-info-20260518-junction-to-junction"
+#oldmkdir    "C:\Users\marti\AppData\Roaming\Code\User\snippets\0004-info-20260518-junction-to-junction"
 cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\snippets"
 
 
-related
+
+
+
+# related
 C:\Users\marti\OneDrive\Dokumenty\Code-User-snippets-markdown.json.publ.md
 will be moved tooo
 
@@ -359,6 +364,11 @@ vcorp's user avatar
 vcorp
 39933 silver badges22 bronze badges
 Warning: I don't think this MIGHT not work on Win10 since it's fixing shortcuts upon renaming. (At least classic Shortcuts) Not tested though. 
+
+
+my..can be tested
+
+
 –
  
 Hexo
@@ -401,7 +411,7 @@ In my case (Windows 10), after creating the symbolic link using
 
 MKLINK /D "C:\Users\username\Dropbox\MyProject" "C:\SourceProject"
 and deleting via delete using the file explorer or keyboard delete key also deletes the original directory.
-???????????????????????? #bug
+???????????????????????? #bug???????
 
 
 
@@ -423,16 +433,25 @@ To add to the confusion, del is also an alias to Remove-Item in PowerShell. So, 
 
 
 # https://learn.microsoft.com/en-us/answers/questions/63800/cannot-delete-junction-that-points-to-directory-th.html
+
+
 fsutil reparsepoint delete <<PATH>>
 junction -d c:\Program-Files
 
+claude
 fsutil reparsepoint delete <symlink_path>
  more universal (works for both symlinks and junctions).
+
+
+
 
 XXXXX
 # erroneously deletes symlinks to full directories in the path of a file being deleted
 #9419
 akuktin opened this issue on Apr 22, 2020 · 4 comments · Fixed by #9457
+
+
+
 
 
 # 20260911
