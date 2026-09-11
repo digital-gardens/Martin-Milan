@@ -142,7 +142,7 @@ to OLD
 
 
 
-or rather f1 reload vscode
+or rather todo f1 reload vscode
 old
 notepad C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1.md
 close all vscode
@@ -161,22 +161,66 @@ pwsh
 cmd /c dir
 
 
-###robo Dokuments__s__ERROR
+- ### #nn vscode  Dokuments__s__ERROR
 robo Dokumenty
+
 
 ^S 
 
 git push
 
+mkdir "C:\Users\marti\OneDrive\Dokumenty\00-MM\a"
+
+cmd /c mklink /j "C:\Users\marti\a1"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\a"
+
+fsutil reparsepoint delete "C:\Users\marti\a1"
+cmd /c dir  "C:\Users\marti\a1*"
+#cmd /c rmdir  "C:\Users\marti\a1"
+
+
+fsutil reparsepoint delete "C:\Users\marti\OneDrive\roam-code-us-snipp"
+fsutil reparsepoint delete "C:\Users\marti\AppData\Roaming\Code\User\snippets"
 ###explorer delete the junction
 
-cmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
+cmd /c dir  "C:\Users\marti\OneDrive\roam-code-us-snipp*"
+cmd /c dir  "C:\Users\marti\OneDrive\roam-code-us-snipp"
+#cmd /c rmdir  "C:\Users\marti\OneDrive\roam-code-us-snipp"
+explorer   "C:\Users\marti\OneDrive\roam-code-us-snipp"
 
-cmd /c  dir    "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
+cmd /c dir  "C:\Users\marti\AppData\Roaming\Code\User\snippets*"
+cmd /c dir  "C:\Users\marti\AppData\Roaming\Code\User\snippets"
+#cmd /c rmdir  "C:\Users\marti\AppData\Roaming\Code\User\snippets"
+second pass 
+#rmdir deleted  just the link.
+
+cmd /c mklink /j "C:\Users\marti\AppData\Roaming\Code\User\snippets"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\roam-code-us-snipp"
+
+
+###oldcmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
+
+
+
+
+
+
+
+
+# tests
+
+cmd /c  dir    "C:\Users\marti\AppData\Roaming\Code\User\" 
+
+cmd /c  dir    "C:\Users\marti\AppData\Roaming\Code\User\snippets" "C:\Users\marti\OneDrive\Dokumenty\00-MM\roam-code-us-snipp"
+cmd /c  dir    "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"  
+
+
+cmd /c  dir    "C:\Users\marti\OneDrive\roam-code-us-snipp*" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp*"
+cmd /c  dir    "C:\Users\marti\AppData\Roaming\Code\User\snippets*" "C:\Users\marti\OneDrive\Dokumenty\00-MM\roam-code-us-snipp*"
+
+
 
 cmd /c dir 
 
-close notepad 
+old close notepad 
 
 run vscode 
 
@@ -185,8 +229,10 @@ run vscode
 
 ---
 
-examle of junction
+example of junction
 cmd /c mklink /j $HOME\bcloudREADONLY  C:\Users\marti\OneDrive\bcloudREADONLY
+
+
 
 # cmd /c mklink /j  is it   newNAME   targetDIR  ?
 
@@ -207,25 +253,34 @@ cmd
 help  mklink |clip
 
 
-cmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
+
+#oldcmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp"
+
+
 
 
 # after transaction  ... HOPE
 
-05/02/2022  22:43    <JUNCTION>     snippets
 
-# todo  [C:\Users\marti\OneDrive\roam-code-us-snipp\] is a junction to \Users\marti\OneDrive\Dokumenty\roam-code-us-snipp\
+# test  [C:\Users\marti\OneDrive\roam-code-us-snipp\] is a junction to 
 
 
-# tests
+# tests old
+
+
+
 
 cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\snippets"
+
+
 
  f1 reload vscode
 test
 snippets
 - #aaa
 - #TODO 
+
+
 
 
 # aftermath  
