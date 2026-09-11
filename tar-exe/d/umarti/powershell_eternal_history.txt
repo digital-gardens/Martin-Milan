@@ -13873,3 +13873,11 @@ shutdown /s
 shutdown /l
 shutdown /h
 cmd
+cmd /c dir /x ..
+cmd /c dir /x .
+cmd /c dir /x ..\..
+cmd /c dir /x ..\.. | findstr /i "Dokumenty"
+cmd
+cmd /c dir /aL /s C:\Users\marti\OneDrive\ | findstr "<JUNCTION> <SYMLINKD>"
+cmd /c dir /aL /s C:\Users\marti\OneDrive\ | findstr "<SYMLINKD> <JUNCTION>"
+cmd /c dir /aL /s C:\Users\marti\OneDrive\ | findstr "<SYMLINKD> <JUNCTION>" | clip
