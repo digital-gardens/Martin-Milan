@@ -13881,3 +13881,9 @@ cmd
 cmd /c dir /aL /s C:\Users\marti\OneDrive\ | findstr "<JUNCTION> <SYMLINKD>"
 cmd /c dir /aL /s C:\Users\marti\OneDrive\ | findstr "<SYMLINKD> <JUNCTION>"
 cmd /c dir /aL /s C:\Users\marti\OneDrive\ | findstr "<SYMLINKD> <JUNCTION>" | clip
+cd C:\Users\marti\OneDrive\Dokumenty
+cmd /c dir /aL /s checklink
+cd C:\Users\marti\OneDrive\
+cmd /c dir /aL /s checklink
+cmd /c dir /aL /s /b checklink
+explorer  C:\Users\marti\OneDrive\11c3aaaa\20to29\dryads-wake-path\.hg\wcache
