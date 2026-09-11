@@ -100,6 +100,11 @@ rem Pause OneDrive sync before running Robocopy (right-click OneDrive tray icon 
 
 
 # pre transaction
+
+check markdown snippets
+- #aaa
+- #TODO 
+
 tc copy by hand
 the dir
 roam-code
@@ -108,11 +113,17 @@ to 00
 
 onedrive click synced
 
+#q         resource monitor
+
 
 task mgr  disk
 proc explorer
 C:\Program Files\Microsoft OneDrive\26.153.0809.0004\OneDrive.Sync.Service.exe
 read 327gb
+  689
+357 239
+358
+360
 
 
 "C:\Program Files\Microsoft OneDrive\OneDrive.exe" /background
@@ -123,17 +134,28 @@ read 327gb
 
 git push
 
+
+tc rename by hand
+the dir
+roam-code
+to OLD
+
+
+
+or rather f1 reload vscode
+old
 notepad C:\Users\marti\OneDrive\Dokumenty\AAAA-windows-JUNCTION-SYMLINK-warning\windows-JUNCTION-SYMLINK-warning.f8.ps1.md
-
-
-or rather f1 reload
 close all vscode
 
+old
 ^s
 explorer onedr 
 move the dir  roa
 
-what if windows patch junct files ??  NOOOOOOOO
+check
+cmd /c dir  C:\Users\marti\OneDrive\roam-code-us-snipp
+cmd /c dir  C:\Users\marti\OneDrive\roam-code-us-snipp*
+what if windows patch junct files ??  NO
 wt.exe
 pwsh
 cmd /c dir
@@ -198,6 +220,12 @@ cmd /c mklink /j "C:\Users\marti\OneDrive\roam-code-us-snipp" "C:\Users\marti\On
 # tests
 
 cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\snippets"
+
+ f1 reload vscode
+test
+snippets
+- #aaa
+- #TODO 
 
 
 # aftermath  

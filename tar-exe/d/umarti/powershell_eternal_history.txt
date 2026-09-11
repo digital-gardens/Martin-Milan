@@ -13892,3 +13892,5 @@ cmd /c dir "C:\Users\marti\OneDrive\roam-code-us-snipp\"
 cmd /c dir "C:\Users\marti\OneDrive\roam-code-us-snipp*"
 cmd /c dir "C:\Users\marti\OneDrive\roam-code-us-snipp*" | clip
 cmd /c dir  "C:\Users\marti\OneDrive\Dokumenty\roam-code-us-snipp*"
+cmd /c dir  C:\Users\marti\OneDrive\roam-code-us-snipp
+cmd /c dir  C:\Users\marti\OneDrive\roam-code-us-snipp*
