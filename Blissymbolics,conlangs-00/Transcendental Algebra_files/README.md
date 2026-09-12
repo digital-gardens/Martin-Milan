@@ -1,7 +1,9 @@
 
 source: "https://tck.mn/transalg/"
 
+input file ... work copy ... numbered: file:///C:/Users/marti/OneDrive/Dokumenty/00-MM/Blissymbolics,conlangs-00/Transcendental%20Algebra_files/index93.html
 
+output file: file:///C:/Users/marti/OneDrive/Dokumenty/00-MM/Blissymbolics,conlangs-00/Transcendental%20Algebra_files/output-files/index.md
 
 
 

@@ -1,3 +1,12 @@
+
+
+https://blissary.com/dictionary/?q=B3810
+
+https://blissary.com/maker/?c=VL8:34,10;HL8:26,18;HL8:18,18;HL8:10,18;HL8:2,18;VL8:2,10;DL8-4N:0,7;DL8-4N:8,3;DL8-4S:28,7;DL8-4S:20,3;DL2-1S:18,2;DL2-1N:16,2;B216:20,1;B828:13,-1;B462:6,1
+
+
+
+
 (71) (72) (73)
 
 ## Foreword
@@ -218,9 +227,23 @@ June 9th, 1874
 
 big house and small house
 
-(181)
 
-![](fb98b82d08cdc9e02309cf2ff6fb25bf.png) giant and dwarf
+
+(181) #y
+
+![](../fb98b82d08cdc9e02309cf2ff6fb25bf.png) giant and dwarf
+
+https://blissary.com/dictionary/?q=B3810
+giant (human)
+23522 · B3810 · B513/B936/B401/B401/B401
+гигант
+person + gigantic
+
+https://www.taoke.de/ke/CNS/Search/Subject,giant.html
+
+
+
+
 
 (183)
 
