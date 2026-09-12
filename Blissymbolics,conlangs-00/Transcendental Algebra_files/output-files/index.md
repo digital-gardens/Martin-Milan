@@ -239,6 +239,11 @@ giant (human)
 гигант
 person + gigantic
 
+https://globalsymbols.com/symbolsets/blissymbolics/symbols/11707?locale=de-DE
+
+https://globalsymbols.com/search?symbolset=blissymbolics&locale=en-GB&query=giant
+
+
 https://www.taoke.de/ke/CNS/Search/Subject,giant.html
 
 
@@ -568,6 +573,7 @@ armed forces, armed forces armed in different ways
 (347)
 
 marriage, celibacy
+https://blissary.com/dictionary/?q=celi
 
 (349)
 
@@ -576,6 +582,7 @@ marriage, celibacy
 (351)
 
 ![](3360b4621f8c6c02040dda4d2747a44e.png) widow
+#none https://blissary.com/dictionary/?q=widow
 
 (353)
 
@@ -649,13 +656,78 @@ wine, beer, water
 
 ![](8f626f821b34670952c3d78a3bd14b1b.png) agronomy
 
-(389)
+(389) commerce, carpentry  #y
+https://blissary.com/dictionary/?q=carpenter
 
-commerce, carpentry
 
-(391)
 
-astronomy, ![](d56cf31dc718ed5793b120b5c45fa9a2.png) philosophy
+(391) astronomy,
+https://blissary.com/dictionary/?q=astronomer
+
+
+ ![](d56cf31dc718ed5793b120b5c45fa9a2.png) philosophy
+https://blissary.com/dictionary/?q=philosopher
+
+---
+
+391d
+https://www.taoke.de/ke/CNS/Search/index,doctor.html
+Home>CNS>Search
+Search
+Selection by Property e.g. ".Name" name,male or language : en,male | it,male
+economic,business,management
+Enter keywords comma separated search
+doctor
+ 
+[<<<<[>>>>]
+					Concept	=		
+1			✅		❓	
+doctor ▶ ⏩ | Graph
+
+UCN:307898128
+UCI:DO7IEQKVMB
+ doctor  Doktor  docteur  doctor  medico  dokter  doktor
+Definition:#doctor~ person:medicine#
+ Def:person,medicine
+computeCCN: ✅ | newCCN:307898128 | maxLevel:1 newMaxLevel:1 ❌ isAtomic:F
+isi: ^ME2 und ^Noun
+Part1: >BLS-person Part2: >BLS-medicine Part3:
+doctor
+medicine,person
+creature with two legs and feet
+creature,two legs and feet
+legs and feet,life,thing,two
+Concepts:>BLS-doctor,^ME,^Word,^BLS-Abstract,^BLS-Primitive,>BLS-creature with two legs and feet,
+
+^BLS-Person,^BLS,>BLS-two legs and feet,>BLS-creature,>BLS-legs and feet,>BLS-two (digit),>BLS-part of human body,^BLS-BodyPart,^ME0,>BLS-human body,>BLS-part of,>BLS-body,>BLS-of,>BLS-part,^BLS-Thing,	=
+
+
+❓	◀ ▶ person
+
+UCN:8.256
+ Person
+ Def:person
+person
+creature with two legs and feet
+creature,two legs and feet
+legs and feet,life,thing,two
+
+
+⏪ ◀ medicine
+
+UCN:11.476
+ Medizin
+ Def:medicine
+medicine
+❌ createBLSO:F
+
+
+2					❓	
+doctor (rehab,hab) ▶ ⏩ | | create doctor (rehab,hab)
+
+---
+
+
 
 (393)
 
