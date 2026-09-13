@@ -49,7 +49,12 @@ nebo psal mail uz mnohokrat
 
 ---
 
-
+to 
+mn80
+pokus ohledne bcc
+//// https://mail.google.com/mail/u/0/?ik=c27bf4e065&view=om&permmsgid=msg-a:r-5511186213952727566
+https://mail.google.com/mail/u/0/?ik=c6aa14721b&view=om&permmsgid=msg-f:1876237917465408490
+ok
 
 to
 i
