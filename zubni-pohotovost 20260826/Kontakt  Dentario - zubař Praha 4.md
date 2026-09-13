@@ -12,7 +12,7 @@ tags:
 
 old
 C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\09-rodina.r8.dir\04-conn\mynotes75Mi,i.txt.md
-#  Příjemce: "Dentario Zubní Pohotovost Praha 4 - Sobota I neděle -" <info@dentario.cz>
+#  Příjemce: "Dentario Zubní Pohotovost Praha 4 - Sobota I neděle -" dentario.cz
 line 800
 Vážený pane doktore,
 předpokládám, že jste dostali moji mailovou zprávu
