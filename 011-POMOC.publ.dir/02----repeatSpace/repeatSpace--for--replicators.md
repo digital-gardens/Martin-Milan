@@ -46,6 +46,7 @@ or AIs
 - MEMORY.md, AGENTS.md 
   - a file that is read and edited repeatedly
 
+- sometimes even filenames, dirnames, folder, album names can be "abused" as reminders #rr #aaaa   #yyyy
 
 # todo .. alternative names for the concept
 
