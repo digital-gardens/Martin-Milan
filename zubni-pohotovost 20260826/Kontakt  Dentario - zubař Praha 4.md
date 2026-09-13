@@ -59,6 +59,9 @@ to
 mb.s
 martin.milan.
 82
+https://outlook.live.com/
+not .office.com
+
 
 
 po pohotovosti
@@ -70,7 +73,7 @@ k panu doktoru Koudelnému
 (Chodím k vám už roky.)
 
 
-dne 1. 9. 2026 jsem byl na pohotovosti (jinde )
+dne 1. 9. 2026 jsem byl na pohotovosti   (jinde )
 ...
 na fotce jejich papíru čtu
 - rentgen
@@ -96,7 +99,7 @@ Mohl bych přijít kterýkoliv den kromě pondělků.
 //
 //// peníze mám
 //
-// tyto poznámky píšu jen proto, abych se omluvil, že jsem se k vám nedostal dříve
+// tyto poznámky píšu jen proto, abych se omluvil, že mi všechno trvá tak dlouho
 
 Děkuji Vám
 Milan Bok
