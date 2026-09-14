@@ -105,6 +105,9 @@ registered trademark
 
 
 
+
+
+
 # 20260418
 #mirtazapine tablet + 11 hodin 
 
@@ -183,6 +186,8 @@ gastro-demence
 
 
 
+
+
 zmírňovat 
 
 přestávky 
@@ -239,7 +244,18 @@ mkdir $x
 
 
 
+
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  EDITING PLACE ... MANY BLANK LINES AFTER THE TEXT 
+
+
+
+
+
 
 
 
@@ -276,8 +292,32 @@ is there group-by in excel .. windows app 2026?
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 0112-1811-JLMA Chatová pseudo skupina JLMA Jiří Ljuba Milan abecedně
 https://gemini.google.com/share/3b4a6ac40e1f  herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří
+
+
+
+
+
+
+
+
+
+
 JM-1804-respnt JM chatová skupina Jiří Milan 💚
 
 
@@ -319,6 +359,30 @@ in
 # [[03-what are you working on ... brainstorming.publ.md]]
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\04 mb75 edge2----\02-meta-rr-repeatSpace  .  see 01 02-HODINOVY 03 04.md
+# 20260914  https://keep.google.com/u/0/#NOTE/135RGDNQ6PL2T5VRYDFmNM_XdAJaKev11XrCSC5HAE2HxsvVwGYKIHc97nKwn
+https://www.hlidacky.cz/clenstvi
+
+
 
 fail
 # Shrnutí daně z nemovitých věcí - Google Gemini
@@ -402,6 +466,29 @@ code b.txt
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://chromewebstore.google.com/detail/voyager/iifacdnjakkhjjiengaffnegbndgingi
 "C:\Users\marti\OneDrive\Dokumenty\voyager.nagi.fun\backup-20260613-164636\settings.json"
 C:\Users\marti\OneDrive\Dokumenty\voyager.nagi.fun
@@ -447,6 +534,23 @@ Partial clone is a git feature allowing a local repository to contain only a sub
 google photos
 260406  20260512  wonder joy success dopamine opens possibilities happy fun pleasure good feelings útěcha úleva satisfaction  beauty
 https://photos.google.com/album/AF1QipNc7qT9tTaxhZeKumslGVKLvgps9R5uCLTJ4dfz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -507,6 +611,23 @@ todo Shares
 Crossposts
 
 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -579,6 +700,20 @@ hewlett packard computer .. 1970s Measurement and control system .. with fortran
 
 
 # plotter test 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -744,6 +879,14 @@ lukebechtel-web: know thy context — a dev's personal blog (in a GitHub repo) m
 
 
 
+
+
+
+
+
+
+
+
 # edge workspace 20260525 YT alza.cz..zastrihovace-vlasu
 https://www.alza.cz/zastrihovace-vlasu-vousu-a-chloupku/18850388.htm
 Vlastnosti Samoostřicí čepele
@@ -795,6 +938,32 @@ Edge Workspace
 
 
 # https://www.reddit.com/answers/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://www.reddit.com/answers/16c32ef7-e5c3-4248-ba1b-17adf57836ea/?q=personal+notations&source=ANSWERS&tl=en
