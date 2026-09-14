@@ -47,7 +47,12 @@ source: "https://www.dentario.cz/kontakt/"
 nebo psal mail uz mnohokrat
 
 
+
+
+
+napsal jsem svému zubaři tento mail
 ---
+
 
 to 
 mn80
@@ -112,6 +117,51 @@ Milan Bok
 
 
 
+oni mi odepsali
+---
+Dobrý den, 
+
+tak vás objednám na preventivní prohlídku je tady volná termín 20.10. v 11:30? Prosím o potvrzení. 
+Děkuji.
+
+
+
+
+
+
+rád bych jim napsal něco jako
+---
+
+
+
+promiňte, ale ...
+
+domníval jsem se, že ...
+
+nemám znalosti - nevím, jak dlouho je možné nejdéle odkládat ten otevřený zub, který bude asi potřeba vytrhnout
+
+pozn. je to dvojka vlevo nahoře,
+od 1.9. nebolí
+
+//// rád bych to odkládal ,
+protože při mém zdravotním stavu
+je pro mě nesnadné
+cestovat do Prahy
+
+
+nebo...
+rozumím tomu správně, že mi tento nebo příští týden ještě napíšete?
+
+
+
+
+
+
+
+
+
+
+
 /+[^ /]
 snad nevadi 
 // mezera
@@ -124,4 +174,6 @@ Ohradní 1440/2a,
 což by mohl být vyhodnocen jako link
 
 jen test zda moje zpráva nebude zařazena do spamu
+
+
 
