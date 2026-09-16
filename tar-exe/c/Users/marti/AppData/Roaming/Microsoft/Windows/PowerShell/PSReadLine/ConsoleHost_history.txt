@@ -3768,3 +3768,4 @@ powercfg.exe /hibernate on
 shutdown.exe -h
 shutdown.exe /h
 cmd
+d:
