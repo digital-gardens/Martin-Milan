@@ -3769,3 +3769,6 @@ shutdown.exe -h
 shutdown.exe /h
 cmd
 d:
+dir
+shutdown.exe /h
+dir d:
