@@ -491,6 +491,7 @@
 
 	"highlight.regexes": {
 
+// file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\fabiospampinato.vscode-highlight-2.1.0\USER\aaa.vscode-highlight.20260603.user.md
 
 
 
@@ -500,7 +501,7 @@
 		// ...MY         .blue ... .test a.. .. fdddddadd
 		// prb dark aa          ..aaaaaaaaaa
 
-		"(^|\\s)([.,]+[a-z])(.{0,6})"
+		"(^|\\s)([.,]+[a-z]+)(.{0,1})"
 		:
 		{
 			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
@@ -512,13 +513,13 @@
 				},
 
 				{
-					"overviewRulerColor": "blue",
-					"backgroundColor": "blue",
-					//"color": "#1f1f1f",
+					"overviewRulerColor": "#0D50FF",
+					"backgroundColor": "#00a0ff",
+					"color": "#1f1f1f",
 					//"fontWeight": "bold"
 				},
 				{
-					"backgroundColor": "blue",
+					//"backgroundColor": "blue",
 					//"color": "#1f1f1f"
 				},
 			]

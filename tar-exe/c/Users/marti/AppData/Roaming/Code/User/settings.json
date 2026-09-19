@@ -501,7 +501,7 @@
 		// ...MY         .blue ... .test a.. .. fdddddadd
 		// prb dark aa          ..aaaaaaaaaa
 
-		"(^|\\s)([.,]+[a-z])(.{0,6})"
+		"(^|\\s)([.,]+[a-z]+)(.{0,1})"
 		:
 		{
 			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
@@ -513,13 +513,13 @@
 				},
 
 				{
-					"overviewRulerColor": "blue",
-					"backgroundColor": "blue",
-					//"color": "#1f1f1f",
+					"overviewRulerColor": "#0D50FF",
+					"backgroundColor": "cyan",
+					"color": "#1f1f1f",
 					//"fontWeight": "bold"
 				},
 				{
-					"backgroundColor": "blue",
+					//"backgroundColor": "blue",
 					//"color": "#1f1f1f"
 				},
 			]
