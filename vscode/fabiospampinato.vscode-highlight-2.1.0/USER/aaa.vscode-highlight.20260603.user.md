@@ -233,6 +233,9 @@ how many characters are special inside [] in regexes:
 
 
 		(^|\\s) ([.,]+[a-z]) (.{0,6})
+test ^|
+.slovo 
+file:///C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
 
 // (^|\s)([.,]+[a-z])(.{0,6})
 test in ^f

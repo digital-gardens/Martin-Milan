@@ -1,3 +1,11 @@
+
+
+ ....repeatSpace
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+-  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
+ ....repeatSpace
+
 # (R) https://www.calculator.net/anorexic-bmi-calculator.html?cage=48&csex=f&cheightfeet=5&cheightinch=10&cpound=160&cheightmeter=180&ckg=48&ctype=metric&x=Calculate
 
 #AAAAa
@@ -22,13 +30,23 @@ asi neni zatim
 
 ; ok „Penízky ukryl jsem do hlíny pod dubem,
 
+
+file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\03-2512-highlights--annotations---clippings\OnClipboardChange-251012.f8.md
 github
-file:///C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\OnClipboardChange-251012.f8.md
+C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\OnClipboardChange-251012.f8.md
+
+code   "C:\Users\marti\OneDrive\OnClipboardChange-251012\"
+code   "C:\Users\marti\OneDrive\OnClipboardChange-251012"
+
+explorer "C:\Users\marti\OneDrive\OnClipboardChange-251012"
+
+
 
 
 copy "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"  "C:\Users\marti\OneDrive\OnClipboardChange-251012\251012clipboard_log--copy.txt"
 
-code   "C:\Users\marti\OneDrive\OnClipboardChange-251012\251012clipboard_log--copy.txt"
+
+251012clipboard_log--copy.txt"
 
 file:///C:\Users\marti\OneDrive\OnClipboardChange-251012\OnClipboardChange-251012.f8.md
 
@@ -122,3 +140,51 @@ certain_
 certain_
 Certainly! Here are_ some_ synonyms for_  “mitigation,” which_ refer to the action of reducing the severity, seriousness, or
 "C:\Users\marti\OneDrive\Blissymbolics,conlangs\ASemtogF700-English-CcfBliss-dictionary.txt.tsv"
+
+
+
+.code   "C:\Users\marti\OneDrive\OnClipboardChange-251012"
+
+explorer "C:\Users\marti\OneDrive\OnClipboardChange-251012"
+
+
+file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\03-2512-highlights--annotations---clippings\OnClipboardChange-251012.f8.md
+
+
+file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\03-2512-highlights--annotations---clippings\OnClipboardChange-251012.f8.md
+github
+C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\OnClipboardChang
+github
+
+(^|\s)([.,]+[a-z])(.{0,6})
+
+
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "%OneDrive%\Dokumenty\00-MM\
+.011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
+
+ .repeatSpace
+
+- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,
+- ℹ️ #aaa          .yyy Říkají, že paní má se má,
+- ### [Hložek Stanislav - .Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
+-  ### # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+- # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
+-  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...
+-  /: :/ Mám pěknou sirku v zubech, krempu do čela a bota zpuchřelá mi vrásky nedělá. Jen tou svou sirkou ...
+- # stál jsem a hleděl jsem, hleděl jsem nahoru,
+- #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
+- ℹ️ #aaaa *Dsus2*, 130 bpm Nad stádem koní Podkovy zvoní, zvoní Černý vůz vlečou A slzy tečou a já volám: 1. Tak neplač můj ...
+
+
+ ....repeatSpace
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+-  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
+ ....repeatSpace
+
+
+
+ ....repeatSpace
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+-  ### # #aaaaaa #yyyyy #rrrrr herec Mi
