@@ -231,13 +231,16 @@ how many characters are special inside [] in regexes:
 - \ (backslash) escapes special characters
 - what about \[ (backslash followed by opening bracket) [[:something:]] ??
 
+
 		(^|\\s) ([.,]+[a-z]) (.{0,6})
-(^|\s)([.,]+[a-z])(.{0,6})
-^f
 
+// (^|\s)([.,]+[a-z])(.{0,6})
+test in ^f
 
+// file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\fabiospampinato.vscode-highlight-2.1.0\USER\aaa.vscode-highlight.20260603.user.md
 
 		// ...MY .blue ... .test a.. .. fdddddadd
+		// prb dark aa          ..aaaaaaaaaa
 
 		"(^|\\s)([.,]+[a-z])(.{0,6})"
 		:

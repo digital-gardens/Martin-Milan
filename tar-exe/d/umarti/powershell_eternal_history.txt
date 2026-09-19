@@ -13939,3 +13939,5 @@ cmd /c  dir    "C:\Users\marti\OneDrive\roam-code-us-snipp*" "C:\Users\marti\One
 cmd /c  dir    "C:\Users\marti\AppData\Roaming\Code\User\snippets*" "C:\Users\marti\OneDrive\Dokumenty\00-MM\roam-code-us-snipp*"
 cmd /c dir /a   "C:\Users\marti\AppData\Roaming\Code\User\snippets"
 cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+code          "C:\Users\marti\AppData\Roaming\Code\User\settings.json"
+cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"

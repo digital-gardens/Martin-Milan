@@ -491,6 +491,7 @@
 
 	"highlight.regexes": {
 
+// file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\fabiospampinato.vscode-highlight-2.1.0\USER\aaa.vscode-highlight.20260603.user.md
 
 
 
@@ -498,7 +499,7 @@
 
 
 		// ...MY         .blue ... .test a.. .. fdddddadd
-		// prb dark aa    ..aaaaaaaaaa
+		// prb dark aa          ..aaaaaaaaaa
 
 		"(^|\\s)([.,]+[a-z])(.{0,6})"
 		:
