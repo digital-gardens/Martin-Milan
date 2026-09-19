@@ -7,8 +7,8 @@
 
 
 ;test v2 :   win+q AutoHotkey run the app ... it asks to reload this ahk file
-;test v1:   ^win+space ... #bug
-;  win+q        startup      .....autohotkey
+;test v1:   ^win+space ... seems to work, just doesnt show a confirmation
+; or  win+q        startup      .....autohotkey
 
 ; SECTIONS START WITH ;=  or   ;#if =
 ;  searched  ^#\w    #if      #ifwinactive   #if    #hotif

@@ -7,6 +7,11 @@
 -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
  ....repeatSpace
 
+
+#- #TODO  hodinovy
+file:///C:/Users/marti/OneDrive/11c3aaaa/ClipboardChange.rr.n8.dir/0.clipboard_log.rr.n8.txt.md
+
+
 # (R) https://www.calculator.net/anorexic-bmi-calculator.html?cage=48&csex=f&cheightfeet=5&cheightinch=10&cpound=160&cheightmeter=180&ckg=48&ctype=metric&x=Calculate
 
 #AAAAa
