@@ -491,6 +491,48 @@
 
 	"highlight.regexes": {
 
+
+
+
+
+
+
+		// ...MY         .blue ... .test a.. .. fdddddadd
+		// prb dark aa    ..aaaaaaaaaa
+
+		"(^|\\s)([.,]+[a-z])(.{0,6})"
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+
+				{
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f"
+				},
+
+				{
+					"overviewRulerColor": "blue",
+					"backgroundColor": "blue",
+					//"color": "#1f1f1f",
+					//"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "blue",
+					//"color": "#1f1f1f"
+				},
+			]
+		},
+		// ...MY .blue ... .test a.. .. fdddddadd
+
+
+
+
+
+
+
+
+
 		// MY red ... test #exclu  annot  inner   nn             #n             nnnn            #nnn
 		// my nnnn  // test      rrrr         gggggggeeeeeecccccacca          hhhffffffffdddddadd
 
@@ -576,7 +618,7 @@
 
 		// yellow .."#TODO"..
 		// standard "TODO"..aaa
-		// TODO a. test  ..aaaaa
+		// TOD O      a. test    ..aaaaaaaaaa
 		//false alarm ODO. false alarm  .aaa--
 		"((?:<!-- *)?(?:#|// @|//|./\\*+|<!--|--|\\* @|{!|{{!--|{{!) *TODO(?:[\\t\\f\\v ]*\\([^\\r\\n)]+\\))?:?)((?!\\w)(?: *-->| *\\*/| *!}| *--}}| *}}|(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--|{!|{{!--|{{!))|(?: +[^\\r\\n@]*?)(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--(?!>)|{!|{{!--|{{!))|(?: +[^\\r\\n@]+)?))": {
 			"filterFileRegex": ".*(?<!CHANGELOG.md)$",

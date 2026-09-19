@@ -26,6 +26,8 @@ REPEAT⏰
 
 cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
 
+
+
 win-tab TOTalcmd viewer "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  
 
 code          "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  
