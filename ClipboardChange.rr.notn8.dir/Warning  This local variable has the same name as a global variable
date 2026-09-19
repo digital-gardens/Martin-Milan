@@ -1,0 +1,31 @@
+copy "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+
+---------------------------
+AutoHotkey.f5.v1.ahk
+---------------------------
+Warning:  This local variable has the same name as a global variable.
+
+Specifically: logFile  (in function ClipChanged)
+
+	Line#
+	048: SetKeyDelay,111,122
+	049: SetKeyDelay,53,37
+	065: SetWorkingDir,%A_ScriptDir%
+Warning:  This local variable has the same name as a global variable.
+	078: logFile := "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+	081: OnClipboardChange("ClipChanged")
+	087: FileAppend,sfdsfsdfClipboard,%logFile%
+--->	094: {
+	095: if (type = 1)
+	095: {
+	100: FileAppend,Clipboard "
+",%logFile%
+	104: }
+	105: }
+	128: Return
+	128: Send,{!}
+
+For more details, read the documentation for #Warn.
+---------------------------
+OK
+---------------------------
