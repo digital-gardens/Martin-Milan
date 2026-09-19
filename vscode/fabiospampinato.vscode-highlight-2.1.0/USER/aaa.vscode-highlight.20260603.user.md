@@ -1,4 +1,4 @@
-// #TODO #test #highlight #regexes #settings  aaa  #aaa 
+// #T ODO #test #highlight #regexes #settings  aaa  #aaa 
 
 code C:\Users\marti\AppData\Roaming\Code\User\settings.json
 
@@ -224,6 +224,54 @@ file:///C:\Users\marti\AppData\Roaming\Code\User\settings.json
 
 
 
+how many characters are special inside [] in regexes:
+- ^ (caret) at the beginning negates the character class
+- - (hyphen) denotes a range if placed between characters
+- ] (closing bracket) ends the character class
+- \ (backslash) escapes special characters
+- what about \[ (backslash followed by opening bracket) [[:something:]] ??
+
+		(^|\\s) ([.,]+[a-z]) (.{0,6})
+(^|\s)([.,]+[a-z])(.{0,6})
+^f
+
+
+
+		// ...MY .blue ... .test a.. .. fdddddadd
+
+		"(^|\\s)([.,]+[a-z])(.{0,6})"
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+
+				{
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f"
+				},
+
+				{
+					"overviewRulerColor": "#4DE0FF",
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f"
+				},
+			]
+		},
+
+
+
+
+
+
+
+
+
+
 
 		"((?:<!-- *)?(?:#|// @|//|./\\*+|<!--|--|\\* @|{!|{{!--|{{!) *TODO(?:[\\t\\f\\v ]*\\([^\\r\\n)]+\\))?:?)((?!\\w)(?: *-->| *\\*/| *!}| *--}}| *}}|(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--|{!|{{!--|{{!))|(?: +[^\\r\\n@]*?)(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--(?!>)|{!|{{!--|{{!))|(?: +[^\\r\\n@]+)?))": {
 			"filterFileRegex": ".*(?<!CHANGELOG.md)$",
@@ -259,6 +307,12 @@ file:///C:\Users\marti\AppData\Roaming\Code\User\settings.json
 			]
 		}
 	},
+
+
+
+
+
+
 ````
 
 
@@ -302,4 +356,4 @@ turquoise path:settings.json  highlight
 
 
 
-#TODO #test #highlight #regexes #settings  aaa  #aaa 
+#T ODO #test #highlight #regexes #settings  aaa  #aaa 

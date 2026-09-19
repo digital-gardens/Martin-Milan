@@ -1,5 +1,8 @@
 #T ODO #test #highlight #regexes #settings  aaa  #aaa 
 
+C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\fabiospampinato.vscode-highlight-2.1.0\USER\aaa.vscode-highlight.20260603.user.md
+
+
 this
 // "file:///C:/Users/marti/OneDrive/Dokumenty/00-MM/vscode/SETTINGS.json-03-260207-editing-settings.json.publ.md"
 
@@ -20,6 +23,7 @@ y
 
 REPEAT⏰
 REPEAT⏰
+
 cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
 
 win-tab TOTalcmd viewer "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  

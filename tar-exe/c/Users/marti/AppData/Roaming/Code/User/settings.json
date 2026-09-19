@@ -483,11 +483,11 @@
 
 	/// https://github.com/fabiospampinato/vscode-highlight
 
-///Regexes need to be double-escaped, once for JSON and the second time for the regex itself. For example if you want to match a literal asterisk you should write \\*, not just \*.
+///  #WARNING: Regexes need to be double-escaped, once for JSON and the second time for the regex itself. For example if you want to match a literal asterisk you should write \\*, not just \*.
 
 	"highlight.regexFlags": "gi",
 
-// #TODO #test #highlight #regexes #settings  aaa  #aaa
+// #T ODO #test #highlight #regexes #settings  aaa  #aaa
 
 	"highlight.regexes": {
 
