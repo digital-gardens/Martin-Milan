@@ -1,9 +1,14 @@
-﻿; use semicolon for comments in ahk
+﻿; warning this file is utf-8 with .bom , i dont remember why
+
+; use semicolon for comments in ahk
 ; this is not a .f8 file, but a .f5 file
 
-;test v2 :   win+q AutoHotkey run the app ... it asks to reload this ahk file
-;test v1:   ^win+space
+; .WARNING .i forgot again .to debug ahk .in the bottom right hand .corner [  .] of the windows taskbar, there is a small green square icon for ahk, right click it, and choose "Open" to see the debug window.  .WARNING
 
+
+;test v2 :   win+q AutoHotkey run the app ... it asks to reload this ahk file
+;test v1:   ^win+space ... #bug
+;  win+q        startup      .....autohotkey
 
 ; SECTIONS START WITH ;=  or   ;#if =
 ;  searched  ^#\w    #if      #ifwinactive   #if    #hotif
@@ -23,7 +28,8 @@
 ; # git push
 ; ## C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
 
-; code C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+; old  code C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+; code   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 
 
 ; file:///C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
@@ -141,6 +147,13 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Path to log file
 ;logFile :=    C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt
 logFile :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\1debug0.clipboard_log.rr.n8.txt.md"
+logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
+; WARNING the path is at 2 places in this file  .. line 144, line 238  clipboard_log  and WARNING the clipboard HAS MOVED TO VERSION 2.0 of ahk  LINE 158
+; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ... this worked ...
+; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ... but none ahk is present allowed in ransomware protection ... strange
+; mkdir "03 20260919 Bug is ahk allowed to write to OneDrive Dokumenty folder  ... but none ahk is present allowed in ransomware protection"
+; mkdir
 
 ; https://www.autohotkey.com/boards/viewtopic.php?t=51041
 ;    #Persistent
@@ -148,7 +161,7 @@ logFile :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.tx
 
 
 
-; 260210 disable in v1 OnClipboardChange ClipChanged
+; 260210 disable in v1 OnClipboardChange ClipChanged       clipboard_log
 ;OnClipboardChange("ClipChanged")			; place in script's 'auto-execute section
 
 
@@ -158,7 +171,8 @@ logFile :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.tx
 ;FileAppend, "sfdsfsdf%Clipboard%"  , %logFile%
 ;FileAppend, sfdsfsdfClipboard  , %logFile%
 
-FileAppend, % "aaa" "bbb v1 reload   `n"   , %logFile%
+FileAppend, % "aaa" "bbb OBSOLETE v1 reload   logFile     `n"   , %logFile%
+; #Bug is ahk allowed to write to OneDrive folder?  ... this worked
 
 ;"`n", % logFile		;then append it to text file
 
@@ -232,6 +246,9 @@ ClipChanged(Type) {
 ; gemini explains that in v1, variables are ....
 
 	logFile2 :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+	logFile2 :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
+	logFile2 :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\2debug0.clipboard_log.rr.n8.txt.md"
+;;;;;;;; warning: this code is not called, because the OnClipboardChange is commented out in the auto-execute section above, line 158
 
 	; Pen�zky ukryl jsem do hl�ny pod dubem,
 	; Pen?zky ukryl jsem do hl?ny pod dubem,

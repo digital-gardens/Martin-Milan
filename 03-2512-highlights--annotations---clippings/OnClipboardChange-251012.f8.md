@@ -1,4 +1,5 @@
 
+- // .sep ----
 
  ....repeatSpace
 -  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...

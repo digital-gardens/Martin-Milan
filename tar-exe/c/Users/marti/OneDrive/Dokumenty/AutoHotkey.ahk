@@ -1,6 +1,10 @@
 ; use semicolon for comments in ahk
 ; this is not a .f8 file, but a .f5 file
 
+
+; .WARNING .i forgot again .to debug ahk .in the bottom right hand .corner [  .] of the windows taskbar, there is a small green square icon for ahk, right click it, and choose "Open" to see the debug window.  .WARNING
+
+
 ; aaa please.. ctrl end ... aaa goto THE END OF THIS FILE ..aaa; notes about debugging !!!
 
 ; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
@@ -24,6 +28,7 @@
 ; ## C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
 
 ; code C:/Users/marti/OneDrive/OnClipboardChange-251012/clipboard_log.txt
+; code   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 
 
 ; file:///C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
@@ -82,9 +87,19 @@ SetWorkingDir A_ScriptDir
 
 ;============================== clipboard logging ==============================
 
+
+
 ;gpt, me
 ; Path to log file
 logFile := "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\1debug0.clipboard_log.rr.n8.txt.md"
+logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
+logFile :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
+; WARNING the path is at 2 places in this file  .. line 144, line 238  clipboard_log  and WARNING the clipboard HAS MOVED TO VERSION 2.0 of ahk
+; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ...
+; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ... but none ahk is present allowed in ransomware protection ...
+; mkdir "03 20260919 Bug is ahk allowed to write to OneDrive Dokumenty folder  ... but none ahk is present allowed in ransomware protection"
+; mkdir
 
 ; #Persistent
 ; EXPLANATION: #Persistent was removed in v2.
@@ -98,7 +113,7 @@ OnClipboardChange ClipChanged
 ;debug
 ; v2 FileAppend syntax: FileAppend Text, Filename
 ; Concatenation is just spaces between strings.
-FileAppend ".." "v2 reload   `n", logFile
+FileAppend ".." "v2 VERSION2 reload   `n", logFile
 
 return
 
@@ -113,6 +128,9 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
     ;This means variables created inside here (like logFile2) are safe and won't conflict with globals.
 
     logFile2 := "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+	logFile2 :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
+	;logFile2 :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\2debug0.clipboard_log.rr.n8.txt.md"
+	logFile2 :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 
     ; Pen?zky ukryl jsem do hl?ny pod dubem -> v2 handles Unicode much better!
     ; We will force UTF-8 encoding below to ensure Czech characters save correctly.
