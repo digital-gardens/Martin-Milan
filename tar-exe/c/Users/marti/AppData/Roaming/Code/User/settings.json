@@ -514,7 +514,7 @@
 
 				{
 					"overviewRulerColor": "#0D50FF",
-					"backgroundColor": "cyan",
+					"backgroundColor": "#00a0ff",
 					"color": "#1f1f1f",
 					//"fontWeight": "bold"
 				},
@@ -549,7 +549,7 @@
 					"overviewRulerColor": "red",
 					"backgroundColor": "red",
 					"color": "#1f1f1f",
-					"fontWeight": "bold"
+					//"fontWeight": "bold"
 				},
 				{
 					"backgroundColor": "red",
@@ -575,7 +575,7 @@
 					"overviewRulerColor": "#4DE0FF",
 					"backgroundColor": "#4DE0FF",
 					"color": "#1f1f1f",
-					"fontWeight": "bold"
+					//"fontWeight": "bold"
 				},
 				{
 					"backgroundColor": "#4DE0FF",
@@ -607,7 +607,7 @@
 					"overviewRulerColor": "#ffcc00",
 					"backgroundColor": "#ffcc00",
 					"color": "#1f1f1f",
-					"fontWeight": "bold"
+					//"fontWeight": "bold"
 				},
 				{
 					"backgroundColor": "#ffcc00",
