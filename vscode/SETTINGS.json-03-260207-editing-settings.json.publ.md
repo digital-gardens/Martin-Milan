@@ -1,7 +1,7 @@
-#TODO #test #highlight #regexes #settings  aaa  #aaa 
+#T ODO #test #highlight #regexes #settings  aaa  #aaa 
 
 this
-C:\Users\marti\OneDrive\Dokumenty\00-MM\03.publ.dir\03-260207-editing-settings.json.publ.md
+// "file:///C:/Users/marti/OneDrive/Dokumenty/00-MM/vscode/SETTINGS.json-03-260207-editing-settings.json.publ.md"
 
 # //// 0112 0be #aaaaa držet šiacu, jógu (. )  (L ) ℹ️💚🎵⏰ ,  ostatní se zvládne
 

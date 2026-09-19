@@ -1,12 +1,15 @@
-		// #TODO #test #highlight #regexes #settings  aaa  #aaa
+		// #TOD O #test #highlight #regexes #settings  aaa  #aaa
 
 {
 
 // DONT  EDIT setting.json  IN AN EXPERIMENTAL WORKSPACE
 
-// file:///C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\03-260207-editing-settings-json.publ.md
+// maybe switch off auto-click in #q     rsi
 
-// in that file  ....  DO, SOMETIMES, F8, AT THE LINE  ..... cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+// "file:///C:/Users/marti/OneDrive/Dokumenty/00-MM/vscode/SETTINGS.json-03-260207-editing-settings.json.publ.md"
+
+// to see edits in the settings.json ... in github desktop
+// in that file publ.md  ....  DO, SOMETIMES, F8, AT THE LINE  ..... cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
 
 
 
@@ -474,15 +477,88 @@
 	"editor.renderWhitespace": "all",
 
 
+
+
+
+
+	/// https://github.com/fabiospampinato/vscode-highlight
+
+///Regexes need to be double-escaped, once for JSON and the second time for the regex itself. For example if you want to match a literal asterisk you should write \\*, not just \*.
+
 	"highlight.regexFlags": "gi",
 
 // #TODO #test #highlight #regexes #settings  aaa  #aaa
 
 	"highlight.regexes": {
 
-		// my aaaaaaa test
-		"(a{3,})(.{0,3})": {
-			//"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+		// MY red ... test #exclu  annot  inner   nn             #n             nnnn            #nnn
+		// my nnnn  // test      rrrr         gggggggeeeeeecccccacca          hhhffffffffdddddadd
+
+		// 		"(n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		//"(\\bn{2,}|[#]n{1,}|n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		//"(\\bn{2,}|[#]n{1,}|n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		"(\\bn{2,}|[#]e{1,}x|[#]n{1,}|n{3,}|r{3,}|g{3,}|h{3,})(.{0,6})"
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+				{
+					"overviewRulerColor": "red",
+					"backgroundColor": "red",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "red",
+					"color": "#1f1f1f"
+				}
+			]
+		},
+
+
+
+		// MY green ... test  #inn      #inclu    inner   yy             #y             yyy            #yyy        Vysotskyy
+		// my yyyyy  // test      iiii         eeeeeecccccacca          ffffffffdddddadd
+
+		//"(y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+		//"(\\by{2,}|[#]y{1,}|y{3,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+		//"(\\by{2,}|[#]y{1,}|y{2,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+		"(\\by{2,}|[#]i{1,}n|[#]y{1,}|y{2,}|i{3,}|e{3,}|f{3,})(.{0,6})"
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+				{
+					"overviewRulerColor": "#4DE0FF",
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f",
+					"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f"
+				}
+			]
+		},
+
+
+
+
+
+		// MY yellow ... test   inner   aa             #a             aaa            #aaa        Klaas
+		// my aaaaaaa  // test      bbbbbabba         cccccacca          dddddadd
+
+		"(\\ba{2,}|[#]a{1,}|a{2,}|b{3,}|c{3,}|d{3,}|warn)(.{0,6})"
+		//"(\\ba{2,}|[#]a{1,}|a{3,}|b{3,}|c{3,}|d{3,}|warn)(.{0,6})"
+		//"(a{3,}|b{3,}|c{3,}|d{3,}|warn)(.{0,6})"
+		//"(cccc)|((a{3,}|dddd)(.{0,3}))|(bbbb)(.{0,4})"
+		//"(cccc)|(a{3,})(.{0,3})|(bbbb)(.{0,3})"
+		//"(cccc)|(a{3,})(.{0,3})|bbbb(.{0,3})"
+		//"(cccc)(.{0,3})|(a{3,})(.{0,3})|bbbb(.{0,3})"
+		//"cccc(.{0,3})|(a{3,})(.{0,3})|bbbb(.{0,3})":
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
 			"decorations": [
 				{
 					"overviewRulerColor": "#ffcc00",
@@ -497,9 +573,11 @@
 			]
 		},
 
+
+		// yellow .."#TODO"..
+		// standard "TODO"..aaa
 		// TODO a. test  ..aaaaa
 		//false alarm ODO. false alarm  .aaa--
-		// standard "TODO"..aaa
 		"((?:<!-- *)?(?:#|// @|//|./\\*+|<!--|--|\\* @|{!|{{!--|{{!) *TODO(?:[\\t\\f\\v ]*\\([^\\r\\n)]+\\))?:?)((?!\\w)(?: *-->| *\\*/| *!}| *--}}| *}}|(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--|{!|{{!--|{{!))|(?: +[^\\r\\n@]*?)(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--(?!>)|{!|{{!--|{{!))|(?: +[^\\r\\n@]+)?))": {
 			"filterFileRegex": ".*(?<!CHANGELOG.md)$",
 			"decorations": [
@@ -516,6 +594,8 @@
 			]
 		},
 
+
+		// red ..
 		"((?:<!-- *)?(?:#|// @|//|./\\*+|<!--|--|\\* @|{!|{{!--|{{!) *(?:FIXME|FIX|BUG|UGLY|DEBUG|HACK)(?:[\\t\\f\\v ]*\\([^\\r\\n)]+\\))?:?)((?!\\w)(?: *-->| *\\*/| *!}| *--}}| *}}|(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--|{!|{{!--|{{!))|(?: +[^\\r\\n@]*?)(?= *(?:[^\\r\\n:]//|/\\*+|<!--|@|--(?!>)|{!|{{!--|{{!))|(?: +[^\\r\\n@]+)?))": {
 			"filterFileRegex": ".*(?<!CHANGELOG.md)$",
 			"decorations": [
@@ -533,13 +613,17 @@
 		}
 
 
+
+
 	},
 
-	// 20260523 probably vscdb ...
+
+
+	// 20260523 warning ..probably vscdb ...
 		// 	  sideBar <- moved Explorer view, had to maximize to undo the change
 		// markdown outline follow cursor
 
-	// DONT FORGET THE COMMA AFTER EACH SETTING
+	// warning DONT FORGET THE COMMA AFTER EACH SETTING
 
 	// related file:///C:\Users\marti\OneDrive\tar-exe\c\Users\marti\AppData\Roaming\Code\User\settings.json
 
@@ -553,7 +637,7 @@
     // ## pgm --help -help -h -e -l -p -- :;.,$&O01lI"''`--
     // Capital-i Illustr ss01
     // omlouvám se za opožděné přání všeho nejlepšího k narozeninám ... (chtěl jsem to říct ten den, kdy jste u nás byli na návštěvě, ale večer už nějak nebyla příležitost)
-    // The significance of withdrawal symptoms Withdrawal symptoms are not inconsequential – they indicate the nervous system is becoming destabilized,24,56,57 accounting for the variety and variability of symptoms.27 According to established pharmacological principles, chronic application of any psychotropic brings about neurophysiological processes: adaption, tolerance, and potential dependence with withdrawal upon reduction of the
+    // #BUG The significance of withdrawal symptoms Withdrawal symptoms are not inconsequential – they indicate the nervous system is becoming destabilized,24,56,57 accounting for the variety and variability of symptoms.27 According to established pharmacological principles, chronic application of any psychotropic brings about neurophysiological processes: adaption, tolerance, and potential dependence with withdrawal upon reduction of the
 
     // unknown configuration setting: languages
 
@@ -561,6 +645,6 @@
 
 // https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
 
-    // exists f1 default settings
+    // iii exists f1 default settings
 
 // #TODO #test #highlight #regexes #settings  aaa  #aaa

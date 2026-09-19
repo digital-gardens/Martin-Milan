@@ -1,12 +1,15 @@
-		// #TODO #test #highlight #regexes #settings  aaa  #aaa
+		// #TOD O #test #highlight #regexes #settings  aaa  #aaa
 
 {
 
 // DONT  EDIT setting.json  IN AN EXPERIMENTAL WORKSPACE
 
-// file:///C:\Users\marti\OneDrive\Dokumenty\251225.publ.dir\03-260207-editing-settings-json.publ.md
+// maybe switch off auto-click in #q     rsi
 
-// in that file  ....  DO, SOMETIMES, F8, AT THE LINE  ..... cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
+// "file:///C:/Users/marti/OneDrive/Dokumenty/00-MM/vscode/SETTINGS.json-03-260207-editing-settings.json.publ.md"
+
+// to see edits in the settings.json ... in github desktop
+// in that file publ.md  ....  DO, SOMETIMES, F8, AT THE LINE  ..... cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
 
 
 
