@@ -1,6 +1,15 @@
-﻿# ....repeatSpace
+﻿# ....repeatSpace  .fold all .unfold all
+
+# "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\COPY-COPY\copy-0.clipboard_log.rr.notn8.txt.md"
+copy   C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md   "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\COPY-COPY\copy-0.clipboard_log.rr.notn8.txt.md"
+
+## debug .manual copy
 
 - # - // .sep ----
+- # - // .sep --------
+- # - // .sep ----------------
+- # - // .sep --------------------------------
+- # - // .sep ----------------------------------------------------------------
 
   ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
 
@@ -9,6 +18,24 @@
   - ###### -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
 
 	pokus
+
+
+# .log based info system, thought stream ?
+autohotkey
+	logFile2 :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+.ins
+*
+explorer "C:\Users\marti\OneDrive\OnClipboardChang
+	logFile2 :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+
+
+
+
+
+
+
+
+---
 
 - # - // .sep ----
 
@@ -68,22 +95,6 @@ copy "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"  "C:\U
 
 .aaabbb reload
 
-# .log based info system, thought stream ?
-autohotkey
-	logFile2 :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
-.ins
-*
-explorer "C:\Users\marti\OneDrive\OnClipboardChang
-	logFile2 :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
-
-
-
-
-
-
-
-
----
 - # title: "Cleartalk Concepts"
 source: "https://web.archive.org/web/20060118131903/http://www.csi.uottawa.ca/~kavanagh/Ikarus/Cleartalk.html"
 author:
@@ -631,5 +642,49 @@ file:///C:/Users/marti/OneDrive/11c3aaaa/ClipboardChange.rr.n8.dir/0.clipboard_l
 file:///C:/Users/marti/OneDrive/11c3aaaa/ClipboardChange.rr.n8.dir/0.clipboard_log.rr.n8.txt.md
 ;test v1:   ^win+space ... seems to work, just doesnt show a confirmation
 
+- # - // .sep ---- schedule
+
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f5.cmd
+code C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f5.cmd
+
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "%OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
+
+rem C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f5.cmd
+
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "%OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
+
+rem 20260919 comment out
+
+@echo off
+
+rem 20260919 was already commented out
+
+C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md
+code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
+rem
+code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md
+code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
+rem
+code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md
+
+rem 20260919 comment out
+
+rem maybe not ?? run task as soon as possible after a scheduled start is missed ???
+
+# ....repeatSpace
+
 - # - // .sep ----
 
+- # - // .sep --------
+
+- # - // .sep ----------------
+
+----------------
+- # - // .sep --------------------------------
+
+--------------------------------
+- # - // .sep ----------------------------------------------------------------
+
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\COPY-COPY\copy-0.clipboard_log.rr.notn8.txt.md"
+C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md
