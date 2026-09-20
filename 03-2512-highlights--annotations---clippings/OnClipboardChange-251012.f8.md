@@ -1,8 +1,23 @@
+# ....repeatSpace  .fold all .unfold all
+# file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\03-2512-highlights--annotations---clippings\OnClipboardChange-251012.f8.md
+# copy this to "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\COPY-COPY\copy-0.clipboard_log.rr.notn8.txt.md"
+copy   C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md   "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\COPY-COPY\copy-0.clipboard_log.rr.notn8.txt.md"
 
-- // .sep ----
+## debug .manual copy
 
- ....repeatSpace
--  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+- # - // .sep ----
+- # - // .sep --------
+- # - // .sep ----------------
+- # - // .sep --------------------------------
+- # - // .sep ----------------------------------------------------------------
+
+- # .reload f9  #q     auto{
+#q     auto{
+
+  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+
+
+
 -  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
 -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
  ....repeatSpace

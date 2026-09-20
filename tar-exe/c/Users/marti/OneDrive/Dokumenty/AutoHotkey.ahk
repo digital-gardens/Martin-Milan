@@ -181,7 +181,8 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 ;very old   :X*:ww::Send("{Home}{Space}{Left}- ℹ️ {#}aa")
 
 ;20260814
-:X*:ww::Send("{Home}- {# 6} {Left 1}")
+:X*:ww::Send("{Home}- {# 2} {Left 1}")
+;   :X*:ww::Send("{Home}- {# 6} {Left 1}")
 ;202606
 ;:X*:ww::Send("{Home}{# 6} {#}aaa{Space}{Left 6}")
 
