@@ -4,7 +4,7 @@
 
 tel mb
 
-Toto telefonní číslo již bylo pro ověření použito příliš mnohokrát.
+- ## Toto .telefonní číslo již bylo pro ověření použito .příliš mnohokrát.
 
 tel lb?
 Swollen-Battery--li-ion-250110\Swollen-Battery--Li-ion.f8.md
@@ -35,7 +35,7 @@ mail
 
 Toto číslo a možnosti jeho využití můžete kdykoli změnit v účtu Google (account.google.com/phone), kde ho můžete také odstranit
 
-Pokud e‑mail nepřidáte, oznámení o účtu vám můžou být zasílána prostřednictvím textových zpráv a v Centru zpráv ve vašem účtu Google. Můžou být účtovány běžné poplatky za SMS.
+- ## Pokud e‑mail nepřidáte, oznámení o účtu vám můžou být zasílána prostřednictvím textových zpráv a v Centru zpráv ve vašem účtu Google. Můžou být účtovány běžné poplatky za SMS.
 
 
 
