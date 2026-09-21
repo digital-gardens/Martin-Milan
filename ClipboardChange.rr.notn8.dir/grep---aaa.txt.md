@@ -1,3 +1,6 @@
+- # #hashtags  ....dotwords .dotphrases 
+ - # .rr ....repeatSpace , .HODINOVY ,  .fold all .unfold all
+- # .mydfs .arrows .morphisms
 - ## - // .sep ----
 - ## - // .sep --------
 - ## - // .sep ----------------
@@ -80,8 +83,15 @@
 - # bug test@example.com
 - # bug .La Woodchuck Chuck
 - # bug .n 8 .r 8
+- # - #TODO 921 20260921
 - # Liv Boková Přepis článku o komunikaci
 - ## https://myaccount.google.com/security-checkup/1
 - ## https://myaccount.google.com/language
 - ## https://moje.mnd.cz/login
 - ## psát si poznámky ..Ve kterých stádiích Alzheimerovy nemoci..může mít smysl .gdoc
+- # Liv Boková Přepis článku o komunikaci
+- ## antifragile structure of the brain
+- ## antifragile structured procrastination
+- ## antifragile structured procrastination
+- ## antifragile structured procrastination
+ - # .rr ....repeatSpace , .HODINOVY ,  .fold all .unfold all
