@@ -1,0 +1,74 @@
+- ## - // .sep ----
+- ## - // .sep --------
+- ## - // .sep ----------------
+- ## - // .sep --------------------------------
+- # - // .sep ----------------------------------------------------------------
+- # .reload f9  #q     auto{
+  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+- # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+  - ###### -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
+- # - // .sep ----
+- ###### file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
+- ###### "C:\Users\marti\OneDrive\Dokumenty\01 napoveda.f5.cmd"
+- ###### ; ok .Penízky ukryl jsem do hlíny pod dubem,
+- ###### code   "C:\Users\marti\OneDrive\OnClipboardChange-251012"
+- ###### .A stal jsem presne tam co t�ta st�val
+- ###### .TODO 04-KDE-MAS-HLAVNI-NAPOVEDU.f8.md
+- # title: "Cleartalk Concepts"
+- ###### Shape output for a reader with ADHD, then write each sentence in .controlled English: action first, one word one meaning, active voice, simple tenses, state restated every turn. Invoke with /attention-
+ - ###### .Limit noun clusters to 3 words. Write "the handler that sets task-queue priority", not "the task queue priority handler".
+- ## .partial category of Aristotelian terms and 4 types of Aristotelian propositions?
+- ###### Notes on .philosophy presented in OntoUML, UML, OWL/BFO, OWL/GUFO diagrams and codes
+- # .Informal logic"
+- ###### a .student asked in disgust how anything he
+- # title: "Řidiči .LIFTAGO, UBER & BOLT (NE: pravidla, vulgarity a brblající taxikáři) | Ahoj, mam otazecku jak resite .cekani na klienta"
+- # Luhmann codes for math.md
+- # .wiki/Outline_of_information_science"
+- ###### how many .characters are special inside [] in regexes:
+- - ( .hyphen) denotes a range if placed between characters
+- ℹ️ #aaa Každé ráno otvírám svůj krámek pod věží,
+- ℹ️ #aaa          .yyy Říkají, že paní má se má,
+- ### [Hložek Stanislav - .Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
+-  ### # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+- # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...
+-  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...
+- # stál jsem a hleděl jsem, hleděl jsem nahoru,
+- #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
+- ℹ️ #aaaa *Dsus2*, 130 bpm Nad stádem koní Podkovy zvoní, zvoní Černý vůz vlečou A slzy tečou a já volám: 1. Tak neplač můj ...
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+-  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+-  ### # #aaaaaa #yyyyy #rrrrr herec Mi
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+-  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to 
+-  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to 
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už 
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už 
+-  ### ℹ️ #aaaaa Bmp 80 1. Z Těšína vyjíždí vlaky co čtvrthodinu, včera jsem nespal a ani dnes nespočinu, svatý Medard, můj ...
+-  ### ℹ️ #aaaaa Bmp 80 1. Z Těšína vyjíždí vlaky co čtvrthodinu, včera jsem nespal a ani dnes nespočinu, svatý Medard, můj ...
+- // .sep ----
+- # - // .sep ----
+- ###### ; .WARNING .i forgot again .to debug ahk .in the bottom right hand .corner [  .] of the windows taskbar, there is a small green square icon for ahk, right click it, and choose "Open" to see the debug 
+- # - // .sep ---- schedule 919 920 921
+- # - // .sep ----
+- # - // .sep --------
+- # - // .sep ----------------
+- # - // .sep --------------------------------
+- # - // .sep ----------------------------------------------------------------
+- ## .reload f9  #q     auto{
+- ## .reload f9  #q     auto{
+- // .sep ----
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+- ## - // .sep ----
+- ## - // .sep --------
+- ## - // .sep ----------------
+- ## - // .sep --------------------------------
+- # - // .sep --------------------------------------------------------
+- ## Toto .telefonní číslo již bylo pro ověření použito .příliš mnohokrát.
+  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
