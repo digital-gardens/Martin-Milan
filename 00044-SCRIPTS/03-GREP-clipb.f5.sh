@@ -5,9 +5,9 @@ cd "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir"  #\0.clipboard_l
 
 
 
-ls
+#ls
 #sleep 5
- exit
+ # exit
 
 
 
@@ -26,8 +26,8 @@ ls
 # yyy  grep    --no-filename   because markdown formatting is broken with filenames in the output
 # yy  debug: -L   ...  --files-without-match
 
-
-grep  -E  -i       --no-filename   '^ *[-+*#]+ .{0,10}[-+*#]+'   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep---aaa.txt.md"
+# '^ *[-+*#]+ .{0,10}[-+*#]+'  debug  -o   +  
+grep  -E  -i       --no-filename     '^ *[-] +[#]+'    "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep---aaa.txt.md"
 
    #  | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'
 
