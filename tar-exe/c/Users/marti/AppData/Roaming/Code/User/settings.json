@@ -1,5 +1,3 @@
-		// #TOD O #test #highlight #regexes #settings  aaa  #aaa
-
 {
 
 // DONT  EDIT setting.json  IN AN EXPERIMENTAL WORKSPACE
@@ -11,14 +9,14 @@
 // to see edits in the settings.json ... in github desktop
 // in that file publ.md  ....  DO, SOMETIMES, F8, AT THE LINE  ..... cmd /c  copy        "C:\Users\marti\AppData\Roaming\Code\User\settings.json"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\"
 
-
-
 //if settings.json has to be changed
   //write the planned edits   [[03-260207-editing-settings-json.publ.md]]
   //push this file to git
 
-	  // ctrl`
-	  //  #WARNING FROM vscode / problems.. Value is not accepted. Valid values: "auto", "always", "never".
+// #TODO  test  highlight color of  json braces
+// #TODO #test #highlight #regexes #settings  aaa  #aaa
+	  // .ctrl`   [  |^ ]     .problems 2 ... .keep 2 problems to .rr .repeatSpace .. .this  .vscode  .lint  .exists
+	  //  #WARNING FROM vscode f1  .problems.. Value is not accepted. Valid values: "auto", "always", "never".
 		// rclick fix, explain,
 
 
@@ -684,10 +682,11 @@
 
     // unknown configuration setting: languages
 
-}
-
 // https://github.com/martin12333/marti-onedrive/blob/main2/tar-exe/c/Users/marti/AppData/Roaming/Code/User/settings.json
 
     // iii exists f1 default settings
 
+// #TODO  test  highlight color of  json braces
 // #TODO #test #highlight #regexes #settings  aaa  #aaa
+
+}
