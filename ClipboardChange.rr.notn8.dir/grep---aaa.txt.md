@@ -80,3 +80,8 @@
 - # bug test@example.com
 - # bug .La Woodchuck Chuck
 - # bug .n 8 .r 8
+- # Liv Boková Přepis článku o komunikaci
+- ## https://myaccount.google.com/security-checkup/1
+- ## https://myaccount.google.com/language
+- ## https://moje.mnd.cz/login
+- ## psát si poznámky ..Ve kterých stádiích Alzheimerovy nemoci..může mít smysl .gdoc
