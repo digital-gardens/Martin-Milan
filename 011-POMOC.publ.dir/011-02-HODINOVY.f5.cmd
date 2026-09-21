@@ -9,7 +9,7 @@ rem  .f5    .cmd
 rem JB maybe #todo %OneDrive%\ in the scheduled task -- is it possible to use %% ... %OneDrive% in the scheduled task, or does it have to be the full path, e.g. C:\Users\marti\OneDrive\Dokumenty?
 
 
-rem maybe not.. ai generated.. do such things happen ?? .. the .cmd file is called, but the .cmd file does not run, because it is in the OneDrive folder, and OneDrive is not running yet
+rem maybe not. the following. ai generated.. do such things happen ?? .. the .cmd file is called, but the .cmd file does not run, because it is in the OneDrive folder, and OneDrive is not running yet
 
 
 rem done edit edit yy ..  NOW THE WINDOWS TASK SCHEDULER CALLS again  THE .CMD FILE
@@ -25,19 +25,34 @@ rem - # - // .sep --------------------------------------------------------------
 rem
 rem # ....repeatSpace
 
-rem .debug.. win q scheduled tasks  aaaa aaaa yyyy              .f5 to refresh the listing
+rem .debug..  in win q scheduled tasks  aaaa aaaa yyyy              .f5 to refresh the listing
+
+
+
+
+ "C:\Program Files\Git\bin\bash.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh"
+
+rem 20260919 commente out.. was merely echo
+rem echo 20260909 rem "C:\Program Files\Git\bin\bash.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"
+rem
+rem remremC:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\GREP--called.f5.sh
+
 
 
 rem 20260919
-code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
-rem
-code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md
+rem bug fixed call code.cmd
+rem where.exe code
+rem pause
+
+call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
+
+rem pause
+rem echo returned
+
+call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md
 
 
-rem 20260919 comment out
-rem 20260919 commente out.. was merely echo echo 20260909 rem "C:\Program Files\Git\bin\bash.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"
-rem
-rem remremC:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\GREP--called.f5.sh
+
 
 
 rem 20260919 comment out

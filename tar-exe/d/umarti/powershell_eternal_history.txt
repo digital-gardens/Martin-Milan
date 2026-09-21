@@ -13946,3 +13946,4 @@ code   "C:\Users\marti\OneDrive\OnClipboardChange-251012"
 code C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f5.cmd
 copy   C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md   "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\COPY-COPY\copy-0.clipboard_log.rr.notn8.txt.md"
 bash
+code C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f5.cmd
