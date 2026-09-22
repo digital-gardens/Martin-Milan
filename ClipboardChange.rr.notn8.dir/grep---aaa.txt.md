@@ -73,10 +73,6 @@
 - ## .reload f9  #q     auto{
 - ## .reload f9  #q     auto{
 -  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
-
-- # bug test@example.com
-
-
 - ## - // .sep ----
 - ## - // .sep --------
 - ## - // .sep ----------------
@@ -86,21 +82,17 @@
 -  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
 -  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
 - ## 
-
+- # bug test@example.com
 - # bug .La Woodchuck Chuck
 - # bug .n 8 .r 8
-
 - # - #TODO 921 20260921
 - # Liv Boková Přepis článku o komunikaci
 - ## https://myaccount.google.com/security-checkup/1
 - ## https://myaccount.google.com/language
 - ## https://moje.mnd.cz/login
-
 - ## psát si poznámky ..Ve kterých stádiích Alzheimerovy nemoci..může mít smysl .gdoc
-
 - # Liv Boková Přepis článku o komunikaci
 - ## antifragile structure of the brain
-
 - ## antifragile structured procrastination
 - ## antifragile structured procrastination
 - ## 🎵 Related song: "Dělání" by Jaroslav Uhlíř and Zdeněk Svěrák
@@ -112,8 +104,56 @@
 - # stepwise refinement of a problem 
 - # stepwise refinement of  
 - # stepwise formalization of a problem 
-
-
+- ## - // .sep ----
+- ## - // .sep --------
+- ## - // .sep ----------------
+- ## - // .sep --------------------------------
+- # - // .sep --------------------------------------------------------
+- ## - // .sep ----
+- ## - // .sep --------
+- ## - // .sep ----------------
+- ## - // .sep --------------------------------
+- # - // .sep --------------------------------------------------------
+- ## - // .sep ----
+- ## - // .sep --------
+- ## - // .sep ----------------
+- ## - // .sep --------------------------------
+- # - // .sep --------------------------------------------------------
+- ## - // .sep ----
+- ## - // .sep --------
+- ## - // .sep ----------------
+- ## - // .sep --------------------------------
+- # - // .sep --------------------------------------------------------
+- ## - // .sep ----
+- ## - // .sep --------
+- ## - // .sep ----------------
+- ## - // .sep --------------------------------
+- # - // .sep --------------------------------------------------------
+- ## Toto .telefonní číslo již bylo pro ověření použito .příliš mnohokrát.
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+-  ### ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+- ## 
+- # bug .La Woodchuck Chuck
+- # bug .n 8 .r 8
+- # - #TODO 921 20260921
+- # Liv Boková Přepis článku o komunikaci
+- ## https://myaccount.google.com/security-checkup/1
+- ## https://myaccount.google.com/language
+- ## https://moje.mnd.cz/login
+- ## psát si poznámky ..Ve kterých stádiích Alzheimerovy nemoci..může mít smysl .gdoc
+- # Liv Boková Přepis článku o komunikaci
+- ## antifragile structure of the brain
+- ## antifragile structured procrastination
+- ## antifragile structured procrastination
+- ## 🎵 Related song: "Dělání" by Jaroslav Uhlíř and Zdeněk Svěrák
+- ## antifragile structured procrastination
+- # #hashtags  ....dotwords .dotphrases 
+- # .mydfs .arrows .morphisms
+- # #hashtags  ....dotwords .dotphrases 
+- ## copilot 
+- # stepwise refinement of a problem 
+- # stepwise refinement of  
+- # stepwise formalization of a problem 
 - # stepwise formalization of a sentence 20260922
 - ## copilot 
 - ## copilot 
@@ -135,3 +175,4 @@
 - ## 🎵 Musical connection: I Am the Walrus by The Beatles ("I am he as you are he as you are me and we are all together" — a perfectly tangled expression of identity).
 - ## 🎵 Musical connection: Nowhere Man by The Beatles (a man existing entirely in his own reflexive loop, making nowhere plans for nobody but himself).
 - ## explain $A \sqsubseteq \exists R.Self  $
+- # stepwise formalization of a sentence 20260922
