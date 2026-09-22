@@ -1,5 +1,7 @@
+  - ## ..HODINOVY ,  .fold all .unfold all
+- ## .logs .langs
+- # ..dopamine 
 - # #hashtags  ....dotwords .dotphrases 
- - # .rr ....repeatSpace , .HODINOVY ,  .fold all .unfold all
 - # .mydfs .arrows .morphisms
 - ## - // .sep ----
 - ## - // .sep --------
@@ -93,5 +95,28 @@
 - ## antifragile structure of the brain
 - ## antifragile structured procrastination
 - ## antifragile structured procrastination
+- ## 🎵 Related song: "Dělání" by Jaroslav Uhlíř and Zdeněk Svěrák
 - ## antifragile structured procrastination
- - # .rr ....repeatSpace , .HODINOVY ,  .fold all .unfold all
+- # #hashtags  ....dotwords .dotphrases 
+- # .mydfs .arrows .morphisms
+- # #hashtags  ....dotwords .dotphrases 
+- ## copilot 
+- # stepwise refinement of a problem 
+- # stepwise refinement of  
+- # stepwise formalization of a problem 
+- # stepwise formalization of a sentence 20260922
+- ## copilot 
+- ## copilot 
+- ## copilot 
+- ## copilot 
+- # stepwise formalization of a sentence
+- # stepwise formalization of a sentence 20260922
+- ## "Every rechargeable battery stores electricity."
+- ## "Every rechargeable battery stores electricity."
+ - ## Musical connection: Eleanor Rigby by The Beatles (where isolated, variable-like "lonely people" ask where they all belong, waiting for a relation to connect them).
+- ## In Tarski's system, concepts become sub-identity relations.
+- ## "Every rechargeable battery stores electricity."
+- ## but.. add.. "Amazon stores batteries." 
+- ## but[ii] add.. "power banks store electricity."
+- ## 🎵 Musical connection: I Should Have Known Better by The Beatles.
+- ## 🎵 Musical connection: Penny Lane by The Beatles (a specific, singular place described entirely by the relations and activities happening within its boundaries).
