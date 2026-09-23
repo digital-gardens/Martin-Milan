@@ -27,83 +27,46 @@ tags:
 ---
 
 
+example  from [https://hurraki.org/english/wiki/Battery](https://hurraki.org/english/wiki/Battery)
 
-There are different types of batteries.
+// numbers are added my me
 
-Some can be charged
+// for translation experiments
 
-And are called rechargeable batteries.
-
-Others can not be charged.
-
-They are called single-use battery.
-
-Once the battery is charged,
-
-it can provide electricity.
-
-For example to a
-
-[
-
-mobile phone
-
-](https://hurraki.org/english/w/index.php?title=Smartphone&action=edit&redlink=1 "Smartphone (page does not exist)")
-
-## Words with similar meanings
-
-Battery
-
-Rechargeable battery
-
-Single-use battery
-
-Storage battery
-
-## Detailed explanation
-
-A battery stores electricity.
-
-Once charged,
-
-the battery can provide electricity.
-
-The battery gives electricity to a [device](https://hurraki.org/english/w/index.php?title=Device&action=edit&redlink=1 "Device (page does not exist)").
-
-For example, the battery gives electricity to an [iPod](https://hurraki.org/english/w/index.php?title=IPod&action=edit&redlink=1 "IPod (page does not exist)").
-
-This device then do not need a cable.
-
-A device with battery do not need a plug.
-
-When the battery has no electricity anymore,
-
-the battery is called „empty”.
-
-Once the battery is empty, it has to be recharged.
-
-To recharge the battery, you need a [recharger](https://hurraki.org/english/w/index.php?title=Recharger&action=edit&redlink=1 "Recharger (page does not exist)").
-
-In the recharger, you put the empty battery.
-
-A light or a display turns on,
-
-when the battery is empty.
-
-Usually, this light is red or orange.
-
-A light or a display turns on when the battery is fully charged.
-
-Usually, the light is then green.
-
-When the battery is broken,
-
-you have to bring it to a collection point for batteries.
-
-A battery can not be put in the regular [trash](https://hurraki.org/english/w/index.php?title=Trash&action=edit&redlink=1 "Trash (page does not exist)").
-
-Sometimes retailers who sell batteries,
-
-also take broken batteries back.
-
-
+1. There are different types of batteries.
+2. Some can be charged
+3. And are called rechargeable batteries.
+4. Others can not be charged.
+5. They are called single-use battery.
+6. Once the battery is charged,
+7. it can provide electricity.
+8. For example to a mobile phone.
+9. The picture shows several batteries. They are different types of batteries.
+10. Words with similar meanings
+11. Battery
+12. Rechargeable battery
+13. Single-use battery
+14. Storage battery
+15. Detailed explanation
+16. A battery stores electricity.
+17. Once charged,
+18. the battery can provide electricity.
+19. The battery gives electricity to a device.
+20. For example, the battery gives electricity to an iPod.
+21. This device then do not need a cable.
+22. A device with battery do not need a plug.
+23. When the battery has no electricity anymore,
+24. the battery is called „empty”.
+25. Once the battery is empty, it has to be recharged.
+26. To recharge the battery, you need a recharger.
+27. In the recharger, you put the empty battery.
+28. A light or a display turns on,
+29. when the battery is empty.
+30. Usually, this light is red or orange.
+31. A light or a display turns on when the battery is fully charged.
+32. Usually, the light is then green.
+33. When the battery is broken,
+34. you have to bring it to a collection point for batteries.
+35. A battery can not be put in the regular trash.
+36. Sometimes retailers who sell batteries,
+37. also take broken batteries back.
