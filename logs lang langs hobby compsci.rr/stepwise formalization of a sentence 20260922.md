@@ -1,3 +1,6 @@
+
+//next time link to C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md
+
 - # stepwise formalization of a sentence 20260922
 is it possible to formalize a sentence in a stepwise manner, starting from a natural language sentence and gradually refining it into a formal representation?
 
@@ -213,5 +216,9 @@ $I_A$
 
 
 
+I am going 
 
 
+- # 923
+
+//next time link to C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md

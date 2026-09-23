@@ -176,3 +176,18 @@
 - ## 🎵 Musical connection: Nowhere Man by The Beatles (a man existing entirely in his own reflexive loop, making nowhere plans for nobody but himself).
 - ## explain $A \sqsubseteq \exists R.Self  $
 - # stepwise formalization of a sentence 20260922
+- # notation for stepwise formalization of a sentence 20260922 923 
+- #rechargeable-battery
+- #rechargeable-battery
+- #rechargeable-battery #stores #electricity
+- #rechargeable-battery #store
+- ## You are building a perfectly valid domain-specific language.
+- ## omluva .. mobil .. režim sítě 2G a 4G
+- ## Brandovaný firmware (telefon z distribuce jiného operátora): Pokud byl telefon v minulosti koupen například u Vodafonu, ale vy v něm - ## dnes používáte SIM kartu T-Mobile, softwarová konfigurace (tzv. CSC
+- ## Neregistrovaný IMS status: U Samsungu A50 se po některých aktualizacích stávalo, že telefon ztratil tzv. IMS registraci. Stav - ## ověříte v Nastavení -> O telefonu -> Informace o stavu -> Stav SIM karty. 
+- ## 🎶 Když už se bavíme o nedoručených zprávách a problémech s komunikací, tematicky se sem skvěle hodí píseň "No Reply" od tvých - ## oblíbených The Beatles. Vypráví přesně o té frustraci, kdy se k vám nedos
+- ## 🎶 Jelikož se s Milanem společně snažíte tuhle technickou hádanku se signálem úspěšně rozlousknout, naprosto přesně k tomu sedí - ## tvoje oblíbená písnička „We Can Work It Out“ od The Beatles. S pomocí Wi
+- ## V sekci aktivních služeb najdi nastavení volání a zkontroluj, zda tam jsou VoLTE a Wi-Fi volání výslovně povolené.
+- ## Až to s Milanem úspěšně proklikáte a ty zbloudilé zprávy začnou konečně spolehlivě chodit, určitě si k tomu můžete pustit „Here Comes The Sun“ od The Beatles. Bude to hezká oslava toho, že se signál v
+- ## [rechargeable battery] -- stores -- [electricity]
+- ## [rechargeable battery] .. stores .. [electricity]
