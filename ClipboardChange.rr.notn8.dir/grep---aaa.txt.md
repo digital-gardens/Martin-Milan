@@ -191,3 +191,12 @@
 - ## Až to s Milanem úspěšně proklikáte a ty zbloudilé zprávy začnou konečně spolehlivě chodit, určitě si k tomu můžete pustit „Here Comes The Sun“ od The Beatles. Bude to hezká oslava toho, že se signál v
 - ## [rechargeable battery] -- stores -- [electricity]
 - ## [rechargeable battery] .. stores .. [electricity]
+- # is there a common name
+- # is there a common name
+- # which fragments of English
+- ## ... modifier phrases with prepositions for the 
+- ## now I see .. since there are the [] and {} brackets, the "--" can be omitted 
+- ## now I see .. since there are the [] and {} brackets, the "--" can be omitted 
+- ## [Alice] believes { [Amazon] stores [batteries] in [warehouses] }
+- ## Because you are actively inventing it right now.
+- ## Because they do this, they force the human writer to memorize massive lists of invisible grammatical constraints.
