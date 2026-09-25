@@ -50,8 +50,23 @@
               "icon": "lucide-file",
               "title": "08-20260517-cowork-enable-------experim--prtscr--paste-to-obsidian.publ"
             }
+          },
+          {
+            "id": "ddd52534c1dba1ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "011-POMOC.publ.dir/011-02-HODINOVY.txt.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "011-02-HODINOVY.txt"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -199,8 +214,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0dfd4663ef89cdd",
+  "active": "ddd52534c1dba1ad",
   "lastOpenFiles": [
+    "Swollen-Battery--li-ion-250110/3Bezpečné řešení nafouknuté baterie mobilu!aaaa.md",
     "02-HODINOVY-011/GOOD-SIGNAL.md",
     "02-HODINOVY-011/0004-NEW.md",
     "4-02-GOOD-SIGNAL",
@@ -236,7 +252,6 @@
     "03-20260716-weighted-lists/0004new.md",
     "03-20260716-weighted-lists/experiment-underline-h1-h2.md",
     "03-20260716-weighted-lists/bug-underline-Jahe.md",
-    "03-20260716-weighted-lists/03-20260716-weighted-lists.md",
     "03.publ.dir/image.png",
     "20260511-claude.ai/attachments/Pasted image 20260526233240.png",
     "260314--tree-doc/26/screenshot-1774061654670.png",
