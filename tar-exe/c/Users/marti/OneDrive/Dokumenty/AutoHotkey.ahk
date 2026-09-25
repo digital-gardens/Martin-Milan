@@ -112,8 +112,13 @@ OnClipboardChange ClipChanged
 
 ;debug
 ; v2 FileAppend syntax: FileAppend Text, Filename
+
 ; Concatenation is just spaces between strings.
-FileAppend ".." "v2 VERSION2 reload   `n", logFile
+;FileAppend "- # ..  "    " VERSION2 #aa reload  ----------------  `n", logFile
+
+FileAppend "- #  VERSION2 #aa reload  ----------------  `n", logFile
+
+; win q 
 
 return
 

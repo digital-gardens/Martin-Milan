@@ -1,6 +1,8 @@
 #ls
 echo backgnd sh  task without output is very slow?
-echo cd  "C:\Users\marti\OneDrive\Dokumenty\...."
+echo echo no help
+echo keep fg?
+#echo cd  "C:\Users\marti\OneDrive\Dokumenty\...."
 #cd  "C:\Users\marti\OneDrive\Dokumenty"
 cd "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir"  #\0.clipboard_log.rr.n8.txt.md"
 
@@ -53,6 +55,8 @@ grep  -E  -i       --no-filename      '^ *[-] [- ]*[#]+'     "C:\Users\marti\One
 
 
 
+echo sleep 3
+sleep 3
 #sleep 5
 
 
