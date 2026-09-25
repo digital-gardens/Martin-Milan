@@ -116,9 +116,9 @@ OnClipboardChange ClipChanged
 ; Concatenation is just spaces between strings.
 ;FileAppend "- # ..  "    " VERSION2 #aa reload  ----------------  `n", logFile
 
-FileAppend "- #  VERSION2 #aa reload  ----------------  `n", logFile
+FileAppend "- #  VERSION2 #aa reload 0710 ----------------  `n", logFile
 
-; win q 
+; win win  arrows auto menu
 
 return
 
@@ -150,6 +150,8 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 
         ; CHANGE 2: FileAppend syntax
         ; We add "UTF-8" at the end to fix the strange character issues you had in v1.
+
+; win win  arrows auto menu
 
 		; 20260925
         FileAppend  "  - "  contents2 "`n", logFile2, "UTF-8"

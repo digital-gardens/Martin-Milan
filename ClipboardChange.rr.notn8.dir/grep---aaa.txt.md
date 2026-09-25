@@ -1,5 +1,5 @@
 - # #q    autohotkey  reload 
-- #    3.    tasks run;  git commit;  copy 11c3  00   ;  - # vscode ^a delete or ^c ;  tasks run;  git commit 
+- #    3.    tasks run;  git commit;  copy 11c3  00   ;  - # vscode ^a delete lines 130- ;  tasks run;  git commit 
 - # 5.  ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
   - ## 6.  ..HODINOVY ,  .fold all .unfold all
 - ## .logs .langs
@@ -42,3 +42,9 @@
   - - ## #bug InlineTextBox "toto stane? Upozorňuji, že od prvního .BAN nemám jedinou nepřijmutou zakázku."
 - # 20260925 cut here ---------
   -   - - #  VERSION2 #aa reload  ----------------  
+  - # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří #mmmmmap
+- #  VERSION2 #aa reload  ----------------  
+- #  VERSION2 #aa reload 0710 ----------------  
+- #  VERSION2 #aa reload 0710 ----------------  
+  - - #  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
+  -   - - # title: "Řidiči .LIFTAGO, UBER & BOLT (NE: pravidla, vulgarity a brblající taxikáři) | Ahoj, mam otazecku jak resite .cekani na klienta"
