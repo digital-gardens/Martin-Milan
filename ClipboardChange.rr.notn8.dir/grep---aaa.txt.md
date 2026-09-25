@@ -48,3 +48,8 @@
 - #  VERSION2 #aa reload 0710 ----------------  
   - - #  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
   -   - - # title: "Řidiči .LIFTAGO, UBER & BOLT (NE: pravidla, vulgarity a brblající taxikáři) | Ahoj, mam otazecku jak resite .cekani na klienta"
+- # gemini notebook 
+  - - # stepwise formalization of a sentence 20260922
+  -   - - # stepwise formalization of a sentence 20260922
+- ## how to set cutom instructions against 'wall of text' in Gemini Notebook?
+- # Gemini Notebook.. 20260922
