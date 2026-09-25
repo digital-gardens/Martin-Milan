@@ -53,3 +53,30 @@
   -   - - # stepwise formalization of a sentence 20260922
 - ## how to set cutom instructions against 'wall of text' in Gemini Notebook?
 - # Gemini Notebook.. 20260922
+- ## what are gemini-apps
+  - ## - Notebooks are a way to organize your projects in Gemini Apps in a dedicated, focused space. 
+- ##   Notebooks use both Gemini Apps and Gemini Notebook
+ - ## and .share & .sync info .between .both products
+  - - ## # help Gemini Notebook help
+  - - ## # tuneConfigure Chat
+  - - ## # help Gemini Notebook help
+  - #todo edit "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "%OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html" 011-POMOC 02-HODINOVY
+  - #todo edit "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "%OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html" 011-POMOC 02-HODINOVY
+  - - ## [![Gemini Notebook Logo](https://www.gstatic.com/tailwind/_/static/branding/v6/dark_mode/icon.svg)](/)
+- ## [![Gemini Notebook Logo](https://www.gstatic.com/tailwind/_/static/branding/v6/dark_mode/icon.svg)](/)
+- ## # tuneConfigure Chat
+- ## # help Gemini Notebook help
+- ## #bug no spaces    pdf edge-without-glsp 1.1 .SemanticWeblanguages .    . . . . . . . . . . . . . . . . . . . . . . . . 10
+- ## edge-with-glasp ok
+- # adobe 925
+- # yy annot 
+- # Contents
+- ## adobe vs ahk 
+  - ## - complexity. Traditionally, controlled natural languages fall into two major types: those
+  - - ## #bug no spaces    pdf edge-without-glsp 1.1 .SemanticWeblanguages .    . . . . . . . . . . . . . . . . . . . . . . . . 10
+  - ## - Discourse Representation Structures (DRS) — a syntactic variant of first-order logic
+- # moved from 924  
+- ## ACE content words are nouns, proper names, and verbs. Content words can be sim-ple (‘code’), or compound with hyphen (‘zip-code’)
+  - ## -  zapnout VoLTE a Volání přes Wi-Fi (Wi-Fi Calling / VoWiFi)  // Vodafone, Samsung Galaxy A50, Android 11
+  - ## - jen pro úplnost.. právě jsem zapnul  VoLTE a Volání přes Wi-Fi (Wi-Fi Calling / VoWiFi)  // Vodafone, Samsung Galaxy A50, Android 11
+  - ## -  pro úplnost.. https://www.vodafone.cz/muj/sluzby Wi-Fi volání a VoLTE už bylo aktivní ..ok....dnes jsme obojí zapnuli i na mobilu. ....
