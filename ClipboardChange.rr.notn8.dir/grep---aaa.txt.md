@@ -1,10 +1,11 @@
-- # tasks run;  git commit;  copy 11c3  00   ;  - # vscode ^a delete or ^c ;  tasks run;  git commit 
-- # ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
-  - ## ..HODINOVY ,  .fold all .unfold all
+- # #q    autohotkey  reload 
+- #    3.    tasks run;  git commit;  copy 11c3  00   ;  - # vscode ^a delete or ^c ;  tasks run;  git commit 
+- # 5.  ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
+  - ## 6.  ..HODINOVY ,  .fold all .unfold all
 - ## .logs .langs
 - # ..dopamine 
 - # #hashtags  ....dotwords .dotphrases 
-- # .mydfs .arrows .morphisms
+- # 12.  .mydfs .arrows .morphisms
 - ## - // .sep ----
 - ## - // .sep --------
 - ## - // .sep ----------------
@@ -19,6 +20,7 @@
 - # bug .n8
 - # bug  .r8
   - ###### -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
+- # #bug BOM is  why is this line not grepped
 - # .log based info system, thought stream ?
 - # - // .sep ----
 - ###### file:///C:\Users\marti\OneDrive\Dokumenty\eev-f8\TODO.f8.md
@@ -210,5 +212,12 @@
 - # ..dopamine 
 - # #hashtags  ....dotwords .dotphrases 
 - # .mydfs .arrows .morphisms
+  - - # #q    autohotkey  reload 
+  - - # #q    autohotkey  reload 
 - # - rename 11c3  00 
 - # ^a ^c 
+  - - # git commit;  rename 11c3  00   ;  - # ^a ^c ;  tasks run;  git commit 
+  - - # #q    autohotkey  reload 
+  - #   '^ *[-] +[#]+' 
+  - - # #q    autohotkey  reload 
+  - - # BOM  why is this line not grepped
