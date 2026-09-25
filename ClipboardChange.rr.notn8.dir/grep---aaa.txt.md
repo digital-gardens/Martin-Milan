@@ -1,3 +1,5 @@
+- # tasks run;  git commit;  copy 11c3  00   ;  - # vscode ^a delete or ^c ;  tasks run;  git commit 
+- # ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
   - ## ..HODINOVY ,  .fold all .unfold all
 - ## .logs .langs
 - # ..dopamine 
@@ -200,3 +202,13 @@
 - ## [Alice] believes { [Amazon] stores [batteries] in [warehouses] }
 - ## Because you are actively inventing it right now.
 - ## Because they do this, they force the human writer to memorize massive lists of invisible grammatical constraints.
+- # Zeptala jsem se AI Gemini, jak lidi chrání léky v dávkovači před světlem: 
+- # az  ted jsem si všiml, že jsou asi průsvitné ... i ty 3, kde je v popisu napsáno .uzavřeny
+   - # ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
+  - ## ..HODINOVY ,  .fold all .unfold all
+- ## .logs .langs
+- # ..dopamine 
+- # #hashtags  ....dotwords .dotphrases 
+- # .mydfs .arrows .morphisms
+- # - rename 11c3  00 
+- # ^a ^c 

@@ -140,11 +140,16 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
     if (DataType = 1) {
 
         ; CHANGE 1: "Clipboard" is now "A_Clipboard" in v2
-        contents2 := SubStr(A_Clipboard, 1, 200)
+        contents2 := SubStr(A_Clipboard, 1, 300)
+		; 200
 
         ; CHANGE 2: FileAppend syntax
         ; We add "UTF-8" at the end to fix the strange character issues you had in v1.
-        FileAppend contents2 "`n", logFile2, "UTF-8"
+
+		; 20260925
+        FileAppend  "  - "  contents2 "`n", logFile2, "UTF-8"
+        ;FileAppend  "  "  contents2 "`n", logFile2, "UTF-8"
+        ;FileAppend contents2 "`n", logFile2, "UTF-8"
     }
 
     ; Note: 'Return' is not strictly needed at the end of a void function in v2,
