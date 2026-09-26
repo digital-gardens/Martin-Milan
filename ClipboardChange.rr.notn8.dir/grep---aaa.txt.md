@@ -83,4 +83,19 @@
   - ## - This Wikipedia entry provides a comprehensive overview of the **concept map**, a visual tool designed to illustrate **interconnected relationships** between various ideas through nodes and descriptive links. Rooted in **constructivist learning theory** and pioneered by Joseph D. Novak, the text expl
 - # let's consider the following sentence
   - - # let's consider the following sentence
-  - - # let's consider the following sentence
+- ## top level classes and subclasses of dbo: 
+- ## rdfs Resource
+- ## owl:Thing
+- ## owl:Class
+- ## owl:NamedIndividual
+- ## owl:DatatypeProperty
+- ## owl:ObjectProperty
+- ## owl:AnnotationProperty
+- ## owl:Ontology
+- ## owl:Restriction 
+  - - ## top level classes and subclasses of dbo: 
+  - - #.begin 
+  - - #.begin 
+  - - #.begin 
+  - - ## top level classes and subclasses of dbo
+- #  VERSION2 #aa reload 0710 ----------------  

@@ -510,7 +510,7 @@
 
 				{
 					"overviewRulerColor": "#0D50FF",
-					"backgroundColor": "#0b0"  // "#bb0" // "#880" // "#550",   // "#0070ff",          // - #  reacts
+					"backgroundColor": "#0b0",  // "#bb0", // "#880", // "#550",   // "#0070ff",          // - #  reacts  comma
 					"color": "#1f1f1f",
 					//"fontWeight": "bold"
 				},
@@ -527,10 +527,10 @@
 
 
 
-		// ...MY         .blue ... .test a.. .. fdddddadd
+		// ...MY         .blue ... .test a.. .. fdddddadd    ..rdf:type
 		// prb dark aa          ..aaaaaaaaaa
 
-		"(^|\\s)([.,]+[a-z]+)(.{0,2})"
+		"(^|\\s)([.,]+[a-z]+)(.{0,6})"
 		:
 		{
 			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
@@ -548,8 +548,8 @@
 					//"fontWeight": "bold"
 				},
 				{
-					//"backgroundColor": "#0055ff",
-					//"color": "#1f1f1f"
+					"backgroundColor": "#00d5ff",
+					"color": "#1f1f1f"
 				},
 			]
 		},
