@@ -495,11 +495,42 @@
 
 
 
+		//  20260926    -  #   dash hash  -             .blue ... .test a.. .. fdddddadd
+//regex #bug?? caret  ^    debug qq [/] *
+		"\\s*([-][- ]*)([#]+[ a-z]*)(.{0,5})"          // - # reacts
+		:
+		{
+			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
+			"decorations": [
+
+				{
+					"backgroundColor": "#4DE0FF",
+					"color": "#1f1f1f"
+				},
+
+				{
+					"overviewRulerColor": "#0D50FF",
+					"backgroundColor": "#0b0"  // "#bb0" // "#880" // "#550",   // "#0070ff",          // - #  reacts
+					"color": "#1f1f1f",
+					//"fontWeight": "bold"
+				},
+				{
+					"backgroundColor": "#0ff",
+					"color": "#1f1f1f"
+				},
+			]
+		},
+		// ...MY  - # begin-         .blue ... .test a.. .. fdddddadd
+
+
+
+
+
 
 		// ...MY         .blue ... .test a.. .. fdddddadd
 		// prb dark aa          ..aaaaaaaaaa
 
-		"(^|\\s)([.,]+[a-z]+)(.{0,1})"
+		"(^|\\s)([.,]+[a-z]+)(.{0,2})"
 		:
 		{
 			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",
@@ -517,7 +548,7 @@
 					//"fontWeight": "bold"
 				},
 				{
-					//"backgroundColor": "blue",
+					//"backgroundColor": "#0055ff",
 					//"color": "#1f1f1f"
 				},
 			]

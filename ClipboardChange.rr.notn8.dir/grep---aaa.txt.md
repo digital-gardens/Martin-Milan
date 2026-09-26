@@ -80,3 +80,7 @@
   - ## -  zapnout VoLTE a Volání přes Wi-Fi (Wi-Fi Calling / VoWiFi)  // Vodafone, Samsung Galaxy A50, Android 11
   - ## - jen pro úplnost.. právě jsem zapnul  VoLTE a Volání přes Wi-Fi (Wi-Fi Calling / VoWiFi)  // Vodafone, Samsung Galaxy A50, Android 11
   - ## -  pro úplnost.. https://www.vodafone.cz/muj/sluzby Wi-Fi volání a VoLTE už bylo aktivní ..ok....dnes jsme obojí zapnuli i na mobilu. ....
+  - ## - This Wikipedia entry provides a comprehensive overview of the **concept map**, a visual tool designed to illustrate **interconnected relationships** between various ideas through nodes and descriptive links. Rooted in **constructivist learning theory** and pioneered by Joseph D. Novak, the text expl
+- # let's consider the following sentence
+  - - # let's consider the following sentence
+  - - # let's consider the following sentence
