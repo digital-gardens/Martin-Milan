@@ -8,6 +8,13 @@ description:
 tags:
   - "clippings"
 ---
+
+#bug a line lost in conversion from html to markdown, but it is in the original HTML version of the spec. 
+
+- ## see *.ttl
+// colored as coffeescript in VSCode, but *.ttl is not a coffeescript file, it is a Turtle RDF file.  So I have to use *.ttl as coffeescript to get syntax highlighting in VSCode.  This is a hack, but it works.
+
+
 [![W3C](https://www.w3.org/Icons/w3c_home)](https://www.w3.org/)
 
 Please check the [**errata**](https://www.w3.org/2014/rdf1.1-errata) for any errors or issues reported since publication.

@@ -114,7 +114,8 @@
 		"*.ahk": "ini",
 		"*.mac": "javascript",
 		"*.formulas": "vb",
-		"*.txt": "plaintext"
+		"*.txt": "plaintext",
+		"*.ttl": "clojure"
 	},
 
 
@@ -151,7 +152,7 @@
             "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
         }
     },
-    "javascript.suggest.completeFunctionCalls": true,
+    "js/ts.suggest.completeFunctionCalls": true,
     "python.autoComplete.addBrackets": true,
     "powershell.promptToUpdatePowerShell": false,
     "files.exclude": {
@@ -469,7 +470,7 @@
     	},
 
 	],
-	"chat.agent.thinkingStyle": "expanded",
+	"chat.agent.thinkingStyle": "collapsedPreview",
 	"workbench.secondarySideBar.defaultVisibility": "hidden",
 	"jupyter.logKernelOutputSeparately": true,
 	"editor.renderWhitespace": "all",
