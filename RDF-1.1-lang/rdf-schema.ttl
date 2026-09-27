@@ -11,10 +11,10 @@ rdfs:Resource a rdfs:Class ;
 	rdfs:label "Resource" ;
 	rdfs:comment "The class resource, everything." .
 
-rdfs:Class a rdfs:Class ;
+- ## rdfs:Class a rdfs:Class ;
 	rdfs:isDefinedBy <http://www.w3.org/2000/01/rdf-schema#> ;
 	rdfs:label "Class" ;
-	rdfs:comment "The class of classes." ;
+- ## 	rdfs:comment "The class of classes." ;
 	rdfs:subClassOf rdfs:Resource .
 
 rdfs:subClassOf a rdf:Property ;

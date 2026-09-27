@@ -89,7 +89,7 @@
 - ## owl:Class
 - ## owl:NamedIndividual
 - ## owl:DatatypeProperty
-- ## owl:ObjectProperty
+-   ## owl:ObjectProperty
 - ## owl:AnnotationProperty
 - ## owl:Ontology
 - ## owl:Restriction 
@@ -99,3 +99,4 @@
   - - #.begin 
   - - ## top level classes and subclasses of dbo
 - #  VERSION2 #aa reload 0710 ----------------  
+  - #bug a line lost in conversion from html to markdown, but it is in the original HTML version of the spec. 

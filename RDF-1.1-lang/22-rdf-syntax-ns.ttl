@@ -1,12 +1,16 @@
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
+- ## @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+- ## @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+- ## @prefix owl: <http://www.w3.org/2002/07/owl#> .
+
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
+
 
 <http://www.w3.org/1999/02/22-rdf-syntax-ns#> a owl:Ontology ;
 	dc:title "The RDF Concepts Vocabulary (RDF)" ;
 	dc:date "2019-12-16" ;
 	dc:description "This is the RDF Schema for the RDF vocabulary terms in the RDF Namespace, defined in RDF 1.1 Concepts." .
+
+
 
 rdf:HTML a rdfs:Datatype ;
 	rdfs:subClassOf rdfs:Literal ;
@@ -29,10 +33,12 @@ rdf:PlainLiteral a rdfs:Datatype ;
 	rdfs:label "PlainLiteral" ;
 	rdfs:comment "The class of plain (i.e. untyped) literal values, as used in RIF and OWL 2" .
 
-rdf:type a rdf:Property ;
-	rdfs:isDefinedBy <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ;
+
+
+- ## rdf:type a rdf:Property ;
+- ## 	rdfs:isDefinedBy <http://www.w3.org/1999/02/22-rdf-syntax-ns#> ;
 	rdfs:label "type" ;
-	rdfs:comment "The subject is an instance of a class." ;
+- ## 	rdfs:comment "The subject is an instance of a class." ;
 	rdfs:range rdfs:Class ;
 	rdfs:domain rdfs:Resource .
 

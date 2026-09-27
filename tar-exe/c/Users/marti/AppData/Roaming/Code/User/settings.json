@@ -115,7 +115,7 @@
 		"*.mac": "javascript",
 		"*.formulas": "vb",
 		"*.txt": "plaintext",
-		"*.ttl": "clojure"
+		"*.ttl": "coffeescript"
 	},
 
 
