@@ -1,5 +1,6 @@
 - # #q    autohotkey  reload 
 - #    3.    tasks run;  git commit;  copy 11c3  00   ;  - # vscode ^a delete lines 130- ;  tasks run;  git commit 
+- # linksystem namesystem @  aa        w.lang.comp
 - # 5.  ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
   - ## 6.  ..HODINOVY ,  .fold all .unfold all
 - ## .logs .langs
@@ -100,3 +101,7 @@
   - - ## top level classes and subclasses of dbo
 - #  VERSION2 #aa reload 0710 ----------------  
   - #bug a line lost in conversion from html to markdown, but it is in the original HTML version of the spec. 
+  - - # .log based info system, thought stream ?
+  - - #  linksystem   namesystem @        w.lang.comp
+  - - #  linksystem   namesystem @      yyyy          w.lang.comp
+  - - # linksystem namesystem @  aa        w.lang.comp
