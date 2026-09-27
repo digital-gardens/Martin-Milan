@@ -105,3 +105,4 @@
   - - #  linksystem   namesystem @        w.lang.comp
   - - #  linksystem   namesystem @      yyyy          w.lang.comp
   - - # linksystem namesystem @  aa        w.lang.comp
+  -   - - # linksystem namesystem @  aa        w.lang.comp
