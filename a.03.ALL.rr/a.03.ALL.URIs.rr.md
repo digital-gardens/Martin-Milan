@@ -42,10 +42,22 @@
 
 
 # a.math.Category_theory
+ "file:///C:/Users/marti/OneDrive/Dokumenty/00-MM/a.math.Category_theory"
 
-# a.math.category-theory.4 20260525 see w.cat
-https://en.wikipedia.org/wiki/Category:Category_theory
 
+
+  - https://en.wikipedia.org/wiki/Category:Category_theory C:\Users\marti\OneDrive\Dokumenty\00-MM\a.math.Category_theory\CategoryCategories in category theory.md
+  - 
+  - 
+  - 
+  - https://ncatlab.org/nlab/all_pages/category 
+  - 
+  - 
+  - 
+  - 
+
+
+.4 20260525 see w.cat
 
 
 
