@@ -43,8 +43,10 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\a.03.ALL.rr\a.03.ALL.URIs.rrr.md
 # a.comp.lang.rdf.OWL-DL see w
 
 
+
 # a.health.48
 - # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+
 
 
 
@@ -53,9 +55,32 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\a.03.ALL.rr\a.03.ALL.URIs.rrr.md
 # a.lang.comp 4 a.comp.lang
 
 
-# a.lang.comp.log
-C:\Users\marti\OneDrive\Dokumenty\00-MM\a.lang.comp.log\stepwise formalization of a sentence 20260922 ... Categorifying-an-RDFS-Fragment---Google-Gemini.md
 
+# a.lang.comp.log
+
+
+- ## C:\Users\marti\OneDrive\Dokumenty\00-MM\a.lang.comp.log\stepwise formalization of a sentence 20260922 ... Categorifying-an-RDFS-Fragment---Google-Gemini.md
+
+- ## https://notebook.google.com/notebook/4452cd9e-9ec6-417f-b6a6-91ddb2a5f6f8
+
+- ## attempto.ifi.uzh.ch/site/pubs/papers/phd_kaljurand.pdf
+
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\a.lang.comp.log\phd contents 20260922.md"
+
+extension://blillmbchncajnhkjfdnincfndboieik/src/pdf-viewer/index.html?file=https%3A%2F%2Fattempto.ifi.uzh.ch%2Fsite%2Fpubs%2Fpapers%2Fphd_kaljurand.pdf
+
+Chapter 4
+Related work
+4.1 Introduction
+In this chapter, we discuss the existing work in the area of using (controlled) natural
+language as front-end for OWL and other related languages. In section 4.2, we bring an
+overview of related work, and in section 4.3, we look in detail into the work that is more
+relevant to ours, i.e. approaches that use a controlled English, and target OWL (or a simi-
+lar language). Those approaches either propose authoring OWL ontologies in controlled
+English (we refer to it as CNL→OWL), or describe verbalization of OWL ontologies in
+controlled English (we refer to it as OWL→CNL). Only very few approaches propose
+a bidirectional interface to OWL, where the same controlled English is used for both
+authoring and verbalization
 
 
 # a.lang.comp.type-theory see w
@@ -84,11 +109,18 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\a.lang.comp.log\stepwise formalization o
   - 
 
 
-.4 20260525 see w.cat
+cat .4 see also 20260525 
+
 
 
 # a.music 
 
+
+- ## #todo songs in 20260925 C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20260925-2.clipboard_log.rr.n8.txt.md
+
+
+
+  - ###### -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
 
   - ## ###    w w      ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
 
@@ -116,17 +148,6 @@ c:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\PAUSE-ONEDRIVE--Ro
 
 
 # TC------totalcmd.repeatSpace.rr
-
-
-# w.category-theory
-
-
-
-# w.OWL-DL
-
-
-# w.type-theory
-
 
 
 
