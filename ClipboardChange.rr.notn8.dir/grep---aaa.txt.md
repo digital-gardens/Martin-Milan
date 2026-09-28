@@ -1,4 +1,3 @@
-- # #bug BOM is  why is this line not grepped
 - # #q    autohotkey  reload 
 - #    3.    tasks run;  git commit;  copy 11c3  00   ;  - # vscode ^a delete lines 130- ;  tasks run;  git commit 
 - # linksystem namesystem @  aa        a.lang.comp
@@ -109,3 +108,4 @@
   -   - - # linksystem namesystem @  aa        w.lang.comp
   - - # linksystem namesystem @  aa        a.lang.comp
   - - # linksystem namesystem @  aa        a.lang.comp
+- ## mk 1 md file   - a.03.ALL.rr\
