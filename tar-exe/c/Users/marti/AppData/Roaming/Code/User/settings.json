@@ -528,10 +528,11 @@
 
 
 
-		// ...MY         .blue ... .test a.. .. fdddddadd    ..rdf:type
+		// ...MY         .blue ... .test a.. .. fdddddadd    ..rdf:type   a.lang.comp
 		// prb dark aa          ..aaaaaaaaaa
+		// debug {0,1}  {0}
 
-		"(^|\\s)([.,]+[a-z]+)(.{0,6})"
+		"(^|\\s)([qwerasdf]{0,1}[.,]+[a-z]+)(.{0,6})"
 		:
 		{
 			////"filterFileRegex": ".*(?<!CHANGELOG.md)$",

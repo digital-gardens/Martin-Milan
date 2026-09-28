@@ -1,6 +1,7 @@
+- # #bug BOM is  why is this line not grepped
 - # #q    autohotkey  reload 
 - #    3.    tasks run;  git commit;  copy 11c3  00   ;  - # vscode ^a delete lines 130- ;  tasks run;  git commit 
-- # linksystem namesystem @  aa        w.lang.comp
+- # linksystem namesystem @  aa        a.lang.comp
 - # 5.  ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
   - ## 6.  ..HODINOVY ,  .fold all .unfold all
 - ## .logs .langs
@@ -106,3 +107,5 @@
   - - #  linksystem   namesystem @      yyyy          w.lang.comp
   - - # linksystem namesystem @  aa        w.lang.comp
   -   - - # linksystem namesystem @  aa        w.lang.comp
+  - - # linksystem namesystem @  aa        a.lang.comp
+  - - # linksystem namesystem @  aa        a.lang.comp
