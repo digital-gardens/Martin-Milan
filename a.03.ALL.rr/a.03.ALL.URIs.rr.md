@@ -42,7 +42,7 @@
 
 
 # a.math.Category_theory
- "file:///C:/Users/marti/OneDrive/Dokumenty/00-MM/a.math.Category_theory"
+ code "C:\Users\marti\OneDrive\Dokumenty\00-MM\a.math.Category_theory"
 
 
 
@@ -50,7 +50,7 @@
   - 
   - 
   - 
-  - https://ncatlab.org/nlab/all_pages/category 
+  - https://ncatlab.org/nlab/all_pages/category C:\Users\marti\OneDrive\Dokumenty\00-MM\a.math.Category_theory\Category — category in nLab.md
   - 
   - 
   - 

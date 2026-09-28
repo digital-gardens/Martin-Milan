@@ -109,3 +109,6 @@
   - - # linksystem namesystem @  aa        a.lang.comp
   - - # linksystem namesystem @  aa        a.lang.comp
 - ## mk 1 md file   - a.03.ALL.rr\
+  - # 
+  - # a.math.category-theory.4 20260525 see w.cat
+  - # a.math.Category_theory
