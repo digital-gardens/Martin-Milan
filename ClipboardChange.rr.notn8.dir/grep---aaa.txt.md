@@ -112,3 +112,16 @@
   - # 
   - # a.math.category-theory.4 20260525 see w.cat
   - # a.math.Category_theory
+  - - # linksystem namesystem @  aa        a.lang.comp
+  - - # 5.  ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
+  -   - ## 6.  ..HODINOVY ,  .fold all .unfold all
+  - - # ..dopamine 
+  - - # #hashtags  ....dotwords .dotphrases 
+  - - # 12.  .mydfs .arrows .morphisms
+- # linksystem namesystem @  aa        a.lang.comp
+- # 5.  ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
+  - ## 6.  ..HODINOVY ,  .fold all .unfold all
+- ## .logs .langs
+- # ..dopamine 
+- # #hashtags  ....dotwords .dotphrases 
+- # 12.  .mydfs .arrows .morphisms
