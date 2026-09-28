@@ -23,15 +23,31 @@
 
 
 # a.03.ALL.rr
+
+
 # a.comp.lang 4 a.lang.comp
 # a.comp.lang.rdf.OWL-DL see w
 # a.health.48
 # a.lang 4 Blissymbolics,conlangs-00
 # a.lang.Blissymbolics.4 see r.visual_conlangs
 # a.lang.comp 4 a.comp.lang
+
+
 # a.lang.comp.log.rr
+
+
 # a.lang.comp.type-theory see w
+
+
+
+
+# a.math.Category_theory
+
 # a.math.category-theory.4 20260525 see w.cat
+https://en.wikipedia.org/wiki/Category:Category_theory
+
+
+
 
 
 # r.visual_conlangs
@@ -41,8 +57,17 @@
 
 
 # w.category-theory
+
+
+
 # w.OWL-DL
+
+
 # w.type-theory
+
+
+
+
 
 # // tc copy names with path to clip
 
