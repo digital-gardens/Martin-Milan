@@ -115,7 +115,9 @@ rem rem explorer "C:\Users\marti\OneDrive\Dokumenty\011-POMOC"
 rem rem rem mkdir %OneDrive%\Dokumenty\011-POMOC.publ.dir
 
 
+rem file:///C:\Users\marti\OneDrive\ps-mylen-mar\start-robocopy.cmd
 
-rem echo on
+ echo on
 rem pause
+timeout.exe 15
 
