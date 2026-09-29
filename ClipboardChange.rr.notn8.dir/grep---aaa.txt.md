@@ -41,6 +41,7 @@
   - - ## .partial category of Aristotelian terms and 4 types of Aristotelian propositions?
   - - # title: "Řidiči .LIFTAGO, UBER & BOLT (NE: pravidla, vulgarity a brblající taxikáři) | Ahoj, mam otazecku jak resite .cekani na klienta"
   - - ## #bug InlineTextBox "toto stane? Upozorňuji, že od prvního .BAN nemám jedinou nepřijmutou zakázku."
+- ## #todo songs in 20260925 C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20260925-2.clipboard_log.rr.n8.txt.md
 - # 20260925 cut here ---------
   -   - - #  VERSION2 #aa reload  ----------------  
   - # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří #mmmmmap
@@ -52,6 +53,7 @@
 - # gemini notebook 
   - - # stepwise formalization of a sentence 20260922
   -   - - # stepwise formalization of a sentence 20260922
+  - ## - Kaarel Kaljurand’s 2007 doctoral dissertation explores **Attempto Controlled English (ACE)** as a user-friendly bridge for the **Semantic Web**. While formal languages like **OWL** and **SWRL** are mathematically precise, their steep learning curve and complex syntax often alienate domain experts wh
 - ## how to set cutom instructions against 'wall of text' in Gemini Notebook?
 - # Gemini Notebook.. 20260922
 - ## what are gemini-apps
@@ -78,6 +80,8 @@
   - ## - Discourse Representation Structures (DRS) — a syntactic variant of first-order logic
 - # moved from 924  
 - ## ACE content words are nouns, proper names, and verbs. Content words can be sim-ple (‘code’), or compound with hyphen (‘zip-code’)
+  - ## - Chapter 3
+- ## Similarly, the ACE sentence “Every dog hates a cat.” which has the DRS-
   - ## -  zapnout VoLTE a Volání přes Wi-Fi (Wi-Fi Calling / VoWiFi)  // Vodafone, Samsung Galaxy A50, Android 11
   - ## - jen pro úplnost.. právě jsem zapnul  VoLTE a Volání přes Wi-Fi (Wi-Fi Calling / VoWiFi)  // Vodafone, Samsung Galaxy A50, Android 11
   - ## -  pro úplnost.. https://www.vodafone.cz/muj/sluzby Wi-Fi volání a VoLTE už bylo aktivní ..ok....dnes jsme obojí zapnuli i na mobilu. ....
@@ -125,3 +129,9 @@
 - # ..dopamine 
 - # #hashtags  ....dotwords .dotphrases 
 - # 12.  .mydfs .arrows .morphisms
+  -   - ## ###    w w      ℹ️ #aaaaa *G*, ve 3/4 rytmu: 155 bpm 1. Máš, má .ovečko, dávno spát, už píseň ptáků končí Kvůli nám přestal vítr vát, jen můra ...
+- # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+  - - # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
+  -   - ###### -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
+  - - ## #todo songs in 20260925 C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20260925-2.clipboard_log.rr.n8.txt.md
+- #  VERSION2 #aa reload 0710 ----------------  
