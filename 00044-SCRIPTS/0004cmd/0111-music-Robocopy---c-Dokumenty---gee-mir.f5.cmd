@@ -4,8 +4,10 @@ rem single lines can be tested with f8
 rem to test the whole file, open a new terminal with a cmd
 rem *Robocopy---c-Dokumenty---d-mir.f5.cmd
 
+rem debug file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\f8.011-02-HODINOVY.f8.cmd
+rem debug file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\f8.0111-music-Robocopy---c-Dokumenty---gee-mir.f8.cmd
 
-rem 
+rem
 
 rem G:\0004-LINKS\test-Martin-Milan
 rem G:\0004-LINKS\Martin-Milan
