@@ -1,10 +1,12 @@
 #ls
 #sleep 5
 
+# - ## #todo   #test   .rr    Dokumenty 0111 w w @ - #  
 
 # will be scheduled to run in the foreground, so that the output can be seen in the terminal window
 
 #yy
+echo 'C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh'
 echo cd  "C:\Users\marti\OneDrive\Dokumenty"
 cd  "C:\Users\marti\OneDrive\Dokumenty"
 #echo echo -- grep --version
@@ -22,6 +24,8 @@ grep         -R -E   -i       --no-filename   '^ *[-+*#]+ .{0,10}[-+*#]+'       
 
 # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\0004   0111 weigh high    20260813.md
 
+
+# ? is it correct [-+*#a]
 grep         -R -E   -i       '^ *[-+*#]+ .{0,10}[#][-+*#a]* '        "0111--~1"   | sed -E 's/^/- /'   >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep--hhaa---filename.txt.md"
 
 #grep         -R -E   -i       '^ *[-+*#]+ .{0,10}[-+*#]+'        "0111--~1"     | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'  >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep--hhaa---filename.txt.md"
@@ -30,8 +34,9 @@ grep         -R -E   -i       '^ *[-+*#]+ .{0,10}[#][-+*#a]* '        "0111--~1"
 
 
 
-
+echo end
 #sleep 5
-echo read x
+
+#echo read x
 #read x
 

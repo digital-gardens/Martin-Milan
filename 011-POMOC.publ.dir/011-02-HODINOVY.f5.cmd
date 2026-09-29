@@ -2,6 +2,11 @@
 @echo off
 
 
+rem # - ## #todo   #test   .rr   ....  w w @ - #
+rem #q        task scheduler
+rem outputs in github desktop
+
+
 rem #debug file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\f8.011-02-HODINOVY.f8.cmd
 rem  .f5    .cmd
 
@@ -31,6 +36,8 @@ rem #debug..  in win q scheduled tasks  aaaa aaaa yyyy              .f5 to refre
 
 
 
+call code C:\Users\marti\OneDrive\Dokumenty\0111--~1
+rem timeout.exe 15
 
 
 
@@ -46,9 +53,8 @@ rem echo returned
 
 
 
-
-
 rem call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md
+
 
 
 
@@ -60,8 +66,8 @@ rem call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipb
 
 
 
-rem #todo
-rem "C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh"
+rem #todo  test
+ "C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh"
 rem "C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"  #nn renamed
 rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh
 rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\

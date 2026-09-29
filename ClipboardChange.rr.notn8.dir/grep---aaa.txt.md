@@ -135,3 +135,6 @@
   -   - ###### -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
   - - ## #todo songs in 20260925 C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20260925-2.clipboard_log.rr.n8.txt.md
 - #  VERSION2 #aa reload 0710 ----------------  
+  - # - ## #todo   #test   .rr    Dokumenty 0111 w w @ - #  
+  - # - ## #todo   #test   .rr   clipb  w w @ - #
+  - # - ## #todo   #test   .rr   clipb  w w @ - #

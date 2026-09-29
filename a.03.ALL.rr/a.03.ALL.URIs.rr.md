@@ -59,6 +59,9 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\a.03.ALL.rr\a.03.ALL.URIs.rrr.md
 # a.lang.comp.log
 
 
+https://en.wikipedia.org/wiki/Category:Augmentative_and_alternative_communication
+
+
 - ## C:\Users\marti\OneDrive\Dokumenty\00-MM\a.lang.comp.log\stepwise formalization of a sentence 20260922 ... Categorifying-an-RDFS-Fragment---Google-Gemini.md
 
 - ## https://notebook.google.com/notebook/4452cd9e-9ec6-417f-b6a6-91ddb2a5f6f8

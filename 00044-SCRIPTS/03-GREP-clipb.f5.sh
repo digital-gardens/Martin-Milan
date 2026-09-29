@@ -1,4 +1,9 @@
+
+
+# - ## #todo   #test   .rr   clipb  w w @ - #
+
 #ls
+echo 'C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh'
 echo backgnd sh  task without output is very slow?
 echo echo no help
 echo keep fg?
