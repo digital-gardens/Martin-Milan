@@ -89,6 +89,17 @@ rem old  "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "C:\
 
 
 
+rem #todo robocopy 0111--songs--music--lyrics to g:\0004-LINKS\0111--songs--music--lyrics
+rem read the cmd file 00044-SCRIPTS/0004cmd/0111-music-Robocopy---c-Dokumenty---gee-mir.f5.cmd
+rem call
+rem test in git gui
+call C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\0111-music-Robocopy---c-Dokumenty---gee-mir.f5.cmd
+
+
+
+
+
+
 rem 20260919 was already commented out
 rem "C:\Progra~1\Microsoft\Edge\Application\msedge.exe"
 rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
