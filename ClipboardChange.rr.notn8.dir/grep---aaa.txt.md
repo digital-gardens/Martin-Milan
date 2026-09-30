@@ -134,7 +134,20 @@
   - - # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
   -   - ###### -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
   - - ## #todo songs in 20260925 C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20260925-2.clipboard_log.rr.n8.txt.md
+- #   - Patterson, 2017: Knowledge representation in bicategories of relations (arxiv)
+  - # - Fong & Spivak, 2019: Graphical regular logic (arxiv, nCat Cafe )
+  - ## - We would read the right cell as “There exists a person 
+  - # - neural logic with logarithmic addition as tropical semiring ???????????
+  - ## - ReLU Networks as Tropical Rational Functions: Feedforward neural networks with Rectified Linear Unit (ReLU) activations perform piecewise-linear operations equivalent to tropical rational maps and max-polynomials.
+  - ## - max min fuzzy logic wiki
 - #  VERSION2 #aa reload 0710 ----------------  
+- # psycho #bug hour of fear // not necessary 
   - # - ## #todo   #test   .rr    Dokumenty 0111 w w @ - #  
   - # - ## #todo   #test   .rr   clipb  w w @ - #
   - # - ## #todo   #test   .rr   clipb  w w @ - #
+  -   -   - ###### -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
+  -   - - ## #todo songs in 20260925 C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20260925-2.clipboard_log.rr.n8.txt.md
+  - - # psycho #bug hour of fear // not necessary 
+  - ## - Pavelka logic (often called Rational Pavelka Logic or RPL) is a mathematical fuzzy logic that extends the infinitely-valued Łukasiewicz logic by adding explicit truth constants for rational numbers.
+  - ## - Samsung Galaxy S25 FE SM-
+- #  VERSION2 #aa reload 0710 ----------------  

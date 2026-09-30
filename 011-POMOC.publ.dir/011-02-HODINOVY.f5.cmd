@@ -36,12 +36,12 @@ rem #debug..  in win q scheduled tasks  aaaa aaaa yyyy              .f5 to refre
 
 
 
+call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
+
+
+
 call code C:\Users\marti\OneDrive\Dokumenty\0111--~1
 rem timeout.exe 15
-
-
-
-call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
 
 rem 20260919
 rem bug fixed call code.cmd
