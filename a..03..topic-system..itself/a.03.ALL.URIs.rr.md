@@ -1,7 +1,19 @@
 
+# a..03..topic-system
+# a..categories-of-our-own
+# a..wiki-of-our-own
+ # a..linksystem-in-comp   a..namesystem @  aa        
+
+
 C:\Users\marti\OneDrive\Dokumenty\00-MM\a.03.ALL.rr\a.03.ALL.URIs.rrr.md
 
-- # linksystem namesystem @  aa        a.lang.comp
+
+
+a..li
+a.li
+
+
+
 - # 5.  ..rr ....repeatSpace .mk .new .space .dir and maybe  .edge
   - ## 6.  ..HODINOVY ,  .fold all .unfold all
 - ## .logs .langs
@@ -9,10 +21,11 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\a.03.ALL.rr\a.03.ALL.URIs.rrr.md
 - # ..dopamine 
 
 - # #hashtags  ....dotwords .dotphrases 
-- # 12.  .mydfs .arrows .morphisms
+- # 12.  .our-dfs .arrows .morphisms
 
 
-# at the end of this, there are util notes
+
+# aaa at the end of this, there are util notes
 
 
 # 4 00 nos 011++ rr  hand+ns------++ screen apnea or email apnea
@@ -20,7 +33,7 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\a.03.ALL.rr\a.03.ALL.URIs.rrr.md
 # 4 01 github..ankitects..anki.rr
 # 4 02 .dopamine .rr
 # 4 02 03 hashtags  ....dotwords .dotphrases .langs .formal.systems .rr
-# 4 03 .mydfs .arrows .morphisms .langs .formal.systems .rr
+# 4 03 .our-dfs .arrows .morphisms .langs .formal.systems .rr
 # 4 COLORS desktop ini
 # 4 comp.lang 4 langs hobby compsci lang.comp.log.rr
 # 4 lang  lean-21b
@@ -44,6 +57,13 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\a.03.ALL.rr\a.03.ALL.URIs.rrr.md
 
 
 
+
+- ## #todo reform  for the phrases to be google-searchable .. are they?
+a..lang-in-comp
+a..repeatSpace-of-our-own
+
+
+# 48-kg-in-health
 # a.health.48
 - # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
 
@@ -56,6 +76,7 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\a.03.ALL.rr\a.03.ALL.URIs.rrr.md
 
 
 
+# phrase-modeling-in-logic 
 # a.lang.comp.log
 
 
@@ -116,7 +137,7 @@ cat .4 see also 20260525
 
 
 
-# a.music 
+# a..cz-music 
 
 
 - ## #todo songs in 20260925 C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20260925-2.clipboard_log.rr.n8.txt.md

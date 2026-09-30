@@ -151,3 +151,6 @@
   - ## - Pavelka logic (often called Rational Pavelka Logic or RPL) is a mathematical fuzzy logic that extends the infinitely-valued Łukasiewicz logic by adding explicit truth constants for rational numbers.
   - ## - Samsung Galaxy S25 FE SM-
 - #  VERSION2 #aa reload 0710 ----------------  
+  - #todo reform  for the phrases to be google-searchable .. are they?
+  -  # a..linksystem-in-comp   a..namesystem @  aa        
+  - # a..categories-of-my-own  
