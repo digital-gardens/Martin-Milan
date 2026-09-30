@@ -49,35 +49,37 @@ a.li
 # 4 rr memory
 
 
-# a.03.ALL.rr
 
 
-# a.comp.lang 4 a.lang.comp
-# a.comp.lang.rdf.OWL-DL see w
+# 4 a.comp.lang 4 a.lang.comp
+# 4 a.comp.lang.rdf.OWL-DL see w
 
 
 
 
-- ## #todo reform  for the phrases to be google-searchable .. are they?
+
+- # #todo reform  for the phrases to be google-searchable .. are they?
 a..lang-in-comp
 a..repeatSpace-of-our-own
 
 
+
+
 # 48-kg-in-health
-# a.health.48
+ a.health.48
 - # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to .....nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap
 
 
 
 
-# a.lang 4 Blissymbolics,conlangs-00
-# a.lang.Blissymbolics.4 see r.visual_conlangs
-# a.lang.comp 4 a.comp.lang
+# 4 a.lang 4 Blissymbolics,conlangs-00
+# 4 a.lang.Blissymbolics.4 see r.visual_conlangs
+# 4 a.lang.comp 4 a.comp.lang
 
 
 
-# phrase-modeling-in-logic 
-# a.lang.comp.log
+# a..phrase-modeling-in-logic 
+ a.lang.comp.log
 
 
 https://en.wikipedia.org/wiki/Category:Augmentative_and_alternative_communication
@@ -107,12 +109,12 @@ a bidirectional interface to OWL, where the same controlled English is used for 
 authoring and verbalization
 
 
-# a.lang.comp.type-theory see w
+# 4 a.lang.comp.type-theory see w
 
 
 
 
-# a.math.Category_theory
+# a..categories-in-math   a.math.Category_theory
  code "C:\Users\marti\OneDrive\Dokumenty\00-MM\a.math.Category_theory"
 
 
