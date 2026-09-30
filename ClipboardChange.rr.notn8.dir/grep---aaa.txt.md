@@ -154,3 +154,13 @@
   - #todo reform  for the phrases to be google-searchable .. are they?
   -  # a..linksystem-in-comp   a..namesystem @  aa        
   - # a..categories-of-my-own  
+  - # phrase-modeling-in-logic 
+  - # a.03.ALL.rr
+  - - # #todo reform  for the phrases to be google-searchable .. are they?
+  - # phrase-modeling-in-logic 
+  - # a..categories-in-math   a.math.Category_theory
+  - # a..categories-in-math   a.math.Category_theory
+  - ## a..categories-in-math   
+  - ## - # a..categories-in-math   
+  - # 48-kg-in-health
+  - ## - C:\Users\marti\OneDrive\Dokumenty\00-MM\a..categories-in-math
