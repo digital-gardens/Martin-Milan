@@ -135,9 +135,9 @@
   -   - ###### -  #aaa Capo I., *G*, 80 bpm 1. .Až si zejtra ráno řeknu zase Jednou provždy dost Právem se mi budeš tiše smát Jak omluvit si ...
   - - ## #todo songs in 20260925 C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20260925-2.clipboard_log.rr.n8.txt.md
 - #   - Patterson, 2017: Knowledge representation in bicategories of relations (arxiv)
-  - # - Fong & Spivak, 2019: Graphical regular logic (arxiv, nCat Cafe )
+  - # - Fong & Spivak, 2019: Graphical regular logic (arxiv, nCat Cafe ) 20260928
   - ## - We would read the right cell as “There exists a person 
-  - # - neural logic with logarithmic addition as tropical semiring ???????????
+  - # - neural logic with logarithmic addition as tropical semiring ??????????? 20260928
   - ## - ReLU Networks as Tropical Rational Functions: Feedforward neural networks with Rectified Linear Unit (ReLU) activations perform piecewise-linear operations equivalent to tropical rational maps and max-polynomials.
   - ## - max min fuzzy logic wiki
 - #  VERSION2 #aa reload 0710 ----------------  
@@ -164,3 +164,6 @@
   - ## - # a..categories-in-math   
   - # 48-kg-in-health
   - ## - C:\Users\marti\OneDrive\Dokumenty\00-MM\a..categories-in-math
+  - # #bug ~~ not-font @  probably copied a monospace unicode trick .. Ancestor  - 𝙰𝚗𝚌𝚎𝚜𝚝𝚘𝚛 - 𝚂𝚒𝚜𝚝𝚎𝚛 Sister
+- ##   - timeline of many-valued logics 20260928
+  -   - - # stepwise formalization of a sentence 20260922

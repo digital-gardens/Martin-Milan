@@ -13948,3 +13948,4 @@ copy   C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_lo
 bash
 code C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.f5.cmd
 dir d:\
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"   # yyyy  run the app ... it asks to reload this ahk file

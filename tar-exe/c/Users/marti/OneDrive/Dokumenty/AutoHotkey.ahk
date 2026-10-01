@@ -192,18 +192,15 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 ;:X*:saa::Send("{Home}{Space}{Left}- ℹ️ {#}aaa")
 ;very old   :X*:ww::Send("{Home}{Space}{Left}- ℹ️ {#}aa")
 
-;20260814
-:X*:ww::Send("{Home}- {# 2} {Left 1}")
-;   :X*:ww::Send("{Home}- {# 6} {Left 1}")
+;20260814  test  elsewhere ... ahk reload script
+;:X*:ww::Send(  "{Home}- {# 2} {Left 1}")
+:X*:ww::Send("{Home}- {# 6} {Left 1}")
 ;202606
 ;:X*:ww::Send("{Home}{# 6} {#}aaa{Space}{Left 6}")
-
-
 
 ;;;;;:X*:hhh::Send("`#aaa")
 ;;:X*:hhh::Send("{#}")
 :X*:hh::Send("{#}")
-
 ;==============================  ==============================
 ; aaa  do  f8 .. it  works ....yyyy
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"   # yyyy  run the app ... it asks to reload this ahk file
