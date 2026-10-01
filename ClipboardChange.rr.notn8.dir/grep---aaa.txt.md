@@ -67,8 +67,9 @@
   - #todo edit "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "%OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html" 011-POMOC 02-HODINOVY
   - - ## [![Gemini Notebook Logo](https://www.gstatic.com/tailwind/_/static/branding/v6/dark_mode/icon.svg)](/)
 - ## [![Gemini Notebook Logo](https://www.gstatic.com/tailwind/_/static/branding/v6/dark_mode/icon.svg)](/)
-- ## # tuneConfigure Chat
+- # # tuneConfigure Chat
 - ## # help Gemini Notebook help
+ - ###### ## Contents
 - ## #bug no spaces    pdf edge-without-glsp 1.1 .SemanticWeblanguages .    . . . . . . . . . . . . . . . . . . . . . . . . 10
 - ## edge-with-glasp ok
 - # adobe 925
@@ -80,6 +81,7 @@
   - ## - Discourse Representation Structures (DRS) — a syntactic variant of first-order logic
 - # moved from 924  
 - ## ACE content words are nouns, proper names, and verbs. Content words can be sim-ple (‘code’), or compound with hyphen (‘zip-code’)
+- #quirk .quirk   .q   dash     space eol SOMETIMES makes a extra H2 heading , and there are also some extra h1 headings   .q
   - ## - Chapter 3
 - ## Similarly, the ACE sentence “Every dog hates a cat.” which has the DRS-
   - ## -  zapnout VoLTE a Volání přes Wi-Fi (Wi-Fi Calling / VoWiFi)  // Vodafone, Samsung Galaxy A50, Android 11
@@ -167,3 +169,9 @@
   - # #bug ~~ not-font @  probably copied a monospace unicode trick .. Ancestor  - 𝙰𝚗𝚌𝚎𝚜𝚝𝚘𝚛 - 𝚂𝚒𝚜𝚝𝚎𝚛 Sister
 - ##   - timeline of many-valued logics 20260928
   -   - - # stepwise formalization of a sentence 20260922
+- ###### iframe frame
+- #  VERSION2 #aa reload 0710 ----------------  
+  - ###### - tar-exe\c\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
+- # ###### test ..outline .q  .quirks ..wall of text contains a ..dash at the start of a line
+  - # ###### test ..outline .q  .quirks ..wall of text contains a ..dash at the start of a line
+  - - ## krámek pod věží,
