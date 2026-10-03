@@ -1,32 +1,7 @@
-- ###### how to cut the clipboard log into smaller files 
-- ###### then fork once more before highlighting? ^a ^c ^n 
-- ###### then merge back? -  #warn
-- # 20261002
-- ##   - The notion of institution was created by Joseph Goguen and Rod Burstall in the late 1970s, in order to deal with the "population explosion among the logical systems used in computer science". The notion attempts to "formalize the informal" concept of logical system.[1]
-- ######   - -algebra.7 Both Goguen’s papers maintain a non-technical facet with a plethora of practical   examples that make clear the width of the author’s scope, ranging from engineering considerations to semantical analysis; and yet both papers read as cornerstones in the philosophy of vagueness.
-  - ###### - Examples of goguen-institutions Common logic Common Algebraic Specification Language (CASL) First-order logic Higher-order logic Intuitionistic logic Modal logic Propositional logic Temporal -logic Web Ontology Language (OWL)
-- ###### source: "https://jdh.hamkins.org/the-hierarchy-of-logical-expressivity/"
-- ######   - One way of presenting the semantics for LP is to replace the usual functional valuation with a relational one.[13] The binary relation 
-  - ###### - These other logics avoid explosion: implicational propositional calculus, positive propositional calculus, equivalential calculus and minimal logic. The latter, minimal logic, is both paraconsistent and paracomplete (a subsystem of intuitionistic logic). The other three simply do not allow one to ex
-  - ###### - Nuel Belnap (United States, b. 1930) developed logical connectives of a four-valued logic.
-  - ###### - Łukasiewicz logic - Wikipedia
-- ######   - Denoting phrases which do not denote anything, for example "the current Emperor of Kentucky".
-  - ###### - It can be shown that to recognize valid formulas, it is sufficient to consider a single Heyting -algebra whose elements are the open subsets of the real line R.[8] In this algebra we have:
-  - ###### - In 1932, Kurt Gödel defined a system of logics intermediate between classical and intuitionistic logic. Indeed, any finite Heyting algebra that is not equivalent to a Boolean algebra defines (semantically) an intermediate logic. On the other hand, validity of formulae in pure intuitionistic logic is
-  - ###### - There is an extended Curry–Howard correspondence between IPC and simply typed lambda calculus.[16]
-- ###### // firstly, I am trying to understand some sentences from the Wikipedia article
-  - ###### - Another common closure property is substitution.
-- ###### source: "https://en.wikipedia.org/wiki/Intermediate_logic"
-  - ###### - In mathematical logic, a superintuitionistic logic is a propositional logic extending intuitionistic logic. A logic is a set of propositional formulas with certain closure properties. The logics are partially ordered under containment. A logic is stronger than another iff it contains the other.
-  - ###### - Classical logic is the strongest consistent superintuitionistic logic. Thus, the consistent superintuitionistic logics are called intermediate logics, because the logics are intermediate in how many formulas they contain between intuitionistic logic and classical logic.[1]
-  - # - Intermediate logics form a complete lattice, with intuitionistic logic as the bottom and classical logic as the top. It has a unique coatom called SmL. Similarly, superintuitionistic logics form a complete lattice, with intuitionistic logic as the bottom and inconsistent logic as the top. Classical 
-  - ###### - Many intermediate logics are given by adding one or more axioms to intuitionistic logic (usually denoted as intuitionistic propositional calculus IPC, but also Int, IL or H). Examples include:
-  - ###### - = IPC + (p → q) ∨ (q → p) (Dirk Gently’s principle, DGP, or linearity)
-- ###### 23.  - Intermediate logics form a complete lattice, with intuitionistic logic as the bottom and classical logic as the top. 
-- ###### now I hope  for a category
-- ###### > 25. Similarly, superintuitionistic logics form a complete lattice, with intuitionistic logic as the bottom and inconsistent logic as the top. Classical logic is the only coatom.
-- ###### > They absolutely have to be below it, or in a completely different branch.
-- ###### let's construct an entire category
+- # how to cut the clipboard log into smaller files 
+- ###### then fork differently before highlighting ^a ^c ^n 
+- ###### .notn8
+- ###### then link back -  #warn
 - #  VERSION2 #aa reload 0710 ----------------  
 - #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
   -   - - ## krámek pod věží,
@@ -39,3 +14,12 @@
   - - ###### then merge back? -  #warn
   - - ###### then merge back? -  
   - - ###### // firstly, I am trying to understand some sentences from the Wikipedia article
+- ###### > They absolutely have to be below it, or in a completely different branch.
+- ###### let's construct an entire category
+- ###### I hope, that now, with the bicategory of logics
+- ###### how to cut the clipboard log into smaller files 
+- ###### then fork differently before highlighting ^a ^c ^n 
+- ###### .notn8
+- ###### then link back - 
+  - - # how to cut the clipboard log into smaller files 
+  - - ###### how to cut the clipboard log into smaller files 
