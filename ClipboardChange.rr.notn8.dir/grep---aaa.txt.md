@@ -175,3 +175,15 @@
 - # ###### test ..outline .q  .quirks ..wall of text contains a ..dash at the start of a line
   - # ###### test ..outline .q  .quirks ..wall of text contains a ..dash at the start of a line
   - - ## krámek pod věží,
+  - - # ###### test ..outline .q  .quirks ..wall of text contains a ..dash at the start of a line
+  - ###### - [ newbies ]---< cite >---[ oldies ]
+  - ###### - Česká republika Múúú Šunková pěna
+  - ###### - 777606335   - 6040222/0800 (viz námi zaslané oznámení ke změně). Jako variabilní symbol i nadále používejte číslo Vaší pojistné smlouvy. Stávající bankovní účty však ...
+  - ###### - tok: – This list previously included the Toki Pona Wikipedia, which was locked in 2004, officially closed in 2008, and deleted - ###### in 2010 due to the lack of a valid ISO language code. After moving to Wikicities (later Wikia, then Fandom) and thence to https://wikipesija.org, it returned to Wikimedia se
+- ###### run task for grep
+- ###### rename 2 files
+- ######   - The notion of institution was created by Joseph Goguen and Rod Burstall in the late 1970s, in order to deal with the "population explosion among the logical systems used in computer science". The notion attempts to "formalize the informal" concept of logical system.[1]
+  - ###### - Examples of institutions
+- #  VERSION2 #aa reload 0710 ----------------  
+- #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
+  -   - - ## krámek pod věží,
