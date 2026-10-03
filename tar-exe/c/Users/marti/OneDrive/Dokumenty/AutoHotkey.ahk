@@ -116,7 +116,7 @@ OnClipboardChange ClipChanged
 ; Concatenation is just spaces between strings.
 ;FileAppend "- # ..  "    " VERSION2 #aa reload  ----------------  `n", logFile
 
-FileAppend "- #  VERSION2 #aa reload 0710 ----------------  `n", logFile
+FileAppend "- ## autohotkey VERSION2.. #aa reloaded  ----------------  `n", logFile
 
 ; win win  arrows auto menu
 

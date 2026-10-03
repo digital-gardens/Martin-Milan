@@ -81,8 +81,20 @@ a..repeatSpace-of-our-own
 # a..phrase-modeling-in-logic 
  a.lang.comp.log
 
+wikipedia.org/wiki/
+logic translation of phrases in a formal system
+- #TODO 
 
+hurraki.
 https://en.wikipedia.org/wiki/Category:Augmentative_and_alternative_communication
+
+
+- ###### logic\20260928 
+c:\Users\marti\OneDrive\Dokumenty\00-MM\a..phrase-modeling-in-logic\20260928.grep---aaa.txt.md
+
+- ###### logic(s)  ..   to-Gemini--20261002 
+c:\Users\marti\OneDrive\Dokumenty\00-MM\a..phrase-modeling-in-logic\to-Gemini--20261002.clipboard_log.rr.notn8.txt.md
+c:\Users\marti\OneDrive\Dokumenty\00-MM\a..phrase-modeling-in-logic\htu_analyze_20261002.tsv
 
 
 - ## C:\Users\marti\OneDrive\Dokumenty\00-MM\a.lang.comp.log\stepwise formalization of a sentence 20260922 ... Categorifying-an-RDFS-Fragment---Google-Gemini.md

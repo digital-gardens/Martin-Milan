@@ -23,3 +23,6 @@
 - ###### then link back - 
   - - # how to cut the clipboard log into smaller files 
   - - ###### how to cut the clipboard log into smaller files 
+  - - ###### .notn8
+- ###### then link back -  #warn
+  - - ###### then fork differently before highlighting ^a ^c ^n 
