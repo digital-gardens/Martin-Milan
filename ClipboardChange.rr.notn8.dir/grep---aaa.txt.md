@@ -26,3 +26,10 @@
   - - ###### .notn8
 - ###### then link back -  #warn
   - - ###### then fork differently before highlighting ^a ^c ^n 
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - #   - Patterson, 2017: Knowledge representation in .bicategories of relations (arxiv)
+  -   - # - ReLU Networks as Tropical Rational Functions: Feedforward neural networks with Rectified Linear Unit (ReLU) activations perform piecewise-linear operations equivalent to tropical rational maps and max-polynomials.  ?
+  -   - # - ReLU Networks as Tropical Rational Functions: Feedforward neural networks with Rectified Linear Unit (ReLU) activations perform piecewise-linear operations equivalent to tropical rational maps and max-polynomials.  ? 20260928
+  - - ###### logic\20260928 
+  - # a..phrase-modeling-in-logic.###### logic\20260928
+  - # meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
