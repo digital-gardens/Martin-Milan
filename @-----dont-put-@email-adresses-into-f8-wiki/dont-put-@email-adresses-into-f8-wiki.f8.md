@@ -5,6 +5,18 @@
 @se
 
 
+*clipboard?log*
+
+mk 00044 grep 
+C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\grep--@--00-MM-CLIP--.f5.sh
+grep--dont-put-@email-adresses-into-f8-wiki.f8.sh
+
+grep   -Ei
+
+'laif|\w[@]\w+'
+"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir"
+
+
 \w+[@]\w+
 *.f8.*
 mnoho false positive
