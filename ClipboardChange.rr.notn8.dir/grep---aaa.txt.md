@@ -60,3 +60,10 @@
   - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
   - - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\
   - - ###### bug testlaifrtest 
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- # 08-2034-SMYSL
+- ###### Y-2034 
+- ###### 08-PLAN-2034 
+- ###### connect with
+ - ###### 4 08-2034 rrr memory
+- ###### 🧠
