@@ -33,3 +33,4 @@
   - - ###### logic\20260928 
   - # a..phrase-modeling-in-logic.###### logic\20260928
   - # meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
+  - - ###### .repeatSpace .rr  
