@@ -5,7 +5,9 @@
  # a..linksystem-in-comp   a..namesystem @  aa        
 
 
-C:\Users\marti\OneDrive\Dokumenty\00-MM\a.03.ALL.rr\a.03.ALL.URIs.rrr.md
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+
+
 
 
 
@@ -97,9 +99,7 @@ c:\Users\marti\OneDrive\Dokumenty\00-MM\a..phrase-modeling-in-logic\20260928.gre
 
 - ###### meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
 
-site:anggtwu.net
-"category of logics" 
-"bicategory of logics" 
+site:anggtwu.net logics
 
 
 c:\Users\marti\OneDrive\Dokumenty\00-MM\a..phrase-modeling-in-logic\to-Gemini--20261002.clipboard_log.rr.notn8.txt.md

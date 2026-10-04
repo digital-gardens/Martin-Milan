@@ -1,8 +1,4 @@
-- # how to cut the clipboard log into smaller files 
-- ###### then fork differently before highlighting ^a ^c ^n 
-- ###### .notn8
-- ###### then link back -  #warn
-- #  VERSION2 #aa reload 0710 ----------------  
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
 - #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
   -   - - ## krámek pod věží,
   - - ###### how to cut the clipboard log into smaller files 
@@ -34,3 +30,30 @@
   - # a..phrase-modeling-in-logic.###### logic\20260928
   - # meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
   - - ###### .repeatSpace .rr  
+  - - # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+  - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- ###### advanced search
+- ###### copy to another file 
+- ##
+  - - ###### backlinks - ######  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\a..03..topic-system..itself\a.03.ALL.URIs.rr.md
+  - - ###### backlinks - ######  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\a..03..topic-system..itself\a.03.ALL.URIs.rr.md
+  - - ###### backlinks - ######  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\a..03..topic-system..itself\a.03.ALL.URIs.rr.md
+  - - ###### C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md 
+  - - ###### copy to another file 
+  - - ###### .repeatSpace .rrr  ⚠️❕💚🎵ℹ️⏰🆘🆕⬆️▶️🟢➡️🔰🙏❤️🙇
+  - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+  - - ###### C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md 
+  -  - ######  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\a..03..topic-system..itself\   a.03.ALL.URIs.rr.md
+  -  - ######  file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\a..03..topic-system..itself\a.03.ALL.URIs.rr.md
+- ###### backlink file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir/
+- ###### .repeatSpace .rrr  ⚠️❕💚🎵ℹ️⏰🆘🆕⬆️▶️🟢➡️🔰🙏❤️🙇
+  - - ###### .repeatSpace .rrr  ⚠️❕💚🎵ℹ️⏰🆘🆕⬆️▶️🟢➡️🔰🙏❤️🙇
+- ###### C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md 
+- ###### C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md 
+- # how to cut the clipboard log into smaller files 
+- ###### then fork differently before highlighting ^a ^c ^n 
+- ###### .notn8
+- ###### then link back -  #warn
+  - - # autohotkey  VERSION2 #aa reload 0710 ----------------  
+  - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- ###### advanced search
