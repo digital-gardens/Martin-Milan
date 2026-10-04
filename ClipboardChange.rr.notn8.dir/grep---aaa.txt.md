@@ -57,3 +57,4 @@
   - - # autohotkey  VERSION2 #aa reload 0710 ----------------  
   - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
 - ###### advanced search
+  - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
