@@ -1,4 +1,4 @@
-repeatSpace #todo edit
+.repeatSpace #todo edit
 
 #todo edit "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "%OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html" 011-POMOC 02-HODINOVY
 

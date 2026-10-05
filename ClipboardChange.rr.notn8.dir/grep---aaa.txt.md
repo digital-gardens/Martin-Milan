@@ -64,6 +64,7 @@
 - # 08-2034-SMYSL.rr  successor to 260101
 - ###### Y-2034 
 - ###### 08-PLAN-2034 
+- ###### .rrr .repeatSpace 
 - ###### connect with
  - ###### 4 08-2034 rrr memory
 - ###### papirova pamětová pomůcka

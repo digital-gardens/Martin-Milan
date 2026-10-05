@@ -1,8 +1,8 @@
 
-# a..03..topic-system
-# a..categories-of-our-own
-# a..wiki-of-our-own
- # a..linksystem-in-comp   a..namesystem @  aa        
+# .03..topic-system
+# .categories-of-our-own
+# .wiki-of-our-own
+ # .linksystem-in-comp   .namesystem @  aa        
 
 
 - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
@@ -11,8 +11,8 @@
 
 
 
-a..li
-a.li
+.li
+li
 
 
 
@@ -60,9 +60,20 @@ a.li
 
 
 
-- # #todo reform  for the phrases to be google-searchable .. are they?
-a..lang-in-comp
-a..repeatSpace-of-our-own
+- # #todo .. reform .. for the phrases to be google-searchable .. are they?
+.lang-in-comp
+.repeatSpace
+-of-our-own
+https://www.google.com/search?q=%22repeatspace%22&newwindow=1&sca_esv=95587ab41e5a5533&sxsrf=APpeQnuSWBoEc320Miq86b_Dlousrj1SMw:1791196770110&ei=Yn7DarGdBru-wPAPsKmbwQI&start=30&sa=N&sstk=AS6-VmJTDudpQt9RAZHjP4nC6OVzKnsUj4r_kNXgaCvdBSFH6mcZgLE9Bz5hXJDigGYNoYIh99XVwkvpLINdbuyTrn4MddFwZCg_XdXZ-bgVgsG_YgVf3NmomxPpvowVSPpr8PobexH0e_b9DMblWb1KwNz269-KNFU&ved=2ahUKEwix1tH516KXAxU7HxAIHbDUJig4FBDw0wN6BAgoEAs&biw=1222&bih=559&dpr=1.56
+yyyy repeatspace (nebo repeatSpace) je běžný název pomocné funkce nebo metody v různých programovacích jazycích a knihovnách, která slouží k vytvoření řetězce tvořeného zadaným počtem mezer.
+i hope there isnt yet
+repeatSpace.com
+No, domain names are not case sensitive.
+https://forsale.godaddy.com/
+repeatspace.com
+repeat-space.com
+This server couldn't prove that it's repeat-space.com; its security certificate is from v2008.cores....
+webserver is functioning normally
 
 
 
@@ -81,7 +92,7 @@ a..repeatSpace-of-our-own
 
 
 
-# a..phrase-modeling-in-logic 
+# .phrase-modeling-in-logic 
  a.lang.comp.log
 
 wikipedia.org/wiki/
@@ -138,8 +149,8 @@ authoring and verbalization
 
 
 
-# a..categories-in-math   
-## a..math.Category_theory
+# .categories-in-math   
+## .math.Category_theory
  code "C:\Users\marti\OneDrive\Dokumenty\00-MM\a.math.Category_theory"
 
 
@@ -164,7 +175,7 @@ cat .4 see also 20260525
 
 
 
-# a..cz-music 
+# .cz-music 
 
 
 - ## #todo songs in 20260925 C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20260925-2.clipboard_log.rr.n8.txt.md
@@ -191,6 +202,11 @@ c:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\PAUSE-ONEDRIVE--Ro
 
 
 
+
+# .repeatSpace
+- ###### # .repeatSpace
+- ###### # .https...praha.online
+- ######  .https...www.pvk.cz/aktuality/havarie/
 
 
 
