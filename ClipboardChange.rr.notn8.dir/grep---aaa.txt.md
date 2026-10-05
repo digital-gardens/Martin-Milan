@@ -61,9 +61,15 @@
   - - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\
   - - ###### bug testlaifrtest 
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
-- # 08-2034-SMYSL
+- # 08-2034-SMYSL  successor to 260101
 - ###### Y-2034 
 - ###### 08-PLAN-2034 
 - ###### connect with
  - ###### 4 08-2034 rrr memory
+- ###### papirova pamětová pomůcka
+- ###### but 0455 03 anti fragile Dr Praško naučit se zdravě riskovat 
+- ######      .      ▶️➡️
 - ###### 🧠
+  - - ###### 🧠
+  - # Anti-Akrasia Technique: Structured Procrastination
+- ######      .      ▶️➡️

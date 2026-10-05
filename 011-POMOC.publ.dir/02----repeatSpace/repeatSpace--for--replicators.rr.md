@@ -14,7 +14,7 @@ by humans
 or AIs
 
 
-# // wikipedia category: Memory aids?
+# // wikipedia category: Note-taking?
 
 
 # examples
@@ -38,12 +38,13 @@ or AIs
 
 - what is trello? ... wikipedia ?
 - a kanban board for todo lists?
+- a to-do list in e.g. Outlook ... for my dad  ?
 
 - a spaced repetition system ... wikipedia ?
   - a flashcard app that repeats questions at increasing intervals
   - Anki, SuperMemo, Mnemosyne, etc.
 
-- MEMORY.md, AGENTS.md 
+- MEMORY.md, AGENTS.md ,  HUMANS.md
   - a file that is read and edited repeatedly
 
 - sometimes even filenames, dirnames, folder, album names can be "abused" as reminders #rr #aaaa   #yyyy
