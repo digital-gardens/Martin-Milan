@@ -28,6 +28,8 @@ li
 
 
 # aaa at the end of this, there are util notes
+# ---ORDER chapters BY THE -last WORD---
+# ---END OF THE HEADER---
 
 
 # 4 00 nos 011++ rr  hand+ns------++ screen apnea or email apnea
@@ -211,15 +213,13 @@ c:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\PAUSE-ONEDRIVE--Ro
 
 
 
+# TC------totalcmd.repeatSpace.rr
+## // tc copy names with path to clip
+
+
 # r.visual_conlangs
 
 
-# TC------totalcmd.repeatSpace.rr
-
-
-
-
-# // tc copy names with path to clip
 
 # replace ^[^ ]  # $0
 
