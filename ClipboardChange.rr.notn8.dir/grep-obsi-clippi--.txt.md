@@ -1,0 +1,9 @@
+- ###### The Wikidata Query Builder provides a visual interface for building a simple Wikidata query. It is ideal for users with little or no experience in [SPARQL](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:SPARQL_tutorial), the powerful query language. The Query Builder doesn't offer SPARQL's full functionality, but you can always open your query in the Query Service, where you can view, edit or expand it via the link above the results. [Feedback is welcome here](https://www.wikidata.org/wiki/Wikidata_talk:Query_Builder).
+- ###### Copy link to query
+- ###### [![](https://query.wikidata.org/logo.svg)Wikidata Query Service](https://query.wikidata.org/#SELECT%20DISTINCT%20?item%20?itemLabel%20WHERE%20%7B%0A%20%20SERVICE%20wikibase:label%20%7B%20bd:serviceParam%20wikibase:language%20%22%5BAUTO_LANGUAGE%5D,mul,en%22.%20%7D%0A%20%20%7B%0A%20%20%20%20SELECT%20DISTINCT%20?item%20WHERE%20%7B%0A%20%20%20%20%20%20?item%20p:P279%20?statement0.%0A%20%20%20%20%20%20?statement0%20\(ps:P279\)%20wd:Q3622126.%0A%20%20%20%20%7D%0A%20%20%20%20LIMIT%20100%0A%20%20%7D%0A%7D)
+    - ###### Edit visually
+- - ###### [Examples](https://query.wikidata.org/embed.html#)
+- - ###### [Download](https://query.wikidata.org/embed.html# "Download result")
+- ###### |[](http://www.wikidata.org/entity/Q188619 "Explore item")[wd:Q188619](http://www.wikidata.org/entity/Q188619)|hierarchy|
+- ###### |[](http://www.wikidata.org/entity/Q2001982 "Explore item")[wd:Q2001982](http://www.wikidata.org/entity/Q2001982)|notation|
+- ###### todo  
