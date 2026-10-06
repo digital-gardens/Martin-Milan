@@ -74,3 +74,8 @@
   - - ###### 🧠
   - # Anti-Akrasia Technique: Structured Procrastination
 - ######      .      ▶️➡️
+- ###### Stop showing Login dialog automatically? Please confirm if you really want to WinSCP stop showing Login dialog automatically on startup and when the last session is closed.
+- ###### If you change your mind later, you can revert this in Preferences on Environment > Window page.
+- ###### To open the Login dialog manually, go to Tabs > New Tab [> Remote Tab] or use corresponding toolbar button.
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - #title: Cats
