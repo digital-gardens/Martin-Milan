@@ -42,6 +42,7 @@
 - ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)  
 - ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)  
 - ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)  
+### [Můj Čas - song and lyrics by Hana Zagorová, Stanislav...](https://open.spotify.com/track/5vvr1U2dzXJju34vRRURVD)
 # cmd rem # start "" "xyz"
 ###### #aaaa todo pomodoro 1 minute
 -  ### # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat  
@@ -173,10 +174,12 @@
 - # Spirituál Kvintet - Chci sluncem být (až se k nám právo vrátí) #aaaaa
 * google-chat (hovor, videohovor)
 * cl-launch 3.22-1
+---------- Původní e-mail ----------
 * First-order logic viewed as a (meta) conlang
 ---------------  ----------- ------                                                                  ---- ----
   --------  -------------  -------  -------  ---  ---
   -------------  ----------------  -------  -------
+---------- Původní e-mail ----------
 # # YAML
 # #TreeNotation
 # # YAML
@@ -189,12 +192,16 @@
     - conda-package-handling==1.7.3=py39h27cfd23_1
     - libgcc-ng==9.3.0=h5101ec6_17
     - libstdcxx-ng==9.3.0=hd4cf53a_17
+---------- Původní e-mail ----------
 ## P = U * I
 * First-order logic viewed as a (meta) conlang
 ---------------  ----------- ------                                                                  ---- ----
   --------  -------------  -------  -------  ---  ---
   -------------  ----------------  -------  -------
+---------- Původní e-mail ----------
+---------- Původní e-mail ----------
 # ls -C
+---------- Původní e-mail ----------
 ------------           -----------                    --------------    ---------         ----------------
 * e.g. for \*.gram\* files, highlight words like \\w\*Cell , "javascript", { }
 # 9-18 to python ranges
@@ -316,6 +323,7 @@
 # vi-fetch-history (not bound)
 ** (gnome-control-center.real:3414): WARNING **: Ignoring launcher gufw (missing desktop file)
 ** (gnome-control-center.real:3414): WARNING **: Ignoring launcher ubuntuone-installer (missing desktop file)
+---------- Původní e-mail ----------
 * First-order logic viewed as a (meta) conlang
 # history-and-alias-expand-line (not bound)
 # history-search-backward (not bound)
