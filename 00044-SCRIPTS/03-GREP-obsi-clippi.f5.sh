@@ -40,7 +40,9 @@ cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\20261006.Clippings"
 #   '^ *[-] [- ]*[#]+'
 # 20260925 edited
 
-grep      -R     -E  -i       --no-filename      '^ *[-] [- ]*[#]+'     .  	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-obsi-clippi--.txt.md"
+#    --no-filename
+
+grep      -R     -E  -i           '^ *[-] [- ]*[#]+'     .  	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-obsi-clippi--.txt.md"
 
    #  | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'
 
