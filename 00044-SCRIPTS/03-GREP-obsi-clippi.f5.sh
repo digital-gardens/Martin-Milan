@@ -8,12 +8,15 @@ echo "$0"
 echo backgnd sh  task without output is very slow?
 echo echo no help
 echo keep fg?
+
+pwd
 #echo cd  "C:\Users\marti\OneDrive\Dokumenty\...."
 #cd  "C:\Users\marti\OneDrive\Dokumenty"
-cd "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir"  #\0.clipboard_log.rr.n8.txt.md"
-cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\20261006.Clippings"
-cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\Clippings"
-
+#cd "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir"  #\0.clipboard_log.rr.n8.txt.md"
+#cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\20261006.Clippings"
+#cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\Clippings"
+cd "C:\Users\marti\OneDrive\11c3aaaa\11clippi\Clippings"
+pwd
 
 #ls
 #sleep 5
