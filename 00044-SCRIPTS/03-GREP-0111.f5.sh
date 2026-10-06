@@ -1,16 +1,21 @@
 #ls
 #sleep 5
 
-# - ## #todo   #test   .rr    Dokumenty 0111 w w @ - #  
+# - ## #todo   #test   .rr    Dokumenty 0111 w w @ - #
 
 # will be scheduled to run in the foreground, so that the output can be seen in the terminal window
 
 #yy
 echo 'C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh'
+
+pwd
 echo cd  "C:\Users\marti\OneDrive\Dokumenty"
 cd  "C:\Users\marti\OneDrive\Dokumenty"
 #echo echo -- grep --version
 #grep --help
+pwd
+
+
 
 #nn --velke-i ... -I ... hard to debug
 
@@ -35,7 +40,7 @@ grep         -R -E   -i       '^ *[-+*#]+ .{0,10}[#][-+*#a]* '        "0111--~1"
 
 
 echo end
-#sleep 5
+sleep 5
 
 #echo read x
 #read x
