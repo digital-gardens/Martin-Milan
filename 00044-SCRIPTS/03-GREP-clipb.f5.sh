@@ -7,10 +7,12 @@ echo 'C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh'
 echo backgnd sh  task without output is very slow?
 echo echo no help
 echo keep fg?
+
+pwd
 #echo cd  "C:\Users\marti\OneDrive\Dokumenty\...."
 #cd  "C:\Users\marti\OneDrive\Dokumenty"
 cd "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir"  #\0.clipboard_log.rr.n8.txt.md"
-
+pwd
 
 
 #ls
