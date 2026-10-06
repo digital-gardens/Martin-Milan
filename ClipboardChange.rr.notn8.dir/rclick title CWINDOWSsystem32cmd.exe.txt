@@ -1,0 +1,74 @@
+rem # ....repeatSpace
+C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh
+backgnd sh task without output is very slow?
+echo no help
+keep fg?
+/c/Users/marti/OneDrive/Dokumenty/00-MM/011-POMOC.publ.dir
+/c/Users/marti/OneDrive/11c3aaaa/ClipboardChange.rr.n8.dir
+sleep 3
+C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh
+/c/Users/marti/OneDrive/Dokumenty/00-MM/011-POMOC.publ.dir
+cd C:\Users\marti\OneDrive\Dokumenty
+/c/Users/marti/OneDrive/Dokumenty
+end
+C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-obsi-clippi.f5.sh
+backgnd sh task without output is very slow?
+echo no help
+keep fg?
+/c/Users/marti/OneDrive/Dokumenty/00-MM/011-POMOC.publ.dir
+/c/Users/marti/OneDrive/11c3aaaa/11clippi/Clippings
+sleep 3
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir>Robocopy.exe   C:\Users\marti\OneDrive\Dokumenty\0111--~1  "G:\0004-LINKS\0111--songs--music--lyrics"      /s   /XJ     /XD Obr*    /XD Vide*     /XD .git    /XD node_modules   /XDOLD*      /xf  .gitignore2222222222222222         /xf .git    /xf .849C9593-D756-4E56-*     /log+:C:\Users\marti\log\OneDrive--deldest-6.log     /tee    /ndl       /nfl      /MIR
+
+ Log File : C:\Users\marti\log\OneDrive--deldest-6.log
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : 6 October, 2026 10:23:16
+   Source : C:\Users\marti\OneDrive\Dokumenty\0111--~1\
+     Dest : G:\0004-LINKS\0111--songs--music--lyrics\
+
+    Files : *.*
+
+Exc Files : .gitignore2222222222222222
+            .git
+            .849C9593-D756-4E56-*
+
+ Exc Dirs : .git
+            node_modules
+            Obr*
+            Vide*
+            OLD*
+
+  Options : *.* /NDL /NFL /TEE /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /XJ /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        43         0        43         0         0         1
+   Files :       206         0       206         0         0         0
+   Bytes :   19.34 m         0   19.34 m         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Ended : 6 October, 2026 10:23:16
+
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir>echo off
+
+Waiting for 0 seconds, press a key to continue ...
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir>rem pause
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir>timeout.exe 30
+
+Waiting for  0 seconds, press a key to continue ...
+
+C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir>rem 15
+
+[process exited with code 0 (0x00000000)]
+You can now close this terminal with Ctrl+D, or press Enter to restart.

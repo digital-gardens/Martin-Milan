@@ -140,5 +140,6 @@ rem file:///C:\Users\marti\OneDrive\ps-mylen-mar\start-robocopy.cmd
 
  echo on
 rem pause
-timeout.exe 15
+timeout.exe 30
+rem 15
 
