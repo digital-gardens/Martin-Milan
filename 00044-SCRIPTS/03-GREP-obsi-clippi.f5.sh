@@ -12,6 +12,7 @@ echo keep fg?
 #cd  "C:\Users\marti\OneDrive\Dokumenty"
 cd "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir"  #\0.clipboard_log.rr.n8.txt.md"
 cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\20261006.Clippings"
+cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\Clippings"
 
 
 #ls
@@ -40,9 +41,9 @@ cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\20261006.Clippings"
 #   '^ *[-] [- ]*[#]+'
 # 20260925 edited
 
-#    --no-filename
+#
 
-grep      -R     -E  -i           '^ *[-] [- ]*[#]+'     .  	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-obsi-clippi--.txt.md"
+grep      -R     -E  -i       --no-filename      '^ *[-] [- ]*[#]+'     .  	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-obsi-clippi--.txt.md"
 
    #  | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'
 
