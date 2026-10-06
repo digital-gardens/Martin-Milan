@@ -79,3 +79,4 @@
 - ###### To open the Login dialog manually, go to Tabs > New Tab [> Remote Tab] or use corresponding toolbar button.
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   - #title: Cats
+  - #cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\Clippings"
