@@ -28,7 +28,9 @@ rem maybe not ?? run task as soon as possible after a scheduled start is missed 
 
 rem - # - // .sep ----------------------------------------------------------------
 rem
-rem # ....repeatSpace
+
+
+echo rem # ....repeatSpace
 
 
 rem #debug..  in win q scheduled tasks  aaaa aaaa yyyy              .f5 to refresh the listing
@@ -73,6 +75,8 @@ rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f
 rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\
 rem
 
+
+"C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-obsi-clippi.f5.sh"
 
 
 
