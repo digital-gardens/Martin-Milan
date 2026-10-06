@@ -1,0 +1,16 @@
+Jak do adresare s fortranskym programem vlozit soubor s extenzi ".vfproj"
+--------------------------------------------------------------------------
+
+
+1) Mejme adresar, ve kterem uz je fortransky program 
+(nemusi byt hotovy, jen musi mit extenzi ".for")
+
+2) Vyvolej Visual Studio a pokud jeste neni videt obsah fortranskeho programu,
+pod polozkou menu "View" klikni na "Solution Explorer"
+(nebo stiskni Ctrl+Alt+L)
+
+3) Do adresare prekopiruj jakykoliv soubor s extenzi .vfproj
+
+4) Klikni vpravo nahore v projektu na jmeno ".vfproj" a prepis ho 
+jmenem aktualniho fortranskeho programu, pak uz program pujde prelozit!
+Chybejici dodatecne soubory .sln, .suo a .u2d se samy doplni.
