@@ -1,0 +1,32 @@
+What is an example of a conjecture that was proven wrong for "very large" numbers?
+One of Euler's sum of powers conjectures. In particular, Euler claimed in the 18th century that there were no whole number solutions for the following equation:
+x
+4
++
+y
+4
++
+z
+4
+=
+w
+4
+.
+
+It wasn't until 1988 that Harvard professor Noam Elkies (Noam D. Elkies Home Page) found a solution:
+
+2682440
+4
++
+15365639
+4
++
+18796760
+4
+ = 
+20615673
+4
+
+He also proved that infinitely many solutions existed to the equation. What's incredible about this is that for over 200 years nobody could neither prove nor disprove the conjecture.
+
+Source: The Whole Story

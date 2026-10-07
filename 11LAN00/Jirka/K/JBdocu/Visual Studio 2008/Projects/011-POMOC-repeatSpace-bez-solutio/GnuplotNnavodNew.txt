@@ -1,0 +1,275 @@
+                 Strucny navod pro pouziti programu gnuplot 
+                 ==========================================
+
+
+INSTALACE GNUPLOTU 
+(Mate-li starsi verzi gnuplotu, radim ji odinstalovat)
+=======================================================
+
+http://www.gnuplot.info/download.html 
+kliknete na    "Primary download site on SourceForge"
+kliknete na prvni polozku pod "Parent folder"
+kliknete na nejnovejsi verzi (pripadne predposledni, jste-li opatrni), 
+	momentalne (13.5.2016) je nejnovejsi verze 5.0.3
+
+Pro Windows kliknete na link "gpXXX-win32-mingw.exe", 
+resp. "gpXXX-win64-mingw.exe" (XXX je cislo verze, napr. 503).
+Soubor stahnete a spustte instalaci, pri ni doporucuji:
+ - ponechte beze zmeny navrhovany instalacni adresar
+ - zaskrtnete volbu "Create a desktop icon" a vsechny moznosti
+      pod "Set file associations" v "Other tasks" 
+ - zaskrtnete volbu "Add application directory to your 
+      PATH environment variable"
+ - tesne pred ukoncenim instalace NEzaskrtavejte volbu "Launch gnuplot",
+      stisknete "Finish".
+ 
+
+
+ZAKLADNI INFORMACE
+=======================================================
+ - po vyvolani gnuplotu se zobrazi prikazove okno, grafy se vykresluji
+   v dalsim (grafickem) okne. Aby se po vykresleni grafu dalo opet psat 
+   do prikazoveho okna, musite v nem kliknout mysi nebo stisknete mezernik.
+ - vsechny prikazy gnuplotu jsou malymi pismeny!
+ - predchozi prikazy se daji znovu vyvolat pomoci kurzorovych sipek 
+   nahoru a dolu, daji se editovat a pak spustit stisknutim <Enter>
+ - jeden nebo vice radek v prikazovem okne lze oznacit mysi a prenest
+   do schranky stisknutim Ctrl+Insert, vlozit obsah schranky 
+   do prikazoveho okna lze stisknutim Shift+Insert. 
+   Skripty (textove soubory obsahujici prikazy gnuplotu) je lepe spoustet 
+   prikazy load nebo call, viz odstavec ULOZENI PROMENNYCH, VOLANI SKRIPTU 
+
+
+
+NASTAVENI FONTU
+=======================================================
+Pri prvnim vyvolani programu byva nekdy vyhodne (zvlaste na notebooku)
+zmenit font a jeho velikost. Nove nastaveni se (v ceskych Windows) 
+zapisuje do souboru C:/gnuplot/wgnuplot.ini, je pro to nutne vyrobit adresar
+C:/gnuplot.  
+Kliknete pravym tlacitkem do okna gnuplotu (nebo do jeho horni listy), 
+zvolte "Choose font" a vyberte napr. "Lucida Console" a velikost 11,
+pak opet kliknete pravym tlactikem a vyberte posledni volbu "Update C:\...").
+Pri dalsich vyvolanich gnuplotu se z C:/gnuplot/wgnuplot.ini nactou aktualni
+udaje.
+
+
+PRIKAZ SET - NASTAVENI PARAMETRU PROGRAMU
+=======================================================
+Po vyvolani gnuplotu jsou vsechny jeho parametry (je jich nekolik desitek)
+prednastaveny, prikazem "set" se daji zmenit, napr.:
+   set grid    - v grafech bude pomocna mrizka
+   set nogrid  - vypnuti pomocne mrizky
+   set angles degree - prechod z radianu na stupne, pak zkuste napr. 
+                       plot [0:360] sin(x)
+   set samples 10000 - grafy funkci se kresli standardne v pouhych 100 bodech, 
+                       pro rychle oscilujici funkce je zadouci pocet bodu zvysit
+   show angle        - vypise nastaveni parametru
+Priklad ostatnich parametru:  zadejte 
+   help set
+
+
+
+INICIALIZACE PARAMETRU DO SOUBORU "gnuplot.ini"
+=======================================================
+Prikazy "set" jsou jednorazove; dokud se nastaveni nezmeni, hodnoty stale plati
+az do ukonceni programu. Po opetnem vyvolani gnuplotu jsou ovsem nastaveny 
+vychozi hodnoty. Ty lze nastavit v textovem souboru jmenem "gnuplot.ini", 
+umistitete ho do adresare C:\gnuplot.
+Po vyvolani programu se pak vsechny prikazy a nastaveni zadane v gnuplot.ini 
+samy vykonaji. 
+
+Priklad obsahu souboru gnuplot.ini (komentar v zavorkach tam samozrejme nepatri):
+
+   set grid              (do grafu se bude kreslit mrizka)
+   set style data line   (pri kresleni obsahu datovych souboru se body budou
+                          spojovat useckami a samotne body se zadnym symbolem 
+                          zobrazovat nebudou, hodi se to v pripade car slozenych 
+                          z velkeho poctu bodu)
+   cd 'd:/user/data/'    (prechod do zadaneho adresare)
+
+
+
+SPUSTENI DEMA:
+=======================================================
+po vyvolani gnuplotu kliknete na ChDir a zadejte  ..\demo    
+a pak zadejte prikaz
+   load 'all.dem'
+
+
+
+
+KRESLENI ANALYTICKY ZADANYCH FUNKCI
+=======================================================
+
+   plot sin(x)             vykresli graf pro x v <-10,10>
+
+   plot abs(1/(abs(x)-5))  abs je absolutni hodnota
+
+   plot [-50:20] sin(x)    vykresli graf funkce sinus pro x v intervalu <-50,20>
+
+   plot [-5:5][-10:10] x**2 * sin(30*x)   vykresli graf funkce "x na druhou krat
+                                          sinus 30 x" pro x z <-5,5> a y z <-10,10>
+                                          (** znaci operaci umocneni)
+
+   plot [0:1.5][:.5] x**4 * log(x)  rozsah v promenne y je omezen max. do 0.5
+
+   plot sin(3*x),x*cos(5*x),sin(x)/x      najednou lze kreslit vice funkci
+   
+   plot sin(x),cos(x) w lp lw 3 pt 7  kosinus se kresli tlustsi carou se symboly cislo 7
+   v kazdem bode ( w lp lw 3 pt 7 = with line and points    line width 3    pointtype 7 )
+
+Funkce lze nadefinovat predem a pak kreslit:
+   f(x)=sin(x)
+   g(x)=(x+3)/(x-2)*f(x)
+   pes(x)=(x**2+2*x-3)/(x-3)
+   plot [-5:5] [-10:10] f(x),g(x),pes(x),f(x)*pes(x)
+nebo:
+   gg(x)=a*exp(-((x-b)/c)**2)
+   a=10;b=3.5;c=2
+   plot [-5:15] gg(x) 
+nebo:
+   h(a,b,c,x)=a*exp(-((x-b)/c)**2)
+   plot [-8:8] h(10,3,1,x)+h(5,-2,2,x)+h(4,6,.5,x)
+
+
+3D grafy (lze samozrejme vykreslovat prostorove grafy i z datovych souboru)
+   Zadejte funkci dvou promennych, napr.:
+   f(x,y)=sin(x-3*y)*cos(x+y)
+   splot [-2:2][-3:3] f(x,y)   vykresli 3D graf pro x z <-2,2> a y z <-3,3>
+                               i s neviditelnymi carami
+   set hidden3d                pri opetovnem kresleni se nezobrazi neviditelne cary
+   set isosamples 25,40        nastaveni poctu car v x a y
+   set samples 100             nastaveni poctu bodu v kazde care
+Ovladani mista pohledu:
+kurzor mysi do obrazku, drzte stlacene leve tlacitko, pohnete mysi.
+
+
+
+KRESLENI DAT Z DATOVYCH SOUBORU
+=======================================================
+Je dobre prejit do adresare, kde mate datove soubory, aby se ke jmenum
+souboru nemusela pridavat cesta:
+kliknete na ChDir a zadejte jmeno adresare (celou cestu).
+Je-li jmeno dlouhe, velmi se osvedcuje vyhledat si predem dany adresar 
+v Pruzkumnikovi, v panelu adresy Pruzkumnika (v horni casti kazdeho okna 
+slozky) si jeho jmeno oznacit mysi, pomoci Ctrl+C ho prenest do schranky
+a pak v Gnuplotu po kliknuti na ChDir vlozit jmeno pomoci Ctrl+V.
+Ve Windows 7 (snad i v novejsich): klik pravym do panelu adresy
+a vyberte "Kopirovat adresu" (tim se adresa dostane do schranky), 
+dale Ctrl+V jako predtim.
+Jmeno aktualniho adresare si muzete kdykoliv vypsat prikazem "pwd" (jako v Unixu).
+  
+
+Necht se datovy soubor jmenuje napr. "d" (nebo "D", ve jmenech souboru
+se mala a velka pismena nerozlisuji), dalsi datovy soubor je "abc.txt" 
+
+   plot 'd'             1.sloupec dat se bere za X-ove hodnoty, 2. sloupec za Y-ove hodnoty
+
+   plot 'd' using 1:5   1.sloupec = X, 5. sloupec = Y
+    
+   plot 'd' u 1:2, 'd' u 1:3,'abc.txt' u 1:3, 'abc.txt' u 1:4, 'abc.txt' u 1:5
+                    kresli 5 krivek do jednoho grafu; "u" = "using"
+   plot 'd' u 1:2, '' u 1:3, '' u 1:4, '' u 1:5 w l lw 2.5 lc 3
+                    kresli 2.,3.,4. a 5. sloupec souboru "d", data z 5. sloupce se kresli
+                    carou tloustky 2.5 (lw=line width) a barvou cislo 3 (lc=line color).
+                    '' je zkratkou pro jiz uvedene jmeno datoveho souboru.
+   plot 'd' w p            = with points
+   plot 'd' w lp           = with line and points
+
+
+Definice barev, tloustek car, symbolu, atd. pro dany terminal zjistite prikazem "test".
+POZOR: pro jine terminaly (napr. "png", "emf", atd. - viz nize EXPORT OBRAZKU DO SOUBORU)
+       se cisla barev a dalsich prvku mohou vice ci mene lisit, pokud na tom zalezi,
+       provedte prikaz "test" i v jinych terminalech, ktere budete pouzivat!
+Obsahuje-li datovy soubor prazdnou radku (jen <Enter>), gnuplot
+kresli dalsi data oddelene od predchozich (novou carou).
+
+
+
+ULOZENI PROMENNYCH, VOLANI SKRIPTU
+=======================================================
+Uzivatelem definovane funkce, promenne, vsechna nastaveni (set ...) a posledni prikaz
+plot (resp. splot) lze ulozit do souboru prikazem "save", napr.
+   save 'params.txt'
+a pozdeji nacist prikazem "load", napr. 
+   load 'params.txt'. 
+Prikazem load se take spousti skripty nepotrebujici predat parametry, prikazem call
+se daji skriptu preda parametry. 
+
+
+
+ZOOM
+=======================================================
+Umistete kurzor pobliz mista, ktere chcete zvetsit. Stisknete prave 
+tlacitko mysi, drzte ho a jedte mysi - vytvari se pravouhly vyber 
+oznaceny slabou carkovanou carou. Kliknete levym tlacitkem mysi 
+a vyber se zvetsi do celeho puvodniho okna grafu.
+Dalsi pomocne prikazy (kurzor musi byt v grafu):
+  p  (previous) - prechod k predchozimu zoomu
+  n  (next)     - prechod k nasledujicimu zoomu
+  u  (unzoom)   - navrat k puvodnimu obrazku
+Pozor: aby zoom fungoval i pri zobrazeni analyticky definovanych funkci,
+       nesmite zadat napr. plot [10:20] f(x), ale nejprve se musi
+       zadat rozsah: set xrange [10:20] a pak uz jen plot f(x).
+
+
+
+EXPORT OBRAZKU DO SOUBORU
+=======================================================
+Gnuplot exportuje obrazky do asi 35 ruznych formatu (viz "set terminal").
+Pro pohodlny export prave vykreslenych obrazku je vyhodne
+mit pripravene kratke skripty, jako napriklad:
+
+set term emf color solid font "Arial,16" size 2000,1024
+set output "obr.emf"
+replot
+set output
+set term pop
+(ulozte techto 5 radku do souboru jmenem "emf.txt" nebo jen "emf"),
+
+nebo
+
+set terminal png font arial 14 size 1600,1200
+set output 'obr.png'
+replot
+set output
+set terminal pop
+
+(ulozte techto 5 radku do souboru jmenem "png.txt" nebo jen "png").
+Tyto skripty je vyhodne ulozit tak, aby byly jednoduse pristupne
+ze vsech adresaru: ulozte je do korenoveho adresare disku, kde mate
+ulozena sva data.
+Kdykoliv pak budete chtit exportovat obrazek, zadejte prikaz 
+load '\emf.txt'     (resp. jen   load '\emf')
+pripadne
+load '\png.txt'     (resp. jen   load '\png')
+V aktualnim adresari vzniknou soubory "obr.emf" (resp. "obr.png"),
+ktere si hned prejmenujte.
+Prave popsane skripty samozrejme muzete modifikovat, seznam vsech
+parametru zjistite v helpu prikazem 
+help emf
+a pod.
+
+POZOR: pro ruzne terminaly se cisla barev i dalsich prvku mohou 
+navzajem mirne lisit! Pokud na tom zalezi, provedte prikaz "test", 
+napr. pro terminal "png":
+
+set terminal png 
+set output 'obr.png'
+test
+set output
+set terminal pop
+
+
+Dalsi navody pro praci s gnuplotem (zvlaste ten prvni je vytecny):
+-------------------------------------------------------------------
+http://lowrank.net/gnuplot/index-e.html
+http://www.root.cz/clanky/gnuplot-seznamte-se/
+https://www.cs.hmc.edu/~vrable/gnuplot/using-gnuplot.html
+http://optics.upol.cz/userfiles/file/GNUPLOT_6.pdf 
+http://kmlinux.fjfi.cvut.cz/~kochmmic/gnuplot.pdf
+
+
+
+J.Bok  6.5.2003    Rev.11  13.5.2016 

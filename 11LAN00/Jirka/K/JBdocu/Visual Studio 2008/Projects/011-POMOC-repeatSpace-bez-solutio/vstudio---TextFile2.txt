@@ -1,0 +1,85 @@
+
+
+pokus 20261007
+
+
+
+
+
+' PROBLEM 1:
+'==============================================================================================
+' Knihovna MSCOMCTL.OCX byla radne na svem miste C:\Windows\System32,
+' ale kdyz jsem ji vybral v "Project" -> "Components"
+' (tam se jmenuje Microsoft Windows Common COntrols 6.0 (SP6),
+' tak se hlasila chyba "Error accessing the system registry".
+'
+' Pro jistotu jsem ji ZAREGISTROVAL!
+'
+' Dotaz:
+' ========
+' http://www.vbforums.com/showthread.php?545433-RESOLVED-Sudden-quot-Error-accessing-the-system-registry-quot
+'
+' Aug 2007
+' Sudden "Error accessing the system registry"
+' Hello there,
+' my VB 6 (SP6) model ran smoothly until this morning when I suddenly got the message
+' "Error accessing the system registry". When I tried to run my model on another computer,
+' I got the same error message. So the sudden appearance of this problem seems
+' to be related to my model (rather than the VB 6 (SP6) installation on my computers that run on Vista).
+' Would you have any idea how to proceed?
+
+' Reseni:
+' ========
+' Dec 2008
+' Re: [RESOLVED] Sudden "Error accessing the system registry"
+' Hi there,
+' You may try the following,
+'
+' Select the Microsoft Visual Basic 6.0 shortcut from the Start menu and right-click on it.
+' Select Properties, and the property sheet for the shortcut will be displayed.
+' Next, click on the Compatibility tab. It is recommended that you make the following changes:
+'   1. Enable compatibility mode and select Windows XP (Service Pack 3) .....
+'   2. Check the "Disable visual themes" option .....           ("Zakázat motivy")
+'   3. Check the "Disable desktop composition" option.....      ("Zakázat kompozici plochy")
+'   4. Check the "Run this program as an administrator" option  ("Spustit tento program jako správce")
+'
+' Click on OK to save the changes. When you run Visual Basic, a User Account Control (UAC)
+' dialog will be displayed, asking you to confirm that you wish to execute the program.
+' This is because it's now running with elevated privileges.
+' You may also get a message that the color scheme has been changed to Windows Vista Basic.
+' The Aero interface will be temporarily disabled until you close the IDE,
+' which will resolve the performance issues with the form designer.
+'==============================================================================================
+
+
+
+' PROBLEM 2:
+'==============================================================================================
+' Casto se vyskytuje pri prenosu programu na jiny (nebo preinstalovany) stroj!
+' Nekdy zmizi ProgressBar (Main) a Slidery (Graf, RegProgramNew) proto,
+' ze v Project -> Components se "ztrati" zaskrtnuti (vyber) nekolika knihoven.
+' Naprava:
+'   1) v Project -> Components vybrat knihovny:
+'         LEDdt
+'         Microsoft Comm Control 6.0
+'         Microsoft Common Dialog Control 6.0 (SP6)
+'         Microsoft Hierarchival FlexGridControl 6.0 (SP4)
+'         Microsoft Windows Common Controls 6.0 (SP6)
+'   2) zakreslit ProgressBar do frmMain a slidery do frmGraf a frmRegProgramNew
+'        podle obrazku
+'
+'   3) prejmenovat objekty:
+'         ProgressBar1 v frmMain
+'         sldPosuvOsyX v frmGraf
+'         sldPocatecniIndex v frmRegProgramNew
+'==============================================================================================
+
+
+' PROBLEM 3:
+'==============================================================================================
+' Pozor pri vytvareni nove varianty programu! NELZE proste zkopirovat adresar s projektem
+' a vsemi soubory - kdyz se to udela, soubory noveho projektu se berou z toho stareho,
+' tj. v souboru ".vbp" se zobrazuji s cestou do puvodniho adresare!!!
+' Musi se napred zhotovit prazdny novy adresar a do neho kopirovat pomoci "Save As",
+' mozna pujde prekopirovat vsechny moduly, je treba experimentovat!
+'==============================================================================================
