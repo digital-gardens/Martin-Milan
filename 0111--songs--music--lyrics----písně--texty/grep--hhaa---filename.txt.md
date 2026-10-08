@@ -74,3 +74,8 @@
 - 0111--~1/Nohavica Jaromír/0004 ---- Nohavica Jaromír - seznam skladeb s texty a akordy na YouSongs.cz.md:- ######  První    Předchozí  **1** - [2](https://www.yousongs.cz/interpret/18-Nohavica-Jaromir.aspx?utm_source=&utm_medium=&utm_campaign=&Page=2)   
 - 0111--~1/Nohavica Jaromír/650714-Nohavica-Kometa--information-immortality.f8.md:- # stál jsem a hleděl jsem, hleděl jsem nahoru,  
 - 0111--~1/Trampské písně/Trampské písně - seznam skladeb s texty a akordy na YouSongs.cz.md:- ###### Bmp 97 Capo D-0 C-2 G-7 1. Déšť ti, holka, smáčel vlasy, smáčel vlasy z tvých očí zbyl prázdnej kruh, kde je ...  
+- 0111--~1/z.repeatSpace/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
+- 0111--~1/z.repeatSpace/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)
+- 0111--~1/z.repeatSpace/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)
+- 0111--~1/z.repeatSpace/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)
+- 0111--~1/z.repeatSpace/010 KTERE PISNE SEM DAT píseň můj čas texty.md:- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)

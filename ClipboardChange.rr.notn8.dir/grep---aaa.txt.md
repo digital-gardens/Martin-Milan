@@ -81,3 +81,23 @@
   - #title: Cats
   - #cd "C:\Users\marti\OneDrive\11c3aaaa\00clippi\Clippings"
   - # Due to timeouts, it is necessary to explicitly limit the depth.
+  - ###### - file: \\Jirka\d\Jirka\Fleška ADATA32GB\ADATA32GB\Archiv\ashampoo_burning_studio_9_9.21_sm.exe
+  - ###### - Learn about Microsoft threat actor names
+  - ###### - .repeatSpace
+- ###### source: "https://www.wikidata.org/wiki/Q116698014"
+  - ###### - .repeatSpace\03 Gemini (chatbot) – Wikipedie.md
+  - ###### -                  Strucny navod pro pouziti programu gnuplot 
+  - ###### - http://www.root.cz/clanky/gnuplot-seznamte-se/
+  - ###### - https://github.com/digital-gardens/Martin-Milan/blob/main/11LAN00/Jirka/K/JBdocu/Visual%20Studio%202008/Projects/011-POMOC-repeatSpace-bez-solutio/GnuplotNnavodNew.txt
+- ###### Přehled od AI ..Pojem definiční sešit v souvislosti se jménem RNDr. Zdeňka Lauschmanna (známého a oblíbeného učitele matematiky na Arcibiskupském gymnáziu v Praze) referuje o specifickém sešitu či studijním materiálu určeném výhradně k zápisu a učení matematických definic, vět a důkazů.
+- ######   - V dobrém vzpomínám 
+  - ###### - November 6, 2013
+- ###### Domnívám se, ¾e vítìzství Neklasických logik je tøeba pøipisovat zejména do jmu, ¾e se jedná o nìcovýjimeèného, neobvyklého a zvlá¹tního. Zatímco geometrii øe¹itelé dobøe zna jí ze støední ¹koly a vidí v níþp ouzeÿ suchopárnou matematiku (aè tøeba velmi krásnou a elegantní), název þneklasické logikyÿ slibujenìco zcela nového a neotøelého. Mo¾ná zde svou 
+- ###### e svou roli hra jí i velká o èekávání vùèi lozo i tak typická ustudentù, kteøí je¹tì nemìli mo¾nost se s 
+  - ###### - 1.8.10
+  - ###### - Version: 1.121.0 (system setup)
+- ###### Commit f6cfa2ea2403534de03f069bdf160d06451ed282
+- ###### Date: 2026-05-19T11:51:53+02:00
+  - ###### - Tedy ^ nemusí být extenzionální spojka. - na to, ¾e v této logice nemusí pravdivostní hodnota A ^ B záviset pouze na pravdivostních hodnotách   - výrokù A, B.22
+  - ###### - Intelligent internet search technology customized for seniors. Big buttons, big text, and so simple to navigate the net. Pre-loaded with 9 pages of rich text senior content including Family, Shopping, Music, Movies, Health. The content is 100% customizable and purposely designed to be easily modifie
+  - ###### - 20261008
