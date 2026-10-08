@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualStudioProject ProjectCreator="Intel Fortran" Keyword="Console Application" Version="11.0" ProjectIdGuid="{2E28C95C-4755-4DEF-957C-8C32F486F7D8}">
+	<Platforms>
+		<Platform Name="Win32"/></Platforms>
+	<Configurations>
+		<Configuration Name="Debug|Win32">
+				<Tool Name="VFFortranCompilerTool" SuppressStartupBanner="true" DebugInformationFormat="debugEnabled" Optimization="optimizeDisabled" Interfaces="true" WarnInterfaces="true" Traceback="true" BoundsCheck="true" RuntimeLibrary="rtMultiThreadedDebug"/>
+				<Tool Name="VFLinkerTool" LinkIncremental="linkIncrementalNo" SuppressStartupBanner="true" GenerateDebugInformation="true" SubSystem="subSystemConsole"/>
+				<Tool Name="VFResourceCompilerTool"/>
+				<Tool Name="VFMidlTool" SuppressStartupBanner="true"/>
+				<Tool Name="VFCustomBuildTool"/>
+				<Tool Name="VFPreLinkEventTool"/>
+				<Tool Name="VFPreBuildEventTool"/>
+				<Tool Name="VFPostBuildEventTool"/>
+				<Tool Name="VFManifestTool" SuppressStartupBanner="true"/></Configuration>
+		<Configuration Name="Release|Win32">
+				<Tool Name="VFFortranCompilerTool" SuppressStartupBanner="true"/>
+				<Tool Name="VFLinkerTool" LinkIncremental="linkIncrementalNo" SuppressStartupBanner="true" SubSystem="subSystemConsole"/>
+				<Tool Name="VFResourceCompilerTool"/>
+				<Tool Name="VFMidlTool" SuppressStartupBanner="true"/>
+				<Tool Name="VFCustomBuildTool"/>
+				<Tool Name="VFPreLinkEventTool"/>
+				<Tool Name="VFPreBuildEventTool"/>
+				<Tool Name="VFPostBuildEventTool"/>
+				<Tool Name="VFManifestTool" SuppressStartupBanner="true"/></Configuration></Configurations>
+	<Files>
+		<Filter Name="Header Files" Filter="fi;fd"/>
+		<Filter Name="Resource Files" Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe">
+		<File RelativePath=".\04-Milan-TextFile12.txt"/>
+		<File RelativePath=".\Před kostelem sv. Tomáše 20250615_154420.jpg"/>
+		<File RelativePath=".\Sber10.frm.txt"/>
+		<File RelativePath=".\TextFile1.txt"/>
+		<File RelativePath=".\vstudio---TextFile2.txt"/></Filter>
+		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl"/>
+		<File RelativePath=".\0404-HLAVNI-NAPOVEDA-pro-JB.f8.txt"/>
+		<File RelativePath=".\Euler.txt"/>
+		<File RelativePath=".\gemini.txt"/>
+		<File RelativePath=".\GnuplotNnavodNew.txt"/>
+		<File RelativePath=".\HTMLPage1.htm"/>
+		<File RelativePath=".\Jak do adresare s fortranskym programem vlozit soubor vfproj.txt"/>
+		<File RelativePath=".\Luna-restau.txt"/>
+		<File RelativePath=".\Mereni pruhybu borovice.txt"/>
+		<File RelativePath=".\Moje datova schranka.txt"/>
+		<File RelativePath=".\Narozeniny.txt"/>
+		<File RelativePath=".\Navod k vytvareni a upravam PF.txt"/>
+		<File RelativePath=".\Navod ke grafice.txt"/>
+		<File RelativePath=".\Navod ke zmene nastaveni v PuTTY.txt"/>
+		<File RelativePath=".\Navod v cestine.txt"/>
+		<File RelativePath=".\Prectene detektivky Johna Sandforda.txt"/></Files>
+	<Globals/></VisualStudioProject>

@@ -100,4 +100,20 @@
 - ###### Date: 2026-05-19T11:51:53+02:00
   - ###### - Tedy ^ nemusí být extenzionální spojka. - na to, ¾e v této logice nemusí pravdivostní hodnota A ^ B záviset pouze na pravdivostních hodnotách   - výrokù A, B.22
   - ###### - Intelligent internet search technology customized for seniors. Big buttons, big text, and so simple to navigate the net. Pre-loaded with 9 pages of rich text senior content including Family, Shopping, Music, Movies, Health. The content is 100% customizable and purposely designed to be easily modifie
+  - ###### - alzheimer
   - ###### - 20261008
+  -   - ###### - Intelligent internet search technology customized for seniors. Big buttons, big text, and so simple to navigate the net. Pre-loaded with 9 pages of rich text senior content including Family, Shopping, Music, Movies, Health. The content is 100% customizable and purposely designed to be e
+- ###### ms store is in a loop. .almost done  .respnt - OneNote is your digital notebook for capturing and organizing everything across your devices. Jot down your ideas, keep track of classroom and meeting notes, clip from the web, or make a to-do list, as well as draw and sketch your ideas. OneNote is the place for all of your notes!
+- ###### [  .]  365 installing background 3%  
+- ###### please stay online while Microsoft 365 
+- ######  set settww  settings 55% update bandwidth  .respnt
+  - # - https://www.madinamerica.com/2025/04/akathisia-after-a-five-year-taper-chained-to-an-antidepressant-forever/ 
+- # Family Notebook 
+  - ###### - 1101m [ ^] sync-ikona  
+- ###### pokus-mb Milan.repeatSpace ... ale https://www.onenote.com/stickynotes?isEdgeHub=true je jiny  
+  - ######  - Todo? Office Lens 
+  - ###### - MAIL URL ms-outlook: FUNGUJE V CHROME  
+- ###### jb vstudio se me zeptal, zda reload
+- ###### vsc vidi
+  - ###### - .shared.repeatSpace
+  - ###### - file:///C:\Users\marti\OneDrive\Shortcuts\Visual Studio 2008\Projects\011-POMOC-repeatSpace-bez-solutio\04-Milan-TextFile12.txt 

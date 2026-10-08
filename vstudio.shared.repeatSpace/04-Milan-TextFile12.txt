@@ -1,0 +1,26 @@
+.shared.repeatSpace
+pokus edit ve vsc z mbpc
+jb vstudio se me zeptal, zda reload
+D:\onedrive\Documents\Visual Studio 2008\Projects\011-POMOC-repeatSpace-bez-solutio\Milan-TextFile12.txt
+^S
+vsc vidi
+C:\Users\marti\OneDrive\Shortcuts\Visual Studio 2008\Projects\011-POMOC-repeatSpace-bez-solutio\04-Milan-TextFile12.txt
+
+
+vstudio
+file - save all
+az potom 
+file:///D:/onedrive/Documents/Visual%20Studio%202008/Projects/011-POMOC-repeatSpace-bez-solutio/011-POMOC-repeatSpace-bez-solutio.vfproj
+
+
+Milan.repeatSpace
+
+ms-edge:
+
+Family Notebook
+
+MAIL ms-outlook: FUNGUJE V CHROME
+
+
+
+
