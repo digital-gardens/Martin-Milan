@@ -20,9 +20,9 @@ there are saved web pages in markdown
 please
 try to summarize
  the content of each markdown file
-to 7 or less "slides" (sections),
-with 7 or less lines per slide,
-and roughly 7 or less words per line.
+to 10 or less sections,
+with 10 or less lines per section,
+and roughly 10 or less words per line.
 
 // no images needed, just text
 
