@@ -117,3 +117,30 @@
 - ###### vsc vidi
   - ###### - .shared.repeatSpace
   - ###### - file:///C:\Users\marti\OneDrive\Shortcuts\Visual Studio 2008\Projects\011-POMOC-repeatSpace-bez-solutio\04-Milan-TextFile12.txt 
+  -   - ###### - .shared.repeatSpace
+  - ###### - YouTube Music přidat.. písnička česká 
+  - ###### - https://music.youtube.com/playlist?list=PLC789494F36B89775
+- ###### .repeatSpace.písně.txt.písní   - - ###### .repeatSpace.písně.txt.písní 
+- ###### .repeatSpace.písně.txt
+  - - ###### .repeatSpace.písně.txt
+  - - ###### .repeatSpace.písně.txt
+  - ###### - C:\Users\marti\OneDrive\Dokumenty\00-MM\02-.rrr-.repeatSpace---SMALL-FILES\02.SMYSL...spread..shared.repeatSpace..písně.txt---dir
+  - # .repeat.lyrics.Space , namesystem 
+  - # po office app
+  - # slash-commands myUntitled
+  - ###### - 7 slides clippi Workspace 80
+- ###### "C:\Users\marti\OneDrive\Dokumenty\Summaries-of-Clippings\input"
+  - ### Slide 1: Origins
+- ###### * Lucie reformed again in 2018
+- ###### Related song: Wanastowi Vjecy – *Sbírka zvadlejch růží* (or The Beatles – *Come Together*)
+  - # Gemini Encountered an Error
+  - ###### - 7 slides clippi Workspace 80
+- ###### "C:\Users\marti\OneDrive\Dokumenty\Summaries-of-Clippings\input"
+- # math and computer notation (x R y) 
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - # ttdttg .repeat.lyrics.Space , namesystem 
+  - # rhythm t-t-d-t-t-g
+  - # rhythm "t-t-d-t-t-g"
+- ######   - Hodnocení e-mailu zubaři - Google Gemini
+  - # seznam alergenů domestique.cz - Hledat Googlem
+  - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
