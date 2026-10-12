@@ -137,6 +137,8 @@
   - ###### - 7 slides clippi Workspace 80
 - ###### "C:\Users\marti\OneDrive\Dokumenty\Summaries-of-Clippings\input"
 - # math and computer notation (x R y) 
+- ######   - Bertrand Russell and Alfred North Whitehead championed this exact format.
+  - ###### - They explicitly wanted the math to read like a natural language sentence.
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   - # ttdttg .repeat.lyrics.Space , namesystem 
   - # rhythm t-t-d-t-t-g
@@ -144,3 +146,30 @@
 - ######   - Hodnocení e-mailu zubaři - Google Gemini
   - # seznam alergenů domestique.cz - Hledat Googlem
   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  -   - ###### - They explicitly wanted the math to read like a natural language sentence.
+  - # could it have anything in common with category theory
+- ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, maps, or transforms into other objects.
+  - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+- ###### meta meta #
+  - ###### - In logic, the logical form of a statement is a precisely specified semantic version of that statement in a formal system. Informally, the logical form attempts to formalize a possibly ambiguous statement into a statement with a precise, unambiguous logical interpretation with respect to a formal sys
+  - ###### - For example, everyone loves someone.
+  - # top of wiki Topic Classifications
+  - # who uses markdown to represent knowledge graph
+  - # who uses markdown to represent a knowledge graph
+  - ###### - The second is an entity graph. A note titled 'Marie Curie' containing the sentence 'Marie discovered polonium with her husband Pierre at the University of Paris' is, structurally, one node and zero edges in a page-link graph. As an entity graph it is four typed nodes (Marie Curie as Person, Pierre C
+  - ###### - The core insight: your text editor already has a protocol for structured document access. The Language Server Protocol gives you completions, go-to-definition, references, and code actions. IWE implements LSP for Markdown knowledge bases.
+  - ###### - Inclusion links: structure without folders 
+  - ###### - When a link appears on its own line, it defines structure: “Photography” becomes the parent of the linked documents. Unlike folder hierarchies, a document can have multiple parents:
+  - ###### - Inclusion links: Multiple parents, explicit ordering, .annotations alongside links.
+  -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  - - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, maps, or transforms into other objects.
+  -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+  -   - ###### - The core insight: your text editor already has a protocol for structured document access. The Language Server Protocol gives you completions, go-to-definition, references, and code actions. IWE implements LSP for Markdown knowledge bases.
+  -   -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+  -   - - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, maps, or transforms into other objects.
+  -   - - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, ma
+    -   -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+  -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+- ###### please try to extract some entities?
