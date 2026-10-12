@@ -173,3 +173,4 @@
     -   -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
   -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
 - ###### please try to extract some entities?
+  - # hh pre upd clau
