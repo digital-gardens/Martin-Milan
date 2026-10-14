@@ -90,9 +90,9 @@
   - ###### - http://www.root.cz/clanky/gnuplot-seznamte-se/
   - ###### - https://github.com/digital-gardens/Martin-Milan/blob/main/11LAN00/Jirka/K/JBdocu/Visual%20Studio%202008/Projects/011-POMOC-repeatSpace-bez-solutio/GnuplotNnavodNew.txt
 - ###### Přehled od AI ..Pojem definiční sešit v souvislosti se jménem RNDr. Zdeňka Lauschmanna (známého a oblíbeného učitele matematiky na Arcibiskupském gymnáziu v Praze) referuje o specifickém sešitu či studijním materiálu určeném výhradně k zápisu a učení matematických definic, vět a důkazů.
-- ######   - V dobrém vzpomínám 
+- #   - V dobrém vzpomínám   na věrného 
   - ###### - November 6, 2013
-- ###### Domnívám se, ¾e vítìzství Neklasických logik je tøeba pøipisovat zejména do jmu, ¾e se jedná o nìcovýjimeèného, neobvyklého a zvlá¹tního. Zatímco geometrii øe¹itelé dobøe zna jí ze støední ¹koly a vidí v níþp ouzeÿ suchopárnou matematiku (aè tøeba velmi krásnou a elegantní), název þneklasické logikyÿ slibujenìco zcela nového a neotøelého. Mo¾ná zde svou 
+- # Domnívám se, ¾e vítìzství Neklasických logik je tøeba pøipisovat zejména do jmu, ¾e se jedná o nìcovýjimeèného, neobvyklého a zvlá¹tního. Zatímco geometrii øe¹itelé dobøe zna jí ze støední ¹koly a vidí v níþp ouzeÿ suchopárnou matematiku (aè tøeba velmi krásnou a elegantní), název þneklasické logikyÿ slibujenìco zcela nového a neotøelého. Mo¾ná zde svou 
 - ###### e svou roli hra jí i velká o èekávání vùèi lozo i tak typická ustudentù, kteøí je¹tì nemìli mo¾nost se s 
   - ###### - 1.8.10
   - ###### - Version: 1.121.0 (system setup)
@@ -128,8 +128,8 @@
   - # .repeat.lyrics.Space , namesystem 
   - # po office app
   - # slash-commands myUntitled
-  - ###### - 7 slides clippi Workspace 80
-- ###### "C:\Users\marti\OneDrive\Dokumenty\Summaries-of-Clippings\input"
+  - # - 7 slides clippi Workspace 80
+- # "C:\Users\marti\OneDrive\Dokumenty\Summaries-of-Clippings\input"
   - ### Slide 1: Origins
 - ###### * Lucie reformed again in 2018
 - ###### Related song: Wanastowi Vjecy – *Sbírka zvadlejch růží* (or The Beatles – *Come Together*)
@@ -140,9 +140,12 @@
 - ######   - Bertrand Russell and Alfred North Whitehead championed this exact format.
   - ###### - They explicitly wanted the math to read like a natural language sentence.
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
-  - # ttdttg .repeat.lyrics.Space , namesystem 
+  - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
   - # rhythm t-t-d-t-t-g
   - # rhythm "t-t-d-t-t-g"
+  - ###### - Queen – We Will Rock You - B B K – B B K –
+  - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
+  - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
 - ######   - Hodnocení e-mailu zubaři - Google Gemini
   - # seznam alergenů domestique.cz - Hledat Googlem
   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
@@ -174,3 +177,32 @@
   -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
 - ###### please try to extract some entities?
   - # hh pre upd clau
+  - # Claude Cowork and chat are now one Claude | Claude by Anthropic
+  - # Photography
+- ###### title: "Markdown knowledge graph for humans and agents"
+  - # - Example conceptual diagram
+  - # - Knowledge graph
+  - # - icon General reference
+- ###### icon General reference
+- ###### icon Technology and applied sciences
+ - ###### Main topic classifications (34 C)
+- ######  Academic disciplines (17 C, 58 P)
+ - ###### Health (36 C, 30 P)
+ - ###### Information (29 C, 41 P)
+ - ###### Knowledge (14 C, 54 P)
+ - ###### Language (33 C, 58 P)
+ - ###### Mathematics (26 C, 7 P)
+ - ###### Technology (43 C, 43 P)
+  - ###### - Psychiatric survivors movement
+  - # - Each beatboxer can produce a very large number of unique sounds, but there are three distinct linguistic categories of sound within beatboxing. Ejectives are the strong puffs of air from the voice box that give intensity to percussive sounds. The "p", "t", and "k" sounds can all be made into ejectiv
+  - ###### - Nebyly nalezeny žádné výsledky pro "b - k - b b k -" beatbox.
+  - # "b - k - b b k -" beatbox
+- ###### There is no official beatboxing alphabet but this  - d or dm- toms
+  - # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\notgrep--hand.selected-aaa.txt.md
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ######   - Ale k věci.Sobota večer cca 18hod, šturmuju na zakázce - v pondělí odevzdávám - pro neznalé: normální malej živnostník v zámečnictví.A jak na potvoru jsem chyt žhavou šponu pod brejlema do oka.V 8 už jsem neviděl a začal hledat pomoc. Telefon na nejbližší oční
+  - ###### - C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\notgrep--hand.selected-aaa.txt.md
+  - ###### - Important: On Pixel phone, some of these steps work only on Android 11 and up. Learn how to check your Android version.
+  -   - # "b - k - b b k -" beatbox
+  - # "d - k - d d k -" beatbox
+  - # .moral.right
