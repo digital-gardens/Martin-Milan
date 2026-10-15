@@ -243,3 +243,5 @@
 - ###### ahk_exe GetHelp.exe
   - # Orientace ve schématu, v grafu (+řešení) | Wakelet
   - # Orientace ve schématu, v grafu (+řešení) | Wakelet
+  - - #### Hop trop - Tři kříže 15142 x
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
