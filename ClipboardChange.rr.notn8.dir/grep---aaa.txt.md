@@ -219,3 +219,27 @@
 - ###### title: "Join the online pen tapping community. Read pen tapping forums, and watch pen tapping videos for ideas. Make yourself familiar with the sound of pen tapping, and try to copy beat patterns that you like. Search YouTube for \"pen tap\" or \"pen beats\". You'll encounter a number of people
   - ###### - Clippings\pravo na unavu.md
   - # Non-lexical vocables in music - Wikipedia
+- # # jak si vytvořit osobní informační systém v papírové podobě ... 
+- ###### který z předmětů na gymnáziu je nejblíže k tomu, aby se člověk naučil si vytvořit osobní informační systém v papírové podobě?
+  - ###### - ###### - Na gymnáziu má k tomuto tématu nejblíže předmět Informatika (případně v moderní verzi .Informatické myšlení), konkrétně jeho tematické celky zaměřené na informační systémy, správu dat a modelování reality.
+  - ###### - • Základy společenských věd (ZSV) / Psychologie: Pokud se v rámci ZSV dostanete k tématům jako psychologie učení, kognitivní věda nebo time-management, získáte představu o tom, jak funguje lidská paměť, pozornost a jak předcházet zahlcení.
+  - ###### - • Český jazyk a literatura (Sloh): Učí vás práci s textem, výpisky, konspekty a strukturování myšlenek, což přímo využijete při psaní poznámek (např. metoda Cornell nebo Zettelkasten).
+  - ###### - • Struktura dat: Učíte se, jak informace rozdělit do tabulek, kategorií a jak mezi nimi vytvářet vazby. V papírovém světě je to princip, jak propojit roční přehled, měsíční plán, denní záznamy a tematické poznámky.
+  - ###### - Analog Productivity / Paper-Based Systems: The community term for choosing paper over digital tools.
+  - ###### - PKM (Personal Knowledge Management): Specifically focuses on how you take notes, store ideas, and link thoughts together (e.g., using the Zettelkasten method or Commonplace Books).
+  - ###### - Termín "commonplace" se vztahuje k historii lidské každodennosti a znamená nestrukturované zapisování individuálně zajímavých nebo důležitých informací do formy osobních deníků. V takto komponovaných knihách se objevují různé recepty, básně, dopisy, přání a nebo modlitby. Tento termín se také vztahu
+  - ###### - John Locke byl jednou z nejvýznamnějších osobností v oblasti poznámek a indexování. Jeho názor, že paměť je křehká, ho přinutil vidět v systému commonplace způsob, jak problém s pamětí řešit.[1] Jeho metoda byla vlivná díky její flexibilitě a účinnému stylu organizace.
+  - ###### - Spočívala v tom, že všechny nadpisy použité v deníku byly vypsány na úplném začátku a seřazeny podle počátečních souhlásek a samohlásek.[7] Byly také opatřeny čísly stránek, na kterých se jednotlivá témata nacházela.[7] Tím bylo zamezeno plýtvání stránkami, když byla témata příliš krátká, a nedostat
+  - # - Druhá rovina nesouvisí s programováním, ale spíš s tím, čemu učitelé říkají informatické myšlení. Je to schopnost pracovat s problémem a umět se na něj podívat nějakým kreativním způsobem. Neztratit hlavu před problémem, před kterým třeba stojím poprvé a vůbec nevím, jak dotyčná věc funguje, nebo př
+- ###### title: ",,Informatické myšlení nesouvisí jen s počítači, ale s přístupem k životu a řešením problémů.\" (2.část)"
+- ###### !--
+  - ###### - David Ondřich, vystudovaný astrofyzik, jehož prací i radostí je programování. Vede na základní škole v Srbsku u Karlštejna programovací kroužek pro děti, o který je velký zájem. Nejraději k výuce programování u dětí používá obyčejnou tužku a papír. Organizuje společně s Hankou Šandovou v březnu již 
+  - ###### - Jedna z mých nejoblíbenějších pomůcek je v poslední době právě tužka a papír nebo fixa a tabule. Už ve druhé třídě jsou děti dost chytré a mají dost zkušeností, abychom si mohli ukazovat třeba reprezentaci čísel. Jak funguje sčítání, odčítání, násobení a jakým způsobem s čísly pracuje počítač. Občas
+  - ###### - V nejširším slova smyslu to znamená myslet jako informatik. Umět najít problém, dobře ho analyzovat, najít různé způsoby řešení a vybrat z nich ten nejlepší nebo nejúčinnější pro danou situaci. Následně umět zrealizovat vybrané řešení. Tedy celá tato škála. Postupům řešení, které používáte, se říká 
+  - ###### - Právě. Většina úloh je vymyšlená tak, že to co účastníci odevzdávají, není jen program, ale mnohem důležitější je povídání o něm. Umět popsat, jakým způsobem jsem úlohu vyřešil a přesvědčit - ###### čtenáře, že to funguje. To často není samozřejmost. Takže součástí je i uvažování o tom řešení a rozmýšlení, p
+  - ###### - http://192.168.1.1/
+- ######   - http://10.0.0.138/ (Block Set 1)
+  - # http://www.asusrouter.com/Main_Login.asp
+- ###### ahk_exe GetHelp.exe
+  - # Orientace ve schématu, v grafu (+řešení) | Wakelet
+  - # Orientace ve schématu, v grafu (+řešení) | Wakelet

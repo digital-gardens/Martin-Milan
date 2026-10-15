@@ -13953,3 +13953,4 @@ shutdown /h
 powershell_ise.exe /?
 powershell_ise.exe -MTA
 shutdown /h
+dir d:\
