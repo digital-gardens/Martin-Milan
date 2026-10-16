@@ -245,3 +245,26 @@
   - # Orientace ve schématu, v grafu (+řešení) | Wakelet
   - - #### Hop trop - Tři kříže 15142 x
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - # - http://repeater.asus.com/index.asp
+  - ###### - RP-N12 Wireless-N300 Range Extender - Quick Internet Setup
+  - # - Note: The client list automatically scans clients connected to the network subnet. Some routers and switchs may consider the scanning as suspicious activity and cause the RP-N12 to disconnect. Consider disabling client list if you are experiencing this disconnections.
+  - ###### - http://repeater.asus.com/index.asp
+  -   - ###### - http://repeater.asus.com/index.asp
+  - ###### - "d - k - ddk "
+  - ###### - osu drum pattern
+  - ###### - Velké notes (Big notes): Větší kroužky, kde zmáčknete obě odpovídající klávesy najednou pro více bodů.
+  - ###### - • Kat (Modrá): Úder na okraj bubnu (z a v na standardní klávesnici).
+  - ###### - • Don (Červená): Úder do středu bubnu (x a c na standardní klávesnici).
+  - ###### - • 1/2 rytmy: Standardní střídání nebo jednoduché sekvence (např. don-don-kat-kat), které odpovídají běžnému rytmu bicích.
+  - ###### - Antivirus False Positives: Some antivirus programs (like Windows Defender, Norton, or Malwarebytes) occasionally flag the game client or its installer as a Trojan or spyware. These alerts are almost always false positives.
+  - ###### - Community Trust: According to security checkers like Scamadviser, the domain has a high trust score and a massive, legitimate player base. 
+  - ###### - Beatmaps and Songs: Maps downloaded directly from the official website are checked and safe. Be cautious if you download custom beatmaps from unverified third-party file-sharing links.
+  - ###### - "don kat don don kat"
+  -   - # - Note: The client list automatically scans clients connected to the network subnet. Some routers and switchs may consider the scanning as suspicious activity and cause the RP-N12 to disconnect. Consider disabling client list if you are experiencing this disconnections.
+- ###### title: "osu beatles - Hledat Googlem"
+  - # - https://github.com/ppy/osu/releases#release-2026.921.0-lazer      RESTORE POINT
+  - # youtube stats for nerds  as a network diagnostic test 
+- # osu, the windows game client app, problems
+- # osu, the windows game client app, problems
+- # osu, the windows game client app, problems
+  - ###### - In a web browser, go to osu.ppy.sh/beatmapsets/3756 (“Peter Lambert – osu! tutorial”).
