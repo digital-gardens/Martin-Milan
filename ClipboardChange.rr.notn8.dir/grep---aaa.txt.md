@@ -1,5 +1,6 @@
 - ###### this is linked from  
 - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
 - # on splitting the clipboard log into the old and new parts
 - ###### CLOSE OSU 
   - - ###### CLOSE OSU 
@@ -8,7 +9,7 @@
 - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
 - # on splitting the clipboard log into th
   - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
-- # I am now analyzing and learning *.osu files
+- # file:///C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\2026-10-04.clipboard_log.rr.n8.txt.md
   - - #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
   -   -   - - ## krámek pod věží,
   -   - - ###### // firstly, I am trying to understand some sentences from the Wikipedia article  ... 
@@ -89,3 +90,44 @@
   - - ######   - http://10.0.0.138/ (Block Set 1)
   -   - # http://www.asusrouter.com/Main_Login.asp
   -   - - #### Hop trop - Tři kříže 15142 x
+  - - # osu, the windows game client app, problems
+  -   - ###### - It can also happen if Windows Firewall is blocking the game from the internet. ??
+  -   - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4
+  -   - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+  - - # ahk error .. reload button in the error message box 
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  -   - # Shortcut key reference
+  - - ###### Binary file 0111--~1/Peter Lambert - osu! tutorial (peppy) [Gameplay basics]/obsidian-drum-notation-codex-reliable-practice.zip matches
+  - - ###### - **Strawberry Fields Forever** (mapper: vito\_palmito, Graveyard)
+  - - # file:///C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\2026-10-04.clipboard_log.rr.n8.txt.md
+  - - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
+- # google keep  windows clipboard history
+  - ###### - blog ....... You CAN live well with dementia. In this blog, I document my journey into dementia and show how I cope day-to-day with the challenges of ...
+- ###### edge settings search 
+  - ###### - Worst case scenario? Your frozen pipes burst, leaving you with a massive plumbing bill and potential water damage.
+- ###### +~20SClose your eyes for a few seconds and breathe.
+- ###### Then I had a flash of genius. I remembered an interview with Dr. Stuart Shipko on Mad in America. In the interview he said he would not open taper centers because too many people could not come off antidepressants. I found his phone number on Google and left him a message. He phoned back within the hour.
+  - ###### - https://keep.google.com/#NOTE/1TIhxfb2IC1hRY0OD1Vyu230VZItghA_ZQiOMHn7LwUOrhYJ2e7yF5TMx_NEyzgI
+  - ###### - Desires #250831 ... Life is purposeful. Death is optional God is technological Love is essential ..Flancia. ..Write. Speak. Tell. Let's build a network, a mosaic. Not for revolutions, but for resonance. For the moment when someone reads your words and can finally say: "Yes. That's me.".... so much t
+  - ###### - názvy albums Google photos #AAAAa Aaaa aaa albums # sensitive words schránka clipboard #PINNED  google-photos-250318.md https://photos.google.com/
+  - ###### - karta •••• platebni  #bankovnictví #Karty 
+  - ###### - #AAAAa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, telefony, rodná čísla, NONSHADOW,  #emergency
+  - ###### - https://keep.google.com/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw
+  - # 
+- ###### Table A.1 COMPARISON OF COCAINE WITH TODAY’S ANTIDEPRESSANTS
+  - ###### - /context
+- # Claude Cowork experiment 1  
+- # // User really should TURN OFF AUTO-CLICK IN RSIGUARD 
+- # I am now analyzing and learning *.osu files
+- ###### I am trying to understand
+- ###### the correspondence
+- ###### I am planning to setting
+- ###### they become 1 bookmark
+  -   -   - # hh pre upd clau
+  -   -   - # Claude Cowork and chat are now one Claude | Claude by Anthropic
+  - ###### - Claude will take control of your screen, mouse, and keyboard to work in the apps you approve. You’ll approve each app, but not confirm each step Claude performs.
+  - ###### - Close anything sensitive. Claude can see your screen.
+  - - # Claude Cowork experiment 1  
+  -   - ###### - Close anything sensitive. Claude can see your screen.
+- # // User really should TURN OFF AUTO-CLICK IN RSIGUARD 
+  - - # // User really should TURN OFF AUTO-CLICK IN RSIGUARD 
