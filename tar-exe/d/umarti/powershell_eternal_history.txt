@@ -13954,3 +13954,6 @@ powershell_ise.exe /?
 powershell_ise.exe -MTA
 shutdown /h
 dir d:\
+explorer "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir"
+explorer "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir"
+explorer "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir"
