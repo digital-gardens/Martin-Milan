@@ -283,3 +283,8 @@
   - ## Song select
   - ## Beatmap editor
   - - #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hi
+- ##
+- ##
+- #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hit. Once again, my experience makes it a non-issue in most cases - but when I face further reading challenges I'll cover next, it *can* cause problems.
+- ###### Binary file 0111--~1/Peter Lambert - osu! tutorial (peppy) [Gameplay basics]/obsidian-drum-notation-codex-reliable-practice.zip matches
+- ###### I am now analyzing and learning
