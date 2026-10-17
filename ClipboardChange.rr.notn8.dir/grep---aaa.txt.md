@@ -7,3 +7,85 @@
 - ###### this is linked from  
 - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
 - # on splitting the clipboard log into th
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- # I am now analyzing and learning *.osu files
+  - - #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
+  -   -   - - ## krámek pod věží,
+  -   - - ###### // firstly, I am trying to understand some sentences from the Wikipedia article  ... 
+  -   - - #   - Patterson, 2017: Knowledge representation in .bicategories of relations (arxiv)
+  -   - - ###### bug testlaifrtest 
+  - - # 08-2034-SMYSL.rr  successor to 260101
+  - - ## Y-2034 
+  - - ## 08-PLAN-2034 
+  - - ###### .rrr .repeatSpace 
+  - - ###### papirova pamětová pomůcka
+  - - ###### but 0455 03 anti fragile Dr Praško naučit se zdravě riskovat 
+  -   - # Anti-Akrasia Technique: Structured Procrastination
+  - - #   - V dobrém vzpomínám   na věrného 
+  -   - ###### - November 6, 2013
+  - - # Domnívám se, ¾e vítìzství Neklasických logik je tøeba pøipisovat zejména do jmu, ¾e se jedná o nìcovýjimeèného, neobvyklého a zvlá¹tního. Zatímco geometrii øe¹itelé dobøe zna jí ze støední ¹koly a vidí v níþp ouzeÿ suchopárnou matematiku (aè tøeba velmi krásnou a elegantní), název þneklasické lo
+  -   - # - https://www.madinamerica.com/2025/04/akathisia-after-a-five-year-taper-chained-to-an-antidepressant-forever/ 
+  - - # Family Notebook 
+  -   - ###### - 1101m [ ^] sync-ikona  
+  - - ###### pokus-mb Milan.repeatSpace ... ale https://www.onenote.com/stickynotes?isEdgeHub=true je jiny  
+  -   - ###### - MAIL URL ms-outlook: FUNGUJE V CHROME  
+  -   - ######  - Todo? Office Lens 
+  - - ###### jb vstudio se me zeptal, zda reload
+  - - ###### vsc vidi
+  -   - ###### - file:///C:\Users\marti\OneDrive\Shortcuts\Visual Studio 2008\Projects\011-POMOC-repeatSpace-bez-solutio\04-Milan-TextFile12.txt 
+  -   - ###### - YouTube Music přidat.. písnička česká 
+  - - ###### .repeatSpace.písně.txt.písní   - - ###### .repeatSpace.písně.txt.písní 
+  - - ###### **Microsoft Loop** slash-commands myUntitled
+  -   - # - 7 slides clippi Workspace 80
+  - - # "C:\Users\marti\OneDrive\Dokumenty\Summaries-of-Clippings\input"
+  - - # math and computer notation (x R y) 
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  -   - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
+  -   - ###### - Queen – We Will Rock You - B B K – B B K –
+  -   - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
+  -   - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
+  - - ######   - Hodnocení e-mailu zubaři - Google Gemini
+  -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+  -   - # top of wiki Topic Classifications
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
+  - - ###### please try to extract some entities?
+  -   - # hh pre upd clau
+  -   - # Claude Cowork and chat are now one Claude | Claude by Anthropic
+  - - ###### icon General reference
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
+  - - ###### icon Technology and applied sciences
+  -  - ###### Main topic classifications (34 C)
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
+  -  - ###### Health (36 C, 30 P)
+  -  - ###### Information (29 C, 41 P)
+  -  - ###### Knowledge (14 C, 54 P)
+  -   - ###### - Psychiatric survivors movement
+  -   - # - Each beatboxer can produce a very large number of unique sounds, but there are three distinct linguistic categories of sound within beatboxing. Ejectives are the strong puffs of air from the voice box that give intensity to percussive sounds. The "p", "t", and "k" sounds can all be made into
+  - - ######   - Ale k věci.Sobota večer cca 18hod, šturmuju na zakázce - v pondělí odevzdávám - pro neznalé: normální malej živnostník v zámečnictví.A jak na potvoru jsem chyt žhavou šponu pod brejlema do oka.V 8 už jsem neviděl a začal hledat pomoc. Telefon na nejbližší oční
+  -   - ###### - C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\notgrep--hand.selected-aaa.txt.md
+  -   - ###### - file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\notgrep--hand.selected-aaa.txt.md
+  -   - # Right to Disconnect .moral.right Beginner Beatboxing
+  - - ###### title: "Právo na odpočinek a volný čas – Wikipedie"
+  - - ###### title: "Why Is Rest an Ethical Responsibility? 🌙"
+  - - ###### title: "Join the online pen tapping community. Read pen tapping forums, and watch pen tapping videos for ideas. Make yourself familiar with the sound of pen tapping, and try to copy beat patterns that you like. Search YouTube for \"pen tap\" or \"pen beats\". You'll encounter a number of pe
+  -   - ###### - Clippings\pravo na unavu.md
+  - - # # jak si vytvořit osobní informační systém v papírové podobě ... 
+  - - ###### který z předmětů na gymnáziu je nejblíže k tomu, aby se člověk naučil si vytvořit osobní informační systém v papírové podobě?
+  -   - ###### - PKM (Personal Knowledge Management): Specifically focuses on how you take notes, store ideas, and link thoughts together (e.g., using the Zettelkasten method or Commonplace Books).
+  -   - ###### - John Locke byl jednou z nejvýznamnějších osobností v oblasti poznámek a indexování. Jeho názor, že paměť je křehká, ho přinutil vidět v systému commonplace způsob, jak problém s pamětí řešit.[1] Jeho metoda byla vlivná díky její flexibilitě a účinnému stylu organizace.
+  -   - ###### - Spočívala v tom, že všechny nadpisy použité v deníku byly vypsány na úplném začátku a seřazeny podle počátečních souhlásek a samohlásek.[7] Byly také opatřeny čísly stránek, na kterých se jednotlivá témata nacházela.[7] Tím bylo zamezeno plýtvání stránkami, když byla témata příliš krátk
+  -   - # - Druhá rovina nesouvisí s programováním, ale spíš s tím, čemu učitelé říkají informatické myšlení. Je to schopnost pracovat s problémem a umět se na něj podívat nějakým kreativním způsobem. Neztratit hlavu před problémem, před kterým třeba stojím poprvé a vůbec nevím, jak dotyčná věc funguje,
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- #  meta .how to .remember.. 20261002 .Log? .Ded? a .bicategory of .logics?  of institutions? .2-.rig of logics???
+  - - ###### title: ",,Informatické myšlení nesouvisí jen s počítači, ale s přístupem k životu a řešením problémů.\" (2.část)"
+  -   - ###### - V nejširším slova smyslu to znamená myslet jako informatik. Umět najít problém, dobře ho analyzovat, najít různé způsoby řešení a vybrat z nich ten nejlepší nebo nejúčinnější pro danou situaci. Následně umět zrealizovat vybrané řešení. Tedy celá tato škála. Postupům řešení, které použív
+  -   - ###### - http://192.168.1.1/
+  - - ######   - http://10.0.0.138/ (Block Set 1)
+  -   - # http://www.asusrouter.com/Main_Login.asp
+  -   - - #### Hop trop - Tři kříže 15142 x
