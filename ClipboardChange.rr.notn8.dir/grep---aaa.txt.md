@@ -1,3 +1,5 @@
+- # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 
+- # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 20261017
 - ###### this is linked from  
 - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
 - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
@@ -131,3 +133,8 @@
   -   - ###### - Close anything sensitive. Claude can see your screen.
 - # // User really should TURN OFF AUTO-CLICK IN RSIGUARD 
   - - # // User really should TURN OFF AUTO-CLICK IN RSIGUARD 
+  - - # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 
+  - - # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 
+  - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+  - - # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 20261017
+  - ###### - Normal is a standard osu! map with 249 hit objects. The “edited” version has 237, and you changed it to BeatDivisor: 1, which means notes snap to whole beats only.
