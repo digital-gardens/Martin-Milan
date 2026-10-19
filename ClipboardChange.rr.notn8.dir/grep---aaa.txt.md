@@ -1,5 +1,5 @@
-- # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 
-- # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 20261017
+- # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr .AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
 - ###### this is linked from  
 - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
 - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
@@ -138,3 +138,22 @@
   - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
   - - # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 20261017
   - ###### - Normal is a standard osu! map with 249 hit objects. The “edited” version has 237, and you changed it to BeatDivisor: 1, which means notes snap to whole beats only.
+  - ###### - A good first rhythm lesson is in the [TimingPoints] section. The second number on each line is the length of one beat in milliseconds, so 60000 ÷ that number gives the tempo in BPM:
+  - ###### - The 4 after the beat length means 4 beats per bar (4/4 time).
+  - ###### - To open the map we want, leave the editor and go to play (song select). Pick A Hard Day’s Night → Normal, and make sure the osu! ruleset (the first circle icon at the top) is selected, not mania. Then open it in the editor, either with Ctrl+E or from the right-click / ⋯ menu on the difficulty → Edit
+  - ###### - Your RSIGuard popup says only 1 minute until a rest break, so there’s no rush. Paste the next screenshot whenever you’re back.
+- # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
+  - - ###### .repeatSpace .rrr  ⚠️❕💚🎵ℹ️⏰🆘🆕⬆️▶️🟢➡️🔰🙏❤️🙇
+- # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
+- # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
+  - - # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+  - # lyrics in markdown at github
+  - # lyrics in markdown at github
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - # lyrics in vscode
+  - - ###### czech
+  - # Drum Notation Format
+  - # Drum Notation Format

@@ -1,0 +1,77 @@
+﻿osu file format v128
+
+[General]
+AudioFilename: audio.mp3
+AudioLeadIn: 0
+PreviewTime: 38645
+Countdown: 0
+SampleSet: Normal
+StackLeniency: 0.7
+Mode: 1
+LetterboxInBreaks: 0
+UseSkinSprites: 0
+WidescreenStoryboard: 1
+
+[Editor]
+Bookmarks: 784,8407,16026,31264,38883,54121,61740,69359,76978,84597,99835,107454,115073,124597,132216,136026,166502,174121
+DistanceSpacing: 1
+BeatDivisor: 1
+GridSize: 4
+TimelineZoom: 1
+VelocityPresets: 0.75,1,1.5
+
+[Metadata]
+Title: Temptation (feat. Rebecca) (Nightcore Mix)
+TitleUnicode: Temptation (feat. Rebecca) (Nightcore Mix)
+Artist: Arash
+ArtistUnicode: Arash
+Creator: silver tail
+Version: 1New Difficulty
+Tags: english persian farsi electronic dance pop female male vocals vocalist zadig labbaf восточные сказки vostochniye vostochnyye vostochnye skazki sped speed up ver. version fujinn actiol hehe handsome forsn advu_ chidodou azrealy kratom discoboi tylerderp mortem sayuka julie paka theshadowofdark omekyu julaaaan danilmaz1 take -azumi parad0xa paradoxa daaanni mekadon
+BeatmapSetID: 2235601
+
+[Difficulty]
+HPDrainRate: 5
+CircleSize: 5
+OverallDifficulty: 5
+ApproachRate: 5
+SliderMultiplier: 1.4
+SliderTickRate: 1
+
+[Events]
+// Background and Video events
+0,0,"BG.jpg",0,0
+// Storyboard Layer 0 (Background)
+// Storyboard Layer 1 (Fail)
+// Storyboard Layer 2 (Pass)
+// Storyboard Layer 3 (Foreground)
+// Storyboard Layer 4 (Overlay)
+// Storyboard Sound Samples
+// Break Periods
+
+[TimingPoints]
+-6831,476.190476190476,4,1,0,100,1,0
+38883,-100,4,1,0,100,0,1
+46026,-100,4,1,0,100,0,0
+46502,-100,4,1,0,100,0,1
+54121,-100,4,1,0,100,0,0
+84597,-100,4,1,0,100,0,1
+91740,-100,4,1,0,100,0,0
+92216,-100,4,1,0,100,0,1
+99835,-100,4,1,0,100,0,0
+136026,-100,4,1,0,100,0,1
+150311,-100,4,1,0,100,0,0
+151264,-100,4,1,0,100,0,1
+166502,-100,4,1,0,100,0,0
+
+[Colours]
+Combo1: 255,255,176,255
+Combo2: 233,63,143,255
+Combo3: 119,119,215,255
+Combo4: 253,168,225,255
+
+[HitObjects]
+256,192,38883,1,0,1:0:0:0:
+256,192,40788,1,0,1:0:0:0:
+256,192,42692,1,0,1:0:0:0:
+256,192,46502,1,0,1:0:0:0:
