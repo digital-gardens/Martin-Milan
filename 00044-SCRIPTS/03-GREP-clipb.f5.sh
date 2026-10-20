@@ -43,6 +43,11 @@ pwd
 
 grep  -E  -i       --no-filename      '^ *[-] [- ]*[#]+'     "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep---aaa.txt.md"
 
+#20261017 1020     '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}'
+grep  -E  -i       --no-filename                                               '[btktddkx][- btkt dkddk x _. ]{5,}|[-o]{8,}'                  "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep---aaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-aaa---grep-ddk---.txt.md"
+
+
+
    #  | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'
 
 #grep         -R -E   -i       --no-filename   '^ *[-+*#]+ .{0,10}[-+*#]+'        "0111--~1"     | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'  >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"

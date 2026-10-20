@@ -1,0 +1,39 @@
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  -   - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
+  -   - ###### - Queen – We Will Rock You - B B K – B B K –
+  -   - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
+  -   - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
+  -   - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4
+  -   - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ###### *********************************   COPIED BACK FROM OTHERNUMVERWW.clipboard_log.rr.n8.txt.md   *******[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]**************************
+  - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
+  - # rhythm t-t-d-t-t-g
+  - # rhythm "t-t-d-t-t-g"
+  - ###### - Queen – We Will Rock You - B B K – B B K –    unicode b b k -    
+  - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
+  - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
+  - ###### - Nebyly nalezeny žádné výsledky pro "b - k - b b k -" beatbox.
+  - # "b - k - b b k -" beatbox
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  -   - # "b - k - b b k -" beatbox
+  - # "d - k - d d k -" beatbox
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - "d - k - ddk "
+  - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4
+  - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hi
+- #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hit. Once again, my experience makes it a non-issue in most cases - but when I face further reading challenges I'll cover next, it *can* cause problems.
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ###### *********************************end of    COPIED BACK FROM OTHERNUMBERWW.clipboard_log.rr.n8.txt.md   ************************[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]  *********
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - ###### czech | x-x-x-x-x-x-x-x-
+  -   - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4    my d d d d d d k
+  -   - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+  - - ## autohotkey VERSION2.. #aa reloaded  -------2367---------  
+  - - ## autohotkey VERSION2.. #aa reloaded  -------4438---------  
+  - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
+  - # rhythm t-t-d-t-t-g
+  - ###### - grep -o  -Ei  --no-filename '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}' *lipboa*     |sort -u >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-d-k-ddk-20261017.txt.md"

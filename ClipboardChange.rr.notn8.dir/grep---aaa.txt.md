@@ -384,3 +384,6 @@
   - - ## autohotkey VERSION2.. #aa reloaded  -------4438---------  
   - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
   - # rhythm t-t-d-t-t-g
+  - # (what I call a repeatSpace)
+  - - # .rrr  .repeatSpace .rrr  💚🎵ℹ️⏰🆘🆕⬆️▶️🟢➡️⚠️❕  🔰🙏❤️🙇 
+  - ###### - grep -o  -Ei  --no-filename '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}' *lipboa*     |sort -u >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-d-k-ddk-20261017.txt.md"
