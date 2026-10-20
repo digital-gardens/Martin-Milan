@@ -105,8 +105,18 @@
   - - ###### - **Strawberry Fields Forever** (mapper: vito\_palmito, Graveyard)
 - ###### *********************************   COPIED BACK FROM OTHERNUMVERWW.clipboard_log.rr.n8.txt.md   *******[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]**************************
   - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
-  - # rhythm t-t-d-t-t-g
-  - # rhythm "t-t-d-t-t-g"
+  - ###### - • T (nebo ti/ta) – Hi-hat (činel) nebo lehký úder paličky.
+  - ###### - • G (nebo ka/ke) – Rytmický buben (virbl / snare drum) nebo okraj bubnu (rimshot), případně hlubší přechodový buben (tom).
+  - ###### - • D (nebo du/don) – Basový buben (kopák / bass drum), který udává hluboký důraz.
+  - ###### - • G (nebo ka/ke) – Rytmický buben (virbl / snare drum) nebo okraj bubnu (rimshot), případně hlubší přechodový buben (tom).
+  - ###### - While the most common standard is B-t-K-t (B for kick, t for hi-hat, K for snare), custom strings using D (for an unvoiced tongue kick or 'du' bass) and G (for a throat bass or a 'ga' click/snare) are widely shared on platforms like the
+  - ###### - • Khafif Rhythms Archive: Websites like Jas's Middle Eastern Rhythms document hundreds of traditional patterns using string notations (such as D-D-T-T-D-T). In some variations of this notation, G is used to represent a Grab or a muted slap.
+  - ###### - • Tek (T): The high-pitched slap on the rim.
+  - ###### - • Dum (D): The deep bass stroke in the center of the drum.
+  - ###### - (551) Rhythm Syllables Kodaly, Ta Ti Ti Explained! - YouTube
+- ###### | B - t - | K - t - | B - t - | K - t - |
+- ###### | B - t - | K - - - | B - B - | K - t - |
+- ###### beatbox patterns for very well known songs?
   - ###### - Queen – We Will Rock You - B B K – B B K –    unicode b b k -    
   - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
   - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
@@ -387,3 +397,4 @@
   - # (what I call a repeatSpace)
   - - # .rrr  .repeatSpace .rrr  💚🎵ℹ️⏰🆘🆕⬆️▶️🟢➡️⚠️❕  🔰🙏❤️🙇 
   - ###### - grep -o  -Ei  --no-filename '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}' *lipboa*     |sort -u >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-d-k-ddk-20261017.txt.md"
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
