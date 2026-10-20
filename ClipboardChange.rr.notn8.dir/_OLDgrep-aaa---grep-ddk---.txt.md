@@ -1,0 +1,75 @@
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  -   - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
+  -   - ###### - Queen – We Will Rock You - B B K – B B K –
+  -   - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
+  -   - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
+  -   - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4
+  -   - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ###### *********************************   COPIED BACK FROM OTHERNUMVERWW.clipboard_log.rr.n8.txt.md   *******[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]**************************
+  - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
+  - ###### - While the most common standard is B-t-K-t (B for kick, t for hi-hat, K for snare), custom strings using D (for an unvoiced tongue kick or 'du' bass) and G (for a throat bass or a 'ga' click/snare) are widely shared on platforms like the
+  - ###### - • Khafif Rhythms Archive: Websites like Jas's Middle Eastern Rhythms document hundreds of traditional patterns using string notations (such as D-D-T-T-D-T). In some variations of this notation, G is used to represent a Grab or a muted slap.
+  - ###### - • Tek (T): The high-pitched slap on the rim. // tttttttt
+  - ###### - • Dum (D): The deep bass stroke in the center of the drum. // dddddddd
+- ###### | B - t - | K - t - | B - t - | K - t - |
+- ###### | B - t - | K - - - | B - B - | K - t - |
+  - ###### - Queen – We Will Rock You - B B K – B B K –    unicode b b k -    
+  - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
+  - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
+  - ###### - Yellow Submarine  - B - t - B - K - ???
+  - ###### - Lucy in the Sky with Diamonds   - B - t - t - B - t - t - ?
+  - ######  - Let It Be    - B - t - K - t - ???
+  - ###### - Penny Lane   - B - K - B - K -???
+  - ###### - Twist and Shout   - B - t t K - t t???
+  - ###### - In My Life nnno  ... is nneither   B - t - K - t -  nnor   - B B t - K - t - ... it is closer to K-t-K-t-K-t----- 
+  - ###### - Dancing Queen   - B - t - K - t t ???
+  - ###### - Waterloo   - B - t t K - t t ???
+  - ###### - Take A Chance On Me  ??  - B - B - B - B -   - (This is called playing "four on the floor").
+  - ###### - Mamma Mia   - B - t - K - t - ??
+  - ###### - Nebyly nalezeny žádné výsledky pro "b - k - b b k -" beatbox.
+  - # "b - k - b b k -" beatbox
+- ###### There is no official beatboxing alphabet but this  - d or dm- toms    dddddd
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ######   - 𝄆 B - t - K - t - B B t - K - t - 𝄇
+- ######   - Understand that there are many sounds to master. To get started, you should master the three basic sounds of beatboxing: the basic kick drum {b}, the hi-hat {t}, and the K snare drum {K}. Practice combining the sounds into an 8-beat rhythm like this: { b t k t / b t k t } or { b t k t / b b k t }. M
+- ######   - S |----|K---|----|K---||----|K---|----|K---|
+   - ###### H |--T-|--T-|--T-|--T-||----|----|----|----|
+    - ###### B |B---|----|B---|----||B---|----|B---|----|
+     - ###### V |----|----|----|----||--W-|--W-|--W-|--W-| W = Vocalized "What?"
+  -   - # "b - k - b b k -" beatbox
+  - # "d - k - d d k -" beatbox
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - "d - k - d d k -" drum
+  - ###### - "d - k - ddk "
+  - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4
+  - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+  - ###### - BD | o-------o-o-----
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hi
+- #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hit. Once again, my experience makes it a non-issue in most cases - but when I face further reading challenges I'll cover next, it *can* cause problems.
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- # *********************************end of    COPIED BACK FROM OTHERNUMBERWW.clipboard_log.rr.n8.txt.md   ************************[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]  *********
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  -  # czech | x-x-x-x-x-x-x-x-
+- ###### HH | x-x-x-x-x-x-x-x-
+- ###### SD | ----o-------o---
+- ###### BD | o-------o-o-----
+  - ###### - starting with the simplest ... 1 ... 1111 ... White Stripes
+  - ###### - In a simple notation, these three sounds are represented by three letters: D, T, and K. When capitalized, the beat is emphasized, and when lower-case, it is played less emphatically.[1] These basic sounds can be combined with other sounds:
+  - ###### - 1 & 2 & 3 & 4 & D-D---T-D---T---
+  - ###### - D-T---T-D---T---
+  - ###### - D-T---T-D---T---
+- ######   [DT-TD-T-] of the
+  - ###### - D-D-__T-D-__T-__| [MIDI]basic form
+  - ###### - D-T-__D-D-__T-__| [MIDI]
+  - ###### - D--T--T-D-__T-__| [MIDI]
+  -   - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4    my d d d d d d k
+  -   - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+  - - ## autohotkey VERSION2.. #aa reloaded  -------2367---------  
+  - - ## autohotkey VERSION2.. #aa reloaded  -------4438---------  
+  - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
+  - # rhythm t-t-d-t-t-g
+  - ###### - grep -o  -Ei  --no-filename '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}' *lipboa*     |sort -u >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-d-k-ddk-20261017.txt.md"
+  - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
