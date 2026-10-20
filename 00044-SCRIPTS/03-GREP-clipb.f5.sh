@@ -44,7 +44,7 @@ pwd
 grep  -E  -i       --no-filename      '^ *[-] [- ]*[#]+'     "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep---aaa.txt.md"
 
 #20261017 1020     '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}'
-grep  -E  -i       --no-filename                                               '[btktddkx][- btkt dkddk x _. ]{5,}|[-o]{8,}'                  "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep---aaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-aaa---grep-ddk---.txt.md"
+grep  -E  -i       --no-filename                                           '[|wbtktddkx][-|w   btkt dkddk x _. ]{5,}|[-o]{8,}'                  "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep---aaa.txt.md"     >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-aaa---grep-ddk---.txt.md"
 
 
 

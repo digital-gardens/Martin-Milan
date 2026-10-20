@@ -116,28 +116,37 @@
   - ###### - (551) Rhythm Syllables Kodaly, Ta Ti Ti Explained! - YouTube
 - ###### | B - t - | K - t - | B - t - | K - t - |
 - ###### | B - t - | K - - - | B - B - | K - t - |
-- ###### beatbox patterns for very well known songs?
+- # Gemini ...  beatbox patterns for very well known songs?
   - ###### - Queen – We Will Rock You - B B K – B B K –    unicode b b k -    
   - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
   - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
-  - ###### - Yellow Submarine
-  - ###### - Lucy in the Sky with Diamonds
-  - ###### - Penny Lane
-  - ###### - Dancing Queen
-  - ###### - Mamma Mia
+  - ###### - If you want to practice your waltz timing, try beatboxing along to "Norwegian Wood" by The Beatles.
+  - ###### - Yellow Submarine  - B - t - B - K - ???
+  - ###### - Lucy in the Sky with Diamonds   - B - t - t - B - t - t - ?
+  - ######  - Let It Be    - B - t - K - t - ???
+  - ###### - Penny Lane   - B - K - B - K -???
+  - ###### - Twist and Shout   - B - t t K - t t???
+  - ###### - In My Life nnno  ... is nneither   B - t - K - t -  nnor   - B B t - K - t - ... it is closer to K-t-K-t-K-t----- 
+  - ###### - Dancing Queen   - B - t - K - t t ???
+  - ###### - Waterloo   - B - t t K - t t ???
+  - ###### - Take A Chance On Me  ??  - B - B - B - B -   - (This is called playing "four on the floor").
+  - ###### - Mamma Mia   - B - t - K - t - ??
 - ######   - Hodnocení e-mailu zubaři - Google Gemini
   - # seznam alergenů domestique.cz - Hledat Googlem
   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
   -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
   -   - ###### - They explicitly wanted the math to read like a natural language sentence.
+- ###### --- 
+- ###### wikis 
   - # could it have anything in common with category theory
 - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, maps, or transforms into other objects.
   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
 - ###### meta meta #
   - ###### - In logic, the logical form of a statement is a precisely specified semantic version of that statement in a formal system. Informally, the logical form attempts to formalize a possibly ambiguous statement into a statement with a precise, unambiguous logical interpretation with respect to a formal sys
   - ###### - For example, everyone loves someone.
+- ###### source: "https://en.wikipedia.org/wiki/Logic_translation"
+- ###### title: "mass–energy equivalence"
   - # top of wiki Topic Classifications
-  - # who uses markdown to represent knowledge graph
   - # who uses markdown to represent a knowledge graph
   - ###### - The second is an entity graph. A note titled 'Marie Curie' containing the sentence 'Marie discovered polonium with her husband Pierre at the University of Paris' is, structurally, one node and zero edges in a page-link graph. As an entity graph it is four typed nodes (Marie Curie as Person, Pierre C
   - ###### - The core insight: your text editor already has a protocol for structured document access. The Language Server Protocol gives you completions, go-to-definition, references, and code actions. IWE implements LSP for Markdown knowledge bases.
@@ -147,13 +156,16 @@
   -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
   - - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, maps, or transforms into other objects.
   -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
-  -   - ###### - The core insight: your text editor already has a protocol for structured document access. The Language Server Protocol gives you completions, go-to-definition, references, and code actions. IWE implements LSP for Markdown knowledge bases.
+- # ? can you extract a knowledge graph from this text:
   -   -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  - ###### - [Alergen č. 7] — is defined as —> [Mléko / laktóza]
   -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
   -   - - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, maps, or transforms into other objects.
   -   - - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, ma
+  - ###### O[Object] -- is understood via --> M[Morphisms]
     -   -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
   -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+  - ###### - .repeatSpace\
 - ###### please try to extract some entities?
   - # hh pre upd clau
   - # Claude Cowork and chat are now one Claude | Claude by Anthropic
@@ -161,10 +173,15 @@
 - ###### title: "Markdown knowledge graph for humans and agents"
   - # - Example conceptual diagram
   - # - Knowledge graph
-  - # - icon General reference
-- ###### icon General reference
+- # icon General reference
+- ###### icon Culture and the arts
+ - ###### icon  Health and fitness
+- ###### icon Human activities
+- ###### icon Mathematics and logic
+ - ###### icon  People and self
+- ###### icon Society and social sciences
 - ###### icon Technology and applied sciences
- - ###### Main topic classifications (34 C)
+ - # Main topic classifications (34 C)
 - ######  Academic disciplines (17 C, 58 P)
  - ###### Health (36 C, 30 P)
  - ###### Information (29 C, 41 P)
@@ -172,16 +189,23 @@
  - ###### Language (33 C, 58 P)
  - ###### Mathematics (26 C, 7 P)
  - ###### Technology (43 C, 43 P)
+  - ###### - Transhumanism – international intellectual and cultural movement that affirms the possibility and desirability of fundamentally transforming the human condition by developing and making widely available technologies to eliminate aging and to greatly enhance human intellectual, physical, and psycholo
   - ###### - Psychiatric survivors movement
   - # - Each beatboxer can produce a very large number of unique sounds, but there are three distinct linguistic categories of sound within beatboxing. Ejectives are the strong puffs of air from the voice box that give intensity to percussive sounds. The "p", "t", and "k" sounds can all be made into ejectiv
   - ###### - Nebyly nalezeny žádné výsledky pro "b - k - b b k -" beatbox.
   - # "b - k - b b k -" beatbox
-- ###### There is no official beatboxing alphabet but this  - d or dm- toms
+- ###### There is no official beatboxing alphabet but this  - d or dm- toms    dddddd
   - # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\notgrep--hand.selected-aaa.txt.md
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
 - ######   - Ale k věci.Sobota večer cca 18hod, šturmuju na zakázce - v pondělí odevzdávám - pro neznalé: normální malej živnostník v zámečnictví.A jak na potvoru jsem chyt žhavou šponu pod brejlema do oka.V 8 už jsem neviděl a začal hledat pomoc. Telefon na nejbližší oční
   - ###### - file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\notgrep--hand.selected-aaa.txt.md
   - ###### - Important: On Pixel phone, some of these steps work only on Android 11 and up. Learn how to check your Android version.
+- ######   - 𝄆 B - t - K - t - B B t - K - t - 𝄇
+- ######   - Understand that there are many sounds to master. To get started, you should master the three basic sounds of beatboxing: the basic kick drum {b}, the hi-hat {t}, and the K snare drum {K}. Practice combining the sounds into an 8-beat rhythm like this: { b t k t / b t k t } or { b t k t / b b k t }. M
+- ######   - S |----|K---|----|K---||----|K---|----|K---|
+   - ###### H |--T-|--T-|--T-|--T-||----|----|----|----|
+    - ###### B |B---|----|B---|----||B---|----|B---|----|
+     - ###### V |----|----|----|----||--W-|--W-|--W-|--W-| W = Vocalized "What?"
   -   - # "b - k - b b k -" beatbox
   - # "d - k - d d k -" beatbox
   - ###### - In addwition to singing words, some a cappella singers also emulate instrumentation by reproducing instrumental sounds with their vocal cords and mouth, often pitched using specialised pitch pipes. One of the earliest 20th century practitioners of this method were The Mills Brothers.[101] More recent
@@ -398,3 +422,4 @@
   - - # .rrr  .repeatSpace .rrr  💚🎵ℹ️⏰🆘🆕⬆️▶️🟢➡️⚠️❕  🔰🙏❤️🙇 
   - ###### - grep -o  -Ei  --no-filename '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}' *lipboa*     |sort -u >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-d-k-ddk-20261017.txt.md"
   - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - ###### --- 

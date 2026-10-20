@@ -18,9 +18,26 @@
   - ###### - Queen – We Will Rock You - B B K – B B K –    unicode b b k -    
   - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
   - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
+  - ###### - Yellow Submarine  - B - t - B - K - ???
+  - ###### - Lucy in the Sky with Diamonds   - B - t - t - B - t - t - ?
+  - ######  - Let It Be    - B - t - K - t - ???
+  - ###### - Penny Lane   - B - K - B - K -???
+  - ###### - Twist and Shout   - B - t t K - t t???
+  - ###### - In My Life nnno  ... is nneither   B - t - K - t -  nnor   - B B t - K - t - ... it is closer to K-t-K-t-K-t----- 
+  - ###### - Dancing Queen   - B - t - K - t t ???
+  - ###### - Waterloo   - B - t t K - t t ???
+  - ###### - Take A Chance On Me  ??  - B - B - B - B -   - (This is called playing "four on the floor").
+  - ###### - Mamma Mia   - B - t - K - t - ??
   - ###### - Nebyly nalezeny žádné výsledky pro "b - k - b b k -" beatbox.
   - # "b - k - b b k -" beatbox
+- ###### There is no official beatboxing alphabet but this  - d or dm- toms    dddddd
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ######   - 𝄆 B - t - K - t - B B t - K - t - 𝄇
+- ######   - Understand that there are many sounds to master. To get started, you should master the three basic sounds of beatboxing: the basic kick drum {b}, the hi-hat {t}, and the K snare drum {K}. Practice combining the sounds into an 8-beat rhythm like this: { b t k t / b t k t } or { b t k t / b b k t }. M
+- ######   - S |----|K---|----|K---||----|K---|----|K---|
+   - ###### H |--T-|--T-|--T-|--T-||----|----|----|----|
+    - ###### B |B---|----|B---|----||B---|----|B---|----|
+     - ###### V |----|----|----|----||--W-|--W-|--W-|--W-| W = Vocalized "What?"
   -   - # "b - k - b b k -" beatbox
   - # "d - k - d d k -" beatbox
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
