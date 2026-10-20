@@ -1,7 +1,6 @@
 
 # todo .. alternative names for the concept
 
-// my biological memory is ... hard to change
 
 for me,
 a #repeatSpace
@@ -37,16 +36,21 @@ or AIs
 
 - analogous to paper examples above
 
-- what is trello? 
-- a kanban board for todo lists?
-- a to-do list in e.g. Outlook //// for my dad  
-
 - a spaced repetition system 
   - a flashcard app that repeats questions at increasing intervals
   - Anki, SuperMemo, Mnemosyne, etc.
 
+
+- a to-do list in e.g. Outlook //// for my dad  
+- what is trello? 
+- what is a kanban board?
+
+
 - MEMORY.md, AGENTS.md ,  HUMANS.md
   - a file that is read and edited repeatedly
+
+// my biological memory is ... hard to change
+
 
 - sometimes even filenames, dirnames, folder, album names can be "abused" as reminders #rr #yy
 
