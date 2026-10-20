@@ -206,6 +206,7 @@
    - ###### H |--T-|--T-|--T-|--T-||----|----|----|----|
     - ###### B |B---|----|B---|----||B---|----|B---|----|
      - ###### V |----|----|----|----||--W-|--W-|--W-|--W-| W = Vocalized "What?"
+  - # oh really??? - When it says D, do a quick double bass kick. ??? why not Dum
   -   - # "b - k - b b k -" beatbox
   - # "d - k - d d k -" beatbox
   - ###### - In addwition to singing words, some a cappella singers also emulate instrumentation by reproducing instrumental sounds with their vocal cords and mouth, often pitched using specialised pitch pipes. One of the earliest 20th century practitioners of this method were The Mills Brothers.[101] More recent
@@ -220,9 +221,10 @@
 - ###### title: "Right to rest and leisure"
 - ###### title: "Právo na odpočinek a volný čas – Wikipedie"
 - ###### title: "Why Is Rest an Ethical Responsibility? 🌙"
-- ###### title: "Join the online pen tapping community. Read pen tapping forums, and watch pen tapping videos for ideas. Make yourself familiar with the sound of pen tapping, and try to copy beat patterns that you like. Search YouTube for \"pen tap\" or \"pen beats\". You'll encounter a number of people
+- # title: "Join the online pen tapping community. Read pen tapping forums, and watch pen tapping videos for ideas. Make yourself familiar with the sound of pen tapping, and try to copy beat patterns that you like. Search YouTube for \"pen tap\" or \"pen beats\". You'll encounter a number of people
   - ###### - Clippings\pravo na unavu.md
 - ###### a..právo.na.únavu   4    .rrr
+- ######   - a vůbec nikdo už mu neupírá právo na únavu.“
   - # Non-lexical vocables in music - Wikipedia
 - # # jak si vytvořit osobní informační systém v papírové podobě ... 
 - ###### který z předmětů na gymnáziu je nejblíže k tomu, aby se člověk naučil si vytvořit osobní informační systém v papírové podobě?
@@ -246,13 +248,19 @@
 - ######   - http://10.0.0.138/ (Block Set 1)
   - # http://www.asusrouter.com/Main_Login.asp
 - ###### ahk_exe GetHelp.exe
+  - ###### - Její archiv obsahuje více než tisíc úloh, které sestavovali odborníci z mnoha zemí; ty byly odladěny v mezinárodním recenzním procesu, vybrány pro české školy a poté otestovány na desetitisících žáků, soutěžících v národních kolech soutěže.
   - # Orientace ve schématu, v grafu (+řešení) | Wakelet
   - # Orientace ve schématu, v grafu (+řešení) | Wakelet
+  - ###### - Řešení krizí: Rozbor nečekané překážky na menší kroky namísto paniky z celkového problému. 
+  - ###### - Podpora čtenářské samostatnosti (Mentor)
+  - ###### - person[hasSon=>man].
   - - #### Hop trop - Tři kříže 15142 x
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ######   - a..knowledge-graph 4 a
+  - ###### - "d - k - d d k -" drum
   - # - http://repeater.asus.com/index.asp
   - ###### - RP-N12 Wireless-N300 Range Extender - Quick Internet Setup
-  - # - Note: The client list automatically scans clients connected to the network subnet. Some routers and switchs may consider the scanning as suspicious activity and cause the RP-N12 to disconnect. Consider disabling client list if you are experiencing this disconnections.
+  - # nnn Note: The client list automatically scans clients connected to the network subnet. Some routers and switchs may consider the scanning as suspicious activity and cause the RP-N12 to disconnect. Consider disabling client list if you are experiencing this disconnections.
   - ###### - http://repeater.asus.com/index.asp
   -   - ###### - http://repeater.asus.com/index.asp
   - ###### - "d - k - ddk "
@@ -261,30 +269,51 @@
   - ###### - • Kat (Modrá): Úder na okraj bubnu (z a v na standardní klávesnici).
   - ###### - • Don (Červená): Úder do středu bubnu (x a c na standardní klávesnici).
   - ###### - • 1/2 rytmy: Standardní střídání nebo jednoduché sekvence (např. don-don-kat-kat), které odpovídají běžnému rytmu bicích.
+  - ###### - • Don (Červená): Úder do středu bubnu (x a c na standardní klávesnici). nnn   d f ?  f g ? j k ?
+  - ###### - • Kat (Modrá): Úder na okraj bubnu (z a v na standardní klávesnici).
+  - ###### - • 1/2 rytmy: Standardní střídání nebo jednoduché sekvence (např. don-don-kat-kat), které odpovídají běžnému rytmu bicích.
   - ###### - Antivirus False Positives: Some antivirus programs (like Windows Defender, Norton, or Malwarebytes) occasionally flag the game client or its installer as a Trojan or spyware. These alerts are almost always false positives.
   - ###### - Community Trust: According to security checkers like Scamadviser, the domain has a high trust score and a massive, legitimate player base. 
   - ###### - Beatmaps and Songs: Maps downloaded directly from the official website are checked and safe. Be cautious if you download custom beatmaps from unverified third-party file-sharing links.
   - ###### - "don kat don don kat"
   -   - # - Note: The client list automatically scans clients connected to the network subnet. Some routers and switchs may consider the scanning as suspicious activity and cause the RP-N12 to disconnect. Consider disabling client list if you are experiencing this disconnections.
 - ###### title: "osu beatles - Hledat Googlem"
+- ###### source: "https://osu.ppy.sh/wiki/en/Music_theory"
   - ###### - The downbeat is the impulse that occurs at the beginning of a bar in measured music. Its name is derived from the downward stroke of the director or conductor's baton on the first beat of each measure. It frequently carries the strongest accent of the rhythmic cycle.
+- ######   - The official and proper way to pronounce it is "ossss," not "oh-sue." There are several interviews where peppy/Dean Herbert (the game creator) pronounced it as "ossss."
   - ###### - Kukuřičná krupice (84 %), kukuřičná vláknina (13,7 %), jedlá sůl s jódem (jedlá sůl, jodičnan draselný), kmín. Může obsahovat stopy obilovin obsahujících lepek, mléka a výrobků z něj, sóji, arašídů a lískových ořechů
   - ###### - Lehká křupavá svačinka bohatá na vlákninu, pukáno v extra virgin olivovém oleji, se špetkou soli pro lahodnou chuť. 
   - # - https://github.com/ppy/osu/                     releases   #release-2026.921.0-lazer  - ###### RESTORE POINT
+- ###### it  auto downloaded the newest version    
   - # youtube stats for nerds  as a network diagnostic test 
+  - ###### - • If dropped frames spike without the buffer health dropping, the issue is local hardware/GPU bottleneck (e.g., weak CPU, browser acceleration disabled, or background efficiency modes limiting your browser).
+  - ###### - If dropped frames coincide with a dying buffer, the issue is network throughput.
+  - ###### - Diagnostic use: Older hardware may struggle to hardware-decode modern codecs like AV1, causing high CPU usage and stuttering, whereas modern codecs deliver better quality at lower bitrates.
 - ######   - account settings‬ · dashboard‬ | ‭osu!‬
 - # osu, the windows game client app, problems
 - # osu, the windows game client app, problems
 - # osu, the windows game client app, problems
   - ###### - In a web browser, go to osu.ppy.sh/beatmapsets/3756 (“Peter Lambert – osu! tutorial”).
-  - ###### - It can also happen if Windows Firewall is blocking the game from the internet. ??
-- ###### rhythm "10101010" 
+  - # - It can also happen if Windows Firewall is blocking the game from the internet. ??
+- # rhythm "10101010" 
+  - ###### - The 4-on-the-Floor Pulse: On a standard 8-step grid spanning one measure of 4/4 time, each 1 lands exactly on the main downbeats (1, 2, 3, 4). This creates a steady, metronome-like foundation.
 - ###### music rhythm "10201020" 
   - - ###### music rhythm "10201020" 
   - - ###### music rhythm "10201120"
+- ###### Beat	1	and	2	and	3	and	4	and
 - ###### Instrument	🥁 Kick		💥 Snare		🥁 Kick	🥁 Kick	💥 Snare
+  - ###### - • Rock & Pop Staples: This is one of the most common drum variations in acoustic drumming. You hear it in classic rock tracks (like Queen's "We Will Rock You" feel) and modern pop music.
+  - ###### - Drum grid (Electronic Music Wiki)
+  - ###### - rhythm game taiko
+  - ###### - Žlutý pruh (Drumroll): Hráč musí do bubnu bušit co nejrychleji jakýmikoliv údery (libovolné střídání 🔴 a 🔵), aby nahrál extra body.
+  - ###### - Balónek (Balloon note): Na obrazovce se objeví číslo a hráč musí stisknout 🔴 (Don) přesně tolikrát, dokud balónek nepraskne.
+  - ###### - Zajímá vás, jak si vyzkoušet Taiko simulátor přímo v prohlížeči nebo přes komunitní modifikace jako osu!taiko?
+  - ###### - osu!taiko is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of the game. In this article, I'd like to introduce the possible challenges in judging difficulty 
+- ######   - The phrasing of the Rolling Stones' song "Satisfaction" is a good example of syncopation.[6] It is derived here from its theoretic unsyncopated form, a repeated trochee (¯ ˘ ¯ ˘). A backbeat transformation is applied to "I" and "can't", and then a before-the-beat transformation is applied to "can't"
+  - ###### - Kritérium kvality: Do této verze byly vybrány pouze skladby v režimu Ranked s obtížností Insane, které mají alespoň 200 oblíbených položek (favorites) a obsahují komplexnější časové body (timing points) vzdálené od sebe minimálně 5 sekund, což zaručuje vysokou přesnost lidských anotací.
   - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4
   - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+  - ###### - BD | o-------o-o-----
 - ###### I would like to see the tablature
 - ###### I would like to see the tablature
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
@@ -292,13 +321,22 @@
   - # haRD-day
   - - ###### osu   rhythm
   - # Shortcut key reference
+  - ###### - | `F10` | Toggle   /enablement? of/    all mouse buttons (except for the mouse wheel, which is always enabled). |
+  - ###### - | `Shift` + `F1` | Open [osu!status](https://twitter.com/osustatus) on your web browser. (Only when a connection error appears.) |
   - ## Song select
+  - ###### - | `Ctrl` + `F4` or `Ctrl` + `-` | Decrease the osu!mania scroll speed (while in osu!mania mode). |
+  - ###### - **Note:** Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.
   - ## Beatmap editor
+  - ###### - | `Shift` + `Left Arrow` or `Shift` + `Right Arrow` | Skip through the song at 4x speed. |
+  - ###### - | `Ctrl` + `B` | Add a bookmark at the current timestamp. |
+  - ###### - | `Ctrl` + `Up/Down Arrow` | Increase/decrease the playback speed by 25%. |
   - - #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hi
 - ##
 - ##
 - #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hit. Once again, my experience makes it a non-issue in most cases - but when I face further reading challenges I'll cover next, it *can* cause problems.
 - ###### Binary file 0111--~1/Peter Lambert - osu! tutorial (peppy) [Gameplay basics]/obsidian-drum-notation-codex-reliable-practice.zip matches
+- ###### - **Come Together** (mapper: sstari)
+- ###### - **Yellow Submarine** (mapper: Superpenguin226)
 - ###### - **Strawberry Fields Forever** (mapper: vito\_palmito, Graveyard)
 - ###### -  Bmp 97 Capo D-0 C-2 G-7 1. Déšť ti, holka, smáčel vlasy, smáčel vlasy z tvých očí zbyl prázdnej kruh, kde je ...  
   - ###### - Tags: english pop rock respirte fsjallink mismagius blue dragon john lennon paul mccartney george harrison ringo starr days
@@ -306,17 +344,18 @@
   -   - # Claude Cowork and chat are now one Claude | Claude by Anthropic
   - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
-- ###### *********************************end of    COPIED BACK FROM OTHERNUMBERWW.clipboard_log.rr.n8.txt.md   ************************[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]  *********
+- # *********************************end of    COPIED BACK FROM OTHERNUMBERWW.clipboard_log.rr.n8.txt.md   ************************[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]  *********
   - - # file:///C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\2026-10-04.clipboard_log.rr.n8.txt.md
   - - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
 - # google keep  windows clipboard history
   - ###### - blog ....... You CAN live well with dementia. In this blog, I document my journey into dementia and show how I cope day-to-day with the challenges of ...
 - ###### edge settings search 
   - ###### - Worst case scenario? Your frozen pipes burst, leaving you with a massive plumbing bill and potential water damage.
+  - ###### - Můžete také koupit speciální ventily vybavené systémem s nuceným přivzdušňováním. Jakmile se použijí, ventil se vyprázdní a nezůstane v něm žádná voda, která by mohla zamrznout. Pomáhají i chrániče kohoutků. Ty ostatně můžete pořád ještě rychle pořídit teď.
 - ###### +~20SClose your eyes for a few seconds and breathe.
 - ###### Then I had a flash of genius. I remembered an interview with Dr. Stuart Shipko on Mad in America. In the interview he said he would not open taper centers because too many people could not come off antidepressants. I found his phone number on Google and left him a message. He phoned back within the hour.
   - ###### - https://keep.google.com/#NOTE/1TIhxfb2IC1hRY0OD1Vyu230VZItghA_ZQiOMHn7LwUOrhYJ2e7yF5TMx_NEyzgI
-  - ###### - Desires #250831 ... Life is purposeful. Death is optional God is technological Love is essential ..Flancia. ..Write. Speak. Tell. Let's build a network, a mosaic. Not for revolutions, but for resonance. For the moment when someone reads your words and can finally say: "Yes. That's me.".... so much t
+  - # - Desires #250831 ... Life is purposeful. Death is optional God is technological Love is essential ..Flancia. ..Write. Speak. Tell. Let's build a network, a mosaic. Not for revolutions, but for resonance. For the moment when someone reads your words and can finally say: "Yes. That's me.".... so much t
   - ###### - názvy albums Google photos #AAAAa Aaaa aaa albums # sensitive words schránka clipboard #PINNED  google-photos-250318.md https://photos.google.com/
   - ###### - karta •••• platebni  #bankovnictví #Karty 
   - ###### - #AAAAa Aaaa EMAILY.txt, e-maily nejnovější verze 241.8, KONTAKTY, nová telefonní čísla, telefony, rodná čísla, NONSHADOW,  #emergency
@@ -325,12 +364,14 @@
 - ###### Table A.1 COMPARISON OF COCAINE WITH TODAY’S ANTIDEPRESSANTS
   - ###### - /context
 - # Claude Cowork experiment 1  
-- # // User really should TURN OFF AUTO-CLICK IN RSIGUARD 
+- # //  ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 
 - # I am now analyzing and learning *.osu files
-- ###### I am trying to understand
+- ###### I am trying to understand a bit of music rhythm theory
+- ###### firstly, can you see my osu app screen
 - ###### the correspondence
 - ###### I am planning to setting
 - ###### they become 1 bookmark
+- ###### or because I set the 1/2 1/4 control  to 1/1
   -   -   - # hh pre upd clau
   -   -   - # Claude Cowork and chat are now one Claude | Claude by Anthropic
   - ###### - Claude will take control of your screen, mouse, and keyboard to work in the apps you approve. You’ll approve each app, but not confirm each step Claude performs.
@@ -343,7 +384,7 @@
   - - # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 
   - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
   - - # // ⚠️ User really should TURN OFF AUTO-CLICK IN RSIGUARD 20261017
-  - ###### - Normal is a standard osu! map with 249 hit objects. The “edited” version has 237, and you changed it to BeatDivisor: 1, which means notes snap to whole beats only.
+  - # - Normal is a standard osu! map with 249 hit objects. The “edited” version has 237, and you changed it aaa  to BeatDivisor: 1, which means notes snap to whole beats only.
   - ###### - A good first rhythm lesson is in the [TimingPoints] section. The second number on each line is the length of one beat in milliseconds, so 60000 ÷ that number gives the tempo in BPM:
   - ###### - The 4 after the beat length means 4 beats per bar (4/4 time).
   - ###### - To open the map we want, leave the editor and go to play (song select). Pick A Hard Day’s Night → Normal, and make sure the osu! ruleset (the first circle icon at the top) is selected, not mania. Then open it in the editor, either with Ctrl+E or from the right-click / ⋯ menu on the difficulty → Edit
@@ -358,11 +399,25 @@
   - - # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
   - # lyrics in markdown at github
   - # lyrics in markdown at github
+  - ###### - [Eb]May, a possi[D#]bility\
+  - ###### - [CΔ913]So, — I'd [C6]like to see Bra[Fmaj9]zil . . . . .[F6(9)]\
+  - ###### - Perhaps it's not beautiful, but to my eyes it's legible and more informative. You could even play/perform from it, if needed, and it makes it easy to spot alignment errors. LyriChord uses periods to provide an obvious indication of where the beats (and chords) fall, also providing a sense of when ch
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - The beginning and end of a repeated phrase can be indicated using the colon :, with the number of colons indicating the number of additional repeats. In the example below, the first line is played a total of three times (continuing with the bird theme... excerpt from Rockin Robin, by Leon René under
   - # lyrics in vscode
-  - - ###### czech | x-x-x-x-x-x-x-x-
+  -  # czech | x-x-x-x-x-x-x-x-
+- ###### ```drums
+- ###### HH | x-x-x-x-x-x-x-x-
+- ###### SD | ----o-------o---
+- ###### BD | o-------o-o-----
+- ###### ```
   - # Drum Notation Format
   - # Drum Notation Format
+  - ###### - Rymovac.cz – Vyhledávač rýmů a nástroj k rýmování básní
+  - ###### - A 2009 report published by McAfee found that, in terms of potential exposure to malware, lyrics-related searches and searches containing the word "free" are the most likely to have risky results from search engines, both in terms of average risk of all results, and maximum risk of any result.[17]
+  - ###### - In the International Phonetic Alphabet (IPA), the full stop ⟨.⟩ marks syllable breaks, as in the word "astronomical" ⟨/ˌæs.trə.ˈnɒm.ɪk.əl/⟩.
+  - ###### - In practice, however, IPA transcription is typically divided into words by spaces, and often these spaces are also understood to be syllable breaks. In addition, the stress mark ⟨ˈ⟩ is placed immediately before a stressed syllable, and when the stressed syllable is in the middle of a word, in practi
+  - ###### - After eating sevenTEEN, PICKLES did not scare him
   - - ###### classification of simple rhythm patterns 
   - - ###### classification of simple rhythm patterns 
   - - ###### 𝅗 ♪ ♭ 𝆒 ♪ 𝅗 𝄋 𝄞 ♭ 𝆑 ♪ 𝄊
@@ -375,17 +430,25 @@
   - - ###### rytmohrátky 
   - - ###### rytmogramy
   -   - - ###### classification of simple rhythm patterns 
+  - ###### - • Dvojdobé metr (Duple meter): Opakující se vzor s těžkou dobou (přízvukem) a slabou dobou (např. 2/4 nebo 4/4 takt: silná – slabá nebo silná – slabá – středně silná – slabá).
+  - ###### - • Trojdobé metr (Triple meter): Vzor se třemi dobami v taktu, kde první doba je silná a následující dvě slabé (např. 3/4 takt: silná – slabá – slabá, typické pro valčík).
   - ###### - Simple Duple (2/4 time): Two beats per measure, dividing into pairs of eighth notes (Strong – weak).
   - ###### - • Simple Triple (3/4 time): Three beats per measure, typical for a waltz (Strong – weak – weak).
   - ###### - • Syncopated: Patterns where the accent is shifted from the strong beat to a weak beat or an "off-beat," creating rhythmic tension.
+  - ###### - Music and rhythm are rooted in every known culture. What parent does not use rhythmic rocking to soothe a crying baby? The repetitive sounds and silences that comprise rhythmic patterns make dancing possible, aid in the memory and reproduction of music, and facilitate group singing, playing, or drum
   - ###### - Rhythm for Health
-  - ###### - Disorders such as Parkinson’s disease, for example. After all, walking is a rhythm. Numerous studies have found that other disorders that involve movement, such as aphasia, stuttering, difficulty with respiration, swallowing, and speaking, respond to music therapy.
+  - ###### - First mentioned by the American Medical Association in 1914, music therapy was put to work helping wounded World War I soldiers recover from their injuries, including what we now call traumatic brain injury. Rhythm-based therapy has a growing status in recovery from concussion and other brain injuri
+  - ###### - Disorders such as Parkinson’s disease, for example. After all, walking is a rhythm. Numerous studies have found that other disorders that involve movement, such as aphasia, stuttering, 
+- ####   difficulty with respiration, swallowing, and speaking, respond to music therapy.
+  - ###### - Nina Kraus, a neuroscientist who has done pathbreaking research on sound and hearing for more than 30 years, is Hugh Knowles Professor of Neurobiology, Communication Sciences, and Otolaryngology at Northwestern University. She is the author of “Of Sound Mind: How Our Brain Constructs a Meaningful So
 - ###### restart ms ~~ input experience 
  - ###### enumeration of simple rhythm patterns
   -  - ###### enumeration of simple rhythm patterns
   - # enumeration of simple rhythm patterns
 - # discrete mathematics and simple rhythm patterns over Z2, Z3, Z4
 - # discrete mathematics and simple rhythm patterns 
+- ###### EDIT: periodic, not harmonic
+- ###### in Z3, the periodic sequence 0, 1, 0, -1,     0, 1, 0, -1, ...
 - ## Z2
 - ### 1
 - ### 10
@@ -397,18 +460,43 @@
   - - # discrete mathematics and simple rhythm patterns over Z2, Z3, Z4
   - - ### 10
   - - ### 1100
+  - ###### - Writing these words now may not seem profound, but at the time, I felt like I’d come across the Holy Grail. A few weeks later, and quite by chance, I learned that a friend of mine actually knew Harrison, who as it turned out, lived less than two miles from my house. My friend felt sure that this ico
+- ###### source: "https://davidaldridge.wordpress.com/tag/rhythm-pattern-theory/"
+  - ###### - We parted cordially, and I drove home in a state of bliss. I’d finally found not only someone who understand what I was doing but who had explored it in a similar way and had given me his blessing of sorts to carry on the work. A year later, I moved to Washington D.C. to use the Library of Congress 
 - # discrete mathematics and simple rhythm patterns over Z2, Z3, Z4
 - ## Z2
 - ### 1
 - ### 10
 - ### 1100
 - ### 111000
+  - ###### - examples of songs for some patterns
+  - ###### - starting with the simplest ... 1 ... 1111 ... White Stripes
+  - ###### - 🎶 These endless, radiating digital frequencies bring to mind "Across the Universe" by The Beatles. 📻📡
   - ### examples of songs for 2121
   - - # discrete mathematics and simple rhythm patterns over Z2, Z3, Z4
   - - # discrete mathematics and simple rhythm patterns 
+  - ###### - • Four-on-the-floor (Basic House Beat): [1, 0, 1, 0, 1, 0, 1, 0] (Hitting exactly on the quarter notes).
+- ###### rhythm	n	k	pattern	notable works
+- ###### Rock beat	4	2	x.x.
+- ###### Four on the floor	4	4	xxxx	I Feel Love
+  - ###### - In a simple notation, these three sounds are represented by three letters: D, T, and K. When capitalized, the beat is emphasized, and when lower-case, it is played less emphatically.[1] These basic sounds can be combined with other sounds:
+- ###### source: "https://en.wikipedia.org/wiki/Dumbek_rhythms"
+  - ###### - The following lines from The Beatles' "Lucy in the Sky with Diamonds" demonstrate this, the scansion being:
+  - ###### - 1 & 2 & 3 & 4 & D-D---T-D---T---
+  - ###### - Capitals represent stressed beats. Dum (D) is the dominant hand on the middle of the drum, Tek (T) either the dominant or the non-dominant hand on the rim of the drum. Ka (k) is usually the non-dominant hand on the rim of the drum.
+  - ###### - D-T---T-D---T---
+  - ###### - D-T---T-D---T---
+- ######   [DT-TD-T-] of the
+  - ###### - D-D-__T-D-__T-__| [MIDI]basic form
+  - ###### - D-T-__D-D-__T-__| [MIDI]
+  - ###### - D--T--T-D-__T-__| [MIDI]
+  - ###### - repeatSpace
   - # (what I call a repeatSpace)
+  - ###### - // my biological memory is ... hard to change
   - # (what I call a repeatSpace)
   - # todo .. alternative names for the concept
+- ###### repeatSpace() {
+  - ###### head -c $1 < /dev/zero | tr '\0' ' '
   - ## 2. Settings (header)
 - # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
 - # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
@@ -418,6 +506,7 @@
   - - ## autohotkey VERSION2.. #aa reloaded  -------4438---------  
   - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
   - # rhythm t-t-d-t-t-g
+- ###### copy of  - - ###### *********************************   COPIED BACK FROM OTHERNUMVERWW.clipboard_log.rr.n8.txt.md   *********************************
   - # (what I call a repeatSpace)
   - - # .rrr  .repeatSpace .rrr  💚🎵ℹ️⏰🆘🆕⬆️▶️🟢➡️⚠️❕  🔰🙏❤️🙇 
   - ###### - grep -o  -Ei  --no-filename '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}' *lipboa*     |sort -u >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-d-k-ddk-20261017.txt.md"

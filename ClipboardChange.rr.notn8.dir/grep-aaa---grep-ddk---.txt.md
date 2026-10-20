@@ -41,16 +41,30 @@
   -   - # "b - k - b b k -" beatbox
   - # "d - k - d d k -" beatbox
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - "d - k - d d k -" drum
   - ###### - "d - k - ddk "
   - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4
   - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+  - ###### - BD | o-------o-o-----
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   - - #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hi
 - #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hit. Once again, my experience makes it a non-issue in most cases - but when I face further reading challenges I'll cover next, it *can* cause problems.
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
-- ###### *********************************end of    COPIED BACK FROM OTHERNUMBERWW.clipboard_log.rr.n8.txt.md   ************************[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]  *********
+- # *********************************end of    COPIED BACK FROM OTHERNUMBERWW.clipboard_log.rr.n8.txt.md   ************************[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]  *********
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
-  - - ###### czech | x-x-x-x-x-x-x-x-
+  -  # czech | x-x-x-x-x-x-x-x-
+- ###### HH | x-x-x-x-x-x-x-x-
+- ###### SD | ----o-------o---
+- ###### BD | o-------o-o-----
+  - ###### - starting with the simplest ... 1 ... 1111 ... White Stripes
+  - ###### - In a simple notation, these three sounds are represented by three letters: D, T, and K. When capitalized, the beat is emphasized, and when lower-case, it is played less emphatically.[1] These basic sounds can be combined with other sounds:
+  - ###### - 1 & 2 & 3 & 4 & D-D---T-D---T---
+  - ###### - D-T---T-D---T---
+  - ###### - D-T---T-D---T---
+- ######   [DT-TD-T-] of the
+  - ###### - D-D-__T-D-__T-__| [MIDI]basic form
+  - ###### - D-T-__D-D-__T-__| [MIDI]
+  - ###### - D--T--T-D-__T-__| [MIDI]
   -   - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4    my d d d d d d k
   -   - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
   - - ## autohotkey VERSION2.. #aa reloaded  -------2367---------  
