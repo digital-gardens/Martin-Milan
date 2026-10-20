@@ -1,3 +1,5 @@
+- # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
 - # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr .AUTO-CLICK .rrr IN RSIGUARD 20261017
 - # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
 - ###### this is linked from  
@@ -101,6 +103,176 @@
   -   - # Shortcut key reference
   - - ###### Binary file 0111--~1/Peter Lambert - osu! tutorial (peppy) [Gameplay basics]/obsidian-drum-notation-codex-reliable-practice.zip matches
   - - ###### - **Strawberry Fields Forever** (mapper: vito\_palmito, Graveyard)
+- ###### *********************************   COPIED BACK FROM OTHERNUMVERWW.clipboard_log.rr.n8.txt.md   *******[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]**************************
+  - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
+  - # rhythm t-t-d-t-t-g
+  - # rhythm "t-t-d-t-t-g"
+  - ###### - Queen – We Will Rock You - B B K – B B K –    unicode b b k -    
+  - ###### - (This is a waltz, so you count in threes).   - B - t - t - B - t - t -
+  - ###### - The White Stripes – Seven Nation Army   - B - B - B - B -
+  - ###### - Yellow Submarine
+  - ###### - Lucy in the Sky with Diamonds
+  - ###### - Penny Lane
+  - ###### - Dancing Queen
+  - ###### - Mamma Mia
+- ######   - Hodnocení e-mailu zubaři - Google Gemini
+  - # seznam alergenů domestique.cz - Hledat Googlem
+  - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  -   - ###### - They explicitly wanted the math to read like a natural language sentence.
+  - # could it have anything in common with category theory
+- ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, maps, or transforms into other objects.
+  - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+- ###### meta meta #
+  - ###### - In logic, the logical form of a statement is a precisely specified semantic version of that statement in a formal system. Informally, the logical form attempts to formalize a possibly ambiguous statement into a statement with a precise, unambiguous logical interpretation with respect to a formal sys
+  - ###### - For example, everyone loves someone.
+  - # top of wiki Topic Classifications
+  - # who uses markdown to represent knowledge graph
+  - # who uses markdown to represent a knowledge graph
+  - ###### - The second is an entity graph. A note titled 'Marie Curie' containing the sentence 'Marie discovered polonium with her husband Pierre at the University of Paris' is, structurally, one node and zero edges in a page-link graph. As an entity graph it is four typed nodes (Marie Curie as Person, Pierre C
+  - ###### - The core insight: your text editor already has a protocol for structured document access. The Language Server Protocol gives you completions, go-to-definition, references, and code actions. IWE implements LSP for Markdown knowledge bases.
+  - ###### - Inclusion links: structure without folders 
+  - ###### - When a link appears on its own line, it defines structure: “Photography” becomes the parent of the linked documents. Unlike folder hierarchies, a document can have multiple parents:
+  - ###### - Inclusion links: Multiple parents, explicit ordering, .annotations alongside links.
+  -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  - - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, maps, or transforms into other objects.
+  -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+  -   - ###### - The core insight: your text editor already has a protocol for structured document access. The Language Server Protocol gives you completions, go-to-definition, references, and code actions. IWE implements LSP for Markdown knowledge bases.
+  -   -   - # Alergen č. 7 (Mléko – laktóza) musí být podle zákona vždy vyznačen u konkrétního jídla na tabuli nebo v tištěném lístku v bistru.
+  -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+  -   - - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, maps, or transforms into other objects.
+  -   - - ######   - Category Theory: It is often called the "mathematics of relationships". It states that you cannot understand an object by looking inside it; you understand it by looking at its morphisms (arrows)—how it connects, ma
+    -   -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+  -   - ###### - Computer scientists have since demonstrated that many programming design patterns are just ad-hoc, informal implementations of Category Theory concepts
+- ###### please try to extract some entities?
+  - # hh pre upd clau
+  - # Claude Cowork and chat are now one Claude | Claude by Anthropic
+  - # Photography
+- ###### title: "Markdown knowledge graph for humans and agents"
+  - # - Example conceptual diagram
+  - # - Knowledge graph
+  - # - icon General reference
+- ###### icon General reference
+- ###### icon Technology and applied sciences
+ - ###### Main topic classifications (34 C)
+- ######  Academic disciplines (17 C, 58 P)
+ - ###### Health (36 C, 30 P)
+ - ###### Information (29 C, 41 P)
+ - ###### Knowledge (14 C, 54 P)
+ - ###### Language (33 C, 58 P)
+ - ###### Mathematics (26 C, 7 P)
+ - ###### Technology (43 C, 43 P)
+  - ###### - Psychiatric survivors movement
+  - # - Each beatboxer can produce a very large number of unique sounds, but there are three distinct linguistic categories of sound within beatboxing. Ejectives are the strong puffs of air from the voice box that give intensity to percussive sounds. The "p", "t", and "k" sounds can all be made into ejectiv
+  - ###### - Nebyly nalezeny žádné výsledky pro "b - k - b b k -" beatbox.
+  - # "b - k - b b k -" beatbox
+- ###### There is no official beatboxing alphabet but this  - d or dm- toms
+  - # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\notgrep--hand.selected-aaa.txt.md
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ######   - Ale k věci.Sobota večer cca 18hod, šturmuju na zakázce - v pondělí odevzdávám - pro neznalé: normální malej živnostník v zámečnictví.A jak na potvoru jsem chyt žhavou šponu pod brejlema do oka.V 8 už jsem neviděl a začal hledat pomoc. Telefon na nejbližší oční
+  - ###### - file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\notgrep--hand.selected-aaa.txt.md
+  - ###### - Important: On Pixel phone, some of these steps work only on Android 11 and up. Learn how to check your Android version.
+  -   - # "b - k - b b k -" beatbox
+  - # "d - k - d d k -" beatbox
+  - ###### - In addwition to singing words, some a cappella singers also emulate instrumentation by reproducing instrumental sounds with their vocal cords and mouth, often pitched using specialised pitch pipes. One of the earliest 20th century practitioners of this method were The Mills Brothers.[101] More recent
+  - ###### - A cappella groups such as Five o-clock Shadow, The House Jacks, Rockapella, Overboard, SoVoSo, -   Transit and Naturally 7 are well known for further advancing the art and its popularity.
+  - # .moral.right
+  - ###### - Po skončení v práci máte morální právo na odpočinek, regeneraci a volný čas, což vyvažuje váš výdej energie a podporuje psychickou i fyzickou pohodu.
+  - # Right to Disconnect .moral.right Beginner Beatboxing
+  - # Right to Disconnect  Beginner Beatboxing .moral.right
+  - # Right to Disconnect  Beatboxing .moral.right
+  - ###### - • Burnout Prevention: Clear boundaries between professional and personal life allow the brain to fully recharge.
+  - #  Beatboxing  pravo na unavu Right to Disconnect.moral.right
+- ###### title: "Right to rest and leisure"
+- ###### title: "Právo na odpočinek a volný čas – Wikipedie"
+- ###### title: "Why Is Rest an Ethical Responsibility? 🌙"
+- ###### title: "Join the online pen tapping community. Read pen tapping forums, and watch pen tapping videos for ideas. Make yourself familiar with the sound of pen tapping, and try to copy beat patterns that you like. Search YouTube for \"pen tap\" or \"pen beats\". You'll encounter a number of people
+  - ###### - Clippings\pravo na unavu.md
+- ###### a..právo.na.únavu   4    .rrr
+  - # Non-lexical vocables in music - Wikipedia
+- # # jak si vytvořit osobní informační systém v papírové podobě ... 
+- ###### který z předmětů na gymnáziu je nejblíže k tomu, aby se člověk naučil si vytvořit osobní informační systém v papírové podobě?
+  - ###### - ###### - Na gymnáziu má k tomuto tématu nejblíže předmět Informatika (případně v moderní verzi .Informatické myšlení), konkrétně jeho tematické celky zaměřené na informační systémy, správu dat a modelování reality.
+  - ###### - • Základy společenských věd (ZSV) / Psychologie: Pokud se v rámci ZSV dostanete k tématům jako psychologie učení, kognitivní věda nebo time-management, získáte představu o tom, jak funguje lidská paměť, pozornost a jak předcházet zahlcení.
+  - ###### - • Český jazyk a literatura (Sloh): Učí vás práci s textem, výpisky, konspekty a strukturování myšlenek, což přímo využijete při psaní poznámek (např. metoda Cornell nebo Zettelkasten).
+  - ###### - • Struktura dat: Učíte se, jak informace rozdělit do tabulek, kategorií a jak mezi nimi vytvářet vazby. V papírovém světě je to princip, jak propojit roční přehled, měsíční plán, denní záznamy a tematické poznámky.
+  - ###### - Analog Productivity / Paper-Based Systems: The community term for choosing paper over digital tools.
+  - ###### - PKM (Personal Knowledge Management): Specifically focuses on how you take notes, store ideas, and link thoughts together (e.g., using the Zettelkasten method or Commonplace Books).
+  - ###### - Termín "commonplace" se vztahuje k historii lidské každodennosti a znamená nestrukturované zapisování individuálně zajímavých nebo důležitých informací do formy osobních deníků. V takto komponovaných knihách se objevují různé recepty, básně, dopisy, přání a nebo modlitby. Tento termín se také vztahu
+  - ###### - John Locke byl jednou z nejvýznamnějších osobností v oblasti poznámek a indexování. Jeho názor, že paměť je křehká, ho přinutil vidět v systému commonplace způsob, jak problém s pamětí řešit.[1] Jeho metoda byla vlivná díky její flexibilitě a účinnému stylu organizace.
+  - ###### - Spočívala v tom, že všechny nadpisy použité v deníku byly vypsány na úplném začátku a seřazeny podle počátečních souhlásek a samohlásek.[7] Byly také opatřeny čísly stránek, na kterých se jednotlivá témata nacházela.[7] Tím bylo zamezeno plýtvání stránkami, když byla témata příliš krátká, a nedostat
+  - # - Druhá rovina nesouvisí s programováním, ale spíš s tím, čemu učitelé říkají informatické myšlení. Je to schopnost pracovat s problémem a umět se na něj podívat nějakým kreativním způsobem. Neztratit hlavu před problémem, před kterým třeba stojím poprvé a vůbec nevím, jak dotyčná věc funguje, nebo př
+- ###### title: ",,Informatické myšlení nesouvisí jen s počítači, ale s přístupem k životu a řešením problémů.\" (2.část)"
+- ###### !--
+  - ###### - David Ondřich, vystudovaný astrofyzik, jehož prací i radostí je programování. Vede na základní škole v Srbsku u Karlštejna programovací kroužek pro děti, o který je velký zájem. Nejraději k výuce programování u dětí používá obyčejnou tužku a papír. Organizuje společně s Hankou Šandovou v březnu již 
+  - ###### - Jedna z mých nejoblíbenějších pomůcek je v poslední době právě tužka a papír nebo fixa a tabule. Už ve druhé třídě jsou děti dost chytré a mají dost zkušeností, abychom si mohli ukazovat třeba reprezentaci čísel. Jak funguje sčítání, odčítání, násobení a jakým způsobem s čísly pracuje počítač. Občas
+  - ###### - V nejširším slova smyslu to znamená myslet jako informatik. Umět najít problém, dobře ho analyzovat, najít různé způsoby řešení a vybrat z nich ten nejlepší nebo nejúčinnější pro danou situaci. Následně umět zrealizovat vybrané řešení. Tedy celá tato škála. Postupům řešení, které používáte, se říká 
+  - ###### - Právě. Většina úloh je vymyšlená tak, že to co účastníci odevzdávají, není jen program, ale mnohem důležitější je povídání o něm. Umět popsat, jakým způsobem jsem úlohu vyřešil a přesvědčit - ###### čtenáře, že to funguje. To často není samozřejmost. Takže součástí je i uvažování o tom řešení a rozmýšlení, p
+  - ###### - http://192.168.1.1/
+- ######   - http://10.0.0.138/ (Block Set 1)
+  - # http://www.asusrouter.com/Main_Login.asp
+- ###### ahk_exe GetHelp.exe
+  - # Orientace ve schématu, v grafu (+řešení) | Wakelet
+  - # Orientace ve schématu, v grafu (+řešení) | Wakelet
+  - - #### Hop trop - Tři kříže 15142 x
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - # - http://repeater.asus.com/index.asp
+  - ###### - RP-N12 Wireless-N300 Range Extender - Quick Internet Setup
+  - # - Note: The client list automatically scans clients connected to the network subnet. Some routers and switchs may consider the scanning as suspicious activity and cause the RP-N12 to disconnect. Consider disabling client list if you are experiencing this disconnections.
+  - ###### - http://repeater.asus.com/index.asp
+  -   - ###### - http://repeater.asus.com/index.asp
+  - ###### - "d - k - ddk "
+  - ###### - osu drum pattern
+  - ###### - Velké notes (Big notes): Větší kroužky, kde zmáčknete obě odpovídající klávesy najednou pro více bodů.
+  - ###### - • Kat (Modrá): Úder na okraj bubnu (z a v na standardní klávesnici).
+  - ###### - • Don (Červená): Úder do středu bubnu (x a c na standardní klávesnici).
+  - ###### - • 1/2 rytmy: Standardní střídání nebo jednoduché sekvence (např. don-don-kat-kat), které odpovídají běžnému rytmu bicích.
+  - ###### - Antivirus False Positives: Some antivirus programs (like Windows Defender, Norton, or Malwarebytes) occasionally flag the game client or its installer as a Trojan or spyware. These alerts are almost always false positives.
+  - ###### - Community Trust: According to security checkers like Scamadviser, the domain has a high trust score and a massive, legitimate player base. 
+  - ###### - Beatmaps and Songs: Maps downloaded directly from the official website are checked and safe. Be cautious if you download custom beatmaps from unverified third-party file-sharing links.
+  - ###### - "don kat don don kat"
+  -   - # - Note: The client list automatically scans clients connected to the network subnet. Some routers and switchs may consider the scanning as suspicious activity and cause the RP-N12 to disconnect. Consider disabling client list if you are experiencing this disconnections.
+- ###### title: "osu beatles - Hledat Googlem"
+  - ###### - The downbeat is the impulse that occurs at the beginning of a bar in measured music. Its name is derived from the downward stroke of the director or conductor's baton on the first beat of each measure. It frequently carries the strongest accent of the rhythmic cycle.
+  - ###### - Kukuřičná krupice (84 %), kukuřičná vláknina (13,7 %), jedlá sůl s jódem (jedlá sůl, jodičnan draselný), kmín. Může obsahovat stopy obilovin obsahujících lepek, mléka a výrobků z něj, sóji, arašídů a lískových ořechů
+  - ###### - Lehká křupavá svačinka bohatá na vlákninu, pukáno v extra virgin olivovém oleji, se špetkou soli pro lahodnou chuť. 
+  - # - https://github.com/ppy/osu/                     releases   #release-2026.921.0-lazer  - ###### RESTORE POINT
+  - # youtube stats for nerds  as a network diagnostic test 
+- ######   - account settings‬ · dashboard‬ | ‭osu!‬
+- # osu, the windows game client app, problems
+- # osu, the windows game client app, problems
+- # osu, the windows game client app, problems
+  - ###### - In a web browser, go to osu.ppy.sh/beatmapsets/3756 (“Peter Lambert – osu! tutorial”).
+  - ###### - It can also happen if Windows Firewall is blocking the game from the internet. ??
+- ###### rhythm "10101010" 
+- ###### music rhythm "10201020" 
+  - - ###### music rhythm "10201020" 
+  - - ###### music rhythm "10201120"
+- ###### Instrument	🥁 Kick		💥 Snare		🥁 Kick	🥁 Kick	💥 Snare
+  - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4
+  - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+- ###### I would like to see the tablature
+- ###### I would like to see the tablature
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- # ahk error .. reload button in the error message box 
+  - # haRD-day
+  - - ###### osu   rhythm
+  - # Shortcut key reference
+  - ## Song select
+  - ## Beatmap editor
+  - - #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hi
+- ##
+- ##
+- #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hit. Once again, my experience makes it a non-issue in most cases - but when I face further reading challenges I'll cover next, it *can* cause problems.
+- ###### Binary file 0111--~1/Peter Lambert - osu! tutorial (peppy) [Gameplay basics]/obsidian-drum-notation-codex-reliable-practice.zip matches
+- ###### - **Strawberry Fields Forever** (mapper: vito\_palmito, Graveyard)
+- ###### -  Bmp 97 Capo D-0 C-2 G-7 1. Déšť ti, holka, smáčel vlasy, smáčel vlasy z tvých očí zbyl prázdnej kruh, kde je ...  
+  - ###### - Tags: english pop rock respirte fsjallink mismagius blue dragon john lennon paul mccartney george harrison ringo starr days
+  -   - # hh pre upd clau
+  -   - # Claude Cowork and chat are now one Claude | Claude by Anthropic
+  - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ###### *********************************end of    COPIED BACK FROM OTHERNUMBERWW.clipboard_log.rr.n8.txt.md   ************************[ btkt dkddk  ]{4,7}[^ btkt dkddk  ]  *********
   - - # file:///C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\2026-10-04.clipboard_log.rr.n8.txt.md
   - - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
 - # google keep  windows clipboard history
@@ -154,7 +326,7 @@
   - # lyrics in markdown at github
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   - # lyrics in vscode
-  - - ###### czech
+  - - ###### czech | x-x-x-x-x-x-x-x-
   - # Drum Notation Format
   - # Drum Notation Format
   - - ###### classification of simple rhythm patterns 
@@ -200,3 +372,15 @@
   - ### examples of songs for 2121
   - - # discrete mathematics and simple rhythm patterns over Z2, Z3, Z4
   - - # discrete mathematics and simple rhythm patterns 
+  - # (what I call a repeatSpace)
+  - # (what I call a repeatSpace)
+  - # todo .. alternative names for the concept
+  - ## 2. Settings (header)
+- # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
+  -   - ###### - S|----o-------o---|----o-------o---|----o-------o---|   - Back In The Ussr Drums  - Song uses 4/4 and 2/4    my d d d d d d k
+  -   - ###### - https://vkamolov.github.io/obsidian-drum-notation/ - SD | ----o-------o---
+  - - ## autohotkey VERSION2.. #aa reloaded  -------2367---------  
+  - - ## autohotkey VERSION2.. #aa reloaded  -------4438---------  
+  - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
+  - # rhythm t-t-d-t-t-g
