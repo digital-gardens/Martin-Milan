@@ -11,6 +11,8 @@
   - # .ddb.ddr  ttdttg .repeat.lyrics.Space , namesystem 
   - ###### - While the most common standard is B-t-K-t (B for kick, t for hi-hat, K for snare), custom strings using D (for an unvoiced tongue kick or 'du' bass) and G (for a throat bass or a 'ga' click/snare) are widely shared on platforms like the
   - ###### - • Khafif Rhythms Archive: Websites like Jas's Middle Eastern Rhythms document hundreds of traditional patterns using string notations (such as D-D-T-T-D-T). In some variations of this notation, G is used to represent a Grab or a muted slap.
+  - ###### - • Tek (T): The high-pitched slap on the rim. // tttttttt
+  - ###### - • Dum (D): The deep bass stroke in the center of the drum. // dddddddd
 - ###### | B - t - | K - t - | B - t - | K - t - |
 - ###### | B - t - | K - - - | B - B - | K - t - |
   - ###### - Queen – We Will Rock You - B B K – B B K –    unicode b b k -    
