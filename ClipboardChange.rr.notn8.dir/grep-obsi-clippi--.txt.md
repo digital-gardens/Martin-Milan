@@ -36,6 +36,14 @@
 - ###### If only 1/2 and 1/4 rhythms were used, the game would be much boring than it is right now! Now introducing: 1/6 and 1/8 notes!
 - ###### (`k__d` notes have 1/4 spacing, `k_d` have 1/6 spacing, my markdown formatter forces me to use `_`).
 - ###### To condense the notation, I'll write the above like `kddd(kkkd)d(kddk)dk` and `(kk)(dd)kdkkd` from now on, which is widely used in the osu!taiko community (alongside other less popular notations)
+- ### 012
+- ### 210
+- ### 201
+- ### 1120
+- ### 0123
+- ### 3020
+- ### 1320
+- ### 3312
 - ### While Alexander did not explicitly use Category Theory to build his 1977 framework, both approaches are fundamentally obsessed with **relationships, composition, and structure-preserving transformations** rather than individual, isolated objects.
 - ###### The Wikidata Query Builder provides a visual interface for building a simple Wikidata query. It is ideal for users with little or no experience in [SPARQL](https://www.wikidata.org/wiki/Special:MyLanguage/Wikidata:SPARQL_tutorial), the powerful query language. The Query Builder doesn't offer SPARQL's full functionality, but you can always open your query in the Query Service, where you can view, edit or expand it via the link above the results. [Feedback is welcome here](https://www.wikidata.org/wiki/Wikidata_talk:Query_Builder).
 - ###### Copy link to query

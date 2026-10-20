@@ -157,3 +157,46 @@
   - - ###### czech
   - # Drum Notation Format
   - # Drum Notation Format
+  - - ###### classification of simple rhythm patterns 
+  - - ###### classification of simple rhythm patterns 
+  - - ###### 𝅗 ♪ ♭ 𝆒 ♪ 𝅗 𝄋 𝄞 ♭ 𝆑 ♪ 𝄊
+  - - ###### ★ ☼ ☼ * ○ ♥ ○ * * ♥ ♫ ♀ ♂ ♫ ♥ * * ♥ ♦ ► ♫ ◄ ♥ * * ♥ ☺ ▬ ♥ ☺ ♥ ▬ ☺ ♥ * * ♥ ♥ ▬ ♠ ♥
+  - - ###### ★ ☼ ☼ * ○ ♥ ○ * * ♥ ♫ ♀ ♂ ♫ ♥ * * ♥ ♦ ► ♫ ◄ ♥ * * ♥ ☺ ▬ ♥ ☺ ♥ ▬ ☺ ♥ * * ♥ ♥ ▬ ♠ ♥
+  - - ###### rhythm "10101010" 
+  -   - - ###### classification of simple rhythm patterns 
+  - - ###### rhythmic patterns
+  -   - - ###### classification of simple rhythm patterns 
+  - - ###### rytmohrátky 
+  - - ###### rytmogramy
+  -   - - ###### classification of simple rhythm patterns 
+  - ###### - Simple Duple (2/4 time): Two beats per measure, dividing into pairs of eighth notes (Strong – weak).
+  - ###### - • Simple Triple (3/4 time): Three beats per measure, typical for a waltz (Strong – weak – weak).
+  - ###### - • Syncopated: Patterns where the accent is shifted from the strong beat to a weak beat or an "off-beat," creating rhythmic tension.
+  - ###### - Rhythm for Health
+  - ###### - Disorders such as Parkinson’s disease, for example. After all, walking is a rhythm. Numerous studies have found that other disorders that involve movement, such as aphasia, stuttering, difficulty with respiration, swallowing, and speaking, respond to music therapy.
+- ###### restart ms ~~ input experience 
+ - ###### enumeration of simple rhythm patterns
+  -  - ###### enumeration of simple rhythm patterns
+  - # enumeration of simple rhythm patterns
+- # discrete mathematics and simple rhythm patterns over Z2, Z3, Z4
+- # discrete mathematics and simple rhythm patterns 
+- ## Z2
+- ### 1
+- ### 10
+- ### 1100
+- ### 111000
+- ## Z3
+- ## Z4
+  - - ### 1
+  - - # discrete mathematics and simple rhythm patterns over Z2, Z3, Z4
+  - - ### 10
+  - - ### 1100
+- # discrete mathematics and simple rhythm patterns over Z2, Z3, Z4
+- ## Z2
+- ### 1
+- ### 10
+- ### 1100
+- ### 111000
+  - ### examples of songs for 2121
+  - - # discrete mathematics and simple rhythm patterns over Z2, Z3, Z4
+  - - # discrete mathematics and simple rhythm patterns 
