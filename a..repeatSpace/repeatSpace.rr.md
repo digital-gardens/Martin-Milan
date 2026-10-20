@@ -1,11 +1,13 @@
 
 # todo .. alternative names for the concept
 
+// my biological memory is ... hard to change
+
 for me
 a #repeatSpace
 is
 a paper or computer memory space
-that helps
+that helps 
 to repeat
 ideas
 (words, phrases, sentences)
@@ -15,7 +17,7 @@ or AIs
 
 
 # // wikipedia category: Note-taking?
-//// wiki replicators of Dawkins ... 
+//// wiki ..  replicators of Dawkins ... new search failed
 
 # examples
 
