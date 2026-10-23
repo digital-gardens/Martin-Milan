@@ -1,3 +1,5 @@
+- #    𝄆 repeatSpace 𝄇
+- #    ||: repeatSpace :||
 - # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
 - # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
 - # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr .AUTO-CLICK .rrr IN RSIGUARD 20261017
@@ -512,3 +514,78 @@
   - ###### - grep -o  -Ei  --no-filename '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}' *lipboa*     |sort -u >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-d-k-ddk-20261017.txt.md"
   - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   - - ###### --- 
+- # 2026-10-20  20:26:00  end of w w -------------------------------  - HH | x-x-x-x-x-x-x-x-
+  - - ######   - 𝄆 B - t - K - t - B B t - K - t - 𝄇
+  -   - ###### - • Tek (T): The high-pitched slap on the rim. // tttttttt
+  -   - ###### - • Dum (D): The deep bass stroke in the center of the drum. // dddddddd
+  - ###### - Např. hihihi, chachacha, hohoho (při smíchu), křup, chrup (při jídle), lalala, nanana (při zpívání), fuk (při foukání), fí (při dýchání).
+  - ###### - • Buben (hluboký úder): bum, pam, pum, bác
+  - ###### - Note hits / strokes: Letters or symbols like x, o, or * show when an instrument is played.
+  - ###### - Rrests / silence: Dashes (-), dots (.), or empty spaces show sustained notes or rests.
+  - ###### - write |, ||, |:, :|, :|:, |]
+  - ###### - "On a dark desert highway"
+  - ###### - | Yes-ter-day -- | -- | -- -- All my | trou-bles seemed so | far -- a-way | --
+  - ###### - | Yes-ter-day -- | -- | -- -- All my | trou-bles seemed so | far a- <| way
+  - # - 12. 2. 2017 — To make "Da", you need to hold your pen horizontally above the table, then drop it vertically straight down to make the whole surface of the pen ...
+  - ###### - The Click/Tap is the tapping of the tip of the pen. The Snare/Slap is just slapping the pen down. Beat 1: 1222 322 12 123 222.
+  - ###### - • 1 (Bass / Thud): A low-pitched hit using the palm, wrist, or flat part of the pen/hand against the table.
+  - ###### - • 2 (Hi-Hat / Click / Tap): A sharp, high-pitched tap using the tip or side of the pen.
+  - ###### - • 3 (Snare / Slap): A sharper or louder slap using multiple fingers or the body of the pen.
+  - ###### - • T / S / B NotationAlternative: Often written as T (Tap), S (Smack), and B (Boom).
+  - ###### - Pen beat charts look like a string of digits someone typed by mistake: 1 2 3 0 1 3 2 0. Once you know which number belongs to which stroke and how the rows line up against the beat, that string becomes a groove you can play within ten minutes. This guide covers the conventions most charts follow, ho
+  - ###### - Most charts use numbers from 1 to 6. In the common convention, 1 and 2 are the two ends of the pen — the nib and the cap — 3 is the barrel laid flat against the desk for a duller, broader thud, and 4 to 6 cover hand sounds such as a finger tap, a knuckle rap or the heel of the palm. A zero means sil
+  - ###### - The catch is that this is a convention, not a law. Different players assign the numbers slightly differently, and plenty of charts only use 1, 2 and 3. Before you play a single note, read the key printed at the top. If there is no key, work it out by sound: play each number once and listen to what i
+- ###### source: "https://www.penbeat.co.uk/how-to-read-pen-beat-notation-and-tab/"
+- ###### Beat 1: 123112131
+  - ###### - I will write patterns as two lines. The top line is the count, the bottom line is what you play. T means tap, K means knock, and a dash means leave the slot empty and let the sound breathe.
+  - ###### - Count: 1 & 2 & 3 & 4 & — Play: K – T – K – T –
+  -   - - ######   - 𝄆 B - t - K - t - B B t - K - t - 𝄇
+  - - #    𝄆 repeatSpace 𝄇
+  - - #    ||: repeatSpace :||
+  -   -   - - ## krámek pod věží,
+  - - # ||: repeatSpace :||
+  - - ###### b or bm- bass drum
+  - - ###### k- standard snare
+  - - ###### t or ts- closed hi-hat
+  - - ###### d or dm- toms
+  -   -   - - ## krámek pod věží,
+  - ###########
+  - ###### - This beat is used in hits like Billie Jean (Michael Jackson), We Will Rock You (Queen), and Seven Nation Army (The White Stripes).
+  - ###### - Bass Drum → Bottom line
+  - ###### - Snare Drum → Middle space
+  - ###### - Hi-Hat → Top space (with an “x” notehead)
+  - - ###### [ |o] Enable all tasks History
+  - # 0111.ddk.rrr
+  - # 0111.ddk.rrr
+  - - # ||: .repeatSpace // .0111.ddk.rrr 🎵 :||
+  - - # .0111.ddk.rrr 
+  - - # .0111.ddk.rrr 
+  - - # .0111.rr 
+  - - # ||: .repeatSpace // .0111.ddk.rrr 🎵 :||
+  - # Rhythm language
+- ###### https://osu.ppy.sh/users/40670162
+- ###### https://chat.google.com/u/0/app/chat/AAAAgQfY7nw
+- ###### https://melokai.com/pricing
+- ###### dokumenty 
+  - # github rhythm language
+  - # online encyclopedia of w
+  - # encyclopedia of rhy
+  - # encyclopedia of beat
+  - # encyclopedia of drum
+  - # encyclopedia of drum patterns
+  - # encyclopedia of drum patterns - Hledat Googlem
+  - # encyclopedia of drum patterns
+  - # encyclopedia of beat patterns
+  - # encyclopedia of rhythm patterns
+  - # encyclopedia of beatbox patterns
+  - # wiki of drum patterns
+  - # (608) The Voice- MB14 Beatbox Gangsta's Paradise - YouTube
+  - # (608) The Voice- MB14 Beatbox Gangsta's Paradise - YouTube
+  - # MB14 Beatbox 20261024
+  - # MB14 Beatbox 20261024 - Saved
+  - # MB14 Beatbox 20261024 - Saved
+  - - ###### lemon demon
+  - - ###### lemon demon
+  - - ###### dassin 
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - ###### kde koupit mp3 hudbu

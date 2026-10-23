@@ -73,3 +73,11 @@
   - # rhythm t-t-d-t-t-g
   - ###### - grep -o  -Ei  --no-filename '[btktddkx][- btkt dkddk x *_. ]{6,}|[-o]{8,}' *lipboa*     |sort -u >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-d-k-ddk-20261017.txt.md"
   - - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- # 2026-10-20  20:26:00  end of w w -------------------------------  - HH | x-x-x-x-x-x-x-x-
+  - - ######   - 𝄆 B - t - K - t - B B t - K - t - 𝄇
+  -   - ###### - • Tek (T): The high-pitched slap on the rim. // tttttttt
+  -   - ###### - • Dum (D): The deep bass stroke in the center of the drum. // dddddddd
+  - ###### - | Yes-ter-day -- | -- | -- -- All my | trou-bles seemed so | far -- a-way | --
+  - ###### - | Yes-ter-day -- | -- | -- -- All my | trou-bles seemed so | far a- <| way
+  -   - - ######   - 𝄆 B - t - K - t - B B t - K - t - 𝄇
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
