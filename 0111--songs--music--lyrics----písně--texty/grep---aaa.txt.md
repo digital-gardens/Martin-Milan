@@ -26,7 +26,7 @@
 - ℹ️ #aaaa Tak jako jazyk stále naráží na vylomenej zub tak se vracím k svýmu nádra-ží, abych šel zas dál, přede mnou stíny se ...
 - ℹ️ #aa Jedu takhle tábořit Škodou 100 na Oravu, spěchám proto, riskuji, projíždím přes Moravu. Řádí tam to strašidlo, ...
 - ℹ️ #aaa Intro: Bmp 111 Byly krásný naše plány, byla jsi můj celej svět čas je vzal a nechal rány, starší jsme jen o ...
-- ℹ️ #aaaa *Dsus2*, 130 bpm Nad stádem koní Podkovy zvoní, zvoní Černý vůz vlečou A slzy tečou a já volám: 1. Tak neplač můj ...
+  - ℹ️ #aaaa *Dsus2*, 130 bpm Nad stádem koní Podkovy zvoní, zvoní Černý vůz vlečou A slzy tečou a já volám: 1. Tak neplač můj ...
 - ℹ️ #aa *G*, 80 bpm 1. Nandej mi do hlavy tvý brouky A bůh nám seber beznaděj V duši zbylo světlo z jedný holky Tak mi teď ...
 -  ### ℹ️ #aaaaa Bmp 80 1. Z Těšína vyjíždí vlaky co čtvrthodinu, včera jsem nespal a ani dnes nespočinu, svatý Medard, můj ...
 - ℹ️ #aa Bmp 160 Darmo sa ty trápíš můj milý synečku nenosím ja tebe nenosím v srdéčku A já tvojá nebudu ani jednu hodinu ...
@@ -358,6 +358,10 @@
 -  #aaa Když Sever válčí s Jihem a zem jde do války na polích místo bavlny teď rostou bodláky. Ve stínu u silnice vidím z ...  
 -  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...  
 - # #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední   
+Binary file 0111--~1/a..CD-ripped..mp3.dir/disk---d/Users/milanlocal/Music/03-Men.mp3 matches
+Binary file 0111--~1/a..CD-ripped..mp3.dir/disk---d/Users/milanlocal/Music/abba - Track 01.mp3 matches
+Binary file 0111--~1/a..CD-ripped..mp3.dir/disk---d/Users/milanlocal/Music/aneta - Track 12.mp3 matches
+Binary file 0111--~1/a..CD-ripped..mp3.dir/disk---d/Users/milanlocal/Music/SWEET LITTLE SOMETHING-1.wma matches
 -  - #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851  
 -  [Do You Want to Know a Secret](https://www.karaoketexty.cz/texty-pisni/beatles-the/do-you-want-to-know-a-secret-3246) 8 458  
 -  \*C\*, 145 bpm 1. Mám ploché nohy po tetě A fantazii po svém strýci Už dlouho šlapu po světě A nevím, co mám o něm ...  
@@ -379,16 +383,6 @@
 - **Date:** 7/26/2024
 - **URL:** https://nesslabs.com/glasp-featured-tool
 - # stál jsem a hleděl jsem, hleděl jsem nahoru,  
--  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of the game. In this article, I'd like to introduce the possible challenges in judging difficulty in said game to readers not having any experience with said game.
--  - 1/2 notes (1/2 is osu! notation, music notation is 1/8) with the same hand, but alternate hands for 1/4 notes (known as "semi-alt"), or you can always alternate hands (known as "full-alt", which is how I personally play). Take, for example, this note sequence: 
--  - `d d kdk d`, where `kdk` indicates kat, don and one more kat with 1/4 spacing. A rolling kddk player might play it as `r r rrr r` (`r` indicating the right hand), a semi-alt player might play it as `r r rlr r`, and a full-alt player might play it as `r l rlr r`.
--  Intuition would suggest patterns like `ddddd` would be the easiest, as they are the simplest. However, that isn't actually true! While they might be simple to read in isolation, they are hard to hit - a `kkddk` pattern has a much more uniform per-finger hit distribution - even despite the fact I personally play with 2 fingers, `kkddk` allows me to slide the fingers across the keyboard, while `ddddd` requires me to hit the same key in succession. Furthermore, consider pattern sequences like `ddd d ddd ddd d d ddd d` and `ddk d ddk ddk d d ddk d`. Humans need "landmarks" in order to recognize a pattern. Try counting the characters as fast as possible here:
-- #### You might think that `dkkdkkdkkdkk` has the same difficulty as `kddkddkddkdd`. Wrong! In osu!taiko, `k` is generally used for accentuation, which means `k` is much less used off-beat. That means `kddkdd` is much more frequent than `dkkdkk`, so I play it less frequently, making it harder to hit. Once again, my experience makes it a non-issue in most cases - but when I face further reading challenges I'll cover next, it *can* cause problems.
--  If only 1/2 and 1/4 rhythms were used, the game would be much boring than it is right now! Now introducing: 1/6 and 1/8 notes!
--  (`k__d` notes have 1/4 spacing, `k_d` have 1/6 spacing, my markdown formatter forces me to use `_`).
--  To condense the notation, I'll write the above like `kddd(kkkd)d(kddk)dk` and `(kk)(dd)kdkkd` from now on, which is widely used in the osu!taiko community (alongside other less popular notations)
-Binary file 0111--~1/Peter Lambert - osu! tutorial (peppy) [Gameplay basics]/obsidian-drum-notation-codex-reliable-practice.zip matches
-Binary file 0111--~1/Peter Lambert - osu! tutorial (peppy) [Gameplay basics]/obsidian-drum-notation-main.zip matches
 - **A Hard Day's Night**
 - **In My Life (2023 Mix)**
 - **And Your Bird Can Sing** (mapper: sstari, Pending)
@@ -398,6 +392,10 @@ Binary file 0111--~1/Peter Lambert - osu! tutorial (peppy) [Gameplay basics]/obs
 - **Helter Skelter** (mapper: Anglerge, Graveyard)
 - **It Won't Be Long** (mapy a záznamy komunitních skóre, např. od hrdinů jako Neatral)
 - **Jak si stáhnout a nainstalovat** beatmapy do hry osu!?
+- - - - # gh\_martin12333
+- ***[gh\_martin12333](/users/40670162)*** achieved rank #238 on *[The Beatles - A Hard Day's Night \[Normal\]](/beatmaps/3659107?ruleset=mania)* (osu!mania)
+### Hush-Hush
+### Hush-Hush (Expert)
 # 0111--songs--music--lyrics
 -  Bmp 97 Capo D-0 C-2 G-7 1. Déšť ti, holka, smáčel vlasy, smáčel vlasy z tvých očí zbyl prázdnej kruh, kde je ...  
 - Dnes je **neděle, 16.srpna.2026**
