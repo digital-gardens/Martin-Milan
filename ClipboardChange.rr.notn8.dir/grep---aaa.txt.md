@@ -589,3 +589,32 @@
   - - ###### dassin 
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   - - ###### kde koupit mp3 hudbu
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - # Audacity (audio editor) - Wikipedia
+  - ###### - In May 2021, after the project was acquired by Muse Group,[57] there was a draft proposal to add opt-in telemetry to the code to record application usage. Some users responded negatively, with accusations of turning Audacity into spyware.[58] The company reversed course, falling back to error/crash 
+- ######   - Epic! This thing also opens songs from modarchive, so there are thousands of tracks to listen too...
+- ###### title: "Drumbit – Online Drum Machine (drumbit.app)"
+  - ###### - https://drumbit.club/ (Block Set 1)
+  - ###### - because that article is deleted, and so no info about the company or all the things related to muse group, muse hub, tenacity, etc. is written down somewhere, i just had to waste 1 hour combing thru various websites to find out that:
+- ######   Společnost je dnes oficiálně registrována v Limassolu na Kypru (jako MuseCY Holdings Ltd.) a funguje jako 
+  - ###### - • Ultimate Guitar (akordy a tabulatury)
+- ######   - • MuseScore (otevřený software pro zápis not)
+  - ###### - In musical notation, a bar (or measure) is a segment of music bounded by vertical lines, known as bar lines (or barlines), usually indicating one or more recurring beats. The length of the bar, measured by the number of note values it contains, is normally indicated by the time signature.
+  - ###### - Takt je v notaci hudby část grafického záznamu omezená dvěma taktovými čarami. Bývá uveden na počátku skladby nebo její části v podobě zlomku, který má v čitateli udán souhrnný počet délek not (dvě, tři, šest apod.) a ve jmenovateli jejich druh (čtvrťové, osminové apod.). Např. 3/4 znamená, že jeden
+  - ###### - pattern (nebo zkomoleně patterna, z angl. pattern, český ekvivalent vzor se nepoužívá) – přibližně odpovídá notovému listu, je to část skladby, která může být použita vícekrát. Patterna se skládá ze sloupců (každý odpovídá jednomu tracku) a řádků. Každý řádek odpovídá základnímu časovému intervalu, 
+  - ###### - • MAZTR Free Online Audio Waveform Viewer: A simple, account-free tool where you drop or upload an MP3 file to view its classic amplitude waveform and play the track.
+  - - ###### web app to show waveform mp3
+  - - ###### "web" app to show waveform mp3 site:github.com
+  - - ###### "web" app to show waveform mp3 site:github.com - Hledat Googlem
+- ######   - Drop in a track and the Beat Finder pinpoints every beat position — perfect for DJs, editors, remixers, and dance choreographers. Get a downloadable list of beat timestamps and a BPM readout in one pass, without ever uploading your audio.
+  - ###### - No app install, no signup. Any recent Chrome, Edge, Firefox, or Safari can run the Beat Finder, on desktop or tablet. Your audio file never leaves your device.
+- ######   - p-code https://codepen.io/inafact/pen/vYNZgMx   - Basics · 441Hz sine wave · 11025Hz square wave · Can use decimal · 882Hz saw wave, 0.5sec · White noise (P-Code is error-free!) · Silence · Repeating.
+  - - ###### "p-code"   rhythm machine patterns  github
+- ######   - AudioMass is a free, open source, web-based Audio and Waveform Editor.
+  - ###### - Please keep in mind that most key shortcuts rely on the Shift + key combo. (eg Shift+Z for undo, Shift+C copy, Shift+X cut... etc )
+- ######   - Ok so the Bandlab app is a cloud-based interface that allows you to use your browser to create a multi-track recording. This is cool because you can use it to record music with people on the internet or your bandmates in distant locations. In my experience, this was fun but not very effective in cre
+  - ###### -  MAZTR Free Online Audio Waveform Viewer
+  - ###### -  1 MP3 Stem Per Day
+  - ###### - Pokud hledáte specializovanou webovou aplikaci pro ruční určování a klikání beatů (tzv. manual beat finding / tap tempo / marker placing) s přehledným vykreslením MP3 křivky, nejlepší možností je využít bezplatné online editory, které běží přímo v prohlížeči.
+  - ###### - "web" app to show waveform mp3 for manual beat finding
+  - # question edge://apps/installed ... are they installed in some directory?
