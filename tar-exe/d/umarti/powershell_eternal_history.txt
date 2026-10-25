@@ -13966,3 +13966,30 @@ where.exe gi*| clip
 where.exe copil*| clip
 copilot-cli.exe
 copilot
+where.exe agy*
+where.exe claud*
+where.exe anti*
+where.exe anti*|clip
+antigravity-ide  C:\Users\marti\OneDrive\Dokumenty\00-MM
+dir
+cd C:\Users\marti\OneDrive\Dokumenty\00-MM\Antigravity-IDE\
+where.exe agy*
+where.exe claude*
+where.exe anti*|clip
+where.exe ai*|clip
+where.exe agent*|clip
+where.exe agent*.exe|clip
+cmd
+- You can verify the update by typing $PSVersionTable.PSVersion
+$PSVersionTable.PSVersion
+winget upgrade Microsoft.PowerShell
+$PSVersionTable.PSVersion
+agy
+irm https://claude.ai/install.ps1 | iex
+agy
+agy --help
+agy install
+agy
+cmd /c dir .c*
+cd
+cmd /c dir .c*

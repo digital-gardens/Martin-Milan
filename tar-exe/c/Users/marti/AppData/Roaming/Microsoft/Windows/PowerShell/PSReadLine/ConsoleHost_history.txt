@@ -3772,3 +3772,19 @@ d:
 dir
 shutdown.exe /h
 dir d:
+pwsh
+explorer C:\Users\marti\AppData\Roaming\Antigravity\bin\agy-node.cmd
+C:\Users\marti\AppData\Roaming\Antigravity\bin\agy-node.cmd --help
+C:\Users\marti\AppData\Local\Programs\antigravity\Antigravity.exe --help
+irm https://antigravity.google/cli/install.ps1 | iex
+claude
+agy
+cmd /c dir .c*
+cd
+cd ~
+cmd /c dir .c*
+cmd /c dir .l*
+cmd /c dir     /ad
+cmd /c dir     /?
+md /c dir     /od
+cmd /c dir     /od

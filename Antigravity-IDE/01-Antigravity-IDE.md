@@ -148,6 +148,23 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\Antigravity-IDE\Getting Started with Goo
 EDIT EDIT maybe i will use glasp instead of obsidian
 
 
+# f8  f1 runSelectedText 20261024
+
+dir
+cd C:\Users\marti\OneDrive\Dokumenty\00-MM\Antigravity-IDE\
+
+
+nnn or  cmd/ctrl + enter 
+
+
+ where.exe agy*
+
+  where.exe claude*
+
+   where.exe anti*|clip
+   where.exe ai*|clip
+   where.exe agent*|clip
+   where.exe agent*.exe|clip
 
 
 

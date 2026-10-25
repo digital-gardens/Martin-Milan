@@ -662,3 +662,37 @@
   - - ###### //// unrelated song beatboxing   ||: b k bbk :||    
   - - ###### // některé řádky mi pomáhá dokončovat a doplňovat AI ve vscode
   - - ###### // některé řádky mi pomáhá dokončovat a doplňovat AI ve vscode
+  - - # 20261024 dotres .. mk payment 1025
+  - - ###### každá drobnost je středně těžká až těžká zátěž, která se sčítá a může vést k vyčerpání. Je důležité si uvědomit, že není možné zvládnout vše najednou, a je vhodné si stanovit priority a rozdělit úkoly na menší kroky.  
+  - - ###### //// unrelated song lyrics: ... proč nemám strach ... 💚🎵 -- bliss
+- ###### ////  3 hodiny od léku venlafaxine
+- ###### // kopíruji z mého clipboard_log, proto ten zvláštní markup na začátku řádků, vysvětlím později
+- ###### až teď mě napadlo 
+- # ℹ️  přecházet na jiné AI raději **postupně** ,  pomalu, spojitě, srovnávat
+- ###### btw, které dvojice editor + AI jsi používala ?
+- ###### já zatím jen VSCode + defaultní .. GH-copilot
+- ###### pomalu mohu  přecházet na 1 nebo více z  vscode + gemini, antigravity+gemini, vscode+claude 
+- ###### // mimochodem, jestli se  nepletu, gh-copilot v 2026 většinou možná volá >Claude
+  - ###### - poslal jsem malý dotaz do Google chat. nespěchá to 💚
+- # možná jsem tam měl napsat @ ? 
+- ###### where.exe git*| clip
+ - ###### where.exe copil*| clip
+  - ###### - prostred  restore point
+  - ###### - Cannot find GitHub Copilot CLI (https://docs.github.com/en/copilot/how-tos/set-up/install-copilot-cli)
+- ###### afraid of 202605 supply chain poisoning 
+     - ###### antigravity-ide  C:\Users\marti\OneDrive\Dokumenty\00-MM
+  - # f8  f1 runSelectedText 20261024
+- ###### I need to run some AI from terminal 
+- ###### how can i update pwsh 
+   - - ###### how can i update pwsh 
+- ######   - Once the installation finishes, restart your terminal.
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ###### https://github.com/PowerShell/DSC/releases
+- ###### ms store / powershell-LTS
+  - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - po store ps lts
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+ - ###### C:\Users\marti\AppData\Roaming\Antigravity\bin\agy-node.cmd
+- ###### is it possible to have a AI conversation chat thread in a terminal 
+- ###### what about antigravity-cli ??
+  - - ###### cmd /c dir .c* 

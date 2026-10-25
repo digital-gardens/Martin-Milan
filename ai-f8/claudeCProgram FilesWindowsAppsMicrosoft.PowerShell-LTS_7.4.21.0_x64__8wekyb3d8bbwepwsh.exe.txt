@@ -1,0 +1,27 @@
+PowerShell 7.4.21
+aaa
+C:\Users\marti\OneDrive\Dokumenty\PowerShell\profile.ps1
+aaa
+PS C:\Users\marti\AppData\Roaming\Antigravity IDE> agy
+agy: The term 'agy' is not recognized as a name of a cmdlet, function, script file, or executable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+PS C:\Users\marti\AppData\Roaming\Antigravity IDE> irm https://claude.ai/install.ps1 | iex
+Setting up Claude Code...
+
+√ Claude Code successfully installed!
+
+  Version: 2.1.310
+
+  Location: C:\Users\marti\.local\bin\claude.exe
+
+
+  Next: Run claude --help to get started
+
+‼ Setup notes:
+  ● Native installation exists but C:\Users\marti\.local\bin is not in your PATH. Add it by opening: System Properties →
+    Environment Variables → Edit User PATH → New → Add the path above. Then restart your terminal.
+
+
+✅ Installation complete!
+
+PS C:\Users\marti\AppData\Roaming\Antigravity IDE>
