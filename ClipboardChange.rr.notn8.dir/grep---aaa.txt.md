@@ -615,6 +615,50 @@
 - ######   - Ok so the Bandlab app is a cloud-based interface that allows you to use your browser to create a multi-track recording. This is cool because you can use it to record music with people on the internet or your bandmates in distant locations. In my experience, this was fun but not very effective in cre
   - ###### -  MAZTR Free Online Audio Waveform Viewer
   - ###### -  1 MP3 Stem Per Day
-  - ###### - Pokud hledáte specializovanou webovou aplikaci pro ruční určování a klikání beatů (tzv. manual beat finding / tap tempo / marker placing) s přehledným vykreslením MP3 křivky, nejlepší možností je využít bezplatné online editory, které běží přímo v prohlížeči.
+  - ###### - Pokud hledáte specializovanou webovou aplikaci pro ruční určování a klikání beatů (tzv. manual beat finhding / tap tempo / marker placing) s přehledným vykreslením MP3 křivky, nejlepší možností je využít bezplatné online editory, které běží přímo v prohlížeči.
   - ###### - "web" app to show waveform mp3 for manual beat finding
+  - ###### - Proč se hodí: Umožňuje nahrát MP3, přibližovat (zoomovat) a posouvat vlnový průběh (waveform) s vysokou přesností. Můžete ručně vkládat značky (markers / trackers) pro rychlé skoky na konkrétní beaty a využít vizuální mřížku pro přesné určení rytmu.
+  - ###### - Every tool here runs 100% in your browser.
+  - ###### - https://www.cuty.ai/music-tool/beat-finder
+  - ###### - The PWA/offline mode is underrated. Just stored it locally and now I have a full audio editor that works without internet, lives in a tab, and doesn't ask me to update. This is what the web platform was supposed to feel like.
+  - ###### - Think of it a bit like vector vs pixel editing. OpenDAW is vectors (music info), audiomass is pixels (music data)
+  - ###### - - You can right click or press M to add markers (makes it easier to highlight sections of a track, especially when working with longer audio tracks)
+  - ###### - - Offline/PWA support: Help > store offline version, will open a new page that will trigger a service worker that will make the site work offline as well.
+  - ###### - edge://apps/details/vscode.dev/jhdpafkbedbgckdnecbbppbpboebapeb
   - # question edge://apps/installed ... are they installed in some directory?
+  - # vscode.dev,cve,vscode-web
+- ###### --------------------------
+- ###### //// unrelated song beatboxing   ||: b k bbk :||    
+- # 20261024 dotres .. mk payment 1025
+- ######   - tech.la.bo.1024
+- ###### €18 EUR / 
+  - ###### - george.csas.cz 
+  - ###### - https://keep.google.com/u/0/#NOTE/1R0ummVwDXKNwI1nIhGMEFFlsiU8sWsSY6KbH0bPklKXY4ZWJuTTxp2M6wsDnGw
+- ###### C:\Users\marti\OneDrive\Dokumenty\00-MM\1804\george.csas.cz.f8.md 
+  - ###### - ////// Na jeden    - Ilona Csakova
+  - ###### ///// - C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\a..CD-ripped..mp3.dir\disk---d\Users\milanlocal\Music\KMT_T05.WMA
+  - ###### ///// - D:\Users\milanlocal\Music\sdb1\cd\10-Tam, gde svetel den.mp3
+  - ###### - https://claude.ai/upgrade/pro?interval=monthly
+  - # jestli clipboard copy cislo karty,  asi po kouskach, prostredek asi jen na papirek
+  - # na chvili vypnu edge clipbo manager, pak zase zapnu 
+  - # a vymazu z win+v a clipboard_log
+  - ###### - Jste odhlášeni z George | Česká spořitelna
+- ######   - https://docs.google.com/spreadsheets/d/1-IIqBvij_4vELmGXX5NdMYHyTG9rMe6Q/edit?gid=957535911#gid=957535911
+  - ###### - https://docs.google.com/spreadsheets/d/1Tqira1UYGtQw-zgQg-gej31LEuKy0Cz1/edit?gid=921269384#gid=921269384
+  - ###### - Your subscription will auto-renew on 11/25/2026. You will be charged €18.00/month + tax.
+  - ###### - VIRT-oneK-MARTIN •••• 4373
+- ###### https://one.google.com/explore-plan/gemini-advanced?utm_source=gemini&utm_medium=web&utm_campaign=sidenav_evo&g1_landing_page=65
+- # O vaše členství Google One se stará správce vašeho tarifu, Milan Bok.
+  - #  ///george virtualni karta 
+  - # from:(Claude OR Anthropic) 
+- ###### // některé řádky mi pomáhá doplňovat AI ve vscode
+- ###### v tomto desetiletí peníze pro mne nejsou problém, ale spíše čas a duševní energie. A také zdraví, které se pomalu zhoršuje
+- ###### při mojí neuróze 
+- ###### každá drobnost je středně těžká až těžká zátěž, která se sčítá a může vést k vyčerpání. Je důležité si uvědomit, že není možné zvládnout vše najednou, a je vhodné si stanovit priority a rozdělit úkoly na menší kroky.  
+- ###### proč mám strach, když už hlavní práce je hotová? Protože mozek se stále snaží hledat další hrozby a úkoly, i když už nejsou aktuální? 
+- ###### //// unrelated song lyrics: ... proč nemám strach ... 💚🎵 -- bliss
+- ###### // 13 hodin od léku Mirtazapine, 26 hodin od léku venlafaxine ... // Simple time tracker  na mobile
+  - - # //// https://bezpecnost.csas.cz/ssp_idm/linked-accounts  20260510  dr. Praško   dekatastrofizace 
+  - - ###### //// unrelated song beatboxing   ||: b k bbk :||    
+  - - ###### // některé řádky mi pomáhá dokončovat a doplňovat AI ve vscode
+  - - ###### // některé řádky mi pomáhá dokončovat a doplňovat AI ve vscode
