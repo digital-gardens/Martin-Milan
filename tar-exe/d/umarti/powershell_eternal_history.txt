@@ -13959,3 +13959,10 @@ explorer "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir"
 explorer "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir"
 code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
 bash
+where.exe copilot*
+where.exe gh*
+where.exe gi*
+where.exe gi*| clip
+where.exe copil*| clip
+copilot-cli.exe
+copilot
