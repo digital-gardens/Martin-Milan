@@ -13993,3 +13993,5 @@ agy
 cmd /c dir .c*
 cd
 cmd /c dir .c*
+Where.exe agy*
+where.exe agy*|clip

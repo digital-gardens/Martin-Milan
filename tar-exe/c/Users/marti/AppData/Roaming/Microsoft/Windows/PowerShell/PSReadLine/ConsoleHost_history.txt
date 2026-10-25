@@ -3788,3 +3788,6 @@ cmd /c dir     /ad
 cmd /c dir     /?
 md /c dir     /od
 cmd /c dir     /od
+pwsh
+agy
+exit

@@ -627,6 +627,7 @@
   - ###### - edge://apps/details/vscode.dev/jhdpafkbedbgckdnecbbppbpboebapeb
   - # question edge://apps/installed ... are they installed in some directory?
   - # vscode.dev,cve,vscode-web
+  - ###### - -  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of the game. In 
 - ###### --------------------------
 - ###### //// unrelated song beatboxing   ||: b k bbk :||    
 - # 20261024 dotres .. mk payment 1025
@@ -651,6 +652,7 @@
 - # O vaše členství Google One se stará správce vašeho tarifu, Milan Bok.
   - #  ///george virtualni karta 
   - # from:(Claude OR Anthropic) 
+- # 20261025 rano ... zaplatil, zbyva napsat zpravu, ze je zaplaceno  
 - ###### // některé řádky mi pomáhá doplňovat AI ve vscode
 - ###### v tomto desetiletí peníze pro mne nejsou problém, ale spíše čas a duševní energie. A také zdraví, které se pomalu zhoršuje
 - ###### při mojí neuróze 
@@ -672,7 +674,7 @@
 - ###### btw, které dvojice editor + AI jsi používala ?
 - ###### já zatím jen VSCode + defaultní .. GH-copilot
 - ###### pomalu mohu  přecházet na 1 nebo více z  vscode + gemini, antigravity+gemini, vscode+claude 
-- ###### // mimochodem, jestli se  nepletu, gh-copilot v 2026 většinou možná volá >Claude
+- ###### // mimochodem, jestli se  nepletu, gh-copilot v 2026 většinou možná volá >Claude ?
   - ###### - poslal jsem malý dotaz do Google chat. nespěchá to 💚
 - # možná jsem tam měl napsat @ ? 
 - ###### where.exe git*| clip
@@ -681,7 +683,7 @@
   - ###### - Cannot find GitHub Copilot CLI (https://docs.github.com/en/copilot/how-tos/set-up/install-copilot-cli)
 - ###### afraid of 202605 supply chain poisoning 
      - ###### antigravity-ide  C:\Users\marti\OneDrive\Dokumenty\00-MM
-  - # f8  f1 runSelectedText 20261024
+  - # f8  f1 runSelectedText 20261025
 - ###### I need to run some AI from terminal 
 - ###### how can i update pwsh 
    - - ###### how can i update pwsh 
@@ -695,4 +697,38 @@
  - ###### C:\Users\marti\AppData\Roaming\Antigravity\bin\agy-node.cmd
 - ###### is it possible to have a AI conversation chat thread in a terminal 
 - ###### what about antigravity-cli ??
+  - ###### - Select-String -Path "C:\Users\marti\.gemini\antigravity\brain\cddf99fb-eaed-4ff7-8a24-3f00213e03be\.system_generated\steps\33\content.md" -Pattern "winget|npm|curl|iwr|install|powershell" -Context 1,2 | Select-Object -First 30 | Format-List
+ - ###### irm https://antigravity.google/cli/install.ps1 | iex
+- ###### reboot helped 
+  - ###### - irm https://claude.ai/install.ps1 | iex
   - - ###### cmd /c dir .c* 
+           - ###### cmd /c dir     /od
+  - ###### - ai-f8\CUsersmartiAppDataLocalagybinagy.exe.txt
+  - ###### - po clau po agy
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - @ triggers path suggestions
+  - ###### - Use ! at the start of your prompt to run terminal commands directly
+  - ###### - Type ? to get help and list all slash commands
+  - ###### - Yank/copy selected text
+  - ###### - The installation utility downloads the binary to ~/.local/bin (or C:\Users\<username>\AppData\Local\agy\bin), but your shell’s active $PATH environment doesn’t index this directory.
+  - # - Commands run in an AppContainer inside a process security environment, which restricts filesystem and network access. Requires Windows 11 24H2 or later with the August 2026 update or later.
+- # 20261025 experiments with F8 = runSelectedText in my IDE ... sending selected text to AI tools via command line
+- ## agy f8 works 💚  ℹ️ my INS works
+- ###### can I get a .md file with  our conversation history
+- ###### how can I copy the screen as text 
+- ###### I hope, that our conversation 
+  -   - ###### • Copy entire terminal output: Press Ctrl+Shift+P → run Terminal: Select All → press Ctrl+C.
+  -   - ###### • "Copy the last response / conversation to clipboard" — and I can pipe it straight into Set-Clipboard so you just press Ctrl+V in your
+- #TODO 
+  - - ###### pomalu mohu  přecházet na 1 nebo více z  vscode + gemini, antigravity+gemini, vscode+claude 
+  - - ###### // kopíruji z mého clipboard_log, proto ten zvláštní markup na začátku řádků, vysvětlím později
+  - - ###### ////  12? hodiny od léku venlafaxine
+  -   - - ###### //// unrelated song lyrics: ... proč nemám strach ... 💚🎵 -- bliss
+  -   - - ###### každá drobnost je středně těžká až těžká zátěž, která se sčítá a může vést k vyčerpání. Je důležité si uvědomit, že není možné zvládnout vše najednou, a je vhodné si stanovit priority a rozdělit úkoly na menší kroky.  
+  -   - - ###### // některé řádky mi pomáhá dokončovat a doplňovat AI ve vscode
+  -   - - ###### //// unrelated song beatboxing   ||: b k bbk :||    
+  -   - - # //// https://bezpecnost.csas.cz/ssp_idm/linked-accounts  20260510  dr. Praško   dekatastrofizace 
+  - - ###### //// unrelated song lyrics: ... proč nemám strach ... 💚🎵 -- bliss
+  - - ###### proč mám strach, když už hlavní práce je hotová? Protože mozek se stále snaží hledat další hrozby a úkoly, i když už nejsou aktuální? 
+  -   - ###### - -  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of 
+  -   - ###### - -  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of 
