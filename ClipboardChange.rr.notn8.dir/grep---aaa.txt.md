@@ -729,6 +729,7 @@
   -   - - ###### //// unrelated song beatboxing   ||: b k bbk :||    
   -   - - # //// https://bezpecnost.csas.cz/ssp_idm/linked-accounts  20260510  dr. Praško   dekatastrofizace 
   - - ###### //// unrelated song lyrics: ... proč nemám strach ... 💚🎵 -- bliss
-  - - ###### proč mám strach, když už hlavní práce je hotová? Protože mozek se stále snaží hledat další hrozby a úkoly, i když už nejsou aktuální? 
+  - - # proč mám strach, když už hlavní práce je hotová? Protože mozek se stále snaží hledat další hrozby a úkoly, i když už nejsou aktuální? 
   -   - ###### - -  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of 
   -   - ###### - -  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of 
+  - # 251126.00 Norton-analogy in editing
