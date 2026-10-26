@@ -818,8 +818,7 @@ Send {Text}%contents%
 ;?? 20261025 comment out
 
 
-;20261025try ^f12
-
+;20261025try ... open 2 other windows, not this
 	Sleep, 200
 ;	Send, !{Tab}
 	Sleep, 460
