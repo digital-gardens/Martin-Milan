@@ -5,10 +5,9 @@
 
 ; .WARNING .i forgot again .to debug ahk .in the bottom right hand .corner [  .] of the windows taskbar, there is a small green square icon for ahk, right click it, and choose "Open" to see the debug window.  .WARNING
 
-
 ;test v2 :   win+q AutoHotkey run the app ... it asks to reload this ahk file
 ;test v1:   ^win+space ... seems to work, just doesnt show a confirmation
-; or  win+q        startup      .....autohotkey
+; or  win+q        startup      .....autohotkey v1
 
 ; SECTIONS START WITH ;=  or   ;#if =
 ;  searched  ^#\w    #if      #ifwinactive   #if    #hotif
@@ -779,17 +778,20 @@ $F12::
 
 	;Send, {Enter}
 	;Send, {Down}
-	Send, !{Tab}
+
+;20261025
+	Send, #{Tab}
+	;Send, !{Tab}
 	Sleep, 460
 
 	;Send, ^v
 contents := SubStr( Clipboard, 1, 255)  ;
-
 ;;;;;Send % contents
-;;SendText % contents
-Send {Text}%contents%
+;;;SendText % contents
+;20261025 comment out..
+;Send {Text}%contents%
 
-;20261025
+;20261025 comment out
 	;Send, {Enter}
 
 	return
@@ -799,7 +801,8 @@ Send {Text}%contents%
 ;;;;;+^$F10::
 ;20261025  risk $f12 ..edit or nerisk
 ;$F12::
-+^$F12::
+;+^$F12::
+^$F12::
 {
 	Send, ^c
 	Sleep, 200
@@ -812,12 +815,13 @@ contents := Clipboard
 
 Send {Text}%contents%
 	;Send, {Enter}
-;?? 20261025
+;?? 20261025 comment out
 
 
-;20261025
+;20261025try ^f12
+
 	Sleep, 200
-	Send, !{Tab}
+;	Send, !{Tab}
 	Sleep, 460
 
 	return
@@ -960,3 +964,4 @@ MsgBox NOTHING
 ; f8 works ....
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
+;  G:\Users\milanlocal\downloads-d\AutoHotkey_1.1\AutoHotkeyU64.exe C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
