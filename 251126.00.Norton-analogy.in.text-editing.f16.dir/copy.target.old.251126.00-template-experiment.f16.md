@@ -1,3 +1,6 @@
+; 14:38 new experim ... bug in v1 ahk maybe
+;20261025  risk  exsperiment
+G:\Users\milanlocal\downloads-d\AutoHotkey_1.1\AutoHotkeyU64.exe C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
 
 
 ;20261025  risk  exsperiment

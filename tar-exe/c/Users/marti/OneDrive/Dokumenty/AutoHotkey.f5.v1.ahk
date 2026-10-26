@@ -147,6 +147,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ; Path to log file
 ;logFile :=    C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt
 logFile :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+
+;;;;;;bug ;Dokumenty
 logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\1debug0.clipboard_log.rr.n8.txt.md"
 logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 ; WARNING the path is at 2 places in this file  .. line 144, line 238  clipboard_log  and WARNING the clipboard HAS MOVED TO VERSION 2.0 of ahk  LINE 158
@@ -172,8 +174,9 @@ logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clip
 ;FileAppend, "sfdsfsdf%Clipboard%"  , %logFile%
 ;FileAppend, sfdsfsdfClipboard  , %logFile%
 
-FileAppend, % "aaa" "bbb OBSOLETE v1 reload   logFile     `n"   , %logFile%
-; #Bug is ahk allowed to write to OneDrive folder?  ... this worked
+; 20261025 commented out
+;FileAppend, % "aaa" "bbb OBSOLETE v1 reload   logFile     `n"   , %logFile%
+; not anymore ...Bug is ahk allowed to write to OneDrive folder?  not anymore ... or maybe it is sometimes allowed
 
 ;"`n", % logFile		;then append it to text file
 
@@ -183,6 +186,14 @@ return
 
 
 ;============================== end auto-execute section ==============================
+
+
+
+
+
+
+
+
 
 
 
@@ -247,9 +258,12 @@ ClipChanged(Type) {
 ; gemini explains that in v1, variables are ....
 
 	logFile2 :=    "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
+
+	;;;;;;;;;;;;bug Dokumenty
 	logFile2 :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 	logFile2 :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\2debug0.clipboard_log.rr.n8.txt.md"
 ;;;;;;;; warning: this code is not called, because the OnClipboardChange is commented out in the auto-execute section above, line 158
+
 
 	; Pen�zky ukryl jsem do hl�ny pod dubem,
 	; Pen?zky ukryl jsem do hl?ny pod dubem,
@@ -750,8 +764,8 @@ Click_and_Copy(clicks) {
 
 ;;;;;$F10::
 ;20261025
-;$F12::
-+^$F12::
+;+^$F12::
+$F12::
 {
 	Send {Home}+{End}
 	;Send this is a test {Enter} , aaaa ; bbbb
@@ -775,16 +789,17 @@ contents := SubStr( Clipboard, 1, 255)  ;
 ;;SendText % contents
 Send {Text}%contents%
 
-	Send, {Enter}
+;20261025
+	;Send, {Enter}
 
 	return
 }
 
 
 ;;;;;+^$F10::
-;20261025  risk
-;+^$F12::
-$F12::
+;20261025  risk $f12 ..edit or nerisk
+;$F12::
++^$F12::
 {
 	Send, ^c
 	Sleep, 200

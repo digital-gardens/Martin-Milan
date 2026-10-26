@@ -733,8 +733,27 @@
   -   - ###### - -  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of 
   -   - ###### - -  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of 
 - ###### #todo  # 20261025 rano ... zaplatil, zbyva napsat zpravu, ze je zaplaceno  
-  - # 251126.00 Norton-analogy in editing
+  - # 251126.00.Norton-analogy.in.text-editing.f16.dir
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   - ###### - https://chatgpt.com/settings/data-controls
 - ###### @@@@@ Your account details and chats will be included.
   - ###### - ChatGPT - Your data export has started
+  - ###### - cistic-viktor
+  - ###### - C:\Users\marti\OneDrive\Dokumenty\00-MM\04 doku ai-prompts.ai.md.dir\efe9\cistic-viktor...file-70INinoGYUvBEN6r4uLCRvlS-20240518_144501.jpg
+  - ###### - .isti.-viktor
+  - ###### - diigo.comusermartin12333query...toalety\a...isti.-viktor....nonru...diigo.comusermartin12333query=toalety.md
+  - #    ahk   f12 
+  - ## - C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.ahk.f8.md
+  - ###### -   - file:///C:\Users\marti\OneDrive\Dokumenty\
+  -   - ###### -   - file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+  - #IfWinActive ahk_exe code.exe
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  -   - # 251126.00 Norton-analogy in editing
+  - # f16 norton text Data Export
+  -   - # 251126.00.Norton-analogy.in.text-editing.f16.dir
+  -   - # 251126.00.Norton-analogy.in.text-editing.f16.dir
+- # now try f12 from clip to 00, and vice versa, and see if it works in both directions  - vscode-emacs-friendly
+- ###### 1607 dirty idea ... use f12 for just alt-tab ...  for ^c alt tab ^v  with a blank line- # now try f12 from clip to 00, and vice versa, and see if it works in both directions
+  - - # now try f12 from clip to 00, and vice versa, and see if it works in both directions
+  - ###### - 1607 dirty idea ... use f12 for just alt-tab ...  for ^c alt tab ^v  with a blank line

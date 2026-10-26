@@ -93,3 +93,7 @@
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   -   - - ###### //// unrelated song beatboxing   ||: b k bbk :||    
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ###### 1607 dirty idea ... use f12 for just alt-tab ...  for ^c alt tab ^v  with a blank line- # now try f12 from clip to 00, and vice versa, and see if it works in both directions
+  - ###### - 1607 dirty idea ... use f12 for just alt-tab ...  for ^c alt tab ^v  with a blank line
