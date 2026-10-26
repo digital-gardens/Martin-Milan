@@ -351,6 +351,9 @@
 # vi-fetch-history (not bound)
 ** (gnome-control-center.real:3414): WARNING **: Ignoring launcher gufw (missing desktop file)
 ** (gnome-control-center.real:3414): WARNING **: Ignoring launcher ubuntuone-installer (missing desktop file)
+- - Optimální doba je 14 dní dopředu
+- - Optimální doba je 14 dní dopředu
+- - Optimální doba je 14 dní dopředu
 - #### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...  
 - # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...  
 - ##### #aaa Na kolejích stála, za uchem květ, vlasy trávou zavázaný, s kytarou na zádech, strun už jen pět, hezký oči uplakaný. ...  

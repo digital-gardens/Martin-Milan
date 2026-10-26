@@ -1,3 +1,19 @@
+
+
+;20261025  risk  exsperiment
+;20261025  risk  exsperiment
+reload ahk v 1reload ahk v 1
+f8
+G:"C:\Users\marti\OneDrive\Dokumenty\00-MM\251126.00.Norton-analogy.in.text-editing.f16.dir\251126.00-template-experiment.f16.md"\Users\milanlocal\downloads-d\AutoHotkey_1.1\AutoHotkeyU64.exe C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+
+
+try f12
+try +^f12
+
+
+
+
+
 # Z hlediska roku 2026, 2030, 2040 💚⏰!
 💚⏰!
 

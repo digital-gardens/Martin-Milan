@@ -732,4 +732,9 @@
   - - # proč mám strach, když už hlavní práce je hotová? Protože mozek se stále snaží hledat další hrozby a úkoly, i když už nejsou aktuální? 
   -   - ###### - -  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of 
   -   - ###### - -  [osu!taiko](https://web.archive.org/web/20260729133258/https://osu.ppy.sh/users/8321579) is my favorite rhythm game. At some point I was about to enter the top 100, but had to slow down due to health problems across the entire body. Nonetheless, I have a fairly deep understanding of 
+- ###### #todo  # 20261025 rano ... zaplatil, zbyva napsat zpravu, ze je zaplaceno  
   - # 251126.00 Norton-analogy in editing
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - https://chatgpt.com/settings/data-controls
+- ###### @@@@@ Your account details and chats will be included.
+  - ###### - ChatGPT - Your data export has started

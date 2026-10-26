@@ -152,6 +152,7 @@ logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clip
 ; WARNING the path is at 2 places in this file  .. line 144, line 238  clipboard_log  and WARNING the clipboard HAS MOVED TO VERSION 2.0 of ahk  LINE 158
 ; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ... this worked ...
 ; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ... but none ahk is present allowed in ransomware protection ... strange
+; yyy blocked...  Controlled folder access   20261025 %userprofile%\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\
 ; mkdir "03 20260919 Bug is ahk allowed to write to OneDrive Dokumenty folder  ... but none ahk is present allowed in ransomware protection"
 ; mkdir
 
@@ -747,9 +748,10 @@ Click_and_Copy(clicks) {
 
 #IfWinActive ahk_exe code.exe
 
-
-;$F10::
-$F12::
+;;;;;$F10::
+;20261025
+;$F12::
++^$F12::
 {
 	Send {Home}+{End}
 	;Send this is a test {Enter} , aaaa ; bbbb
@@ -779,8 +781,10 @@ Send {Text}%contents%
 }
 
 
-;+^$F10::
-+^$F12::
+;;;;;+^$F10::
+;20261025  risk
+;+^$F12::
+$F12::
 {
 	Send, ^c
 	Sleep, 200
@@ -792,8 +796,14 @@ contents := Clipboard
 	;SubStr( Clipboard, 1, 255)  ;   100
 
 Send {Text}%contents%
+	;Send, {Enter}
+;?? 20261025
 
-	Send, {Enter}
+
+;20261025
+	Sleep, 200
+	Send, !{Tab}
+	Sleep, 460
 
 	return
 }

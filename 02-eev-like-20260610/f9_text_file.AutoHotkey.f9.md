@@ -70,7 +70,7 @@ $F9::
 
 
 
-// the ";;;..." lines mean *very* commented-out code ... they *totally* don't work
+// warning: the ";;;..." lines mean *very* commented-out code ... they *totally* don't work
 
 ;;;;#{q}    AutoHotkey{Enter}
 ;;;;;;;#{q}    AutoHotkey{Enter}{Enter}
@@ -156,5 +156,5 @@ q     AutoHotkey
 
 // - #aa Control Panel\Hardware and Sound\Power Options\Edit Plan Settings
 
-///////  old.... F9 previously was f12....old
-//zamackly shift ... press shift once more #aa
+///////aaa  old.... F9 previously was f12....old
+// aaa zamackly shift ... press shift once more #aa
