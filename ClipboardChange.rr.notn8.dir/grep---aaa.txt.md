@@ -1,3 +1,7 @@
+- # quirk.. this  goes first? in grep
+  - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+  - - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+  - - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh
 - #    𝄆 repeatSpace 𝄇
 - #    ||: repeatSpace :||
 - # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
@@ -757,3 +761,65 @@
 - ###### 1607 dirty idea ... use f12 for just alt-tab ...  for ^c alt tab ^v  with a blank line- # now try f12 from clip to 00, and vice versa, and see if it works in both directions
   - - # now try f12 from clip to 00, and vice versa, and see if it works in both directions
   - ###### - 1607 dirty idea ... use f12 for just alt-tab ...  for ^c alt tab ^v  with a blank line
+  - - ###### 20261025 1026 21:17
+  - - ###### f12 no paste,  ^f12 does paste
+   - ###### OR todo_is_also_notifiede_at_mobile
+- ######   OR amobnotify2fsdkjfhs  OR OpenAI OR ChatGPT
+  - ###### - https://mail.google.com/mail/u/0/#settings/filters
+- ###### Pacifik - Velrybářská výprava 3311 x
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - Free Beat Finder — Detect Beats & Downbeats Online | Cuty.ai
+  - ###### - P-Code examples
+  -   - ###### - Free Beat Finder — Detect Beats & Downbeats Online | Cuty.ai
+- ###### grep *clipboard_log*
+- #    ||: repeatSpace :||
+- # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
+- # on splitting the clipboard log into the old and new parts
+  - ###### 1027 test splitting to - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20261025.clipboard_log.rr.n8.txt.md
+  - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\MOVE VERY OLD TO doku .. ClipboardChange.rr.n8.dir
+  - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\z.repeatSpace\Dydovič Pavel - Bláznova ukolébavka text a akordy na YouSongs.cz.md
+- ######   píseň můj čas texty.md
+  - - # #bug BOM is  why is this line not grepped
+- #    𝄆 repeatSpace 𝄇
+- #    ||: repeatSpace :||
+- # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️🆘⚠️  User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
+  - - # #bug BOM is  why is this line not grepped
+- #    𝄆 repeatSpace 𝄇
+- #    ||: repeatSpace :||
+- # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
+- # #bug BOM is  why is this line not grepped
+- #    𝄆 repeatSpace 𝄇
+- #    ||: repeatSpace :||
+- # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
+- # // ℹ️ℹ️🆘⚠️ User really should TURN OFF .rrr .AUTO-CLICK .rrr IN RSIGUARD 20261017
+- # // ℹ️ℹ️⚠️ IF .rrr OSU RUNS, OTHER APPS ARE SLOWED DOWN on my computer  
+- ###### this is linked from  
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
+- # on splitting the clipboard log into the old and new parts
+- ###### CLOSE OSU 
+  - - ###### CLOSE OSU 
+  - - # #bug BOM is  why is this line not grepped
+- ###### this is linked from  
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- # on splitting the clipboard log into th
+  - - ######   píseň můj čas texty.md
+  - - # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+  -   - - # #bug BOM is  why is this line not grepped
+  - - #    ||: repeatSpace :||
+  - - # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
+- # on splitting the clipboard log into the old and new parts
+  - - ###### file:/// 00044 scripts
+  - - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh
+  - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\MOVE VERY OLD TO doku .. ClipboardChange.rr.n8.dir
+  - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\z.repeat
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
