@@ -99,3 +99,6 @@
   - ###### - 1607 dirty idea ... use f12 for just alt-tab ...  for ^c alt tab ^v  with a blank line
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - # queen we will rock you drum tab beatbox "b b t -"
+  - # queen we will rock you drum tab beatbox "b b - -"
+  - # queen "we will rock you" drum tab "x x - -" site:x.com

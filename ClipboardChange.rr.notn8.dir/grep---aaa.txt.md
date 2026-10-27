@@ -823,3 +823,18 @@
   - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\MOVE VERY OLD TO doku .. ClipboardChange.rr.n8.dir
   - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\z.repeat
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - # queen we will rock you drum tab beatbox "b b t -"
+  - # queen we will rock you drum tab 
+  - # queen we will rock you drum tab beatbox "b b - -"
+  - - ###### "web" app to show waveform mp3 for manual beat finding
+  - # We Will Rock You (MP3) – Queen – Supraphonline.cz
+  - # queen "we will rock you" drum tab "o o - -"
+  - # queen "we will rock you" drum tab "o o - -"
+  - # queen "we will rock you" drum tab "o o - -" site:github.com
+  - # queen "we will rock you" drum tab "o o - -" site:github.com
+  - # queen "we will rock you" drum tab "oo--" site:github.com
+  - # queen "we will rock you" drum tab "x x - -" site:x.com
+  - # queen "we will rock you" drum tab "x x " site:github.com
+  - # songwiki Drum Pattern Development
+  - # "songwiki" Drum Pattern
+  - # queen "we will rock you" 

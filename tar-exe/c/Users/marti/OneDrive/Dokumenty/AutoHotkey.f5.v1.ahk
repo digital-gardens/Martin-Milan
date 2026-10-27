@@ -519,15 +519,10 @@ Launch_App1::Send ^a
 ;#if any winactive
 #IfWinActive
 
-
-
-
 ; claude
-
 ; in AutoHotkey.ahk  v1
 ; how can i write
 ; code like #IfWinActive ahk_exe msedge.exe OR chrome.exe
-
 ; answer:  you cant, but you can write ...
 ; GroupAdd, MyBrowserGroup, ahk_exe msedge.exe
 ; GroupAdd, MyBrowserGroup, ahk_exe chrome.exe
@@ -536,14 +531,11 @@ Launch_App1::Send ^a
 ; GroupAdd("MyBrowserGroup", "ahk_exe msedge.exe")
 ; GroupAdd("MyBrowserGroup", "ahk_exe chrome.exe")
 
-
 ;AutoHotkey
 ; is it possible in v1 or v2 to write something like
 ;;;simplified version
 
-
 ; You can stack multiple hotkeys to trigger the exact same action.
-
 $Insert::
 Launch_App2::
 {
@@ -758,19 +750,32 @@ Click_and_Copy(clicks) {
 ;#if ============================== not chrome ==============================
 
 #IfWinActive
-
-#IfWinActive ahk_exe code.exe
+;    #IfWinActive ahk_exe code.exe
+;1028
 
 ;;;;;$F10::
 ;20261025
 ;+^$F12::
 $F12::
 {
-	Send {Home}+{End}
+
+;1028 a copy from insert as a prep for possible future changes
+	if(WinActive("ahk_exe code.exe") or WinActive("ahk_exe notepad.exe") ) {
+		;Click_and_Copy(2)
+		; 20260616
+		;Click_and_Copy(3)
+	}else {
+		;Click_and_Copy(3)
+	}
+
+;1028 comment out
+	;Send {Home}+{End}
 	;Send this is a test {Enter} , aaaa ; bbbb
 	Sleep, 200
+
 	Send, ^c
 	Sleep, 200
+
 	Send, {Down}
 	;Sleep, 460
 	;Send, {AppsKey}
@@ -797,6 +802,10 @@ contents := SubStr( Clipboard, 1, 255)  ;
 	return
 }
 
+
+
+#IfWinActive
+#IfWinActive ahk_exe code.exe
 
 ;;;;;+^$F10::
 ;20261025  risk $f12 ..edit or nerisk
@@ -828,6 +837,9 @@ Send {Text}%contents%
 
 
 
+
+#IfWinActive
+#IfWinActive ahk_exe code.exe
 
 ;$F12::
 $F9::
