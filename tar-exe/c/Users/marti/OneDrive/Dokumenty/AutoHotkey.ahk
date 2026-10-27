@@ -95,6 +95,8 @@ logFile := "C:\Users\marti\OneDrive\OnClipboardChange-251012\clipboard_log.txt"
 logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\1debug0.clipboard_log.rr.n8.txt.md"
 logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 logFile :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
+;20261027
+logFile :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\9.clipboard_log.rr.n8.txt.md"
 ; WARNING the path is at 2 places in this file  .. line 144, line 238  clipboard_log  and WARNING the clipboard HAS MOVED TO VERSION 2.0 of ahk
 ; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ...
 ; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ... but none ahk is present allowed in ransomware protection ...
@@ -136,6 +138,8 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 	logFile2 :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 	;logFile2 :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\2debug0.clipboard_log.rr.n8.txt.md"
 	logFile2 :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
+	;20261027
+	logFile2 :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\9.clipboard_log.rr.n8.txt.md"
 
     ; Pen?zky ukryl jsem do hl?ny pod dubem -> v2 handles Unicode much better!
     ; We will force UTF-8 encoding below to ensure Czech characters save correctly.
