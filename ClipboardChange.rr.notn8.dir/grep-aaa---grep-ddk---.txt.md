@@ -102,3 +102,6 @@
   - # queen we will rock you drum tab beatbox "b b t -"
   - # queen we will rock you drum tab beatbox "b b - -"
   - # queen "we will rock you" drum tab "x x - -" site:x.com
+  - #d                   {right 10} {s 10}{
+  - #d                 {home}  {right 10} {s 10}{
+  - #d                 {home}  {right 10} {s 30}{

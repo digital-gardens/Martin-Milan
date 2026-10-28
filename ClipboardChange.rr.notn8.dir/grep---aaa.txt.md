@@ -838,3 +838,11 @@
   - # songwiki Drum Pattern Development
   - # "songwiki" Drum Pattern
   - # queen "we will rock you" 
+  - #IfWinActive
+- ######   píseň můj čas texty.md
+  -   - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\z.repeatSpace\Dydovič Pavel - Bláznova ukolébavka text a akordy na YouSongs.cz.md
+  - - ######   píseň můj čas texty.md
+  - #d                   {right 10} {s 10}{
+  - #d                 {home}  {right 10} {s 10}{
+  - #d                 {home}  {right 10} {s 30}{
+  - - # #bug BOM is  why is this line not grepped
