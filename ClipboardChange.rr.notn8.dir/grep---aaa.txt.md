@@ -846,3 +846,27 @@
   - #d                 {home}  {right 10} {s 10}{
   - #d                 {home}  {right 10} {s 30}{
   - - # #bug BOM is  why is this line not grepped
+  - ###### - Your plan is canceled and won't renew. You'll continue to have access to ChatGPT Plus until Nov 27, 2026
+  - ###### - Free   - Account Type   - https://www.diigo.com/setting
+  - - ###### Nohavica Jaromír - Dokud se zpívá 3471 x
+  -   - - ###### Nohavica Jaromír - Dokud se zpívá 3471 x
+  - # groove Drums and Rhythm
+  - # github groove
+  - # wiki basic rock beat four on the floor beat money beat 
+  - # list of songs by rhythmic pattern
+  - # Basic Rock Beats Every New Drummer Should Learn - MKE Music Lessons
+  -   - # Basic Rock Beats Every New Drummer Should Learn - MKE Music Lessons
+  - # DrumGen Pattern Template v1
+- ###### w w 
+- ###### ^f12  
+  - ###### - ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+  - ###### - Nohavica Jaromír - Dokud se zpívá
+- ###### ;Error:  Can't open clipboard for reading.
+  - - ###### Nohavica Jaromír - Dokud se zpívá 3471 x
+  - - ###### ^f12  
+  - # pre inst ogg?
+  - ###### respnt  - Web Media Extensions
+  - ###### - The Web Media Extensions package extends Microsoft Edge and Windows 10 to support open source formats commonly encountered on the web. By installing this Media Extension package, users will be able to natively play content delivered in the OGG container or encoded using the Vorbis or Theora codecs. 
+  -   - ###### respnt  - Web Media Extensions
+  - # musical notation for half-bars, half-measures
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  

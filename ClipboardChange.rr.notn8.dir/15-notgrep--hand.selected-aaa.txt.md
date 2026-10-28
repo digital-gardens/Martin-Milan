@@ -45,3 +45,14 @@ psh- crash cymbal
 There is no official beatboxing alphabet but this 
   - d or dm- toms
   -   - - ## krámek pod věží,
+
+
+
+
+  - - ℹ️ #aa *G*, 80 bpm 1. Nandej mi do hlavy tvý brouky A bůh nám seber beznaděj V d hn  uši zbylo světlo z jedný holky Tak mi teď ...
+
+  - ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+  - Nohavica Jaromír - Dokud se zpívá
+
+  - 	;Send, {Down}
+- ###### ^f12  

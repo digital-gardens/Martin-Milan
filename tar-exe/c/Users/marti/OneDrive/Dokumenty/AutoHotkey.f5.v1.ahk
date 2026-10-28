@@ -748,6 +748,7 @@ Click_and_Copy(clicks) {
 
 
 ;#if ============================== not chrome ==============================
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 #IfWinActive
 ;    #IfWinActive ahk_exe code.exe
@@ -790,9 +791,11 @@ $F12::
 	Sleep, 460
 
 	;Send, ^v
-contents := SubStr( Clipboard, 1, 255)  ;
-;;;;;Send % contents
-;;;SendText % contents
+
+;Error:  Can't open clipboard for reading.
+;contents := SubStr( Clipboard, 1, 255)  ;
+;;;;;;;;Send % contents
+;;;;;SendText % contents
 ;20261025 comment out..
 ;Send {Text}%contents%
 
@@ -803,6 +806,7 @@ contents := SubStr( Clipboard, 1, 255)  ;
 }
 
 
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 #IfWinActive
 #IfWinActive ahk_exe code.exe
@@ -819,13 +823,17 @@ contents := SubStr( Clipboard, 1, 255)  ;
 	Send, !{Tab}
 	Sleep, 460
 
-contents := Clipboard
+;20261028
+	Send, ^v
+;Error:  Can't open clipboard for reading.
+;contents := Clipboard
 	;SubStr( Clipboard, 1, 255)  ;   100
+;20261028
+;Send {Text}%contents%
 
-Send {Text}%contents%
 	;Send, {Enter}
-;?? 20261025 comment out
-
+	;Send, {Down}
+; ? 20261025 comment out
 
 ;20261025try ... open 2 other windows, not this
 	Sleep, 200
@@ -836,7 +844,7 @@ Send {Text}%contents%
 }
 
 
-
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 #IfWinActive
 #IfWinActive ahk_exe code.exe
@@ -864,10 +872,8 @@ $F9::
 }
 
 
-
-
-
 ;#if ============================== not chrome ==============================
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 #IfWinActive ahk_exe totalcmd64.exe
 
@@ -894,13 +900,12 @@ $F9::
 }
 
 
-
-
-
 #IfWinActive
 ;, subsequently-created hotkeys and hotstrings are not context-sensitive.
 ;#if ==============================  ==============================
 
+
+;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 
 MsgBox NOTHING
