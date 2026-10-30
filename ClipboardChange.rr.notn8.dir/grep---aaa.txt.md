@@ -870,3 +870,48 @@
   -   - ###### respnt  - Web Media Extensions
   - # musical notation for half-bars, half-measures
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - I am interested 
+- # ℹ️ I am interested 
+- #  I apologize ... sometimes I reply  ℹ️ in a week or 2
+- ## I am researching 
+- ###### ❔ smím napsat babičce
+  - - #  I apologize ... sometimes I reply  ℹ️ in a week or 2
+  - - ###### ❔ smím napsat babičce
+  -   - ###### - | B B ts -  B B ts - |
+  -   - ###### -  "Seven Nation Army" by The White Stripes, and "Take a Chance on Me" by ABBA. 
+  - - ###### songs help me to breathe
+  - - ###### song could help me to digest my meds 
+- - # 00. ℹ️  songs help me to breathe // lyrics: Alan Walker - Fake A Smile
+  - - # 01. 02. ℹ️ songs could help me to digest my meds // lyrics: still freaking out
+- ###### Jonas Brothers - 
+  - - # //// ℹ️ 20261111  musím na kontrolu na psychiatrii ... (doufám, že se mi podaří udržet moji váhu)
+  - # //// ℹ️ 20261111  musím na kontrolu na psychiatrii ... (doufám, že se mi podaří udržet moji váhu)
+  - # //// ℹ️ 20261111  musím na kontrolu na psychiatrii ... (doufám, že se mi podaří udržet moji váhu)
+  - # Nohavica Jaromír - Dokud se zpívá 3471 x
+  - # queen "we will rock you" drum tab "x x "
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  -   - # Nohavica Jaromír - Dokud se zpívá 3471 x
+  -   - # Nohavica Jaromír - Dokud se zpívá 3471 x
+  - - # 01. 02. ℹ️ songs could help me to digest my meds 
+  - # byval worksp Browser Setup
+  - # musical notation for half-bars, half-measures
+  - # byval asi songwiki Drum Tabs & Resources
+  - # bug workspaces Beginner Drum Practice
+  - - # Nohavica Jaromír - Dokud se zpívá 3471 x
+  -  - ###### svatý Medard, můj patrón 
+  - - ###### podzemní prameny, potoky neznámé, slova jsou znamení, v
+  - # drum-patterns  "We Will Rock You" Queen
+  - ###### - https://drum-patterns.com/queen-we-will-rock-you/
+  - - # Nohavica Jaromír - Dokud se zpívá 3471 x
+  - # queen we will rock you drum machine
+  - ###### - Free drum patterns and beat loops for many music genres, including Breakbeat, - ###### Electro Funk, Hip Hop, House, Miami Bass, R&B, Reggae, Techno and more. This subbredit is a alternative place to share and discuss drum patterns shared on drum-patterns.com website. https://drum-patterns.com https://www.yo
+  - ###### - Started as an effort to bring back now defunct website 808.pixll.de. After successfully restoring around 400 drum patterns, I decided to make a website to archive and share them with others.
+- ######   -       sheetMusic: "https://www.songsterr.com/a/wsa/queen-we-will-rock-you-drum-tab-s16331",
+  - ###### - SnareDrum  = [ 0,0,0,0,1,0,0,0,1,0,0,0 ]
+  - ###### - Bdrum: | o o     o o     | o o   o o o      |  o o     o o      |  o o   o o o      |
+  - ###### - {"name":"drumbit","metadata":{"author":"","title":"Beatles Sgt. Pepper chorus beginning","remarks":""},"options":{"tempo":190,"swing":0,"kit":"1","effect":{"id":"0","level":0},"compressor":{"bypass":1,"threshold":-20,"ratio":4,"attack":0.0010000000474974513,"release":0.25,"knee":5},"lowpass":{"bypas
+  -   -  - ###### svatý Medard, můj patrón 
+  -   -   -  - ###### svatý Medard, můj patrón 
+  - # We Will Rock You Drum Tab by Queen | Songsterr Tabs with Rhythm
+  - # beatboxing songs for kids - Hledat Googlem
+  - - # Nohavica Jaromír - Dokud se zpívá 3471 x

@@ -56,3 +56,71 @@ There is no official beatboxing alphabet but this
 
   - 	;Send, {Down}
 - ###### ^f12  
+
+I am interested 
+in the discussion about time signatures and rhythm patterns, particularly the differences between 2/4 and 4/4 time. The conversation highlights how these time signatures can affect the feel and structure of music, and how they are used in various musical contexts.  - I am interested 
+
+
+---
+
+- # ℹ️ I am interested 
+
+- #  I apologize ... sometimes I reply  ℹ️ in a week or 2
+
+ // je toho na mne ted' moc
+
+- ## I am researching 
+
+some music theory
+
+and apps 
+  that can display
+    waveforms of songs
+      (bars, beats, time signature, bpm)
+
+for drumming and beatboxing
+for simple songs
+  like "We Will Rock You" by Queen ...
+    |we will we will|rock you|
+    ->
+    | B B ts -  B B ts - | B B ts -  B B ts - |
+
+---  @
+
+- # I will respond to your topics
+- I will respond to your topics   // Whatsapp
+
+@
+
+JEN WHATSAPP
+---
+
+I have replied
+ in google chat
+
+btw
+- ###### ❔ smím napsat babičce
+  Tvoje telefonní číslo?
+
+
+
+_--------
+
+  - ###### - | B B ts -  B B ts - |
+
+  - ###### -  "Seven Nation Army" by The White Stripes, and "Take a Chance on Me" by ABBA. 
+
+- # 00. ℹ️  songs help me to breathe
+
+- # 01. 02. ℹ️ songs could help me to digest my meds 
+
+
+
+
+
+- # //// ℹ️ 20261111  musím na kontrolu na psychiatrii ... (doufám, že se mi podaří udržet moji váhu)
+
+  - # Nohavica Jaromír - Dokud se zpívá 3471 x
+
+
+- ######  tabs   yyyyy
