@@ -912,7 +912,32 @@
   - ###### - {"name":"drumbit","metadata":{"author":"","title":"Beatles Sgt. Pepper chorus beginning","remarks":""},"options":{"tempo":190,"swing":0,"kit":"1","effect":{"id":"0","level":0},"compressor":{"bypass":1,"threshold":-20,"ratio":4,"attack":0.0010000000474974513,"release":0.25,"knee":5},"lowpass":{"bypas
   -   -  - ###### svatý Medard, můj patrón 
   -   -   -  - ###### svatý Medard, můj patrón 
+  - ###### - https://www.songsterr.com/a/wsa/queen-we-will-rock-you-drum-tab-s16331
   - # We Will Rock You Drum Tab by Queen | Songsterr Tabs with Rhythm
+- ######   - • Beatbox Kids – Speciální projekt a mobilní aplikace, která využívá beatbox jako nástroj pro rozvoj řeči, dýchání a rytmu u dětí (včetně knihy a videolekcí). Podrobnosti najdete na oficiálním webu Beatbox Kids.
   - # beatboxing songs for kids - Hledat Googlem
+  - ###### - 9. 8. 2026 — Free Community Edition software for audio to MIDI drums, local drum transcription, and reviewable five-line notation evidence.
+  - ###### - Gaurav Gambhir shares his journey with beatboxing, from being influenced by hip-hop culture to becoming India's first bathroom beatboxer and gaining recognition ...
   - - # Nohavica Jaromír - Dokud se zpívá 3471 x
+  - ###### - Pass The Sound is a shared learning resource, offering warm-up, skills, creative, and workshop exercises for musicians to use whilst facilitating group music-making contexts. This is our channel for learning and inspiring. 
+  - ###### - THE PERCUSSION SHOW - Street Jamming Vol.1
+  - ###### - 7) LÁSKO MÁ, JÁ STŮŇU – (K. Svoboda)
+  - ###### - A British blogger, Robb Knight had created a page where people were listing their default apps in all kinds of categories. I wanted to get on the fun. I'd been working in the Apple/Mac/iOS space since the late 90s and except for the short break after retirement, I'd always been fascinated by softwar
   - # How Obsidian Cured My Depression, Saved My Job and Gave Me a Purpose : r/ObsidianMD
+- ###### I took up bass guitar, I'll be starting lessons soon, and I'm thinking of setting up section of my vault for it. I'd love to see examples of how any music students set up their vaults for both theory and practice :-) --- ## Comments > **Personal
+- ###### Search variables...
+  - ###### - obsidian web clipper template .. Note location The folder or path of the note. ... can I set the folder "" or "." 
+  - ###### - my_index_t
+- ###### rsiguard bug again,  mouse locked but keyboard unlocked
+- ###### 00.0111--songs--music--lyrics----písně--texty\.gitignore
+  - ###### - C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\copyn8dir\n8..vsco..settings.json
+  - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\.vscode\settings.json
+- ######        rrr .doku!           - C:\Users\marti\OneDrive\Dokumenty\0111--~1\0-rrr--- ⚠️❕🎵ℹ️⏰🆘▶️➡️🔰🙏❤️ 0 rrr YouSongs.cz.md
+  - - ######   - • Beatbox Kids – Speciální projekt a mobilní aplikace, která využívá beatbox jako nástroj pro rozvoj řeči, dýchání a rytmu u dětí (včetně knihy a videolekcí). Podrobnosti najdete na oficiálním webu Beatbox Kids.
+  -   - ###### - 9. 8. 2026 — Free Community Edition software for audio to MIDI drums, local drum transcription, and reviewable five-line notation evidence.
+  -   - ###### - Gaurav Gambhir shares his journey with beatboxing, from being influenced by hip-hop culture to becoming India's first bathroom beatboxer and gaining recognition ...
+  - - ###### I took up bass guitar, I'll be starting lessons soon, and I'm thinking of setting up section of my vault for it. I'd love to see examples of how any music students set up their vaults for both theory and practice :-) --- ## Comments > **Personal
+  - - ###### Search variables...
+  - ###### aaaaa - Clippings
+  -   -   - ###### - 9. 8. 2026 — Free Community Edition software for audio to MIDI drums, local drum transcription, and .aaa reviewable five-line notation evidence.
+  -   -   - ###### - Gaurav Gambhir shares his journey with beatboxing, from being influenced by hip-hop culture to becoming India's first .aaa bathroom beatboxer and gaining recognition ...
