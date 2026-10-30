@@ -229,7 +229,6 @@ mailto                         (default)        : URL:mailto
 microsoft-edge                 (default)    : URL:microsoft-edge
 
 
-
 explorer.exe  microsoft-edge:
 start microsoft-edge://open-in-new-tab
 start microsoft-edge://
@@ -381,7 +380,13 @@ ms-retaildemo-launchstart      (default)    : URL:ms-retaildemo-launchstart
 (default)    : URL:ms-screenclip
 
 (default)    : URL:ms-screensketch
+
+
+
+
                                (default)    : URL:ms-search
+
+							   explorer.exe ms-search:
 
 
 
@@ -431,8 +436,16 @@ ms-virtualtouchpad             (default)    : URL:Virtual Touchpad
 
 (default)    : URL:ms-wcrv
                                (default)    : URL:ms-widgets
-ms-windows-search              (default)    : URL:ms-windows-search
-                               (default)    : URL:ms-windows-store
+
+
+
+							   explorer.exe ms-windows-search:
+							   
+							          (default)    : URL:ms-windows-search
+
+
+
+							   (default)    : URL:ms-windows-store
                                (default)    : URL:ms-windows-store-deskext
                                (default)    : URL:ms-windows-store2
                                (default)    : URL:ms-windowsbackup
