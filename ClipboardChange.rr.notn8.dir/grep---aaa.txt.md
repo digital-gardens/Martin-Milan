@@ -915,3 +915,4 @@
   - # We Will Rock You Drum Tab by Queen | Songsterr Tabs with Rhythm
   - # beatboxing songs for kids - Hledat Googlem
   - - # Nohavica Jaromír - Dokud se zpívá 3471 x
+  - # How Obsidian Cured My Depression, Saved My Job and Gave Me a Purpose : r/ObsidianMD
