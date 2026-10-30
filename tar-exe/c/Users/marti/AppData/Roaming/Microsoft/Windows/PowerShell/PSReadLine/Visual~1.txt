@@ -35,3 +35,4 @@ $psEditor.GetEditorContext()
 $psEditor.GetEditorContext
 87+65
 $PSVersionTable
+Get-ChildItem -Path 'Registry::HKEY_CLASSES_ROOT'

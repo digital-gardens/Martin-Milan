@@ -7,7 +7,95 @@ exit
 related   file:///C:\Users\marti\OneDrive\vscode-f8\command-colon--vscode-colon-url.f8.md
 C:\Users\marti\OneDrive\easy-extensibility--f8\alhassy--easy-extensibility.f8.ps1
 
+
+
+
+
+
+-------------------------------------
+20261031
+C:\Users\marti\OneDrive\Dokumenty\00-MM\browserEEV\custom-url,uri.f8.md
+
+
+                               (default)    : URL:antigravity
+                               (default)    : URL:antigravity-ide
+
+
+copy from powershell  fiistory
+
+
+
+start ms-settings:themes
+where.exe start
+Start-Process ms-settings:themes
+cmd
+git commit -v -a -m ...
+git push
+Invoke-Command  ms-settings:themes
+wsl -d Ubuntu-22.04
+explorer.exe   ms-settings:themes
+.\microcmd /c start    ms-settings:themes
+cmd /c start    ms-settings:themes
+cmd /c start   "C:\Users\marti\eev-wconfig\2022dragABC.mp4"
+---------
+
+did pwsh truncate my lines due to narrow window width?
+
+
+Get-ChildItem -Path 'Registry::HKEY_CLASSES_ROOT'
+Get-ChildItem -Path 'Registry::HKEY_CLASSES_ROOT/ht*'
+Get-ChildItem -Path 'Registry::HKEY_CLASSES_ROOT/ht*'  |  findstr -i  'url:'
+Get-ChildItem -Path 'Registry::HKEY_CLASSES_ROOT/h*'  |  findstr -i  'url:'
+Get-ChildItem -Path 'Registry::HKEY_CLASSES_ROOT/*'  |  findstr -i  'url:'
+Get-ChildItem -Path 'Registry::HKEY_CLASSES_ROOT/*'  |  findstr -i  'url:'   | clip
+
+
+start  vscode://
+start  vscode://c:\
+start  vscode://c:\Users
+start  vscode:c:\Users
+start vscode:file/open/c:/users
+start vscode:file/c:/users
+start   vscode://file/c:/myProject/package.json
+start vscode://file/c:/users
+start vscode://file/c:/users/
+start ms-quick-assist:
+start vscode://command/workbench.action.toggleKeybindingsLog
+start vscode://command:workbench.action.toggleKeybindingsLog
+start 'vscode://command:workbench.action.toggleKeybindingsLog'
+start   'vscode://file/c:/myProject/package.json'
+start command:workbench.action.toggleKeybindingsLog
+
+----------------
+
+$x=$x+'q'
+echo $x
+c:\Users\marti\OneDrive\0004-LINKS\hello.f5.ps1
+start microsoft-edge://open-in-new-tab
+start microsoft-edge://
+start ms-settings:
+start ms-settings://
+start ms-settings-bluetooth
+start ms-settings-bluetooth:
+start ms-settings-bluetooth://
+start vscode:
+start vscode://file/c:/users/
+start vscode://settings/powershell.helpCompletion
+edge vscode://settings/powershell.helpCompletion
+Get-ChildItem -Path 'Registry::HKEY_CLASSES_ROOT/*'  |  findstr -i  'uri:'
+start microsoftmusic
+start microsoftmusic:
+Start-Dtc   ms-crossdevice-settings:
+Start-Dtc   ms-photos:
+start ms-crossdevice-settings:
+start ms-photos:
+start xboxmusic:
+start vscode://settings/powershell.helpCompletion
+start vscode://settings/powershell
+cmd
+----------------
 250411
+
 
 
 
