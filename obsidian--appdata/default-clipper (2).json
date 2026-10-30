@@ -1,7 +1,7 @@
 {
 	"schemaVersion": "0.1.0",
-	"name": "Annotations--add-to-existing-note",
-	"behavior": "append-specific",
+	"name": "Default",
+	"behavior": "create",
 	"noteContentFormat": "{{content}}",
 	"properties": [
 		{
@@ -36,11 +36,11 @@
 		},
 		{
 			"name": "tags",
-			"value": "clippings",
+			"value": "save",
 			"type": "multitext"
 		}
 	],
 	"triggers": [],
 	"noteNameFormat": "{{title}}",
-	"path": "Annotations"
+	"path": "Clippings"
 }
