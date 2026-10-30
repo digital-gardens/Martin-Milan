@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Battery - Simple English Wikipedia, the free encyclopedia.md",
-                "mode": "source",
+                "file": "Clippings/About Ideas Now  Search 1000s of personal sites.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Battery - Simple English Wikipedia, the free encyclopedia"
+              "title": "About Ideas Now  Search 1000s of personal sites"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#aaaaaaa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,6 +216,13 @@
   },
   "active": "ddd52534c1dba1ad",
   "lastOpenFiles": [
+    "browserEEV/doku",
+    "browserEEV/devtools-browserEEV-250505.f8.md",
+    "browserEEV/browserEEV.f8.md.js",
+    "browserEEV/browserEEV.f8.md",
+    "browserEEV/custom-url,uri.f8.ps1",
+    "browserEEV",
+    "Clippings/Battery - Simple English Wikipedia, the free encyclopedia.md",
     "obsidian--appdata/obsidian-web-clipper-settings (3).json",
     "obsidian--appdata/default-clipper (1).json",
     "obsidian--appdata/default-clipper (2).json",
@@ -226,10 +234,6 @@
     "Clippings/Lindy effect.md",
     "00.0111--songs--music--lyrics----písně--texty/Annotations/We Will Rock You.md",
     "obsidian--appdata/default-clipper.json",
-    "obsidian--appdata/clipper-templates-main.zip",
-    "obsidian--appdata/my_index_t-clipper.json",
-    "obsidian--appdata/my-old-t-to-root-subfolder-clipper.json",
-    "obsidian--appdata/annotations--add-to-existing-note-clipper.json",
     "0111--songs--music--lyrics----písně--texty/grep--hhaa---filename.txt.md",
     "0111--songs--music--lyrics----písně--texty/grep---aaa.txt.md",
     "00.0111--songs--music--lyrics----písně--texty/04-COPY/0111 i1 aaa master seznam-hudebníků.md",
@@ -252,9 +256,6 @@
     "00.0111--songs--music--lyrics----písně--texty/0004-NEW.md",
     "00.0111--songs--music--lyrics----písně--texty/0004  0111 grep weigh high    20260813.f8.sh.md",
     "00.0111--songs--music--lyrics----písně--texty/00 s0 zpivani r-SingingAsCoping.md",
-    "Stamp, Slap, Slide 5 minute Body Percussion Exercise - a fun clapping activity Follow Along.md",
-    "Clippings/Press Releases (in 24 languages) – The European Union Songbook Association.md",
-    "a..i10..knowledge/Luhmann codes for math.md",
     "03.publ.dir/image.png",
     "20260511-claude.ai/attachments/Pasted image 20260526233240.png",
     "260314--tree-doc/26/screenshot-1774061654670.png",
