@@ -3792,3 +3792,4 @@ pwsh
 agy
 exit
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
+explorer "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir"
