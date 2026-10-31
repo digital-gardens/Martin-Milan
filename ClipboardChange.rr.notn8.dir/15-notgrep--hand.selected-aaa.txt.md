@@ -171,7 +171,7 @@ now clip something to default clippings folder
 
 
 
-1 remains
 - # google image search ".rrr.rrt" 
 
+- ###### todo find files rrr 
 
