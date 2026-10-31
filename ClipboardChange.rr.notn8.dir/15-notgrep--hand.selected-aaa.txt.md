@@ -124,3 +124,39 @@ _--------
 
 
 - ######  tabs   yyyyy
+
+
+
+
+
+
+
+
+- # --..0001.README.LINKS.publ.dir
+done
+  -   - ###### - https://github.com/digital-gardens/Martin-Milan/tree/main/20-------20260519-attempt-move-repo/sort-order/-.LINKS
+
+done
+explorer "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir"
+grep-obsi-clippi--.txt.md"
+  - 20261031.grep-obsi-clippi--.txt.md
+  - C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\20261031.grep-obsi-clippi--.txt.md
+
+
+done
+C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-obsi-clippi.f5.sh
+  - cd "C:\Users\marti\OneDrive\11c3aaaa\11clippi\Clippings"
+  - cd "C:\Users\marti\OneDrive\11c3aaaa\11clippi\5.Clippings"
+  - grep      -R     -E  -i       --no-filename      '^ *[-] [- ]*[#]+'     .  	 
+  
+
+
+
+template
+dir
+--
+5.Clippings
+04.LINKS
+03.Annotations
+
+--..0001.README.LINKS.publ.dir
