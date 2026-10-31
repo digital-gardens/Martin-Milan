@@ -37,3 +37,5 @@ $psEditor.GetEditorContext
 $PSVersionTable
 Get-ChildItem -Path 'Registry::HKEY_CLASSES_ROOT'
 explorer.exe  microsoft-edge:
+explorer.exe ms-search:
+explorer.exe ms-windows-search:

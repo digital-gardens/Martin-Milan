@@ -938,6 +938,7 @@
   -   - ###### - Gaurav Gambhir shares his journey with beatboxing, from being influenced by hip-hop culture to becoming India's first bathroom beatboxer and gaining recognition ...
   - - ###### I took up bass guitar, I'll be starting lessons soon, and I'm thinking of setting up section of my vault for it. I'd love to see examples of how any music students set up their vaults for both theory and practice :-) --- ## Comments > **Personal
   - - ###### Search variables...
+- ######  file:///C:/Users/marti/OneDrive/
   -   -   - ###### - 9. 8. 2026 — Free Community Edition software for audio to MIDI drums, local drum transcription, and .aaa reviewable five-line notation evidence.
   -   -   - ###### - Gaurav Gambhir shares his journey with beatboxing, from being influenced by hip-hop culture to becoming India's first .aaa bathroom beatboxer and gaining recognition ...
   - ## Artist: {{selector:.album_info td|slice:1,2}}
@@ -951,3 +952,4 @@
 - ###### /:user_id/:repository
 - ###### /<user-name>/<repo-name>
 - ###### meta:name:twitter:site
+  - - # Nohavica Jaromír - Dokud se zpívá 3471 x

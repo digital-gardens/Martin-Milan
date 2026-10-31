@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "We Will Rock You"
             }
+          },
+          {
+            "id": "1d69acda3795057c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annotations/We Will Rock You.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for We Will Rock You"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -114,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annotations/We Will Rock You.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from We Will Rock You"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -143,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annotations/We Will Rock You.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of We Will Rock You"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -169,8 +184,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41e1f0c55eb0692d",
+  "active": "1d69acda3795057c",
   "lastOpenFiles": [
-    "Annotations/We Will Rock You.md"
+    "Annotations/We Will Rock You.md",
+    "Untitled.md"
   ]
 }
