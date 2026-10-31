@@ -1,3 +1,12 @@
+  - - # #bug BOM
+- # ^a ^c 255 chars 
+- #    ||: repeatSpace :||
+- # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- # --- todo slightly increase the 255
+
+
+
 - # ||: .repeatSpace // .0111.ddk.rrr 🎵 :||
 - # .0111.ddk.rrr 
 - # .0111.rr 
@@ -174,4 +183,34 @@ now clip something to default clippings folder
 - # google image search ".rrr.rrt" 
 
 - ###### todo find files rrr 
+
+
+
+
+- # 20261031 hierarchy of ~user ~interfaces ... philosophically
+ # 20261031 hierarchy of  ~interfaces ... philosophically ... of the internet
+- web application
+- web site
+- web browser
+- web browser extension
+
+- http
+- tcp
+- ip
+
+- LAN
+
+- operating system
+
+
+ # hierarchy of  ~interfaces ... philosophically ... of a person 
+
+- asking them in person
+- calling them on the phone
+
+- texting them on the phone
+- emailing them
+
+- reading their social media account ... profile page 
+
 

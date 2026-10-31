@@ -772,12 +772,14 @@
   - ###### - P-Code examples
   -   - ###### - Free Beat Finder — Detect Beats & Downbeats Online | Cuty.ai
 - ###### grep *clipboard_log*
+- # ^a ^c 255 chars 
 - #    ||: repeatSpace :||
 - # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
-- ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh
 - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- ###### --- todo slightly increase the 255 
 - ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\15-notgrep--hand.selected-aaa.txt.md
 - # on splitting the clipboard log into the old and new parts
+- ###### file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh
   - ###### 1027 test splitting to - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\20261025.clipboard_log.rr.n8.txt.md
   - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\MOVE VERY OLD TO doku .. ClipboardChange.rr.n8.dir
   - ###### - C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\z.repeatSpace\Dydovič Pavel - Bláznova ukolébavka text a akordy na YouSongs.cz.md
@@ -955,3 +957,19 @@
   - - # Nohavica Jaromír - Dokud se zpívá 3471 x
   - ###### - https://github.com/digital-gardens/Martin-Milan/tree/main/20-------20260519-attempt-move-repo/sort-order/!.LINKS
   - ###### - https://github.com/digital-gardens/Martin-Milan/tree/main/20-------20260519-attempt-move-repo/sort-order/-.LINKS
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - ###### --..0001.README.LINKS.publ.dir
+  - - # --..0001.README.LINKS.rrr.rrt
+  - - # --..0001.README.LINKS.rrr.rrt
+- # ^a ^c 255 chars 
+- #    ||: repeatSpace :||
+- # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
+- #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
+- # --- todo slightly increase the 255
+  -   - - # --..0001.README.LINKS.rrr.rrt
+  -  # 20261031 hierarchy of  ~interfaces ... philosophically ... of a person using the internet
+  -  # hierarchy of  ~interfaces ... philosophically ... of a person 
+  - - # 20261031 hierarchy of ~user ~interfaces ... philosophically
+  -  # 20261031 hierarchy of  ~interfaces ... philosophically ... of the internet
+  -  # hierarchy of  ~interfaces ... philosophically ... of a person 
+  - # hierarchy of ~interfaces ... philosophically ... of a person ... ordered by reaction time 
