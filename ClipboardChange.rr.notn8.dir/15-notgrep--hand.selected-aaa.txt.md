@@ -132,7 +132,8 @@ _--------
 
 
 
-- # --..0001.README.LINKS.publ.dir
+- # --..0001.README.LINKS.rrr.rrt
+.publ.dir
 done
   -   - ###### - https://github.com/digital-gardens/Martin-Milan/tree/main/20-------20260519-attempt-move-repo/sort-order/-.LINKS
 
@@ -170,5 +171,7 @@ now clip something to default clippings folder
 
 
 
-- ###### --..0001.README.LINKS.publ.dir
 1 remains
+- # google image search ".rrr.rrt" 
+
+
