@@ -55,14 +55,10 @@
             "id": "ddd52534c1dba1ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/About Ideas Now  Search 1000s of personal sites.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "About Ideas Now  Search 1000s of personal sites"
+              "title": "New tab"
             }
           }
         ],
@@ -216,6 +212,7 @@
   },
   "active": "ddd52534c1dba1ad",
   "lastOpenFiles": [
+    "5.Clippings/ASCII.md",
     "browserEEV/custom-url,uri.f8.md",
     "browserEEV/doku",
     "browserEEV/devtools-browserEEV-250505.f8.md",
@@ -255,7 +252,6 @@
     "00.0111--songs--music--lyrics----písně--texty/0111 250309 abecední seznam hudebníků a písní, které máme společné.md",
     "00.0111--songs--music--lyrics----písně--texty/0004-NEW.md",
     "00.0111--songs--music--lyrics----písně--texty/0004  0111 grep weigh high    20260813.f8.sh.md",
-    "00.0111--songs--music--lyrics----písně--texty/00 s0 zpivani r-SingingAsCoping.md",
     "03.publ.dir/image.png",
     "20260511-claude.ai/attachments/Pasted image 20260526233240.png",
     "260314--tree-doc/26/screenshot-1774061654670.png",

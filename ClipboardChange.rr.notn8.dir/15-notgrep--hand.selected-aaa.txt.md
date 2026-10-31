@@ -156,7 +156,12 @@ template
 dir
 --
 5.Clippings
-04.LINKS
+////////04.LINKS
 03.Annotations
 
---..0001.README.LINKS.publ.dir
+
+now clip something to default clippings folder
+  - ###### - then run #d scripts hodinovy
+  then ghd
+
+- ###### --..0001.README.LINKS.publ.dir
