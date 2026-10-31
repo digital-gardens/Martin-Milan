@@ -151,17 +151,24 @@ C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-obsi-clippi.f5.sh
   
 
 
-
+done
 template
 dir
 --
 5.Clippings
 ////////04.LINKS
 03.Annotations
+expotr
+copy p
+push
 
 
+done
 now clip something to default clippings folder
   - ###### - then run #d scripts hodinovy
   then ghd
 
+
+
 - ###### --..0001.README.LINKS.publ.dir
+1 remains
