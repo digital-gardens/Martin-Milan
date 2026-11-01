@@ -965,11 +965,18 @@
 - ###### // highlighting and annotating
   - ###### // of your messages from 10/28/2026 
  - # // in my vscode // in a markdown file
-- # // btw, i have a shell script, that publishes only the lines, that ℹ️  start with `- #` 
+- # // btw, i have a git bash script, that saves to github only the lines, that ℹ️  start with `- #` 
+- ### ///// the script uses grep on  files in C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
 - # // ℹ️ and, as usual, some of the lines in my vscode are written by, or finished by, an AI
  - ###### I started vigorously studying Machine Learning mechanisms again after a long drought of no ML progress (I switched to different domains, the last time I opened a PY file that was about ML was from a tutorial in december).
 - ###### // by the way, I am a fan of Andrej Karpathy, and I joined his Discord server 
   - ###### but my Triton knowledge is a bit scuffed. This test with the AIs was entirely for study purposes)
+- ###### // but  I know what is a geometric algebra, and a tensor algebra
+- ###### // btw, I like to collect morphisms... 💚... some of my favorite morphisms are
+- ###### // the monomorphism of the complex numbers to matrices // that correspond to multivectors in the geometric algebra G2
+- ###### //the monomorphism of the quaternions to complex matrices // that correspond to multivectors in the geometric algebra G3
+- ###### // or maybe he is a MoE (mixture of experts) model (?) that has multiple personalities and switches between them based on the context of the conversation. (?) This can lead to inconsistent behavior and responses, as different "personalities" may have different knowledge, biases, and communication styles. (?)
+- ###### // and that reminds me  about the book Society of Mind by Marvin Minsky, which describes the mind as a collection of interacting agents, each with its own specialized knowledge and abilities. 
 - # ^a ^c 255 chars 
 - #    ||: repeatSpace :||
 - # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
@@ -983,7 +990,7 @@
   -  # hierarchy of  ~interfaces ... philosophically ... of a person 
   - # hierarchy of ~interfaces ... philosophically ... of a person ... ordered by reaction time 
   - ###### scheduled sending ... not in whapp, yes in gchat
-  - - # // btw, i have a shell script, that publishes only the lines, that ℹ️  start with `- #`  //// a simplified explanation 
+    - - # // btw, i have a shell script, that publishes only the lines, that ℹ️  start with `- #`  //// a simplified explanation 
   -   - ###### // your messages from 10/28/2026 
 - ###### // so i finally got around to do some annotating
   - ###### // of your messages from 10/28/2026 
