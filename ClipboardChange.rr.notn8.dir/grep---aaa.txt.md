@@ -961,6 +961,15 @@
   - - ###### --..0001.README.LINKS.publ.dir
   - - # --..0001.README.LINKS.rrr.rrt
   - - # --..0001.README.LINKS.rrr.rrt
+- # // ℹ️ at night .. scheduled sending ... not in whapp, yes in gchat
+- ###### // highlighting and annotating
+  - ###### // of your messages from 10/28/2026 
+ - # // in my vscode // in a markdown file
+- # // btw, i have a shell script, that publishes only the lines, that ℹ️  start with `- #` 
+- # // ℹ️ and, as usual, some of the lines in my vscode are written by, or finished by, an AI
+ - ###### I started vigorously studying Machine Learning mechanisms again after a long drought of no ML progress (I switched to different domains, the last time I opened a PY file that was about ML was from a tutorial in december).
+- ###### // by the way, I am a fan of Andrej Karpathy, and I joined his Discord server 
+  - ###### but my Triton knowledge is a bit scuffed. This test with the AIs was entirely for study purposes)
 - # ^a ^c 255 chars 
 - #    ||: repeatSpace :||
 - # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
@@ -973,3 +982,10 @@
   -  # 20261031 hierarchy of  ~interfaces ... philosophically ... of the internet
   -  # hierarchy of  ~interfaces ... philosophically ... of a person 
   - # hierarchy of ~interfaces ... philosophically ... of a person ... ordered by reaction time 
+  - ###### scheduled sending ... not in whapp, yes in gchat
+  - - # // btw, i have a shell script, that publishes only the lines, that ℹ️  start with `- #`  //// a simplified explanation 
+  -   - ###### // your messages from 10/28/2026 
+- ###### // so i finally got around to do some annotating
+  - ###### // of your messages from 10/28/2026 
+ - ###### // in my vscode
+  - - # // ℹ️ and as usual, some of the lines in my vscode are written or finished by an AI
