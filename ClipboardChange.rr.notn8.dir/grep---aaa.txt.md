@@ -961,7 +961,10 @@
   - - ###### --..0001.README.LINKS.publ.dir
   - - # --..0001.README.LINKS.rrr.rrt
   - - # --..0001.README.LINKS.rrr.rrt
+- ###### 20261102 oops edit
+ - ### U(n) is a Lie group
 - # // ℹ️ at night .. scheduled sending ... not in whapp, yes in gchat
+ - ###### // so i finally got around 🎵  to do some
 - ###### // highlighting and annotating
   - ###### // of your messages from 10/28/2026 
  - # // in my vscode // in a markdown file
@@ -971,6 +974,7 @@
  - ###### I started vigorously studying Machine Learning mechanisms again after a long drought of no ML progress (I switched to different domains, the last time I opened a PY file that was about ML was from a tutorial in december).
 - ###### // by the way, I am a fan of Andrej Karpathy, and I joined his Discord server 
   - ###### but my Triton knowledge is a bit scuffed. This test with the AIs was entirely for study purposes)
+ - ###### ###### // btw, i tried 2 times to learn about Lie Algebras - ###### 20261102 oops edit
 - ###### // but  I know what is a geometric algebra, and a tensor algebra
 - ###### // btw, I like to collect morphisms... 💚... some of my favorite morphisms are
 - ###### // the monomorphism of the complex numbers to matrices // that correspond to multivectors in the geometric algebra G2
@@ -990,9 +994,21 @@
   -  # hierarchy of  ~interfaces ... philosophically ... of a person 
   - # hierarchy of ~interfaces ... philosophically ... of a person ... ordered by reaction time 
   - ###### scheduled sending ... not in whapp, yes in gchat
-    - - # // btw, i have a shell script, that publishes only the lines, that ℹ️  start with `- #`  //// a simplified explanation 
   -   - ###### // your messages from 10/28/2026 
 - ###### // so i finally got around to do some annotating
   - ###### // of your messages from 10/28/2026 
  - ###### // in my vscode
   - - # // ℹ️ and as usual, some of the lines in my vscode are written or finished by an AI
+  - - ######   - • Beatbox Kids – Speciální projekt a mobilní aplikace, která využívá beatbox jako nástroj pro rozvoj řeči, dýchání a rytmu u dětí (včetně knihy a videolekcí). Podrobnosti najdete na oficiálním webu Beatbox Kids.
+  -   - ###### - Gaurav Gambhir shares his journey with beatboxing, from being influenced by hip-hop culture to becoming India's first bathroom beatboxer and gaining recognition ...
+  -  - ###### // so i finally got around 🎵  to do some
+ - ###### // so i finally got around 🎵  to do some
+- ###### // highlighting and annotating
+  - ###### // of your messages from 10/28/2026 
+ - # // in my vscode // in a markdown file
+- # // btw, i have a git bash script, that saves to github only the lines, that ℹ️  start with `- #` 
+- ###### most simple bases for periodic functions, that are discretized and quantized
+- ###### discrete fourier transform (DFT) is a mathematical technique used in signal processing and image analysis to convert a discrete signal from the time domain into the frequency domain. It allows us to analyze the frequency components of a signal, which can be useful for various applications such as filtering, compression, and feature extraction.
+ - ### U(n) is a Lie group
+  - - ###### 20261102 oops edit
+  -  - ###### ###### // btw, i tried 2 times to learn about Lie Algebras - ###### 20261102 oops edit
