@@ -1012,3 +1012,6 @@
  - ### U(n) is a Lie group
   - - ###### 20261102 oops edit
   -  - ###### ###### // btw, i tried 2 times to learn about Lie Algebras - ###### 20261102 oops edit
+  -   - ###### but my Triton knowledge is a bit scuffed. This test with the AIs was entirely for study purposes)
+  -  - ###### ###### // btw, i tried 2 times to learn about Lie Algebras - ###### 20261102 oops edit
+  - - ###### simple rhythm 
