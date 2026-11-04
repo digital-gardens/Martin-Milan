@@ -1015,3 +1015,5 @@
   -   - ###### but my Triton knowledge is a bit scuffed. This test with the AIs was entirely for study purposes)
   -  - ###### ###### // btw, i tried 2 times to learn about Lie Algebras - ###### 20261102 oops edit
   - - ###### simple rhythm 
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- # what is "replicative system" in (ai prompt) How could I turn what we've been doing in this thread into a replicative system?
