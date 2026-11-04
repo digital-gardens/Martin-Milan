@@ -1017,3 +1017,12 @@
   - - ###### simple rhythm 
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
 - # what is "replicative system" in (ai prompt) How could I turn what we've been doing in this thread into a replicative system?
+  - # Focus My Energy
+  - # Focus My Energy
+- ###### Match the user's workload to their current mental bandwidth by classifying tasks
+  - ###### - https://gemini.google.com/customize/skills
+- ######    - focus-my-energy
+- ###### C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\GEM's become Skills focus-my-energy.md   -  - https://gemini.google.com/customize/skills
+  - # DIP WINDOW lunch
+  -         - ###### `Sharp`, post-lunch 1:30–3:30 PM → `Steady / Dip`, late Friday afternoon
+  -         - ###### `Sharp`, post-lunch 1:30–3:30 PM → `Steady / Dip`, late Friday afternoon
