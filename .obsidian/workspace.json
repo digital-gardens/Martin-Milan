@@ -55,10 +55,14 @@
             "id": "ddd52534c1dba1ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "03.Annotations/Nicolas Bourbaki.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nicolas Bourbaki"
             }
           }
         ],
@@ -115,8 +119,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,6 +215,14 @@
   },
   "active": "ddd52534c1dba1ad",
   "lastOpenFiles": [
+    "powershell-f8/20261105-adm-pwsh--minor-mistake/z04-🎵/ConsoleHost_history.txt",
+    "powershell-f8/20261105-adm-pwsh--minor-mistake/z04-🎵",
+    "powershell-f8/20261105-adm-pwsh--minor-mistake/z03--PRISTE-RADEJI-NE-MV-PATH1-NIC----VIZ-SYSTEM32",
+    "powershell-f8/20261105-adm-pwsh--minor-mistake/z02--PRISTE-RADEJI-TOTALCMD64---but-not-from-.admin.-shell",
+    "powershell-f8/20261105-adm-pwsh--minor-mistake/z01-bylo-v-system32",
+    "powershell-f8/20261105-adm-pwsh--minor-mistake/ConsoleHost_history.txt",
+    "powershell-f8/20261105-adm-pwsh--minor-mistake",
+    "03.Annotations/Nicolas Bourbaki.md",
     "ClipboardChange.rr.notn8.dir/15-notgrep-🎵-hand.selected-aaa.txt.md",
     "04 mb75 edge2----/a",
     "04 mb75 edge2----/milan mb75 edge2 02-meta-rr-repeatSpace  .  see 01 02-HODINOVY 03 04.md",
@@ -229,16 +240,10 @@
     "--..0001.README.LINKS.rrr.rrt/todo link to 5.Clippings/PLACEHOLDER.f8.md",
     "--..0001.README.LINKS.rrr.rrt/todo link to 03.Annotations/PLACEHOLDER.f8.md",
     "--..0001.README.LINKS.rrr.rrt/todo link to 03.Annotations",
-    "--..0001.README.LINKS.rrr.rrt/todo link to 5.Clippings",
     "--..0001.README.LINKS.rrr.rrt/todo README.md",
     "--..0001.README.LINKS.rrr.rrt/Stamp, Slap, Slide 5 minute Body Percussion Exercise - a fun clapping activity Follow Along.md",
-    "--..0001.README.LINKS.rrr.rrt/todo 0000-url-file.f4-edit.f5.url",
     "--..0001.README.LINKS.rrr.rrt/0004new.md",
-    "--..0001.README.LINKS.rrr.rrt/desktop.ini",
     "--..0001.README.LINKS.rrr.rrt/PLACEHOLDER.f8.md",
-    "--..0001.README.LINKS.rrr.rrt/4 0404",
-    "--..0001.README.LINKS.rrr.rrt/4 a..03..topic-system..itself",
-    "--..0001.README.LINKS.rrr.rrt/a..právo.na.únavu  4   .0111.rrr",
     "--..0001.README.LINKS.publ.dir/todo README.md",
     "--..0001.README.LINKS.publ.dir/README.md",
     "--..0001.README.LINKS.publ.dir/Stamp, Slap, Slide 5 minute Body Percussion Exercise - a fun clapping activity Follow Along.md",
@@ -246,8 +251,6 @@
     "ClipboardChange.rr.notn8.dir/grep-obsi-clippi--.txt.md",
     "5.Clippings/ASCII.md",
     "browserEEV/custom-url,uri.f8.md",
-    "browserEEV/devtools-browserEEV-250505.f8.md",
-    "browserEEV/browserEEV.f8.md",
     "00.0111--songs--music--lyrics----písně--texty/20260715_180834.jpg",
     "00.0111--songs--music--lyrics----písně--texty/20260715_180759.jpg",
     "00.0111--songs--music--lyrics----písně--texty/20260715_183751.jpg",
