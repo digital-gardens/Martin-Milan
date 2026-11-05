@@ -1028,6 +1028,7 @@
   -         - ###### `Sharp`, post-lunch 1:30–3:30 PM → `Steady / Dip`, late Friday afternoon
 - ######   - An intriguing mission to L1 has caught my eye, one with implications for solar sail development as well as climate issues here on Earth. But the research on that story is taking longer than I anticipated, so for today I want to cut to a brief account of the new dwarf planet candidate in the outer So
 - ###### [^ ] extra rozpustny 
+- ###### Vest Pivečka solené 80g
 - ###### Domácnost a Zahrada - Sádra bílá plastická 1 kg1 kg
 - ###### Domácnost a Zahrada - GERA S1 SR polobotka černá/šedá 461 ks
 - ###### Domácnost a Zahrada - Kartonové rozlišovací pásky Economy
@@ -1040,3 +1041,29 @@
   - # 008 aaaaa 250825 skupina meta-informace: kde najít jiné informace: webové odkazy 250825 - Google Photos
   - # 245f Čistič-Viktor AAAAa 244m
   - # 008 🎵  aaaaa 250825 skupina meta-informace: kde najít jiné informace: webové odkazy 250825 - Google Photos
+  - - ###### Vest Pivečka solené 80g
+  - - ###### Vest Pivečka solené 80g
+  - - ###### Vest Pivečka solené 80g
+  - ###### - kill -Force -Name RSIGuard -Verbose -Debug
+  - ###### - mkdir d:\z03--PRISTE-RADEJI-NE-MV-PATH1-NIC----VIZ-SYSTEM32
+  - ###### - mkdir d:\z02--PRISTE-RADEJI-TOTALCMD64---but-not-from-.admin.-shell
+- ###### source: "https://github.com/digital-gardens/Martin-Milan/blob/main/powershell-f8/20261105-adm-pwsh--minor-mistake/ConsoleHost_history.txt"
+  - # ghd anomalies
+  - # is:issue "the file is empty" Issues · desktop/desktop
+- ###### source: "https://github.com/desktop/desktop/issues?q=is%3Aissue+%22the+file+is+empty%22"
+  - ###### - 03.Annotations\is issue the file is empty Issues · desktop desktop.md
+  -   - - ###### - Python 🐍, Základy C++, SQL
+- ###### description: "Matematika vyprávěná tak, jak vznikala: nejdřív otázka, potom člověk, který si ji položil, pak myšlenka a teprve nakonec vzorec."
+  - ###### - beatbox cover of popular songs  
+  - ###### - 👵 Domácí zdravotní péče a pečovatelská služba
+- ###### source: "https://www.praha16.eu/mestska-cast/socialni-sluzby-seniori-zdravotnictvi/zdravotnicka-zarizeni/"
+  - ###### - Pokud máte zájem současně o aplikaci vakcíny na covid-19, je potřeba se telefonicky či emailem domluvit (Covid se bude objednávat zvlášť dle zájmu)
+  - ###### - Lékaři: MUDr. Irena Spilková, MUDr. Jan Spilka
+  - ###### - V době naší nepřítomnosti nás zastupuje:
+  - ###### - Prosíme tedy, abyste si vlastní obsah telefonátu rozmysleli a hlavně připravili, tedy co vlastně zamýšlíte řešit. Pokud potřebujete recepty, tak pro koho, jaké, případně jaké máte dávkování a sílu jednotlivých léků. Pokud chcete vyřídit neschopenku: od kdy a adresu zaměstnavatele - nikoliv pobočku, 
+  - # Ordinační hodiny MUDr. Krausové - Google Gemini
+  - ###### - https://myaccount.google.com/language
+  - ###### - Ve kterých stádiích Alzheimerovy nemoci..může mít smysl..psát si poznámky na papír nebo do sešitu 
+- ######   - MUDr. Radmila Krausová Adresa: Sídliště 1100, Praha-Radotín (stejné patro, naproti chirurgii) Telefon: 257 912 195 E-mail:
+  - ###### - https://www.idnes.cz/praha/zpravy/tisnova-linka-pomoc-zdravotnik-pohotovost-zachranna-sluzba.A250115_091555_praha-zpravy_idh
+  - ###### - Málokdo ví, kam volat, když nechce zatěžovat tísňovou linku záchranné služby. Číslo 800 888 155 na konzultační call centrum, které vzniklo v roce 2009 jako doplněk k tísňové lince, je totiž těžké dohledat.

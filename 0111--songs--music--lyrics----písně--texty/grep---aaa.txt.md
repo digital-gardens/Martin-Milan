@@ -40,6 +40,7 @@
 - ℹ️ #aaa Bmp 130 Sólo: 2x Skončili jsme, jasná zpráva, proč o tebe zakopávám dál, projít bytem já abych se bál. Dík ...
 -  *C*, 3/4 rytmus: 180 bpm Tuhle písničku chtěl bych Ti, lásko, dát Ať Ti každej den připomíná Toho, kdo je Tvůj, čí ...
 -  Jednou plác' mě přes rameno Johny zvanej Knecht: "Mám pro tebe, hochu, v pácu moc fajnovej kšeft!" Objednal hned ...
+-  Vest Pivečka solené 80g
  - ℹ️ #aaaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední 
 -  ### ℹ️ #aaaaa Nohavica Jaromír
 -  ### ℹ️ #aaaaa Nedvědi
@@ -370,6 +371,43 @@
 -  #aaa Když Sever válčí s Jihem a zem jde do války na polích místo bavlny teď rostou bodláky. Ve stínu u silnice vidím z ...  
 -  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...  
 - # #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední   
+### [Artis - Bohemians 1:2, hosté dohrávku otočili, domácí byli od 20. minuty v deseti](https://www.idnes.cz/fotbal/prvni-liga/chance-liga-artis-bohemians-11-kolo-zpravodajstvi-online.A261104_130005_fotbal_duff)
+- **MUDr. Radmila Kernerová** – praktická pro dospělé (zaměření na osoby se specifickými potřebami, handicapem a seniory), Sídliště 1100  
+- **MUDr. Ilona Králová, MUDr. Pavla Potančoková** – praktická pro dospělé, Vrážská 100/12  
+- **MUDr. Irena Spilková** – praktická pro dospělé, Sídliště 1100  
+- **MUDr. Radmila Krausová** – praktická pro dospělé, Sídliště 1100  
+- **MUDr. Martina Pánková** – pediatrie & homeopatie, Sídliště 1100  
+- **MUDr. Petráčková Irena, Dr. Tkachenko Liliia** – pediatrie, Sídliště 1100  
+- **MUDr. Libuše Waldmannová** – interna, diabetologie, EKG (na počkání); Sídliště 1100  
+- **Kardiologie Radotín, MUDr. Jozef Petrus** – Vrážská 100/12a  
+- **MUDr. Kateřina Márová** – cévní, Sídliště 1100  
+- **Doc. MUDr. Irena Špásová CSc., MUDr. Pavel Špás, MUDr. Viliam Meissner** – plicní, Sídliště 1100  
+- **Gynekologie: MUDr. Karel Hurt, DrSc.** a **MUDr. Ivana Effenbergerová** – Sídliště 1100  
+- **Urologie a andrologie: MUDr. Pavel Pokuta** – Sídliště 1100  
+- **Mgr. Irena Šáchová, Mgr. Žaneta Dostálová, Mgr. Anna Dlouhá** – Vrážská 73/10  
+- **MUDr. Lenka Fischerová** – stomatologie, Otínská 594/18  
+- **Dr. Olga Sydorenko** - stomatologie, Sídliště 1100  
+- **MUDr. Martin Laštovka** – soukromá zubní ordinace, Sídliště 1100  
+- **MUDr. Daniela Rejchrtová** – soukromá zubní ordinace, Sídliště 1100  
+- **MUDr. Michal Mašek**, **Tomáš Přichystal, Kateřina Živná**, **MDDr.** **Kateřina Potůčková, Lukáš Vlasák** – stomatochirurgie/implantologie, Tachovská 609/8  
+- **Pavlína Nachlingerová** – zubní laboratoř, Sídliště 1100  
+- **Simona Šimková, DiS.** – dentální hygiena, Tachovská 609/8  
+- **ORL Radotín s.r.o.,** **MUDr. Jiří Slezák, MUDr. Šimon Del Maschio, MUDr. Zuzana Musilová** - Sídliště 1100
+- **MUDr. Marek Šesták, MUDr. Pavel Pokorný, MUDr. Pavel Jordanidis** – Sídliště 1100  
+- **MUDr. Hana Vladyka Fučíková, Šárka Horká, Ladislav Smetana, Olga Trávníčková Kittlerová** – neurologie a rehabilitace, Sídliště 1100  
+- **Fyzioterapie** – Kateřina Morávková / Bc. Martina Martincová, Sídliště 1100  
+- **Oční centrum Lensi** – ordinace a optika na Sídliště 1100  
+- **SM Optik** – lokální optika, nám. Osvoboditelů 1372  
+- **Synlab** – odběry bez objednávky (s výjimkou OGTT), Sídliště 1100 (poliklinika Radotín, suterén)  
+- **Dermatologie (kožní)** – MUDr. Andrea Vocilková a MUDr. Anežka Kreisslová, Sídliště 1100  
+- **Chirurgie** – MUDr. Mustapha El Samad  
+- **Klinická psychologie** – PhDr. Dana Hajná, Sídliště 1100  
+- **Rentgen** – Sídliště 1100  
+- **Lékárna PharmDr. Jana Schwarzová -** Nýřanská 1, Praha-Radotín  
+- **Lékárna -** Sídliště 1100, Praha-Radotín **MOMENTÁLNĚ MIMO PROVOZ**  
+- **Lékárna Dr. Max -** Vrážská 1643/2a, Praha-Radotín  
+- **Zdravotní ústav Most k domovu, z. ú.** - zdravotní a sociální péče v domácím prostředí, včetně mobilního hospice  
+- **Pečovatelská služba Praha - Radotín -** K Cementárně 1522/1c, Praha-Radotín  
 Binary file 0111--~1/a..CD-ripped..mp3.dir/disk---d/Users/milanlocal/Music/03-Men.mp3 matches
 Binary file 0111--~1/a..CD-ripped..mp3.dir/disk---d/Users/milanlocal/Music/abba - Track 01.mp3 matches
 Binary file 0111--~1/a..CD-ripped..mp3.dir/disk---d/Users/milanlocal/Music/aneta - Track 12.mp3 matches
