@@ -43,15 +43,12 @@ Mathistory vypráví matematiku tak, jak vznikala: nejdřív otázka a člověk,
 	Kterak pana Napiera omrzelo násobení
 3. III.[Pravděpodobnost](https://mathistory.com/pravdepodobnost.html) nyní otevřeno1654
 	Kterak se dva pánové přeli o nedohranou hru
-4. IV.[Logika](https://mathistory.com/logika.html) nyní otevřeno1854
-	Kterak se z pravdy stala jednička
-5. V.[Jazyk a logika](https://mathistory.com/jazyk-a-logika.html) nyní otevřeno1957
-	Kterak se rodily spolu, rozešly se a v počítači znovu potkaly
-6. VI.[Funkce](https://mathistory.com/funkce.html) nyní otevřeno1718
-	Kterak se matematici sto let přeli o jedno slovo
+- ###### 4. IV.[Logika](https://mathistory.com/logika.html) nyní otevřeno1854 	Kterak se z pravdy stala jednička
+- ###### 5. V.[Jazyk a logika](https://mathistory.com/jazyk-a-logika.html) nyní otevřeno1957 	Kterak se rodily spolu, rozešly se a v počítači znovu potkaly
+- ###### 6. VI.[Funkce](https://mathistory.com/funkce.html) nyní otevřeno1718 	Kterak se matematici sto let přeli o jedno slovo
 7. VII.[Neeukleidovská geometrie](https://mathistory.com/neeukleidovska-geometrie.html) nyní otevřeno1829
 	Kterak se pátému postulátu přestalo věřit
-8. VIII.[Vizuální mapy](https://mathistory.com/vizualni-mapy.html) nyní otevřeno1635
+- ###### 8. VIII.[Vizuální mapy](https://mathistory.com/vizualni-mapy.html) nyní otevřeno1635
 	Kterak se matematika naučila kreslit
 9. IX.[Cykloida](https://mathistory.com/cykloida.html) nyní otevřeno1658
 	Kterak se nejlepší matematici Evropy přeli o hřebík na kole
