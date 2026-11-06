@@ -49,15 +49,18 @@ pwd
 
 # make a for loop to run grep on all files in the directory, and for each file, output the filename and the grep results to a new file
 
+for file in *.md; do
+	echo "Processing $file"
+	#grep -E -i --no-filename '^ *[-] [- ]*[#]+' "$file" | sed -E 's/^( *[-] +)[#]{6,}/\1/' | sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/' > "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+done
 
 
 
-
-grep         -R -E   -i       --no-filename      '^ *[-] [- ]*[#]+'         "0111--~1"     | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'  >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+#grep         -R -E   -i       --no-filename      '^ *[-] [- ]*[#]+'         "0111--~1"     | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'  >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
 
 
 # ? was it correct [-+*#a]
-grep         -R -E   -i       '^ *[-] [- ]*[#]+'                 "0111--~1"   | sed -E 's/^/- /'   >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep--hhaa---filename.txt.md"
+#grep         -R -E   -i       '^ *[-] [- ]*[#]+'                 "0111--~1"   | sed -E 's/^/- /'   >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep--hhaa---filename.txt.md"
 
 
 # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\0004   0111 weigh high    20260813.md
@@ -68,8 +71,8 @@ grep         -R -E   -i       '^ *[-] [- ]*[#]+'                 "0111--~1"   | 
 
 
 
-echo end
-sleep 5
+echo end sleep 50
+sleep 50
 
 #echo read x
 #read x

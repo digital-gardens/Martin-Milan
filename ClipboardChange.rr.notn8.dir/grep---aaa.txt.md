@@ -1072,3 +1072,8 @@
   - - ###### source: "https://www.praha16.eu/mestska-cast/socialni-sluzby-seniori-zdravotnictvi/zdravotnicka-zarizeni/"
   - - ######   - MUDr. Radmila Krausová Adresa: Sídliště 1100, Praha-Radotín (stejné patro, naproti chirurgii) Telefon: 257 912 195 E-mail:
   - - ##### - #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
+  - # will be scheduled to run in the foreground, so that the output can be seen in the terminal window
+  - #yy
+  - # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\0004   0111 weigh high    20260813.md
+  - # aaa .F5 	file WILL BE SCHEDULED TO RUN FROM HODINOVY
+  - # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\0004   0111 weigh high    20260813.md
