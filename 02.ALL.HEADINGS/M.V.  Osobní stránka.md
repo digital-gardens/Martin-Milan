@@ -1,0 +1,4 @@
+- ###### - Python 🐍, Základy C++, SQL
+- ###### Isaac Asimov – Já, Robot
+- ###### Virginia Woolf – A Room of One's Own
+- ###### ABBA  

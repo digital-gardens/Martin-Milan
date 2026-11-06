@@ -49,9 +49,16 @@ pwd
 
 # make a for loop to run grep on all files in the directory, and for each file, output the filename and the grep results to a new file
 
+
 for file in *.md; do
-	echo "Processing $file"
-	#grep -E -i --no-filename '^ *[-] [- ]*[#]+' "$file" | sed -E 's/^( *[-] +)[#]{6,}/\1/' | sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/' > "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+	#echo Processing "$file"
+	#echo Processing "$file"
+	#echo to "C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+
+	#ls -l "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+
+	grep  -E -i --no-filename   '^ *[-] [- ]*[#]+'      "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+	# ai   grep -E -i --no-filename '^ *[-] [- ]*[#]+' "$file" | sed -E 's/^( *[-] +)[#]{6,}/\1/' | sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/' > "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
 done
 
 
@@ -71,8 +78,8 @@ done
 
 
 
-echo end sleep 50
-sleep 50
+echo end sleep
+sleep 10
 
 #echo read x
 #read x

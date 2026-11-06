@@ -1,0 +1,7 @@
+- ###### source: https://www.praha16.eu/mestska-cast/socialni-sluzby-seniori-zdravotnictvi/zdravotnicka-zarizeni/
+- # **Otevírací a ordinační dobu si vždy ověřte na webu lékaře nebo po telefonu.**
+- ###### - **MUDr. Radmila Kernerová** – praktická pro dospělé (zaměření na osoby se specifickými potřebami, handicapem a seniory), Sídliště 1100  
+- ###### - **MUDr. Irena Spilková** – praktická pro dospělé, Sídliště 1100  
+- ###### - **MUDr. Radmila Krausová** – praktická pro dospělé, Sídliště 1100  
+- ###### ### 👵 Domácí zdravotní péče a pečovatelská služba
+- ###### ### Pohotovost
