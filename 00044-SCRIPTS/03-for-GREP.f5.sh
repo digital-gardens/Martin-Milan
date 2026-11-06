@@ -41,6 +41,7 @@ pwd
 #grep      -R     -E  -i       --no-filename      '^ *[-] [- ]*[#]+'
 #grep         -R -E   -i                                   '^ *[-] [- ]*[#]+'
         # formerly was  here ..
+		#                                                       fail  ^[-+*+++\s]*
 #grep         -R -E   -i       --no-filename   '^ *[-+*#]+ .{0,10}[-+*#]+'
 #grep         -R -E   -i                                '^ *[-+*#]+ .{0,10}[#][-+*#a]* '
 
@@ -57,8 +58,11 @@ for file in *.md; do
 
 	#ls -l "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 
-	grep  -E -i --no-filename   '^ *[-] [- ]*[#]+'      "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
-	# ai   grep -E -i --no-filename '^ *[-] [- ]*[#]+' "$file" | sed -E 's/^( *[-] +)[#]{6,}/\1/' | sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/' > "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+		#
+	grep  -E -i --no-filename        '^[-+*   \t]*[#]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+	#grep  -E -i --no-filename   '^ *[-] [- ]*[#]+'      "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+
+	##   old ai   grep -E -i --no-filename '^ *[-] [- ]*[#]+' "$file" | sed -E 's/^( *[-] +)[#]{6,}/\1/' | sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/' > "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
 done
 
 
