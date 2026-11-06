@@ -1,10 +1,20 @@
 
-@echo off
+rem @echo off
+echo off
 
 
-rem # - ## #todo   #test   .rr   ....  w w @ - #
-rem #q        task scheduler
-rem outputs in github desktop
+rem can cmd handle tab characters in cmd files
+	echo can cmd handle tab characters in cmd files
+	timeout.exe 3
+	echo can cmd handle tab characters in cmd files
+	timeout.exe 3
+
+
+rem #debug.  yyyy  win m  hodin.cmd    or .  in win q scheduled tasks  aaaa aaaa yyyy              .f5 to refresh the listing
+rem # - ## #todo   #test   .rr   .... use   w w   in some .md file
+	rem ? @ - #
+	rem #q        task scheduler
+	rem outputs in github desktop
 
 
 rem #debug file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\f8.011-02-HODINOVY.f8.cmd
@@ -33,7 +43,8 @@ rem
 echo rem # ....repeatSpace
 
 
-rem #debug..  in win q scheduled tasks  aaaa aaaa yyyy              .f5 to refresh the listing
+
+rem #debug.  yyyy  win m  hodin.cmd    or .  in win q scheduled tasks  aaaa aaaa yyyy              .f5 to refresh the listing
 
 
 
@@ -44,18 +55,22 @@ call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
 
 call code C:\Users\marti\OneDrive\Dokumenty\0111--~1
 rem timeout.exe 15
-
 rem 20260919
 rem bug fixed call code.cmd
 rem where.exe code
 rem pause
-
 rem pause
 rem echo returned
 
 
 
 rem call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md
+
+
+
+
+
+"C:\Program Files\Git\bin\bash.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh"
 
 
 
@@ -68,18 +83,17 @@ rem call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipb
 
 
 
-rem #todo  test
- "C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh"
+
+"C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh"
 rem "C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"  #nn renamed
 rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh
 rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\
 rem
+rem #todo  test
+
 
 
 "C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-obsi-clippi.f5.sh"
-
-
-
 
 
 
@@ -92,12 +106,11 @@ rem old  "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "C:\
 
 
 
-
-rem #todo robocopy 0111--songs--music--lyrics to g:\0004-LINKS\0111--songs--music--lyrics
+call C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\0111-music-Robocopy---c-Dokumenty---gee-mir.f5.cmd
+rem probably done robocopy 0111--songs--music--lyrics to g:\0004-LINKS\0111--songs--music--lyrics
 rem read the cmd file 00044-SCRIPTS/0004cmd/0111-music-Robocopy---c-Dokumenty---gee-mir.f5.cmd
 rem call
 rem test in git gui
-call C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\0111-music-Robocopy---c-Dokumenty---gee-mir.f5.cmd
 
 
 
@@ -114,6 +127,8 @@ rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"  "C:\Users\ma
 
 
 rem echo on
+
+
 @echo off
 
 
@@ -136,9 +151,12 @@ rem rem explorer "C:\Users\marti\OneDrive\Dokumenty\011-POMOC"
 rem rem rem mkdir %OneDrive%\Dokumenty\011-POMOC.publ.dir
 
 
+
 rem file:///C:\Users\marti\OneDrive\ps-mylen-mar\start-robocopy.cmd
 
- echo on
+
+
+echo on
 rem pause
 timeout.exe 30
 rem 15
