@@ -1,3 +1,4 @@
+title: "Marie Vestenická | Osobní stránka"
 ## Disertace & Výzkum
 ### Obecné otázky matematiky a informatiky
 ## Životopis

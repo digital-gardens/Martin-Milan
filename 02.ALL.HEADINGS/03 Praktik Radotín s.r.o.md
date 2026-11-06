@@ -1,3 +1,4 @@
+title: Praktik Radotín s.r.o.
 - ###### source: https://www.praktik-radotin.com/z%C3%A1stup
 - ###### V době naší nepřítomnosti nás zastupuje:
 - ###### ## MUDr. Radmila Krausová

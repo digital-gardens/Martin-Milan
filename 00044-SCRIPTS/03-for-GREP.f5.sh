@@ -59,7 +59,9 @@ for file in *.md; do
 	#ls -l "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 
 		#
-	grep  -E -i --no-filename        '^[-+*   \t]*[#]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+	grep  -E -i --no-filename        '^[-+*   \t]*[#]|^title[:][    ]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+	#grep  -E -i --no-filename        '^[-+*   \t]*[#]|^title[:][    ]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+	#grep  -E -i --no-filename        '^[-+*   \t]*[#]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 	#grep  -E -i --no-filename   '^ *[-] [- ]*[#]+'      "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 
 	##   old ai   grep -E -i --no-filename '^ *[-] [- ]*[#]+' "$file" | sed -E 's/^( *[-] +)[#]{6,}/\1/' | sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/' > "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"

@@ -1,3 +1,4 @@
+title: Zdravotnická zařízení - Oficiální stránky Městská část Praha 16
 - ###### source: https://www.praha16.eu/mestska-cast/socialni-sluzby-seniori-zdravotnictvi/zdravotnicka-zarizeni/
 ## Zdravotnická zařízení
 - # **Otevírací a ordinační dobu si vždy ověřte na webu lékaře nebo po telefonu.**
