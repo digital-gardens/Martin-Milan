@@ -28,7 +28,7 @@ rem not interest maybe.... the following. ai generated.. do such things happen ?
 
 
 rem done edit edit yy ..  NOW THE WINDOWS TASK SCHEDULER CALLS again  THE .CMD FILE
-rem rem nn old EDIT NOW THE WINDOWS TASK SCHEDULER CALLS DIRECTLY THE EXPLORER,  NOT THE .CMD FILES   old
+	rem rem nn old EDIT NOW THE WINDOWS TASK SCHEDULER CALLS DIRECTLY THE EXPLORER,  NOT THE .CMD FILES   old
 
 
 rem maybe not ?? run task as soon as possible after a scheduled start is missed ???
@@ -54,13 +54,13 @@ call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\
 
 
 call code C:\Users\marti\OneDrive\Dokumenty\0111--~1
-rem timeout.exe 15
-rem 20260919
-rem bug fixed call code.cmd
-rem where.exe code
-rem pause
-rem pause
-rem echo returned
+	rem timeout.exe 15
+	rem 20260919
+	rem bug fixed call code.cmd
+	rem where.exe code
+	rem pause
+	rem pause
+	rem echo returned
 
 
 
@@ -68,28 +68,20 @@ rem call code C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipb
 
 
 
-
-
 "C:\Program Files\Git\bin\bash.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh"
 
 
 
-
-
- "C:\Program Files\Git\bin\bash.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-clipb.f5.sh"
-
-
-
-
+"C:\Program Files\Git\bin\bash.exe"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-for-GREP.f5.sh"
 
 
 
 "C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh"
-rem "C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"  #nn renamed
-rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh
-rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\
-rem
-rem #todo  test
+	rem "C:\Program Files\Git\bin\bash.exe"    "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"  #nn renamed
+	rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP-0111.f5.sh
+	rem file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\
+	rem
+	rem #todo  test
 
 
 
@@ -98,19 +90,19 @@ rem #todo  test
 
 
 rem 20260919 comment out
-rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "%OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
-rem old  "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--~1\grep---aaa.txt.md"
-rem old  "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
+	rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "%OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
+	rem old  "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--~1\grep---aaa.txt.md"
+	rem old  "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"     "C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir\011-02-HODINOVY.txt.md.html"
 
 
 
 
 
 call C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\0004cmd\0111-music-Robocopy---c-Dokumenty---gee-mir.f5.cmd
-rem probably done robocopy 0111--songs--music--lyrics to g:\0004-LINKS\0111--songs--music--lyrics
-rem read the cmd file 00044-SCRIPTS/0004cmd/0111-music-Robocopy---c-Dokumenty---gee-mir.f5.cmd
-rem call
-rem test in git gui
+	rem probably done robocopy 0111--songs--music--lyrics to g:\0004-LINKS\0111--songs--music--lyrics
+	rem read the cmd file 00044-SCRIPTS/0004cmd/0111-music-Robocopy---c-Dokumenty---gee-mir.f5.cmd
+	rem call
+	rem test in git gui
 
 
 
@@ -118,11 +110,11 @@ rem test in git gui
 
 
 rem 20260919 was already commented out
-rem "C:\Progra~1\Microsoft\Edge\Application\msedge.exe"
-rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
-rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"
-rem rem rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
-rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep--hhaa---filename.txt.md"
+	rem "C:\Progra~1\Microsoft\Edge\Application\msedge.exe"
+	rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
+	rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\00044-SCRIPTS\03-GREP.f5.sh"
+	rem rem rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+	rem "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"  "C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep--hhaa---filename.txt.md"
 
 
 
@@ -134,21 +126,21 @@ rem echo on
 
 
 rem 20260919 was already commented out
-rem nn explorer %OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir
+	rem nn explorer %OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir
+
+	rem 20260919 was already commented out
+	rem 0820 rem  yy explorer %OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir
+	rem 0819  rem nn explorer C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir
+	rem nn 0819
+	rem nnn 0819 at jbpc, there will be mklink /j
+	rem nn from  C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir
+	rem nn rem  to D:\OneDrive......devel tc  K:\onedrive\Documents\011 POMOC napoveda aaaa.publ.dir
+	rem nn to "D:\onedrive\Documents\011 POMOC napoveda aaaa.publ.dir"
 
 rem 20260919 was already commented out
-rem 0820 rem  yy explorer %OneDrive%\Dokumenty\00-MM\011-POMOC.publ.dir
-rem 0819  rem nn explorer C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir
-rem nn 0819
-rem nnn 0819 at jbpc, there will be mklink /j
-rem nn from  C:\Users\marti\OneDrive\Dokumenty\00-MM\011-POMOC.publ.dir
-rem nn rem  to D:\OneDrive......devel tc  K:\onedrive\Documents\011 POMOC napoveda aaaa.publ.dir
-rem nn to "D:\onedrive\Documents\011 POMOC napoveda aaaa.publ.dir"
-
-rem 20260919 was already commented out
-rem nnnn remmmmmmm explorer %OneDrive%\Dokumenty\00-MM\011-POM*
-rem rem explorer "C:\Users\marti\OneDrive\Dokumenty\011-POMOC"
-rem rem rem mkdir %OneDrive%\Dokumenty\011-POMOC.publ.dir
+	rem nnnn remmmmmmm explorer %OneDrive%\Dokumenty\00-MM\011-POM*
+	rem rem explorer "C:\Users\marti\OneDrive\Dokumenty\011-POMOC"
+	rem rem rem mkdir %OneDrive%\Dokumenty\011-POMOC.publ.dir
 
 
 
@@ -157,7 +149,7 @@ rem file:///C:\Users\marti\OneDrive\ps-mylen-mar\start-robocopy.cmd
 
 
 echo on
-rem pause
+	rem pause
 timeout.exe 30
-rem 15
+	rem 15
 
