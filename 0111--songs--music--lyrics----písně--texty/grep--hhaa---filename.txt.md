@@ -29,6 +29,16 @@
 - 0111--~1/010 KTERE SEM píseň můj čas.md:- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)  
 - 0111--~1/010 KTERE SEM píseň můj čas.md:- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)  
 - 0111--~1/010 KTERE SEM píseň můj čas.md:- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)  
+- 0111--~1/02.ALL.HEADINGS/03 Praktik Radotín s.r.o.md:- ###### V době naší nepřítomnosti nás zastupuje:
+- 0111--~1/02.ALL.HEADINGS/03 Praktik Radotín s.r.o.md:- ###### ## MUDr. Radmila Krausová
+- 0111--~1/02.ALL.HEADINGS/03 Praktik Radotín s.r.o.md:- ###### Telefon: 257 912 195
+- 0111--~1/02.ALL.HEADINGS/03 Praktik Radotín s.r.o.md:- ###### Ordinační hodiny:
+- 0111--~1/02.ALL.HEADINGS/03 Zdravotnická zařízení - Oficiální stránky Městská část Praha 16.md:- # **Otevírací a ordinační dobu si vždy ověřte na webu lékaře nebo po telefonu.**
+- 0111--~1/02.ALL.HEADINGS/03 Zdravotnická zařízení - Oficiální stránky Městská část Praha 16.md:- ###### - **MUDr. Radmila Kernerová** – praktická pro dospělé (zaměření na osoby se specifickými potřebami, handicapem a seniory), Sídliště 1100  
+- 0111--~1/02.ALL.HEADINGS/03 Zdravotnická zařízení - Oficiální stránky Městská část Praha 16.md:- ###### - **MUDr. Irena Spilková** – praktická pro dospělé, Sídliště 1100  
+- 0111--~1/02.ALL.HEADINGS/03 Zdravotnická zařízení - Oficiální stránky Městská část Praha 16.md:- ###### - **MUDr. Radmila Krausová** – praktická pro dospělé, Sídliště 1100  
+- 0111--~1/02.ALL.HEADINGS/03 Zdravotnická zařízení - Oficiální stránky Městská část Praha 16.md:- ###### ### 👵 Domácí zdravotní péče a pečovatelská služba
+- 0111--~1/02.ALL.HEADINGS/03 Zdravotnická zařízení - Oficiální stránky Městská část Praha 16.md:- ###### ### Pohotovost
 - 0111--~1/02.ALL.HEADINGS/How do you control the order in which files appear in a GitHub gist.md:- ###### Since at least 2018, the order is [alphabetical, with periods and numbers coming before letters.](https://github.com/isaacs/github/issues/195)
 - 0111--~1/02.ALL.HEADINGS/M.V.  Osobní stránka.md:- ###### - Python 🐍, Základy C++, SQL
 - 0111--~1/02.ALL.HEADINGS/M.V.  Osobní stránka.md:- ###### Isaac Asimov – Já, Robot
