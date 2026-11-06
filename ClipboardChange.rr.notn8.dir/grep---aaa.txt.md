@@ -1067,3 +1067,4 @@
 - ######   - MUDr. Radmila Krausová Adresa: Sídliště 1100, Praha-Radotín (stejné patro, naproti chirurgii) Telefon: 257 912 195 E-mail:
   - ###### - https://www.idnes.cz/praha/zpravy/tisnova-linka-pomoc-zdravotnik-pohotovost-zachranna-sluzba.A250115_091555_praha-zpravy_idh
   - ###### - Málokdo ví, kam volat, když nechce zatěžovat tísňovou linku záchranné služby. Číslo 800 888 155 na konzultační call centrum, které vzniklo v roce 2009 jako doplněk k tísňové lince, je totiž těžké dohledat.
+  - - ##### - #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
