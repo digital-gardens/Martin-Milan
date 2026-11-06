@@ -1,4 +1,6 @@
 title: Praktik Radotín s.r.o.
+source: https://www.praktik-radotin.com/z%C3%A1stup
+description: V době naší nepřítomnosti nás zastupuje:(Pouze neodkladné akutní případy. Nelze posudky, výpis ze zdravotní dokumentace apod.)
 - ###### source: https://www.praktik-radotin.com/z%C3%A1stup
 - ###### V době naší nepřítomnosti nás zastupuje:
 - ###### ## MUDr. Radmila Krausová
