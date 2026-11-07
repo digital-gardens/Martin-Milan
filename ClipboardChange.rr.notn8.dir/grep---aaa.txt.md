@@ -1077,3 +1077,4 @@
   - # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\0004   0111 weigh high    20260813.md
   - # aaa .F5 	file WILL BE SCHEDULED TO RUN FROM HODINOVY
   - # file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\0004   0111 weigh high    20260813.md
+  - - ###### *Dmi*, 3/4 rytmus: 230 bpm |: Lalalalalálala, lalalalalálála Lalalalalalalá, lá :| 1. Nebe je modrý a zlatý, bílá ...

@@ -59,7 +59,7 @@ for file in *.md; do
 	#ls -l "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 
 		#
-	grep  -E -i --no-filename        '^[-+*   \t]*[#]|^(title|source|description)[:][    ]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+	grep  -E -i --no-filename        '^[-+*   \t]*[#]|^(title|source|description|domain)[:][    ]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 	#grep  -E -i --no-filename        '^[-+*   \t]*[#]|^(title|source)[:][    ]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 	#grep  -E -i --no-filename        '^[-+*   \t]*[#]|^title[:][    ]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 	#grep  -E -i --no-filename        '^[-+*   \t]*[#]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
