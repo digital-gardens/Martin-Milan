@@ -29,11 +29,6 @@
 - ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)  
 - ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)  
 - ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)  
--  source: https://www.praktik-radotin.com/z%C3%A1stup
--  V době naší nepřítomnosti nás zastupuje:
--  ## MUDr. Radmila Krausová
--  Telefon: 257 912 195
--  Ordinační hodiny:
 -  source: https://www.praha16.eu/mestska-cast/socialni-sluzby-seniori-zdravotnictvi/zdravotnicka-zarizeni/
 - # **Otevírací a ordinační dobu si vždy ověřte na webu lékaře nebo po telefonu.**
 -  - **MUDr. Radmila Kernerová** – praktická pro dospělé (zaměření na osoby se specifickými potřebami, handicapem a seniory), Sídliště 1100  
@@ -41,6 +36,11 @@
 -  - **MUDr. Radmila Krausová** – praktická pro dospělé, Sídliště 1100  
 -  ### 👵 Domácí zdravotní péče a pečovatelská služba
 -  ### Pohotovost
+-  source: https://www.praktik-radotin.com/z%C3%A1stup
+-  V době naší nepřítomnosti nás zastupuje:
+-  ## MUDr. Radmila Krausová
+-  Telefon: 257 912 195
+-  Ordinační hodiny:
 -  Since at least 2018, the order is [alphabetical, with periods and numbers coming before letters.](https://github.com/isaacs/github/issues/195)
 -  - Python 🐍, Základy C++, SQL
 -  Isaac Asimov – Já, Robot

@@ -5,9 +5,9 @@ echo off
 
 rem can cmd handle tab characters in cmd files
 	echo can cmd handle tab characters in cmd files
-	timeout.exe 3
+	rem timeout.exe 3
 	echo can cmd handle tab characters in cmd files
-	timeout.exe 3
+	rem timeout.exe 3
 
 
 rem #debug.  yyyy  win m  hodin.cmd    or .  in win q scheduled tasks  aaaa aaaa yyyy              .f5 to refresh the listing
