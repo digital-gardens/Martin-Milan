@@ -32,7 +32,9 @@
 -  ### # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat  
 -  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap  
 - # Spirituál Kvintet - Chci sluncem být (až se k nám právo vrátí) #aaaaa
+-   source: "https://www.yousongs.cz/MostPlayed.aspx?Page=2"
 - #### #aaa Z rozmlácenýho kostela v krabici s kusem mýdla přinesl jsem si anděla, polámali mu křídla, díval se na mě oddaně, já ...  
+-  Míle a míle Míle a míle jsou cest které znám, jdou trávou i úbočím skal Jsou cesty zpátky a jsou cesty tam a já na ...
 - # #aaa *Ami*, 65 bpm 1. Spatřil jsem kometu, oblohou letěla Chtěl jsem jí zazpívat, ona mi zmizela Zmizela  #aaa jako laň u lesa ...  
 - ##### #aaa Na kolejích stála, za uchem květ, vlasy trávou zavázaný, s kytarou na zádech, strun už jen pět, hezký oči uplakaný. ...  
 -  #aaa V zahradě za cihlovou zídkou, popsanou v slavných výročích, sedává na podzim na trávě před besídkou děvčátko s ...  
@@ -41,6 +43,11 @@
 -  #aaa Když Sever válčí s Jihem a zem jde do války na polích místo bavlny teď rostou bodláky. Ve stínu u silnice vidím z ...  
 -  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...  
 - # #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední   
+- ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)  
+- ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)  
+- ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)  
+- ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)  
+- ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)  
 -  source: https://www.praha16.eu/mestska-cast/socialni-sluzby-seniori-zdravotnictvi/zdravotnicka-zarizeni/
 - # **Otevírací a ordinační dobu si vždy ověřte na webu lékaře nebo po telefonu.**
 -  - **MUDr. Radmila Kernerová** – praktická pro dospělé (zaměření na osoby se specifickými potřebami, handicapem a seniory), Sídliště 1100  
@@ -53,6 +60,28 @@
 -  ## MUDr. Radmila Krausová
 -  Telefon: 257 912 195
 -  Ordinační hodiny:
+- # aaa 
+-  **Jarek Nohavica**
+-  padá déšť do esšálků  
+-  těžké je mít se rádi  
+-  A co teď žoldnéři  
+-  co vlastně umíte?  
+-  Nějaký zpěváček  
+-  za dvě stě let  
+-  Když mě brali za vojáka  
+-  **Jan Nedvěd**
+-  1\. Do kapsy občanku a k tomu korun pár,  
+-  **Karel Kryl**
+-  Zpráva z tisku:  
+-  Pár zbytků pro krysy  
+-  na misce od guláše  
+-  milostný dopisy  
+-  s partií mariáše  
+-  Před cestou dalekou  
+-  zpocený boty zujem  
+-  a potom pod dekou  
+-  Lásko  
+-  Pure mathematics is an informal term to describe the study of the properties and structure of abstract objects, 1 such as the Mandelbrot set. This may be done without focusing on concrete applications of concepts in the physical world.
 -  Since at least 2018, the order is [alphabetical, with periods and numbers coming before letters.](https://github.com/isaacs/github/issues/195)
 -  - Python 🐍, Základy C++, SQL
 -  Isaac Asimov – Já, Robot
