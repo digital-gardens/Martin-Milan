@@ -29,23 +29,6 @@
 - ### [Petr Kotvald a Stanislav Hložek - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/petr-kotvald-a-stanislav-hlozek/muj-cas-464043)  
 - ### [Hložek Stanislav - Můj čas (zo seriálu Sanitka) \[text a...](https://www.yousongs.cz/pisen/15211-Hlozek-Stanislav-Muj-cas-\(zo-serialu-Sanitka\).aspx?utm_source=&utm_medium=&utm_campaign=)  
 - ### [Hana Zagorová: Můj čas - text piesne, videoklip, mp3](https://hudba.zoznam.sk/hana-zagorova/piesen/muj-cas/)  
--  source: https://www.praha16.eu/mestska-cast/socialni-sluzby-seniori-zdravotnictvi/zdravotnicka-zarizeni/
-- # **Otevírací a ordinační dobu si vždy ověřte na webu lékaře nebo po telefonu.**
--  - **MUDr. Radmila Kernerová** – praktická pro dospělé (zaměření na osoby se specifickými potřebami, handicapem a seniory), Sídliště 1100  
--  - **MUDr. Irena Spilková** – praktická pro dospělé, Sídliště 1100  
--  - **MUDr. Radmila Krausová** – praktická pro dospělé, Sídliště 1100  
--  ### 👵 Domácí zdravotní péče a pečovatelská služba
--  ### Pohotovost
--  source: https://www.praktik-radotin.com/z%C3%A1stup
--  V době naší nepřítomnosti nás zastupuje:
--  ## MUDr. Radmila Krausová
--  Telefon: 257 912 195
--  Ordinační hodiny:
--  Since at least 2018, the order is [alphabetical, with periods and numbers coming before letters.](https://github.com/isaacs/github/issues/195)
--  - Python 🐍, Základy C++, SQL
--  Isaac Asimov – Já, Robot
--  Virginia Woolf – A Room of One's Own
--  ABBA  
 -  ### # ℹ️ #aaaaa yyyy //// písně pomáhají dýchat  
 -  ### # #aaaaaa #yyyyy #rrrrr herec Miroslav Hanuš řekl v rozhovoru .. to nevystavíte popelnici, kdo nezažil, neuvěří  #mmmmmap  
 - # Spirituál Kvintet - Chci sluncem být (až se k nám právo vrátí) #aaaaa
@@ -58,6 +41,18 @@
 -  #aaa Když Sever válčí s Jihem a zem jde do války na polích místo bavlny teď rostou bodláky. Ve stínu u silnice vidím z ...  
 -  #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...  
 - # #aaa První    Předchozí  1 - 2 - 3 - 4 - 5 - 6  Další    Poslední   
+-  source: https://www.praha16.eu/mestska-cast/socialni-sluzby-seniori-zdravotnictvi/zdravotnicka-zarizeni/
+- # **Otevírací a ordinační dobu si vždy ověřte na webu lékaře nebo po telefonu.**
+-  - **MUDr. Radmila Kernerová** – praktická pro dospělé (zaměření na osoby se specifickými potřebami, handicapem a seniory), Sídliště 1100  
+-  - **MUDr. Irena Spilková** – praktická pro dospělé, Sídliště 1100  
+-  - **MUDr. Radmila Krausová** – praktická pro dospělé, Sídliště 1100  
+-  ### 👵 Domácí zdravotní péče a pečovatelská služba
+-  ### Pohotovost
+-  source: https://www.praktik-radotin.com/z%C3%A1stup
+-  V době naší nepřítomnosti nás zastupuje:
+-  ## MUDr. Radmila Krausová
+-  Telefon: 257 912 195
+-  Ordinační hodiny:
 -  - #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851  
 -  [Do You Want to Know a Secret](https://www.karaoketexty.cz/texty-pisni/beatles-the/do-you-want-to-know-a-secret-3246) 8 458  
 -  \*C\*, 145 bpm 1. Mám ploché nohy po tetě A fantazii po svém strýci Už dlouho šlapu po světě A nevím, co mám o něm ...  
