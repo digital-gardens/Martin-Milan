@@ -3793,3 +3793,7 @@ agy
 exit
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 explorer "C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir"
+cd  C:\Users\marti\OneDrive\Dokumenty\0111--~1\
+pwd
+cmd /c dir /s *youso*
+cmd /c dir /s /b   *youso*
