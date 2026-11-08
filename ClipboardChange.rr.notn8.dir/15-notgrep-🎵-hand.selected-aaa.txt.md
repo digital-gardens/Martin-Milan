@@ -214,3 +214,15 @@ now clip something to default clippings folder
 - reading their social media account ... profile page 
 
 
+
+
+
+c:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\5.Clippings\03 250825 MUDr. Radmila Krausová, s.r.o., Praha 16.md
+c:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\5.Clippings\Mapa specialistů 3.md
+c:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\5.Clippings\Havárie - Pražské vodovody a kanalizace, a.s.md
+c:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\5.Clippings\TOPASOVÁ - Praha.online.md
+c:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\5.Clippings\03 250825 MUDr. zastupuje ... Praktik Radotín s.r.o.md
+c:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\5.Clippings\03 250825 MUDr. - Zdravotnická zařízení - Oficiální stránky Městská část Praha 16.md
+c:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\5.Clippings\03 Číslo na konzultační centrum záchranky je těžké dohledat.md
+c:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\5.Clippings\DIP WINDOW lunch.md
+
