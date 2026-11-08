@@ -61,6 +61,8 @@ echo "$re"
 
 cd "C:\Users\marti\OneDrive\Dokumenty\5.Clippings"
 pwd
+cd "C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\5.Clippings"
+pwd
 for file in *.md; do
 	#echo Processing "$file"
 	#echo Processing "$file"
@@ -82,7 +84,7 @@ done
 
 #cd "C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\02.ALL.HEADINGS"
 pwd
-#echo loop 2  abandoned plan 
+#echo loop 2  abandoned plan
 
 
 
