@@ -22,7 +22,8 @@ pwd
 cd  "C:\Users\marti\OneDrive\Dokumenty"
 pwd
 
-cd "C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\02.ALL.HEADINGS"
+cd "C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty"
+#cd "C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\02.ALL.HEADINGS"
 pwd
 
 
@@ -51,6 +52,15 @@ pwd
 # make a for loop to run grep on all files in the directory, and for each file, output the filename and the grep results to a new file
 
 
+# OLD    02.ALL.HEADINGS/20261108 doing REFACTOR VAULTS
+
+#grep -R -E   -i  -m 1     $opf        "$ra|$rb|$re"    .
+re='[#]a{5}[^a]'
+re='^[-+*   \t]*[#]|^(title|source|description|domain)[:][    ]'
+echo "$re"
+
+cd "C:\Users\marti\OneDrive\Dokumenty\5.Clippings"
+pwd
 for file in *.md; do
 	#echo Processing "$file"
 	#echo Processing "$file"
@@ -59,7 +69,7 @@ for file in *.md; do
 	#ls -l "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 
 		#
-	grep  -E -i --no-filename        '^[-+*   \t]*[#]|^(title|source|description|domain)[:][    ]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
+	grep  -E -i --no-filename        "$re"     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 	#grep  -E -i --no-filename        '^[-+*   \t]*[#]|^(title|source)[:][    ]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 	#grep  -E -i --no-filename        '^[-+*   \t]*[#]|^title[:][    ]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
 	#grep  -E -i --no-filename        '^[-+*   \t]*[#]'     "$file" >"C:\Users\marti\OneDrive\Dokumenty\00-MM\02.ALL.HEADINGS/$file"
@@ -70,9 +80,16 @@ done
 
 
 
-#grep         -R -E   -i       --no-filename      '^ *[-] [- ]*[#]+'         "0111--~1"     | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'  >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+#cd "C:\Users\marti\OneDrive\Dokumenty\0111--songs--music--lyrics----písně--texty\02.ALL.HEADINGS"
+pwd
+#echo loop 2  abandoned plan 
 
 
+
+##grep         -R -E   -i       --no-filename      '^ *[-] [- ]*[#]+'         "0111--~1"     | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'  >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep---aaa.txt.md"
+
+
+##
 # ? was it correct [-+*#a]
 #grep         -R -E   -i       '^ *[-] [- ]*[#]+'                 "0111--~1"   | sed -E 's/^/- /'   >"C:\Users\marti\OneDrive\Dokumenty\00-MM\0111--songs--music--lyrics----písně--texty\grep--hhaa---filename.txt.md"
 
