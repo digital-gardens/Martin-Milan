@@ -53,6 +53,11 @@
 -  ## MUDr. Radmila Krausová
 -  Telefon: 257 912 195
 -  Ordinační hodiny:
+-  Since at least 2018, the order is [alphabetical, with periods and numbers coming before letters.](https://github.com/isaacs/github/issues/195)
+-  - Python 🐍, Základy C++, SQL
+-  Isaac Asimov – Já, Robot
+-  Virginia Woolf – A Room of One's Own
+-  ABBA  
 -  - #aa [Please Please Me](https://www.karaoketexty.cz/texty-pisni/beatles-the/please-please-me-3242) 17 851  
 -  [Do You Want to Know a Secret](https://www.karaoketexty.cz/texty-pisni/beatles-the/do-you-want-to-know-a-secret-3246) 8 458  
 -  \*C\*, 145 bpm 1. Mám ploché nohy po tetě A fantazii po svém strýci Už dlouho šlapu po světě A nevím, co mám o něm ...  
