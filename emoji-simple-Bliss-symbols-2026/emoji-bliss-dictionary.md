@@ -2,6 +2,18 @@
 
 draft 2 · 2026-11-10
 
+## maybe for human readers.. a few example lines from the dictionary first, then the abstract notation rules, then the dictionary itself.
+
+```
+feeling     💛        feeling
+to feel     ^💛       [act]feeling
+feelings    *💛       [pl]feeling
+
+happiness   💛⬆️      feeling[up]
+happy       v💛⬆️     [v]feeling[up]
+```
+
+
 ## Notation
 
 - One entry per line: `english   emoji   gloss`
