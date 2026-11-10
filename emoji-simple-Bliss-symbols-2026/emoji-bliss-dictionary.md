@@ -6,7 +6,6 @@ draft 2 · 2026-11-10
 
 - One entry per line: `english   emoji   gloss`
 - Gloss: `head[modifier]`, so the main idea comes first and modifiers follow in brackets
-- The bare compound `head` in the gloss `head[modifier]` is the concept (noun)
 - Indicators are **prefixes**, in both the emoji form and the gloss
 - Indicators are **ASCII art**: small typed shapes, never emoji
 - Everything outside the emoji column stays plain ASCII
