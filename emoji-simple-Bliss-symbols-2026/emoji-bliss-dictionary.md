@@ -1,6 +1,6 @@
 # Emoji-Bliss: notation and small dictionary
 
-draft 1 · 2026-11-10
+draft 2 · 2026-11-10
 
 ## Notation
 
@@ -8,34 +8,35 @@ draft 1 · 2026-11-10
 - Gloss: `head[modifier]`, so the main idea comes first and modifiers follow in brackets
 - A bare compound is the concept (noun): `feeling[up]` = happiness
 - Indicators are **prefixes**, in both the emoji form and the gloss
+- Indicators are **ASCII art**: small typed shapes, never emoji
 - Everything outside the emoji column stays plain ASCII
 
 ## Indicators
 
-| sign | gloss tag | turns the concept into  | example                |
-|------|-----------|-------------------------|------------------------|
-| `^`  | `[act]`   | action (verb)           | `^💛` to feel          |
-| `v`  | `[desc]`  | description (adjective) | `v💛⬆️` happy          |
-| `x`  | `[pl]`    | plural                  | `x💛` feelings         |
+| sign | gloss tag | aliases          | turns the concept into  | example         |
+|------|-----------|------------------|-------------------------|-----------------|
+| `^`  | `[act]`   |                  | action (verb)           | `^💛` to feel   |
+| `v`  | `[v]`     | `[val]`, `[desc]`| description (adjective) | `v💛⬆️` happy   |
+| `*`  | `[pl]`    | `*`              | plural                  | `*💛` feelings  |
 
-Aliases suggested for `[desc]`: `[v]`, `[val]`
+Plural uses `*`, not `x`: a reader today takes `x` as cancel / delete / wrong.
+In Bliss itself, the plural mark is a small cross.
 
 ## Dictionary
 
 ```
 feeling     💛        feeling
 to feel     ^💛       [act]feeling
-feelings    x💛       [pl]feeling
+feelings    *💛       [pl]feeling
 
 happiness   💛⬆️      feeling[up]
-happy       v💛⬆️     [desc]feeling[up]
+happy       v💛⬆️     [v]feeling[up]
 
 sadness     💛⬇️      feeling[down]
-sad         v💛⬇️     [desc]feeling[down]
+sad         v💛⬇️     [v]feeling[down]
 ```
 
 ## Open questions
 
-- `[desc]` vs `[v]` vs `[val]`: pick one, or keep all three as aliases?
-- ASCII art: a small drawing of each Bliss shape, or an ASCII-only spelling of the emoji?
+- Should gloss tags copy their signs, the way `[v]` copies `v`? Then we'd have `[^]` (alias `[act]`) and `[*]` (alias `[pl]`).
 - Where does love ❤️ fit?
