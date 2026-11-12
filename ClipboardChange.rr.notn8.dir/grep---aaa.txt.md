@@ -1088,3 +1088,43 @@
   - - ##### - #aaa Bmp 130 1. sloka Dávám sbohem všem břehům proklatejm který v drápech má ďábel sám, bílou přídí šalupa My Grave míří ...
   - ### ČlověkLogici a modisté středověkých univerzit.
   - ###### - source: "https://www.yousongs.cz/MostPlayed.aspx?Page=2"
+  - #INDENT#
+  - ### VzorecNic není jméno.
+  - ### ČlověkVídeňský kroužek a pražský profesor.
+- # so there are websites that let you search through all the code on GitHub? 
+- # so there are websites that let you search through all the code on GitHub? 
+- # so there are websites that let you search through all the code on GitHub? 
+- ###### i mean.. i am a hobbyist. i would like to *grep* through  the public code on GitHub for certain patterns. which websites allow me to do that? i know GitHub has a search bar but ... does it really support regex?????   - - ###### i mean.. i am a hobbyist. i would like to *grep* through  the public code on GitHub for certain patterns. which websites allow me to do that? i know GitHub has a search bar but ... does it really support regex????? 
+  - - ###### i mean.. i am a hobbyist. i would like to *grep* through  the public code on GitHub for certain patterns. which websites allow me to do that? i know GitHub has a search bar but ... does it really support regex????? 
+  - - ###### i mean.. i am a hobbyist. i would like to *grep* through  the public code on GitHub for certain *regex* patterns. which websites allow me to do that? i know GitHub has a search bar but ... does it really support regex????? 
+- ######  so there are search engines that let me do a *regex* search through all the public web pages?  - - ######  so there are search engines that let me do a *regex* search through all the public web pages?
+  - - ###### #aaa Když máš srdce zjihlé, Když máš potíže, tak dej cihlu k cihle, těsto do díže. Upeč třeba chleba, postav třeba zeď, ...  
+- # emoji-simple-Bliss-symbols-2026
+  - - # emoji-simple-Bliss-symbols-2026
+- ###### Blissymbol word-order is backwards, so the emoji sequence for "bridge" would be 🌉🔣, not 🔣🌉. The first emoji is the main concept, and the second is the grammatical marker.
+  - - ###### Blissymbol word-order is backwards to English and Japanese, so the emoji sequence for "bridge" would be 🌉🔣, not 🔣🌉. The first emoji is the main concept, and the second is the grammatical marker.
+  - - # *C* Flétna: Kolik mám ještě dní, než přijde poslední, jak dlouho budu zpívat a hrát, kolik je na zemi cest, ...
+- ## opus 5.5 medium
+  - - ## opus 5.5 medium
+  - - ## opus 5.5 medium
+  - - ###### prompt 1 
+  - - ###### 1. Jedu takhle tábořit Škodou 100 na Oravu, spěchám proto, riskuji, pro jíždím přes Mo ravu. Řádí tam to stra ...
+  - - ###### [x] * 
+  - ## maybe for human readers.. a few example lines from the dictionary first, then the abstract notation rules, then the dictionary itself.
+  - - ###### *G*, bpm 138 Z kraje týdne málo jsem ti vhod ve středu pak ztrácíš ke mně kód sedmý den jsem s tebou i když sám osmý ...
+  - - ###### *G*, bpm 138 Z kraje týdne málo jsem ti vhod ve středu pak ztrácíš ke 
+- ###### wiki .. vadné držení těla    - - ###### wiki .. vadné držení těla  
+  - # špatné držení těla a nechutenství
+  - # špatné držení těla a nechutenství
+  - - ###### site:wikipedia.org .. "vadné držení těla"
+  - - ###### příručka pdf .. "vadné držení těla"
+- ###### difference between personal knowledge management and personal information management
+- ###### connectionism wiki    - - ###### connectionism wiki  
+  - # blissymbolics examples
+  - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - # gh md spojence Nohavica 
+  -   - ###### - blog ....... You CAN live well with dementia. In this blog, I document my journey into dementia and show h…
+  - # Blissary Bliss Dictionary ... the 3 symbols for "of"
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - ###### neurodiverse and obsidian
+  -   - ## autohotkey VERSION2.. #aa reloaded  ----------------  

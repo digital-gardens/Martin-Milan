@@ -2,7 +2,7 @@
 
 draft 2 · 2026-11-10
 
-## maybe for human readers.. a few example lines from the dictionary first, then the abstract notation rules, then the dictionary itself.
+## maybe for human readers.. first a few example lines from the dictionary, then the abstract notation rules, then the dictionary itself.
 
 ```
 feeling     💛        feeling

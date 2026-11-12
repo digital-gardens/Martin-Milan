@@ -114,3 +114,9 @@
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
 - ###### C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\GEM's become Skills focus-my-energy.md   -  - https://gemini.google.com/customize/skills
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ###### i mean.. i am a hobbyist. i would like to *grep* through  the public code on GitHub for certain patterns. which websites allow me to do that? i know GitHub has a search bar but ... does it really support regex?????   - - ###### i mean.. i am a hobbyist. i would like to *grep* through  the public code on GitHub for certain patterns. which websites allow me to do that? i know GitHub has a search bar but ... does it really support regex????? 
+  - - ###### i mean.. i am a hobbyist. i would like to *grep* through  the public code on GitHub for certain patterns. which websites allow me to do that? i know GitHub has a search bar but ... does it really support regex????? 
+  - - ###### i mean.. i am a hobbyist. i would like to *grep* through  the public code on GitHub for certain *regex* patterns. which websites allow me to do that? i know GitHub has a search bar but ... does it really support regex????? 
+  - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  -   - ## autohotkey VERSION2.. #aa reloaded  ----------------  
