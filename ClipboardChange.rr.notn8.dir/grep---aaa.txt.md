@@ -1138,4 +1138,18 @@
   - - ###### I am a retired beginner, and a hobbyist. I have to start with something much simpler
   - ##
   - - ###### Kolik je smutného když mraky černé jdou lidem nad hlavou smutnou dálavou já slyšel příběh, který velkou pravdu měl ...
+  - ###### - Post by @karpathy on X
+  - ###### - Comparing saved/named tab groups in Google Chrome with Microsoft Edge Workspaces reveals two different approaches to managing multiple project contexts, sessions, and heavy browser use.
+- ###### source: "https://www.ghisler.ch/wiki/index.php/Command_line_parameters"
+  - ###### - The ceiling arrives fast. Groups stay in the tab strip rather than swapping contexts, there is no per-project window state, and nothing exists outside Chrome. Group-level workflows are covered in depth in the dedicated Chrome tab group guides rather than here.
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - ###### - ・Need to change the registry
+  - ###### - ・Need to install Node.js
+  - ###### - pre 20261114   commit doku  fail
+ - ###### execPath: 'C:\Users\marti\AppData\Local\GitHubDesktop\app-3.6.10\GitHubDesktop.exe'
+  - ###### - pre 20261114 ...  ^c  ;   menu copy as path
+  - ###### alt m p
+  - # but # not ignore my publ  files
+- ######   - C:\Users\marti\OneDrive\Dokumenty\00-MM\git\git..problem..doku..20261114.md
+  -   - ###### - pre 20261114   commit doku  fail
+- ###### code "C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\how to associate .ahk1 with AutoHotkeyU64.exe  .md"
