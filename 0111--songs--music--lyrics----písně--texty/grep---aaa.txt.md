@@ -68,6 +68,11 @@
 -  Telefon: 257 912 195
 -  Ordinační hodiny:
 - # aaa 
+-  Logika vždy stála na otázce, co věta říká. Proto ji po celou historii posouvali lidé, kteří zkoumali jazyk. Logika a jazykověda se rodily spolu, rozešly se a v počítači se znovu potkaly. Tahle stránka je vložkou ke kapitole
+-  Stoici byli zároveň gramatici. Stejní lidé, kteří vymysleli výrok a spojky (Chrysippos a jeho škola, viz kapitola [Logika](https://mathistory.com/logika.html#zastaveni-2)), rozpracovali i nauku o mluvnických pádech a slovních druzích.
+-  Je to předchůdce dnešního rozlišení proměnné a hodnoty. Programátor dělá totéž denně:
+-  Vídeňský kroužek, skupina filozofů, matematiků a fyziků ve Vídni 20. a 30. let, chtěl „vyčistit“ jazyk vědy: ponechat jen věty, které jsou buď logicky pravdivé, nebo ověřitelné zkušeností. Jedním z jeho hlavních členů byl Rudolf Carnap (1891–1970), který v letech 1931–1935 učil na německé univerzitě v Praze.
+-  Kde Frege jazyk opustil a Carnap ho chtěl vyčistit, tam Montague tvrdil, že žádné čištění není potřeba: stačí najít pravidla, podle kterých se význam věty skládá z významů jejích částí.
 -  **Jarek Nohavica**
 -  padá déšť do esšálků  
 -  těžké je mít se rádi  
@@ -89,6 +94,12 @@
 -  a potom pod dekou  
 -  Lásko  
 -  Pure mathematics is an informal term to describe the study of the properties and structure of abstract objects, 1 such as the Mandelbrot set. This may be done without focusing on concrete applications of concepts in the physical world.
+-  *G*, (začíná se akordem C), 130 bpm BT 1. Ta stará dobrá hra je vokoukaná Nediv se brácho ...
+-  *D*, bez tempa-protože se zrychluje 1. Není nutno, není nutno Aby bylo přímo veselo Hlavně nesmí býti smutno Natož, ...
+- # *C* Flétna: Kolik mám ještě dní, než přijde poslední, jak dlouho budu zpívat a hrát, kolik je na zemi cest, ...
+-  1. Jedu takhle tábořit Škodou 100 na Oravu, spěchám proto, riskuji, pro jíždím přes Mo ravu. Řádí tam to stra ...
+-  Kolik je smutného když mraky černé jdou lidem nad hlavou smutnou dálavou já slyšel příběh, který velkou pravdu měl ...
+-  *G*, bpm 138 Z kraje týdne málo jsem ti vhod ve středu pak ztrácíš ke 
 -  Twenty Five years and my life is still  
 -  That the world was made of this brotherhood of man  
 -  And So I cry sometimes when I'm lying in bed  

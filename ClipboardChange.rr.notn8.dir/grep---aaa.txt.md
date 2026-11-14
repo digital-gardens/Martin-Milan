@@ -1128,3 +1128,14 @@
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   - - ###### neurodiverse and obsidian
   -   - ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - - #
+  -   - - ## opus 5.5 medium
+- ###### I would like to know, which files changed 
+- # /beginner/ ... Obsidian Clippings and AI
+- # /beginner/ ... Obsidian Clippings and AI
+- ###### are there blog posts that discuss the use of AI agents in Obsidian Clippings?
+- ###### I am a retired beginner, and a hobbyist. I have to start with something much simpler
+  - - ###### I am a retired beginner, and a hobbyist. I have to start with something much simpler
+  - ##
+  - - ###### Kolik je smutného když mraky černé jdou lidem nad hlavou smutnou dálavou já slyšel příběh, který velkou pravdu měl ...
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
