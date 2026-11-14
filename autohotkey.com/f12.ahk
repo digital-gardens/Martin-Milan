@@ -16,7 +16,6 @@ SetWorkingDir A_ScriptDir
 
 
 
-;  todo later ... the parent is C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.publ.v2.ahk
 
 
 
