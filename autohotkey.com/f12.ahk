@@ -1,3 +1,8 @@
+#Requires AutoHotkey v2.0
+#Warn
+SendMode "Event"
+SetWorkingDir A_ScriptDir
+
 
 
 ; the function $f12 was written in v1 syntax
@@ -13,10 +18,6 @@
 
 ;  todo later ... the parent is C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.publ.v2.ahk
 
-#Requires AutoHotkey v2.0
-#Warn
-SendMode "Event"
-SetWorkingDir A_ScriptDir
 
 
 
@@ -81,3 +82,5 @@ $F12::
 
 	return
 }
+
+;MsgBox "Hello! You are running AHK v2."

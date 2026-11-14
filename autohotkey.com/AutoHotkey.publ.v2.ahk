@@ -1,3 +1,5 @@
+#Requires AutoHotkey v2.0
+
 ; use semicolon for comments in ahk
 ; this is not a .f8 file, but a .f5 file
 
@@ -52,7 +54,6 @@
 ;============================== Start Auto-Execution Section ==============================
 
 
-#Requires AutoHotkey v2.0
 #Warn
 
 ;251213
@@ -188,7 +189,7 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 
 ;==============================  20260609.1221  hotstrings yyyy   ============================== yyyy do the test at the end of this file yyyy
 ; #n qqache?      #todo eee?
-; #n capslock--hand ache?  #todo  sss?  ddd
+; #n capslock -- hand ache?  #todo  sss?  ddd
 ; #TODO ccc vv?
 ; #bug hand ache \ z x
 ; #bug hand ache ctrl win alt
