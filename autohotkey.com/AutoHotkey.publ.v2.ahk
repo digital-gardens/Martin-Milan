@@ -10,8 +10,10 @@
 ; PREVIOUS WAS file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
 ; bug 20260609 hard to maintain the structure of this file, because there are many sections,  .........
 
+
 ; aa test v2 :   win+q AutoHotkey run the Dokumenty script
 ;test v1:   ^win+space
+
 
 ; SECTIONS START WITH ;=  or   ;#if =
 ;  searched  ^#\w    #if      #ifwinactive   #if    #hotif
@@ -31,14 +33,14 @@
 ; code   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 
 
-; file:///C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
+;moved  file:///C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
 
 
 
 
+; 20261114 moved 2 files from doku to 00-MM\autohotkey.com
+; moved file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
 
-
-; file:///C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
 
 ; .gitignore
 ; dont ignore this file, it is the main entry point for the AutoHotkey script, and it is where we set up the environment and run the main script.
@@ -208,6 +210,6 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 ;==============================  ==============================
 ; aaa  do  f8 .. it  works ....yyyy
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"   # yyyy  run the app ... it asks to reload this ahk file
-; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.f8.md   # yyyy there are  test chapters
+; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.ahk.f8.md   # yyyy there are  test chapters
 ;
 ;; older aa  v2 test :   win+q AutoHotkey run the app ... it asks to reload this ahk file

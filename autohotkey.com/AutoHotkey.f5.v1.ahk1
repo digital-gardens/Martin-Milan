@@ -22,7 +22,10 @@
 
 ; f8 works ;
 
+; 20261114 moved 2 files from doku to 00-MM\autohotkey.com
+
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
+
 
 ; # git push
 ; ## C:\pf\Git\bin\bash.exe C:\Users\marti\OneDrive\00\00-git-BACKUP.f5.sh
@@ -31,7 +34,7 @@
 ; code   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 
 
-; file:///C:\Users\marti\OneDrive\Dokumenty\autohotkey.com\AutoHotkey.f9.md
+; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.ahk.f8.md   # yyyy there are  test chapters
 
 
 
@@ -981,3 +984,5 @@ MsgBox NOTHING
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 ;  G:\Users\milanlocal\downloads-d\AutoHotkey_1.1\AutoHotkeyU64.exe C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
+
+; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.ahk.f8.md   # yyyy there are  test chapters
