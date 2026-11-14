@@ -115,7 +115,8 @@
 		"*.mac": "javascript",
 		"*.formulas": "vb",
 		"*.txt": "plaintext",
-		"*.ttl": "coffeescript"
+		"*.ttl": "coffeescript",
+		"*.ahk1": "ini"
 	},
 
 

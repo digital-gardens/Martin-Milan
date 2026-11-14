@@ -42,15 +42,11 @@
 
 
 
-; win + e / martin personal / documents ---> location ->
-	;;;; old C:\Users\marti\OneDrive\Dokumenty234
-	; C:\Users\marti\OneDrive\Dokumenty
-; this file:  THE  MAIN COPY is  at
-;C:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
-; NOTC:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahkNOT    ;;
 
 
 ; //// my, unnecessary: mk win restore point ... could just rename  C:\Users\marti\OneDrive\Dokumenty\AutoHotkey*.ahk
+; or move lnk in Startup
+
 
 
 ; https://www.autohotkey.com/docs/v1/Hotkeys.htm
@@ -332,8 +328,10 @@ ClipChanged(Type) {
 ;==============================  ==============================
 ;#if ==============================  ==============================
 
-;251213   commented out------------------------------
+;251213  yyyy   commented out------------------------------#If false
+
 #If false
+
 
 ;243324;'\-09,3443šěčýžýžščýžř'  čšřšřčů§¨¨ú)(,,)řčžřčž
 
@@ -422,7 +420,7 @@ $NumpadDot::Send {;}
 
 
 #If  ; turn context-sensitivity back off
-; 251213    end of commented out------------------------------
+; 251213  aaa   end of commented out------------------------------
 ;#if ==============================  ==============================
 
 
@@ -538,7 +536,7 @@ Launch_App1::Send ^a
 ; is it possible in v1 or v2 to write something like
 ;;;simplified version
 
-; You can stack multiple hotkeys to trigger the exact same action.
+; yy You can stack multiple hotkeys to trigger the exact same action.
 $Insert::
 Launch_App2::
 {
@@ -750,7 +748,9 @@ Click_and_Copy(clicks) {
 
 
 
-;#if ============================== not chrome ==============================
+; 20261114 todo move f12 to v2
+
+;#if ==============================  ==============================
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 #IfWinActive
@@ -808,6 +808,9 @@ $F12::
 	return
 }
 
+;end of  20261114 todo move f12 to v2
+
+
 
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
@@ -845,6 +848,8 @@ $F12::
 
 	return
 }
+
+
 
 
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
@@ -940,7 +945,7 @@ MsgBox NOTHING
 
 ;  ctrl home or   ctrl end ...  AT THE END OF THIS FILE
 
-; notes about debugging !!!
+; yy notes about debugging !!!
 ; @@@@@@@@@@@@@@@
 ; *********************************************
 ;============================== DO TEST, BECAUSE IT IS AUTORUN  ==============================

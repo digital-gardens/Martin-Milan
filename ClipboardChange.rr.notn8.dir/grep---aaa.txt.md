@@ -1153,3 +1153,12 @@
 - ######   - C:\Users\marti\OneDrive\Dokumenty\00-MM\git\git..problem..doku..20261114.md
   -   - ###### - pre 20261114   commit doku  fail
 - ###### code "C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\how to associate .ahk1 with AutoHotkeyU64.exe  .md"
+  - ###### - Olympic - Osmý den
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - #^space::  ; Win+Ctrl+
+  - #If false
+  - #If false
+- ## autohotkey VERSION2.. #aa reloaded  ----------------  
+  - #IfWinActive ahk_exe totalcmd64.exe
