@@ -23,7 +23,6 @@
 ; aa   f8 works ;
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\"
 
-; old explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\AutoHotkey.f5.lnk"
 
 
 ; # git push
@@ -99,20 +98,26 @@ logFile :=   "C:\Users\marti\OneDrive\Dokumenty\ClipboardChange.rr.n8.dir\0.clip
 logFile :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipboard_log.rr.n8.txt.md"
 ;20261027
 logFile :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\9.clipboard_log.rr.n8.txt.md"
-; WARNING the path is at 2 places in this file  .. line 144, line 238  clipboard_log  and WARNING the clipboard HAS MOVED TO VERSION 2.0 of ahk
+
+; todo merge the variables logFile and logFile2 into one variable, because they are both used for clipboard logging
+; nn bug 20261114 .WARNING the path is at 2 places in this file  .. line 144, line 238  clipboard_log
+
 ; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ...
 ; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ... but none ahk is present allowed in ransomware protection ...
 ; mkdir "03 20260919 Bug is ahk allowed to write to OneDrive Dokumenty folder  ... but none ahk is present allowed in ransomware protection"
 ; mkdir
+
 
 ; #Persistent
 ; EXPLANATION: #Persistent was removed in v2.
 ; AHK v2 is smarter: if you use OnClipboardChange, the script knows
 ; it needs to stay running automatically. You don't need this line anymore.
 
+
 ; In v2, pass the function object itself (ClipChanged), NOT a string ("ClipChanged")
 ; Note: We assume the function 'ClipChanged' is defined lower down in your file.
 OnClipboardChange ClipChanged
+
 
 ;debug
 ; v2 FileAppend syntax: FileAppend Text, Filename
@@ -120,7 +125,7 @@ OnClipboardChange ClipChanged
 ; Concatenation is just spaces between strings.
 ;FileAppend "- # ..  "    " VERSION2 #aa reload  ----------------  `n", logFile
 
-FileAppend "- ## autohotkey VERSION2.. #aa reloaded  ----------------  `n", logFile
+FileAppend "- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  `n", logFile
 
 ; win win  arrows auto menu
 
