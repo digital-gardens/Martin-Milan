@@ -1,6 +1,17 @@
-; use semicolon for comments in ahk
-; this is not a .f8 file, but a .f5 file
-; parent C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.publ.v2.ahk
+
+
+; the function $f12 was written in v1 syntax
+
+; todo rewrite the function $f12 in v2 syntax, because the function is used in v2 script
+
+; to an AI AGENT... please rewrite the function $f12 in v2 syntax, but with nearly *minimal* changes ... I want to read the diff
+; you can add comments
+
+
+
+
+
+;  todo later ... the parent is C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.publ.v2.ahk
 
 #Requires AutoHotkey v2.0
 #Warn
@@ -9,13 +20,12 @@ SetWorkingDir A_ScriptDir
 
 
 
-; aa   f8 works ;
+; // human tests ...  #aa   f8 works ;
 ; explorer "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\"
 
 
 
 ;#if ==============================  ==============================
-;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 
 #IfWinActive
 ;    #IfWinActive ahk_exe code.exe
@@ -59,7 +69,7 @@ $F12::
 
 	;Send, ^v
 
-;Error:  Can't open clipboard for reading.
+;an old, rare Error:  Can't open clipboard for reading.
 ;contents := SubStr( Clipboard, 1, 255)  ;
 ;;;;;;;;Send % contents
 ;;;;;SendText % contents
