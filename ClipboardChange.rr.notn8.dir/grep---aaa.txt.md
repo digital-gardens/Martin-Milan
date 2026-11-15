@@ -1147,7 +1147,7 @@
   - ###### - ・Need to install Node.js
   - ###### - pre 20261114   commit doku  fail
  - ###### execPath: 'C:\Users\marti\AppData\Local\GitHubDesktop\app-3.6.10\GitHubDesktop.exe'
-  - ###### - pre 20261114 ...  ^c  ;   menu copy as path
+  - # - pre 20261114 ...  ^c  ;  aaa  menu .copy as path
   - ###### alt m p
   - # but # not ignore my publ  files
 - ######   - C:\Users\marti\OneDrive\Dokumenty\00-MM\git\git..problem..doku..20261114.md
@@ -1178,3 +1178,17 @@
 - ###### in ahk v1 and v2, I would like to have a global variable,
 - ###### kdyz se nacancam 
 - ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  - # but
+  - # but
+- ###### #bug aaa 0332 
+  - - ###### Šel včera městem m###### už a šel po hlavní třídě, šel včera městem muž a já ho z okna viděl, na flétnu chorál hrál, znělo ...
+- ###### #- #TODO 
+- ###### prefer user ins
+  - # how to disable cursor blinking
+  - # // I am a retiree, a beginner, a hobbyist
+  - # select, ctrl-L (^l)  , /   , @
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  - - ###### Šel včera městem m###### už a šel po hlavní třídě, šel včera městem muž a já ho z okna viděl, na flétnu chorál hrál, znělo ...
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ###### marti@MB-PC MINGW64 ~/OneDrive/git-bash-dotfiles $ ./mymyrsync.sh
