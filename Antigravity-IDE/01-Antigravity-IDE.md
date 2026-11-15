@@ -5,7 +5,7 @@
 
 
 # // I am a retiree with disabilities, a beginner, a hobbyist
-////// select, ctrl-L (^l)  , / #todo  , @
+////// select, ctrl-i, ctrl-L (^l)  , / #todo  , @
 
 
 

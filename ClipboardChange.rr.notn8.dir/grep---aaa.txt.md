@@ -1192,3 +1192,10 @@
   - - ###### Šel včera městem m###### už a šel po hlavní třídě, šel včera městem muž a já ho z okna viděl, na flétnu chorál hrál, znělo ...
 - ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
 - ###### marti@MB-PC MINGW64 ~/OneDrive/git-bash-dotfiles $ ./mymyrsync.sh
+- ###### nnnn '/c/Users/marti/AppData/Roaming/Antigravity/GPUCache/data_1' -> '/c/Users/marti/OneDrive/Dokumenty/00-MM/tar-exe/c/Users/marti/AppData/Roaming/Antigravity/GPUCache/data_1'
+  - ###### - Press Ctrl + Shift + U (or go to the top menu: View › Output).
+  - ###### - http: TLS handshake error from 127.0.0.1:63525: EOF
+  - ###### - Antigravity IDE uses an internal security certificate to let the editor talk to its own local Language Server engine (127.0.0.1).
+  - ###### - In the version you currently have installed (version 2.5.5), that built-in certificate reached its expiration date.
+- ###### 2026-11-15 19:33:44.269 [info] (Antigravity IDE) 2026-11-15 19:33:44.268 [ERROR]: LS check error: [internal] certificate has expired
+  - # - Look for and click Check for Updates....

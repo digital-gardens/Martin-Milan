@@ -8,6 +8,15 @@
 -  gemini 3.8 flash high, medium, claude sonnet
 
 
+Agent execution terminated due to error.
+
+- f1 reload ... did not help
+- network issues? restarted repeater.asus.com ... did not help
+
+
+
+
+
 # // I am a retiree with disabilities, a beginner, a hobbyist
 
 - ###### ////// select, ctrl-L (^l) 
@@ -17,9 +26,5 @@
 - ######  [  ^] quick settings
 done todo enable telemetry
 
-
-
-
-# how to disable cursor blinking
 
 
