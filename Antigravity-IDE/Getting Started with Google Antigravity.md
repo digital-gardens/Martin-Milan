@@ -10,7 +10,7 @@ tags:
 ---
 
 
-EDIT EDIT maybe i will use glasp instead of obsidian
+EDIT EDIT maybe i will use glasp instead of obsidian ??
 
   
 
