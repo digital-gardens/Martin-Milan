@@ -213,9 +213,13 @@ ClipChanged(DataType) { ; I renamed 'Type' to 'DataType' to avoid confusion, but
 ;;;;;:X*:hhh::Send("`#aaa")
 ;;:X*:hhh::Send("{#}")
 :X*:hh::Send("{#}")
-;==============================  ==============================
+
+;============================== F12 (separate file) ==============================
+#Include %A_ScriptDir%\f12.ahk
+
+
+;============================== human tests  ==============================
 ; aaa  do  f8 .. it  works ....yyyy
 ;  explorer     "C:\Users\marti\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"   # yyyy  run the app ... it asks to reload this ahk file
 ; code  C:\Users\marti\OneDrive\Dokumenty\00-MM\autohotkey.com\AutoHotkey.f9.ahk.f8.md   # yyyy there are  test chapters
 ;
-;; older aa  v2 test :   win+q AutoHotkey run the app ... it asks to reload this ahk file

@@ -1,7 +1,7 @@
 #Requires AutoHotkey v2.0
 #Warn
-SendMode "Event"
-SetWorkingDir A_ScriptDir
+;SendMode "Event"
+;;SetWorkingDir A_ScriptDir
 
 
 

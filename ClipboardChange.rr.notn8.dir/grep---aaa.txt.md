@@ -1169,3 +1169,5 @@
   - #Requires AutoHotkey v2.0
   - #Requires AutoHotkey v2.0
 - ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ###### now , in ahk2, is it possible  to `include` (?) the file f12.ahk   in the parent ...
+  - #Requires, #Warn and SendMode "Event" are repeated in f12.ahk, but they match the parent’s settings, so the repeats are harmless.
