@@ -1162,3 +1162,10 @@
   - #If false
 - ## autohotkey VERSION2.. #aa reloaded  ----------------  
   - #IfWinActive ahk_exe totalcmd64.exe
+  - #Requires AutoHotkey v2.0
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  - #Requires AutoHotkey v2.0
+  - #Requires AutoHotkey v2.0
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  

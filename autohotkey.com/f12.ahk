@@ -5,12 +5,10 @@ SetWorkingDir A_ScriptDir
 
 
 
-; the function $f12 was written in v1 syntax
-
-; todo rewrite the function $f12 in v2 syntax, because the function is used in v2 script
-
-; to an AI AGENT... please rewrite the function $f12 in v2 syntax, but with nearly *minimal* changes ... I want to read the diff
-; you can add comments
+; done .. ; the function $f12 was initially written in v1 syntax
+; done .. rewrite the function $f12 in v2 syntax, because the function is used in v2 script
+; done .. ; to an AI AGENT... please rewrite the function $f12 in v2 syntax, but with nearly *minimal* changes ... I want to read the diff
+; done .. ; to an AI AGENT; you can add comments
 
 
 
@@ -27,8 +25,8 @@ SetWorkingDir A_ScriptDir
 
 ;#if ==============================  ==============================
 
-#IfWinActive
-;    #IfWinActive ahk_exe code.exe
+#HotIf  ; v2: #IfWinActive (no params) -> #HotIf (no params) = reset context
+;;;;    #IfWinActive ahk_exe code.exe
 ;1028
 
 ;;;;;$F10::
@@ -49,12 +47,12 @@ $F12::
 ;1028 comment out
 	;Send {Home}+{End}
 	;Send this is a test {Enter} , aaaa ; bbbb
-	Sleep, 200
+	Sleep 200  ; v2: no comma after command name
 
-	Send, ^c
-	Sleep, 200
+	Send "^c"  ; v2: keys are a quoted string
+	Sleep 200  ; v2: no comma after command name
 
-	Send, {Down}
+	Send "{Down}"  ; v2: quoted string
 	;Sleep, 460
 	;Send, {AppsKey}
 	;Send, {Down 5}
@@ -63,9 +61,9 @@ $F12::
 	;Send, {Down}
 
 ;20261025
-	Send, #{Tab}
+	Send "#{Tab}"  ; v2: quoted string
 	;Send, !{Tab}
-	Sleep, 460
+	Sleep 460  ; v2: no comma after command name
 
 	;Send, ^v
 

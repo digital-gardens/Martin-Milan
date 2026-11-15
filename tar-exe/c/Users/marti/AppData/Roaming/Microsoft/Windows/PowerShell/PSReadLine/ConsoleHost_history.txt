@@ -3797,3 +3797,4 @@ cd  C:\Users\marti\OneDrive\Dokumenty\0111--~1\
 pwd
 cmd /c dir /s *youso*
 cmd /c dir /s /b   *youso*
+$LASTEXITCODE
