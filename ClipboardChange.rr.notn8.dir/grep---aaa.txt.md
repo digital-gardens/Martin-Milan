@@ -1199,3 +1199,4 @@
   - ###### - In the version you currently have installed (version 2.5.5), that built-in certificate reached its expiration date.
 - ###### 2026-11-15 19:33:44.269 [info] (Antigravity IDE) 2026-11-15 19:33:44.268 [ERROR]: LS check error: [internal] certificate has expired
   - # - Look for and click Check for Updates....
+  - - # agy upd cert 
