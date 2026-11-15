@@ -60,6 +60,13 @@ $F12::
 	;Send, {Enter}
 	;Send, {Down}
 
+;20261114
+        contents2 := SubStr(A_Clipboard, 1, 300)
+		; str
+        contents2 := "  f12 debug 20261114  " . StrLen(contents2)  ; "  " contents2
+        FileAppend  "  - "  contents2 "`n", logFile, "UTF-8"
+
+
 ;20261025
 	Send "#{Tab}"  ; v2: quoted string
 	;Send, !{Tab}

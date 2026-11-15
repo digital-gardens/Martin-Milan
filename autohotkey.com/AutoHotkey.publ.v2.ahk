@@ -100,8 +100,12 @@ logFile :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\0.clipb
 ;20261027
 logFile :=   "C:\Users\marti\OneDrive\11c3aaaa\ClipboardChange.rr.n8.dir\9.clipboard_log.rr.n8.txt.md"
 
+
 ; todo merge the variables logFile and logFile2 into one variable, because they are both used for clipboard logging
-; nn bug 20261114 .WARNING the path is at 2 places in this file  .. line 144, line 238  clipboard_log
+; nn bug 20261114 .WARNING .. the path is at 2 places in this file  .. line 144, line 238  clipboard_log
+  ; Claude
+  ;- This also covers your todo about merging logFile and logFile2. ClipChanged() could read the global logFile directly. You can then delete the four logFile2 := ... lines and keep the path in one place.
+
 
 ; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ...
 ; #Bug is ahk allowed to write to OneDrive/Dokumenty folder?  ... but none ahk is present allowed in ransomware protection ...
