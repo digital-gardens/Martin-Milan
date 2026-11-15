@@ -1,6 +1,33 @@
 
-////// use my w w macro to make headings
+# // I am a retiree with disabilities, a beginner, a hobbyist
+////// select, ctrl-L (^l)  , / #todo  , @
 
+////// I use my ww AHK macro to make headings
+
+
+# how to disable cursor blinking
+
+
+# 20261114 how to turn on auto-sugg
+was already on, in [  ^]
+
+
+# 
+
+# 20261114 chat failed in folder autohotkey.com/*
+- today again .. gemini 3.8 flash high, medium, claude sonnet
+> Agent execution terminated due to error.
+
+[  ^] quick settings
+done todo enable telemetry
+
+# edit.. for Charri .. are there 3? Antigr  things installed? official names?
+- IDE
+- App
+- CLI
+?
+
+---
 
 # win q create restore point before
 - ###### #- #TODO 
