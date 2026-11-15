@@ -1171,3 +1171,10 @@
 - ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
 - ###### now , in ahk2, is it possible  to `include` (?) the file f12.ahk   in the parent ...
   - #Requires, #Warn and SendMode "Event" are repeated in f12.ahk, but they match the parent’s settings, so the repeats are harmless.
+- ###### in ahk v1 and v2, I would like to have a global variable,
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  - #Include %A_ScriptDir%\f12.ahk
+- ###### in ahk v1 and v2, I would like to have a global variable,
+- ###### kdyz se nacancam 
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
