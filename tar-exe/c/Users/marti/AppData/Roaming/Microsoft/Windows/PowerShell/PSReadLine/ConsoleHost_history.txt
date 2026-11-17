@@ -3801,3 +3801,4 @@ $LASTEXITCODE
 ;;; dir
 bash
 pwsh
+&  "C:\Program Files\totalcmd\TOTALCMD64.EXE"  /n  c:\tmp

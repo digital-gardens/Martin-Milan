@@ -23,6 +23,8 @@ rclick lock this tab
 c:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\0004--SEARCHABLES--0004--KEEP-DEVICE\totalcmd2026\
 c:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\0004--SEARCHABLES--0004--KEEP-DEVICE\totalcmd2022\
 
+- ###### 20261117 
+&  "C:\Program Files\totalcmd\TOTALCMD64.EXE"  /n  c:\tmp
 
 
 
