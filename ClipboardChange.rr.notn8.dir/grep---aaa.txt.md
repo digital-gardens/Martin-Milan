@@ -1235,3 +1235,11 @@
   -   - # test .. text lines    .    
   -   - # test .. text      lines    .    
   -   - # test .. text      lines    .    
+  -   - # test .. text      lines    .    
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  -   - # 1 ; ls a* ; 15 
+  - # 1; ls a* ; 15
+  - ###### -   - - - 111; ls  b* 
+  - # 20261027 *.clipboard_log.*
+- ###### dir "C:\Program Files\WSL\*.exe"
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
