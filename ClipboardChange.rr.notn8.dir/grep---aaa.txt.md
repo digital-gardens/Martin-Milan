@@ -1200,3 +1200,24 @@
 - ###### 2026-11-15 19:33:44.269 [info] (Antigravity IDE) 2026-11-15 19:33:44.268 [ERROR]: LS check error: [internal] certificate has expired
   - # - Look for and click Check for Updates....
   - - # agy upd cert 
+- ###### devtools / elements / accessibility tab / show accessibility tree /  click the root / ^a ^c 
+- ###### RootWebArea "Demo page with accessibility issues" focusable: true focused: true url: https://microsoftedge.github.io/Demos/devtools-a11y-testing/#sheep
+    - ######  StaticText "00:08:19"         InlineT     - alert "" atomic: true
+  - ###### - RootWebArea "YouSongs.cz - písničky na kytaru a ukulele s texty a akordy" focusable: true url: https://www.yousongs.cz/registered/UserSettings.aspx
+  - - ###### Šel včera městem m###### už a šel po hlavní třídě, šel včera městem muž a já ho z okna viděl, na flétnu chorál hrál, znělo ...
+- #  wiki   vscode tasks , snippets , extensions , settings , keybindings , launch.json , tasks.json , settings.json , snippets , keybindings.json 
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ###### alternativeto  totalcmd
+ - ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  - - ###### alternativeto  totalcmd
+  - #bodyContent
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  - - # wiki vscode tasks , snippets , extensions , settings , keybindings , launch.json , tasks.json , settings.json , snippets , keybindings.json
+  - # 20261117-vscode-launch-tasks.md
