@@ -1,0 +1,51 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "run 20261117.cmd",
+      "type": "process",
+//      "type": "shell",
+      "command": "${workspaceFolder}\\vscode\\20261117.cmd",
+      "args": [
+        "${selectedText}"
+      ],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "run 20261117.sh",
+      "type": "process",
+      "command": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "args": [
+        "${workspaceFolder}/vscode/20261117.sh",
+        "${selectedText}"
+      ],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "run 20261117-line-number.sh",
+      "type": "process",
+      "command": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "args": [
+        "${workspaceFolder}/vscode/20261117-line-number.sh",
+        "${file}",
+        "${lineNumber}"
+      ],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    }
+  ]
+}

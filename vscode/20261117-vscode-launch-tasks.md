@@ -12,8 +12,20 @@
   - # test .. text      lines    .    
   " - # test .. text lines .
     [1]  - # test .. text lines .
+
+• Use :: for top-level headers: If you prefer the clean look of ::, restrict it to the top of your script or standalone sections outside of code blocks, and ensure no line ends with a ^.
+
+
+multi
+line
+selectio
+
+C:\
+C:\   Users
 C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\20261117.cmd
+
 C:\Users\marti\OneDrive\Dokumenty\        00-MM\vscode\
+
 C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\        20261117.cmd
 shell
 "C:\Users\marti\OneDrive\Dokumenty\00-MM\vscode\ 20261117.cmd
@@ -26,6 +38,63 @@ process
 
 # experiment.. pass the filename and line number 
 to 20261117-line-number.sh
+
+### VS Code Variables Used:
+* `${file}` — Full path of current active file
+* `${lineNumber}` — Current line number of the cursor (1-based)
+* *(Also available: `${fileBasename}`, `${relativeFile}`, `${fileDirname}`, `${columnNumber}`)*
+
+### Task Definition in `.vscode/tasks.json`
+```json
+{
+  "label": "run 20261117-line-number.sh",
+  "type": "process",
+  "command": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "args": [
+    "${workspaceFolder}/vscode/20261117-line-number.sh",
+    "${file}",
+    "${lineNumber}"
+  ],
+  "problemMatcher": [],
+  "presentation": {
+    "reveal": "always",
+    "panel": "shared",
+    "focus": true
+  }
+}
+```
+
+### Script in `vscode/20261117-line-number.sh`
+```bash
+#!/usr/bin/env bash
+
+echo ""
+echo "==================================================="
+echo "[20261117-line-number.sh] File & Line Info"
+echo "---------------------------------------------------"
+echo "Total arguments (\$#): $#"
+echo "Full Path       (\$1): $1"
+echo "Line Number     (\$2): $2"
+echo "---------------------------------------------------"
+
+# Extract basename and directory
+BASENAME=$(basename "$1" 2>/dev/null)
+DIRNAME=$(dirname "$1" 2>/dev/null)
+
+echo "Directory           : $DIRNAME"
+echo "Basename            : $BASENAME"
+
+# Display content at that specific line
+if [ -n "$1" ] && [ -n "$2" ] && [ -f "$1" ]; then
+    echo "---------------------------------------------------"
+    echo "Line $2 content:"
+    sed -n "${2}p" "$1"
+fi
+
+echo "==================================================="
+echo ""
+```
+
 
 
 
