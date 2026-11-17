@@ -1221,3 +1221,4 @@
 - ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
   - - # wiki vscode tasks , snippets , extensions , settings , keybindings , launch.json , tasks.json , settings.json , snippets , keybindings.json
   - # 20261117-vscode-launch-tasks.md
+  - ###### -   - "Associate with..." doesn't work when the user used at least once the context menu function "Open with" - "Always open with". Windows then blocks the change of file associations, so programs and installers can't grab a file association which a user has explicitly changed. In this case, you can o
