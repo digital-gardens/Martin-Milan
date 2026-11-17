@@ -13996,3 +13996,76 @@ cmd /c dir .c*
 Where.exe agy*
 where.exe agy*|clip
 code .
+cd shell:sendto
+bash
+: ; ls
+; ; ; ls
+1 ; ls
+1 ; ls a*
+1 ; ls a* ; 1
+1 ; ls aa* ; 1
+1 ; ls aa* ; 15
+bash
+-   - # 1 ; ls a* ; 15`
+-   - # 1 ; ls a* ; 15`
+
+- 1 ; ls aa* ; 15
+-  ; ls aa* ; 15
+- 1; ls a* ; 15
+- # 1; ls a* ; 15`
+
+- 1 - 1 ; ls b*
+- - 1 ; ls b* ; 15
+bash
+- - - 11; ls -l b*
+-   - - - 11; ls  b*
+-   - - - 11; ls --help b*
+-   - - - 111; ls --help b*
+-   - - - 111; ls  b*
+bash
+- a ; ls
+-   - - - 111; ls  b*
+- ls  ######
+$env:Path
+$env:Path -split ';' | ForEach-Object { Write-Output $_ }
+$env:Path -split ';' | ForEach-Object { Write-Output $_ }  | clip
+dir C:\Program Files\RedHat\Podman\
+dir "C:\Program Files\RedHat\Podman\"
+dir "C:\Program Files\RedHat\Podman\*.exe"
+dir "C:\Program Files\WSL\"
+dir "C:\Program Files\WSL\*.exe"
+where.exe *.cmd
+where.exe *.bat
+where.exe *.ps1
+where.exe *.sh
+where.exe *.py
+where.exe *.pl
+where.exe *.rb
+$env:comspec
+$env
+$env:
+$env:*`
+
+ls $env:*
+ls $env:
+cmd /c set
+cmd /c set|findstr -i com
+where.exe *.com
+$env:pathext
+$env:pathext|clip
+- where.exe *.vbs
+where.exe *.vbs
+where.exe *.vbe
+where.exe *.js
+where.exe *.jse
+where.exe *.wsf
+where.exe *.wsh
+where.exe *.msc
+where.exe *.cpl
+where.exe *.sh
+where.exe *.ps1
+where.exe *.ps1  |clip
+where.exe *.bat |clip
+where.exe *.cmd|clip
+C:\ProgramData\marti\GitHubDesktop\bin\github.bat --help
+where.exe git*

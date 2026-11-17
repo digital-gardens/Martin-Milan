@@ -3798,3 +3798,6 @@ pwd
 cmd /c dir /s *youso*
 cmd /c dir /s /b   *youso*
 $LASTEXITCODE
+;;; dir
+bash
+pwsh

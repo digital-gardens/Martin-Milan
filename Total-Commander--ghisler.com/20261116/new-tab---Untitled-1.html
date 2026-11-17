@@ -1,0 +1,86 @@
+<div class="main-container ng-scope" ng-controller="MainController">
+
+        <span id="app-prefs"><a href="#" class="plain" ng-click="show_prefs=true"><i class="fa fa-gears"></i></a></span>
+
+        <div class="dialog" ng-show="show_prefs">
+            <div class="content">
+                <h2>Display Preferences</h2>
+                <div class="setting">
+                    <h3><i class="fa fa-bookmark-o"></i> Bookmarks Bar</h3>
+                    <div permission="bookmarks" granted="permissions.bookmarks" class="ng-isolate-scope"><button ng-click="toggle()" class="ng-binding">Grant 'bookmarks' Permission</button></div>
+                    <label>
+                        <input type="checkbox" ng-model="enable_bookmarks" ng-disabled="!permissions.bookmarks" class="ng-pristine ng-valid" disabled="disabled"> Enable
+                    </label>
+                    <div>
+                        Show <input type="number" min="5" max="40" ng-model="bookmark_count" ng-disabled="!permissions.bookmarks" title="Too many bookmarks will cause the box to become very large" class="ng-pristine ng-valid ng-valid-number ng-valid-max ng-valid-min" disabled="disabled"> bookmarks
+                    </div>
+                </div>
+                <div class="setting">
+                    <h3><i class="fa fa-star-o"></i> Top Sites Panel</h3>
+                    <div permission="topSites" granted="permissions.topSites" class="ng-isolate-scope"><button ng-click="toggle()" class="ng-binding">Grant 'topSites' Permission</button></div>
+                    <label>
+                        <input type="checkbox" ng-model="enable_top" ng-disabled="!permissions.topSites" class="ng-pristine ng-valid" disabled="disabled"> Enable
+                    </label>
+                    <div>
+                        Show <input type="number" min="5" max="20" ng-model="top_count" ng-disabled="!permissions.topSites" title="Too many top sites will cause the box to become very large" class="ng-pristine ng-valid ng-valid-number ng-valid-max ng-valid-min" disabled="disabled"> top sites
+                    </div>
+                </div>
+
+                <div class="setting">
+                    <h3><i class="fa fa-external-link"></i> Open apps in New Window</h3>
+                    <div permission="tabs" granted="permissions.tabs" class="ng-isolate-scope"><button ng-click="toggle()" class="ng-binding">Grant 'tabs' Permission</button></div>
+                </div>
+
+                <button ng-click="save_preferences()" class="pull-right">Close</button>
+            </div>
+        </div>
+
+
+
+		<hr/>
+		<hr/>
+		<hr/>
+		<hr/>
+
+        <div class="app-header">
+            <span class="app-logo"><a href="options.html" target="_self" class="ng-binding"><i class="fa">&nbsp;</i> New Tab Redirect!</a></span>
+            <span class="webstore"><a href="https://chrome.google.com/webstore" target="_self" class="plain"><i class="fa" style="background:url('/_favicon/?pageUrl=https://chrome.google.com/webstore/category/apps') no-repeat;"></i> Chrome Web Store</a></span>
+        </div>
+
+        <div class="container bookmarks-container ng-hide" ng-show="permissions.bookmarks &amp;&amp; enable_bookmarks &amp;&amp; bookmarks.length &gt; 0" ng-class="{'populated':bookmarks.length &gt; 0}">
+            <!-- ngRepeat: b in bookmarks -->
+        </div>
+
+        <div ng-show="permissions.management" class="container app-container clear ng-hide" ng-class="{'after-bookmarks': enable_bookmarks &amp;&amp; bookmarks.length &gt; 0,'populated':apps.length &gt; 0}">
+            <div><input type="search" ng-model="q.name" ng-show="apps.length &gt; 5" placeholder="Filter apps" class="ng-pristine ng-valid ng-hide"></div>
+            <!-- ngRepeat: app in (apps | filter:q) -->
+            <div ng-show="(apps | filter:q).length == 0" style="margin:1.5em" class="ng-hide">No matches found.</div>
+            <span class="clear"></span>
+        </div>
+
+        <!-- ngIf: !permissions.management --><div ng-if="!permissions.management" class="container app-container no-app-permissions ng-scope populated" ng-class="{'after-bookmarks': enable_bookmarks &amp;&amp; bookmarks.length &gt; 0, 'populated': permissions.management == false}">
+            <h3>Hello.</h3>
+            <p>
+                This extension doesn't yet have the permissions to read and manage your Apps!
+                It requires the 'management' permission to do this. You can read more about <a href="https://support.google.com/chrome_webstore/answer/186213?hl=en" target="_blank">permissions</a> and
+                their <a href="http://developer.chrome.com/extensions/permission_warnings" target="_blank">warnings</a> before proceeding.
+            </p>
+            <p>
+                <div permission="management" granted="permissions.management" class="ng-isolate-scope"><button ng-click="toggle()" class="ng-binding">Grant 'management' Permission</button></div>
+            </p>
+            <p>
+                Permissions and display options can be configured by clicking the gear icon in the bottom right corner.
+                That's where you'll find extra, opt-in functionality like the top sites panel and quick bookmarks 'bar'.
+            </p>
+            <p>
+                You'll only see that annoying popup to request permissions once. After that, you can grant or deny any individual
+                permissions at any time without the extra popup (except the management permission, because what good's an Apps page without that?).
+            </p>
+            <p>
+                Enable what you want, disable what you don't. You can always check the permissions of any installed extension or app at chrome://extensions (also accessible under <code>Menu -&gt; Tools -&gt; Extensions</code>. Safe browsing!
+            </p>
+            <span class="clear"></span>
+        </div><!-- end ngIf: !permissions.management -->
+
+        <!-- ngIf: permissions.topSites && enable_top && top.length > 0 -->
+    </div>
