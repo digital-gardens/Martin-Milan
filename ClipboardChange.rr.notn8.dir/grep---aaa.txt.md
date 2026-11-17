@@ -1222,3 +1222,16 @@
   - - # wiki vscode tasks , snippets , extensions , settings , keybindings , launch.json , tasks.json , settings.json , snippets , keybindings.json
   - # 20261117-vscode-launch-tasks.md
   - ###### -   - "Associate with..." doesn't work when the user used at least once the context menu function "Open with" - "Always open with". Windows then blocks the change of file associations, so programs and installers can't grab a file association which a user has explicitly changed. In this case, you can o
+  - ###### - Může obsahovat stopy mléka.
+  - ###### - Tv Noe – televize dobrých zpráv
+  - # test .. text lines
+  - ###### - Měli jste problém se zbožím? Moc nás to mrzí. Můžete ho reklamovat na pár kliků do 17. 11. 2026.
+  - ###### - Prantl Tokajská klobása
+  - ###### - Nowaco Zelný salát červený Coleslaw
+  - ###### - Madeta Jihočeský Eidam sýr 20%, plátky
+  - - ###### Keep 20261117.sh saved with LF line endings (not Windows CRLF), otherwise Git Bash reports \r: command not found.
+  - - ###### powershell quoting quirks?
+  -   - # test .. text lines    .    
+  -   - # test .. text lines    .    
+  -   - # test .. text      lines    .    
+  -   - # test .. text      lines    .    
