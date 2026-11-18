@@ -3823,3 +3823,12 @@ tc
 powershell
 tcmd --help
 tc --help
+$PROFILE
+$PROFILE|select *
+$PROFILE.CurrentUserAllHosts
+get-variable PSVersionTable
+get-variable PSVersion*
+PSVersionTable.PSVersion
+PSVersionTable
+$PSVersionTable
+pwsh

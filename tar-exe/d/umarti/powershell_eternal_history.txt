@@ -14090,3 +14090,18 @@ $PSVersionTable
 tcmd --help
 bash
 exit
+$PROFILE|select *
+$PSVersionTable
+code  $PROFILE.CurrentUserAllHosts
+echo 'code  $PROFILE.CurrentUserAllHosts'
+pwsh
+get-drive d:
+get-disk
+get-diskget-disk
+get-disk
+get-disk|select -Property FriendlyName
+echo 'Set-PSReadlineOption -HistorySavePath D:\umarti\powershell_eternal_history.txt'
+get-disk|select -Property FriendlyName
+echo 'Set-PSReadlineOption -HistorySavePath D:\umarti\powershell_eternal_history.txt'
+echo 'aaaa antifragile? drive d: sometimes disconnects'
+pwsh

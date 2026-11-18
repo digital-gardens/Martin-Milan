@@ -76,6 +76,7 @@ toe
 exit
 where.exe /?
 
+C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
 
 
 explorer.exe mk:@MSITStore:C:\Program%20Files\totalcmd\TOTALCMD.CHM::/dlg_search.htm
