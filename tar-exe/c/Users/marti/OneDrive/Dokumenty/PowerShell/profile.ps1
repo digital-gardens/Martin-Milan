@@ -1,4 +1,7 @@
 
+#echo  ' btw, BUG-20261118-GITIGNORE-gitignore.md'
+
+# yyyy run `pwsh` to test this file, because any stray quote can be a subtle bug
 
 
 #pwsh
@@ -42,5 +45,9 @@ Set-Alias -Name git   -Value C:\pf\Git\cmd\git.exe
 Set-Alias -Name  bash   -Value C:\pf\Git\bin\bash.exe
 
 #bash "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
+# gitignore bug fixed 20261118
+function totalcmd {
+    & 'C:\Program Files\totalcmd\TOTALCMD64.EXE' @args
+}
 
-
+echo end-of-profile.ps1

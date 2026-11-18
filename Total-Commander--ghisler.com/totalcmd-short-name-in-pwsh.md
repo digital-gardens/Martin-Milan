@@ -1,4 +1,9 @@
 
+pwsh
+
+# btw, BUG-20261118-GITIGNORE-gitignore.md
+
+
 # C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
 
 
@@ -34,7 +39,16 @@ Set-Alias -Name totalcmd -Value 'C:\Program Files\totalcmd\TOTALCMD64.EXE'
 
 - ###### Limitation: an alias can't hold default options (e.g. always `/O`).
 
+
+
 ### 2. Wrapper function (recommended, more flexible)
+
+my test
+pwsh
+totalcmd /O /T "$PWD\.."
+totalcmd /N /T "$PWD\.."
+
+totalcmd "C:\Users\marti\OneDrive\Dokumenty\7Clippings"
 
 ```pwsh
 function totalcmd {
@@ -89,5 +103,6 @@ The name is fixed (`totalcmd64`); combine with 1 or 2 for the short name in pwsh
 ### Quirk: quoted paths ending in `\`
 
 TC switches (`/L=`, `/R=`, `/T`, `/O`, `/S`) work with all options.
-A quoted path with a trailing backslash (`"C:\dir\"`) is passed correctly in PowerShell 7.3+;
+- ###### A quoted path with a trailing backslash (`"C:\dir\"`) is passed correctly in PowerShell 7.3+;
 in older versions `\"` can swallow the closing quote — drop the trailing backslash to be safe.
+

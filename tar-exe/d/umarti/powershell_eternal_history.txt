@@ -14110,3 +14110,7 @@ bash "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
 pwsh
 bash
 bash "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
+totalcmd /N /T "$PWD\.."
+totalcmd "C:\Users\marti\OneDrive\Dokumenty\7Clippings"
+pwsh
+bash "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
