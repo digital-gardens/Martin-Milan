@@ -3832,3 +3832,6 @@ PSVersionTable.PSVersion
 PSVersionTable
 $PSVersionTable
 pwsh
+find . -type f -name ".gitignore" | wc -l
+bash
+pwsh

@@ -14107,3 +14107,5 @@ echo 'aaaa antifragile? drive d: sometimes disconnects'
 pwsh
 ii "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
 bash "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
+pwsh
+bash
