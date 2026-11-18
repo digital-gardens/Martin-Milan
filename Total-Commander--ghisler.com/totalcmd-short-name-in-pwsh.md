@@ -72,6 +72,9 @@ code  $PROFILE.CurrentUserAllHosts
 echo 'code  $PROFILE.CurrentUserAllHosts'
 
 
+bash "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
+echo bash "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
+ii "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
 
 ```
 

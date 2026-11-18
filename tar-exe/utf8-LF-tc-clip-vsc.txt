@@ -15,12 +15,14 @@ c:\Users\marti\AppData\Roaming\Code\User\settings.json
 c:\Users\marti\AppData\Roaming\Code\User\keybindings.json
 C:\Users\marti\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json
 /w/home/martin/wsl.conf
+separato------------------------------------
+C:\Users\marti\OneDrive\Dokumenty\PowerShell\profile.ps1
 /w/home/martin/.zshrc
 /u/home/martin/.zshrc
 /p/home/user/.zshrc
 /n/node/.zshrc
-fuj----why
-fujC:\Users\marti\AppData\Roaming\GHISLER\wincmd.ini
+fuj----why----fuj-----hope-not-id----i-will-enable--
+C:\Users\marti\AppData\Roaming\GHISLER\wincmd.ini
 /w/home/martin/.emacs.d/init.el
 /w/home/martin/.emacs.d/custom.el
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
@@ -56,4 +58,5 @@ nnC:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
 C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh
 last------opravnene--worried-about-spaces-in-names-nnnnn----------------workaround-is--tildes-----above--yyyy----dir---x
 nnnc:\Users\marti\AppData\Roaming\AntigravitySPACEide---------it-copied---entire---Antigravity-dir-27M--------IDE\User\settings.json
+aaaa----yyyy---should-have-written-loop-in-loop-in-pwsh---instead---of---this-fragile-script
 nn-it-aborts-on-empty-path---------------------------
