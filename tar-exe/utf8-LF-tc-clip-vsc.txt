@@ -50,9 +50,10 @@ qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 P:\home\user\.local\share\containers\storage\volumes\nslash_home\_data\vscode\sbase.wasm\Makefile
 P:\home\user\.local\share\containers\storage\volumes\nslash_home\_data\vscode\sbase.wasm\config.mk
 nnn-bojim-vypadky-dee
+nnnnnnnnnnnnBUG-20261118-GITIGNORE-gitignore.md
 D:\0004-LINKS\OneDrive--Pictu\.gitignore
 D:\0004-LINKS\OneDrive\.gitignore
-C:\Users\marti\OneDrive\.gitignore
+aaaaBUG-20261118-GITIGNORE-gitignore.mdC:\Users\marti\OneDrive\.gitignore
 nnC:\Users\marti\OneDrive\Dokumenty\AutoHotkey.ahk
 nnC:\Users\marti\OneDrive\Dokumenty\AutoHotkey.f5.v1.ahk
 C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh
