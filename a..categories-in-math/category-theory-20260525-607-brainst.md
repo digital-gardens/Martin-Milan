@@ -445,3 +445,6 @@ is this construction described somewhere on the web?
 
 
 
+# [[20261118-]]
+C:\Users\marti\OneDrive\Dokumenty\00-MM\a..categories-in-math\20261118-pure-math-view-of-programming-languages.md
+

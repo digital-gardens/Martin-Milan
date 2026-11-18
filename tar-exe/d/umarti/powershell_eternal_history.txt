@@ -14071,3 +14071,22 @@ C:\ProgramData\marti\GitHubDesktop\bin\github.bat --help
 where.exe git*
 &  "C:\Program Files\totalcmd\TOTALCMD64.EXE"  /?
 &  "C:\Program Files\totalcmd\TOTALCMD64.EXE"  /help
+bash
+$PSVersionTable.PSVersion
+$PSVersionTable
+get-alias tc*
+get-alias to*
+get-alias t*
+powershell
+$PSVersionTable
+where.exe tcfg
+tc
+Get-Command tc*
+get-command tc*
+get-command to*
+bash
+tc --help
+$PSVersionTable
+tcmd --help
+bash
+exit

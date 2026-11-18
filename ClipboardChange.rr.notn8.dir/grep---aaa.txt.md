@@ -1243,3 +1243,10 @@
   - # 20261027 *.clipboard_log.*
 - ###### dir "C:\Program Files\WSL\*.exe"
 - ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+   - ###### &  "C:\Program Files\totalcmd\TOTALCMD64.EXE"  /?
+- # pure-math-view-of-programming-languages.md
+  - - # pure-math-view-of-programming-languages
+  - - # pure-math-view-of-programming-languages.md
+  - - # pure-math-view-of-programming-languages.md
+  - # experiment.. constructing a category for a dynamically typed programming language (e.g. JavaScript)
+  - # experiment.. constructing a category for a dynamically typed programming language (e.g. JavaScript)

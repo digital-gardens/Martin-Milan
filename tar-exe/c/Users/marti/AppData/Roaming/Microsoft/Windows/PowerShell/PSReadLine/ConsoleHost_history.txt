@@ -3802,3 +3802,24 @@ $LASTEXITCODE
 bash
 pwsh
 &  "C:\Program Files\totalcmd\TOTALCMD64.EXE"  /n  c:\tmp
+where.exe tc*
+where.exe tc*.exe
+where.exe to*.exe
+where.exe to*
+where.exe /?
+where.exe tc*
+where.exe to*
+get-alias tc*
+get-alias to*
+get-alias t*
+pwsh
+$PSVersionTable.PSVersion
+$PSVersionTable
+get-alias tc*
+get-alias to*
+get-alias t*
+pwsh
+tc
+powershell
+tcmd --help
+tc --help

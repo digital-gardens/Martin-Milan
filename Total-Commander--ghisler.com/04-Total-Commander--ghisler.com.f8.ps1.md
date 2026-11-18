@@ -27,9 +27,54 @@ c:\Users\milan_rxtipwr\OneDrive\0-MARTI-READONLY\0004--SEARCHABLES--0004--KEEP-D
 &  "C:\Program Files\totalcmd\TOTALCMD64.EXE"  /n  c:\tmp
 
 
+- ###### 20261118
+
+- ###### totalcmd
+> Loads a list of files/folders from the given text file into the file panel, same as the LOADLIST0 button bar command.
+...
+which other file managers have such function...
+onecommander?
+files.community?
+noooo
+
+xyplorer
+dopus
 
 
 
+  which file managers have
+  their own custom URL schemes
+  like
+
+
+- ###### tc --help 
+tc --help 
+tcmd --help   
+
+pwsh
+$PSVersionTable.PSVersion
+$PSVersionTable
+where.exe tc*
+where.exe to*
+
+get-command tc*
+get-command to*
+
+get-alias tc*
+get-alias to*
+get-alias t*
+2
+
+powershell
+3
+
+pwsh
+bash
+tclsh 
+tclsh86
+toe 
+exit
+where.exe /?
 
 
 
