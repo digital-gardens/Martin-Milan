@@ -130,29 +130,31 @@
     "editor.cursorBlinking": "solid",
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.profiles.windows": {
-        "PowerShell": {
-            "source": "PowerShell",
-            "icon": "terminal-powershell"
-        },
-        "Command Prompt": {
-            "path": [
-                "${env:windir}\\Sysnative\\cmd.exe",
-                "${env:windir}\\System32\\cmd.exe"
-            ],
-            "args": [],
-            "icon": "terminal-cmd"
-        },
-        "Git Bash": {
-            "source": "Git Bash"
-        },
-        "C:\\WINDOWS\\System32\\wsl.exe (migrated)": {
-            "path": "C:\\WINDOWS\\System32\\wsl.exe",
-            "args": []
-        },
-        "Windows PowerShell": {
-            "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
-        }
-    },
+		"PowerShell": {
+			// maybe ok .git diff .deleted lines 20261118
+			"path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+		},
+		"Command Prompt": {
+			"path": [
+				"${env:windir}\\Sysnative\\cmd.exe",
+				"${env:windir}\\System32\\cmd.exe"
+			],
+			"args": [],
+			"icon": "terminal-cmd"
+		},
+		"Git Bash": {
+			// why no path 20261118
+			"source": "Git Bash",
+			"icon": "terminal-git-bash"
+		},
+		"C:\\WINDOWS\\System32\\wsl.exe (migrated)": {
+			"path": "C:\\WINDOWS\\System32\\wsl.exe",
+			"args": []
+		},
+		"Windows PowerShell": {
+			"path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+		}
+	},
     "js/ts.suggest.completeFunctionCalls": true,
     "python.autoComplete.addBrackets": true,
     "powershell.promptToUpdatePowerShell": false,
@@ -691,6 +693,8 @@
 
 
 	},
+	"markdown.math.enabled": false,
+	"chat.math.enabled": false,
 
 
 
