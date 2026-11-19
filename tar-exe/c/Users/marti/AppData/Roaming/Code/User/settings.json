@@ -127,12 +127,15 @@
 
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+
     "editor.cursorBlinking": "solid",
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.profiles.windows": {
 		"PowerShell": {
 			// maybe ok .git diff .deleted lines 20261118
-			"path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+			//"path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+			"path": "C:\\Users\\marti\\AppData\\Local\\Microsoft\\WindowsApps\\pwsh.exe"
+
 		},
 		"Command Prompt": {
 			"path": [

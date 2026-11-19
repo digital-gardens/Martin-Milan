@@ -14114,3 +14114,14 @@ totalcmd /N /T "$PWD\.."
 totalcmd "C:\Users\marti\OneDrive\Dokumenty\7Clippings"
 pwsh
 bash "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
+where.exe totalcmd
+pwsh
+where.exe totalcmd
+get-command totalcmd
+where.exe pwsh
+where.exe pwsh|clip
+cmd /c dir C:\Users\marti\AppData\Local\Microsoft\WindowsApps\Microsoft.PowerShell-LTS_8wekyb3d8bbwe\pwsh.exe
+cmd /c dir  C:\Users\marti\AppData\Local\Microsoft\WindowsApps\pwsh.exe
+$PSHOME
+& "C:\Users\marti\AppData\Local\Microsoft\WindowsApps\pwsh.exe"
+totalcmd  C:\Users\marti\AppData\Local\Microsoft\WindowsApps\pwsh.exe
