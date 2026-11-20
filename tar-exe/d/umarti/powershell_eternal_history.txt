@@ -14125,3 +14125,10 @@ cmd /c dir  C:\Users\marti\AppData\Local\Microsoft\WindowsApps\pwsh.exe
 $PSHOME
 & "C:\Users\marti\AppData\Local\Microsoft\WindowsApps\pwsh.exe"
 totalcmd  C:\Users\marti\AppData\Local\Microsoft\WindowsApps\pwsh.exe
+filemgr   C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
+pwsh
+filemgr   C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
+pwsh
+filemgr   C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
+pwsh
+filemgr   C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
