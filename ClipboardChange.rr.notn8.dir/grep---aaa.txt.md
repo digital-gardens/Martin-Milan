@@ -1289,3 +1289,4 @@
   - - ###### 20 let písniček 
   - - ###### 011 0404   
   - # po sams drv 
+  - # C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
