@@ -1285,3 +1285,5 @@
 - ###### allegedly not modif
 - ###### ....snad nepisou do pathu
   - ###### - C:\Program Files\XYplorer
+  - ######" - pre sams
+  - - ###### 20 let písniček 
