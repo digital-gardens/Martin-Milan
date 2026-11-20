@@ -52,4 +52,8 @@ function totalcmd {
     & 'C:\Program Files\totalcmd\TOTALCMD64.EXE' @args
 }
 
+function filemgr {
+    & 'C:\Program Files\totalcmd\TOTALCMD64.EXE' /N  @args
+}
+
 echo end-of-profile.ps1 refactored 20261120
