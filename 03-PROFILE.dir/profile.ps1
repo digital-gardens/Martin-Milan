@@ -1,4 +1,6 @@
 
+# called from "C:\Users\marti\OneDrive\Dokumenty\PowerShell\profile.ps1"
+
 #echo  ' btw, BUG-20261118-GITIGNORE-gitignore.md'
 
 # yyyy run `pwsh` to test this file, because any stray quote can be a subtle bug
@@ -50,4 +52,4 @@ function totalcmd {
     & 'C:\Program Files\totalcmd\TOTALCMD64.EXE' @args
 }
 
-echo end-of-profile.ps1
+echo end-of-profile.ps1 refactored 20261120

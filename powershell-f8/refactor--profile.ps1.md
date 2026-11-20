@@ -5,5 +5,8 @@ In
 I need to call
 "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-PROFILE.dir\profile.ps1"
 
+probably
+& "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-PROFILE.dir\profile.ps1"
+
 
 

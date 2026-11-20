@@ -1,5 +1,7 @@
 
 #echo  ' btw, BUG-20261118-GITIGNORE-gitignore.md'
+& "C:\Users\marti\OneDrive\Dokumenty\00-MM\03-PROFILE.dir\profile.ps1"
+
 
 # yyyy run `pwsh` to test this file, because any stray quote can be a subtle bug
 
@@ -8,6 +10,7 @@
 # $PROFILE|select *
 #get-variable PSVersion*
 #$PSVersionTable
+
 
 echo aaa 20261118
 echo 'code  $PROFILE.CurrentUserAllHosts'
