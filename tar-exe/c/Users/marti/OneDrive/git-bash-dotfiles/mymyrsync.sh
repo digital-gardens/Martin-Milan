@@ -1,4 +1,4 @@
-	
+
 # this is not an f8 file, but a regular bash script, which is called from mystartup.sh
 #
 
@@ -48,9 +48,11 @@ cd /c/Users/marti && cp  \
 #
 
 
+# 20261118 --verbose \
 # 202606 move tar-exe/
 # "C:\Users\marti\OneDrive\Dokumenty\00-MM\tar-exe"
 cp \
+--verbose \
    \
    --archive \
    --parents --strip-trailing-slashes --target-directory=$HOME/OneDrive/Dokumenty/00-MM/tar-exe/  --update --verbose \

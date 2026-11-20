@@ -1250,3 +1250,38 @@
   - - # pure-math-view-of-programming-languages.md
   - # experiment.. constructing a category for a dynamically typed programming language (e.g. JavaScript)
   - # experiment.. constructing a category for a dynamically typed programming language (e.g. JavaScript)
+  - ###### - C:\Users\marti\OneDrive\Dokumenty\00-MM\a..categories-in-math\20261118-pure-math-view-of-programming-languages.md
+  - ###### - - related to B_2
+  - ###### - A web shell implementation for VS Code for the Web based on WASM technology to execute Unix commands like ls or cat.
+  - ###### -  online, heise (2025-10-31). "Open VSX: Eclipse Foundation Draws Consequences from GlassWorm Attack". Developer. Retrieved 2026-06-19.
+- ###### totalcmd
+- ###### > Loads a list of files/folders from the given text file into the file panel, same as the LOADLIST0 button bar command.
+- ######   - Instead, it relies on the GNOME Virtual File System (GVFS).
+  - ###### - Allow Zombies: If enabled, non-existent or currently unavailable items are also listed. And a number
+  - ###### - BUT NOTE: Like all Paper Folder files this file will be overwritten whenever the Paper Folder is saved
+  - ###### - Exception: Allow Zombies (see above) is enabled.
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  -   - ###### - terminal.integrated.profiles.windows.PowerShell.path
+  - - ###### tc --help 
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  - ###### - function totalcmd { & 'C:\Program Files\totalcmd\TOTALCMD64.EXE' /O @args }
+  - ###### - A quoted path with a trailing backslash (`"C:\dir\"`) is passed correctly in PowerShell 7.3+;
+  - ###### - C:\Users\marti\OneDrive\Dokumenty\PowerShell\profile.ps1
+  - ###### - bash "C:\Users\marti\OneDrive\git-bash-dotfiles\mymyrsync.sh"
+  - ###### - BUG-20261118-GITIGNORE-gitignore.md
+  - # todo
+  - ###### - totalcmd "C:\Users\marti\OneDrive\Dokumenty\7Clippings"
+  - # BUG-20261118-GITIGNORE-gitignore.md
+  - # btw, BUG-20261118-GITIGNORE-gitignore.md
+  - - # Kolik je smutného když mraky černé jdou lidem nad hlavou smutnou dálavou já slyšel příběh, který velkou pravdu měl ...
+  - - # *G*, bpm 138 Z kraje týdne málo jsem ti vhod ve středu pak ztrácíš ke 
+  - - # Šel včera městem m###### už a šel po hlavní třídě, šel včera městem muž a já ho z okna viděl, na flétnu chorál hrál, znělo ...
+- ## autohotkey.publ.v2 .. #aa reloaded  ----------------  
+  - ###### - pre-xy
+- ###### source: "https://en.wikipedia.org/wiki/XYplorer"
+  - ###### - set __COMPAT_LAYER=RunAsInvoker
+- ###### start "" "XYplorer64_28.40_Install.exe"
+  - #e:: Run, XYplorer
+- ###### allegedly not modif
+- ###### ....snad nepisou do pathu
+  - ###### - C:\Program Files\XYplorer
