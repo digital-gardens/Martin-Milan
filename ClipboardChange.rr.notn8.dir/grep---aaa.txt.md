@@ -1287,3 +1287,5 @@
   - ###### - C:\Program Files\XYplorer
   - ######" - pre sams
   - - ###### 20 let písniček 
+  - - ###### 011 0404   
+  - # po sams drv 
