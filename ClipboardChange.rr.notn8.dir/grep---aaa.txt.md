@@ -1290,3 +1290,15 @@
   - - ###### 011 0404   
   - # po sams drv 
   - # C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
+  - # milan.bok.75@gmail.com
+  - # can a malicious vscode extension send fake keyboard events to other applications?
+  - # can a malicious vscode extension send fake keyboard events to other applications?   // my  topic 20260527 , 20260707
+  - # can a malicious vscode extension send fake keyboard events to other applications?   // my  topic 20260527 , 20260707
+  - # chromium sandbox under Windows
+- ######  btw, does python have a sandboxed environment?  ... something like node --permission
+  - # btw, how much sandboxing is there for MS store apps?  ... can they send fake keyboard events to other applications?
+- ###### btw, if a malware is running as root 
+- ###### I have 100 Edge workspaces, each with its own set of tabs related to 1 topic
+  - ###### - The --launch-workspace="<ID>" flag still works on Windows, though Microsoft retired WorkspacesCache in the 2026 Workspaces v2 sync migration.
+- ###### can i access the Edge Sync LevelDB database from edge devtools?  ... and can i read the workspace GUIDs from there?
+  - - # can vscode.dev connect to a container?

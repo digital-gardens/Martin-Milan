@@ -14132,3 +14132,8 @@ pwsh
 filemgr   C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
 pwsh
 filemgr   C:\Users\marti\OneDrive\Dokumenty\00-MM\Total-Commander--ghisler.com\totalcmd-short-name-in-pwsh.md
+totalcmd "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\"
+dir /s "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\"
+cmd  /c dir /s "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\"
+cmd  /c dir /s "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\" |clip
+code C:\Users\marti\OneDrive\Dokumenty\00-MM\edge-urls\select--1sync-data-dump-2026-11-21-1795299742755-Win32.csv
