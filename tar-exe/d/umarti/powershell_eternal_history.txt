@@ -14137,3 +14137,6 @@ dir /s "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\"
 cmd  /c dir /s "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\"
 cmd  /c dir /s "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\" |clip
 code C:\Users\marti\OneDrive\Dokumenty\00-MM\edge-urls\select--1sync-data-dump-2026-11-21-1795299742755-Win32.csv
+& "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --help
+get-process -name msedge | select-object -expandproperty commandline
+get-process -name msedge | select-object -expandproperty commandline | clip

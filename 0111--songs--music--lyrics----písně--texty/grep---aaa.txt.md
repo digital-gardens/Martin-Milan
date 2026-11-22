@@ -110,12 +110,46 @@
 -  CAPO I 1.Pověste ho vejš, ať se houpá, pověste ho vejš, ať má dost. Pověste ho vejš, ať se houpá, že tu byl nezvanej ...
 -  Capo I., *Dmi*, 104 bpm 1. Posvátný je mi každý ráno Když ze sna budí šumící les A když se zvedám s ...
 -  Když máš srdce zjihlé, když máš potíže, tak dej cihlu k cihle, těsto do díže, upeč třeba chleba, postav třeba zeď, ...
+-  Chci dělat, co se nesmí, co je zakázané Chci, ať se spojí vesmír a potom vzplane Chci, ať ten oheň tančí, chci, ať ...
+-  *Emi* 1. Utrhla trávu a začla hrát, ta malá dáma z předměstí, co umí lidem z dlaní číst. Tam kočky z ...
 -  Twenty Five years and my life is still  
 -  That the world was made of this brotherhood of man  
 -  And So I cry sometimes when I'm lying in bed  
 -  So I wake in the morning and I step outside  
 - # And I try, oh my god do I try  
 - # stál jsem a hleděl jsem, hleděl jsem nahoru,  
+-  Your changes will take effect after you restart Microsoft Edge.
+-  Enables experimental support for Isolated Web Apps. See https://github.com/reillyeon/isolated-web-apps for more information. – Mac, Windows, Linux
+-  Enables websites to use the keyboard.lock() API to intercept system keyboard shortcuts and have the events routed directly to the website when in fullscreen mode. – Mac, Windows, Linux
+-  Automatically render all web contents using a dark theme. – Mac, Windows, Linux
+-  Treat given (insecure) origins as secure origins. Multiple origins can be supplied as a comma-separated list. Origins must have their protocol specified e.g. "http://example.com". For the definition of secure contexts, see https://w3c.github.io/webappsec-secure-contexts/ – Mac, Windows, Linux, Android
+-  Routes Windows agent-tagged launches into dedicated profiles hosted by an untagged browser process. – Windows
+-  Enables Generate Web Apps (GWA) to remix a group of web pages into a new web app with Copilot. – Mac, Windows, Linux
+-  When enabled, a Cowork agent can show a tab for review with an "I'm done" banner. Required by the Cowork review side panel. – Mac, Windows, Linux
+-  When enabled, clicking on Omnibox Grouped History suggestions will redirect users to the History Hub instead of immediately opening a Tab Group – Mac, Windows, Linux
+-  Shows History Clusters as a separate suggestion row – Mac, Windows, Linux
+- ## aaa Enables emoji support for workspaces, allowing users to pick an emoji as the workspace icon. – Mac, Windows, Linux
+- ### Enables the ability to switch between workspaces within a single browser window, without needing to open a new window for each workspace. – Mac, Windows, Linux
+- ## aaa Enable the ability to pin workspaces for quick access. Pinned workspaces will appear in the browser frame and at the top of the menu. – Mac, Windows, Linux
+-  Enables remote debugging of browser tabs over the local network through Windows Device Portal. – Windows
+- ###  Allows Windows to show open Microsoft Edge tabs in OS experiences like Alt + Tab, pinned sites, and more. – Windows
+-  Enables the exploratory Prompt API, allowing you to run natural language processing tasks by prompting the on-device small language model in Microsoft Edge. Exploratory APIs are designed for local prototyping only, to help discover potential use cases, and may never launch. The Prompt API is intended for natural language processing tasks such as summarizing, classifying, or rephrasing text. It is NOT suitable for use cases that require factual accuracy. Review the developer documentation [1] for intended use and Responsible AI guidance. Enabling this flag will override the On-device AI setting in edge://settings/ai. – Mac, Windows, Linux
+-  Enables the Summarizer API, allowing you to summarize text with the on-device small language model in Microsoft Edge. The API may be subject to changes including the supported options. Exploratory APIs are designed for local prototyping only, to help discover potential use cases, and may never launch. This API is NOT suitable for use cases that require factual accuracy (e.g. answering knowledge questions). Review the developer documentation [1] for intended use and Responsible AI guidance. Enabling this flag will override the On-device AI setting in 
+- ## edge://settings/ai . – Mac, Windows, Linux
+-  Enables the Writer API, allowing you to write a piece of text with the on-device small language model in Microsoft Edge. The API may be subject to changes including the supported options. Exploratory APIs are designed for local prototyping only, to help discover potential use cases, and may never launch. This API is NOT suitable for use cases that require factual accuracy (e.g. answering knowledge questions). Review the developer documentation [1] for intended use and Responsible AI guidance. Enabling this flag will override the On-device AI setting in edge://settings/ai. – Mac, Windows, Linux
+-  Enables the Decisions API (DecisionModel), allowing you to classify and make structured decisions about unstructured text over a developer-defined schema with the on-device small language model in Microsoft Edge. The - API may be subject to changes including the supported options. Exploratory APIs are designed for local prototyping only, to help discover potential use cases, and may never launch. This API is NOT suitable for use cases that require factual accuracy (e.g. answering knowledge questions). Review the developer documentation [1] for intended use and Responsible AI guidance. Enabling this flag will override the On-device AI setting in edge://settings/ai. – Mac, Windows, Linux
+- #### Enables on device AI model to log and save debug messages that can be shown in the internals page. – Mac, Windows, Linux, Android
+- ### Enables Copilot explanations for error messages in the DevTools Console. – Mac, Windows, Linux
+- ### Enables using Copilot in the Microsoft Edge Sidebar to explain HTML elements and CSS styles. – Mac, Windows, Linux
+-  Enables opening source files shown in DevTools in Visual Studio Code. – Mac, Windows, Linux
+- #### Enables privacy mitigations for the heavy ad intervention. Disabling this makes the intervention deterministic. Defaults to enabled. – Mac, Windows, Linux, Android
+-  Run the video capture service in the browser process. – Windows
+- ### Enables the Web Machine Learning Neural Network (WebNN) API. Spec at https://www.w3.org/TR/webnn/ – Mac, Windows, Linux, Android
+- ##### Enables the three-party verifier/holder/issuer identity model. – Mac, Windows, Linux, Android
+- #### Enables opening links from the browser in an installed PWA. Currently under reimplementation. – Mac, Windows, Linux
+-  Extends console.timestamp to support adding deep-links into the DevTools Performance Panel, which (when clicked) call into a DevTools extension – Mac, Windows, Linux
+- ### Enables the protocol monitor panel, which displays the DevTools Protocol (CDP) traffic between DevTools and the browser. – Mac, Windows, Linux, Android
+-  Enables instrumentation breakpoints in DevTools. – Mac, Windows, Linux, Android
 -  \*C\*, 145 bpm 1. Mám ploché nohy po tetě A fantazii po svém strýci Už dlouho šlapu po světě A nevím, co mám o něm ...  
 -  Since at least 2018, the order is [alphabetical, with periods and numbers coming before letters.](https://github.com/isaacs/github/issues/195)
 -  [ABBA (48)](https://www.yousongs.cz/interpret/600-ABBA.aspx?utm_source=&utm_medium=&utm_campaign=)   
@@ -126,6 +160,7 @@
 -  Virginia Woolf – A Room of One's Own
 -  ABBA  
 -  Bmp 97 Capo D-0 C-2 G-7 1. Déšť ti, holka, smáčel vlasy, smáčel vlasy z tvých očí zbyl prázdnej kruh, kde je ...  
+- 
 - - - - # gh\_martin12333
 - ### [Hana Zagorová - Můj čas - text](https://www.karaoketexty.cz/texty-pisni/zagorova-hana/muj-cas-4217)
 - ### [Můj čas - 1984 - 3:21](http://zagorovahana.cz/modules.php?name=Reviews&rop=showcontent&id=547)

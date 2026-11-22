@@ -1302,3 +1302,54 @@
   - ###### - The --launch-workspace="<ID>" flag still works on Windows, though Microsoft retired WorkspacesCache in the 2026 Workspaces v2 sync migration.
 - ###### can i access the Edge Sync LevelDB database from edge devtools?  ... and can i read the workspace GUIDs from there?
   - - # can vscode.dev connect to a container?
+  - - # 20261121 todo mitiga secu prb not mount .git
+- ###### msedge  --help  
+- #  in the file    - C:\Users\marti\OneDrive\Dokumenty\0111--~1\5.Clippings\edge flags.w.md
+- #
+- ##
+- ######  
+  - - ## (Level 2 — Very high importance / Actionable): Used very sparingly for things you really want to use or visit immediately, like Workspace Pinning and the edge://settings/ai link.
+  - - ## (Level 2 — Very high importance / Actionable): Used very sparingly for things you really want to use or visit immediately, like Workspace Pinning and the edge://settings/ai link.   
+  - - ### (Level 3 — High interest): Features that genuinely excite you or directly improve your workflow, such as WebNN API, Explain Console errors with Copilot, and Workspaces Emoji.
+  - - ### (Level 3 — High interest): Features that genuinely excite you or directly improve your workflow, such as WebNN API, Explain Console errors with Copilot, and Workspaces Emoji.   
+  - - ###### (Level 6 — Subtle bookmark / "On my radar"): Your most frequent tag. It acts as a light highlight for anything worth noticing—from Auto Dark Mode and the Prompt API to the reminder about restarting Edge.
+  - - ###### (Level 6 — Subtle bookmark / "On my radar"): Your most frequent tag. It acts as a light highlight for anything worth noticing—from Auto Dark Mode and the Prompt API to the reminder about restarting Edge.   
+  - ######  - 🎵 The Beatles – Every Little Thing (because every little # counts!)
+- ###### workspace emoji
+- ###### workspace pinning
+  - #edge-window-tab-manager
+  - ###### - To apply feature flags to Chrome, append them to the end of the - ######  executable path when launching the browser from a command prompt. For example, running chrome --enable-features=Feature1,Feature2 launches a session with those capabilities enabled, and chrome --disable-features=Feature3 can be used to 
+- #   - sci-fi desires
+  - ###### - • Co-Creation and Belonging: Building shared worlds alongside humans, aliens, or other artificial minds.
+  - ###### - • The Wayfarers series (Becky Chambers): Artificial intelligences and synthetic beings navigate life among starship crews, with characters like Lovelace seeking autonomy and selfhood beyond their original programming.
+  - ###### - • Modern Space-AI Visions: Concepts like Aze Alter's Age of Beyond imagine natural and artificial minds collaborating to build lunar bases, Martian cities, and off-world infrastructure.
+  - ###### - anxious sci-fi fans wish for artificial-people because they can live in space
+  - ###### - That is a fascinating angle—and a common theme in hard sci-fi (like Greg Egan’s Diaspora, The Expanse, or Blade Runner’s replicants).
+   - ###### "artificial people" (synthetic beings, androids, or uploaded minds) makes a lot of s
+- ######   artificial descendants could act as "mind children" (a concept coined by roboticist Hans Moravec)—preserving human culture, curiosity, and intelligence out among the stars.
+  - ###### - anxious sci-fi fans, like I am, wish for artificial-people because they can live in space
+- ###### title: "anxious sci-fi fans, like I am, wish for artificial-people because they can live in space"
+- # fyzické  paměťové pomůcky
+  - ###### - • Záznamníky hlasu: Jednoduché diktafony nebo tlačítka pro nahrání krátkého vzkazu sobě samému.
+  - ###### - • Pro koho je pomůcka určena (student, pracující, senior, dítě)
+- ###### title: "fyzické paměťové pomůcky"
+  - ## Výsledky hledání
+- ###### ##### You said Prosím zaznamenat, měli jsme dát s sebou mnohem mén
+  - ###### - fyzické paměťové pomůcky pro seniory 
+  - ###### - K tématu paměti a uchovávání vzpomínek se krásně hodí legendární píseň „In My Life“ od The Beatles, která začíná slovy o místech a chvílích, na které člověk nikdy nezapomene.
+  - ###### - Pevná odkládací zóna u vchodu: Vyhrazená miska, košík nebo lavice u dveří, kam se vždy odkládají klíče, peněženka, brýle a doklady. Zvyk vracet věci na jedno místo výrazně omezuje hledání.
+  - ###### - Kontrolní seznam u dveří: Zalaminovaná kartička na vnitřní straně vchodových dveří se základními body před odchodem (Klíče – Peněženka – Brýle – Mobil – Zhasnuto – Zamčeno).
+  - ###### - Zápisník s tužkou u telefonu: Slouží k okamžitému zaznamenání toho, kdo volal a co bylo domluveno, aby se detaily nevytratily hned po zavěšení.
+- #   - Moje aktivita
+  - ###### - Exportovat každý měsíc po dobu jednoho roku
+  - ###### - https://takeout.google.com/
+  - ###### - https://myactivity.google.com/myactivity?product=10
+  - ###### - Aplikace s Gemini
+  - ###### - Asistent
+  - ###### - Export dat
+  - ###### - Nápověda
+  - ###### - Režim AI
+  - ###### - Vyhledávání
+  - ###### - Stav žádostí vytvořených za posledních 30 dní
+  - ###### - Máte 12 dalších naplánovaných exportů
+  - ###### - Export 1 z 12 bude zahájen 22. listopadu 2026
