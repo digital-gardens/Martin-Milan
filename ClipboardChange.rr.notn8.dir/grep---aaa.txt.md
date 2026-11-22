@@ -1353,3 +1353,15 @@
   - ###### - Stav žádostí vytvořených za posledních 30 dní
   - ###### - Máte 12 dalších naplánovaných exportů
   - ###### - Export 1 z 12 bude zahájen 22. listopadu 2026
+  - ###### - Na obrázku je Průvodka eReceptu vystavená dne **19. .
+  - ###### - Pokyn Neměli jsme dávat s sebou přezůvky.
+- ###### {"contentMetadata":{"tag":"","toolAttribution":{"displayName":"Google Keep","logoUri":"https://www.gstatic.com/images/branding/productlogos/keep_2026/v2/web-96dp/logo_keep_2026_color_2x_web_96dp.png","headerUri":"https://keep.google.com/","toolName":"google_keep","androidHeaderUri":""}},"isErrorCa
+- ###### title: "Moje historie aktivity"
+- ###### source: "file:///C:/Users/marti/OneDrive/Dokumenty/0111--songs--music--lyrics----p%C3%ADsn%C4%9B--texty/09-rodina.r8.dir/takeout-20261122T181732Z-1-001/Moje%20aktivita/Aplikace%20s%C2%A0Gemini/MojeAktivita.html"
+  - ###### - https://myactivity.google.com/myactivity?product=10
+  - ###### - https://takeout.google.com/manage?preauthUserSessionId=0&profile=CgYKBGtlZXASA1pJUCABMICAgIAIOAFIAVoBMA%3D%3D&rapt=AEjHL4O46UgxhB0qRpWasQuFx-swMb5-7wFJRTjsjt1C_13O4ji7OBK__DFAeNLkdXmhOa5oZm_bfFt5RDaBd2p3gOVwwnQv1FKPgUy9he908ZImRkbBmcw
+  - ###### - My Activity content options
+  - ###### - Choose specific Activity data for your export
+  - ###### - AI Mode
+  - ######- Assistant
+  - ###### - Gemini Apps

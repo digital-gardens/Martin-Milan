@@ -51,7 +51,15 @@ pwd
 #
 
 
-grep      -R     -E  -i       --no-filename      '^ *[-] [- ]*[#]+'     .  	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-obsi-clippi--.txt.md"
+
+
+
+echo 20261122 COMMENT OUT GREP 11c3 BECAUSE TAKEOUT BIG FILES ARE TOO SLOW TO PROCESS
+#grep      -R     -E  -i       --no-filename      '^ *[-] [- ]*[#]+'     .  	 >"C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\grep-obsi-clippi--.txt.md"
+
+
+
+
 
 
    #  | sed -E 's/^( *[-] +)[#]{6,}/\1/'  |  sed -E 's/^( *[-] +)(.{0,10}[#]a{5})/\1 ### \2/'

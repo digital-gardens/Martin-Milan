@@ -3835,3 +3835,18 @@ pwsh
 find . -type f -name ".gitignore" | wc -l
 bash
 pwsh
+cmd /c dir /?
+cmd /c dir /x  C:\Users\marti\OneDrive\Dokumenty\00-MM
+cmd /c dir /x  C:\Users\marti\OneDrive\o*
+cmd /c dir /x  C:\Users\marti\OneDrive\o*|clip
+cmd /c dir /x  C:\Users\marti\OneDrive\Dokumenty\00-MM|clip
+code C:\Users\marti\OneDrive\ps-mylen-mar\mystartup.ps1
+#pwsh
+#$PSVersionTable
+pwsh
+Get-Content "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\WorkspacesCache"
+totalcmd "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\`
+`
+"
+totalcmd "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\"
+pwsh
