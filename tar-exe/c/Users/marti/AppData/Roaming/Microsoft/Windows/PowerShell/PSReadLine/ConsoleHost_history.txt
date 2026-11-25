@@ -3850,3 +3850,7 @@ totalcmd "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\`
 "
 totalcmd "$env:LOCALAPPDATA\Microsoft\Edge\User Data\Default\Workspaces\"
 pwsh
+cmd /c dir /b %USERPROFILE%\.vscode\extensions > extensions.txt
+$items = Get-Content 'c:\Users\marti\OneDrive\Dokumenty\00-MM\vscode.dev-for-the-web\extensions.txt' | ForEach-Object { $_.Trim() } | Where-Object { $_ -and $_ -notmatch '^\.' -and $_ -ne 'extensions.json' -and $_ -match '^[^.]+\.[^.]+-' }; $ids = $items | ForEach-Object { if ($_ -match '-(?=\d)') { $_.Substring(0, $_.IndexOf($Matches[0])) } else { $_ } } | Sort-Object -Unique; $ids | ConvertTo-Json -Compress
+$items = Get-Content 'c:\Users\marti\OneDrive\Dokumenty\00-MM\vscode.dev-for-the-web\extensions.txt' | ForEach-Object { $_.Trim() } | Where-Object { $_ -and $_ -notmatch '^\.' -and $_ -ne 'extensions.json' -and $_ -match '\.' }; $ids = $items | ForEach-Object { $_ -replace '-(?=[0-9]).*$', '' } | Sort-Object -Unique; $ids | ConvertTo-Json -Compress
+$items = Get-Content 'c:\Users\marti\OneDrive\Dokumenty\00-MM\vscode.dev-for-the-web\extensions.txt' | ForEach-Object { $_.Trim() } | Where-Object { $_ -match '^[A-Za-z0-9_-]+\.[A-Za-z0-9_.-]+$' }; $ids = $items | ForEach-Object { $_ -replace '-(?=[0-9]).*$', '' } | Sort-Object -Unique; $ids.Count; $ids

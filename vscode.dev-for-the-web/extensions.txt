@@ -1,0 +1,179 @@
+- # vscode extension list .. i would like to add the list of all my installed extensions .. to the list of recommended extensions in an experimental workspace
+i can get
+cmd /c dir /b %USERPROFILE%\.vscode\extensions > extensions.txt
+but i will have to strip the version numbers probably?
+
+
+.init-default-profile-extensions
+.obsolete
+alhassy.easy-extensibility-1.2.11
+amodio.tsl-problem-matcher-0.6.2
+arturodent.find-and-transform-5.3.7
+ban.spellright-3.0.148
+benrogerswpg.websearchengine-6.14.6
+bhughes339.replacerules-0.4.2
+bierner.emojisense-0.10.0
+clptn.code-paredit-0.1.1
+cstrap.python-snippets-0.1.2
+ctf0.command-autolink-0.0.5
+cubicle6.scriptbox-8.5.0
+d3v.pastespecial-0.9.1
+datasert.vscode-texty-1.1.2
+dbaeumer.vscode-eslint-3.0.24
+docsmsft.docs-markdown-1.0.10
+docsmsft.docs-markdown-1.0.17
+esbenp.prettier-vscode-12.4.0
+experim-new-langu-supp--junct
+extensions.json
+fabiospampinato.vscode-highlight-2.1.0
+foam.foam-vscode-0.28.3
+formulahendry.code-runner-0.12.2
+github.vscode-pull-request-github-0.146.0
+hello-executecommand--junct
+jacobdufault.fuzzy-search-0.0.3
+jeff-hykin.macro-commander-1.6.0
+jroesch.lean-0.16.60
+kortina.vscode-markdown-notes-0.0.27
+m1self.facil-extensibility-1.2.14
+mads-hartmann.bash-ide-vscode-1.43.0
+mattn.lisp-0.1.12
+mechatroner.rainbow-csv-3.12.0
+mmon1
+ms-azure-devops.azure-pipelines-1.261.1
+ms-azuretools.vscode-containers-2.4.4
+ms-azuretools.vscode-docker-2.0.0
+ms-dotnettools.csharp-2.140.8-win32-x64
+ms-dotnettools.dotnet-interactive-vscode-1.0.5229040
+ms-dotnettools.dotnet-interactive-vscode-1.0.6323010
+ms-dotnettools.vscode-dotnet-runtime-3.0.2
+ms-edgedevtools.vscode-edge-devtools-2.1.10
+ms-python.debugpy-2024.10.0-win32-x64
+ms-python.python-2024.12.2-win32-x64
+ms-python.vscode-pylance-2026.2.1
+ms-toolsai.jupyter-2024.7.0-win32-x64
+ms-toolsai.jupyter-keymap-1.1.2
+ms-toolsai.jupyter-renderers-1.0.19
+ms-toolsai.vscode-jupyter-cell-tags-0.1.9
+ms-toolsai.vscode-jupyter-slideshow-0.1.6
+ms-vscode-remote.remote-wsl-0.104.3
+ms-vscode.azure-account-0.11.0
+ms-vscode.cmake-tools-1.23.52
+ms-vscode.cpp-devtools-0.5.13
+ms-vscode.cpptools-extension-pack-1.5.1
+ms-vscode.cpptools-themes-2.0.0
+ms-vscode.hexeditor-1.11.1
+ms-vscode.makefile-tools-0.12.17
+ms-vscode.powershell-2025.4.0
+ms-vsliveshare.vsliveshare-1.1.122
+msrvida.vscode-sanddance-4.2.0
+redhat.vscode-commons-0.0.6
+redhat.vscode-didact-0.4.1
+redhat.vscode-yaml-1.23.0
+remisa.shellman-5.7.0
+ritwickdey.liveserver-5.7.10
+rowewilsonfrederiskholme.wikitext-4.0.4
+rucne--justusadam.language-haskell-3.6.0
+shaunlebron.vscode-parinfer-0.6.2
+sjhuangx.vscode-scheme-0.4.0
+slevesque.shader-1.1.5
+streetsidesoftware.code-spell-checker-4.5.6
+tabnine.tabnine-vscode-3.335.0
+twxs.cmake-0.0.17
+undermywheel.roblox-lua-1.0.5
+vanadium23.markdown-hashtags-2.0.1
+visualstudioexptteam.vscodeintellicode-1.2.22
+vsls-contrib.codetour-0.0.61
+wallabyjs.quokka-vscode-1.0.762
+yzhang.markdown-all-in-one-3.6.3
+
+
+
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+
+y		"alhassy.easy-extensibility",
+		"amodio.tsl-problem-matcher",
+y		"arturodent.find-and-transform",
+		"ban.spellright",
+		"benrogerswpg.websearchengine",
+y		"bhughes339.replacerules",
+		"bierner.emojisense",
+		"clptn.code-paredit",
+y		"cstrap.python-snippets",
+y		"ctf0.command-autolink",
+y		"cubicle6.scriptbox",
+		"d3v.pastespecial",
+y		"datasert.vscode-texty",
+		"dbaeumer.vscode-eslint",
+		"docsmsft.docs-markdown",
+		"esbenp.prettier-vscode",
+
+
+
+yyy		"fabiospampinato.vscode-highlight",
+yy		"foam.foam-vscode",
+		"formulahendry.code-runner",
+		"github.vscode-pull-request-github",
+yyyy		"jacobdufault.fuzzy-search",
+y		"jeff-hykin.macro-commander",
+		"jroesch.lean",
+y		"kortina.vscode-markdown-notes",
+		"m1self.facil-extensibility",
+		"mads-hartmann.bash-ide-vscode",
+		"mattn.lisp",
+yy		"mechatroner.rainbow-csv",
+		"ms-azure-devops.azure-pipelines",
+		"ms-azuretools.vscode-containers",
+		"ms-azuretools.vscode-docker",
+		"ms-dotnettools.csharp",
+		"ms-dotnettools.dotnet-interactive-vscode",
+		"ms-dotnettools.vscode-dotnet-runtime",
+		"ms-edgedevtools.vscode-edge-devtools",
+		"ms-python.debugpy",
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+y		"msrvida.vscode-sanddance",
+		"ms-toolsai.jupyter",
+		"ms-toolsai.jupyter-keymap",
+		"ms-toolsai.jupyter-renderers",
+		"ms-toolsai.vscode-jupyter-cell-tags",
+		"ms-toolsai.vscode-jupyter-slideshow",
+		"ms-vscode.azure-account",
+		"ms-vscode.cmake-tools",
+		"ms-vscode.cpp-devtools",
+		"ms-vscode.cpptools-extension-pack",
+		"ms-vscode.cpptools-themes",
+y		"ms-vscode.hexeditor",
+		"ms-vscode.makefile-tools",
+		"ms-vscode.powershell",
+		"ms-vscode-remote.remote-wsl",
+y		"ms-vsliveshare.vsliveshare",
+		"redhat.vscode-commons",
+		"redhat.vscode-didact",
+		"redhat.vscode-yaml",
+		"remisa.shellman",
+		"ritwickdey.liveserver",
+		"rowewilsonfrederiskholme.wikitext",
+		"rucne--justusadam.language-haskell",
+		"shaunlebron.vscode-parinfer",
+		"sjhuangx.vscode-scheme",
+		"slevesque.shader",
+		"streetsidesoftware.code-spell-checker",
+		"tabnine.tabnine-vscode",
+		"twxs.cmake",
+		"undermywheel.roblox-lua",
+yy		"vanadium23.markdown-hashtags",
+		"visualstudioexptteam.vscodeintellicode",
+		"vsls-contrib.codetour",
+		"wallabyjs.quokka-vscode",
+		"yzhang.markdown-all-in-one"
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+
+	]
+}
