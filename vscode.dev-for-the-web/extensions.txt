@@ -114,6 +114,9 @@ y		"datasert.vscode-texty",
 
 
 
+esbenp.prettier-vscode
+
+
 yyy		"fabiospampinato.vscode-highlight",
 yy		"foam.foam-vscode",
 		"formulahendry.code-runner",

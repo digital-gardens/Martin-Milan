@@ -16,7 +16,7 @@
 
 - // AI, prosím přeložit do češtiny   // Rodinný Digitální Krizový Plán
 
-- // darek k Vanocum ...
+- # // darek k Vanocum ...
   -  zkouset, zda tento dokument jim jde otevrit pomocí odkazu v Google chat skupine / 250825 meta informace
     - i na mobilu
     - doufam, že je to jediny odkaz z te skupiny
@@ -93,17 +93,41 @@ https://code.visualstudio.com/docs/languages/markdown#_markdown-preview-security
 
 https://onedrive.live.com/?id=%2Fpersonal%2F4b12298d932a2860%2FDocuments%2FDokumenty
 
-link shared with the group : your family ..
-people you choose can view ..
+ ## link shared with the group : your family ..
+- ###### people you choose can view ..
 "C:\Users\marti\OneDrive\Dokumenty\0000000004\2025-11-23_05h27_39.png"
+
 
 https://keep.google.com/u/0/#NOTE/1Ast_a0ulo7BX3vXWSbgnXlHWnuCXqykLdikkF7aC2yYDNx5ENfcHP3_RKttayw
 251122
 https://account.microsoft.com/family/home
 
 
+platím Google disk... nejlevnější tarif je 100GB pro 6 lidí
+
+edit pozn. také platím Microsoft 365.. nejlevnější tarif je pro 6 lidí
+velky onedrive
+https://support.microsoft.com/en-us/onedrive/how-to-detect-ransomware-and-recover-files-using-onedrive
+  - # - https://onedrive.live.com/sharedbyyou
+  - # - https://onedrive.live.com/shared
+  - # - https://account.microsoft.com/family/home
+
+----------------
+  -   - Add a family member
+r8
+  -------------
+  
+začal jsem platit Google Gemini ai...nejlevnější tarif je  pro 6 lidí
+
+ale filosofové by se měli zdravit slovy.. take your time.. což snad znamená.. nespěchám na Tebe 
+//bliss symbol pro odpočinek_💚_
+@
 
 
+
+
+
+# rps ℹ️ℹ️ℹ️ℹ️ dle filosofie dr. Praška a antifragility ... možná se rodina pro příštích 50 let trochu posílila ...
 
 
 
@@ -303,7 +327,7 @@ also a distantly related topic: digital emergency plans
 
 
 
-- ℹ️ ......songs, písně ,Tumša nakte, zaļa zāle Laukā laidu kumeliņu
+- # ℹ️ ......songs, písně ,Tumša nakte, zaļa zāle Laukā laidu kumeliņu
 01x-02x-03x-06x-07x
 
 

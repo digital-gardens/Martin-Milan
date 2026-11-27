@@ -1,13 +1,13 @@
   - - # #bug BOM
 - # ^a ^c 255 chars 
-- #    ||: repeatSpace :||
+- #    ||: rps - repeatSpace - :||
 - # // ℹ️ℹ️🆘⚠️ before ..AI Cowork ..User really should TURN OFF .rrr.AUTO-CLICK .rrr IN RSIGUARD 20261017
 - #  //// links for M.M. .. file:///C:\Users\marti\OneDrive\Dokumenty\00-MM\ClipboardChange.rr.notn8.dir\
 - # --- todo slightly increase the 255
 
 
 
-- # ||: .repeatSpace // .0111.ddk.rrr 🎵 :||
+- # ||: .repeatSpace // .0111.ddk.rrr 🎵🌬️😮‍💨️😤😡😮‍💨 :||
 - # .0111.ddk.rrr 
 - # .0111.rr 
 
