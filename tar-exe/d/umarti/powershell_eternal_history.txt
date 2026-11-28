@@ -14140,3 +14140,5 @@ code C:\Users\marti\OneDrive\Dokumenty\00-MM\edge-urls\select--1sync-data-dump-2
 & "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --help
 get-process -name msedge | select-object -expandproperty commandline
 get-process -name msedge | select-object -expandproperty commandline | clip
+mkdir skill-md---okf-bundle---related
+bash
